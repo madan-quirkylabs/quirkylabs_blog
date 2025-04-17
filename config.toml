@@ -1,4 +1,45 @@
-baseURL = 'https://blog.quirkylabs.ai/'
-languageCode = 'en-us'
-title = 'Netlify + Hugo Quickstart'
-theme = 'netlify-basic'
+baseURL = "https://blog.quirkylabs.ai/"
+title = "QuirkyLabs Blog"
+theme = "PaperMod"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+
+[pagination]
+  pagerSize = 5
+
+[params]
+  env = "production"
+  title = "QuirkyLabs Blog"
+  description = "Science-backed, playful insights on ADHD and focus"
+  keywords = ["ADHD", "focus", "productivity", "mental health"]
+  author = "QuirkyLabs"
+  defaultTheme = "auto" # auto | dark | light
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = false
+  comments = false
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "adhd-test"
+    name = "Take the ADHD Test"
+    url = "https://quirkylabs.ai"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "posts"
+    name = "Blog"
+    url = "/posts/"
+    weight = 3
+
+[markup]
+  [markup.highlight]
+    noClasses = false

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Focus on Netlify &#43; Hugo Quickstart</title>
+    <title>Focus on QuirkyLabs Blog</title>
     <link>http://localhost:1313/tags/focus/</link>
-    <description>Recent content in Focus on Netlify &#43; Hugo Quickstart</description>
-    <generator>Hugo</generator>
+    <description>Recent content in Focus on QuirkyLabs Blog</description>
+    <generator>Hugo -- 0.146.5</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 17 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/focus/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <link>http://localhost:1313/posts/welcome-adhd-awareness/</link>
       <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/welcome-adhd-awareness/</guid>
-      <description>&lt;p&gt;👋 &lt;strong&gt;Hey there — welcome to QuirkyLabs!&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;If you’ve ever found yourself:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Constantly &lt;strong&gt;overwhelmed&lt;/strong&gt;, but can’t pinpoint why&amp;hellip;&lt;/li&gt;&#xA;&lt;li&gt;Forgetting important things no matter how hard you try&amp;hellip;&lt;/li&gt;&#xA;&lt;li&gt;Feeling &lt;strong&gt;unmotivated&lt;/strong&gt;, distracted, or stuck in a cycle of guilt and procrastination&amp;hellip;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;You’re not alone.&lt;br&gt;&#xA;In fact, you may be dealing with something more than just “bad habits” or “low energy.”&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-could-it-be-adhd&#34;&gt;🧠 Could It Be ADHD?&lt;/h2&gt;&#xA;&lt;p&gt;ADHD isn’t just a childhood condition.&lt;br&gt;&#xA;For many adults, it shows up as:&lt;/p&gt;</description>
+      <description>Welcome to the QuirkyLabs ADHD blog — a place for self-discovery, clarity, and science-backed tools. Take our free DSM-5 ADHD test to begin your journey.</description>
     </item>
   </channel>
 </rss>
