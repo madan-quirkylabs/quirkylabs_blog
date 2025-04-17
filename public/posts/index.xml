@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Netlify &#43; Hugo Quickstart</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Netlify &#43; Hugo Quickstart</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to QuirkyLabs: Struggling with Focus, Motivation, or ADHD? Start Here.</title>
+      <link>http://localhost:1313/posts/welcome-adhd-awareness/</link>
+      <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/welcome-adhd-awareness/</guid>
+      <description>&lt;p&gt;👋 &lt;strong&gt;Hey there — welcome to QuirkyLabs!&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;If you’ve ever found yourself:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Constantly &lt;strong&gt;overwhelmed&lt;/strong&gt;, but can’t pinpoint why&amp;hellip;&lt;/li&gt;&#xA;&lt;li&gt;Forgetting important things no matter how hard you try&amp;hellip;&lt;/li&gt;&#xA;&lt;li&gt;Feeling &lt;strong&gt;unmotivated&lt;/strong&gt;, distracted, or stuck in a cycle of guilt and procrastination&amp;hellip;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;You’re not alone.&lt;br&gt;&#xA;In fact, you may be dealing with something more than just “bad habits” or “low energy.”&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-could-it-be-adhd&#34;&gt;🧠 Could It Be ADHD?&lt;/h2&gt;&#xA;&lt;p&gt;ADHD isn’t just a childhood condition.&lt;br&gt;&#xA;For many adults, it shows up as:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
