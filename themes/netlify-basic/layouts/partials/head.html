@@ -7,6 +7,8 @@
   {{ if .IsHome }}{{ $title = .Site.Title }}{{ end }}
   <title>{{ $title }}</title>
 
+  <meta name="google-site-verification" content="m0tbE6PTppd2nhVxIztTLwUmE9fvrqnhJ7JwLRUwX6M" />
+
   <!-- Basic Meta -->
   <meta name="description" content="{{ with .Params.description }}{{ . }}{{ else }}Science-backed ADHD blog, tips, and tools from QuirkyLabs.{{ end }}">
   <meta name="keywords" content="{{ with .Params.tags }}{{ delimit . ", " }}{{ else }}ADHD, focus, mental health, productivity{{ end }}">
