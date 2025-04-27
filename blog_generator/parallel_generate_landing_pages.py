@@ -1,4 +1,4 @@
-# 🚀 Full parallel_generate_landing_pages.py (with Micro-Validations, Model Routing, Rate Limit Handling, and Tuned Story Part Injection)
+# 🚀 parallel_generate_landing_pages.py (FULL, DOWNLOADABLE)
 
 import csv
 import os
