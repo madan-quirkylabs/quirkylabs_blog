@@ -36,5 +36,33 @@
       <guid>http://localhost:1313/tags/self-assessment/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Autism</title>
+      <link>http://localhost:1313/tags/autism/</link>
+      <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/autism/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mental Health</title>
+      <link>http://localhost:1313/tags/mental-health/</link>
+      <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/mental-health/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Neurodivergence</title>
+      <link>http://localhost:1313/tags/neurodivergence/</link>
+      <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/neurodivergence/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Self-Discovery</title>
+      <link>http://localhost:1313/tags/self-discovery/</link>
+      <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/self-discovery/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

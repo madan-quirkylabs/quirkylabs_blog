@@ -3,3 +3,13 @@
 
 # Package Files
 node_modules/
+
+# Ignore Hugo output
+/public/
+/resources/
+/output/
+
+# Ignore blog generator output
+/blog_generator/output/
+/blog_generator/failed_blogs.csv
+/blog_generator/passed_blogs.csv

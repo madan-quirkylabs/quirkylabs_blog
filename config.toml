@@ -40,6 +40,12 @@ defaultContentLanguage = "en"
     url = "/posts/"
     weight = 3
 
+  [[menu.main]]
+    identifier = "guides"
+    name = "Guides"
+    url = "/pages/"
+    weight = 4
+
 [markup]
   [markup.highlight]
     noClasses = false

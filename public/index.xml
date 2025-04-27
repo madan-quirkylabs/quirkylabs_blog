@@ -15,5 +15,12 @@
       <guid>http://localhost:1313/posts/welcome-adhd-awareness/</guid>
       <description>Welcome to the QuirkyLabs ADHD blog — a place for self-discovery, clarity, and science-backed tools. Take our free DSM-5 ADHD test to begin your journey.</description>
     </item>
+    <item>
+      <title>ADHD vs Autism: Key Differences, Overlaps, and How They Feel</title>
+      <link>http://localhost:1313/pages/adhd-vs-autism/</link>
+      <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pages/adhd-vs-autism/</guid>
+      <description>Confused about ADHD vs Autism? Discover how they overlap, differ, and what it means for you. Gentle, hopeful guidance. Free ADHD quiz included.</description>
+    </item>
   </channel>
 </rss>
