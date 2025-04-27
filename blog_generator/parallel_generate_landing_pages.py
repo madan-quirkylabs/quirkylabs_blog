@@ -125,8 +125,16 @@ def quality_check(blog_content, prompts_dict, topic):
     return structural_report, topic_report
 
 def generate_meta_description(topic, primary_keyword):
-    prompt = f"Write a short, playful meta description under 155 characters for a blog about '{topic}'. Include the keyword '{primary_keyword}' naturally. Make it feel cozy and intriguing."
-    system_instruction = "Generate an SEO meta description under 155 characters with playful, ADHD-friendly tone. Include keyword naturally."
+    prompt = (
+        f"Write an SEO-optimized meta description (under 155 characters) "
+        f"for a blog post about '{topic}'. It should clearly state what the post covers, "
+        f"include the keyword '{primary_keyword}' naturally, and feel cozy but clear."
+    )
+    system_instruction = (
+        "Generate a vivid, ADHD-friendly, SEO-optimized meta description under 155 characters. "
+        "Focus on clarity and keyword relevance first, coziness second. "
+        "Meta description must be clear enough to improve Google click-through rates (CTR)."
+    )
     return call_openai(prompt, system_instruction)
 
 def assemble_blog(sections):
