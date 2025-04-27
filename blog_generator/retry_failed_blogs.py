@@ -1,46 +1,53 @@
-# retry_failed_blogs.py
+# 🚀 Updated retry_failed_blogs.py (Strict Mode Compatible)
 
 import csv
 import os
-from parallel_generate_landing_pages import process_blog, load_json, create_output_dirs
+from parallel_generate_landing_pages import process_blog, load_json, create_output_dirs, PROMPTS_FILE
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 # --- CONFIGURATION ---
 FAILED_LOG = "output/failed_blogs.csv"
-PROMPTS_FILE = "quirkylabs_section_prompts.json"
-OUTPUT_DIR = "output/landing_pages/"
-SAFE_SLEEP_SECONDS = 1.5
+RETRY_FAILED_LOG = "output/retried_failed_blogs.csv"
+MAX_BLOGS_IN_PARALLEL = 3
 
+# --- Updated Helper Function ---
 def load_failed_blogs():
     if not os.path.exists(FAILED_LOG):
-        print("❌ No failed_blogs.csv found. Nothing to retry.")
+        print("No failed blogs found to retry.")
         return []
-    
     with open(FAILED_LOG, 'r', encoding='utf-8') as csvfile:
         reader = csv.DictReader(csvfile)
         return list(reader)
 
-def retry_failed():
+def log_retry_failed_blog(row, reason):
+    header = not os.path.exists(RETRY_FAILED_LOG)
+    with open(RETRY_FAILED_LOG, 'a', newline='', encoding='utf-8') as csvfile:
+        fieldnames = ['Topic', 'Slug', 'Reason']
+        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+        if header:
+            writer.writeheader()
+        writer.writerow({'Topic': row['Topic'], 'Slug': row['Slug'], 'Reason': reason})
+
+# --- Main Retry Logic ---
+def retry_failed_blogs():
     create_output_dirs()
     prompts_dict = load_json(PROMPTS_FILE)
-    failed_blogs = load_failed_blogs()
+    failed_rows = load_failed_blogs()
 
-    if not failed_blogs:
+    if not failed_rows:
         print("✅ No failed blogs to retry.")
         return
 
-    for row in failed_blogs:
-        print(f"🔄 Retrying blog: {row['Topic']}")
-        minimal_row = {
-            "Topic": row['Topic'],
-            "Slug": row['Slug'],
-            "Primary Keyword": row['Topic'],  # fallback if keyword missing
-            "Meta Title": row['Topic'],
-            "Meta Description": f"Learn more about {row['Topic']} with QuirkyLabs!",
-            "Keywords": row['Topic']
-        }
-        process_blog(minimal_row, prompts_dict)
+    print(f"\n🔄 Retrying {len(failed_rows)} failed blogs...")
 
-    print("✅ Retry process completed.")
+    with ThreadPoolExecutor(max_workers=MAX_BLOGS_IN_PARALLEL) as executor:
+        futures = []
+        for row in failed_rows:
+            futures.append(executor.submit(process_blog, row, prompts_dict))
+        for _ in as_completed(futures):
+            pass
+
+    print("\n🎯 Retry process completed.")
 
 if __name__ == "__main__":
-    retry_failed()
+    retry_failed_blogs()
