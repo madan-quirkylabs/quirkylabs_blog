@@ -1,30 +1,36 @@
-# 🚀 parallel_generate_landing_pages.py (FULL, DOWNLOADABLE)
+# 🚀 QuirkyLabs Blog Generator - Fully Repaired + JSON Logging Version (with Guaranteed Output Saving)
 
 import csv
 import os
 import time
 import random
 import json
+import re
 from datetime import datetime, timezone
 from openai import OpenAI
 from dotenv import load_dotenv
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import textstat
-import re
 
 # --- CONFIGURATION ---
-MODEL_GENERATION = "gpt-4"
-MODEL_VALIDATION = "gpt-4o"
+MODEL = "gpt-4"
 TEST_MODE = True
-STRICT_MODE = True
 INPUT_CSV = "sample_input.csv"
 OUTPUT_DIR = "output/landing_pages/"
 FAILED_LOG = "output/failed_blogs.csv"
 PASSED_LOG = "output/passed_blogs.csv"
 PROMPTS_FILE = "quirkylabs_section_prompts.json"
-MAX_RETRIES = 3
+LOGS_DIR = "output/logs/"
+MAX_RETRIES = 2
 MAX_BLOGS_IN_PARALLEL = 3
+MAX_SECTIONS_IN_PARALLEL = 5
 SAFE_SLEEP_SECONDS = 1.5
+VERBOSE_LOGGING = True
+
+# --- Initialize OpenAI Client ---
+load_dotenv()
+openai_api_key = os.getenv("OPENAI_API_KEY")
+client = OpenAI(api_key=openai_api_key)
 
 # --- External ADHD Resources ---
 EXTERNAL_LINKS = [
@@ -37,12 +43,11 @@ EXTERNAL_LINKS = [
     ("See ADHD research at NIH", "https://www.nimh.nih.gov/health/topics/attention-deficit-hyperactivity-disorder-adhd")
 ]
 
-# --- Initialize OpenAI Client ---
-load_dotenv()
-openai_api_key = os.getenv("OPENAI_API_KEY")
-client = OpenAI(api_key=openai_api_key)
-
 # --- Helper Functions ---
+
+def verbose_print(msg):
+    if VERBOSE_LOGGING:
+        print(msg)
 
 def load_json(filepath):
     with open(filepath, 'r', encoding='utf-8') as f:
@@ -52,6 +57,7 @@ def create_output_dirs():
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     os.makedirs(os.path.dirname(FAILED_LOG), exist_ok=True)
     os.makedirs(os.path.dirname(PASSED_LOG), exist_ok=True)
+    os.makedirs(LOGS_DIR, exist_ok=True)
 
 def log_failed_blog(row, reason):
     header = not os.path.exists(FAILED_LOG)
@@ -71,67 +77,88 @@ def log_passed_blog(row):
             writer.writeheader()
         writer.writerow({'Topic': row['Topic'], 'Slug': row['Slug']})
 
-def model_router(task_type):
-    if task_type == "generation":
-        return MODEL_GENERATION
-    elif task_type == "validation":
-        return MODEL_VALIDATION
-    else:
-        return MODEL_GENERATION
+def save_json_log(slug, log_obj):
+    filepath = os.path.join(LOGS_DIR, f"{slug}.json")
+    with open(filepath, 'w', encoding='utf-8') as f:
+        json.dump(log_obj, f, indent=2)
 
-def call_openai(prompt, system_instruction, task_type="generation"):
-    model = model_router(task_type)
+def call_openai(prompt, system_instruction, blog_log, section_name):
     time.sleep(SAFE_SLEEP_SECONDS)
-
-    for attempt in range(MAX_RETRIES + 1):
+    for attempt in range(MAX_RETRIES):
         try:
             response = client.chat.completions.create(
-                model=model,
+                model=MODEL,
                 messages=[
                     {"role": "system", "content": system_instruction},
                     {"role": "user", "content": prompt}
                 ]
             )
             result = response.choices[0].message.content.strip()
-            if result:
-                return result
+            blog_log['openai_calls'].append({
+                "section": section_name,
+                "attempt": attempt+1,
+                "status": "success",
+                "output_sample": result[:500]
+            })
+            return result
         except Exception as e:
-            error_msg = str(e)
-            if 'rate limit' in error_msg.lower():
-                wait_match = re.search(r"Please try again in (\d+\.?\d*)s", error_msg)
-                if wait_match:
-                    wait_seconds = float(wait_match.group(1)) + 2.0
-                else:
-                    wait_seconds = 20.0
-                print(f"Rate limit hit. Sleeping for {wait_seconds:.2f} seconds...")
-                time.sleep(wait_seconds)
-            else:
-                wait_time = 2 ** attempt + random.uniform(0, 1)
-                print(f"Attempt {attempt+1} failed during OpenAI call: {e}. Retrying in {wait_time:.2f} seconds.")
-                time.sleep(wait_time)
+            wait_time = 2 ** attempt + random.uniform(0, 1)
+            blog_log['openai_calls'].append({
+                "section": section_name,
+                "attempt": attempt+1,
+                "status": "fail",
+                "error": str(e)
+            })
+            verbose_print(f"Attempt {attempt+1} failed during OpenAI call for {section_name}: {e}. Retrying in {wait_time:.2f} seconds.")
+            time.sleep(wait_time)
     return None
 
-def readability_check(blog_content):
-    flesch_score = textstat.flesch_reading_ease(blog_content)
-    grade_level = textstat.flesch_kincaid_grade(blog_content)
-    print(f"\n🧠 Readability Scores:\n- Flesch Reading Ease: {flesch_score:.2f}\n- Flesch-Kincaid Grade Level: {grade_level:.2f}")
-    return flesch_score, grade_level
+def validate_faq_content(faq_content):
+    return faq_content.count("<summary>") >= 5
 
-def build_front_matter(meta_title, meta_description, slug, keywords):
-    today_date = datetime.now(timezone.utc).strftime('%Y-%m-%d')
-    keywords_list = [k.strip() for k in keywords.split(",")]
-    keywords_yaml = '[' + ', '.join(f'"{kw}"' for kw in keywords_list) + ']'
-    return f"""---
-title: \"{meta_title}\"
-description: \"{meta_description}\"
-slug: \"{slug}\"
-date: {today_date}
-draft: false
-type: \"page\"
-categories: [\"ADHD Guides\"]
-tags: [\"ADHD\", \"Neurodivergence\"]
-keywords: {keywords_yaml}
----\n\n"""
+def generate_section(section_name, topic, primary_keyword, prompts_dict, blog_log):
+    verbose_print(f"\n🛠 Generating section: {section_name}")
+    section = prompts_dict[section_name]
+    prompt = section['prompt'].replace("{{Topic}}", topic).replace("{{Primary Keyword}}", primary_keyword)
+    system_instruction = section['system_instruction']
+    return call_openai(prompt, system_instruction, blog_log, section_name)
+
+def safe_generate_section(section_name, topic, primary_keyword, prompts_dict, blog_log, validate_func=None):
+    for attempt in range(MAX_RETRIES + 1):
+        result = generate_section(section_name, topic, primary_keyword, prompts_dict, blog_log)
+        if not result:
+            blog_log['section_failures'].append({"section": section_name, "reason": "empty_output", "attempt": attempt+1})
+            continue
+        if validate_func and not validate_func(result):
+            blog_log['section_failures'].append({"section": section_name, "reason": "validation_failed", "attempt": attempt+1})
+            continue
+        blog_log['section_successes'].append({"section": section_name, "attempt": attempt+1})
+        verbose_print(f"✅ Section {section_name} generated successfully.")
+        return result
+    verbose_print(f"❌ Section {section_name} failed after retries.")
+    return None
+
+def quality_check(blog_content, prompts_dict, topic, blog_log):
+    try:
+        if not blog_content.strip():
+            return "fail - empty content", "fail - empty content"
+        structural_prompt = prompts_dict['validation']['prompt'].replace("{{BlogContent}}", blog_content)
+        structural_instruction = prompts_dict['validation']['system_instruction']
+        topic_prompt = prompts_dict['topic_relevance_validation']['prompt'].replace("{{Topic}}", topic)
+        topic_instruction = prompts_dict['topic_relevance_validation']['system_instruction']
+        time.sleep(SAFE_SLEEP_SECONDS)
+        structural_report = call_openai(structural_prompt, structural_instruction, blog_log, "QA_structural")
+        topic_report = call_openai(topic_prompt + "\n\n" + blog_content, topic_instruction, blog_log, "QA_topic")
+        return structural_report, topic_report
+    except Exception as e:
+        verbose_print(f"⚠️ QA check failed: {e}")
+        blog_log['qa_error'] = str(e)
+        return "fail - qa error", "fail - qa error"
+
+def generate_meta_description(topic, primary_keyword, blog_log):
+    prompt = f"Write a short, playful meta description under 155 characters for a blog about '{topic}'. Include the keyword '{primary_keyword}' naturally. Make it feel cozy and intriguing."
+    system_instruction = "Generate an SEO meta description under 155 characters with playful, ADHD-friendly tone. Include keyword naturally."
+    return call_openai(prompt, system_instruction, blog_log, "meta_description")
 
 def assemble_blog(sections):
     anchor_text, url = random.choice(EXTERNAL_LINKS)
@@ -157,94 +184,79 @@ def assemble_blog(sections):
 {sections['cta']}
 """
 
-def micro_validate_blog(blog_content, topic, primary_keyword, validations_dict):
-    total_checks = len(validations_dict)
-    passes = 0
-    failures = []
+def readability_check(blog_content):
+    flesch_score = textstat.flesch_reading_ease(blog_content)
+    grade_level = textstat.flesch_kincaid_grade(blog_content)
+    return flesch_score, grade_level
 
-    for validation_name, validation in validations_dict.items():
-        prompt = validation['prompt'].replace("{{Topic}}", topic).replace("{{Primary Keyword}}", primary_keyword)
-        system_instruction = validation['system_instruction']
-
-        result = call_openai(prompt + "\n\n" + blog_content, system_instruction, task_type="validation")
-
-        if not result:
-            print(f"❌ Validation '{validation_name}' returned empty. Counting as failure.")
-            failures.append(validation_name)
-            continue
-
-        if '✅' in result:
-            passes += 1
-            print(f"✅ Validation passed: {validation_name}")
-        else:
-            print(f"❌ Validation failed: {validation_name}")
-            failures.append(validation_name)
-
-    threshold = total_checks - 1
-
-    if passes >= threshold:
-        return True, failures
-    else:
-        return False, failures
+def build_front_matter(meta_title, meta_description, slug, keywords):
+    today_date = datetime.now(timezone.utc).strftime('%Y-%m-%d')
+    keywords_list = [k.strip() for k in keywords.split(",")]
+    keywords_yaml = '[' + ', '.join(f'"{kw}"' for kw in keywords_list) + ']'
+    return f"""---
+title: \"{meta_title}\"
+description: \"{meta_description}\"
+slug: \"{slug}\"
+date: {today_date}
+draft: false
+type: \"page\"
+categories: [\"ADHD Guides\"]
+tags: [\"ADHD\", \"Neurodivergence\"]
+keywords: {keywords_yaml}
+---\n\n"""
 
 def process_blog(row, prompts_dict):
-    print(f"\n🚀 Starting blog generation for: {row['Topic']}")
+    verbose_print(f"\n🚀 Starting blog generation for: {row['Topic']}")
+    blog_log = {
+        "topic": row['Topic'],
+        "slug": row['Slug'],
+        "start_time": datetime.now(timezone.utc).isoformat(),
+        "section_successes": [],
+        "section_failures": [],
+        "openai_calls": []
+    }
 
     sections = {}
-    section_order = ['emotional_hook', 'story_part_1', 'story_part_2', 'story_part_3', 'checklist', 'faq', 'cta']
+    parts = ['emotional_hook', 'story_part_1', 'story_part_2', 'story_part_3', 'checklist', 'faq', 'cta']
+    validations = {'faq': validate_faq_content}
 
-    for idx, part in enumerate(section_order):
-        section = prompts_dict[part]
-        prompt = section['prompt'].replace("{{Topic}}", row['Topic']).replace("{{Primary Keyword}}", row['Primary Keyword'])
-
-        if 'Part {{N}}' in prompt:
-            prompt = prompt.replace("Part {{N}}", f"Part {idx}")
-
-        system_instruction = section['system_instruction']
-        result = call_openai(prompt, system_instruction, task_type="generation")
-
+    for part in parts:
+        validate_func = validations.get(part)
+        result = safe_generate_section(part, row['Topic'], row['Primary Keyword'], prompts_dict, blog_log, validate_func)
         if not result:
-            print(f"❌ Section generation failed: {part}")
+            blog_log['status'] = "failed"
+            save_json_log(row['Slug'], blog_log)
             log_failed_blog(row, f"Section failure: {part}")
             return
-
         sections[part] = result
 
     blog_content = assemble_blog(sections)
-
     flesch_score, grade_level = readability_check(blog_content)
-    if STRICT_MODE and flesch_score < 65:
-        print(f"⚠️ Readability warning: Score {flesch_score:.2f}. Blog flagged.")
+    blog_log['readability'] = {"flesch_score": flesch_score, "grade_level": grade_level}
 
-    if STRICT_MODE:
-        passed, failed_validations = micro_validate_blog(blog_content, row['Topic'], row['Primary Keyword'], prompts_dict['micro_validations'])
+    structural_report, topic_report = quality_check(blog_content, prompts_dict, row['Topic'], blog_log)
+    blog_log['qa_reports'] = {"structural": structural_report, "topic": topic_report}
 
-        if not passed:
-            print(f"❌ Blog failed validations: {failed_validations}")
-            log_failed_blog(row, f"Micro Validation Failure: {failed_validations}")
-            return
+    qa_pass = not ("fail" in structural_report.lower() or "fail" in topic_report.lower() or "missing" in structural_report.lower() or "missing" in topic_report.lower())
 
-    generated_meta_description = generate_meta_description(row['Topic'], row['Primary Keyword'])
+    generated_meta_description = generate_meta_description(row['Topic'], row['Primary Keyword'], blog_log)
     front_matter = build_front_matter(row['Meta Title'], generated_meta_description, row['Slug'], row['Keywords'])
-
     filepath = os.path.join(OUTPUT_DIR, f"{row['Slug']}.md")
+
     with open(filepath, 'w', encoding='utf-8') as f:
         f.write(front_matter)
         f.write(blog_content.strip())
 
-    print(f"✅ Blog saved successfully: {filepath}")
-    log_passed_blog(row)
+    if qa_pass:
+        blog_log['status'] = "passed"
+        log_passed_blog(row)
+        verbose_print(f"✅ Blog saved successfully (PASSED QA): {filepath}")
+    else:
+        blog_log['status'] = "qa_failed"
+        log_failed_blog(row, "QA Failure")
+        verbose_print(f"⚠️ Blog saved but FAILED QA: {filepath}")
 
-def generate_meta_description(topic, primary_keyword):
-    prompt = (
-        f"Write an SEO-optimized meta description (under 155 characters) "
-        f"for a blog post about '{topic}' including '{primary_keyword}'."
-    )
-    system_instruction = (
-        "Generate a vivid, ADHD-friendly, SEO-optimized meta description under 155 characters. "
-        "Focus on clarity and keyword relevance first, coziness second."
-    )
-    return call_openai(prompt, system_instruction, task_type="generation")
+    save_json_log(row['Slug'], blog_log)
 
 def main():
     create_output_dirs()
@@ -254,8 +266,8 @@ def main():
         reader = csv.DictReader(csvfile)
         rows = list(reader)
 
-    if TEST_MODE:
-        rows = rows[:3]
+        if TEST_MODE:
+            rows = rows[:3]
 
     with ThreadPoolExecutor(max_workers=MAX_BLOGS_IN_PARALLEL) as executor:
         futures = [executor.submit(process_blog, row, prompts_dict) for row in rows]

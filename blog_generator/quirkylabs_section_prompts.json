@@ -1,30 +1,38 @@
 {
     "emotional_hook": {
-        "prompt": "Write a vivid, playful, *emotionally anchoring* mini-scene about '{{Topic}}'. Start with a strong sensory image (something you see, hear, feel) tied to ADHD struggles. Use 1–2 cozy metaphors. Paragraphs must be 2–3 short lines max. Add a blank line after every emotional beat. End with a cozy sense of hope or strength.",
-        "system_instruction": "Generate ONLY the Emotional Hook. Vivid, sensory-rich opening mandatory. Must feel cozy, validating, and strongly tied to the given '{{Topic}}'. 5th–7th grade reading level. Do not drift into other topics."
+        "prompt": "Write a vivid, playful mini-scene about '{{Topic}}'. Use simple everyday metaphors linked to ADHD struggles. Short 2–3 line paragraphs. Insert a blank line after every emotional beat. End with a hopeful invitation.",
+        "system_instruction": "Generate only the Emotional Hook. Cozy, validating tone, playful ADHD-friendly language. Always stay tightly anchored to the given '{{Topic}}'."
     },
     "story_part_1": {
-        "prompt": "Write Part 1 of a playful Story-Based Explanation about '{{Topic}}'. Start with a playful short story (~150 words). Midway, insert a mandatory playful mini-H3 heading directly about '{{Topic}}'. Heading must be creative, cozy, and ADHD-friendly. Keep paragraphs short (2–3 lines max). Weave '{{Primary Keyword}}' once early. End each part with a cozy emotional reflection.",
-        "system_instruction": "Generate Story Part 1 only. Story flow first. Mandatory playful H3 heading must appear visibly. Cozy, ADHD-friendly storytelling style required. Must stay tightly anchored to '{{Topic}}'. Avoid drifting."
+        "prompt": "Write the first part of a playful Story-Based Explanation about '{{Topic}}'. Naturally mention '{{Primary Keyword}}' once in the first 100 words. Insert one playful mini-H3 heading (~150 words in). Use short paragraphs (2–3 lines max) and cozy, casual tone.",
+        "system_instruction": "Generate Story Part 1 only. Prioritize natural emotional storytelling with '{{Primary Keyword}}' usage. Always stay tightly anchored to '{{Topic}}'."
     },
     "story_part_2": {
-        "prompt": "Write Part 2 of a playful Story-Based Explanation about '{{Topic}}'. Start with a playful short story (~150 words). Midway, insert a mandatory playful mini-H3 heading directly about '{{Topic}}'. Heading must be creative, cozy, and ADHD-friendly. Keep paragraphs short (2–3 lines max). Weave '{{Primary Keyword}}' once early. End each part with a cozy emotional reflection.",
-        "system_instruction": "Generate Story Part 2 only. Story flow first. Mandatory playful H3 heading must appear visibly. Cozy, ADHD-friendly storytelling style required. Must stay tightly anchored to '{{Topic}}'. Avoid drifting."
+        "prompt": "Write the second part of a playful Story-Based Explanation about '{{Topic}}'. Mention '{{Primary Keyword}}' once early. Insert one playful mini-H3 heading. Keep paragraphs short (2–3 lines). Maintain cozy ADHD-friendly tone.",
+        "system_instruction": "Generate Story Part 2 only. Continue playful storytelling with soft keyword usage. Always stay tightly anchored to '{{Topic}}'."
     },
     "story_part_3": {
-        "prompt": "Write Part 3 of a playful Story-Based Explanation about '{{Topic}}'. Start with a playful short story (~150 words). Midway, insert a mandatory playful mini-H3 heading directly about '{{Topic}}'. Heading must be creative, cozy, and ADHD-friendly. Keep paragraphs short (2–3 lines max). Weave '{{Primary Keyword}}' once early. End each part with a cozy emotional reflection.",
-        "system_instruction": "Generate Story Part 3 only. Story flow first. Mandatory playful H3 heading must appear visibly. Cozy, ADHD-friendly storytelling style required. Must stay tightly anchored to '{{Topic}}'. Avoid drifting."
+        "prompt": "Write the third part of the playful Story-Based Explanation about '{{Topic}}'. Mention '{{Primary Keyword}}' again naturally. Insert one playful mini-H3 heading. Short paragraphs (2–3 lines). End on an encouraging note.",
+        "system_instruction": "Generate Story Part 3 only. Focus on wrapping up playfully while staying anchored to '{{Topic}}'."
     },
     "checklist": {
-        "prompt": "Create a playful checklist for '{{Topic}}'. 4–6 points. Use vivid, cozy, dopamine-rewarding language. Naturally mention '{{Primary Keyword}}' once if it feels natural. Keep it very ADHD-friendly with very short playful points.",
-        "system_instruction": "Generate Checklist section only. Playful tone, cozy dopamine language, short list entries, natural keyword weaving if cozy. Always stay tightly anchored to the given '{{Topic}}'."
+        "prompt": "Create a playful checklist for '{{Topic}}'. 4–6 points. Make it vivid and cozy. If possible, naturally mention '{{Primary Keyword}}' once. Keep it very ADHD-friendly.",
+        "system_instruction": "Generate Checklist section only. Playful tone, short vivid entries, natural keyword usage if cozy. Stay tightly anchored to '{{Topic}}'."
     },
     "faq": {
-        "prompt": "Write exactly 5 FAQs about '{{Topic}}'. Each answer must be 2–4 casual sentences with one tiny playful action tip (e.g., 'set a silly timer'). Naturally include '{{Primary Keyword}}' in at least 2 questions and casually weave it once or twice inside answers if it fits naturally. Format FAQs using <details><summary>Question</summary>Answer</details> tags.",
-        "system_instruction": "Generate FAQ section only. 5 questions minimum. Cozy, playful tone. Natural and cozy keyword inclusion. Always stay tightly anchored to the given '{{Topic}}'."
+        "prompt": "Write exactly 5 FAQs about '{{Topic}}'. Each answer should be 2–4 casual sentences with one tiny playful action tip. Naturally include '{{Primary Keyword}}' in at least 2 questions. Use <details><summary>Question</summary>Answer</details> format.",
+        "system_instruction": "Generate FAQ section only. 5 FAQs minimum, cozy playful tone, natural keyword inclusion. Stay tightly anchored to '{{Topic}}'."
     },
     "cta": {
-        "prompt": "Write a soft, validating Call to Adventure inviting readers to explore '{{Topic}}' at [QuirkyLabs.ai](https://quirkylabs.ai). Cozy, mischievous, hopeful tone. Naturally mention '{{Primary Keyword}}' if it fits naturally, without forcing it. 2–3 short lines max.",
-        "system_instruction": "Generate CTA only. Cozy, ADHD-friendly, playful encouragement. Optional natural keyword mention. Always stay tightly anchored to the given '{{Topic}}'."
+        "prompt": "Write a soft, validating Call to Adventure inviting readers to explore '{{Topic}}' at [QuirkyLabs.ai](https://quirkylabs.ai). Cozy, mischievous tone. Mention '{{Primary Keyword}}' naturally if it fits.",
+        "system_instruction": "Generate CTA only. Cozy, playful encouragement. Stay tightly anchored to '{{Topic}}'."
+    },
+    "validation": {
+        "prompt": "Evaluate the following blog content: Emotional Hook vividness, Story Parts with playful H3 headings, Checklist playfulness, FAQ completeness (5 Qs), CTA warmth, Paragraph breathing (short paras), ADHD-friendly tone. Flag missing sections or dry tone.",
+        "system_instruction": "Strict QA validator for emotional flow, breathing space, ADHD-friendliness, section completeness."
+    },
+    "topic_relevance_validation": {
+        "prompt": "Check if all sections stay tightly anchored to '{{Topic}}'. Allow some playful metaphors but no off-topic drift.",
+        "system_instruction": "Strict topic anchoring validator. Allow mild metaphor usage but no major drift."
     }
 }
