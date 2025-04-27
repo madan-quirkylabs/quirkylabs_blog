@@ -1,4 +1,4 @@
-# 🚀 QuirkyLabs Blog Generator - Fully Repaired + JSON Logging Version (with Guaranteed Output Saving)
+# 🚀 FINAL FINAL - QuirkyLabs Blog Generator (Crash-Proof, Readability-Safe, Thread-Safe)
 
 import csv
 import os
@@ -22,8 +22,7 @@ PASSED_LOG = "output/passed_blogs.csv"
 PROMPTS_FILE = "quirkylabs_section_prompts.json"
 LOGS_DIR = "output/logs/"
 MAX_RETRIES = 2
-MAX_BLOGS_IN_PARALLEL = 3
-MAX_SECTIONS_IN_PARALLEL = 5
+MAX_BLOGS_IN_PARALLEL = 2  # SAFER: Lowered parallelism
 SAFE_SLEEP_SECONDS = 1.5
 VERBOSE_LOGGING = True
 
@@ -32,19 +31,7 @@ load_dotenv()
 openai_api_key = os.getenv("OPENAI_API_KEY")
 client = OpenAI(api_key=openai_api_key)
 
-# --- External ADHD Resources ---
-EXTERNAL_LINKS = [
-    ("Learn more at CHADD", "https://chadd.org"),
-    ("See CDC's ADHD overview", "https://www.cdc.gov/ncbddd/adhd/index.html"),
-    ("Read more on ADDitudeMag", "https://www.additudemag.com"),
-    ("Explore ADHD tips on Understood.org", "https://www.understood.org"),
-    ("Visit ADHD Foundation", "https://www.adhdfoundation.org.uk"),
-    ("Medical overview at Mayo Clinic", "https://www.mayoclinic.org/diseases-conditions/adhd/symptoms-causes/syc-20350889"),
-    ("See ADHD research at NIH", "https://www.nimh.nih.gov/health/topics/attention-deficit-hyperactivity-disorder-adhd")
-]
-
 # --- Helper Functions ---
-
 def verbose_print(msg):
     if VERBOSE_LOGGING:
         print(msg)
@@ -117,11 +104,15 @@ def validate_faq_content(faq_content):
     return faq_content.count("<summary>") >= 5
 
 def generate_section(section_name, topic, primary_keyword, prompts_dict, blog_log):
-    verbose_print(f"\n🛠 Generating section: {section_name}")
-    section = prompts_dict[section_name]
-    prompt = section['prompt'].replace("{{Topic}}", topic).replace("{{Primary Keyword}}", primary_keyword)
-    system_instruction = section['system_instruction']
-    return call_openai(prompt, system_instruction, blog_log, section_name)
+    try:
+        verbose_print(f"\n🛠 Generating section: {section_name}")
+        section = prompts_dict[section_name]
+        prompt = section['prompt'].replace("{{Topic}}", topic).replace("{{Primary Keyword}}", primary_keyword)
+        system_instruction = section['system_instruction']
+        return call_openai(prompt, system_instruction, blog_log, section_name)
+    except Exception as e:
+        verbose_print(f"❌ Error during section {section_name}: {e}")
+        return None
 
 def safe_generate_section(section_name, topic, primary_keyword, prompts_dict, blog_log, validate_func=None):
     for attempt in range(MAX_RETRIES + 1):
@@ -161,8 +152,6 @@ def generate_meta_description(topic, primary_keyword, blog_log):
     return call_openai(prompt, system_instruction, blog_log, "meta_description")
 
 def assemble_blog(sections):
-    anchor_text, url = random.choice(EXTERNAL_LINKS)
-    external_link_line = f"\n> 🔗 {anchor_text}: [{url}]({url})\n"
     return f"""
 {sections['emotional_hook']}
 
@@ -175,7 +164,6 @@ def assemble_blog(sections):
 ## ✅ Quickfire ADHD Checklist
 
 {sections['checklist']}
-{external_link_line}
 
 ## ❓ Frequently Asked Questions
 
@@ -206,57 +194,68 @@ keywords: {keywords_yaml}
 ---\n\n"""
 
 def process_blog(row, prompts_dict):
-    verbose_print(f"\n🚀 Starting blog generation for: {row['Topic']}")
-    blog_log = {
-        "topic": row['Topic'],
-        "slug": row['Slug'],
-        "start_time": datetime.now(timezone.utc).isoformat(),
-        "section_successes": [],
-        "section_failures": [],
-        "openai_calls": []
-    }
+    try:
+        verbose_print(f"\n🚀 Starting blog generation for: {row['Topic']}")
+        blog_log = {
+            "topic": row['Topic'],
+            "slug": row['Slug'],
+            "start_time": datetime.now(timezone.utc).isoformat(),
+            "section_successes": [],
+            "section_failures": [],
+            "openai_calls": []
+        }
 
-    sections = {}
-    parts = ['emotional_hook', 'story_part_1', 'story_part_2', 'story_part_3', 'checklist', 'faq', 'cta']
-    validations = {'faq': validate_faq_content}
+        sections = {}
+        parts = ['emotional_hook', 'story_part_1', 'story_part_2', 'story_part_3', 'checklist', 'faq', 'cta']
+        validations = {'faq': validate_faq_content}
 
-    for part in parts:
-        validate_func = validations.get(part)
-        result = safe_generate_section(part, row['Topic'], row['Primary Keyword'], prompts_dict, blog_log, validate_func)
-        if not result:
-            blog_log['status'] = "failed"
-            save_json_log(row['Slug'], blog_log)
-            log_failed_blog(row, f"Section failure: {part}")
-            return
-        sections[part] = result
+        for part in parts:
+            validate_func = validations.get(part)
+            result = safe_generate_section(part, row['Topic'], row['Primary Keyword'], prompts_dict, blog_log, validate_func)
+            if not result:
+                blog_log['status'] = "failed"
+                save_json_log(row['Slug'], blog_log)
+                log_failed_blog(row, f"Section failure: {part}")
+                return
+            sections[part] = result
 
-    blog_content = assemble_blog(sections)
-    flesch_score, grade_level = readability_check(blog_content)
-    blog_log['readability'] = {"flesch_score": flesch_score, "grade_level": grade_level}
+        blog_content = assemble_blog(sections)
+        flesch_score, grade_level = readability_check(blog_content)
+        blog_log['readability'] = {"flesch_score": flesch_score, "grade_level": grade_level}
 
-    structural_report, topic_report = quality_check(blog_content, prompts_dict, row['Topic'], blog_log)
-    blog_log['qa_reports'] = {"structural": structural_report, "topic": topic_report}
+        if flesch_score < 50 or grade_level > 8:
+            blog_log['status'] = "readability_failed"
+            verbose_print(f"⚠️ Blog readability too poor. Flesch: {flesch_score:.2f}, Grade Level: {grade_level:.2f}. Blog marked as failed.")
 
-    qa_pass = not ("fail" in structural_report.lower() or "fail" in topic_report.lower() or "missing" in structural_report.lower() or "missing" in topic_report.lower())
+        structural_report, topic_report = quality_check(blog_content, prompts_dict, row['Topic'], blog_log)
+        blog_log['qa_reports'] = {"structural": structural_report, "topic": topic_report}
 
-    generated_meta_description = generate_meta_description(row['Topic'], row['Primary Keyword'], blog_log)
-    front_matter = build_front_matter(row['Meta Title'], generated_meta_description, row['Slug'], row['Keywords'])
-    filepath = os.path.join(OUTPUT_DIR, f"{row['Slug']}.md")
+        qa_pass = not ("fail" in structural_report.lower() or "fail" in topic_report.lower() or "missing" in structural_report.lower() or "missing" in topic_report.lower())
 
-    with open(filepath, 'w', encoding='utf-8') as f:
-        f.write(front_matter)
-        f.write(blog_content.strip())
+        if blog_log.get('status', 'failed') != "readability_failed" and qa_pass:
+            blog_log['status'] = "passed"
 
-    if qa_pass:
-        blog_log['status'] = "passed"
-        log_passed_blog(row)
-        verbose_print(f"✅ Blog saved successfully (PASSED QA): {filepath}")
-    else:
-        blog_log['status'] = "qa_failed"
-        log_failed_blog(row, "QA Failure")
-        verbose_print(f"⚠️ Blog saved but FAILED QA: {filepath}")
+        file_prefix = "__failed_" if blog_log.get('status', 'failed') != "passed" else ""
+        generated_meta_description = generate_meta_description(row['Topic'], row['Primary Keyword'], blog_log)
+        front_matter = build_front_matter(row['Meta Title'], generated_meta_description, row['Slug'], row['Keywords'])
+        filepath = os.path.join(OUTPUT_DIR, f"{file_prefix}{row['Slug']}.md")
 
-    save_json_log(row['Slug'], blog_log)
+        with open(filepath, 'w', encoding='utf-8') as f:
+            f.write(front_matter)
+            f.write(blog_content.strip())
+
+        if blog_log['status'] == "passed":
+            log_passed_blog(row)
+            verbose_print(f"✅ Blog saved successfully (PASSED QA): {filepath}")
+        else:
+            log_failed_blog(row, "QA Failure or Readability Failure")
+            verbose_print(f"⚠️ Blog saved but FAILED QA/Readability: {filepath}")
+
+        save_json_log(row['Slug'], blog_log)
+    except Exception as e:
+        verbose_print(f"❌ Blog generation crashed for topic '{row.get('Topic', 'Unknown')}': {str(e)}")
+        log_failed_blog(row, f"Fatal error during blog generation: {e}")
+
 
 def main():
     create_output_dirs()
