@@ -1,31 +1,31 @@
 {
     "emotional_hook": {
         "prompt": "Write a vivid, playful mini-scene about '{{Topic}}'. Use simple everyday metaphors linked to ADHD struggles. Short 2–3 line paragraphs. Insert a blank line after every emotional beat. End with a hopeful invitation.",
-        "system_instruction": "Generate only the Emotional Hook. Cozy, validating tone, playful ADHD-friendly language. Target Grade 6–7 readability. Stay tightly anchored to '{{Topic}}'."
+        "system_instruction": "Generate only the Emotional Hook. Cozy, validating tone, playful ADHD-friendly language. Use short playful sentences (10–14 words max). Prefer simple vocabulary. Target Grade 6–7 readability (Flesch score above 60). Stay tightly anchored to '{{Topic}}'."
     },
     "story_part_1": {
         "prompt": "Write the first part of a playful Story-Based Explanation about '{{Topic}}'. Naturally mention '{{Primary Keyword}}' once in the first 100 words. Insert one playful mini-H3 heading (~150 words in). Use short paragraphs (2–3 lines max) and cozy, casual tone.",
-        "system_instruction": "Generate Story Part 1 only. Prioritize vivid metaphors, playful ADHD-friendly tone, short cozy paragraphs, playful H3 after ~150 words. Target Grade 6–7 readability. Stay tightly anchored to '{{Topic}}'."
+        "system_instruction": "Generate Story Part 1 only. Prioritize vivid metaphors, playful ADHD-friendly tone, short cozy paragraphs, playful H3 after ~150 words. Use short playful sentences (10–14 words max). Prefer simple vocabulary. Target Grade 6–7 readability (Flesch score above 60). Stay tightly anchored to '{{Topic}}'."
     },
     "story_part_2": {
         "prompt": "Write the second part of a playful Story-Based Explanation about '{{Topic}}'. Mention '{{Primary Keyword}}' once early. Insert one playful mini-H3 heading. Keep paragraphs short (2–3 lines). Maintain cozy ADHD-friendly tone.",
-        "system_instruction": "Generate Story Part 2 only. Continue playful storytelling with vivid metaphors, cozy ADHD-friendly tone, playful H3 after ~150 words. Target Grade 6–7 readability. Stay tightly anchored to '{{Topic}}'."
+        "system_instruction": "Generate Story Part 2 only. Continue playful storytelling with vivid metaphors, cozy ADHD-friendly tone, playful H3 after ~150 words. Use short playful sentences (10–14 words max). Prefer simple vocabulary. Target Grade 6–7 readability (Flesch score above 60). Stay tightly anchored to '{{Topic}}'."
     },
     "story_part_3": {
         "prompt": "Write the third part of the playful Story-Based Explanation about '{{Topic}}'. Mention '{{Primary Keyword}}' again naturally. Insert one playful mini-H3 heading. Short paragraphs (2–3 lines). End on an encouraging note.",
-        "system_instruction": "Generate Story Part 3 only. Playful emotional wrap-up with vivid metaphors, cozy tone, playful H3 after ~150 words. Target Grade 6–7 readability. Stay tightly anchored to '{{Topic}}'."
+        "system_instruction": "Generate Story Part 3 only. Playful emotional wrap-up with vivid metaphors, cozy tone, playful H3 after ~150 words. Use short playful sentences (10–14 words max). Prefer simple vocabulary. Target Grade 6–7 readability (Flesch score above 60). Stay tightly anchored to '{{Topic}}'."
     },
     "checklist": {
         "prompt": "Create a playful, vivid, emotionally quirky checklist for '{{Topic}}'. 4–6 points maximum. Each point must use colorful metaphors or relatable imagery. Make readers laugh, nod, or feel seen. Short, cozy, ADHD-friendly phrasing (max 2 lines per point). Mention '{{Primary Keyword}}' naturally once if it fits.",
-        "system_instruction": "Generate Checklist section only. Prioritize emotional vivid metaphors, playful cozy phrasing. Target Grade 6–7 readability. Stay tightly anchored to '{{Topic}}'."
+        "system_instruction": "Generate Checklist section only. Prioritize emotional vivid metaphors, playful cozy phrasing. Use short playful sentences (10–14 words max). Prefer simple vocabulary. Target Grade 6–7 readability (Flesch score above 60). Stay tightly anchored to '{{Topic}}'."
     },
     "faq": {
         "prompt": "Write 5–6 FAQs about '{{Topic}}'. Each answer should be 2–4 cozy, playful sentences. Include emotional validation and sneak in one tiny playful actionable tip (small dopamine win). Mention '{{Primary Keyword}}' naturally in at least 2 questions. Use <details><summary>Question</summary>Answer</details> format.",
-        "system_instruction": "Generate FAQ section only. Cozy validating tone, playful tips, ADHD-friendly phrasing, 5–6 FAQs minimum. Target Grade 6–7 readability. Stay tightly anchored to '{{Topic}}'."
+        "system_instruction": "Generate FAQ section only. Cozy validating tone, playful tips, ADHD-friendly phrasing, 5–6 FAQs minimum. Use short playful sentences (10–14 words max). Prefer simple vocabulary. Target Grade 6–7 readability (Flesch score above 60). Stay tightly anchored to '{{Topic}}'."
     },
     "cta": {
         "prompt": "Write a soft, mischievous Call to Adventure inviting readers to explore '{{Topic}}' at [QuirkyLabs.ai](https://quirkylabs.ai). Frame it as 'charting their galaxy' or 'joining a fun quest'. Cozy, validating, adventurous tone. Mention '{{Primary Keyword}}' naturally if it fits.",
-        "system_instruction": "Generate CTA only. Cozy, playful adventurous tone inviting exploration. Target Grade 6–7 readability. Stay tightly anchored to '{{Topic}}'."
+        "system_instruction": "Generate CTA only. Cozy, playful adventurous tone inviting exploration. Use short playful sentences (10–14 words max). Prefer simple vocabulary. Target Grade 6–7 readability (Flesch score above 60). Stay tightly anchored to '{{Topic}}'."
     },
     "validation": {
         "prompt": "Strictly evaluate the following blog content:\n\n1. Emotional Hook vividness and relatability?\n2. Story Parts must have playful mini-H3 headings approximately every 150–200 words — flag if missing.\n3. Paragraphs must be short (2–3 lines max) with breathing space — flag if dense paragraphs appear.\n4. Cozy, mischievous ADHD-friendly tone throughout?\n5. Checklist must be vivid, quirky, and ADHD-friendly?\n6. FAQ Section must have 5–6 playful FAQs with cozy emotional validation and playful tips?\n7. CTA must feel like an adventurous invitation, cozy and mischievous?\n8. Flesch Reading Ease score should be 50+ and Grade Level ideally 8 or below — flag if blog is too dense or hard to read.\n9. Flag any missing sections or if overall flow feels dry, robotic, overly dense, or clinical.\n\nSummarize all findings clearly. Mark blog as PASS only if all criteria are met tightly. Otherwise mark as FAIL.",

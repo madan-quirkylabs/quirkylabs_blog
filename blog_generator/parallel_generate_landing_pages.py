@@ -1,4 +1,4 @@
-# 🚀 FINAL FINAL - QuirkyLabs Blog Generator (Crash-Proof, Readability-Safe, Thread-Safe)
+# 🚀 FINAL - Corrected QA Validation - QuirkyLabs Blog Generator
 
 import csv
 import os
@@ -22,7 +22,7 @@ PASSED_LOG = "output/passed_blogs.csv"
 PROMPTS_FILE = "quirkylabs_section_prompts.json"
 LOGS_DIR = "output/logs/"
 MAX_RETRIES = 2
-MAX_BLOGS_IN_PARALLEL = 2  # SAFER: Lowered parallelism
+MAX_BLOGS_IN_PARALLEL = 2
 SAFE_SLEEP_SECONDS = 1.5
 VERBOSE_LOGGING = True
 
@@ -103,6 +103,11 @@ def call_openai(prompt, system_instruction, blog_log, section_name):
 def validate_faq_content(faq_content):
     return faq_content.count("<summary>") >= 5
 
+def generate_meta_description(topic, primary_keyword, blog_log):
+    prompt = f"Write a short, playful meta description under 155 characters for a blog about '{topic}'. Include the keyword '{primary_keyword}' naturally. Make it feel cozy and intriguing."
+    system_instruction = "Generate an SEO meta description under 155 characters with playful, ADHD-friendly tone. Include keyword naturally."
+    return call_openai(prompt, system_instruction, blog_log, "meta_description")
+
 def generate_section(section_name, topic, primary_keyword, prompts_dict, blog_log):
     try:
         verbose_print(f"\n🛠 Generating section: {section_name}")
@@ -129,28 +134,6 @@ def safe_generate_section(section_name, topic, primary_keyword, prompts_dict, bl
     verbose_print(f"❌ Section {section_name} failed after retries.")
     return None
 
-def quality_check(blog_content, prompts_dict, topic, blog_log):
-    try:
-        if not blog_content.strip():
-            return "fail - empty content", "fail - empty content"
-        structural_prompt = prompts_dict['validation']['prompt'].replace("{{BlogContent}}", blog_content)
-        structural_instruction = prompts_dict['validation']['system_instruction']
-        topic_prompt = prompts_dict['topic_relevance_validation']['prompt'].replace("{{Topic}}", topic)
-        topic_instruction = prompts_dict['topic_relevance_validation']['system_instruction']
-        time.sleep(SAFE_SLEEP_SECONDS)
-        structural_report = call_openai(structural_prompt, structural_instruction, blog_log, "QA_structural")
-        topic_report = call_openai(topic_prompt + "\n\n" + blog_content, topic_instruction, blog_log, "QA_topic")
-        return structural_report, topic_report
-    except Exception as e:
-        verbose_print(f"⚠️ QA check failed: {e}")
-        blog_log['qa_error'] = str(e)
-        return "fail - qa error", "fail - qa error"
-
-def generate_meta_description(topic, primary_keyword, blog_log):
-    prompt = f"Write a short, playful meta description under 155 characters for a blog about '{topic}'. Include the keyword '{primary_keyword}' naturally. Make it feel cozy and intriguing."
-    system_instruction = "Generate an SEO meta description under 155 characters with playful, ADHD-friendly tone. Include keyword naturally."
-    return call_openai(prompt, system_instruction, blog_log, "meta_description")
-
 def assemble_blog(sections):
     return f"""
 {sections['emotional_hook']}
@@ -171,6 +154,23 @@ def assemble_blog(sections):
 
 {sections['cta']}
 """
+
+def quality_check(full_blog_content, prompts_dict, topic, blog_log):
+    try:
+        if not full_blog_content.strip():
+            return "fail - empty content", "fail - empty content"
+        structural_prompt = prompts_dict['validation']['prompt'].replace("{{BlogContent}}", full_blog_content)
+        structural_instruction = prompts_dict['validation']['system_instruction']
+        topic_prompt = prompts_dict['topic_relevance_validation']['prompt'].replace("{{Topic}}", topic)
+        topic_instruction = prompts_dict['topic_relevance_validation']['system_instruction']
+        time.sleep(SAFE_SLEEP_SECONDS)
+        structural_report = call_openai(structural_prompt, structural_instruction, blog_log, "QA_structural")
+        topic_report = call_openai(topic_prompt + "\n\n" + full_blog_content, topic_instruction, blog_log, "QA_topic")
+        return structural_report, topic_report
+    except Exception as e:
+        verbose_print(f"⚠️ QA check failed: {e}")
+        blog_log['qa_error'] = str(e)
+        return "fail - qa error", "fail - qa error"
 
 def readability_check(blog_content):
     flesch_score = textstat.flesch_reading_ease(blog_content)
@@ -255,7 +255,6 @@ def process_blog(row, prompts_dict):
     except Exception as e:
         verbose_print(f"❌ Blog generation crashed for topic '{row.get('Topic', 'Unknown')}': {str(e)}")
         log_failed_blog(row, f"Fatal error during blog generation: {e}")
-
 
 def main():
     create_output_dirs()
