@@ -1,0 +1,78 @@
+# -----------------------------------------
+# Python Compiled Files
+# -----------------------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.db
+
+# Virtual Environments
+.venv/
+env/
+venv/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# IDE/editor specific
+.vscode/
+.idea/
+*.swp
+
+# -----------------------------------------
+# Project Specific - SEO Topic Generator
+# -----------------------------------------
+
+# Output artifacts
+outputs/
+!outputs/.gitkeep  # Keep folder structure but no files
+
+# Seed files (generated expanded seeds)
+outputs/seeds/
+!outputs/seeds/.gitkeep
+
+# Scraping results (autocomplete suggestions)
+outputs/scraping/
+!outputs/scraping/.gitkeep
+
+# Keyword rankings
+outputs/keyword_ranking/
+!outputs/keyword_ranking/.gitkeep
+
+# Metadata files
+outputs/metadata/
+!outputs/metadata/.gitkeep
+
+# Validated metadata
+outputs/validated/
+!outputs/validated/.gitkeep
+
+# Final blog inputs
+outputs/blogs/
+!outputs/blogs/.gitkeep
+
+# Logs
+outputs/logs/
+!outputs/logs/.gitkeep
+*.log
+*.jsonl  # Individual structured JSON log files
+
+# Temporary/debug files
+*.tmp
+
+# -----------------------------------------
+# Config / Security
+# -----------------------------------------
+
+# Local settings (API keys, personal configs)
+config/settings_local.py
+
+# -----------------------------------------
+# OS Specific Metadata
+# -----------------------------------------
+.DS_Store
+Thumbs.db
+# Sensitive settings
+seo_topic_generator/config/settings.json

@@ -1,0 +1,14 @@
+{
+    "title_generation": {
+        "instruction": "Write a compelling SEO-optimized Blog Title based on the following suggestion. Keep it under 60 characters and make it click-worthy. Avoid excessive use of generic words like 'how' or 'to'. Be specific and interesting.",
+        "format": "Title: <generated_title>"
+    },
+    "meta_description_generation": {
+        "instruction": "Write a persuasive Meta Description for the blog. Keep it under 160 characters. Make sure it's engaging, concise, and encourages clicks. Focus on user intent and highlight the benefits of reading the blog.",
+        "format": "Meta Description: <generated_description>"
+    },
+    "keywords_generation": {
+        "instruction": "Generate 5–7 SEO-friendly keywords or short phrases related to the blog suggestion. Focus on terms that are likely to drive traffic and are highly relevant to the content. Output them comma-separated.",
+        "format": "Keywords: <comma-separated-keywords>"
+    }
+}

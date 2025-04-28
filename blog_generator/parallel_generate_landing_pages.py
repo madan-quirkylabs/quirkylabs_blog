@@ -67,7 +67,7 @@ def log_passed_blog(row):
 def save_json_log(slug, log_obj):
     filepath = os.path.join(LOGS_DIR, f"{slug}.json")
     with open(filepath, 'w', encoding='utf-8') as f:
-        json.dump(log_obj, f, indent=2)
+        json.dump(log_obj, f, indent=2, ensure_ascii=False)
 
 def call_openai(prompt, system_instruction, blog_log, section_name):
     time.sleep(SAFE_SLEEP_SECONDS)
