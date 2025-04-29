@@ -14,7 +14,7 @@ import textstat
 
 # --- CONFIGURATION ---
 MODEL = "gpt-4"
-TEST_MODE = True
+TEST_MODE = False
 INPUT_CSV = "sample_input.csv"
 OUTPUT_DIR = "output/landing_pages/"
 FAILED_LOG = "output/failed_blogs.csv"
