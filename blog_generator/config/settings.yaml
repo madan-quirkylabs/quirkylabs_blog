@@ -1,0 +1,21 @@
+openai:
+  model: gpt-4-turbo
+  temperature: 0.7
+  max_retries: 5
+  request_timeout: 45
+  rate_limit_per_minute: 60
+
+generation:
+  parallel_threads: 4
+  max_tokens_per_section: 800
+  validate_output: true
+  validate_readability: true
+
+paths:
+  input_csv: input/sample_input.csv
+  output_success: output/success/
+  output_failure: output/failure/
+  output_logs: output/logs/
+  output_retries: output/retries/
+  section_prompts: config/prompts/section_prompts.json
+  master_prompt: config/prompts/master_prompt.md
