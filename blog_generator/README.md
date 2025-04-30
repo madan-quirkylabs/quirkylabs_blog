@@ -1,3 +1,11 @@
+## -----------------------------------------------------
+# What works for now
+# Run the parallel_generate_landing_pages.py directly using python.
+# Feed the sameple_input.csv as its input file
+# Rest doesn't work
+## -----------------------------------------------------
+
+
 # 🚀 QuirkyLabs Blog Generation System
 
 Welcome to the **QuirkyLabs Blog Generator** — a modular, human-first, SEO-optimized blog generation engine for ADHD-related content.
@@ -25,3 +33,5 @@ Welcome to the **QuirkyLabs Blog Generator** — a modular, human-first, SEO-opt
 
 ```bash
 pip install openai python-dotenv textstat
+
+

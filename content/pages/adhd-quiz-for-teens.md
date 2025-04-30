@@ -32,7 +32,7 @@ In the ADHD forest, thoughts are like bouncy, playful squirrels. Can't sit still
 
 Everywhere you look is a riot of colors, sounds, smells. It's always a feast for your senses!
 
-###Why Take a Quiz, You Ask?
+### Why Take a Quiz, You Ask?
 
 Now, sometimes, these squirrels get a bit too energetic. Before you know it, there are too many squirrels bouncing around. This can confuse you, like staring at a fast, swirling kaleidoscope. 
 
@@ -46,7 +46,7 @@ Last we left off, an unexpected quizzard was in our midst—our very own ADHD Qu
 
 This isn't an everyday, run-of-the-mill quiz, oh no. This quiz has a special spark. It's like a magical rocket ship journeying through an unknown universe (the universe being our jumbly, wumbly brains!). And let's not forget, it's just as curious as a wide-eyed kitten, trying to make sense out of this chaotic thing we call the teen life.
 
-"H3: Twinkle-Twinkle Quiz Star, How I Wonder What You Are!"
+### Twinkle-Twinkle Quiz Star, How I Wonder What You Are!
 
 So what makes our quiz star twinkle? What makes it so special you ask?
 
@@ -60,7 +60,7 @@ Remember, under all those bewitching stars, this is but a journey, a playful exp
 
 As the ADHD quiz for teens fluttered to an end, the answers danced on the screen like flickering fireflies against an evening sky. The bubbles of uncertainty popped, replaced by the blossoming resolve of understanding.
 
-Mini-H3: Attention Hops into Action!
+### Attention Hops into Action!
 
 Every tick and cross was like a beacon, illuminating the path to deeper self-knowing. Teens were no longer obscure rumors in the jungle of life. They were lively parrots, chirping their stories with sparkling eyes and vibrant feathers.
 
@@ -81,22 +81,23 @@ Keep playing, keep exploring. Remember, an ADHD quiz for teens is not a full sto
 
 ## ❓ Frequently Asked Questions
 
-<details><summary>1. What is this ADHD Quiz for Teens?</summary>
+<details><summary>What is this ADHD Quiz for Teens?</summary>
 Oh, it's a fun little detective tool! Helps find small clues if you might have this bouncy thing called ADHD. Like playing 'spot the difference' but with your feelings!</details>
 
-<details><summary>2. How long does this adhd quiz for teens take?</summary>
+<details><summary>How long does this adhd quiz for teens take?</summary>
 Got a spare 10 minutes? Go, take the quiz! Like a mini adventure into the land of your mind. Just remember, it's not a race, so you can explore at your own pace. </details>
 
-<details><summary>3. Can this quiz diagnose my ADHD?</summary>
+<details><summary>Can this quiz diagnose my ADHD?</summary>
 Eh-eh, it's a quiz, not a doc! It can show signs but can't confirm ADHD. A doctor is like a puzzle master. Only they can find all the missing pieces for a diagnosis! </details>
 
-<details><summary>4. Can I take this quiz if I'm not a teen?</summary>
+<details><summary>Can I take this quiz if I'm not a teen?</summary>
 Of course, silly! Life's too short for age limits. Just note that this adhd quiz for teens is, well, teens-focused. Adult ADHD may feel a bit different. </details>
 
-<details><summary>5. Is this quiz professional-grade?</summary>
+<details><summary>Is this quiz professional-grade?</summary>
 It's solid, but not magic⸺it's based on professional-grade ADHD scales. Think of it as a marshmallow-roasting stick, not the fire itself!</details>
 
-<details><summary>6. What do I do after completing the quiz?</summary>
+<details><summary>What do I do after completing the quiz?</summary>
 After the quiz, show your results to your doc. It's like a tiny treasure map about you. They can then guide you on your journey with expert advice.</details>
+
 
 "Adventure awaits! Chart your unique galaxy with our 'ADHD Quiz for Teens' at [QuirkyLabs.ai](https://quirkylabs.ai)!"
