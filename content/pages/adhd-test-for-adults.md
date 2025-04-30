@@ -1,6 +1,6 @@
 ---
 title: "Take Our Free ADHD Test for Adults"
-description: ""Unleash curiosity with our breezy ADHD test for adults! Playful, speedy and tailored for your vibrant mind. Start your discovery journey today!""
+description: "Unleash curiosity with our breezy ADHD test for adults! Playful, speedy and tailored for your vibrant mind. Start your discovery journey today!"
 slug: "adhd-test-for-adults"
 date: 2025-04-30
 draft: false

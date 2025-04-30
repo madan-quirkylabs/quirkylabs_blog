@@ -1,6 +1,6 @@
 ---
 title: "Printable ADHD Self-Assessment PDF"
-description: ""Spin joyfully into our ADHD Self-Assessment PDF treasure hunt. It's an engaging, fun-filled guide to unravel your ADHD traits. Join us!""
+description: "Spin joyfully into our ADHD Self-Assessment PDF treasure hunt. It's an engaging, fun-filled guide to unravel your ADHD traits. Join us!"
 slug: "adhd-self-assessment-pdf"
 date: 2025-04-30
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: "ADHD or Laziness? Take This Quiz to Know"
-description: ""Embark on a fun journey exploring 'ADHD vs laziness'. Playfully crack the mystery: could it be ADHD, or are you simply having a cozy lazy day!""
+description: "Embark on a fun journey exploring 'ADHD vs laziness'. Playfully crack the mystery: could it be ADHD, or are you simply having a cozy lazy day!"
 slug: "adhd-or-lazy"
 date: 2025-04-30
 draft: false

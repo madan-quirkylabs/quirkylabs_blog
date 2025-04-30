@@ -1,6 +1,6 @@
 ---
 title: "ADHD Test Tailored for Women"
-description: ""Join the fun as we navigate the whirlwind of taking an ADHD test for women! Easy, quick, undaunting - a friendly guide through chaos.""
+description: "Join the fun as we navigate the whirlwind of taking an ADHD test for women! Easy, quick, undaunting - a friendly guide through chaos."
 slug: "adhd-test-for-women"
 date: 2025-04-30
 draft: false

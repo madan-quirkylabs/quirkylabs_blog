@@ -1,6 +1,6 @@
 ---
 title: "Free Online ADHD Test (Backed by Science)"
-description: ""Unlock the fun in taking our ADHD test online free! Easy, engaging, geared for peppy minds. Become your own ADHD superhero in just clicks!""
+description: "Unlock the fun in taking our ADHD test online free! Easy, engaging, geared for peppy minds. Become your own ADHD superhero in just clicks!"
 slug: "adhd-test-online"
 date: 2025-04-30
 draft: false

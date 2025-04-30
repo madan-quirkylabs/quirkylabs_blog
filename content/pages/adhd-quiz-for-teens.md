@@ -1,6 +1,6 @@
 ---
 title: "ADHD Quiz for Teens: Find Out If It’s More Than Just Distraction"
-description: ""Take our super fun 'ADHD quiz for teens'! Explore your unique brain, chase curiosity, and make ADHD your superpower!""
+description: "Take our super fun 'ADHD quiz for teens'! Explore your unique brain, chase curiosity, and make ADHD your superpower!"
 slug: "adhd-quiz-for-teens"
 date: 2025-04-30
 draft: false
