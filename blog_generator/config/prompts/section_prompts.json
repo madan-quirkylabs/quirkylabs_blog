@@ -23,19 +23,19 @@
         {
             "key": "faq_core",
             "heading": "Practical FAQs",
-            "prompt": "Write 4–6 FAQs about '{{Topic}}'. Use the exact phrase '{{primary_keyword}}' in each question. Format **strictly** using HTML: <details><summary>Question</summary><p>Answer</p></details>. No bullet points, no numbering, no Markdown. Output must be valid HTML only.",
+            "prompt": "Write 4–6 FAQs about '{{Topic}}'. Each question must contain the exact phrase '{{primary_keyword}}'. Format strictly using HTML: <details><summary>Question</summary><p>Answer</p></details>. Do not number the questions. No markdown. No extra text.",
             "system_instruction": "Generate pragmatic, search-optimized FAQs. Must use strict HTML formatting with <details> and <summary>."
         },
         {
             "key": "faq_curious",
             "heading": "Curious ADHD Questions",
-            "prompt": "Write 4–6 emotionally curious or quirky ADHD-style FAQs about '{{Topic}}'. Format strictly using HTML: <details><summary>Question</summary><p>Answer</p></details>. Include one or two metaphors. No markdown, no numbering — just clean HTML.",
+            "prompt": "Write 4–6 quirky, emotionally nuanced FAQs about '{{Topic}}'. Each question must include the exact phrase '{{primary_keyword}}'. Format strictly using HTML: <details><summary>Question</summary><p>Answer</p></details>. No bullet points, no markdown.",
             "system_instruction": "Respond like a friendly guide with cozy emotional nuance. Use strict HTML structure."
         },
         {
             "key": "faq_cta",
             "heading": "Want to Check Yourself?",
-            "prompt": "Write 1 FAQ that invites readers to take our free self-assessment for '{{Topic}}' at [QuirkyLabs.ai](https://quirkylabs.ai). Use cozy ADHD-friendly tone. Format strictly using HTML: <details><summary>Question</summary><p>Answer with link inside.</p></details>. No markdown formatting.",
+            "prompt": "Write 1 FAQ that invites people to take our free self-assessment for '{{Topic}}' at [QuirkyLabs.ai](https://quirkylabs.ai). Question must include the exact phrase '{{primary_keyword}}'. Format strictly using HTML: <details><summary>Question</summary><p>Answer with link.</p></details>.",
             "system_instruction": "Gently encourage the reader to visit QuirkyLabs.ai. Use strict HTML structure."
         }
     ],

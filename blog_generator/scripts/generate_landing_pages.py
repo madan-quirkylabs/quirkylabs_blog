@@ -86,20 +86,22 @@ def faq_to_jsonld(faq_html):
 def normalize(text):
     return re.sub(r'\W+', ' ', text.lower()).strip()
 
-def validate_faq(content, primary_keyword):
+def validate_faq(content, primary_keyword, section_key):
     soup = BeautifulSoup(content, "html.parser")
     questions = [normalize(summary.get_text()) for summary in soup.find_all("summary")]
     keyword_normalized = normalize(primary_keyword)
-
     keyword_matches = sum(1 for q in questions if keyword_normalized in q)
 
-    if "**1." in content or "<summary>" not in content:
-        logging.warning("⚠️ FAQ appears to be markdown-style or unstructured.")
-
-    if len(questions) < 4 or keyword_matches < 1:
-        logging.warning(f"⚠️ FAQ validation failed. Found {len(questions)} questions, {keyword_matches} keyword matches.")
-        logging.debug("FAQ content:\n" + content)
-        return False
+    if section_key == "faq_cta":
+        if len(questions) != 1 or keyword_matches < 1:
+            logging.warning(f"⚠️ FAQ CTA validation failed. Found {len(questions)} questions, {keyword_matches} keyword matches.")
+            logging.debug("FAQ content:\n" + content)
+            return False
+    else:
+        if len(questions) < 4 or keyword_matches < 1:
+            logging.warning(f"⚠️ FAQ validation failed. Found {len(questions)} questions, {keyword_matches} keyword matches.")
+            logging.debug("FAQ content:\n" + content)
+            return False
 
     return True
 
@@ -209,7 +211,7 @@ def generate_blog(row):
                     else:
                         content = generate_section(section, topic, keyword)
 
-                    if section.startswith("faq") and not validate_faq(content, keyword):
+                    if section.startswith("faq") and not validate_faq(content, keyword, section):
                         log["section_attempts"][-1]["attempts"].append({"status": "fail", "reason": "invalid_faq"})
                         continue
 
@@ -227,7 +229,7 @@ def generate_blog(row):
                 save_retry_payload(row, section)
                 return
 
-        blog = assemble_blog(sections)
+        blog = assemble_blog(sections, faq_section_defs)
         flesch, grade = check_readability(blog)
         log["readability"] = {"flesch": flesch, "grade": grade}
 
