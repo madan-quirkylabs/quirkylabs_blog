@@ -4,6 +4,7 @@ openai:
   max_retries: 5
   request_timeout: 45
   rate_limit_per_minute: 60
+  max_token_size: 3000
 
 generation:
   parallel_threads: 4

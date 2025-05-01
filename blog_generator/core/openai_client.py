@@ -10,6 +10,7 @@ class OpenAIClient:
         self.temperature = config["openai"]["temperature"]
         self.max_retries = config["openai"]["max_retries"]
         self.timeout = config["openai"]["request_timeout"]
+        self.max_token_size = config["openai"]["max_token_size"]
 
         openai.api_key = self.api_key
         self.client = openai
@@ -29,7 +30,7 @@ class OpenAIClient:
                     model=self.model,
                     messages=messages,
                     temperature=self.temperature,
-                    max_tokens=300
+                    max_tokens=self.max_token_size
                 )
                 return response.choices[0].message.content.strip()
 

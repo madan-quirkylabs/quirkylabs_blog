@@ -13,3 +13,5 @@ node_modules/
 /blog_generator/output/
 /blog_generator/failed_blogs.csv
 /blog_generator/passed_blogs.csv
+
+**/__pycache__/
