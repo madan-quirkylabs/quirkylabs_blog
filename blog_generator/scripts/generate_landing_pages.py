@@ -1,5 +1,3 @@
-# 📄 generate_landing_pages.py - Section-by-Section Generator with QA & Retry Logging
-
 import os
 import sys
 import json
@@ -29,28 +27,19 @@ for dir_path in [SUCCESS_DIR, FAILURE_DIR, LOGS_DIR]:
 
 # Load input CSV
 df = pd.read_csv(os.path.join(INPUT_DIR, "sample_input.csv"))
-df.columns = df.columns.str.strip().str.lower().str.replace(" ", "_")  # ✅ Fix header mismatch
+df.columns = df.columns.str.strip().str.lower().str.replace(" ", "_")
 
 # Load prompts
 with open(SECTION_PROMPTS_PATH, "r", encoding="utf-8") as f:
     prompts_dict = json.load(f)
 
 # --- Section Helpers ---
-
-import re
-import json
-
-def strip_html_tags(html):
-    return BeautifulSoup(html, "html.parser").get_text().strip()
-
 def faq_to_jsonld(faq_html):
-    # More tolerant regex: allows newlines, spaces, and nested tags inside
-    pattern = re.compile(
-        r"<details>\s*<summary>(.*?)</summary>\s*(.*?)\s*</details>",
-        re.DOTALL | re.IGNORECASE
-    )
-
+    pattern = re.compile(r"<details>\s*<summary>(.*?)</summary>\s*(.*?)\s*</details>", re.DOTALL | re.IGNORECASE)
     matches = pattern.findall(faq_html)
+
+    def strip_html_tags(html):
+        return BeautifulSoup(html, "html.parser").get_text().strip()
 
     jsonld = {
         "@context": "https://schema.org",
@@ -60,20 +49,19 @@ def faq_to_jsonld(faq_html):
 
     for q, a in matches:
         clean_q = re.sub(r"\s+", " ", q.strip())
-        clean_a = re.sub(r"\s+", " ", a.strip())
+        clean_a = strip_html_tags(a)
         jsonld["mainEntity"].append({
             "@type": "Question",
             "name": clean_q,
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": strip_html_tags(a)
+                "text": clean_a
             }
         })
 
     return json.dumps(jsonld, indent=2)
 
 def validate_faq(content, primary_keyword):
-    from bs4 import BeautifulSoup
     soup = BeautifulSoup(content, "html.parser")
     questions = [summary.get_text().lower() for summary in soup.find_all("summary")]
     keyword_matches = sum(1 for q in questions if primary_keyword.lower() in q)
@@ -117,11 +105,22 @@ def validate_blog(content, topic):
 
 def build_front_matter(meta_title, meta_desc, slug, keywords):
     today = datetime.utcnow().strftime('%Y-%m-%d')
-    kws = "[" + ", ".join(f'"{k.strip()}"' for k in keywords.split(",")) + "]"
-    return f"""---\ntitle: \"{meta_title}\"\ndescription: \"{meta_desc}\"\nslug: \"{slug}\"\ndate: {today}\ndraft: false\ntype: \"page\"\ncategories: [\"ADHD Guides\"]\ntags: [\"ADHD\", \"Neurodivergence\"]\nkeywords: {kws}\n---\n\n"""
+    kws = "[" + ", ".join(f'\"{k.strip()}\"' for k in keywords.split(",")) + "]"
+    return f"""---
+title: \"{meta_title}\"
+description: \"{meta_desc}\"
+slug: \"{slug}\"
+date: {today}
+draft: false
+type: \"page\"
+categories: [\"ADHD Guides\"]
+tags: [\"ADHD\", \"Neurodivergence\"]
+keywords: {kws}
+---\n\n"""
 
 def assemble_blog(sections):
     faq_structured = faq_to_jsonld(sections["faq"])
+    sections['faq'] += "\n\n" + sections['faq_cta']
     return f"""
 {sections['emotional_hook']}
 
@@ -139,9 +138,7 @@ def assemble_blog(sections):
 
 {sections['faq']}
 
-{sections['cta']}
-
-<script type="application/ld+json">
+<script type=\"application/ld+json\">
 {faq_structured}
 </script>
 """
@@ -160,8 +157,6 @@ def save_retry_payload(row, reason):
     with open(os.path.join(RETRIES_DIR, f"{row['slug']}.json"), "w", encoding="utf-8") as f:
         json.dump(payload, f, indent=2)
 
-# --- Main Blog Processor ---
-
 def generate_blog(row):
     topic = row["topic"]
     keyword = row["primary_keyword"]
@@ -178,24 +173,50 @@ def generate_blog(row):
         "status": "in_progress"
     }
 
-    section_order = ["emotional_hook", "story_part_1", "story_part_2", "story_part_3", "checklist", "faq", "cta"]
+    section_order = ["emotional_hook", "story_part_1", "story_part_2", "story_part_3", "checklist", "faq", "faq_cta", "cta"]
 
     try:
         for section in section_order:
             success = False
+            log["section_attempts"].append({"section": section, "attempts": []})
+
             for attempt in range(config["openai"]["max_retries"]):
                 try:
+                    print(f"🧠 Generating section: {section}, attempt {attempt + 1}")
                     content = generate_section(section, topic, keyword)
+
                     if section == "faq" and not validate_faq(content, keyword):
+                        print(f"⚠️ Validation failed for FAQ section. Retrying...")
+                        log["section_attempts"][-1]["attempts"].append({"status": "fail", "reason": "invalid_faq"})
                         continue
+
                     sections[section] = content
-                    log["section_attempts"].append({"section": section, "attempt": attempt + 1, "status": "success"})
+                    log["section_attempts"][-1]["attempts"].append({"status": "success"})
                     success = True
+                    print(f"✅ Section {section} generated successfully.")
                     break
+
                 except Exception as e:
-                    log["section_attempts"].append({"section": section, "attempt": attempt + 1, "status": "fail", "error": str(e)})
+                    log["section_attempts"][-1]["attempts"].append({"status": "fail", "error": str(e)})
+                    print(f"❌ Error generating section {section}, attempt {attempt + 1}: {e}")
 
             if not success:
+                if section == "faq_cta":
+                    # Fail-safe fallback
+                    fallback_cta = (
+                        "<details>\n"
+                        "<summary>How can I check if I might have ADHD?</summary>\n"
+                        "<p>We created a playful self-assessment at "
+                        "[QuirkyLabs.ai](https://quirkylabs.ai) to help you reflect. "
+                        "It’s not a diagnosis—just a cozy nudge toward better understanding.</p>\n"
+                        "</details>"
+                    )
+                    sections["faq_cta"] = fallback_cta
+                    log["section_attempts"][-1]["fallback_used"] = True
+                    print("⚙️ Using fallback for faq_cta.")
+                    continue
+
+                # For all other sections, fail if none succeeded
                 log["status"] = "failed_section"
                 save_log(slug, log)
                 save_retry_payload(row, section)
@@ -235,8 +256,6 @@ def generate_blog(row):
         log["error"] = str(e)
         save_log(slug, log)
         save_retry_payload(row, "fatal_error")
-
-# --- Main Execution ---
 
 def main():
     results = []
