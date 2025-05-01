@@ -31,8 +31,8 @@ def load_retry_files():
 
 # Save CSV summaries
 def save_summary_csv(results):
-    success_rows = [r for r in results if r.get("status") == "success"]
-    failed_rows = [r for r in results if r.get("status") != "success"]
+    success_rows = [r for r in results if r and r.get("status") == "success"]
+    failed_rows = [r for r in results if not r or r.get("status") != "success"]
 
     if success_rows:
         success_df = pd.DataFrame(success_rows)

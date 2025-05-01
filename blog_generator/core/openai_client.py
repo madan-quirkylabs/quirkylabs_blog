@@ -1,10 +1,11 @@
 import openai
 import time
 import logging
+import os
 
 class OpenAIClient:
     def __init__(self, config):
-        self.api_key = config["openai"]["api_key"]
+        self.api_key = os.getenv("OPENAI_API_KEY")  # ✅ Read from env
         self.model = config["openai"]["model"]
         self.temperature = config["openai"]["temperature"]
         self.max_retries = config["openai"]["max_retries"]

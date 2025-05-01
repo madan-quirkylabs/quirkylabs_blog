@@ -1,5 +1,5 @@
 ---
-title: "ADHD or Laziness? Take This Quiz to Know"
+title: "ADHD vs Laziness: How to Know the Difference (Free Quiz Inside)"
 description: "Embark on a fun journey exploring 'ADHD vs laziness'. Playfully crack the mystery: could it be ADHD, or are you simply having a cozy lazy day!"
 slug: "adhd-or-lazy"
 date: 2025-04-30

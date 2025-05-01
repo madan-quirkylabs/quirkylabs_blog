@@ -8,7 +8,7 @@ def load_and_run_generate():
     module.main()
 
 def load_and_run_retry():
-    spec = importlib.util.spec_from_file_location("retry_failed_blogs", "./retry_failed_blogs.py")
+    spec = importlib.util.spec_from_file_location("retry_failed_blogs", "./scripts/retry_failed_blogs.py")
     module = importlib.util.module_from_spec(spec)
     spec.loader.exec_module(module)
     module.main()

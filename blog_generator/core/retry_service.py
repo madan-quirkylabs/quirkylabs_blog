@@ -5,7 +5,7 @@ import json
 from utils.paths import RETRIES_DIR, PERMANENT_FAILURE_DIR
 from utils.colors import bcolors
 from utils.file_ops import delete_file, move_file
-from generate_landing_pages import generate_blog
+from scripts.generate_landing_pages import generate_blog
 
 def retry_blog(file_name):
     """
@@ -35,7 +35,7 @@ def retry_blog(file_name):
         print(f"{bcolors.OKBLUE}🔄 Retrying blog generation for: {slug}{bcolors.ENDC}")
         result = generate_blog(retry_row)
 
-        if result.get("status") == "success":
+        if result and result.get("status") == "success":
             delete_file(retry_path)
             print(f"{bcolors.OKGREEN}🧹 Successfully retried and cleaned: {slug}{bcolors.ENDC}")
         else:
