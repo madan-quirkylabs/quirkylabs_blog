@@ -62,7 +62,7 @@ With each flickering tick, Jenny saw herself in a new light. She was not odd, sh
 
 So, kids and adults, next time if your mind feels like a jumping bunny, remember the tale of the PDF. Let Jenny's story be your lantern, guiding you through the dark forest of knotty problems. After all, ADHD is not a sea monster, it's just a dolphin to ride on and have an adventure. Don't be scared to dive in and swim to knowledge.
 
-## ✅ Quickfire ADHD Checklist
+## Quickfire ADHD Checklist
 
 1. Do your thoughts race like jackrabbits in a carrot field? If "yes," check the box.
 2. Are daydreams your favorite movies? Give a tick if you agree.
@@ -71,7 +71,7 @@ So, kids and adults, next time if your mind feels like a jumping bunny, remember
 5. If "living in the moment" is too mainstream and your mind is always a couple of steps ahead, dip your check mark here.
 6. Remember, this isn't an exam, it's just a glimpse into your world through the 'ADHD self-assessment PDF' — so relax, there's no wrong answers!
 
-## ❓ Frequently Asked Questions
+## Frequently Asked Questions
 
 <details><summary>What's inside this ADHD self-assessment PDF?</summary>
 Inside the PDF, you'll find soothingly straightforward questions about yourself. It's like a cozy chat with a friend who really 'gets' you!</details>
@@ -91,4 +91,5 @@ Absolutely, buddy! But remember, it's a springboard for a chat with a pro, not a
 <details><summary>Do I need to print the ADHD self-assessment PDF?</summary>
 You could, but hey, it's the digital age! Feel free to type your responses. Save trees, get a comfy blanket, and enjoy your journey!</details>
 
-Embark on a thrilling quest! Chart your galaxy with our ADHD self-assessment PDF. Hop on this adventurous ride at [QuirkyLabs.ai](https://quirkylabs.ai).
+
+> _\"If any part of this resonated with you — maybe it's time to explore a little further. Start with our free ADHD self-assessment at [quirkylabs.ai](https://quirkylabs.ai). No pressure, no judgment, just more clarity.\"_

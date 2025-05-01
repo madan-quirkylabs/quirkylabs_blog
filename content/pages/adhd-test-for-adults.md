@@ -72,7 +72,7 @@ Remember, the stars can’t shine without darkness. Your ADHD test for adults mi
 
 So, keep your chin up and eyes bright. Embrace the unique sunshine that only you can bring. The world awaits your illuminating light. After all, the sky needs a little electricity to light it up!
 
-## ✅ Quickfire ADHD Checklist
+## Quickfire ADHD Checklist
 
 1. "Is it easier to catch butterflies than focus on one task?"
 2. "Does your brain throw a 'thought party' with uninvited guests, like a loud neighbor?"
@@ -81,7 +81,7 @@ So, keep your chin up and eyes bright. Embrace the unique sunshine that only you
 5. "Does sitting still feel like a squirrel trying to meditate?"
 6. "Taking an ADHD test for adults may mean let's find out if your daydreams have daydreams!"
 
-## ❓ Frequently Asked Questions
+## Frequently Asked Questions
 
 <details>
 <summary>What does an ADHD test for adults look like?</summary>
@@ -113,4 +113,5 @@ Just be your amazing self. Remember, this isn't school, no 'prepare and scare'. 
 Yes, you can! But remember, it’s like a bedtime story and might not show the full picture. So, don't skip the chance to talk with a pro as well.
 </details>
 
-Ready to chart your galaxy? Explore the ADHD Test for Adults at QuirkyLabs.ai!
+
+> _\"If any part of this resonated with you — maybe it's time to explore a little further. Start with our free ADHD self-assessment at [quirkylabs.ai](https://quirkylabs.ai). No pressure, no judgment, just more clarity.\"_

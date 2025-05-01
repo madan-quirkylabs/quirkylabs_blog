@@ -70,7 +70,7 @@ The ADHD test for women is not just a test of patience or perseverance. It's a v
 
 So, brave explorer, unleash your eagle's flight! Dance with the butterfly and fill your canvas with colorful truths. You'll get closer to understanding yourself and becoming friends with the dancing butterfly inside. Now, isn't that worth the journey?
 
-## ✅ Quickfire ADHD Checklist
+## Quickfire ADHD Checklist
 
 1. Do thoughts flutter like excited butterflies, darting all around your mind?
 2. Does focus feel like trying to lasso a frolicking puppy with a noodle?
@@ -79,7 +79,7 @@ So, brave explorer, unleash your eagle's flight! Dance with the butterfly and fi
 5. An adhd test for women might be your personal treasure map. 
 6. Your energy could power a whole village, on some days!
 
-## ❓ Frequently Asked Questions
+## Frequently Asked Questions
 
 <details><summary>What's this 'ADHD test for women' about?</summary>We get it, it's a confusing term, right? But it's just a quiz to spot ADHD signs in women specifically. Think of it as a cozier, more personal, 'not-so-clinical' check-up!</details>
 
@@ -93,4 +93,5 @@ So, brave explorer, unleash your eagle's flight! Dance with the butterfly and fi
 
 <details><summary>Could stress or anxiety mess with the test results?</summary>Stress or anxiety can be party crashers sometimes. They could amplify some ADHD symptoms. So remember to stay calm during the test. Maybe try some deep-breathing beforehand. </details>
 
-"Join us, brave explorer! Chart your galaxy with our ADHD test for women at QuirkyLabs.ai!"
+
+> _\"If any part of this resonated with you — maybe it's time to explore a little further. Start with our free ADHD self-assessment at [quirkylabs.ai](https://quirkylabs.ai). No pressure, no judgment, just more clarity.\"_

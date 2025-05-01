@@ -62,7 +62,7 @@ On days you feel like a lazy cat, remind yourself, "no, I'm a hummingbird". You 
 
 So, let's keep humming along, shall we? No more self-labeling as lazy. You're just uniquely wired. You're flying to your own rhythm. Keep being you, because you're brilliant just as you are!
 
-## ✅ Quickfire ADHD Checklist
+## Quickfire ADHD Checklist
 
 1. Do your thoughts jump around like hyperactive kangaroos on coffee?
 2. Is your memory fluffier than a pillow? You keep losing things inside it?
@@ -71,7 +71,7 @@ So, let's keep humming along, shall we? No more self-labeling as lazy. You're ju
 5. Could impatience be your shadow, popping up way too often and everywhere?
 6. Are you a professional juggler, multitasking and dropping balls everywhere? ADHD or laziness, who can tell?
 
-## ❓ Frequently Asked Questions
+## Frequently Asked Questions
 
 <details>
 <summary>Do I have ADHD or am I just a super slack-potato?</summary>
@@ -103,4 +103,5 @@ Struggle kickstarting tasks: classic ADHD! But hey, even superheroes have their 
 Hmm, procrastination could be one sneaky symptom of ADHD, not necessarily laziness. Double tag a doc for the answer!
 </details>
 
-Hop on, join our lively quest at [quirkylabs.ai](https://quirkylabs.ai)! Chart your galaxy between 'ADHD vs laziness'!
+
+> _\"If any part of this resonated with you — maybe it's time to explore a little further. Start with our free ADHD self-assessment at [quirkylabs.ai](https://quirkylabs.ai). No pressure, no judgment, just more clarity.\"_

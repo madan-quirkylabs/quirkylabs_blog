@@ -72,7 +72,7 @@ So, darling teens, do not fret - ADHD is not a stone tied to your feet. It's a r
 
 Keep playing, keep exploring. Remember, an ADHD quiz for teens is not a full stop, but a curious question mark inviting you to journey deeper into the rabbit hole. After all, isn't life a thrilling quest for self-discovery? So, ready, set, go! Knowing is growing, and you're just beginning to bloom.
 
-## ✅ Quickfire ADHD Checklist
+## Quickfire ADHD Checklist
 
 1. Are your thoughts hopping like Easter bunnies on a sugar rush?  
 2. Is attention playing hide-and-seek, and you're always 'it'?  
@@ -81,7 +81,7 @@ Keep playing, keep exploring. Remember, an ADHD quiz for teens is not a full sto
 5. Does the engine in your focus car stutter, even with pedal to the metal? 
 6. If you answered yes to all, your world might fit the 'ADHD Quiz for Teens' puzzle. Let's see!
 
-## ❓ Frequently Asked Questions
+## Frequently Asked Questions
 
 <details><summary>What is this ADHD Quiz for Teens?</summary>
 Oh, it's a fun little detective tool! Helps find small clues if you might have this bouncy thing called ADHD. Like playing 'spot the difference' but with your feelings!</details>
@@ -102,4 +102,5 @@ It's solid, but not magic⸺it's based on professional-grade ADHD scales. Think 
 After the quiz, show your results to your doc. It's like a tiny treasure map about you. They can then guide you on your journey with expert advice.</details>
 
 
-"Adventure awaits! Chart your unique galaxy with our 'ADHD Quiz for Teens' at [QuirkyLabs.ai](https://quirkylabs.ai)!"
+
+> _\"If any part of this resonated with you — maybe it's time to explore a little further. Start with our free ADHD self-assessment at [quirkylabs.ai](https://quirkylabs.ai). No pressure, no judgment, just more clarity.\"_

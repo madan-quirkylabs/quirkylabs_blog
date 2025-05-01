@@ -72,7 +72,7 @@ Take a deep breath and welcome these results like a cozy, afternoon sunbeam. The
 
 Remember, there's always the sunrise after the darkest night, and there's always room for growth, laughter and joy after the test. Now, go out into your big, beautiful world, you brave explorer, armed with just a little more understanding of yourself.
 
-## ✅ Quickfire ADHD Checklist
+## Quickfire ADHD Checklist
 
 1. Ready to dive into the pool of understanding? Start by finding a comfy chair.
 2. Pop open your trusty laptop like a treasure chest full of secrets!
@@ -81,7 +81,7 @@ Remember, there's always the sunrise after the darkest night, and there's always
 5. Answer honestly like you're chatting with your best fluffy confidant, your teddy bear.
 6. Finally, hit that submit button like a buzzer on a lively game show - voila!
 
-## ❓ Frequently Asked Questions
+## Frequently Asked Questions
 
 <details>
 <summary>What's this free online ADHD test all about?</summary>
@@ -113,4 +113,5 @@ You did it, you smarty pants! Now, it's show and tell time. Share your test resu
 You bet, but as a fun project, not a science exam. Kids' brains are squishy playgrounds with lots of swings and slides! Make sure an adult's around for guidance when needed. Bonus tip: High-five your kiddo after each question. Make it a team effort!
 </details>
 
-"Embark on a bold quest at QuirkyLabs.ai. Chart your individual galaxy with our free online ADHD test!"
+
+> _\"If any part of this resonated with you — maybe it's time to explore a little further. Start with our free ADHD self-assessment at [quirkylabs.ai](https://quirkylabs.ai). No pressure, no judgment, just more clarity.\"_

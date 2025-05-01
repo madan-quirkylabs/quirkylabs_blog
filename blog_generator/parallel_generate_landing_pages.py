@@ -144,11 +144,11 @@ def assemble_blog(sections):
 
 {sections['story_part_3']}
 
-## ✅ Quickfire ADHD Checklist
+## Quickfire ADHD Checklist
 
 {sections['checklist']}
 
-## ❓ Frequently Asked Questions
+## Frequently Asked Questions
 
 {sections['faq']}
 

@@ -3,7 +3,7 @@ title: "ADHD vs Autism: Key Differences, Overlaps, and How They Feel"
 description: "Confused about ADHD vs Autism? Discover how they overlap, differ, and what it means for you. Gentle, hopeful guidance. Free ADHD quiz included."
 slug: "adhd-vs-autism"
 date: 2024-04-25
-draft: false
+draft: true
 tags: ["ADHD", "Autism", "Neurodivergence", "Mental Health", "Self-Discovery"]
 categories: ["ADHD Guides"]
 keywords: ["adhd vs autism", "difference between adhd and autism", "adhd and autism overlap"]

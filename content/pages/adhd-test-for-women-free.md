@@ -80,7 +80,7 @@ After all, everyone is a unique puzzle in this world, isn't it true? Each puzzle
 
 So, don't just put that ADHD test for women free aside. Pick it up, if you haven't already. Spin it like a kaleidoscope of self-awareness. You've got this, brave soul. Keep exploring, forge ahead with a playful heart. Your unique puzzle is waiting to be solved, and guess what? You are the artist who holds the brush!
 
-## ✅ Quickfire ADHD Checklist
+## Quickfire ADHD Checklist
 
 1. Is your brain like a 24/7 carnival, rides spinning, neon lights flashing?
 2. Are to-do lists like snakes - always slithering away or biting at your heels?
@@ -89,7 +89,7 @@ So, don't just put that ADHD test for women free aside. Pick it up, if you haven
 5. Is time like a mischievous cat, constantly hiding or rushing past you?
 6. If you’re nodding, this cozy 'ADHD test for women free' version awaits!
 
-## ❓ Frequently Asked Questions
+## Frequently Asked Questions
 
 <details><summary>What is this 'ADHD Test for Women (Free Version)'?</summary>It's a nifty quiz to give you some clues if you might have ADHD. It can't replace a doctor, but it's a good start!</details>
 
@@ -103,4 +103,5 @@ So, don't just put that ADHD test for women free aside. Pick it up, if you haven
 
 <details><summary>Can I still have ADHD, even if the test says I don't?</summary>Of course, ladybug! This test does it’s best, but your feelings are super valid too. Some symptoms might be just too good at hide and seek!</details>
 
-Begin your adventure! Chart your galaxy with a free ADHD test for women at QuirkyLabs.ai.
+
+> _\"If any part of this resonated with you — maybe it's time to explore a little further. Start with our free ADHD self-assessment at [quirkylabs.ai](https://quirkylabs.ai). No pressure, no judgment, just more clarity.\"_
