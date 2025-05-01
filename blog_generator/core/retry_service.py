@@ -39,9 +39,9 @@ def retry_blog(file_name):
             delete_file(retry_path)
             print(f"{bcolors.OKGREEN}🧹 Successfully retried and cleaned: {slug}{bcolors.ENDC}")
         else:
-            new_failure_path = os.path.join(PERMANENT_FAILURE_DIR, file_name)
+            new_failure_path = os.path.join(PERMANENT_FAILURE_DIR, f"__failed_{file_name}")
             move_file(retry_path, new_failure_path)
-            print(f"{bcolors.WARNING}🚨 Permanently failed blog moved: {slug}{bcolors.ENDC}")
+            print(f"{bcolors.WARNING}🚨 Permanently failed blog moved: __failed_{file_name}{bcolors.ENDC}")
 
         return result
 
