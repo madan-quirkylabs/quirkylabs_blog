@@ -93,6 +93,9 @@ def validate_faq(content, primary_keyword):
 
     keyword_matches = sum(1 for q in questions if keyword_normalized in q)
 
+    if "**1." in content or "<summary>" not in content:
+        logging.warning("⚠️ FAQ appears to be markdown-style or unstructured.")
+
     if len(questions) < 4 or keyword_matches < 1:
         logging.warning(f"⚠️ FAQ validation failed. Found {len(questions)} questions, {keyword_matches} keyword matches.")
         logging.debug("FAQ content:\n" + content)

@@ -23,20 +23,20 @@
         {
             "key": "faq_core",
             "heading": "Practical FAQs",
-            "prompt": "Write 4–6 FAQs about '{{Topic}}'. Format using HTML: <details><summary>...</summary><p>...</p></details>. Each question must include the exact phrase '{{primary_keyword}}'.",
-            "system_instruction": "Generate pragmatic, search-optimized FAQs."
+            "prompt": "Write 4–6 FAQs about '{{Topic}}'. Use the exact phrase '{{primary_keyword}}' in each question. Format **strictly** using HTML: <details><summary>Question</summary><p>Answer</p></details>. No bullet points, no numbering, no Markdown. Output must be valid HTML only.",
+            "system_instruction": "Generate pragmatic, search-optimized FAQs. Must use strict HTML formatting with <details> and <summary>."
         },
         {
             "key": "faq_curious",
             "heading": "Curious ADHD Questions",
-            "prompt": "Write quirky or emotionally reflective FAQs about '{{Topic}}'...",
-            "system_instruction": "Respond like a friendly guide, focused on emotional nuance."
+            "prompt": "Write 4–6 emotionally curious or quirky ADHD-style FAQs about '{{Topic}}'. Format strictly using HTML: <details><summary>Question</summary><p>Answer</p></details>. Include one or two metaphors. No markdown, no numbering — just clean HTML.",
+            "system_instruction": "Respond like a friendly guide with cozy emotional nuance. Use strict HTML structure."
         },
         {
             "key": "faq_cta",
             "heading": "Want to Check Yourself?",
-            "prompt": "Write one FAQ that invites people to take our self-assessment...",
-            "system_instruction": "Gently encourage the reader to visit QuirkyLabs.ai"
+            "prompt": "Write 1 FAQ that invites readers to take our free self-assessment for '{{Topic}}' at [QuirkyLabs.ai](https://quirkylabs.ai). Use cozy ADHD-friendly tone. Format strictly using HTML: <details><summary>Question</summary><p>Answer with link inside.</p></details>. No markdown formatting.",
+            "system_instruction": "Gently encourage the reader to visit QuirkyLabs.ai. Use strict HTML structure."
         }
     ],
     "cta": {
