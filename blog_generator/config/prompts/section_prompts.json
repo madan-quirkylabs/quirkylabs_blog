@@ -19,10 +19,26 @@
         "prompt": "Create a playful, vivid, emotionally quirky checklist for '{{Topic}}'. 4–6 points maximum. Each point must use colorful metaphors or relatable imagery. Make readers laugh, nod, or feel seen. Short, cozy, ADHD-friendly phrasing (max 2 lines per point). Mention '{{Primary Keyword}}' naturally once if it fits.",
         "system_instruction": "Generate Checklist section only. Prioritize emotional vivid metaphors, playful cozy phrasing. Use short playful sentences (10–14 words max). Prefer simple vocabulary. Target Grade 6–7 readability (Flesch score above 60). Stay tightly anchored to '{{Topic}}'."
     },
-    "faq": {
-        "prompt": "Write 6 FAQs about '{{Topic}}'. Each question should match long-tail keyword phrases that someone would search on Google. Use exact-match or close-match phrasing for '{{Primary Keyword}}' in at least 3 of the questions. Vary question structures (How, What, Why, Can, Is it normal if...). Each answer should begin with a clear one-line summary (snippet-friendly), followed by 1–2 playful ADHD-friendly sentences or tips. Wrap all FAQs in <details><summary>...</summary><p>...</p></details> blocks. Add <!-- FAQ Structured Data Start --> before the first FAQ and <!-- FAQ Structured Data End --> after the last one.",
-        "system_instruction": "Generate 6 FAQ entries tightly focused on '{{Topic}}'. Match actual Google-style queries using exact keyword phrases for SEO. Use cozy validating tone and short playful follow-up tips after a one-line summary. Ensure 3 questions include '{{Primary Keyword}}' exactly or nearly. Wrap in valid HTML <details> blocks. Keep phrasing playful but optimized for search visibility."
-    },
+    "faq_sections": [
+        {
+            "key": "faq_core",
+            "heading": "Practical FAQs",
+            "prompt": "Write 4–6 FAQs about '{{Topic}}'. Format using HTML: <details><summary>...</summary><p>...</p></details>. Each question must include the exact phrase '{{primary_keyword}}'.",
+            "system_instruction": "Generate pragmatic, search-optimized FAQs."
+        },
+        {
+            "key": "faq_curious",
+            "heading": "Curious ADHD Questions",
+            "prompt": "Write quirky or emotionally reflective FAQs about '{{Topic}}'...",
+            "system_instruction": "Respond like a friendly guide, focused on emotional nuance."
+        },
+        {
+            "key": "faq_cta",
+            "heading": "Want to Check Yourself?",
+            "prompt": "Write one FAQ that invites people to take our self-assessment...",
+            "system_instruction": "Gently encourage the reader to visit QuirkyLabs.ai"
+        }
+    ],
     "cta": {
         "prompt": "Write a soft, mischievous Call to Adventure inviting readers to explore '{{Topic}}' at [QuirkyLabs.ai](https://quirkylabs.ai). Frame it as 'charting their galaxy' or 'joining a fun quest'. Cozy, validating, adventurous tone. Mention '{{Primary Keyword}}' naturally if it fits.",
         "system_instruction": "Generate CTA only. Cozy, playful adventurous tone inviting exploration. Use short playful sentences (10–14 words max). Prefer simple vocabulary. Target Grade 6–7 readability (Flesch score above 60). Stay tightly anchored to '{{Topic}}'."
