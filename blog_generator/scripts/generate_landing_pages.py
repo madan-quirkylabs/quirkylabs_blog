@@ -9,6 +9,7 @@ import pandas as pd
 import textstat
 from datetime import datetime
 import re
+from bs4 import BeautifulSoup
 
 # Setup project path
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
@@ -39,6 +40,9 @@ with open(SECTION_PROMPTS_PATH, "r", encoding="utf-8") as f:
 import re
 import json
 
+def strip_html_tags(html):
+    return BeautifulSoup(html, "html.parser").get_text().strip()
+
 def faq_to_jsonld(faq_html):
     # More tolerant regex: allows newlines, spaces, and nested tags inside
     pattern = re.compile(
@@ -62,7 +66,7 @@ def faq_to_jsonld(faq_html):
             "name": clean_q,
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": clean_a
+                "text": strip_html_tags(a)
             }
         })
 
