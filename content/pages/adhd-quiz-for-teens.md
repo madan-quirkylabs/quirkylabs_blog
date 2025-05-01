@@ -10,6 +10,8 @@ tags: ["ADHD", "Neurodivergence"]
 keywords: ["teen adhd symptoms", "adhd self test teen", "adhd test high school"]
 ---
 
+## Got a Bouncy Brain? Step into the ADHD Forest and Find Out!
+
 Hey, Quiz Whiz! 
 
 Ever felt like a race car without brakes? Zoom! Bam! Splash! That's ADHD, pal.

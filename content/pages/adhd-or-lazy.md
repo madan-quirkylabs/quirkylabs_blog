@@ -42,7 +42,7 @@ So where does this thrilling brain adventure lead us? Right into the heart of th
 
 Folks often mistake ADHD for laziness. Like confusing pizza and pie – they might look round and delicious, but inside, they're totally different! ADHD resembles a high-speed ping-pong match inside your head. Thoughts bounce back and forth, making it hard to focus on one thing. Laziness, on the other hand, is like a slow-motion video. There's not much happening, and even less effort involved.
 
-## Meet Snowflake, the Fast-Fox
+### Meet Snowflake, the Fast-Fox
 
 Imagine heading to the supermarket for some awesome ice cream. Along the way, you get distracted by delightful chattering squirrels, a fun street musician, or snowflakes dancing in the wind. That's your cute but mischievous invisible pet fox, Snowflake (a refreshing nickname for ADHD, yeah?). Snowflake is zippy and loves to explore. Kind of like a turbo-charged bubbles machine - bouncing here, there, and everywhere!
 
