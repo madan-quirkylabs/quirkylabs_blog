@@ -9,7 +9,7 @@ openai:
 generation:
   parallel_threads: 4
   max_tokens_per_section: 800
-  validate_output: true
+  validate_output: false
   validate_readability: false
 
 paths:

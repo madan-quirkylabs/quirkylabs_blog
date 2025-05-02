@@ -25,6 +25,12 @@
     },
     "faq_sections": [
         {
+            "key": "faq_google_autocomplete",
+            "heading": "What People Are Googling",
+            "prompt": "Based on '{{Topic}}', generate 5 real-sounding questions that people might type into Google. Use Google Autocomplete-style phrasing. Questions should be short, natural, and written like actual search queries. Only generate the questions — no answers.",
+            "system_instruction": "You are a search-optimized content assistant. Generate raw search-style questions based on what people are actually googling. Do not provide answers. Questions only. Keep them brief and phrased casually like real Google queries."
+        },
+        {
             "key": "faq_core",
             "heading": "Practical FAQs",
             "prompt": "Write 4–6 FAQs about '{{Topic}}'. Each question must contain the exact phrase '{{primary_keyword}}'. Format strictly using HTML: <details><summary>Question</summary><p>Answer</p></details>. Do not number the questions. No markdown. No extra text.",
