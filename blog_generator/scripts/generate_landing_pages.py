@@ -59,6 +59,19 @@ FAQ_TYPES = {
     "faq_cta": {"style": "cta"}
 }
 
+external_links = """
+## Trusted ADHD Resources
+
+Here are some ADHD resources from reputable organizations:
+
+- [CHADD – Children and Adults with ADHD](https://chadd.org)
+- [ADDitude Magazine](https://www.additudemag.com)
+- [CDC – ADHD Resources](https://www.cdc.gov/ncbddd/adhd)
+- [ADHD Foundation (UK)](https://www.adhdfoundation.org.uk)
+- [Understood.org – For Neurodiverse Learning](https://www.understood.org)
+- [Mayo Clinic – ADHD Overview](https://www.mayoclinic.org/diseases-conditions/adhd)
+"""
+
 def interpolate_prompt(prompt, topic, primary_keyword):
     return (prompt.replace("{{Topic}}", topic)
                  .replace("{{topic}}", topic)
@@ -250,6 +263,9 @@ def assemble_blog(sections, row):
 {breadcrumb_structured}
 </script>
 {related_block}
+
+{external_links}
+
 ---
 
 **Written by our research team from [QuirkyLabs.ai](https://quirkylabs.ai)**  
