@@ -144,14 +144,13 @@ keywords: {kws}
 ---\n\n"""
 
 def assemble_blog(sections, faq_section_defs):
-    faq_blocks = []
-    for faq_def in faq_section_defs:
-        key = faq_def["key"]
-        heading = faq_def["heading"]
-        if key in sections:
-            faq_blocks.append(f"## {heading}\n\n{sections[key]}")
+    # Merge all FAQ HTML blocks without headings
+    faq_section_keys = [f["key"] for f in faq_section_defs]
+    all_faq_html = "\n".join([sections[key] for key in faq_section_keys if key in sections])
 
-    faq_structured = faq_to_jsonld(sections.get("faq_core", ""))
+    # Generate FAQ structured data
+    faq_structured = faq_to_jsonld(all_faq_html)
+
     return f"""
 {sections['emotional_hook']}
 
@@ -165,9 +164,11 @@ def assemble_blog(sections, faq_section_defs):
 
 {sections['checklist']}
 
-{chr(10).join(faq_blocks)}
+## Frequently Asked Questions
 
-<script type=\"application/ld+json\">
+{all_faq_html}
+
+<script type="application/ld+json">
 {faq_structured}
 </script>
 """

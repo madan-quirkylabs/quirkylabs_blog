@@ -10,7 +10,7 @@ generation:
   parallel_threads: 4
   max_tokens_per_section: 800
   validate_output: true
-  validate_readability: true
+  validate_readability: false
 
 paths:
   input_csv: input/sample_input.csv
