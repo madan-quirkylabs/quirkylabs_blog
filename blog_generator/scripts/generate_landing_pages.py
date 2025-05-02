@@ -213,6 +213,69 @@ def save_retry_payload(row, reason):
     with open(retry_path, "w", encoding="utf-8") as f:
         json.dump(payload, f, indent=2)
 
+def get_related_slug_map(pillar_slug, current_slug):
+    spokes = pillar_config.get(pillar_slug, {}).get("spokes", [])
+    links = {}
+    for slug in spokes:
+        if slug == current_slug:
+            continue
+        anchor = slug.replace("-", " ").title()
+        url = f"/pages/{slug}/"
+        links[slug] = {"anchor": anchor, "url": url}
+    return links
+
+def get_link_insertion_sentence(blog_section, topic, slug_map):
+    formatted_json = "\n".join([
+        f"- {v['anchor']}: {v['url']}" for v in slug_map.values()
+    ])
+
+    prompt = f"""
+Below is a story segment about "{topic}". Your job is to **seamlessly weave in ONE related ADHD topic** from the list below. Return **just one emotionally cozy sentence** that fits naturally. Do NOT list all links. Use exact anchor and link.
+
+Related Topics:
+{formatted_json}
+
+Story Segment:
+"""
+
+    messages = [
+        {"role": "system", "content": "You are a playful ADHD blogger helping link related topics naturally."},
+        {"role": "user", "content": prompt + blog_section}
+    ]
+
+    try:
+        return openai_client.chat_completion(messages)
+    except Exception as e:
+        return None  # Fallback will handle this
+
+def insert_sentence_into_section(section_text, sentence):
+    paras = section_text.strip().split("\n\n")
+    if len(paras) > 2:
+        paras.insert(2, sentence)
+    else:
+        paras.append(sentence)
+    return "\n\n".join(paras)
+
+def generate_story_section_with_link(section_name, topic, keyword, pillar_slug, current_slug, generate_func):
+    section_text = generate_func(section_name, topic, keyword)
+
+    if section_name not in ["story_part_2", "story_part_3"]:
+        return section_text
+
+    slug_map = get_related_slug_map(pillar_slug, current_slug)
+    if not slug_map:
+        return section_text  # No links to inject
+
+    injected_sentence = get_link_insertion_sentence(section_text, topic, slug_map)
+
+    if injected_sentence:
+        return insert_sentence_into_section(section_text, injected_sentence.strip())
+    else:
+        # fallback static
+        fallback = next(iter(slug_map.values()))
+        static = f"You might also want to check out [{fallback['anchor']}]({fallback['url']})."
+        return insert_sentence_into_section(section_text, static)
+
 def generate_keywords_from_blog(topic, blog_body):
     prompt_template = prompts_dict["keyword_generation"]["prompt"]
     system_instruction = prompts_dict["keyword_generation"]["system_instruction"]
@@ -253,9 +316,17 @@ def generate_blog(row):
                 try:
                     if section in FAQ_TYPES:
                         content = generate_faq_section(section, topic, keyword)
+                    elif section in ["story_part_2", "story_part_3"]:
+                        content = generate_story_section_with_link(
+                            section_name=section,
+                            topic=topic,
+                            keyword=keyword,
+                            pillar_slug=row.get("pillar_slug", ""),
+                            current_slug=row.get("slug", ""),
+                            generate_func=generate_section
+                        )
                     else:
                         content = generate_section(section, topic, keyword)
-
                     sections[section] = content
                     log["section_attempts"][-1]["attempts"].append({"status": "success"})
                     success = True
