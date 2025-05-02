@@ -171,11 +171,58 @@ keywords: {kws}
 ---\n\n"""
 
 def assemble_blog(sections, row):
-    all_faq_html = "".join([f"### {f['heading']}\n" + sections[f['key']] for f in faq_section_defs if f['key'] in sections])
-    faq_structured = faq_to_jsonld(all_faq_html)
-    related_block = render_related_spokes(row['pillar_slug'], row['slug'])
+    try:
+        all_faq_html = "".join([
+            f"### {f['heading']}\n" + sections[f['key']]
+            for f in faq_section_defs if f['key'] in sections
+        ])
+        faq_structured = faq_to_jsonld(all_faq_html)
+        related_block = render_related_spokes(row['pillar_slug'], row['slug'])
 
-    return f"""
+        article_structured = json.dumps({
+            "@context": "https://schema.org",
+            "@type": "Article",
+            "author": {
+                "@type": "Person",
+                "name": "QuirkyLabs",
+                "url": "https://quirkylabs.ai/about"
+            },
+            "headline": row["meta_title"],
+            "mainEntityOfPage": f"https://blog.quirkylabs.ai/pages/{row['slug']}/",
+            "datePublished": datetime.utcnow().strftime('%Y-%m-%d')
+        }, indent=2)
+
+        breadcrumb_structured = json.dumps({
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Home",
+                    "item": "https://quirkylabs.ai/"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Blog",
+                    "item": "https://blog.quirkylabs.ai/"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "name": row["meta_title"],
+                    "item": f"https://blog.quirkylabs.ai/pages/{row['slug']}/"
+                }
+            ]
+        }, indent=2)
+
+    except Exception as e:
+        print(f"[assemble_blog] Error building schemas: {e}")
+        raise
+
+    try:
+        return f"""
 {sections['emotional_hook']}
 
 {sections['story_part_1']}
@@ -192,10 +239,27 @@ def assemble_blog(sections, row):
 
 {all_faq_html}
 
-<script type=\"application/ld+json\">
+<script type="application/ld+json">
 {faq_structured}
 </script>
-{related_block}"""
+<script type="application/ld+json">
+{article_structured}
+</script>
+<script type="application/ld+json">
+{breadcrumb_structured}
+</script>
+{related_block}
+---
+
+**Written by our research team from [QuirkyLabs.ai](https://quirkylabs.ai)**  
+Alex builds ADHD-friendly productivity tools with stories, science, and squirrels.  
+[Learn more →](https://quirkylabs.ai)
+
+---
+"""
+    except Exception as e:
+        print(f"[assemble_blog] Error constructing blog body: {e}")
+        raise
 
 def save_log(slug, obj):
     path = os.path.join(LOGS_DIR, f"{slug}.json")
@@ -341,6 +405,7 @@ def generate_blog(row):
                 save_retry_payload(row, section)
                 return
 
+        row["meta_title"] = meta_title
         blog = assemble_blog(sections, row)
         generated_keywords = generate_keywords_from_blog(topic, blog)
         gpt_keywords = [kw.strip() for kw in generated_keywords.split(",") if kw.strip()]
