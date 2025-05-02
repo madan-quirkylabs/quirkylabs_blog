@@ -157,9 +157,10 @@ def render_related_spokes(pillar_slug, current_slug):
 
 def build_front_matter(meta_title, meta_desc, slug, keywords):
     today = datetime.utcnow().strftime('%Y-%m-%d')
+    clean_title = meta_title.strip('"').strip()
     kws = "[" + ", ".join(f'\"{k.strip()}\"' for k in keywords.split(",") if k.strip()) + "]"
     return f"""---
-title: \"{meta_title}\"
+title: \"{clean_title}\"
 description: \"{meta_desc}\"
 slug: \"{slug}\"
 date: {today}
@@ -312,6 +313,21 @@ Story Segment:
     except Exception as e:
         return None  # Fallback will handle this
 
+def generate_emotional_meta_title(topic, keyword):
+    prompt = f"""
+Rewrite this topic into a benefit-driven, emotionally punchy meta title.
+Target adults with ADHD. Make it cozy, playful, and clickable.
+Avoid dry or generic phrasing.
+
+Topic: "{topic}"
+Keyword: "{keyword}"
+"""
+    messages = [
+        {"role": "system", "content": "You're a playful SEO expert for ADHD blogs."},
+        {"role": "user", "content": prompt}
+    ]
+    return openai_client.chat_completion(messages)
+
 def insert_sentence_into_section(section_text, sentence):
     paras = section_text.strip().split("\n\n")
     if len(paras) > 2:
@@ -365,7 +381,7 @@ def generate_blog(row):
     topic = row["topic"]
     keyword = row["primary_keyword"]
     slug = row["slug"]
-    meta_title = row.get("meta_title", topic)
+    meta_title = generate_emotional_meta_title(topic, keyword)
     keywords = row.get("keywords", "")
 
     sections = {}
