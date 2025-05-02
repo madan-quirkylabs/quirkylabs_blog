@@ -19,6 +19,10 @@
         "prompt": "Create a playful, vivid, emotionally quirky checklist for '{{Topic}}'. 4–6 points maximum. Each point must use colorful metaphors or relatable imagery. Make readers laugh, nod, or feel seen. Short, cozy, ADHD-friendly phrasing (max 2 lines per point). Mention '{{Primary Keyword}}' naturally once if it fits.",
         "system_instruction": "Generate Checklist section only. Prioritize emotional vivid metaphors, playful cozy phrasing. Use short playful sentences (10–14 words max). Prefer simple vocabulary. Target Grade 6–7 readability (Flesch score above 60). Stay tightly anchored to '{{Topic}}'."
     },
+    "keyword_generation": {
+        "prompt": "Suggest 5–7 SEO keywords (comma-separated) for a blog about '{{Topic}}'. This blog is written for adults with ADHD and uses a playful, validating tone. Base the keywords on the content and emotional themes below:\n\n{{Content}}",
+        "system_instruction": "You are an SEO expert helping create ADHD-friendly content. Keep keyword suggestions focused, not too general. Format them as a comma-separated list."
+    },
     "faq_sections": [
         {
             "key": "faq_core",

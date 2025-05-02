@@ -8,6 +8,8 @@ import textstat
 from datetime import datetime
 import re
 from bs4 import BeautifulSoup
+import requests
+
 
 # Setup project path
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
@@ -50,6 +52,25 @@ section_order = [
     *faq_section_keys,
     "cta"
 ]
+
+def generate_keywords_from_blog(topic, blog_body):
+    prompt_template = prompts_dict["keyword_generation"]["prompt"]
+    system_instruction = prompts_dict["keyword_generation"]["system_instruction"]
+
+    # Interpolate placeholders
+    prompt = prompt_template.replace("{{Topic}}", topic).replace("{{Content}}", blog_body[:1500])
+
+    messages = [
+        {"role": "system", "content": system_instruction},
+        {"role": "user", "content": prompt}
+    ]
+
+    try:
+        response = openai_client.chat_completion(messages)
+        return response
+    except Exception as e:
+        print(f"[KeywordGen] Error: {e}")
+        return "ADHD, Neurodivergence"
 
 def render_related_spokes(pillar_slug, current_slug):
     if pillar_slug not in pillar_config:
@@ -200,6 +221,17 @@ def save_retry_payload(row, reason):
     with open(retry_path, "w", encoding="utf-8") as f:
         json.dump(payload, f, indent=2)
 
+def fetch_autocomplete_suggestions(query):
+    url = f"https://suggestqueries.google.com/complete/search?client=firefox&q={query}"
+    try:
+        response = requests.get(url)
+        suggestions = response.json()[1]
+        return suggestions
+    except Exception as e:
+        print(f"[Autocomplete] Error for '{query}': {e}")
+        return []
+
+
 def generate_blog(row):
     topic = row["topic"]
     keyword = row["primary_keyword"]
@@ -242,6 +274,16 @@ def generate_blog(row):
                 return
 
         blog = assemble_blog(sections, faq_section_defs, row)
+        default_keywords = row.get("keywords", "").strip() or "ADHD, Neurodivergence"
+        generated_keywords = generate_keywords_from_blog(topic, blog)
+        gpt_keywords = [kw.strip() for kw in generated_keywords.split(",") if kw.strip()]
+
+        autocomplete_keywords = fetch_autocomplete_suggestions(topic.lower())
+        autocomplete_keywords = [kw.strip() for kw in autocomplete_keywords if "adhd" in kw.lower()]
+
+        combined_keywords = list(dict.fromkeys(gpt_keywords + autocomplete_keywords))
+        keywords = ",".join(combined_keywords[:7])  # trim to top 7 if needed
+
         flesch, grade = check_readability(blog)
         log["readability"] = {"flesch": flesch, "grade": grade}
 
