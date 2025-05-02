@@ -14,7 +14,7 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
 # Load internal modules
 from utils.paths import INPUT_DIR, SUCCESS_DIR, FAILURE_DIR, LOGS_DIR, SECTION_PROMPTS_PATH, RETRIES_DIR
-from config.config_loader import load_config
+from config.config_loader import load_config, load_pillar_config
 from core.openai_client import OpenAIClient
 
 # Configure logging
@@ -22,6 +22,7 @@ logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %
 
 # Load config and OpenAI client
 config = load_config()
+pillar_config = load_pillar_config()
 openai_client = OpenAIClient(config)
 
 # Ensure output dirs exist
@@ -49,6 +50,20 @@ section_order = [
     *faq_section_keys,
     "cta"
 ]
+
+def render_related_spokes(pillar_slug, current_slug):
+    if pillar_slug not in pillar_config:
+        return ""
+    related_slugs = pillar_config[pillar_slug]["spokes"]
+    links = []
+    for slug in related_slugs:
+        if slug == current_slug:
+            continue
+        title = slug.replace("-", " ").title()
+        links.append(f"- [{title}](/pages/{slug}/)")
+    if not links:
+        return ""
+    return "\n\n## Explore More in This Series\n\n" + "\n".join(links)
 
 def interpolate_prompt(prompt, topic, primary_keyword):
     return (prompt.replace("{{Topic}}", topic)
@@ -114,10 +129,7 @@ def generate_section(section, topic, primary_keyword, custom_prompt=None, custom
     if not prompt or not system_instruction:
         raise KeyError(f"Prompt or system_instruction missing for section '{section}'")
 
-    prompt = prompt.replace("{{Topic}}", topic)
-    
-    prompt = prompt.replace("{{Primary Keyword}}", primary_keyword)
-    prompt = prompt.replace("{{primary_keyword}}", primary_keyword)
+    prompt = interpolate_prompt(prompt, topic, primary_keyword)
 
     messages = [
         {"role": "system", "content": system_instruction},
@@ -143,13 +155,11 @@ tags: [\"ADHD\", \"Neurodivergence\"]
 keywords: {kws}
 ---\n\n"""
 
-def assemble_blog(sections, faq_section_defs):
-    # Merge all FAQ HTML blocks without headings
+def assemble_blog(sections, faq_section_defs, row):
     faq_section_keys = [f["key"] for f in faq_section_defs]
     all_faq_html = "\n".join([sections[key] for key in faq_section_keys if key in sections])
-
-    # Generate FAQ structured data
     faq_structured = faq_to_jsonld(all_faq_html)
+    related_block = render_related_spokes(row['pillar_slug'], row['slug'])
 
     return f"""
 {sections['emotional_hook']}
@@ -168,9 +178,10 @@ def assemble_blog(sections, faq_section_defs):
 
 {all_faq_html}
 
-<script type="application/ld+json">
+<script type=\"application/ld+json\">
 {faq_structured}
 </script>
+{related_block}
 """
 
 def save_log(slug, obj):
@@ -230,7 +241,7 @@ def generate_blog(row):
                 save_retry_payload(row, section)
                 return
 
-        blog = assemble_blog(sections, faq_section_defs)
+        blog = assemble_blog(sections, faq_section_defs, row)
         flesch, grade = check_readability(blog)
         log["readability"] = {"flesch": flesch, "grade": grade}
 

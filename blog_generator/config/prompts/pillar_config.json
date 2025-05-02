@@ -1,0 +1,74 @@
+{
+    "adhd-self-checks": {
+        "pillar_slug": "adhd-self-checks",
+        "pillar_title": "Want to Check Yourself for ADHD?",
+        "spokes": [
+            "adhd-self-assessment-guide",
+            "adhd-test-vs-quiz-differences",
+            "how-to-know-if-you-have-adhd",
+            "adhd-quiz-for-working-professionals",
+            "adhd-checklist-for-adults",
+            "adhd-self-test-vs-formal-diagnosis"
+        ]
+    },
+    "adhd-or-something-else": {
+        "pillar_slug": "adhd-or-something-else",
+        "pillar_title": "Is It ADHD or Something Else?",
+        "spokes": [
+            "adhd-vs-laziness",
+            "adhd-vs-anxiety",
+            "adhd-or-burnout",
+            "adhd-vs-autism-in-adults",
+            "adhd-or-depression",
+            "why-your-struggles-might-not-be-just-stress"
+        ]
+    },
+    "adhd-symptoms-by-type": {
+        "pillar_slug": "adhd-symptoms-by-type",
+        "pillar_title": "Signs of ADHD in Adults \u2014 And How They Show Up",
+        "spokes": [
+            "adhd-symptoms-in-women",
+            "adhd-symptoms-in-men",
+            "adhd-burnout-symptoms",
+            "adhd-inattentive-type-in-adults",
+            "adhd-symptoms-at-work",
+            "adhd-symptoms-checklist-pdf"
+        ]
+    },
+    "adhd-and-emotions": {
+        "pillar_slug": "adhd-and-emotions",
+        "pillar_title": "Why ADHD Makes You Feel the Way It Does",
+        "spokes": [
+            "adhd-makes-me-feel-lazy",
+            "adhd-makes-me-hate-myself",
+            "adhd-and-shame-spirals",
+            "adhd-and-impostor-syndrome",
+            "adhd-and-worthlessness",
+            "adhd-makes-me-feel-stupid"
+        ]
+    },
+    "adhd-comorbid-confusion": {
+        "pillar_slug": "adhd-comorbid-confusion",
+        "pillar_title": "When ADHD Isn\u2019t Alone: Depression, Anxiety, Autism & More",
+        "spokes": [
+            "adhd-and-anxiety-in-adults",
+            "adhd-and-depression-symptoms",
+            "adhd-and-autism-overlap",
+            "adhd-and-bipolar-confusion",
+            "adhd-and-irritability",
+            "adhd-and-nightmares"
+        ]
+    },
+    "adhd-checklists-and-patterns": {
+        "pillar_slug": "adhd-checklists-and-patterns",
+        "pillar_title": "Do You See Yourself in These ADHD Patterns?",
+        "spokes": [
+            "adhd-patterns-in-working-adults",
+            "adhd-behaviors-checklist",
+            "adhd-daily-struggles",
+            "adhd-red-flags-in-routines",
+            "adhd-executive-dysfunction-signs",
+            "adhd-checklist-vs-symptom-tracking"
+        ]
+    }
+}
