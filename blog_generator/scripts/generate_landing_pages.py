@@ -9,6 +9,7 @@ from datetime import datetime
 import re
 from bs4 import BeautifulSoup
 import requests
+import random  # ensure this is already at the top
 
 # Setup project path
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
@@ -90,7 +91,11 @@ def generate_faq_questions(section_key, topic, keyword):
     raw = openai_client.chat_completion(messages)
 
     raw_lines = raw.strip().split("\n")
-    questions = [line.strip("-•* 1234567890.").strip() for line in raw_lines if "?" in line and len(line.strip()) > 5]
+    questions = [
+        line.strip("-•* 1234567890. ").strip().strip('"').strip("'")
+        for line in raw_lines
+        if "?" in line and len(line.strip()) > 5
+    ]
     return questions
 
 def generate_answer_for_question(question):
@@ -106,6 +111,8 @@ def generate_faq_section(section_key, topic, keyword):
     faq_blocks = []
 
     for question in questions:
+        # Remove any accidental <summary> wrapping
+        question = re.sub(r"</?summary>", "", question, flags=re.IGNORECASE).strip()
         answer = generate_answer_for_question(question)
         faq_blocks.append(f"<details><summary>{question}</summary><p>{answer.strip()}</p></details>")
 
@@ -157,16 +164,29 @@ def faq_to_jsonld(faq_html):
 def render_related_spokes(pillar_slug, current_slug):
     if pillar_slug not in pillar_config:
         return ""
+
     related_slugs = pillar_config[pillar_slug]["spokes"]
+    related_slugs = [slug for slug in related_slugs if slug != current_slug]
+
+    if not related_slugs:
+        return ""
+
+    # Shuffle and select top 8 related blogs
+    random.shuffle(related_slugs)
+    selected_slugs = related_slugs[:8]
+
     links = []
-    for slug in related_slugs:
-        if slug == current_slug:
-            continue
+    for slug in selected_slugs:
         title = slug.replace("-", " ").title()
         links.append(f"- [{title}](/pages/{slug}/)")
-    if not links:
-        return ""
-    return "\n\n## Explore More in This Series\n\n" + "\n".join(links)
+
+    return f"""
+<details>
+<summary><strong>Explore More in This Series</strong></summary>
+
+{chr(10).join(links)}
+</details>
+"""
 
 def build_front_matter(meta_title, meta_desc, slug, keywords):
     today = datetime.utcnow().strftime('%Y-%m-%d')
@@ -186,8 +206,8 @@ keywords: {kws}
 
 def assemble_blog(sections, row):
     try:
-        all_faq_html = "".join([
-            f"### {f['heading']}\n" + sections[f['key']]
+        all_faq_html = "\n\n".join([
+            f"### {f['heading']}\n\n{sections[f['key']]}"
             for f in faq_section_defs if f['key'] in sections
         ])
         faq_structured = faq_to_jsonld(all_faq_html)
