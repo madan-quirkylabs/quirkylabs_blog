@@ -1,6 +1,6 @@
 ---
 title: "Feel Understood: 'ADHD Nobody Gets My Brain' Unpacked!"
-description: "adhd nobody gets my brain: Feel like \"ADHD, nobody gets my brain\"? Dive into our blog where your unique mind is celebrated. Discover stories and insights that make you feel seen and valued. Join our cozy corner of understanding and upliftment!"
+description: "ADHD nobody gets my brain: Feel like \"ADHD, nobody gets my brain\"? Dive into our blog where your unique mind is celebrated. Discover stories and insights that make you feel seen and valued. Join our cozy corner of understanding and upliftment!"
 slug: "adhd-nobody-gets-my-brain"
 date: 2025-05-03
 draft: false

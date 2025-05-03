@@ -98,7 +98,7 @@ Keep shining, ADHD! Your colors make the world a prettier place.
 
 ### Want to Check Yourself?
 
-<details><summary>Do you feel like you're always "adhd working hard to fit in"? Why not take our free self-assessment?</summary><p>Absolutely, feeling like you're constantly trying to fit in can be really exhausting, can't it? It's like you're always adjusting your puzzle piece just to match the picture everyone else seems to be completing with ease. Taking a free self-assessment might just be a gentle step towards understanding your unique strengths and challenges a bit better. It’s a cozy, no-pressure way to start figuring out how to make your environment work for you, instead of the other way around. Give it a try, and see how it feels to lean into being your authentic self!</p></details>
+<details><summary>Do you feel like you're always "ADHD working hard to fit in"? Why not take our free self-assessment?</summary><p>Absolutely, feeling like you're constantly trying to fit in can be really exhausting, can't it? It's like you're always adjusting your puzzle piece just to match the picture everyone else seems to be completing with ease. Taking a free self-assessment might just be a gentle step towards understanding your unique strengths and challenges a bit better. It’s a cozy, no-pressure way to start figuring out how to make your environment work for you, instead of the other way around. Give it a try, and see how it feels to lean into being your authentic self!</p></details>
 
 <script type="application/ld+json">
 {

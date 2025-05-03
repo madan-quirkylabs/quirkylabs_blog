@@ -7,7 +7,7 @@ draft: false
 type: "page"
 categories: ["ADHD Guides"]
 tags: ["ADHD", "Neurodivergence"]
-keywords: ["adhd test", "adhd online quiz", "adhd self assessment", "free adhd test"]
+keywords: ["ADHD test", "ADHD online quiz", "ADHD self assessment", "free ADHD test"]
 ---
 
 ## Is Your Brain a Whirlwind of Glitter? Try the Free ADHD Test
@@ -44,9 +44,9 @@ This ADHD online test gave Lily her magical map. Some may call it a diagnosis, b
 
 More to come, but that’s where our story pauses. For now.
 
-Alright, ready? Let's dive back into our journey. This time we're investigating the "adhd test online free" idea. Let's imagine it like a fancy treasure hunt.
+Alright, ready? Let's dive back into our journey. This time we're investigating the "ADHD test online free" idea. Let's imagine it like a fancy treasure hunt.
 
-You pull up your favorite search engine (hello Mr. Google!). You type "adhd test online free". With a click, you're off. This is like diving headfirst into a coral-filled ocean. You're swimming amidst the bright colors of different websites, each with its own treasure to offer.
+You pull up your favorite search engine (hello Mr. Google!). You type "ADHD test online free". With a click, you're off. This is like diving headfirst into a coral-filled ocean. You're swimming amidst the bright colors of different websites, each with its own treasure to offer.
 
 Look! You spot a shiny link that says "free online ADHD test!" Lucky you! You click. Brace for adventure!
 
@@ -76,7 +76,7 @@ Remember, there's always the sunrise after the darkest night, and there's always
 
 1. Ready to dive into the pool of understanding? Start by finding a comfy chair.
 2. Pop open your trusty laptop like a treasure chest full of secrets!
-3. Seek out 'adhd test online free' as if it's king in a game of online hide and seek.
+3. Seek out 'ADHD test online free' as if it's king in a game of online hide and seek.
 4. Click the "Start" button like it's the gateway to a magical ADHD adventure!
 5. Answer honestly like you're chatting with your best fluffy confidant, your teddy bear.
 6. Finally, hit that submit button like a buzzer on a lively game show - voila!

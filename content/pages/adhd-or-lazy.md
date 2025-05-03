@@ -7,7 +7,7 @@ draft: false
 type: "page"
 categories: ["ADHD Guides"]
 tags: ["ADHD", "Neurodivergence"]
-keywords: ["executive dysfunction", "adhd quiz", "procrastination vs adhd"]
+keywords: ["executive dysfunction", "ADHD quiz", "procrastination vs adhd"]
 ---
 
 ## Tap-Tap-Twirly Brain: Adventures in Maybe-ADHD
@@ -24,7 +24,7 @@ So, come chat with us! We'll navigate this 'maybe-ADHD' muddle together—with a
 
 Imagine a whirling rainbow drum set. Watching those colorful drums spin wildly is like your brain on ADHD. Can't stop tapping? Maybe you're ADHD, not just lazy. 
 
-Now, you may ask, is it "adhd vs laziness"? Sit tight, my friend, I'm about to crank up the volume on that question. 
+Now, you may ask, is it "ADHD vs laziness"? Sit tight, my friend, I'm about to crank up the volume on that question. 
 
 Picture this: It's a sunny Tuesday afternoon. A tasty sandwich and crackling, crunchy chips await you. Your homework? Not so much. It's glaring at you like an old, grumpy cat. You tell it to shush. You want to enjoy your sandwich in peace.
 
@@ -38,7 +38,7 @@ But remember that the whizzing drums or lazy dog in your brain? They often get m
 
 So, are you team ADHD or team lazy? Let's venture forth and find out!
 
-So where does this thrilling brain adventure lead us? Right into the heart of the adhd vs laziness debate!
+So where does this thrilling brain adventure lead us? Right into the heart of the ADHD vs laziness debate!
 
 Folks often mistake ADHD for laziness. Like confusing pizza and pie – they might look round and delicious, but inside, they're totally different! ADHD resembles a high-speed ping-pong match inside your head. Thoughts bounce back and forth, making it hard to focus on one thing. Laziness, on the other hand, is like a slow-motion video. There's not much happening, and even less effort involved.
 

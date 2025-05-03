@@ -7,7 +7,7 @@ draft: false
 type: "page"
 categories: ["ADHD Guides"]
 tags: ["ADHD", "Neurodivergence"]
-keywords: ["adhd female quiz free", "women with adhd", "self test for adhd women"]
+keywords: ["ADHD female quiz free", "women with adhd", "self test for ADHD women"]
 ---
 
 ## Too Many Tabs in Your Head? Bella’s ADHD Adventure Might Feel Familiar
@@ -93,11 +93,11 @@ So, don't just put that ADHD test for women free aside. Pick it up, if you haven
 
 <details><summary>What is this 'ADHD Test for Women (Free Version)'?</summary>It's a nifty quiz to give you some clues if you might have ADHD. It can't replace a doctor, but it's a good start!</details>
 
-<details><summary>What does 'adhd test for women free' mean, exactly?</summary>It's a cost-free test to see if you might have ADHD. It's tailored for women. Perfect for a bit of self-discovery over coffee!</details>
+<details><summary>What does 'ADHD test for women free' mean, exactly?</summary>It's a cost-free test to see if you might have ADHD. It's tailored for women. Perfect for a bit of self-discovery over coffee!</details>
 
 <details><summary>How accurate is this test, you think?</summary>This is not a diagnostic tool, sweet pea, it's just a hint. Diagnose propers require a mental health pro. They beat any online test, hands down!</details>
 
-<details><summary>How do the 'adhd test for women free' results look like?</summary>Results are eye-opening insights about your behaviors! Remember, they're only pointers, not labels. It's like reading a fun personality buzzfeed quiz!</details>
+<details><summary>How do the 'ADHD test for women free' results look like?</summary>Results are eye-opening insights about your behaviors! Remember, they're only pointers, not labels. It's like reading a fun personality buzzfeed quiz!</details>
 
 <details><summary>What should I do after the test?</summary>Chuckle at the insights, sit with your feelings, and speak to a professional if you're worried. Celebrate knowledge, darling. Even a tiny insight can become a big win!</details>
 

@@ -1,6 +1,6 @@
 ---
-title: "adhd cant sit still: Unlock Joy: Embrace the Wiggle with ADHD Can't Sit Still!"
-description: "adhd cant sit still: Discover how \"ADHD can't sit still\" isn't just a challenge but a superpower! Dive into our blog for cozy insights and playful strategies that make you feel seen and celebrated. 🌟"
+title: "ADHD cant sit still: Unlock Joy: Embrace the Wiggle with ADHD Can't Sit Still!"
+description: "ADHD cant sit still: Discover how \"ADHD can't sit still\" isn't just a challenge but a superpower! Dive into our blog for cozy insights and playful strategies that make you feel seen and celebrated. 🌟"
 slug: "adhd-cant-sit-still"
 date: 2025-05-03
 draft: false
@@ -90,16 +90,16 @@ For everyone with sparks of boundless energy, remember: Your brilliance just nee
 
 ### Curious ADHD Questions
 
-<details><summary>Why does it feel like my 'adhd cant sit still' switch is always on?</summary><p>Ah, that feeling where you just can't seem to sit still can definitely be a common experience when you have ADHD! This happens because ADHD affects the regulation of neurotransmitters like dopamine in your brain, which influences your body’s activity and attention levels. It's like your body's internal engine is always revved up a bit higher than usual. Remember, it's perfectly okay to acknowledge this part of your ADHD. Sometimes, finding small, productive ways to channel that energy can really help, like using a fidget toy or standing desks, or even taking short, frequent breaks!</p></details>
-<details><summary>What are some creative ways to cope when my 'adhd cant sit still' during long meetings?</summary><p>Absolutely, long meetings can certainly feel like a marathon for those of us with ADHD! One creative way to cope is to bring a small, discreet fidget tool like a fidget spinner or stress ball that you can use under the table. It’s also helpful to doodle on a notepad, which can keep your hands busy and help you process information. If possible, standing at the back of the room or taking brief walking breaks can also be a great way to manage that restless energy. Remember, finding what works best for you is key, and it's perfectly okay to use these little strategies to help you stay focused and comfortable.</p></details>
-<details><summary>Can exercising help when my 'adhd cant sit still' feels overwhelming?</summary><p>Absolutely, exercise can be a wonderful tool for those jittery, can't-sit-still moments that come with ADHD. Engaging in physical activity can help soothe your nervous system and burn off that excess energy. Whether it's a brisk walk, a bit of yoga, or even dancing to your favorite songs, moving your body can improve focus and decrease impulsivity. So next time you feel overwhelmingly fidgety, consider taking a little exercise break—it might just be the perfect reset button!</p></details>
-<details><summary>How can I explain to friends that my 'adhd cant sit still' isn't just about being fidgety?</summary><p>Absolutely, explaining the nuances of ADHD to friends can help them understand your experience better! You might start by sharing that while it looks like you're just fidgety, what's happening is your brain is constantly seeking stimulation. This restlessness is not just physical but also mental, as it's a way for your brain to stay engaged and alert. You can explain that these movements help you focus and process information, making it easier for you to participate in conversations and activities. Your honesty will not only foster deeper connections but also create a supportive environment around you.</p></details>
+<details><summary>Why does it feel like my 'ADHD cant sit still' switch is always on?</summary><p>Ah, that feeling where you just can't seem to sit still can definitely be a common experience when you have ADHD! This happens because ADHD affects the regulation of neurotransmitters like dopamine in your brain, which influences your body’s activity and attention levels. It's like your body's internal engine is always revved up a bit higher than usual. Remember, it's perfectly okay to acknowledge this part of your ADHD. Sometimes, finding small, productive ways to channel that energy can really help, like using a fidget toy or standing desks, or even taking short, frequent breaks!</p></details>
+<details><summary>What are some creative ways to cope when my 'ADHD cant sit still' during long meetings?</summary><p>Absolutely, long meetings can certainly feel like a marathon for those of us with ADHD! One creative way to cope is to bring a small, discreet fidget tool like a fidget spinner or stress ball that you can use under the table. It’s also helpful to doodle on a notepad, which can keep your hands busy and help you process information. If possible, standing at the back of the room or taking brief walking breaks can also be a great way to manage that restless energy. Remember, finding what works best for you is key, and it's perfectly okay to use these little strategies to help you stay focused and comfortable.</p></details>
+<details><summary>Can exercising help when my 'ADHD cant sit still' feels overwhelming?</summary><p>Absolutely, exercise can be a wonderful tool for those jittery, can't-sit-still moments that come with ADHD. Engaging in physical activity can help soothe your nervous system and burn off that excess energy. Whether it's a brisk walk, a bit of yoga, or even dancing to your favorite songs, moving your body can improve focus and decrease impulsivity. So next time you feel overwhelmingly fidgety, consider taking a little exercise break—it might just be the perfect reset button!</p></details>
+<details><summary>How can I explain to friends that my 'ADHD cant sit still' isn't just about being fidgety?</summary><p>Absolutely, explaining the nuances of ADHD to friends can help them understand your experience better! You might start by sharing that while it looks like you're just fidgety, what's happening is your brain is constantly seeking stimulation. This restlessness is not just physical but also mental, as it's a way for your brain to stay engaged and alert. You can explain that these movements help you focus and process information, making it easier for you to participate in conversations and activities. Your honesty will not only foster deeper connections but also create a supportive environment around you.</p></details>
 
 
 
 ### Want to Check Yourself?
 
-<details><summary>Do you often feel like your 'adhd cant sit still'? Why not take our free self-assessment?</summary><p>Absolutely, feeling like you just can't sit still is a common experience for many with ADHD! It's like your body is on its own little energetic adventure. Taking our free self-assessment can be a great first step to understand your unique patterns a bit better. It’s quick, easy, and you might discover some insights that help you navigate those fidgety moments more smoothly. Why not give it a go and see what you find out about yourself?</p></details>
+<details><summary>Do you often feel like your 'ADHD cant sit still'? Why not take our free self-assessment?</summary><p>Absolutely, feeling like you just can't sit still is a common experience for many with ADHD! It's like your body is on its own little energetic adventure. Taking our free self-assessment can be a great first step to understand your unique patterns a bit better. It’s quick, easy, and you might discover some insights that help you navigate those fidgety moments more smoothly. Why not give it a go and see what you find out about yourself?</p></details>
 
 <script type="application/ld+json">
 {
@@ -158,7 +158,7 @@ For everyone with sparks of boundless energy, remember: Your brilliance just nee
     "name": "QuirkyLabs",
     "url": "https://quirkylabs.ai/about"
   },
-  "headline": "adhd cant sit still: \"Unlock Joy: Embrace the Wiggle with ADHD Can't Sit Still!\"",
+  "headline": "ADHD cant sit still: \"Unlock Joy: Embrace the Wiggle with ADHD Can't Sit Still!\"",
   "mainEntityOfPage": "https://blog.quirkylabs.ai/pages/adhd-cant-sit-still/",
   "datePublished": "2025-05-03"
 }
@@ -183,7 +183,7 @@ For everyone with sparks of boundless energy, remember: Your brilliance just nee
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "adhd cant sit still: \"Unlock Joy: Embrace the Wiggle with ADHD Can't Sit Still!\"",
+      "name": "ADHD cant sit still: \"Unlock Joy: Embrace the Wiggle with ADHD Can't Sit Still!\"",
       "item": "https://blog.quirkylabs.ai/pages/adhd-cant-sit-still/"
     }
   ]

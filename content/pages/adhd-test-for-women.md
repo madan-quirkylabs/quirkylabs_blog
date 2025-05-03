@@ -7,7 +7,7 @@ draft: false
 type: "page"
 categories: ["ADHD Guides"]
 tags: ["ADHD", "Neurodivergence"]
-keywords: ["adhd in women", "women adhd quiz", "adhd self test female"]
+keywords: ["ADHD in women", "women ADHD quiz", "ADHD self test female"]
 ---
 
 ## Butterflies, Bouncing Balls & a Squirrel Named Memory: Is It ADHD?
@@ -76,7 +76,7 @@ So, brave explorer, unleash your eagle's flight! Dance with the butterfly and fi
 2. Does focus feel like trying to lasso a frolicking puppy with a noodle?
 3. Are you lost in your own mystery novel, forgetting yesterday's plot?
 4. Feel like you're juggling jelly? That's multitasking while having ADHD.
-5. An adhd test for women might be your personal treasure map. 
+5. An ADHD test for women might be your personal treasure map. 
 6. Your energy could power a whole village, on some days!
 
 ## Frequently Asked Questions

@@ -1,6 +1,6 @@
 ---
-title: "adhd masking at work: \"Unmask Joy: Thrive Unveiled with ADHD at Work!\""
-description: "Unmask the secrets of 'adhd masking at work' and find comfort in knowing you're not alone. Let's navigate the circus together, feeling seen and supported!"
+title: "ADHD masking at work: \"Unmask Joy: Thrive Unveiled with ADHD at Work!\""
+description: "Unmask the secrets of 'ADHD masking at work' and find comfort in knowing you're not alone. Let's navigate the circus together, feeling seen and supported!"
 slug: "adhd-masking-at-work"
 date: 2025-05-03
 draft: false
@@ -95,10 +95,10 @@ So, remember, it's okay to let some balloons pop. Each burst might just let in a
 
 ### Curious ADHD Questions
 
-<details><summary>Why does my coffee cup feel heavier on days I'm adhd masking at work?</summary><p>Hey there! On days when you're masking your ADHD at work, it's not unusual for even your coffee cup to feel heavier. This sensation likely stems from the extra mental and emotional energy you're using to fit into expected norms and roles, which can make everyday tasks feel more burdensome. It's like carrying around an invisible backpack filled with rocks—all that added weight makes each step (or sip!) a bit tougher. Remember to give yourself little breaks and some compassion; it's okay to feel this way, and small moments of rest can lighten that load.</p></details>
-<details><summary>Can my office plant tell when I'm adhd masking at work?</summary><p>Your office plant might not be able to understand the nuances of ADHD or the concept of masking, but it does bring a touch of nature and calm to your space, which can be incredibly soothing on tough days. While it can't perceive your emotional or mental state, caring for it can offer a gentle, nurturing break from the hustle of work. Plus, just having a bit of green nearby can help improve your mood and maybe even reduce stress. So, while it might not empathize, your plant can still support you in its own quiet, leafy way.</p></details>
-<details><summary>Is there a secret handshake for those of us adhd masking at work?</summary><p>Oh, wouldn't a secret handshake be just the thing? While there isn’t an official one (yet!), many of us understand exactly what it's like to navigate work while masking ADHD. It can feel like a hidden dance, can't it? Just remember, you're certainly not alone in this, and finding small, supportive communities or peers who share your experiences can make a big difference. They can be like your team of secret handshake buddies, helping each other through the workday with understanding and little insider tips!</p></details>
-<details><summary>How do I stop feeling like a supervillain when adhd masking at work?</summary><p>Firstly, it’s completely understandable to feel that way when you're masking your ADHD traits at work. Remember, the goal of masking isn't to hide your true self but to navigate different social expectations more smoothly. Think of it as selecting which aspects of your personality shine through in various settings, much like adjusting your outfit to suit the weather. It's a skill, not a disguise, and finding moments where you can be more authentically yourself—even in small ways—can help alleviate that supervillain feeling. Just remember, every superhero has their alter ego!</p></details>
+<details><summary>Why does my coffee cup feel heavier on days I'm ADHD masking at work?</summary><p>Hey there! On days when you're masking your ADHD at work, it's not unusual for even your coffee cup to feel heavier. This sensation likely stems from the extra mental and emotional energy you're using to fit into expected norms and roles, which can make everyday tasks feel more burdensome. It's like carrying around an invisible backpack filled with rocks—all that added weight makes each step (or sip!) a bit tougher. Remember to give yourself little breaks and some compassion; it's okay to feel this way, and small moments of rest can lighten that load.</p></details>
+<details><summary>Can my office plant tell when I'm ADHD masking at work?</summary><p>Your office plant might not be able to understand the nuances of ADHD or the concept of masking, but it does bring a touch of nature and calm to your space, which can be incredibly soothing on tough days. While it can't perceive your emotional or mental state, caring for it can offer a gentle, nurturing break from the hustle of work. Plus, just having a bit of green nearby can help improve your mood and maybe even reduce stress. So, while it might not empathize, your plant can still support you in its own quiet, leafy way.</p></details>
+<details><summary>Is there a secret handshake for those of us ADHD masking at work?</summary><p>Oh, wouldn't a secret handshake be just the thing? While there isn’t an official one (yet!), many of us understand exactly what it's like to navigate work while masking ADHD. It can feel like a hidden dance, can't it? Just remember, you're certainly not alone in this, and finding small, supportive communities or peers who share your experiences can make a big difference. They can be like your team of secret handshake buddies, helping each other through the workday with understanding and little insider tips!</p></details>
+<details><summary>How do I stop feeling like a supervillain when ADHD masking at work?</summary><p>Firstly, it’s completely understandable to feel that way when you're masking your ADHD traits at work. Remember, the goal of masking isn't to hide your true self but to navigate different social expectations more smoothly. Think of it as selecting which aspects of your personality shine through in various settings, much like adjusting your outfit to suit the weather. It's a skill, not a disguise, and finding moments where you can be more authentically yourself—even in small ways—can help alleviate that supervillain feeling. Just remember, every superhero has their alter ego!</p></details>
 
 
 
@@ -163,7 +163,7 @@ So, remember, it's okay to let some balloons pop. Each burst might just let in a
     "name": "QuirkyLabs",
     "url": "https://quirkylabs.ai/about"
   },
-  "headline": "adhd masking at work: \"Unmask Joy: Thrive Unveiled with ADHD at Work!\"",
+  "headline": "ADHD masking at work: \"Unmask Joy: Thrive Unveiled with ADHD at Work!\"",
   "mainEntityOfPage": "https://blog.quirkylabs.ai/pages/adhd-masking-at-work/",
   "datePublished": "2025-05-03"
 }
@@ -188,7 +188,7 @@ So, remember, it's okay to let some balloons pop. Each burst might just let in a
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "adhd masking at work: \"Unmask Joy: Thrive Unveiled with ADHD at Work!\"",
+      "name": "ADHD masking at work: \"Unmask Joy: Thrive Unveiled with ADHD at Work!\"",
       "item": "https://blog.quirkylabs.ai/pages/adhd-masking-at-work/"
     }
   ]

@@ -1,6 +1,6 @@
 ---
 title: "End ADHD Loneliness in Relationships – Find Joy & Connection!"
-description: "Discover how to navigate \"adhd loneliness in relationships\" with warmth and understanding. Feel seen and uplifted as we explore turning loneliness into connection."
+description: "Discover how to navigate \"ADHD loneliness in relationships\" with warmth and understanding. Feel seen and uplifted as we explore turning loneliness into connection."
 slug: "adhd-loneliness-in-relationships"
 date: 2025-05-03
 draft: false
@@ -106,7 +106,7 @@ So, if you ever feel lonely because of your ADHD, remember Jamie and Lily. Find 
 
 ### Want to Check Yourself?
 
-<details><summary>How can I address adhd loneliness in relationships?</summary><p>Feeling lonely in relationships, especially when you have ADHD, can be really tough, but remember you're not alone in this. It's important to openly communicate your feelings and experiences with your partner or friends, as this can help bridge understanding gaps. Consider joining support groups or communities where you can connect with others who share similar experiences with ADHD. These spaces can offer both support and practical advice, enhancing your relationships and lessening feelings of loneliness.</p></details>
+<details><summary>How can I address ADHD loneliness in relationships?</summary><p>Feeling lonely in relationships, especially when you have ADHD, can be really tough, but remember you're not alone in this. It's important to openly communicate your feelings and experiences with your partner or friends, as this can help bridge understanding gaps. Consider joining support groups or communities where you can connect with others who share similar experiences with ADHD. These spaces can offer both support and practical advice, enhancing your relationships and lessening feelings of loneliness.</p></details>
 
 <script type="application/ld+json">
 {

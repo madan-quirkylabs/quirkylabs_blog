@@ -7,7 +7,7 @@ draft: false
 type: "page"
 categories: ["ADHD Guides"]
 tags: ["ADHD", "Neurodivergence"]
-keywords: ["adhd adult quiz", "adhd symptoms in adults", "executive dysfunction test"]
+keywords: ["ADHD adult quiz", "ADHD symptoms in adults", "executive dysfunction test"]
 ---
 
 ## Squirrel Rodeos & Slippery Zucchinis: Is It ADHD?

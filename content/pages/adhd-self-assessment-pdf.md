@@ -7,7 +7,7 @@ draft: false
 type: "page"
 categories: ["ADHD Guides"]
 tags: ["ADHD", "Neurodivergence"]
-keywords: ["adhd checklist pdf", "self assessment adhd printable"]
+keywords: ["ADHD checklist pdf", "self assessment ADHD printable"]
 ---
 
 ## Pinball Thoughts & Paintbrush Minds? Dizzy’s ADHD Quest Begins!

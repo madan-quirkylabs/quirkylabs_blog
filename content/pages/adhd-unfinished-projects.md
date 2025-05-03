@@ -21,7 +21,7 @@ Why not pick one flower today? Let's see one bloom together!
 
 Once upon a time, in a colorful room filled with half-painted canvases and half-built model planes, lived Benny the Beaver. Benny was a whirlwind of furry energy, known throughout the forest for starting exciting projects. But there was a twist! Benny had ADHD, which made finishing those projects a bit like trying to catch a butterfly with a hoop and no net.
 
-Benny's desk was a treasure chest of 'adhd unfinished projects.' From a rocket ship made out of pine cones to a scarf knitted with only one row, each project was a story half-told. His friends often giggled at his collection of adventures, each paused mid-breath.
+Benny's desk was a treasure chest of 'ADHD unfinished projects.' From a rocket ship made out of pine cones to a scarf knitted with only one row, each project was a story half-told. His friends often giggled at his collection of adventures, each paused mid-breath.
 
 ### A Symphony of Half Notes
 

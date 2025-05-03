@@ -1,6 +1,6 @@
 ---
 title: "Embrace You: Overcome ADHD Fear of Being Too Much!"
-description: "Unlock the sunny window to your spirit with our blog on 'adhd fear of being too much.' Feel embraced and uplifted as we explore how to channel your vibrant energy!"
+description: "Unlock the sunny window to your spirit with our blog on 'ADHD fear of being too much.' Feel embraced and uplifted as we explore how to channel your vibrant energy!"
 slug: "adhd-fear-of-being-too-much"
 date: 2025-05-03
 draft: false
@@ -104,7 +104,7 @@ As she left the theater, Ellie felt like she was walking on moonbeams. Her steps
 
 ### Want to Check Yourself?
 
-<details><summary>Do you often struggle with the 'adhd fear of being too much'? If so, why not take our free self-assessment?</summary><p>Absolutely, feeling like you're "too much" can be a common experience when you have ADHD, and it's perfectly okay to feel this way sometimes. You're not alone in this, and it's brave of you to explore these feelings further. Taking our free self-assessment could be a comforting step towards understanding your unique traits better. It's a gentle, judgement-free way to start unraveling the threads of your experiences and might offer some insights that make navigating your world a little easier.</p></details>
+<details><summary>Do you often struggle with the 'ADHD fear of being too much'? If so, why not take our free self-assessment?</summary><p>Absolutely, feeling like you're "too much" can be a common experience when you have ADHD, and it's perfectly okay to feel this way sometimes. You're not alone in this, and it's brave of you to explore these feelings further. Taking our free self-assessment could be a comforting step towards understanding your unique traits better. It's a gentle, judgement-free way to start unraveling the threads of your experiences and might offer some insights that make navigating your world a little easier.</p></details>
 
 <script type="application/ld+json">
 {

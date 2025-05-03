@@ -7,7 +7,7 @@ draft: false
 type: "page"
 categories: ["ADHD Guides"]
 tags: ["ADHD", "Neurodivergence"]
-keywords: ["teen adhd symptoms", "adhd self test teen", "adhd test high school"]
+keywords: ["teen ADHD symptoms", "ADHD self test teen", "ADHD test high school"]
 ---
 
 ## Got a Bouncy Brain? Step into the ADHD Forest and Find Out!
@@ -86,14 +86,14 @@ Keep playing, keep exploring. Remember, an ADHD quiz for teens is not a full sto
 <details><summary>What is this ADHD Quiz for Teens?</summary>
 Oh, it's a fun little detective tool! Helps find small clues if you might have this bouncy thing called ADHD. Like playing 'spot the difference' but with your feelings!</details>
 
-<details><summary>How long does this adhd quiz for teens take?</summary>
+<details><summary>How long does this ADHD quiz for teens take?</summary>
 Got a spare 10 minutes? Go, take the quiz! Like a mini adventure into the land of your mind. Just remember, it's not a race, so you can explore at your own pace. </details>
 
 <details><summary>Can this quiz diagnose my ADHD?</summary>
 Eh-eh, it's a quiz, not a doc! It can show signs but can't confirm ADHD. A doctor is like a puzzle master. Only they can find all the missing pieces for a diagnosis! </details>
 
 <details><summary>Can I take this quiz if I'm not a teen?</summary>
-Of course, silly! Life's too short for age limits. Just note that this adhd quiz for teens is, well, teens-focused. Adult ADHD may feel a bit different. </details>
+Of course, silly! Life's too short for age limits. Just note that this ADHD quiz for teens is, well, teens-focused. Adult ADHD may feel a bit different. </details>
 
 <details><summary>Is this quiz professional-grade?</summary>
 It's solid, but not magic⸺it's based on professional-grade ADHD scales. Think of it as a marshmallow-roasting stick, not the fire itself!</details>

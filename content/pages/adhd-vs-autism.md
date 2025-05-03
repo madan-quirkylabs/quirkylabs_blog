@@ -6,7 +6,7 @@ date: 2024-04-25
 draft: true
 tags: ["ADHD", "Autism", "Neurodivergence", "Mental Health", "Self-Discovery"]
 categories: ["ADHD Guides"]
-keywords: ["adhd vs autism", "difference between adhd and autism", "adhd and autism overlap"]
+keywords: ["ADHD vs autism", "difference between ADHD and autism", "ADHD and autism overlap"]
 type: "page"
 ---
 

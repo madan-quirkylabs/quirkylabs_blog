@@ -1,6 +1,6 @@
 ---
-title: "adhd why success feels fake: Unlock Real Joy: Why ADHD Makes Success Feel Fake!"
-description: "adhd why success feels fake: Explore why with ADHD, why success feels fake, and how to cherish your wins. Dive into a blog that understands and uplifts you, making every achievement truly yours."
+title: "ADHD why success feels fake: Unlock Real Joy: Why ADHD Makes Success Feel Fake!"
+description: "ADHD why success feels fake: Explore why with ADHD, why success feels fake, and how to cherish your wins. Dive into a blog that understands and uplifts you, making every achievement truly yours."
 slug: "adhd-why-success-feels-fake"
 date: 2025-05-03
 draft: false
@@ -168,7 +168,7 @@ Remember, every success is a bloom to be cherished. Pause, reflect, and celebrat
     "name": "QuirkyLabs",
     "url": "https://quirkylabs.ai/about"
   },
-  "headline": "adhd why success feels fake: \"Unlock Real Joy: Why ADHD Makes Success Feel Fake!\"",
+  "headline": "ADHD why success feels fake: \"Unlock Real Joy: Why ADHD Makes Success Feel Fake!\"",
   "mainEntityOfPage": "https://blog.quirkylabs.ai/pages/adhd-why-success-feels-fake/",
   "datePublished": "2025-05-03"
 }
@@ -193,7 +193,7 @@ Remember, every success is a bloom to be cherished. Pause, reflect, and celebrat
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "adhd why success feels fake: \"Unlock Real Joy: Why ADHD Makes Success Feel Fake!\"",
+      "name": "ADHD why success feels fake: \"Unlock Real Joy: Why ADHD Makes Success Feel Fake!\"",
       "item": "https://blog.quirkylabs.ai/pages/adhd-why-success-feels-fake/"
     }
   ]

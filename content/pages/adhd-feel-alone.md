@@ -1,5 +1,5 @@
 ---
-title: "adhd feel alone: Feel Understood: ADHD Connections That End Loneliness!"
+title: "ADHD feel alone: Feel Understood: ADHD Connections That End Loneliness!"
 description: "Feeling like you're the only one mapless in the ADHD amusement park? Our blog 'ADHD Feel Alone' offers a cozy space to find buddies who truly get it. Let's explore together!"
 slug: "adhd-feel-alone"
 date: 2025-05-03
@@ -157,7 +157,7 @@ So, if you ever feel like Jamie did, remember, your tribe is out there. And like
     "name": "QuirkyLabs",
     "url": "https://quirkylabs.ai/about"
   },
-  "headline": "adhd feel alone: \"Feel Understood: ADHD Connections That End Loneliness!\"",
+  "headline": "ADHD feel alone: \"Feel Understood: ADHD Connections That End Loneliness!\"",
   "mainEntityOfPage": "https://blog.quirkylabs.ai/pages/adhd-feel-alone/",
   "datePublished": "2025-05-03"
 }
@@ -182,7 +182,7 @@ So, if you ever feel like Jamie did, remember, your tribe is out there. And like
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "adhd feel alone: \"Feel Understood: ADHD Connections That End Loneliness!\"",
+      "name": "ADHD feel alone: \"Feel Understood: ADHD Connections That End Loneliness!\"",
       "item": "https://blog.quirkylabs.ai/pages/adhd-feel-alone/"
     }
   ]

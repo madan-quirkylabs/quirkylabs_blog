@@ -1,6 +1,6 @@
 ---
-title: "adhd breaks trigger panic: \"Stop Panic Now: How ADHD Breaks Trigger Calm!"
-description: "Struggling with 'adhd breaks trigger panic'? Explore our cozy, playful guide to finding your calm and feeling understood when breaks feel overwhelming!"
+title: "ADHD breaks trigger panic: \"Stop Panic Now: How ADHD Breaks Trigger Calm!"
+description: "Struggling with 'ADHD breaks trigger panic'? Explore our cozy, playful guide to finding your calm and feeling understood when breaks feel overwhelming!"
 slug: "adhd-breaks-trigger-panic"
 date: 2025-05-03
 draft: false
@@ -92,16 +92,16 @@ Whenever ADHD breaks triggered a bit of panic, they now had a toolbox full of fr
 
 ### Curious ADHD Questions
 
-<details><summary>Why do my adhd breaks trigger panic when I'm just trying to relax?</summary><p>That sounds really challenging, but it's not uncommon. When you take breaks, your brain might suddenly become aware of the contrast between relaxation and your usual pace of activity, which can feel jarring. This sudden shift can sometimes trigger feelings of panic or anxiety, as your mind might worry about the tasks at hand or the transition from high energy to calm. A gentle way to ease into breaks could be to incorporate some light, structured activities that keep your mind gently engaged, like doodling or listening to calm music, which might help smooth that transition.</p></details>
-<details><summary>What can I do if adhd breaks trigger panic about unfinished tasks?</summary><p>It’s completely understandable to feel panicked about unfinished tasks, especially with ADHD! A helpful strategy is to break your tasks into smaller, manageable parts. This can make them seem less overwhelming and more achievable. Also, consider using a timer to work in short bursts, which can help maintain focus without increasing stress. Remember, it's perfectly okay to have days where not everything gets checked off—be kind to yourself!</p></details>
-<details><summary>How can I explain to friends that my adhd breaks trigger panic without sounding like I'm overreacting?</summary><p>Hey there! It's absolutely okay to want to share how ADHD affects you with your friends. You might start by gently explaining that for you, unexpected breaks in routine can trigger a strong reaction, much like an alarm going off without a warning. Assure them that sharing this helps create an understanding environment, and it's not about overreacting but about letting them know how they can best support you. A little heart-to-heart can go a long way in strengthening your friendships!</p></details>
-<details><summary>Is it normal that my adhd breaks trigger panic about time slipping away?</summary><p>Absolutely, it's perfectly normal to feel that way when you have ADHD. Many people with ADHD experience anxieties around time management, especially during breaks when you might feel like time is just slipping through your fingers. Remember, it's okay to take breaks and necessary for your brain to recharge! Try to see these moments as a valuable part of your routine that help you maintain long-term productivity and wellness.</p></details>
+<details><summary>Why do my ADHD breaks trigger panic when I'm just trying to relax?</summary><p>That sounds really challenging, but it's not uncommon. When you take breaks, your brain might suddenly become aware of the contrast between relaxation and your usual pace of activity, which can feel jarring. This sudden shift can sometimes trigger feelings of panic or anxiety, as your mind might worry about the tasks at hand or the transition from high energy to calm. A gentle way to ease into breaks could be to incorporate some light, structured activities that keep your mind gently engaged, like doodling or listening to calm music, which might help smooth that transition.</p></details>
+<details><summary>What can I do if ADHD breaks trigger panic about unfinished tasks?</summary><p>It’s completely understandable to feel panicked about unfinished tasks, especially with ADHD! A helpful strategy is to break your tasks into smaller, manageable parts. This can make them seem less overwhelming and more achievable. Also, consider using a timer to work in short bursts, which can help maintain focus without increasing stress. Remember, it's perfectly okay to have days where not everything gets checked off—be kind to yourself!</p></details>
+<details><summary>How can I explain to friends that my ADHD breaks trigger panic without sounding like I'm overreacting?</summary><p>Hey there! It's absolutely okay to want to share how ADHD affects you with your friends. You might start by gently explaining that for you, unexpected breaks in routine can trigger a strong reaction, much like an alarm going off without a warning. Assure them that sharing this helps create an understanding environment, and it's not about overreacting but about letting them know how they can best support you. A little heart-to-heart can go a long way in strengthening your friendships!</p></details>
+<details><summary>Is it normal that my ADHD breaks trigger panic about time slipping away?</summary><p>Absolutely, it's perfectly normal to feel that way when you have ADHD. Many people with ADHD experience anxieties around time management, especially during breaks when you might feel like time is just slipping through your fingers. Remember, it's okay to take breaks and necessary for your brain to recharge! Try to see these moments as a valuable part of your routine that help you maintain long-term productivity and wellness.</p></details>
 
 
 
 ### Want to Check Yourself?
 
-<details><summary>What should I do if adhd breaks trigger panic?</summary><p>When ADHD-related overwhelm leads to panic, it's really important to pause and breathe. Try grounding techniques like the 5-4-3-2-1 method, where you identify five things you can see, four things you can touch, three things you can hear, two things you can smell, and one thing you can taste. It helps bring your focus back to the present and calms the racing thoughts. Remember, it’s perfectly okay to take a moment for yourself to reset – your well-being is worth that time.</p></details>
+<details><summary>What should I do if ADHD breaks trigger panic?</summary><p>When ADHD-related overwhelm leads to panic, it's really important to pause and breathe. Try grounding techniques like the 5-4-3-2-1 method, where you identify five things you can see, four things you can touch, three things you can hear, two things you can smell, and one thing you can taste. It helps bring your focus back to the present and calms the racing thoughts. Remember, it’s perfectly okay to take a moment for yourself to reset – your well-being is worth that time.</p></details>
 
 <script type="application/ld+json">
 {
@@ -160,7 +160,7 @@ Whenever ADHD breaks triggered a bit of panic, they now had a toolbox full of fr
     "name": "QuirkyLabs",
     "url": "https://quirkylabs.ai/about"
   },
-  "headline": "adhd breaks trigger panic: \"Stop Panic Now: How ADHD Breaks Trigger Calm!\"",
+  "headline": "ADHD breaks trigger panic: \"Stop Panic Now: How ADHD Breaks Trigger Calm!\"",
   "mainEntityOfPage": "https://blog.quirkylabs.ai/pages/adhd-breaks-trigger-panic/",
   "datePublished": "2025-05-03"
 }
@@ -185,7 +185,7 @@ Whenever ADHD breaks triggered a bit of panic, they now had a toolbox full of fr
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "adhd breaks trigger panic: \"Stop Panic Now: How ADHD Breaks Trigger Calm!\"",
+      "name": "ADHD breaks trigger panic: \"Stop Panic Now: How ADHD Breaks Trigger Calm!\"",
       "item": "https://blog.quirkylabs.ai/pages/adhd-breaks-trigger-panic/"
     }
   ]

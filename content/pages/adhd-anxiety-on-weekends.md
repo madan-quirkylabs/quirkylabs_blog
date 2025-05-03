@@ -105,7 +105,7 @@ Remember, every weekend is a canvas, waiting for your colors. Paint it bright an
 
 ### Want to Check Yourself?
 
-<details><summary>Do you experience adhd anxiety on weekends? Take our free self-assessment!</summary><p>Absolutely, weekends can sometimes bring their own set of challenges and anxieties, even though they're meant to be relaxing! It’s not uncommon for the shift from a structured week to a more open weekend to feel a bit overwhelming. Why not take a moment to explore your feelings a bit more with our free self-assessment? It’s a gentle way to understand your experiences better and find strategies that could help make your weekends more enjoyable.</p></details>
+<details><summary>Do you experience ADHD anxiety on weekends? Take our free self-assessment!</summary><p>Absolutely, weekends can sometimes bring their own set of challenges and anxieties, even though they're meant to be relaxing! It’s not uncommon for the shift from a structured week to a more open weekend to feel a bit overwhelming. Why not take a moment to explore your feelings a bit more with our free self-assessment? It’s a gentle way to understand your experiences better and find strategies that could help make your weekends more enjoyable.</p></details>
 
 <script type="application/ld+json">
 {
