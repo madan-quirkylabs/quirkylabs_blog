@@ -31,10 +31,19 @@ openai_client = OpenAIClient(config)
 for dir_path in [SUCCESS_DIR, FAILURE_DIR, LOGS_DIR, RETRIES_DIR]:
     os.makedirs(dir_path, exist_ok=True)
 
+def sanitize_slug(text):
+    text = text.lower()
+    text = re.sub(r"[^\w\s-]", "", text)        # remove punctuation
+    text = re.sub(r"[\s_]+", "-", text)         # replace spaces/underscores with hyphens
+    text = re.sub(r"-+", "-", text).strip("-")  # collapse multiple dashes and trim
+    return text
+
+
 # Load input CSV
 input_path = os.path.join(INPUT_DIR, "sample_input.csv")
 df = pd.read_csv(input_path)
 df.columns = df.columns.str.strip().str.lower().str.replace(" ", "_")
+df["slug"] = df["slug"].apply(sanitize_slug)
 
 # Load prompts
 with open(SECTION_PROMPTS_PATH, "r", encoding="utf-8") as f:
@@ -189,12 +198,17 @@ def render_related_spokes(pillar_slug, current_slug):
 """
 
 def build_front_matter(meta_title, meta_desc, slug, keywords):
+    def escape_quotes(text):
+        return text.replace('"', '\\"').strip()
+
     today = datetime.utcnow().strftime('%Y-%m-%d')
-    clean_title = meta_title.strip('"').strip()
+    clean_title = escape_quotes(meta_title)
+    clean_desc = escape_quotes(meta_desc)
     kws = "[" + ", ".join(f'\"{k.strip()}\"' for k in keywords.split(",") if k.strip()) + "]"
+
     return f"""---
 title: \"{clean_title}\"
-description: \"{meta_desc}\"
+description: \"{clean_desc}\"
 slug: \"{slug}\"
 date: {today}
 draft: false
