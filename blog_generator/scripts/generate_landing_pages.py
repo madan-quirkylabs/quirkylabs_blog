@@ -358,20 +358,27 @@ def enforce_keyword_presence(text, keyword):
     return text
 
 def generate_meta_description(topic, keyword, blog_content):
-    prompt = f"""
-Create an SEO-optimized meta description for a blog titled "{topic}".
-- Must include the exact phrase: "{keyword}".
-- Keep it under 160 characters.
-- Use cozy, playful, emotionally validating language.
-- Highlight a key emotional benefit or insight the blog gives.
+    excerpt = blog_content[:800].strip()
 
-Here’s a sample from the blog:
-{blog_content[:700]}
+    prompt = f"""
+Write an SEO-optimized meta description for a blog titled "{topic}".
+- It must include the exact phrase: "{keyword}" (not a variation).
+- Keep it under 160 characters (ideal 140–155).
+- Use cozy, playful, emotionally validating language.
+- Highlight a specific emotional insight or benefit the blog offers.
+- Your tone should match that of a warm ADHD coach who “gets it.”
+- Focus on how the blog helps the reader feel seen, understood, or uplifted.
+
+Here’s a sample from the blog’s opening:
+
+{excerpt}
 """
+
     messages = [
-        {"role": "system", "content": "You're an SEO copywriter crafting emotionally resonant meta descriptions for ADHD blogs."},
+        {"role": "system", "content": "You're an SEO copywriter writing validating, ADHD-friendly meta descriptions."},
         {"role": "user", "content": prompt}
     ]
+
     return openai_client.chat_completion(messages)
 
 def generate_emotional_meta_title(topic, keyword):

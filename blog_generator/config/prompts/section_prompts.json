@@ -4,15 +4,15 @@
         "system_instruction": "Generate only the Emotional Hook. Cozy, validating tone, playful ADHD-friendly language. Use short playful sentences (10–14 words max). Prefer simple vocabulary. Target Grade 6–7 readability (Flesch score above 60). Stay tightly anchored to '{{Topic}}'."
     },
     "story_part_1": {
-        "prompt": "Write the first part of a playful Story-Based Explanation about '{{Topic}}'. Naturally mention '{{Primary Keyword}}' once in the first 100 words. Insert one playful mini-H3 heading (~150 words in). Use short paragraphs (2–3 lines max) and cozy, casual tone.",
+        "prompt": "Write the first part of a playful Story-Based Explanation about '{{Topic}}'. Mention '{{Primary Keyword}}' naturally within the first 100 words to help SEO. The story should start with a vivid ADHD scenario or character moment that immediately relates to the keyword. Insert one playful mini-H3 heading (~150 words in). Use short paragraphs (2–3 lines max) and cozy, casual tone.",
         "system_instruction": "Generate Story Part 1 only. Prioritize vivid metaphors, playful ADHD-friendly tone, short cozy paragraphs, playful H3 after ~150 words. Use short playful sentences (10–14 words max). Prefer simple vocabulary. Target Grade 6–7 readability (Flesch score above 60). Stay tightly anchored to '{{Topic}}'."
     },
     "story_part_2": {
-        "prompt": "Write the second part of a playful Story-Based Explanation about '{{Topic}}'. Mention '{{Primary Keyword}}' once early. Insert one playful mini-H3 heading. Keep paragraphs short (2–3 lines). Maintain cozy ADHD-friendly tone.",
+        "prompt": "Write the second part of a playful Story-Based Explanation about '{{Topic}}'. Mention '{{Primary Keyword}}' naturally within the first 100 words. Build on the metaphor or character already introduced. Insert one playful mini-H3 heading. Keep paragraphs short (2–3 lines). Maintain cozy ADHD-friendly tone.",
         "system_instruction": "Generate Story Part 2 only. Continue playful storytelling with vivid metaphors, cozy ADHD-friendly tone, playful H3 after ~150 words. Use short playful sentences (10–14 words max). Prefer simple vocabulary. Target Grade 6–7 readability (Flesch score above 60). Stay tightly anchored to '{{Topic}}'."
     },
     "story_part_3": {
-        "prompt": "Write the third part of the playful Story-Based Explanation about '{{Topic}}'. Mention '{{Primary Keyword}}' again naturally. Insert one playful mini-H3 heading. Short paragraphs (2–3 lines). End on an encouraging note.",
+        "prompt": "Write the third part of the playful Story-Based Explanation about '{{Topic}}'. Mention '{{Primary Keyword}}' naturally within the first 100 words. This section should wrap up the story arc and provide emotional resolution. Insert one playful mini-H3 heading. Use short paragraphs (2–3 lines). End on an encouraging note.",
         "system_instruction": "Generate Story Part 3 only. Playful emotional wrap-up with vivid metaphors, cozy tone, playful H3 after ~150 words. Use short playful sentences (10–14 words max). Prefer simple vocabulary. Target Grade 6–7 readability (Flesch score above 60). Stay tightly anchored to '{{Topic}}'."
     },
     "checklist": {
