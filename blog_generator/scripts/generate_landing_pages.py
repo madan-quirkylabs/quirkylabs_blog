@@ -147,7 +147,7 @@ def faq_to_jsonld(faq_html):
         "mainEntity": []
     }
 
-    for q, a in matches:
+    for q, a in matches[:5]:
         clean_q = re.sub(r"<summary>|</summary>", "", q).strip()
         clean_a = strip_html_tags(a)
         jsonld["mainEntity"].append({
@@ -200,16 +200,18 @@ date: {today}
 draft: false
 type: \"page\"
 categories: [\"ADHD Guides\"]
-tags: [\"ADHD\", \"Neurodivergence\"]
+tags: {kws}
 keywords: {kws}
+og_image: \"/og/{slug}.png\"
 ---\n\n"""
 
 def assemble_blog(sections, row):
     try:
         all_faq_html = "\n\n".join([
-            f"### {f['heading']}\n\n{sections[f['key']]}"
+            f"\n\n### {f['heading']}\n\n{sections[f['key']]}"
             for f in faq_section_defs if f['key'] in sections
         ])
+
         faq_structured = faq_to_jsonld(all_faq_html)
         related_block = render_related_spokes(row['pillar_slug'], row['slug'])
 
