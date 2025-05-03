@@ -1,6 +1,6 @@
 ---
 title: "Unwrap the ADHD Social Anxiety Layer – Find Joy & Ease!"
-description: ""Explore the 'adhd social anxiety layer' with us and discover cozy corners of understanding. Feel seen and hop along on an uplifting journey to social calm!""
+description: "Explore the 'adhd social anxiety layer' with us and discover cozy corners of understanding. Feel seen and hop along on an uplifting journey to social calm!"
 slug: "adhd-social-anxiety-layer"
 date: 2025-05-03
 draft: false

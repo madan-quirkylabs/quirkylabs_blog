@@ -1,6 +1,6 @@
 ---
 title: "Conquer ADHD Rejection Sensitivity: Feel Understood & Loved!"
-description: "Discover how to embrace your emotions with our guide on "ADHD rejection sensitivity." Feel seen, understood, and uplifted as we explore how to keep your colorful balloons close!"
+description: "Discover how to embrace your emotions with our guide on \"ADHD rejection sensitivity.\" Feel seen, understood, and uplifted as we explore how to keep your colorful balloons close!"
 slug: "adhd-rejection-sensitivity"
 date: 2025-05-03
 draft: false

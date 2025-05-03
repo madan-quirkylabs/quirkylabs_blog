@@ -1,6 +1,6 @@
 ---
-title: "adhd cant slow down: "Unlock Joy: ADHD Can't Slow Down Your Brilliant Mind!"
-description: ""Explore how 'adhd cant slow down' is a superpower, not a setback! Dive into our blog for cozy, playful insights that make you feel seen and celebrated.""
+title: "adhd cant slow down: \"Unlock Joy: ADHD Can't Slow Down Your Brilliant Mind!\""
+description: "Explore how 'adhd cant slow down' is a superpower, not a setback! Dive into our blog for cozy, playful insights that make you feel seen and celebrated."
 slug: "adhd-cant-slow-down"
 date: 2025-05-03
 draft: false

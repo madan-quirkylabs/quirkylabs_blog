@@ -1,6 +1,6 @@
 ---
-title: "adhd isolation as adult: "Beat ADHD Isolation as an Adult: Find Your Tribe!"
-description: "Discover how to tackle "adhd isolation as adult" with warmth and understanding. This blog feels like finding a cozy map to connection. Join us and feel seen and uplifted!"
+title: "adhd isolation as adult: Beat ADHD Isolation as an Adult: Find Your Tribe!"
+description: "Discover how to tackle \"adhd isolation as adult\" with warmth and understanding. This blog feels like finding a cozy map to connection. Join us and feel seen and uplifted!"
 slug: "adhd-isolation-as-adult"
 date: 2025-05-03
 draft: false

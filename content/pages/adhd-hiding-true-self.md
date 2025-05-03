@@ -1,6 +1,6 @@
 ---
-title: "adhd hiding true self: "Unmasking Joy: Embrace Your True Self Beyond ADHD!"
-description: "Discover the joy of embracing your vibrant mind with our blog on "ADHD hiding true self." Feel seen and uplifted as we explore how to share your unique sparkle with the world!"
+title: "adhd hiding true self: Unmasking Joy: Embrace Your True Self Beyond ADHD!"
+description: "Discover the joy of embracing your vibrant mind with our blog on \"ADHD hiding true self.\" Feel seen and uplifted as we explore how to share your unique sparkle with the world!"
 slug: "adhd-hiding-true-self"
 date: 2025-05-03
 draft: false

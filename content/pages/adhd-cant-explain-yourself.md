@@ -1,6 +1,6 @@
 ---
-title: "adhd cant explain yourself: "Unlock Words: 'ADHD Can't Explain Yourself' No More!"
-description: "adhd cant explain yourself: "Struggling because 'ADHD can't explain yourself'? Dive into our blog for a warm, validating read that feels like a chat in a puppy park. You're not alone!""
+title: "adhd cant explain yourself: Unlock Words: 'ADHD Can't Explain Yourself' No More!"
+description: "adhd cant explain yourself: Struggling because 'ADHD can't explain yourself'? Dive into our blog for a warm, validating read that feels like a chat in a puppy park. You're not alone!"
 slug: "adhd-cant-explain-yourself"
 date: 2025-05-03
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: "Beat ADHD Productivity Shame & Unleash Your Joy!"
-description: ""Struggling with ADHD productivity shame? This cozy, playful blog offers a warm embrace of your vibrant mind. Feel seen and uplifted as we explore better ways to bounce through tasks together!""
+description: "Struggling with ADHD productivity shame? This cozy, playful blog offers a warm embrace of your vibrant mind. Feel seen and uplifted as we explore better ways to bounce through tasks together!"
 slug: "adhd-productivity-shame"
 date: 2025-05-03
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: "Ease Your Mind: ADHD Constant Overthinking Solutions!"
-description: ""Explore 'ADHD Constant Overthinking'—a cozy corner where your bustling mind feels understood. Discover playful insights that untangle thoughts and uplift spirits!""
+description: "Explore 'ADHD Constant Overthinking'—a cozy corner where your bustling mind feels understood. Discover playful insights that untangle thoughts and uplift spirits!"
 slug: "adhd-constant-overthinking"
 date: 2025-05-03
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: "Unlock Joy: ADHD Performative Productivity Secrets!"
-description: "Explore "ADHD performative productivity" and feel seen with our cozy, playful guide. Unpack the magic of working with ADHD in a way that uplifts and understands you! 🎩✨"
+description: "Explore \"ADHD performative productivity\" and feel seen with our cozy, playful guide. Unpack the magic of working with ADHD in a way that uplifts and understands you! 🎩✨"
 slug: "adhd-performative-productivity"
 date: 2025-05-03
 draft: false

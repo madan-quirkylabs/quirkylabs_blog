@@ -1,6 +1,6 @@
 ---
-title: "adhd dont fit in: "Feel Unique: Why 'ADHD Don't Fit In' is Your Superpower!"
-description: "adhd dont fit in: Feel like a bouncy ball in a world of marbles? "ADHD don't fit in" embraces your unique spark! Join us for stories that celebrate your vibrant mind and uplift your spirit."
+title: "adhd dont fit in: Feel Unique: Why 'ADHD Don't Fit In' is Your Superpower!"
+description: "adhd dont fit in: Feel like a bouncy ball in a world of marbles? \"ADHD don't fit in\" embraces your unique spark! Join us for stories that celebrate your vibrant mind and uplift your spirit."
 slug: "adhd-dont-fit-in"
 date: 2025-05-03
 draft: false

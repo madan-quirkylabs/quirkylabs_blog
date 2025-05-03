@@ -1,6 +1,6 @@
 ---
-title: "adhd masking at work: "Unmask Joy: Thrive Unveiled with ADHD at Work!"
-description: ""Unmask the secrets of 'adhd masking at work' and find comfort in knowing you're not alone. Let's navigate the circus together, feeling seen and supported!""
+title: "adhd masking at work: \"Unmask Joy: Thrive Unveiled with ADHD at Work!\""
+description: "Unmask the secrets of 'adhd masking at work' and find comfort in knowing you're not alone. Let's navigate the circus together, feeling seen and supported!"
 slug: "adhd-masking-at-work"
 date: 2025-05-03
 draft: false

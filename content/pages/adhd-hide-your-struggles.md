@@ -1,6 +1,6 @@
 ---
 title: "Unlock Joy: How 'ADHD Hide Your Struggles' Frees You!"
-description: ""Discover how 'adhd hide your struggles' offers a warm, cozy haven where your ninja-like coping skills are not just seen but celebrated. Feel understood and uplifted!""
+description: "Discover how 'adhd hide your struggles' offers a warm, cozy haven where your ninja-like coping skills are not just seen but celebrated. Feel understood and uplifted!"
 slug: "adhd-hide-your-struggles"
 date: 2025-05-03
 draft: false

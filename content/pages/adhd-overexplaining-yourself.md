@@ -1,6 +1,6 @@
 ---
 title: "End the Cycle: Embrace ADHD Overexplaining Yourself!"
-description: "Discover why "adhd overexplaining yourself" is your superpower! Dive into our blog for a cozy chat that makes you feel seen and celebrated. Join us!"
+description: "Discover why \"adhd overexplaining yourself\" is your superpower! Dive into our blog for a cozy chat that makes you feel seen and celebrated. Join us!"
 slug: "adhd-overexplaining-yourself"
 date: 2025-05-03
 draft: false

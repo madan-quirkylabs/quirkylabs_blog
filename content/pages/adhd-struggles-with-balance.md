@@ -1,6 +1,6 @@
 ---
 title: "Find Harmony: Beat ADHD Struggles with Balance Now!"
-description: ""Feeling like you're juggling flamingo-shaped balloons? Our blog on 'ADHD struggles with balance' offers warm insights to help you feel seen and celebrated. Let's dance through this together!""
+description: "Feeling like you're juggling flamingo-shaped balloons? Our blog on 'ADHD struggles with balance' offers warm insights to help you feel seen and celebrated. Let's dance through this together!"
 slug: "adhd-struggles-with-balance"
 date: 2025-05-03
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: "Escape the ADHD Toxic Productivity Cycle – Find Joy!"
-description: ""Break free from the ADHD toxic productivity cycle with our blog! Discover playful insights and cozy validation to help you bounce back at your own joyful pace. Feel seen and uplifted today!""
+description: "Break free from the ADHD toxic productivity cycle with our blog! Discover playful insights and cozy validation to help you bounce back at your own joyful pace. Feel seen and uplifted today!"
 slug: "adhd-toxic-productivity-cycle"
 date: 2025-05-03
 draft: false

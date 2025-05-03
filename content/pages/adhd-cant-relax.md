@@ -1,6 +1,6 @@
 ---
-title: "adhd cant relax: "Unlock Calm: Cozy Tips When ADHD Can't Relax 🌟"
-description: ""Struggling because your 'adhd cant relax'? Find comfort in our blog as we explore playful, cozy ways to help soothe your bustling mind. You're not alone!""
+title: "adhd cant relax: Unlock Calm: Cozy Tips When ADHD Can't Relax 🌟"
+description: "Struggling because your 'adhd cant relax'? Find comfort in our blog as we explore playful, cozy ways to help soothe your bustling mind. You're not alone!"
 slug: "adhd-cant-relax"
 date: 2025-05-03
 draft: false

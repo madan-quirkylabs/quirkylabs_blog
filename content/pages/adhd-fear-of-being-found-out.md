@@ -1,6 +1,6 @@
 ---
 title: "Conquer ADHD Fear of Being Found Out & Thrive!"
-description: ""Explore the 'ADHD fear of being found out' with us! Feel seen and uplifted as we dive into the joys and jitters of being your unique self. Join the squad!""
+description: "Explore the 'ADHD fear of being found out' with us! Feel seen and uplifted as we dive into the joys and jitters of being your unique self. Join the squad!"
 slug: "adhd-fear-of-being-found-out"
 date: 2025-05-03
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: "Beat Burnout: Why 'ADHD Rest Feels Like Failure' & How to Cope!"
-description: ""Feeling stuck when you pause? Our blog on why 'adhd rest feels like failure' offers a warm, cozy reassurance that it's okay to take a breather. You're not alone!""
+description: "Feeling stuck when you pause? Our blog on why 'adhd rest feels like failure' offers a warm, cozy reassurance that it's okay to take a breather. You're not alone!"
 slug: "adhd-rest-feels-like-failure"
 date: 2025-05-03
 draft: false

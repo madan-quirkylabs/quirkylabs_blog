@@ -1,6 +1,6 @@
 ---
 title: "Escape the ADHD Ambition Burnout Loop & Thrive!"
-description: ""Escape the 'adhd ambition burnout loop' with our cozy guide! Feel seen and uplifted as we explore how to keep your superhero cape ready for flight. 🚀""
+description: "Escape the 'adhd ambition burnout loop' with our cozy guide! Feel seen and uplifted as we explore how to keep your superhero cape ready for flight. 🚀"
 slug: "adhd-ambition-burnout-loop"
 date: 2025-05-03
 draft: false

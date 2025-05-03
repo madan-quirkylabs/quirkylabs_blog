@@ -1,6 +1,6 @@
 ---
 title: "Beat ADHD Compliment Doubt: Feel Validated & Joyful!"
-description: ""Explore 'adhd compliment doubt' and feel truly seen in our cozy blog. Discover how to embrace your wins and silence that inner skeptic. You're not alone!""
+description: "Explore 'adhd compliment doubt' and feel truly seen in our cozy blog. Discover how to embrace your wins and silence that inner skeptic. You're not alone!"
 slug: "adhd-compliment-doubt"
 date: 2025-05-03
 draft: false

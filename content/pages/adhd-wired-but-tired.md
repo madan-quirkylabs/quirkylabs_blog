@@ -1,6 +1,6 @@
 ---
 title: "Unlock Energy: Cozy Up with 'ADHD Wired But Tired' Tips!"
-description: ""Feeling 'ADHD wired but tired'? Dive into our blog for cozy chats and uplifting insights. It's a warm, playful space where your buzzing mind feels right at home!""
+description: "Feeling 'ADHD wired but tired'? Dive into our blog for cozy chats and uplifting insights. It's a warm, playful space where your buzzing mind feels right at home!"
 slug: "adhd-wired-but-tired"
 date: 2025-05-03
 draft: false

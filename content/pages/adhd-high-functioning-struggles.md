@@ -1,6 +1,6 @@
 ---
 title: "Unmasking Joy: Thrive Amid ADHD High Functioning Struggles!"
-description: "Explore the "adhd high functioning struggles" with us! Get cozy and uncover how your vibrant, bouncy-castle mind is not just busy but brilliantly creative. Feel seen and uplifted with every word!"
+description: "Explore the \"adhd high functioning struggles\" with us! Get cozy and uncover how your vibrant, bouncy-castle mind is not just busy but brilliantly creative. Feel seen and uplifted with every word!"
 slug: "adhd-high-functioning-struggles"
 date: 2025-05-03
 draft: false

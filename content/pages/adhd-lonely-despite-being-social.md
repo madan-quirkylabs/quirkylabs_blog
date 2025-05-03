@@ -1,6 +1,6 @@
 ---
-title: "adhd lonely despite being social: "Feel Seen: Conquer 'ADHD Lonely' in a Crowded Room!"
-description: "Feel "adhd lonely despite being social"? Explore why connection can be tricky and find comfort in knowing you're not alone. Dive into our blog for a warm hug of words!"
+title: "adhd lonely despite being social: Feel Seen: Conquer 'ADHD Lonely' in a Crowded Room!"
+description: "Feel \"adhd lonely despite being social\"? Explore why connection can be tricky and find comfort in knowing you're not alone. Dive into our blog for a warm hug of words!"
 slug: "adhd-lonely-despite-being-social"
 date: 2025-05-03
 draft: false

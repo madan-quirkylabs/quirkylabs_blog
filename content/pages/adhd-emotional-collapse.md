@@ -1,6 +1,6 @@
 ---
 title: "Survive ADHD Emotional Collapse: Tips to Reclaim Joy!"
-description: ""Navigate your 'adhd emotional collapse' with warmth and understanding. Discover comforting insights and feel seen in our playful, uplifting blog. Press reset with us!""
+description: "Navigate your 'adhd emotional collapse' with warmth and understanding. Discover comforting insights and feel seen in our playful, uplifting blog. Press reset with us!"
 slug: "adhd-emotional-collapse"
 date: 2025-05-03
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: "Unlock Joy: Why 'ADHD Can’t Just Chill' Is Okay!"
-description: ""Explore why 'ADHD can’t just chill' in our cozy blog that understands your buzzing mind. Feel seen, understood, and joyfully validated as we dive into the ADHD adventure together!""
+description: "Explore why 'ADHD can’t just chill' in our cozy blog that understands your buzzing mind. Feel seen, understood, and joyfully validated as we dive into the ADHD adventure together!"
 slug: "adhd-can’t-just-chill"
 date: 2025-05-03
 draft: false

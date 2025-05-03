@@ -1,6 +1,6 @@
 ---
 title: "Unlock the 'ADHD Secret Anxiety' – Find Joy & Calm Today!"
-description: ""Explore the cozy corners of 'ADHD secret anxiety' with us! Find comfort and understanding as we unveil the quiet worries of ADHD minds. Let's find your flower together!""
+description: "Explore the cozy corners of 'ADHD secret anxiety' with us! Find comfort and understanding as we unveil the quiet worries of ADHD minds. Let's find your flower together!"
 slug: "adhd-secret-anxiety"
 date: 2025-05-03
 draft: false

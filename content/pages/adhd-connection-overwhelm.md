@@ -1,6 +1,6 @@
 ---
 title: "Beat ADHD Connection Overwhelm – Find Joy & Ease Today!"
-description: "Discover how to manage "ADHD connection overwhelm" with our warm, playful guide. Feel seen and understood as we explore emotional insights together, one flower at a time."
+description: "Discover how to manage \"ADHD connection overwhelm\" with our warm, playful guide. Feel seen and understood as we explore emotional insights together, one flower at a time."
 slug: "adhd-connection-overwhelm"
 date: 2025-05-03
 draft: false

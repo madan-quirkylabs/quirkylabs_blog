@@ -1,6 +1,6 @@
 ---
 title: "Embrace You: Overcome ADHD Fear of Being Too Much!"
-description: ""Unlock the sunny window to your spirit with our blog on 'adhd fear of being too much.' Feel embraced and uplifted as we explore how to channel your vibrant energy!""
+description: "Unlock the sunny window to your spirit with our blog on 'adhd fear of being too much.' Feel embraced and uplifted as we explore how to channel your vibrant energy!"
 slug: "adhd-fear-of-being-too-much"
 date: 2025-05-03
 draft: false

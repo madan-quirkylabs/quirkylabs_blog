@@ -1,6 +1,6 @@
 ---
 title: "Feel Unique & Loved: Embrace Your 'ADHD Too Weird to Be Loved'"
-description: ""Feeling like your 'adhd too weird to be loved'? Explore our blog where you'll find magical insights and cozy stories to make you feel seen and cherished. Let's celebrate your unique flicker together!""
+description: "Feeling like your 'adhd too weird to be loved'? Explore our blog where you'll find magical insights and cozy stories to make you feel seen and cherished. Let's celebrate your unique flicker together!"
 slug: "adhd-too-weird-to-be-loved"
 date: 2025-05-03
 draft: false

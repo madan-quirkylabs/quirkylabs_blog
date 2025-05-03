@@ -1,6 +1,6 @@
 ---
 title: "Conquer ADHD Fear of Failure – Unlock Joy & Success!"
-description: ""Explore the 'ADHD fear of failure' with a cozy, playful guide that makes you feel seen. Discover how every stumble is just a chance to bounce back higher!""
+description: "Explore the 'ADHD fear of failure' with a cozy, playful guide that makes you feel seen. Discover how every stumble is just a chance to bounce back higher!"
 slug: "adhd-fear-of-failure"
 date: 2025-05-03
 draft: false

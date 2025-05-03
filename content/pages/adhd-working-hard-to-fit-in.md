@@ -1,6 +1,6 @@
 ---
 title: "Find Joy & Ease: ADHD Working Hard to Fit In"
-description: ""Explore 'ADHD working hard to fit in' and feel the embrace of understanding. Discover how our playful insights uplift and validate your journey. Join us, it’s okay to wobble!""
+description: "Explore 'ADHD working hard to fit in' and feel the embrace of understanding. Discover how our playful insights uplift and validate your journey. Join us, it’s okay to wobble!"
 slug: "adhd-working-hard-to-fit-in"
 date: 2025-05-03
 draft: false

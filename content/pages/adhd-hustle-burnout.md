@@ -1,6 +1,6 @@
 ---
 title: "Escape ADHD Hustle Burnout: Find Joy & Balance Now!"
-description: ""Feeling the 'adhd hustle burnout'? Let's park that super-charged brain and find joy in the pit stop. This blog offers a cozy nook for understanding and recharging. 🌟""
+description: "Feeling the 'adhd hustle burnout'? Let's park that super-charged brain and find joy in the pit stop. This blog offers a cozy nook for understanding and recharging. 🌟"
 slug: "adhd-hustle-burnout"
 date: 2025-05-03
 draft: false

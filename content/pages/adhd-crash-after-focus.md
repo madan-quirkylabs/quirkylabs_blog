@@ -1,6 +1,6 @@
 ---
 title: "Beat the ADHD Crash After Focus - Feel Energized!"
-description: ""Feeling deflated after a hyper-focus high? Our blog on 'adhd crash after focus' offers a cozy hug of understanding and tips to recharge. You're not alone, superhero!""
+description: "Feeling deflated after a hyper-focus high? Our blog on 'adhd crash after focus' offers a cozy hug of understanding and tips to recharge. You're not alone, superhero!"
 slug: "adhd-crash-after-focus"
 date: 2025-05-03
 draft: false

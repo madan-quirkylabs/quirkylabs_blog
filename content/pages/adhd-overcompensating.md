@@ -1,6 +1,6 @@
 ---
 title: "Unlock Joy: How ADHD Overcompensating Sparks Creativity!"
-description: "Discover the cozy side of "adhd overcompensating" with our blog. Feel seen, understood, and uplifted as we explore the quirky charm of our ADHD superpowers together!"
+description: "Discover the cozy side of \"adhd overcompensating\" with our blog. Feel seen, understood, and uplifted as we explore the quirky charm of our ADHD superpowers together!"
 slug: "adhd-overcompensating"
 date: 2025-05-03
 draft: false

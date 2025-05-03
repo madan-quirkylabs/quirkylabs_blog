@@ -1,6 +1,6 @@
 ---
-title: "adhd cant sit still: "Unlock Joy: Embrace the Wiggle with ADHD Can't Sit Still!"
-description: "adhd cant sit still: Discover how "ADHD can't sit still" isn't just a challenge but a superpower! Dive into our blog for cozy insights and playful strategies that make you feel seen and celebrated. 🌟"
+title: "adhd cant sit still: Unlock Joy: Embrace the Wiggle with ADHD Can't Sit Still!"
+description: "adhd cant sit still: Discover how \"ADHD can't sit still\" isn't just a challenge but a superpower! Dive into our blog for cozy insights and playful strategies that make you feel seen and celebrated. 🌟"
 slug: "adhd-cant-sit-still"
 date: 2025-05-03
 draft: false

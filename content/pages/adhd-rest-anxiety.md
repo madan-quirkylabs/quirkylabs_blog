@@ -1,6 +1,6 @@
 ---
 title: "Ease ADHD Rest Anxiety: Snuggle into Calm & Play!"
-description: ""Struggling with ADHD rest anxiety? Dive into comforting insights that make your busy brain feel understood and cherished. Let's find your cozy rest spot together!""
+description: "Struggling with ADHD rest anxiety? Dive into comforting insights that make your busy brain feel understood and cherished. Let's find your cozy rest spot together!"
 slug: "adhd-rest-anxiety"
 date: 2025-05-03
 draft: false

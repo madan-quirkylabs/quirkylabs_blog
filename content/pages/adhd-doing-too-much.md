@@ -1,6 +1,6 @@
 ---
 title: "Stop Overload! Find Joy in 'ADHD Doing Too Much'"
-description: "Feeling overwhelmed by "ADHD doing too much"? Dive into our cozy blog where we understand the whirlwind and help you find calm and clarity in the chaos."
+description: "Feeling overwhelmed by \"ADHD doing too much\"? Dive into our cozy blog where we understand the whirlwind and help you find calm and clarity in the chaos."
 slug: "adhd-doing-too-much"
 date: 2025-05-03
 draft: false

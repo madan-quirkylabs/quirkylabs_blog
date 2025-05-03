@@ -1,6 +1,6 @@
 ---
 title: "Unlock Joy: Overcome ADHD Fear of Stopping Today!"
-description: "Explore the "adhd fear of stopping" with us! This blog offers a cozy nook of understanding and strategies to gently embrace the pause. Feel seen, feel soothed, and learn to rest without the stress."
+description: "Explore the \"adhd fear of stopping\" with us! This blog offers a cozy nook of understanding and strategies to gently embrace the pause. Feel seen, feel soothed, and learn to rest without the stress."
 slug: "adhd-fear-of-stopping"
 date: 2025-05-03
 draft: false

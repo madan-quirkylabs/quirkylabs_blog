@@ -1,6 +1,6 @@
 ---
 title: "Feel Understood: Navigating ADHD Intense Emotions Alone!"
-description: "Discover how to navigate "ADHD intense emotions alone" with warmth and understanding. Dive into our blog for cozy insights and feel the rainbow after the storm."
+description: "Discover how to navigate \"ADHD intense emotions alone\" with warmth and understanding. Dive into our blog for cozy insights and feel the rainbow after the storm."
 slug: "adhd-intense-emotions-alone"
 date: 2025-05-03
 draft: false

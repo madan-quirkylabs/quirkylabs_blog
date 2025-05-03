@@ -1,6 +1,6 @@
 ---
 title: "Beat ADHD Impostor Syndrome: Feel Valid & Capable Now!"
-description: ""Unravel the mystery of ADHD impostor syndrome with us! Feel seen and uplifted as we bounce through insights that validate and celebrate your unique mind.""
+description: "Unravel the mystery of ADHD impostor syndrome with us! Feel seen and uplifted as we bounce through insights that validate and celebrate your unique mind."
 slug: "adhd-impostor-syndrome"
 date: 2025-05-03
 draft: false

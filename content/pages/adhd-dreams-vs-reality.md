@@ -1,6 +1,6 @@
 ---
 title: "Unlock Joy: ADHD Dreams vs Reality - Embrace the Magic!"
-description: "Explore the vibrant world of "adhd dreams vs reality" where every misstep is a step towards greatness. Feel seen, understood, and inspired as we transform oops into triumphs together!"
+description: "Explore the vibrant world of \"adhd dreams vs reality\" where every misstep is a step towards greatness. Feel seen, understood, and inspired as we transform oops into triumphs together!"
 slug: "adhd-dreams-vs-reality"
 date: 2025-05-03
 draft: false

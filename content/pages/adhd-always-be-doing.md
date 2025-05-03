@@ -1,6 +1,6 @@
 ---
 title: "Unlock Joy: ADHD Always Be Doing & Loving Every Minute!"
-description: "Explore the vibrant world of "ADHD always be doing" and discover how your buzzing mind is not just busy, but brilliantly creative. Feel seen and celebrated in every post!"
+description: "Explore the vibrant world of 'ADHD always be doing' and discover how your buzzing mind is not just busy, but brilliantly creative. Feel seen and celebrated in every post!"
 slug: "adhd-always-be-doing"
 date: 2025-05-03
 draft: false

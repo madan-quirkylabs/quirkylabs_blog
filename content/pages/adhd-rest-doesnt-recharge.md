@@ -1,6 +1,6 @@
 ---
-title: "adhd rest doesnt recharge: "ADHD Rest Doesn't Recharge? Find Joyful Solutions Here!"
-description: "adhd rest doesnt recharge: "Struggling because your 'ADHD rest doesn't recharge'? Dive into our blog to find cozy, playful strategies that help you feel seen and energized!""
+title: "adhd rest doesnt recharge: ADHD Rest Doesn't Recharge? Find Joyful Solutions Here!"
+description: "adhd rest doesnt recharge: Struggling because your 'ADHD rest doesn't recharge'? Dive into our blog to find cozy, playful strategies that help you feel seen and energized!"
 slug: "adhd-rest-doesnt-recharge"
 date: 2025-05-03
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: "Beat ADHD Self Sabotage: Unlock a Happier, Smoother Life!"
-description: "Explore how "adhd self sabotage" feels like juggling colorful tasks, and drop the guilt! Our blog offers cozy insights and playful strategies to keep you smiling through the chaos. Feel seen and uplifted with us!"
+description: "Explore how \"adhd self sabotage\" feels like juggling colorful tasks, and drop the guilt! Our blog offers cozy insights and playful strategies to keep you smiling through the chaos. Feel seen and uplifted with us!"
 slug: "adhd-self-sabotage"
 date: 2025-05-03
 draft: false

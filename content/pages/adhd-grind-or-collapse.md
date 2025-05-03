@@ -1,6 +1,6 @@
 ---
 title: "Beat the 'ADHD Grind or Collapse' – Thrive with Joy!"
-description: "Discover the "ADHD grind or collapse" blog, where we turn chaos into comfort! Unpack the superhero in you with heartfelt stories and tips that feel like a warm hug. Dive in and feel understood!"
+description: "Discover the \"ADHD grind or collapse\" blog, where we turn chaos into comfort! Unpack the superhero in you with heartfelt stories and tips that feel like a warm hug. Dive in and feel understood!"
 slug: "adhd-grind-or-collapse"
 date: 2025-05-03
 draft: false

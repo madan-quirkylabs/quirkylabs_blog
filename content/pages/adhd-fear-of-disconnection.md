@@ -1,6 +1,6 @@
 ---
 title: "Feel Closer: Beat ADHD Fear of Disconnection Today!"
-description: ""Explore the 'adhd fear of disconnection' with us! Dive into a cozy, uplifting blog that makes you feel seen and guides you back to connection. Let's journey together!""
+description: "Explore the 'adhd fear of disconnection' with us! Dive into a cozy, uplifting blog that makes you feel seen and guides you back to connection. Let's journey together!"
 slug: "adhd-fear-of-disconnection"
 date: 2025-05-03
 draft: false

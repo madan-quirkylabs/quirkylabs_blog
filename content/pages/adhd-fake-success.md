@@ -1,6 +1,6 @@
 ---
 title: "Unlock Real Joy: Beyond ADHD Fake Success Myths!"
-description: ""Unpack the 'adhd fake success' with us and discover the real treasures in your journey. Feel seen and uplifted as we explore together, squirrel-style!""
+description: "Unpack the 'adhd fake success' with us and discover the real treasures in your journey. Feel seen and uplifted as we explore together, squirrel-style!"
 slug: "adhd-fake-success"
 date: 2025-05-03
 draft: false

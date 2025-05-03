@@ -1,6 +1,6 @@
 ---
 title: "End ADHD Unfinished Projects – Embrace Your Creativity!"
-description: ""Dive into the cozy world of 'ADHD unfinished projects' and find solace knowing your creative chaos is a unique kind of beautiful. Let’s bloom together!""
+description: "Dive into the cozy world of 'ADHD unfinished projects' and find solace knowing your creative chaos is a unique kind of beautiful. Let’s bloom together!"
 slug: "adhd-unfinished-projects"
 date: 2025-05-03
 draft: false

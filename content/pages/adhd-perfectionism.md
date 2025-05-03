@@ -1,6 +1,6 @@
 ---
 title: "Unlock Joy: Beat ADHD Perfectionism & Thrive!"
-description: ""Unlock the joy of 'adhd perfectionism' with our cozy guide! Feel seen and uplifted as we dance through the chaos together. Let's make fun your new perfect!""
+description: "Unlock the joy of 'adhd perfectionism' with our cozy guide! Feel seen and uplifted as we dance through the chaos together. Let's make fun your new perfect!"
 slug: "adhd-perfectionism"
 date: 2025-05-03
 draft: false

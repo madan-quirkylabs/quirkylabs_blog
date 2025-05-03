@@ -1,6 +1,6 @@
 ---
 title: "Unlock Joy: How ADHD Need for Connection Fuels Happiness!"
-description: "Discover how the "adhd need for connection" can transform loneliness to joy in our blog. Feel seen, understood, and join a community that bounces along with you! 🌟"
+description: "Discover how the \"adhd need for connection\" can transform loneliness to joy in our blog. Feel seen, understood, and join a community that bounces along with you! 🌟"
 slug: "adhd-need-for-connection"
 date: 2025-05-03
 draft: false

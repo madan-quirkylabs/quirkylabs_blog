@@ -1,6 +1,6 @@
 ---
 title: "Beat ADHD and Guilt Doing Nothing – Find Joy Today!"
-description: ""Explore the cozy relief of understanding 'adhd and guilt doing nothing.' This blog warmly reassures that it's okay to pause, just like a resting puppy. Feel seen and uplifted!""
+description: "Explore the cozy relief of understanding 'adhd and guilt doing nothing.' This blog warmly reassures that it's okay to pause, just like a resting puppy. Feel seen and uplifted!"
 slug: "adhd-and-guilt-doing-nothing"
 date: 2025-05-03
 draft: false

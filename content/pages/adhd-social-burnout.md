@@ -1,6 +1,6 @@
 ---
 title: "Beat ADHD Social Burnout: Stay Energized & Connected!"
-description: "Feeling overwhelmed? Our blog on "ADHD social burnout" is a cozy corner for understanding and tips to recharge. Sit with us, feel seen, and find your calm amidst the chaos."
+description: "Feeling overwhelmed? Our blog on \"ADHD social burnout\" is a cozy corner for understanding and tips to recharge. Sit with us, feel seen, and find your calm amidst the chaos."
 slug: "adhd-social-burnout"
 date: 2025-05-03
 draft: false

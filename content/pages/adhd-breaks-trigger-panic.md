@@ -1,6 +1,6 @@
 ---
-title: "adhd breaks trigger panic: "Stop Panic Now: How ADHD Breaks Trigger Calm!"
-description: ""Struggling with 'adhd breaks trigger panic'? Explore our cozy, playful guide to finding your calm and feeling understood when breaks feel overwhelming!""
+title: "adhd breaks trigger panic: \"Stop Panic Now: How ADHD Breaks Trigger Calm!"
+description: "Struggling with 'adhd breaks trigger panic'? Explore our cozy, playful guide to finding your calm and feeling understood when breaks feel overwhelming!"
 slug: "adhd-breaks-trigger-panic"
 date: 2025-05-03
 draft: false

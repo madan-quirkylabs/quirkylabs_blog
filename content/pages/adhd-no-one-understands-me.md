@@ -1,6 +1,6 @@
 ---
 title: "Feel Heard: Unpacking 'ADHD No One Understands Me'"
-description: "Feel like "ADHD no one understands me"? Dive into a blog where your vibrant, bouncy-ball energy is celebrated, not shushed! Let's find that lost remote together and tune into a world that gets you."
+description: "Feel like \"ADHD no one understands me\"? Dive into a blog where your vibrant, bouncy-ball energy is celebrated, not shushed! Let's find that lost remote together and tune into a world that gets you."
 slug: "adhd-no-one-understands-me"
 date: 2025-05-03
 draft: false

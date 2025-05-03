@@ -1,5 +1,5 @@
 ---
-title: "adhd why success feels fake: "Unlock Real Joy: Why ADHD Makes Success Feel Fake!"
+title: "adhd why success feels fake: Unlock Real Joy: Why ADHD Makes Success Feel Fake!"
 description: "adhd why success feels fake: Explore why with ADHD, why success feels fake, and how to cherish your wins. Dive into a blog that understands and uplifts you, making every achievement truly yours."
 slug: "adhd-why-success-feels-fake"
 date: 2025-05-03

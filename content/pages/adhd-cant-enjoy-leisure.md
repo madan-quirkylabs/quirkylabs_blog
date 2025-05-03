@@ -1,6 +1,6 @@
 ---
-title: "adhd cant enjoy leisure: "Unlock Joy: Beat ADHD & Savor Leisure Time!"
-description: "adhd cant enjoy leisure: "Struggle because 'ADHD can't enjoy leisure'? Dive into our cozy blog where we explore playful strategies to relax and feel understood. Find your calm!""
+title: "adhd cant enjoy leisure: Unlock Joy: Beat ADHD & Savor Leisure Time!"
+description: "adhd cant enjoy leisure: Struggle because 'ADHD can't enjoy leisure'? Dive into our cozy blog where we explore playful strategies to relax and feel understood. Find your calm!"
 slug: "adhd-cant-enjoy-leisure"
 date: 2025-05-03
 draft: false

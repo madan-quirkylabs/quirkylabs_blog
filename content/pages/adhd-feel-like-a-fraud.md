@@ -1,6 +1,6 @@
 ---
-title: "adhd feel like a fraud: "Beat Impostor Blues: Embrace ADHD & Feel Genuine!"
-description: "Discover why "ADHD feel like a fraud" resonates with so many. This cozy, validating blog helps you embrace your unique superhero style with a warm, understanding hug. Feel seen and uplifted with us!"
+title: "adhd feel like a fraud: Beat Impostor Blues: Embrace ADHD & Feel Genuine!"
+description: "Discover why \"ADHD feel like a fraud\" resonates with so many. This cozy, validating blog helps you embrace your unique superhero style with a warm, understanding hug. Feel seen and uplifted with us!"
 slug: "adhd-feel-like-a-fraud"
 date: 2025-05-03
 draft: false

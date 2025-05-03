@@ -1,6 +1,6 @@
 ---
 title: "Find Your Tribe: ADHD Longing for Understanding"
-description: ""Explore the 'ADHD longing for understanding' with us! Dive into a blog that feels like a warm hug, offering insights that make you feel seen and celebrated in your unique journey.""
+description: "Explore the 'ADHD longing for understanding' with us! Dive into a blog that feels like a warm hug, offering insights that make you feel seen and celebrated in your unique journey."
 slug: "adhd-longing-for-understanding"
 date: 2025-05-03
 draft: false

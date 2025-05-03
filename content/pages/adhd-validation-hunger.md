@@ -1,6 +1,6 @@
 ---
 title: "Feed Your ADHD Validation Hunger: Feel Seen & Loved!"
-description: ""Dive into our blog on 'adhd validation hunger' and discover how to toss your own candy—feeling seen and celebrated in every jump and tumble!""
+description: "Dive into our blog on 'adhd validation hunger' and discover how to toss your own candy—feeling seen and celebrated in every jump and tumble!"
 slug: "adhd-validation-hunger"
 date: 2025-05-03
 draft: false

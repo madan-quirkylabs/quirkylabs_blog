@@ -1,6 +1,6 @@
 ---
 title: "Beat ADHD Anxiety on Weekends: Unlock Joyful Weekends!"
-description: "Discover how to navigate "ADHD anxiety on weekends" with our cozy blog. Feel seen and understood with tips that turn chaos into calm. Join us for a peaceful mental getaway!"
+description: "Discover how to navigate 'ADHD anxiety on weekends' with our cozy blog. Feel seen and understood with tips that turn chaos into calm. Join us for a peaceful mental getaway!"
 slug: "adhd-anxiety-on-weekends"
 date: 2025-05-03
 draft: false

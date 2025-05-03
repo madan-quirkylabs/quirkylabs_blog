@@ -1,6 +1,6 @@
 ---
 title: "Unlock Your Magic: Stop ADHD Wasting Potential Now!"
-description: "Discover the truth behind "ADHD wasting potential" and feel empowered! Our blog offers cozy insights and playful validation to help you find your perfect key. Let's race to possibilities together!"
+description: "Discover the truth behind \"ADHD wasting potential\" and feel empowered! Our blog offers cozy insights and playful validation to help you find your perfect key. Let's race to possibilities together!"
 slug: "adhd-wasting-potential"
 date: 2025-05-03
 draft: false

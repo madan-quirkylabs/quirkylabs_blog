@@ -1,6 +1,6 @@
 ---
 title: "Unlock Joy: How ADHD People Pleasing Can Be a Gift!"
-description: "Discover the cozy world of "adhd people pleasing" and find comfort in knowing you're not alone. This blog offers a warm hug of understanding and insights that uplift. Join us and feel seen!"
+description: "Discover the cozy world of \"adhd people pleasing\" and find comfort in knowing you're not alone. This blog offers a warm hug of understanding and insights that uplift. Join us and feel seen!"
 slug: "adhd-people-pleasing"
 date: 2025-05-03
 draft: false
