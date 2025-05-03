@@ -351,11 +351,36 @@ Story Segment:
     except Exception as e:
         return None  # Fallback will handle this
 
+def enforce_keyword_presence(text, keyword):
+    pattern = re.compile(re.escape(keyword), re.IGNORECASE)
+    if not pattern.search(text):
+        return f"{keyword}: {text}"
+    return text
+
+def generate_meta_description(topic, keyword, blog_content):
+    prompt = f"""
+Create an SEO-optimized meta description for a blog titled "{topic}".
+- Must include the exact phrase: "{keyword}".
+- Keep it under 160 characters.
+- Use cozy, playful, emotionally validating language.
+- Highlight a key emotional benefit or insight the blog gives.
+
+Here’s a sample from the blog:
+{blog_content[:700]}
+"""
+    messages = [
+        {"role": "system", "content": "You're an SEO copywriter crafting emotionally resonant meta descriptions for ADHD blogs."},
+        {"role": "user", "content": prompt}
+    ]
+    return openai_client.chat_completion(messages)
+
 def generate_emotional_meta_title(topic, keyword):
     prompt = f"""
 Rewrite this topic into a benefit-driven, emotionally punchy meta title.
-Target adults with ADHD. Make it cozy, playful, and clickable.
-Avoid dry or generic phrasing.
+- Include the exact phrase: "{keyword}".
+- Limit to 60 characters if possible.
+- Make it cozy, playful, and clickable.
+- Avoid generic phrasing.
 
 Topic: "{topic}"
 Keyword: "{keyword}"
@@ -420,6 +445,7 @@ def generate_blog(row):
     keyword = row["primary_keyword"]
     slug = row["slug"]
     meta_title = generate_emotional_meta_title(topic, keyword)
+    meta_title = enforce_keyword_presence(meta_title, keyword)
     keywords = row.get("keywords", "")
 
     sections = {}
@@ -468,7 +494,9 @@ def generate_blog(row):
         flesch, grade = check_readability(blog)
         log["readability"] = {"flesch": flesch, "grade": grade}
 
-        meta_desc = f"Learn about {topic} and how it impacts ADHD minds."
+        meta_desc = generate_meta_description(topic, keyword, blog)
+        meta_desc = enforce_keyword_presence(meta_desc, keyword)
+
         log["meta_description"] = meta_desc
         front = build_front_matter(meta_title, meta_desc, slug, keywords)
 
