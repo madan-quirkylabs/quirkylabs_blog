@@ -48,4 +48,4 @@ defaultContentLanguage = "en"
       unsafe = true
 
 [outputs]
-home = ["HTML", "RSS", "RobotsTXT"]
+home = ["HTML", "RSS", "robots"]
