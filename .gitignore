@@ -15,3 +15,5 @@ node_modules/
 /blog_generator/passed_blogs.csv
 
 **/__pycache__/
+
+/google_index_blogs/service-account.json
