@@ -3,6 +3,7 @@ title = "QuirkyLabs Blog"
 theme = "PaperMod"
 languageCode = "en-us"
 defaultContentLanguage = "en"
+enableRobotsTXT = true
 
 [pagination]
   pagerSize = 5
