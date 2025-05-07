@@ -2,8 +2,9 @@ import openai
 import time
 import logging
 import os
+from core.llm_client import LLMClient
 
-class OpenAIClient:
+class OpenAIClient(LLMClient):
     def __init__(self, config):
         self.api_key = os.getenv("OPENAI_API_KEY")  # ✅ Read from env
         self.model = config["openai"]["model"]

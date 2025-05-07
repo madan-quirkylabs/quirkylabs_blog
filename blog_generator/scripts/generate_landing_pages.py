@@ -10,6 +10,7 @@ import re
 from bs4 import BeautifulSoup
 import requests
 import random  # ensure this is already at the top
+from core.llm_factory import get_llm_client
 
 # Setup project path
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
@@ -17,7 +18,6 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 # Load internal modules
 from utils.paths import INPUT_DIR, SUCCESS_DIR, FAILURE_DIR, LOGS_DIR, SECTION_PROMPTS_PATH, RETRIES_DIR
 from config.config_loader import load_config, load_pillar_config
-from core.openai_client import OpenAIClient
 
 # Configure logging
 logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -25,7 +25,7 @@ logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %
 # Load config and OpenAI client
 config = load_config()
 pillar_config = load_pillar_config()
-openai_client = OpenAIClient(config)
+llm_client = get_llm_client(config)
 
 # Ensure output dirs exist
 for dir_path in [SUCCESS_DIR, FAILURE_DIR, LOGS_DIR, RETRIES_DIR]:
@@ -97,7 +97,7 @@ def generate_faq_questions(section_key, topic, keyword):
         {"role": "system", "content": system_instruction},
         {"role": "user", "content": prompt}
     ]
-    raw = openai_client.chat_completion(messages)
+    raw = llm_client.chat_completion(messages)
 
     raw_lines = raw.strip().split("\n")
     questions = [
@@ -113,7 +113,7 @@ def generate_answer_for_question(question):
         {"role": "system", "content": "You're a friendly ADHD coach writing validating answers for FAQs."},
         {"role": "user", "content": followup_prompt}
     ]
-    return openai_client.chat_completion(messages)
+    return llm_client.chat_completion(messages)
 
 def generate_faq_section(section_key, topic, keyword):
     questions = generate_faq_questions(section_key, topic, keyword)
@@ -141,7 +141,7 @@ def generate_section(section, topic, primary_keyword):
         {"role": "user", "content": prompt}
     ]
 
-    return openai_client.chat_completion(messages)
+    return llm_client.chat_completion(messages)
 
 def faq_to_jsonld(faq_html):
     pattern = re.compile(r"<details>\s*<summary>(.*?)</summary>\s*(.*?)\s*</details>", re.DOTALL | re.IGNORECASE)
@@ -361,7 +361,7 @@ Story Segment:
     ]
 
     try:
-        return openai_client.chat_completion(messages)
+        return llm_client.chat_completion(messages)
     except Exception as e:
         return None  # Fallback will handle this
 
@@ -393,7 +393,7 @@ Here’s a sample from the blog’s opening:
         {"role": "user", "content": prompt}
     ]
 
-    return openai_client.chat_completion(messages)
+    return llm_client.chat_completion(messages)
 
 def generate_emotional_meta_title(topic, keyword):
     prompt = f"""
@@ -410,7 +410,7 @@ Keyword: "{keyword}"
         {"role": "system", "content": "You're a playful SEO expert for ADHD blogs."},
         {"role": "user", "content": prompt}
     ]
-    return openai_client.chat_completion(messages)
+    return llm_client.chat_completion(messages)
 
 def insert_sentence_into_section(section_text, sentence):
     paras = section_text.strip().split("\n\n")
@@ -452,7 +452,7 @@ def generate_keywords_from_blog(topic, blog_body):
     ]
 
     try:
-        response = openai_client.chat_completion(messages)
+        response = llm_client.chat_completion(messages)
         return response
     except Exception as e:
         print(f"[KeywordGen] Error: {e}")
