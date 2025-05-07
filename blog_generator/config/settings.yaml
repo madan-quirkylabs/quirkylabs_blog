@@ -21,4 +21,8 @@ paths:
   section_prompts: config/prompts/section_prompts.json
   master_prompt: config/prompts/master_prompt.md
 
-llm_provider: gemini # openai or gemini
+llm_provider: openai # openai or gemini
+
+gemini:
+  model: gemini-2.0-flash
+  temperature: 0.7
