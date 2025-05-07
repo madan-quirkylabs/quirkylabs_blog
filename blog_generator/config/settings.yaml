@@ -21,4 +21,4 @@ paths:
   section_prompts: config/prompts/section_prompts.json
   master_prompt: config/prompts/master_prompt.md
 
-llm_provider: openai # Switch to 'gemini' when ready
+llm_provider: gemini # openai or gemini

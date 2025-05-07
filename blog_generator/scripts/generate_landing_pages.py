@@ -141,6 +141,12 @@ def generate_section(section, topic, primary_keyword):
         {"role": "user", "content": prompt}
     ]
 
+    # Use Gemini ONLY for 'emotional_hook' for now
+    if section == "emotional_hook" and config.get("llm_provider") == "gemini":
+        print("💡 Using Gemini for emotional_hook")
+    else:
+        print(f"💡 Using {config.get('llm_provider')} for section: {section}")
+
     return llm_client.chat_completion(messages)
 
 def faq_to_jsonld(faq_html):
