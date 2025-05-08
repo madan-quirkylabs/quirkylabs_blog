@@ -7,12 +7,17 @@
   HUGO_ENV = "production"
 
 [[headers]]
-  for = "/sitemap.xml"
-  [headers.values]
-    Cache-Control = "no-store"
-
-[[headers]]
   for = "/robots.txt"
   [headers.values]
     Content-Type = "text/plain; charset=utf-8"
     Cache-Control = "no-store"
+    X-Robots-Tag = "all"
+    Access-Control-Allow-Origin = "*"
+
+[[headers]]
+  for = "/sitemap.xml"
+  [headers.values]
+    Content-Type = "application/xml"
+    Cache-Control = "no-store"
+    X-Robots-Tag = "all"
+    Access-Control-Allow-Origin = "*"
