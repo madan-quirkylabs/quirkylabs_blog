@@ -10,7 +10,7 @@
   for = "/robots.txt"
   [headers.values]
     Content-Type = "text/plain; charset=utf-8"
-    Cache-Control = "no-store"
+    Cache-Control = "public, max-age=0"
     X-Robots-Tag = "all"
     Access-Control-Allow-Origin = "*"
 
@@ -18,6 +18,19 @@
   for = "/sitemap.xml"
   [headers.values]
     Content-Type = "application/xml"
-    Cache-Control = "no-store"
+    Cache-Control = "public, max-age=0"
     X-Robots-Tag = "all"
     Access-Control-Allow-Origin = "*"
+
+# Add these to your netlify.toml
+[[redirects]]
+  from = "/robots.txt"
+  to = "/robots.txt"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/sitemap.xml"
+  to = "/sitemap.xml"
+  status = 200
+  force = true
