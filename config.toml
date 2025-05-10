@@ -4,6 +4,7 @@ theme = "PaperMod"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 enableRobotsTXT = true
+disableKinds = ["taxonomy"]
 
 [pagination]
   pagerSize = 5
@@ -47,6 +48,12 @@ enableRobotsTXT = true
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+[sitemap]
+  changeFreq = 'weekly'
+  disable = false
+  filename = 'sitemap.xml'
+  priority = 0.5
 
 [outputs]
 home = ["HTML", "RSS", "robots"]
