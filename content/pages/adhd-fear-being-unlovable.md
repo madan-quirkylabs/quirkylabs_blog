@@ -1,15 +1,18 @@
 ---
-title: "adhd fear being unlovable: \"Feel Loved: Overcome ADHD Fear of Being Unlovable!\""
-description: "Explore how 'ADHD fear being unlovable' is just a myth! This cozy blog offers warmth and understanding, reminding you that your unique bounce is lovable."
+title: "ADHD Fear of Being Unlovable: How to Feel Worthy in Love and Life"
+description: "Think ADHD makes you unlovable? It’s a myth. Learn how to break free from fear, nurture self-worth, and build connections rooted in the real you."
 slug: "adhd-fear-being-unlovable"
 date: 2025-05-07
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD and feeling unlovable", "coping with ADHD in relationships", "ADHD emotional regulation", "self-acceptance with ADHD", "ADHD and relationship anxiety", "managing ADHD symptoms in love", "ADHD adult love life"]
-keywords: ["ADHD and feeling unlovable", "coping with ADHD in relationships", "ADHD emotional regulation", "self-acceptance with ADHD", "ADHD and relationship anxiety", "managing ADHD symptoms in love", "ADHD adult love life"]
+tags: ["ADHD and feeling unlovable", "coping with ADHD in relationships", "ADHD emotional regulation", "ADHD and relationship anxiety", "self-acceptance with ADHD", "managing ADHD symptoms in love", "ADHD adult love life"]
+keywords: ["ADHD fear of being unlovable", "ADHD relationship anxiety", "self-worth with ADHD", "ADHD and emotional connection", "coping with ADHD in love", "ADHD and attachment", "adult ADHD self-acceptance"]
 og_image: "/og/adhd-fear-being-unlovable.png"
+og_title: "ADHD Fear of Being Unlovable: How to Feel Worthy in Love and Life"
+og_description: "Think ADHD makes you unlovable? It’s a myth. Learn how to break free from fear, nurture self-worth, and build connections rooted in the real you."
 ---
+
 
 Imagine your heart is a bouncy ball, zigzagging wildly. Sometimes it zooms under the couch, hiding because it feels too different, too bouncy.
 

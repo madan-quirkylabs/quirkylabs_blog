@@ -1,14 +1,16 @@
 ---
-title: "Conquer ADHD Fear of Being Found Out & Thrive!"
-description: "Explore the 'ADHD fear of being found out' with us! Feel seen and uplifted as we dive into the joys and jitters of being your unique self. Join the squad!"
+title: "ADHD Fear of Being Found Out: How to Stop Hiding and Start Thriving"
+description: "Feel like you're faking it and someone will find out? Learn how ADHD fuels imposter feelings and discover playful ways to own your brilliance and feel safe."
 slug: "adhd-fear-of-being-found-out"
 date: 2025-05-03
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD fear of exposure", "managing ADHD secret fears", "adult ADHD emotional support", "ADHD unfinished projects anxiety", "ADHD community support", "ADHD validating experiences", "overcoming ADHD stigma"]
-keywords: ["ADHD fear of exposure", "managing ADHD secret fears", "adult ADHD emotional support", "ADHD unfinished projects anxiety", "ADHD community support", "ADHD validating experiences", "overcoming ADHD stigma"]
+tags: ["ADHD fear of exposure", "ADHD impostor syndrome", "managing ADHD secret fears", "adult ADHD emotional support", "overcoming ADHD stigma", "ADHD validating experiences", "ADHD unfinished projects anxiety"]
+keywords: ["ADHD fear of being found out", "ADHD impostor syndrome", "managing ADHD secret fears", "overcoming ADHD stigma", "ADHD emotional vulnerability", "adult ADHD coping", "ADHD self-acceptance"]
 og_image: "/og/adhd-fear-of-being-found-out.png"
+og_title: "ADHD Fear of Being Found Out: How to Stop Hiding and Start Thriving"
+og_description: "Feel like you're faking it and someone will find out? Learn how ADHD fuels imposter feelings and discover playful ways to own your brilliance and feel safe."
 ---
 
 Imagine you're a secret agent in a world where sitting still is the law. Sneaky, right?

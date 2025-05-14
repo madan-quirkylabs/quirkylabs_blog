@@ -1,14 +1,16 @@
 ---
-title: "Feel Closer: Beat ADHD Fear of Disconnection Today!"
-description: "Explore the 'ADHD fear of disconnection' with us! Dive into a cozy, uplifting blog that makes you feel seen and guides you back to connection. Let's journey together!"
+title: "ADHD Fear of Disconnection: How to Rebuild Bonds and Feel Close Again"
+description: "Feel cut off and alone? Explore how ADHD fuels the fear of disconnection—and discover gentle, joyful ways to reconnect with others and yourself."
 slug: "adhd-fear-of-disconnection"
 date: 2025-05-03
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD fear of disconnection", "feeling disconnected with ADHD", "ADHD emotional challenges", "managing ADHD disconnection", "coping with ADHD isolation", "ADHD and social bonds", "reconnecting with ADHD friends"]
-keywords: ["ADHD fear of disconnection", "feeling disconnected with ADHD", "ADHD emotional challenges", "managing ADHD disconnection", "coping with ADHD isolation", "ADHD and social bonds", "reconnecting with ADHD friends"]
+tags: ["ADHD fear of disconnection", "feeling disconnected with ADHD", "coping with ADHD isolation", "reconnecting with ADHD friends", "ADHD emotional challenges", "managing ADHD disconnection", "ADHD and social bonds"]
+keywords: ["ADHD fear of disconnection", "coping with ADHD isolation", "reconnecting with others ADHD", "managing ADHD disconnection", "ADHD emotional support", "ADHD and connection", "feeling disconnected ADHD"]
 og_image: "/og/adhd-fear-of-disconnection.png"
+og_title: "ADHD Fear of Disconnection: How to Rebuild Bonds and Feel Close Again"
+og_description: "Feel cut off and alone? Explore how ADHD fuels the fear of disconnection—and discover gentle, joyful ways to reconnect with others and yourself."
 ---
 
 Imagine your brain is a playful puppy, always running after the next interesting scent. One day, it spots a butterfly—oh, shiny!—and off it goes, forgetting the path back to its cozy, familiar doghouse. Now, it's wandering, feeling a bit lost and alone.

@@ -1,14 +1,16 @@
 ---
-title: "Beat ADHD Fear of Judgment: Embrace Joy & Confidence!"
-description: "\"Explore the 'ADHD fear of judgment' with a cozy read that feels like a warm hug! Dive into insights that make you feel seen and uplifted. Let’s juggle feathers together!\""
+title: "ADHD Fear of Judgment: How to Feel Safe Being Seen"
+description: "Worried what others think? Discover why ADHD amplifies fear of judgment—and learn how to embrace your quirks with confidence, joy, and a sprinkle of rebellion."
 slug: "adhd-fear-of-judgment"
 date: 2025-05-07
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD judgment anxiety", "coping with ADHD criticism", "overcoming ADHD stigma", "ADHD social anxiety", "ADHD acceptance", "ADHD self-esteem", "ADHD supportive friendships"]
-keywords: ["ADHD judgment anxiety", "coping with ADHD criticism", "overcoming ADHD stigma", "ADHD social anxiety", "ADHD acceptance", "ADHD self-esteem", "ADHD supportive friendships"]
+tags: ["ADHD fear of judgment", "coping with ADHD criticism", "overcoming ADHD stigma", "ADHD social anxiety", "ADHD acceptance", "ADHD self-esteem", "ADHD supportive friendships"]
+keywords: ["ADHD fear of judgment", "coping with ADHD criticism", "ADHD social anxiety", "overcoming ADHD stigma", "self-esteem with ADHD", "ADHD and fear of rejection", "embracing ADHD identity"]
 og_image: "/og/adhd-fear-of-judgment.png"
+og_title: "ADHD Fear of Judgment: How to Feel Safe Being Seen"
+og_description: "Worried what others think? Discover why ADHD amplifies fear of judgment—and learn how to embrace your quirks with confidence, joy, and a sprinkle of rebellion."
 ---
 
 Imagine your brain is like a super-busy bee, buzzing from flower to flower. That's your ADHD, flitting around, looking for nectar in every thought and task. But sometimes, those flowers turn into a panel of stern judges, watching every move.

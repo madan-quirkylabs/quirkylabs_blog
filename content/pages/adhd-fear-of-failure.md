@@ -1,14 +1,16 @@
 ---
-title: "Conquer ADHD Fear of Failure – Unlock Joy & Success!"
-description: "Explore the 'ADHD fear of failure' with a cozy, playful guide that makes you feel seen. Discover how every stumble is just a chance to bounce back higher!"
+title: "ADHD Fear of Failure: Why It Hits Hard and How to Rise Anyway"
+description: "Paralyzed by perfectionism or fear of falling short? Learn why ADHD magnifies fear of failure—and how to bounce back with confidence, creativity, and joy."
 slug: "adhd-fear-of-failure"
 date: 2025-05-03
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
 tags: ["ADHD fear of failure", "overcoming ADHD challenges", "ADHD anxiety management", "ADHD motivational strategies", "adult ADHD support", "ADHD resilience techniques", "ADHD playful coping"]
-keywords: ["ADHD fear of failure", "overcoming ADHD challenges", "ADHD anxiety management", "ADHD motivational strategies", "adult ADHD support", "ADHD resilience techniques", "ADHD playful coping"]
+keywords: ["ADHD fear of failure", "managing fear of failure ADHD", "overcoming ADHD perfectionism", "ADHD motivation struggles", "adult ADHD anxiety", "bouncing back from ADHD setbacks", "ADHD resilience tools"]
 og_image: "/og/adhd-fear-of-failure.png"
+og_title: "ADHD Fear of Failure: Why It Hits Hard and How to Rise Anyway"
+og_description: "Paralyzed by perfectionism or fear of falling short? Learn why ADHD magnifies fear of failure—and how to bounce back with confidence, creativity, and joy."
 ---
 
 Imagine your brain is like a bouncy castle at a fun fair, full of ideas jumping around. Sometimes, they bump into each other and — oops! — one falls flat. You frown, feeling that sting of "I messed up."

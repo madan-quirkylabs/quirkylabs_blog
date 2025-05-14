@@ -1,14 +1,16 @@
 ---
-title: "Conquer ADHD Fear of Abandonment: Feel Secure & Loved!"
-description: "Discover how to navigate the \"ADHD fear of abandonment\" with heartwarming insights. This blog comforts, understands, and reassures you're not alone. Feel seen and uplifted with every word!"
+title: "ADHD Fear of Abandonment: How to Feel Secure in Relationships"
+description: "Do you panic when people pull away? Learn how ADHD can fuel abandonment fears—and find playful, grounded strategies to build secure, lasting connections."
 slug: "adhd-fear-of-abandonment"
 date: 2025-05-07
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD abandonment issues", "managing ADHD relationships", "ADHD emotional regulation", "ADHD friendship challenges", "ADHD anxiety coping strategies", "adult ADHD social skills", "ADHD communication tips"]
-keywords: ["ADHD abandonment issues", "managing ADHD relationships", "ADHD emotional regulation", "ADHD friendship challenges", "ADHD anxiety coping strategies", "adult ADHD social skills", "ADHD communication tips"]
+tags: ["ADHD fear of abandonment", "ADHD abandonment issues", "managing ADHD relationships", "ADHD emotional regulation", "ADHD friendship challenges", "ADHD relationship anxiety", "ADHD communication tips"]
+keywords: ["ADHD fear of abandonment", "ADHD relationship security", "managing ADHD attachment", "coping with ADHD abandonment issues", "ADHD emotional resilience", "building trust with ADHD", "adult ADHD connection tips"]
 og_image: "/og/adhd-fear-of-abandonment.png"
+og_title: "ADHD Fear of Abandonment: How to Feel Secure in Relationships"
+og_description: "Do you panic when people pull away? Learn how ADHD can fuel abandonment fears—and find playful, grounded strategies to build secure, lasting connections."
 ---
 
 Imagine your brain is like a super-busy train station. Trains zooming everywhere! Now, picture your favorite train — the one carrying all your pals — suddenly disappears into a tunnel. Oh no, where did it go?

@@ -1,14 +1,16 @@
 ---
-title: "adhd fear intimacy: \"Unlock Love: Conquer ADHD Fear of Intimacy & Thrive!\""
-description: "Explore how \"ADHD fear intimacy\" impacts relationships in our warm, playful blog. Feel seen and learn gentle ways to open your heart. Let's navigate this together!"
+title: "ADHD Fear of Intimacy: Why It Happens and How to Open Up Safely"
+description: "Struggle with closeness in relationships? Discover how ADHD fuels intimacy fears and learn gentle, affirming ways to build connection without losing yourself."
 slug: "adhd-fear-intimacy"
 date: 2025-05-07
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD intimacy challenges", "managing ADHD relationship fears", "ADHD fear of closeness", "ADHD emotional connections", "understanding ADHD in relationships", "navigating intimacy with ADHD", "ADHD relationship anxiety"]
-keywords: ["ADHD intimacy challenges", "managing ADHD relationship fears", "ADHD fear of closeness", "ADHD emotional connections", "understanding ADHD in relationships", "navigating intimacy with ADHD", "ADHD relationship anxiety"]
+tags: ["ADHD fear of intimacy", "ADHD intimacy challenges", "managing ADHD relationship fears", "ADHD emotional connections", "navigating intimacy with ADHD", "ADHD fear of closeness", "ADHD relationship anxiety"]
+keywords: ["ADHD fear of intimacy", "ADHD intimacy challenges", "ADHD emotional closeness issues", "navigating relationships with ADHD", "managing ADHD relationship fears", "ADHD connection struggles", "understanding intimacy and ADHD"]
 og_image: "/og/adhd-fear-intimacy.png"
+og_title: "ADHD Fear of Intimacy: Why It Happens and How to Open Up Safely"
+og_description: "Struggle with closeness in relationships? Discover how ADHD fuels intimacy fears and learn gentle, affirming ways to build connection without losing yourself."
 ---
 
 Imagine your heart is like a super bouncy ball in a small room. It zooms from wall to wall—zap, zap, zap! Sometimes, it hits a spot that scares you, and you think, "Oh no, too close!"

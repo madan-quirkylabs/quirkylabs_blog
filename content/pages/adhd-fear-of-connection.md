@@ -1,15 +1,18 @@
 ---
-title: "Unlock Joy: Overcome ADHD Fear of Connection Today!"
-description: "Explore the 'adhd fear of connection' with a cozy, playful guide that feels like a warm hug. Dive into emotional insights that help you feel seen and ready to bond. Let's buzz together!"
+title: "ADHD Fear of Connection: How to Feel Safe Opening Up to Others"
+description: "Scared to connect? Learn why ADHD makes relationships feel risky—and discover playful, affirming ways to build trust, one quirky bond at a time."
 slug: "adhd-fear-of-connection"
 date: 2025-05-07
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD relationship challenges", "fear of connection ADHD", "making friends with ADHD", "social anxiety in ADHD", "overcoming ADHD friendship fears", "ADHD adult social skills", "connecting with others ADHD"]
-keywords: ["ADHD relationship challenges", "fear of connection ADHD", "making friends with ADHD", "social anxiety in ADHD", "overcoming ADHD friendship fears", "ADHD adult social skills", "connecting with others ADHD"]
+tags: ["ADHD fear of connection", "ADHD relationship challenges", "social anxiety in ADHD", "making friends with ADHD", "overcoming ADHD friendship fears", "ADHD adult social skills", "connecting with others ADHD"]
+keywords: ["ADHD fear of connection", "connecting with others ADHD", "ADHD relationship challenges", "social anxiety in ADHD", "overcoming ADHD friendship fears", "ADHD vulnerability", "making friends with ADHD"]
 og_image: "/og/adhd-fear-of-connection.png"
+og_title: "ADHD Fear of Connection: How to Feel Safe Opening Up to Others"
+og_description: "Scared to connect? Learn why ADHD makes relationships feel risky—and discover playful, affirming ways to build trust, one quirky bond at a time."
 ---
+
 
 Imagine your mind is like a super-busy bee garden, buzzing non-stop. You see someone new and think, "Wow, they might be cool to hang out with!"
 

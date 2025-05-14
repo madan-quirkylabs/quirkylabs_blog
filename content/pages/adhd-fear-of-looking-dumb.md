@@ -1,15 +1,18 @@
 ---
-title: "Beat ADHD Fear of Looking Dumb & Shine Bright!"
-description: "Feeling that ADHD fear of looking dumb? Dive into our blog for a cozy, playful read that helps you see those fears as just another flavor in the mix!"
+title: "ADHD Fear of Looking Dumb: Why It Happens and How to Speak Up Anyway"
+description: "Worried about saying the wrong thing? Discover why ADHD can spark the fear of looking dumb—and how to share your voice with confidence and clarity."
 slug: "adhd-fear-of-looking-dumb"
 date: 2025-05-07
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD fear of speaking up", "overcoming ADHD communication fears", "ADHD social anxiety tips", "feeling dumb with ADHD", "expressing thoughts with ADHD", "ADHD self-esteem issues", "managing ADHD in discussions"]
-keywords: ["ADHD fear of speaking up", "overcoming ADHD communication fears", "ADHD social anxiety tips", "feeling dumb with ADHD", "expressing thoughts with ADHD", "ADHD self-esteem issues", "managing ADHD in discussions"]
+tags: ["ADHD fear of looking dumb", "ADHD fear of speaking up", "ADHD self-esteem issues", "overcoming ADHD communication fears", "expressing thoughts with ADHD", "ADHD social anxiety tips", "managing ADHD in discussions"]
+keywords: ["ADHD fear of looking dumb", "ADHD fear of speaking up", "ADHD social anxiety", "overcoming ADHD communication fears", "feeling dumb with ADHD", "ADHD and self-confidence", "expressing yourself with ADHD"]
 og_image: "/og/adhd-fear-of-looking-dumb.png"
+og_title: "ADHD Fear of Looking Dumb: Why It Happens and How to Speak Up Anyway"
+og_description: "Worried about saying the wrong thing? Discover why ADHD can spark the fear of looking dumb—and how to share your voice with confidence and clarity."
 ---
+
 
 Imagine your brain is like a super-busy ice cream shop. Scoops of thoughts—chocolate, vanilla, and strawberry swirl—keep dropping everywhere!
 

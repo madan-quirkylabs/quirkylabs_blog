@@ -1,15 +1,18 @@
 ---
-title: "Embrace You: Overcome ADHD Fear of Being Too Much!"
-description: "Unlock the sunny window to your spirit with our blog on 'ADHD fear of being too much.' Feel embraced and uplifted as we explore how to channel your vibrant energy!"
+title: "ADHD Fear of Being Too Much: How to Embrace Your Energy and Shine"
+description: "Worried you’re too intense, too loud, too much? Learn how to turn the ADHD fear of being too much into your greatest strength—with love and laughter."
 slug: "adhd-fear-of-being-too-much"
 date: 2025-05-03
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD emotional regulation", "embracing ADHD energy", "ADHD self-acceptance", "ADHD fear of being too much", "managing ADHD in social settings", "ADHD and self-doubt", "celebrating ADHD uniqueness"]
-keywords: ["ADHD emotional regulation", "embracing ADHD energy", "ADHD self-acceptance", "ADHD fear of being too much", "managing ADHD in social settings", "ADHD and self-doubt", "celebrating ADHD uniqueness"]
+tags: ["ADHD fear of being too much", "embracing ADHD energy", "ADHD self-acceptance", "managing ADHD in social settings", "ADHD emotional regulation", "ADHD and self-doubt", "celebrating ADHD uniqueness"]
+keywords: ["ADHD fear of being too much", "embracing ADHD energy", "ADHD self-worth", "managing ADHD in social settings", "overcoming ADHD self-doubt", "adult ADHD validation", "being enough with ADHD"]
 og_image: "/og/adhd-fear-of-being-too-much.png"
+og_title: "ADHD Fear of Being Too Much: How to Embrace Your Energy and Shine"
+og_description: "Worried you’re too intense, too loud, too much? Learn how to turn the ADHD fear of being too much into your greatest strength—with love and laughter."
 ---
+
 
 Imagine you're a colorful, bouncy super ball zipping around a small room.
 
