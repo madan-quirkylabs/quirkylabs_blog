@@ -1,14 +1,16 @@
 ---
-title: "Why ADHD Breakups Hurt So Much (And How to Finally Let Go of the Blame)"
-description: "Learn why ADHD breakups feel overwhelming and how to stop blaming yourself. Discover practical tools for healing, communication, and emotional clarity—quirky, real, and supportive."
+title: "ADHD Breakups: Why They Hurt So Much & How to Let Go of the Blame"
+description: "Struggling after an ADHD breakup? Learn why it hurts more, how ADHD affects relationships, and ways to stop blaming yourself and start healing."
 slug: "adhd-breakups-and-blame"
 date: 2025-05-07
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD breakup advice", "managing ADHD in relationships", "ADHD blame in breakups", "ADHD relationship challenges", "coping with ADHD breakups", "understanding ADHD behavior in relationships", "navigating ADHD and emotional responsibility"]
-keywords: ["ADHD breakup advice", "managing ADHD in relationships", "ADHD blame in breakups", "ADHD relationship challenges", "coping with ADHD breakups", "understanding ADHD behavior in relationships", "navigating ADHD and emotional responsibility"]
+tags: ["ADHD breakup recovery", "ADHD and emotional regulation", "letting go after ADHD breakup", "ADHD relationship patterns", "coping with ADHD heartbreak", "blame and ADHD", "ADHD and communication issues"]
+keywords: ["ADHD breakup recovery", "ADHD and emotional regulation", "letting go after ADHD breakup", "coping with ADHD heartbreak", "ADHD relationship patterns", "blame and ADHD"]
 og_image: "/og/adhd-breakups-and-blame.png"
+og_title: "ADHD Breakups: Why They Hurt So Much & How to Let Go of the Blame"
+og_description: "Struggling after an ADHD breakup? Learn why it hurts more, how ADHD affects relationships, and ways to stop blaming yourself and start healing."
 ---
 
 Breaking up? Imagine your thoughts like mischievous puppies. Always wandering off!

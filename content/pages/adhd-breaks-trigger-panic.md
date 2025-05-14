@@ -1,14 +1,16 @@
 ---
-title: "ADHD breaks trigger panic: \"Stop Panic Now: How ADHD Breaks Trigger Calm!"
-description: "Struggling with 'ADHD breaks trigger panic'? Explore our cozy, playful guide to finding your calm and feeling understood when breaks feel overwhelming!"
+title: "ADHD Breaks Trigger Panic: Why Downtime Feels Unsettling & How to Find Calm"
+description: "Do breaks make you panic with ADHD? Learn why downtime triggers anxiety and discover calming strategies to make rest actually restful."
 slug: "adhd-breaks-trigger-panic"
 date: 2025-05-03
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD break anxiety", "managing ADHD break stress", "ADHD relaxation techniques", "ADHD break strategies", "panic during ADHD breaks", "adult ADHD break tips", "coping with ADHD breaks"]
-keywords: ["ADHD break anxiety", "managing ADHD break stress", "ADHD relaxation techniques", "ADHD break strategies", "panic during ADHD breaks", "adult ADHD break tips", "coping with ADHD breaks"]
+tags: ["ADHD break anxiety", "panic during ADHD breaks", "ADHD downtime stress", "relaxing with ADHD", "ADHD rest strategies", "adult ADHD calm techniques"]
+keywords: ["ADHD breaks trigger panic", "ADHD break anxiety", "panic during ADHD breaks", "relaxing with ADHD", "ADHD downtime stress", "how to rest with ADHD"]
 og_image: "/og/adhd-breaks-trigger-panic.png"
+og_title: "ADHD Breaks Trigger Panic: Why Downtime Feels Unsettling & How to Find Calm"
+og_description: "Do breaks make you panic with ADHD? Learn why downtime triggers anxiety and discover calming strategies to make rest actually restful."
 ---
 
 Imagine your brain is a playful puppy, always running after squirrels. Now, imagine someone tells that puppy to sit still in a tiny box. Yikes, right?

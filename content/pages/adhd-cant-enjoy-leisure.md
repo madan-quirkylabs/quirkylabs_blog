@@ -1,14 +1,16 @@
 ---
-title: "ADHD cant enjoy leisure: Unlock Joy: Beat ADHD & Savor Leisure Time!"
-description: "ADHD cant enjoy leisure: Struggle because 'ADHD can't enjoy leisure'? Dive into our cozy blog where we explore playful strategies to relax and feel understood. Find your calm!"
+title: "ADHD Can’t Enjoy Leisure: Why Relaxation Feels Wrong & How to Reclaim Joyful Downtime"
+description: "Struggle to enjoy free time with ADHD? Discover why leisure feels hard, and explore playful, practical ways to make rest feel rewarding again."
 slug: "adhd-cant-enjoy-leisure"
 date: 2025-05-03
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD leisure challenges", "ADHD relaxation techniques", "enjoying leisure with ADHD", "ADHD and leisure activities", "managing ADHD distractions", "ADHD friendly leisure tips", "ADHD and enjoying downtime"]
-keywords: ["ADHD leisure challenges", "ADHD relaxation techniques", "enjoying leisure with ADHD", "ADHD and leisure activities", "managing ADHD distractions", "ADHD friendly leisure tips", "ADHD and enjoying downtime"]
+tags: ["ADHD can't enjoy leisure", "ADHD and restlessness", "relaxing with ADHD", "ADHD and leisure struggles", "making leisure work with ADHD", "playful ADHD downtime", "ADHD rest and joy"]
+keywords: ["ADHD can't enjoy leisure", "relaxing with ADHD", "ADHD leisure struggles", "making rest enjoyable for ADHD", "ADHD restlessness", "ADHD downtime tips"]
 og_image: "/og/adhd-cant-enjoy-leisure.png"
+og_title: "ADHD Can’t Enjoy Leisure: Why Relaxation Feels Wrong & How to Reclaim Joyful Downtime"
+og_description: "Struggle to enjoy free time with ADHD? Discover why leisure feels hard, and explore playful, practical ways to make rest feel rewarding again."
 ---
 
 Imagine your brain is like a bouncy castle at a fun fair. You're trying to lie down and relax, but every few seconds, someone new comes bouncing in, sending you tumbling and flipping. It's hard to get comfy with so much going on!

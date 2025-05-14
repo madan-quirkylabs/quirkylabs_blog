@@ -1,14 +1,16 @@
 ---
-title: "Unlock Joy: Why 'ADHD Can’t Just Chill' Is Okay!"
-description: "Explore why 'ADHD can’t just chill' in our cozy blog that understands your buzzing mind. Feel seen, understood, and joyfully validated as we dive into the ADHD adventure together!"
-slug: "adhd-can’t-just-chill"
+title: "ADHD Can’t Just Chill: Why Relaxing Feels Hard & How to Embrace Your Buzzing Brain"
+description: "Always on edge with ADHD and can't relax? Discover why chilling out is tough for ADHD brains and playful ways to feel more at ease with your energy."
+slug: "adhd-cant-just-chill"
 date: 2025-05-03
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD playful perspective", "ADHD creative challenges", "managing ADHD chaos", "ADHD cannot relax", "ADHD daily adventures", "ADHD channel flipping", "ADHD colorful journey"]
-keywords: ["ADHD playful perspective", "ADHD creative challenges", "managing ADHD chaos", "ADHD cannot relax", "ADHD daily adventures", "ADHD channel flipping", "ADHD colorful journey"]
-og_image: "/og/adhd-can’t-just-chill.png"
+tags: ["ADHD can’t relax", "why ADHD can't chill", "ADHD brain always on", "ADHD restlessness explained", "ADHD managing downtime", "relaxation with ADHD", "ADHD self-acceptance"]
+keywords: ["ADHD can't relax", "why ADHD can't chill", "ADHD restlessness", "relaxation and ADHD", "managing ADHD downtime", "ADHD brain overstimulation"]
+og_image: "/og/adhd-cant-just-chill.png"
+og_title: "ADHD Can’t Just Chill: Why Relaxing Feels Hard & How to Embrace Your Buzzing Brain"
+og_description: "Always on edge with ADHD and can't relax? Discover why chilling out is tough for ADHD brains and playful ways to feel more at ease with your energy."
 ---
 
 Imagine your brain is like a super-duper busy bee, buzzing from one flower to another. It just can't decide which one is the yummiest!

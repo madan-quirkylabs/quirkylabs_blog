@@ -1,15 +1,18 @@
 ---
-title: "ADHD cant sit still: Unlock Joy: Embrace the Wiggle with ADHD Can't Sit Still!"
-description: "ADHD cant sit still: Discover how \"ADHD can't sit still\" isn't just a challenge but a superpower! Dive into our blog for cozy insights and playful strategies that make you feel seen and celebrated. 🌟"
+title: "ADHD Can’t Sit Still: Why Movement Helps & How to Channel Your Energy"
+description: "Struggle with restlessness and hyperactivity? Discover why ADHD makes it hard to sit still and explore playful ways to embrace and redirect your energy."
 slug: "adhd-cant-sit-still"
 date: 2025-05-03
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD energy management", "ADHD restlessness solutions", "channeling ADHD energy", "ADHD adults hyperactivity", "playful ADHD coping strategies", "ADHD and movement", "creative outlets for ADHD"]
-keywords: ["ADHD energy management", "ADHD restlessness solutions", "channeling ADHD energy", "ADHD adults hyperactivity", "playful ADHD coping strategies", "ADHD and movement", "creative outlets for ADHD"]
+tags: ["ADHD can't sit still", "ADHD hyperactivity in adults", "channeling ADHD energy", "ADHD restlessness tips", "movement-based ADHD strategies", "ADHD fidgeting solutions", "creative ADHD outlets"]
+keywords: ["ADHD can't sit still", "ADHD restlessness", "channeling ADHD energy", "movement strategies for ADHD", "ADHD hyperactivity", "ADHD energy management"]
 og_image: "/og/adhd-cant-sit-still.png"
+og_title: "ADHD Can’t Sit Still: Why Movement Helps & How to Channel Your Energy"
+og_description: "Struggle with restlessness and hyperactivity? Discover why ADHD makes it hard to sit still and explore playful ways to embrace and redirect your energy."
 ---
+
 
 Imagine you're a bouncy ball in a small room, ping-ponging from wall to wall. Sometimes you're zipping under the sofa, sometimes you're flying up to the ceiling lamp, never quite stopping. That's a bit like how it feels when your ADHD brain says, "No sitting still!"
 

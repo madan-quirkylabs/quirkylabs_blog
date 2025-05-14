@@ -1,15 +1,18 @@
 ---
-title: "adhd carrying school shame: \"Shed the Weight of ADHD School Shame – Find Joy & Freedom!\""
-description: "\"Explore how 'adhd carrying school shame' can transform into acceptance and joy. Dive into a cozy, playful blog that makes you feel seen and uplifted. Join us!\""
+title: "ADHD Carrying School Shame: How to Heal From Old Hurts & Reclaim Your Confidence"
+description: "Still feel the weight of school shame from ADHD? Learn how those experiences shape you and discover empowering ways to rewrite your story and feel free."
 slug: "adhd-carrying-school-shame"
 date: 2025-05-07
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD school experiences", "overcoming ADHD shame", "ADHD learning strategies", "adult ADHD support", "playful ADHD coping", "ADHD emotional resilience", "ADHD self-acceptance"]
-keywords: ["ADHD school experiences", "overcoming ADHD shame", "ADHD learning strategies", "adult ADHD support", "playful ADHD coping", "ADHD emotional resilience", "ADHD self-acceptance"]
+tags: ["ADHD school shame", "overcoming ADHD academic trauma", "ADHD and self-worth", "healing ADHD school wounds", "ADHD self-acceptance journey", "emotional resilience ADHD", "ADHD and confidence"]
+keywords: ["ADHD school shame", "overcoming ADHD school trauma", "healing ADHD emotional wounds", "ADHD and confidence", "adult ADHD and past shame", "ADHD self-worth recovery"]
 og_image: "/og/adhd-carrying-school-shame.png"
+og_title: "ADHD Carrying School Shame: How to Heal From Old Hurts & Reclaim Your Confidence"
+og_description: "Still feel the weight of school shame from ADHD? Learn how those experiences shape you and discover empowering ways to rewrite your story and feel free."
 ---
+
 
 Imagine ADHD as a mischievous squirrel in school, always darting around, hiding nuts and forgetting where they're buried. It's trying its best, but oh, the chaos!
 

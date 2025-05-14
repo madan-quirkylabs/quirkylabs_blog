@@ -1,15 +1,18 @@
 ---
-title: "Unleash Your Spark: Conquer ADHD Brilliant But Blocked!"
-description: "Discover \"ADHD Brilliant But Blocked\" where your vibrant ideas find freedom! Feel seen & uplifted as we melt those mental blocks together with warmth and playfulness."
+title: "ADHD Brilliant But Blocked: How to Break Through Mental Paralysis & Start Creating"
+description: "Feel stuck with big ADHD ideas but no action? Learn why your brilliance gets blocked and discover playful ways to finally unlock your creative flow."
 slug: "adhd-brilliant-but-blocked"
 date: 2025-05-07
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD creativity block", "unlocking ADHD potential", "ADHD project completion", "ADHD idea management", "ADHD motivation tips", "ADHD support strategies", "ADHD playful solutions"]
-keywords: ["ADHD creativity block", "unlocking ADHD potential", "ADHD project completion", "ADHD idea management", "ADHD motivation tips", "ADHD support strategies", "ADHD playful solutions"]
+tags: ["ADHD creativity block", "unlocking ADHD potential", "ADHD paralysis", "ADHD project momentum", "overcoming ADHD stuckness", "finishing ADHD ideas"]
+keywords: ["ADHD creativity block", "ADHD brilliant but blocked", "overcoming ADHD paralysis", "unlocking ADHD potential", "finishing ADHD projects", "ADHD mental block solutions"]
 og_image: "/og/adhd-brilliant-but-blocked.png"
+og_title: "ADHD Brilliant But Blocked: How to Break Through Mental Paralysis & Start Creating"
+og_description: "Feel stuck with big ADHD ideas but no action? Learn why your brilliance gets blocked and discover playful ways to finally unlock your creative flow."
 ---
+
 
 Imagine your brain is a super busy ice cream shop. Scoops of ideas pile up like rainbow mountains of yummy flavors waiting to be tasted. But oh no! The scoop is stuck!
 

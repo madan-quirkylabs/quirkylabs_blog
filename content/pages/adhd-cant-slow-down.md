@@ -1,14 +1,16 @@
 ---
-title: "ADHD cant slow down: \"Unlock Joy: ADHD Can't Slow Down Your Brilliant Mind!\""
-description: "Explore how 'ADHD cant slow down' is a superpower, not a setback! Dive into our blog for cozy, playful insights that make you feel seen and celebrated."
+title: "ADHD Can’t Slow Down: Why Your Fast Brain Isn’t a Flaw & How to Harness It"
+description: "Does your ADHD brain feel like it’s always racing? Learn why slowing down is hard and how to channel your fast mind into creative, joyful momentum."
 slug: "adhd-cant-slow-down"
 date: 2025-05-03
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD hyperactivity in adults", "managing adult ADHD energy", "ADHD creativity and productivity", "ADHD and restlessness coping strategies", "embracing ADHD strengths", "ADHD playful coping techniques", "adult ADHD validation tips"]
-keywords: ["ADHD hyperactivity in adults", "managing adult ADHD energy", "ADHD creativity and productivity", "ADHD and restlessness coping strategies", "embracing ADHD strengths", "ADHD playful coping techniques", "adult ADHD validation tips"]
+tags: ["ADHD can't slow down", "ADHD hyperactivity", "fast ADHD brain", "managing ADHD energy", "ADHD creativity strategies", "embracing ADHD speed", "productive ADHD techniques"]
+keywords: ["ADHD can't slow down", "ADHD hyperactivity in adults", "fast ADHD brain", "managing ADHD energy", "ADHD and productivity", "embracing ADHD mind speed"]
 og_image: "/og/adhd-cant-slow-down.png"
+og_title: "ADHD Can’t Slow Down: Why Your Fast Brain Isn’t a Flaw & How to Harness It"
+og_description: "Does your ADHD brain feel like it’s always racing? Learn why slowing down is hard and how to channel your fast mind into creative, joyful momentum."
 ---
 
 Zippy zoomed like a racecar at a green light—vroom, vroom, school's a blur!

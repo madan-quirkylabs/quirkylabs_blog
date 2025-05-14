@@ -1,15 +1,18 @@
 ---
-title: "Beat ADHD Compliment Doubt: Feel Validated & Joyful!"
-description: "Explore 'ADHD compliment doubt' and feel truly seen in our cozy blog. Discover how to embrace your wins and silence that inner skeptic. You're not alone!"
+title: "ADHD Compliment Doubt: Why It’s Hard to Accept Praise & How to Truly Feel Seen"
+description: "Struggle to accept compliments with ADHD? Learn why doubt creeps in and explore playful ways to feel validated, confident, and emotionally safe."
 slug: "adhd-compliment-doubt"
 date: 2025-05-03
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD compliment acceptance", "ADHD self-doubt strategies", "coping with ADHD doubts", "ADHD affirmation techniques", "managing ADHD emotional responses", "ADHD self-esteem support", "validating ADHD emotions"]
-keywords: ["ADHD compliment acceptance", "ADHD self-doubt strategies", "coping with ADHD doubts", "ADHD affirmation techniques", "managing ADHD emotional responses", "ADHD self-esteem support", "validating ADHD emotions"]
+tags: ["ADHD compliment doubt", "accepting praise with ADHD", "ADHD and self-worth", "ADHD emotional validation", "coping with ADHD doubt", "ADHD and low self-esteem", "ADHD self-acceptance tools"]
+keywords: ["ADHD compliment doubt", "accepting praise with ADHD", "ADHD and self-worth", "emotional validation ADHD", "overcoming ADHD doubt", "ADHD self-esteem help"]
 og_image: "/og/adhd-compliment-doubt.png"
+og_title: "ADHD Compliment Doubt: Why It’s Hard to Accept Praise & How to Truly Feel Seen"
+og_description: "Struggle to accept compliments with ADHD? Learn why doubt creeps in and explore playful ways to feel validated, confident, and emotionally safe."
 ---
+
 
 Imagine your brain is a playful puppy, always scampering off track. You've just nailed a big project, and your boss is showering you with compliments. "Great job!" she says, and your inner puppy starts sniffing around. "Really? But I missed a spot, didn't I?"
 

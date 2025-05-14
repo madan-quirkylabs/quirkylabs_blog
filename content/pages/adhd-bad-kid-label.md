@@ -1,15 +1,18 @@
 ---
-title: "adhd bad kid label: \"Escape the 'ADHD Bad Kid' Label – Unlock Your Child's Joy!\""
-description: "Explore the \"adhd bad kid label\" myth and see ADHD as a unique sparkle, not a stain. Feel understood and uplifted in our cozy, insightful blog!"
+title: "ADHD Bad Kid Label: Why It Happens & How to Change the Story"
+description: "Break free from the harmful 'ADHD bad kid' label. Learn why it sticks, how to reframe behaviors, and empower your child’s unique strengths."
 slug: "adhd-bad-kid-label"
 date: 2025-05-07
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD creative thinking", "ADHD stigma in education", "ADHD and misunderstood behaviors", "ADHD validation strategies", "ADHD and classroom dynamics", "ADHD and positive reframing", "ADHD support in schools"]
-keywords: ["ADHD creative thinking", "ADHD stigma in education", "ADHD and misunderstood behaviors", "ADHD validation strategies", "ADHD and classroom dynamics", "ADHD and positive reframing", "ADHD support in schools"]
+tags: ["ADHD stigma in education", "ADHD misunderstood behavior", "positive ADHD parenting", "ADHD school support", "reframing ADHD labels", "ADHD child empowerment"]
+keywords: ["ADHD bad kid label", "ADHD stigma in education", "positive ADHD parenting", "misunderstood ADHD behaviors", "empowering ADHD kids", "ADHD child support strategies"]
 og_image: "/og/adhd-bad-kid-label.png"
+og_title: "ADHD Bad Kid Label: Why It Happens & How to Change the Story"
+og_description: "Break free from the harmful 'ADHD bad kid' label. Learn why it sticks, how to reframe behaviors, and empower your child’s unique strengths."
 ---
+
 
 In class, Tommy's mind was like a super-charged pinball machine. Ideas and thoughts pinged and ponged, lighting up with every bump and flip. Sometimes, a thought zoomed down the wrong chute, and "Oops!"—Tommy blurted out an answer without raising his hand.
 

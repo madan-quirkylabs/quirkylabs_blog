@@ -1,14 +1,16 @@
 ---
-title: "ADHD cant relax: Unlock Calm: Cozy Tips When ADHD Can't Relax 🌟"
-description: "Struggling because your 'ADHD cant relax'? Find comfort in our blog as we explore playful, cozy ways to help soothe your bustling mind. You're not alone!"
+title: "ADHD Can’t Relax: Why It’s So Hard to Unwind & How to Actually Chill"
+description: "Struggle to relax with ADHD? Learn why your brain resists rest and discover cozy, playful strategies to finally feel calm and at ease with yourself."
 slug: "adhd-cant-relax"
 date: 2025-05-03
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD relaxation techniques", "ADHD can't relax tips", "playful ADHD coping strategies", "ADHD mind relaxation", "relaxing with ADHD", "ADHD relaxation challenges", "ADHD-friendly relaxation methods"]
-keywords: ["ADHD relaxation techniques", "ADHD can't relax tips", "playful ADHD coping strategies", "ADHD mind relaxation", "relaxing with ADHD", "ADHD relaxation challenges", "ADHD-friendly relaxation methods"]
+tags: ["ADHD can't relax", "ADHD relaxation challenges", "relaxing with ADHD", "ADHD and anxiety", "calming ADHD brain", "ADHD soothing techniques", "ADHD-friendly ways to unwind"]
+keywords: ["ADHD can't relax", "relaxing with ADHD", "ADHD brain can't stop", "ADHD relaxation strategies", "calming ADHD mind", "ADHD and restlessness"]
 og_image: "/og/adhd-cant-relax.png"
+og_title: "ADHD Can’t Relax: Why It’s So Hard to Unwind & How to Actually Chill"
+og_description: "Struggle to relax with ADHD? Learn why your brain resists rest and discover cozy, playful strategies to finally feel calm and at ease with yourself."
 ---
 
 Imagine your brain is like a super bouncy ball in a tiny room. Ping! Pang! It’s always zooming from one wall to another, never stopping.

@@ -1,14 +1,16 @@
 ---
-title: "ADHD big dreams no follow through: \"Unleash Your ADHD\": Big Dreams, No Follow-Through Fix!"
-description: "Discover why \"ADHD big dreams no follow through\" feels so familiar in our latest blog. Embrace your unique journey with warmth and understanding, and find joy in your vibrant, dream-filled detours!"
+title: "ADHD Big Dreams, No Follow-Through: Why It Happens & How to Finally Finish Things"
+description: "Struggle with ADHD big dreams and no follow-through? Discover why it happens, how to work with your brain, and start finishing what you imagine."
 slug: "adhd-big-dreams-no-follow-through"
 date: 2025-05-03
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD big dreams no follow through", "ADHD project completion", "managing ADHD distractions", "adult ADHD creative solutions", "ADHD unfinished projects", "ADHD motivation tips", "ADHD and big ideas"]
-keywords: ["ADHD big dreams no follow through", "ADHD project completion", "managing ADHD distractions", "adult ADHD creative solutions", "ADHD unfinished projects", "ADHD motivation tips", "ADHD and big ideas"]
+tags: ["ADHD big dreams", "ADHD follow-through struggles", "ADHD unfinished projects", "ADHD productivity hacks", "ADHD motivation tools", "finishing ADHD projects"]
+keywords: ["ADHD big dreams", "ADHD no follow through", "ADHD unfinished projects", "how to finish tasks with ADHD", "ADHD productivity tips", "ADHD creative project follow-through"]
 og_image: "/og/adhd-big-dreams-no-follow-through.png"
+og_title: "ADHD Big Dreams, No Follow-Through: Why It Happens & How to Finally Finish Things"
+og_description: "Struggle with ADHD big dreams and no follow-through? Discover why it happens, how to work with your brain, and start finishing what you imagine."
 ---
 
 Imagine you're a superhero, zooming high with a cape of brilliant ideas fluttering behind you! You're ready to save the world with your big, bold dreams.

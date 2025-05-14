@@ -1,14 +1,16 @@
 ---
-title: "adhd cant execute: \"Unlock Joy: Thrive When 'ADHD Can't Execute'!\""
-description: "adhd cant execute: \"Struggling because 'ADHD can't execute'? Join us in our cozy corner of the web where we understand the circus in your mind. Find validation and playful insights to feel seen and uplifted!\""
+title: "ADHD Can’t Execute: Why Simple Tasks Feel Impossible & How to Start Moving Again"
+description: "Feel stuck because ADHD makes it hard to execute tasks? Learn why this happens and discover playful, practical ways to get unstuck and feel capable again."
 slug: "adhd-cant-execute"
 date: 2025-05-07
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD execution difficulties", "ADHD task management strategies", "playful ADHD coping mechanisms", "ADHD and daily life challenges", "ADHD creative problem-solving", "ADHD and forgetfulness", "managing ADHD distractions"]
-keywords: ["ADHD execution difficulties", "ADHD task management strategies", "playful ADHD coping mechanisms", "ADHD and daily life challenges", "ADHD creative problem-solving", "ADHD and forgetfulness", "managing ADHD distractions"]
+tags: ["ADHD can't execute", "ADHD executive dysfunction", "ADHD task paralysis", "getting unstuck with ADHD", "managing ADHD tasks", "playful ADHD productivity", "ADHD daily execution"]
+keywords: ["ADHD can't execute", "executive dysfunction ADHD", "task paralysis ADHD", "how to start with ADHD", "getting things done with ADHD", "ADHD productivity support"]
 og_image: "/og/adhd-cant-execute.png"
+og_title: "ADHD Can’t Execute: Why Simple Tasks Feel Impossible & How to Start Moving Again"
+og_description: "Feel stuck because ADHD makes it hard to execute tasks? Learn why this happens and discover playful, practical ways to get unstuck and feel capable again."
 ---
 
 Imagine your brain is a quirky, colorful circus. The ringmaster lost his megaphone, oh no! Clowns, acrobats, and jugglers are everywhere, not knowing what to act next.

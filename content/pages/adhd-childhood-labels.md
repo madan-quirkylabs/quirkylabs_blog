@@ -1,14 +1,16 @@
 ---
-title: "Unlock Joy: Shedding ADHD Childhood Labels with Ease!"
-description: "Explore \"ADHD childhood labels\" in a new light! Dive into our blog to transform labels from stigmas to strengths and feel embraced in your unique journey."
+title: "ADHD Childhood Labels: How to Reframe the Past & Embrace Your True Self"
+description: "Labeled early on for your ADHD? Learn how to shed old stigmas, reframe your story, and rediscover your strengths with warmth, humor, and clarity."
 slug: "adhd-childhood-labels"
 date: 2025-05-07
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD childhood labels", "ADHD superpower perspective", "ADHD emotional themes", "ADHD playful validation", "reframing ADHD labels", "ADHD superhero analogy", "embracing ADHD identity"]
-keywords: ["ADHD childhood labels", "ADHD superpower perspective", "ADHD emotional themes", "ADHD playful validation", "reframing ADHD labels", "ADHD superhero analogy", "embracing ADHD identity"]
+tags: ["ADHD childhood labels", "reframing ADHD identity", "ADHD self-acceptance", "overcoming ADHD stigma", "ADHD emotional healing", "playful ADHD perspective", "embracing neurodiversity"]
+keywords: ["ADHD childhood labels", "reframing ADHD labels", "overcoming ADHD stigma", "healing from ADHD shame", "embracing ADHD identity", "ADHD self-acceptance"]
 og_image: "/og/adhd-childhood-labels.png"
+og_title: "ADHD Childhood Labels: How to Reframe the Past & Embrace Your True Self"
+og_description: "Labeled early on for your ADHD? Learn how to shed old stigmas, reframe your story, and rediscover your strengths with warmth, humor, and clarity."
 ---
 
 Imagine you're a superhero with a cape made of sticky notes. Each note is a label like "daydreamer" or "chatterbox." You zoom through the day, sometimes bumping into things because your super-speed is just too fast!
