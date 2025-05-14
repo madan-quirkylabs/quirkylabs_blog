@@ -9,6 +9,8 @@ categories: ["ADHD Guides"]
 tags: ["ADHD creativity", "ADHD productivity tips", "embracing ADHD", "ADHD multitasking strategies", "ADHD energy channeling", "ADHD adult lifestyle", "ADHD playful approaches"]
 keywords: ["ADHD creativity", "ADHD productivity tips", "embracing ADHD", "ADHD multitasking strategies", "ADHD energy channeling", "ADHD adult lifestyle", "ADHD playful approaches"]
 og_image: "/og/adhd-always-be-doing.png"
+og_title: "ADHD Always Be Doing: Why You Can’t Stop & How to Harness It"
+og_description: "Discover why people with ADHD always need to be doing something. Learn how to embrace your endless energy and turn it into creativity, focus, and fun."
 ---
 
 ## What Does "ADHD Always Be Doing" Mean?
@@ -25,7 +27,7 @@ Once upon a time in the bustling town of Busyville, there lived a young girl nam
 
 One sunny morning, Ellie woke up with a sparkle in her eyes. Today was the day for her big art project! She jumped out of bed, her thoughts racing faster than a cheetah on roller skates.
 
-### ADHD Energy in Action: Ellie’s Creative Chaos
+## ADHD Energy in Action: Ellie’s Creative Chaos
 
 First, she grabbed her paints—red, blue, yellow, and a million others. Then she remembered her bike needed fixing. Off she dashed to the garage!
 
@@ -39,7 +41,7 @@ Today, Captain Spark had a mission: to organize her collection of space rocks. B
 
 Yet, in the quiet moments, she couldn't help but feel that every pause in her cosmic dance was a step missed, a sentiment echoed by many who experience the sense that [ADHD rest feels like failure](/pages/adhd-rest-feels-like-failure/).
 
-### Why ADHD Minds Jump From Task to Task (feat. Captain Spark)
+## Why ADHD Minds Jump From Task to Task (feat. Captain Spark)
 
 As she bounced from one task to another, her robot assistant, Beep-Boop, tried to keep up. "Captain, maybe focus on one asteroid at a time?" Beep-Boop suggested timidly.
 
@@ -55,7 +57,7 @@ Even amidst the laughter and stories, a part of Alex couldn't shake off the [ADH
 
 "Tomorrow's another big day, huh?" Mom chuckled as she ruffled Alex's hair.
 
-### Everyday ADHD Adventures: Meet Alex, the Backyard Explorer
+## Everyday ADHD Adventures: Meet Alex, the Backyard Explorer
 
 "Yep!" Alex grinned. "There’s always more to do and see!" They felt a rush of excitement thinking about all the possibilities.
 

@@ -9,6 +9,8 @@ categories: ["ADHD Guides"]
 tags: ["ADHD trouble at school", "ADHD impulsivity stories", "managing ADHD chaos", "ADHD and constant movement", "emotional impact of ADHD", "ADHD adult coping strategies", "navigating ADHD challenges"]
 keywords: ["ADHD trouble at school", "ADHD impulsivity stories", "managing ADHD chaos", "ADHD and constant movement", "emotional impact of ADHD", "ADHD adult coping strategies", "navigating ADHD challenges"]
 og_image: "/og/adhd-always-in-trouble.png"
+og_title: "Why People with ADHD Always Get in Trouble & How to Stop It"
+og_description: "Discover why people with ADHD often feel “always in trouble”—and how to turn it into a strength. Real stories, expert tips, and hope for kids and adults alike."
 ---
 
 Little Timmy was like a puppy lost in a butterfly garden. Everywhere he looked, something new fluttered by, begging for attention. And oh, did he chase!
@@ -21,7 +23,7 @@ Hey, if you've ever felt like Timmy, always chasing but often stumbling, guess w
 
 Jamie was like a pinball in a never-ending game. She bounced from one thing to another, always in motion. At school, her energy was as colorful and scattered as confetti at a parade. Her teachers often sighed, tapping their watches, while Jamie's thoughts raced like speedy racecars on a twisty track. "ADHD always in trouble," they'd whisper, shaking their heads as her backpack spilled a waterfall of forgotten homework.
 
-### Why Kids with ADHD Struggle to Sit Still or Wait Their Turn
+## Why Kids with ADHD Struggle to Sit Still or Wait Their Turn
 
 In class, Jamie's hand shot up like a rocket. She had answers—a whole fireworks show of them! But oh, waiting for her turn felt like standing in a slo-mo movie. She'd wiggle, squirm, and occasionally create a doodle masterpiece on her desk. Her mind was a merry-go-round of ideas, spinning too fast to jump off. 
 
@@ -29,7 +31,7 @@ At lunch, Jamie's stories were a jumble sale—exciting, unpredictable, and all 
 
 In the bustling village of Neuronia, where our hero, Spark, lived, things were always lively. Spark, with his vibrant streaks of curiosity and lightning-fast thoughts, often found himself in a whirl of excitement and, yes, a bit of chaos. It seemed like ADHD was always dragging him into trouble like a magnet attracted to metal.
 
-### ADHD Impulsivity and Chaos: A Creative Mind’s Journey
+## ADHD Impulsivity and Chaos: A Creative Mind’s Journey
 
 Despite the chaos, Spark sometimes felt the heavy shadow of [ADHD Internalized Ableism](/pages/adhd-internalized-ableism/), wondering if his vibrant way of being was more of a burden than a boon.
 
@@ -45,7 +47,7 @@ Despite the hiccups, Spark learned that with a bit of planning and lots of help 
 
 As the weeks rolled by, Jamie discovered a secret superpower. Although it often felt like ADHD always landed them in trouble, it also sparked a bundle of creativity and unique ideas that no one else seemed to think of. With Ms. Carter's help, they began to see this vibrant energy as a special gift rather than a stumbling block.
 
-### How to Help ADHD Kids Turn Trouble into a Superpower
+## How to Help ADHD Kids Turn Trouble into a Superpower
 
 Amidst these newfound revelations, Jamie also started to untangle the [ADHD Childhood Labels](/pages/adhd-childhood-labels/) that had long defined their abilities and self-perception in a confining way.
 

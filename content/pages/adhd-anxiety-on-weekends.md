@@ -9,6 +9,8 @@ categories: ["ADHD Guides"]
 tags: ["ADHD weekend anxiety", "managing ADHD on weekends", "ADHD relaxation techniques", "coping with ADHD chaos", "ADHD playful coping strategies", "dealing with ADHD impulsivity", "ADHD and weekend productivity"]
 keywords: ["ADHD weekend anxiety", "managing ADHD on weekends", "ADHD relaxation techniques", "coping with ADHD chaos", "ADHD playful coping strategies", "dealing with ADHD impulsivity", "ADHD and weekend productivity"]
 og_image: "/og/adhd-anxiety-on-weekends.png"
+og_title: "ADHD Anxiety on Weekends: Why It Gets Worse & How to Find Peace"
+og_description: "Struggling with ADHD anxiety on weekends? Discover why it spikes and practical ways to manage it. Get calm, structure, and joy back into your weekends."
 ---
 
 ## Why Does ADHD Anxiety Get Worse on Weekends?

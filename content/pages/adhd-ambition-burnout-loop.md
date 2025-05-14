@@ -9,6 +9,8 @@ categories: ["ADHD Guides"]
 tags: ["ADHD ambition burnout", "managing ADHD dreams", "ADHD project completion", "overcoming ADHD burnout", "ADHD motivation tips", "sustaining energy with ADHD", "ADHD productivity strategies"]
 keywords: ["ADHD ambition burnout", "managing ADHD dreams", "ADHD project completion", "overcoming ADHD burnout", "ADHD motivation tips", "sustaining energy with ADHD", "ADHD productivity strategies"]
 og_image: "/og/adhd-ambition-burnout-loop.png"
+og_title: "ADHD Ambition Burnout Loop: How to Break Free & Get Things Done"
+og_description: "Learn how the ADHD ambition burnout loop keeps you stuck — and discover practical ways to manage big dreams, avoid burnout, and finally follow through."
 ---
 
 Imagine you're a superhero, zooming high with big, bold ideas—soaring like Superman! But oops, you forgot to refuel. Suddenly, you're sputtering, falling... thud.
@@ -21,7 +23,7 @@ Meet Jamie, a whirlwind of sparkling ideas and grand plans. One minute Jamie's d
 
 But here’s the twist: Jamie also knows the notorious 'ADHD ambition burnout loop' all too well. Imagine this loop as a playful puppy chasing its tail—exciting at first but dizzying after awhile.
 
-### Why ADHD Makes It Hard to Finish What You Start
+## Why ADHD Makes It Hard to Finish What You Start
 
 As soon as Jamie picks up a pen or a trowel, the initial excitement sizzles like a firework. Bright, loud, wonderful! But then, just as fast, the sparkle fades. The novel remains a page long. The garden? Well, it’s just a couple of hopeful seeds.
 
@@ -31,7 +33,7 @@ And so, the loop continues. Dream, start, fizzle out.
 
 When we last left Sammy, she was zooming around her forest, collecting acorns at the speed of squirrel-lightning. Sammy, our squirrelly friend with ADHD, had big dreams and even bigger energy. But here's the twist: Sammy was caught in what we call the "ADHD ambition burnout loop." She would sprint from tree to tree, her mind racing with plans and projects, but soon enough, her energy would flicker out like the last glow of a campfire.
 
-### Why Ambition Turns Into Burnout with ADHD
+## Why Ambition Turns Into Burnout with ADHD
 
 Feeling the weight of her ambitions, Sammy also realized that the fear of not achieving her dreams could be paralyzing, but she knew she had to face this [ADHD fear of failure](/pages/adhd-fear-of-failure/) head-on, with the same courage she used to scale the tallest oaks.
 
@@ -41,7 +43,7 @@ But remember, Sammy is a smart squirrel. She started to learn that after every b
 
 In the world of the ADHD ambition burnout loop, our hero had a revelation. They realized that this loop was like a merry-go-round. Fun at first, but dizzying after too long.
 
-### How to Break the ADHD Burnout Cycle
+## How to Break the ADHD Burnout Cycle
 
 Our hero also came to understand that ambitious ideas often outnumber the hours in a day, a classic case of [ADHD big dreams no follow through](/pages/adhd-big-dreams-no-follow-through/), yet this insight only fueled their resolve to balance dreams with realistic daily actions.
 

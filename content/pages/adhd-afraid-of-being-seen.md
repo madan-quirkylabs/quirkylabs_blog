@@ -9,6 +9,8 @@ categories: ["ADHD Guides"]
 tags: ["ADHD fear of judgment", "ADHD social anxiety", "overcoming ADHD stigma", "ADHD self-expression", "ADHD and public speaking", "ADHD emotional support", "ADHD acceptance strategies"]
 keywords: ["ADHD fear of judgment", "ADHD social anxiety", "overcoming ADHD stigma", "ADHD self-expression", "ADHD and public speaking", "ADHD emotional support", "ADHD acceptance strategies"]
 og_image: "/og/adhd-afraid-of-being-seen.png"
+og_title: "ADHD Afraid of Being Seen: Why It Happens & How to Feel Safe Being You"
+og_description: "Learn why ADHD can make you afraid of being seen and discover expert-backed strategies to overcome fear of judgment, social anxiety, and self-doubt."
 ---
 
 Imagine your brain is like a super-busy bee, buzzing from flower to flower. Now, it's showtime at school, and all eyes are on you. Feels like standing in a spotlight with nowhere to hide, right?
@@ -23,7 +25,7 @@ Once upon a time, in the bustling village of Mindful Meadows, there lived a brig
 
 One sunny afternoon, Simon decided to venture to the village square. The idea alone made his heart race faster than a cheetah on roller skates! He was worried. What if everyone noticed how he couldn’t sit still? Or how he'd leap from one topic to another like a frog in a lily pad race?
 
-### Why ADHD Can Make You Afraid of Being Seen
+## Why ADHD Can Make You Afraid of Being Seen
 
 As Simon scurried along, his mind was a carousel of worries, spinning round and round. “What if they laugh?" he fretted, twitching his bushy tail nervously.
 
@@ -35,7 +37,7 @@ Zippy peeped through a gap between the books. The library was a safe haven, fill
 
 Feeling small and unnoticed often made her wrestle with a sense of [ADHD low self-worth](/pages/adhd-low-self-worth/), yet here, amid the books, she could dream of being mighty.
 
-### Hiding and Masking: How ADHD Kids Cope with Social Fear
+## Hiding and Masking: How ADHD Kids Cope with Social Fear
 
 As she sat there, her friend Buzz the bumblebee buzzed by, startling her. "Zippy! What are you doing behind those books?" he asked, his little wings flapping a gentle breeze.
 
@@ -55,7 +57,7 @@ Amid their heartfelt exchanges, Ivy confessed how she had long battled with the 
 
 "Like magic!" her friend giggled. They made a pact to support each other, no matter what.
 
-### Building Confidence with ADHD Through Friendship
+## Building Confidence with ADHD Through Friendship
 
 Day by day, Ivy felt lighter. She was learning to dance with her thoughts, not fight them. Her friend was her cheerleader, always ready with a kind word or a silly joke.
 

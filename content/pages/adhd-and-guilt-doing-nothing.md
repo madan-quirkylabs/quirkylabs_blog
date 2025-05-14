@@ -9,6 +9,8 @@ categories: ["ADHD Guides"]
 tags: ["ADHD guilt doing nothing", "ADHD rest periods", "managing ADHD guilt", "ADHD productivity challenges", "ADHD emotional well-being", "guilt-free rest ADHD", "ADHD self-compassion strategies"]
 keywords: ["ADHD guilt doing nothing", "ADHD rest periods", "managing ADHD guilt", "ADHD productivity challenges", "ADHD emotional well-being", "guilt-free rest ADHD", "ADHD self-compassion strategies"]
 og_image: "/og/adhd-and-guilt-doing-nothing.png"
+og_title: "ADHD and Guilt Doing Nothing: Why You Feel It and How to Let It Go"
+og_description: "Struggle with ADHD and guilt when doing nothing? Learn why it happens, how to reframe rest, and finally ditch the shame for good."
 ---
 
 Imagine your brain is a playful puppy, always zooming from one fun toy to another. Sometimes, though, that puppy just plops down, tired, right in the middle of playtime.
@@ -23,7 +25,7 @@ Once upon a time, in a colorful room scattered with half-finished projects, live
 
 One breezy afternoon, Sam sat on a cushy, oversized beanbag, surrounded by piles of nuts he meant to sort, books half-read, and a scarf half-knitted. His mind buzzed like a busy bee, hopping from one thought to another. Yet, for all the buzzing, no honey was made. Sam felt stuck, his paws tangled in invisible strings of guilt.
 
-### Why ADHD Makes You Feel Guilty for Doing Nothing
+## Why ADHD Makes You Feel Guilty for Doing Nothing
 
 "Why can't I just finish one thing?" Sam muttered to himself, watching a butterfly flit past his window. The butterfly seemed so light, so free, and here he was, a squirrel feeling heavier than a pile of rocks.
 
@@ -31,7 +33,7 @@ Every time Sam planned to tackle a task, his brain played a game of tag. And gue
 
 When we last left Buzzy the bee, he was feeling the sting of guilt. Guilt, the sneaky shadow that often follows those with ADHD when they do nothing. Buzzy felt like he should always be making honey, fixing the hive, or doing bee dances for directions.
 
-### ADHD and Rest Anxiety: Buzzy Learns to Pause
+## ADHD and Rest Anxiety: Buzzy Learns to Pause
 
 Yet, in the back of his mind, the familiar buzz of [ADHD rest anxiety](/pages/adhd-rest-anxiety/) hummed a worrying tune, questioning whether he was really allowed to enjoy this peaceful moment.
 
@@ -49,7 +51,7 @@ She learned to be gentle with herself, recognizing that rest wasn't laziness but
 
 Amidst her newfound peace, Lily also acknowledged that her inability to slow down was not a personal flaw but a common experience shared by many with ADHD, often termed as [ADHD Can't Slow Down](/pages/adhd-cant-slow-down/).
 
-### How Rest Helps Your ADHD Brain Recharge
+## How Rest Helps Your ADHD Brain Recharge
 
 Lily started to schedule "do nothing" moments into her days, treating them like delightful little snacks for her brain. She imagined these breaks as sparkly little gifts that kept on giving, making her more productive and happier.
 
@@ -86,7 +88,7 @@ Absolutely. ADHD brains struggle to "earn" downtime because of internal hyper-pr
 
 Set micro-goals, track emotional wins, and practice self-compassion. Sometimes, naming rest as "recovery" helps. Therapy, journaling, or talking to other ADHDers can normalize the experience. [Check out: ADHD wired but tired »](/pages/adhd-wired-but-tired/)
 
-### Want to Check Yourself?
+## Want to Check Yourself?
 
 <details><summary>Do you often feel overwhelmed by 'ADHD and guilt doing nothing'? Take our free self-assessment.</summary><p>Absolutely, feeling overwhelmed and experiencing guilt for "doing nothing" is quite common among those of us with ADHD. It's important to remember that these feelings don't define your worth or your productivity. If you're curious about how this fits into your life, why not take our free self-assessment? It's a gentle step towards understanding yourself better and it's crafted just for you, to help you feel more at ease with your unique journey.</p></details>
 
