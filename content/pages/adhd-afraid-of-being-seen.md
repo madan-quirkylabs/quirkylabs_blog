@@ -2,7 +2,7 @@
 title: "ADHD Afraid of Being Seen: Why It Happens & How to Feel Safe Being You"
 description: "Learn why ADHD can make you afraid of being seen and discover expert-backed strategies to overcome fear of judgment, social anxiety, and self-doubt."
 slug: "adhd-afraid-of-being-seen"
-date: 2025-05-07
+date: 2025-05-14
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
@@ -63,7 +63,7 @@ In the end, Ivy realized that being seen wasn't so scary. It was just another ad
 
 "Let's go explore," she whispered. And so, they did.
 
-## Quickfire ADHD Checklist
+## ADHD Coping Checklist
 
 1. **Don a Disco Ball Suit** - Shine so bright, no one notices the jitters!
 2. **Play Hide and Seek with Your Thoughts** - Peek-a-boo, I see me, not you!
@@ -71,6 +71,7 @@ In the end, Ivy realized that being seen wasn't so scary. It was just another ad
 4. **Craft a Cozy Blanket Fort of Ideas** - If you’re under here, you’re invisible and invincible!
 
 Embrace your sparkle, even if ADHD makes you afraid of being seen!
+
 ## Frequently Asked Questions About ADHD and the Fear of Being Seen
 
 ### **Why are people with ADHD afraid of being seen?**
@@ -172,7 +173,7 @@ Create structure, find a work buddy, and don’t be afraid to set boundaries. We
     "name": "QuirkyLabs",
     "url": "https://quirkylabs.ai/about"
   },
-  "headline": "\"Embrace Visibility: Overcome 'ADHD Afraid of Being Seen'!\"",
+  "headline": "ADHD Afraid of Being Seen: Why It Happens & How to Feel Safe Being You",
   "mainEntityOfPage": "https://blog.quirkylabs.ai/pages/adhd-afraid-of-being-seen/",
   "datePublished": "2025-05-07"
 }
