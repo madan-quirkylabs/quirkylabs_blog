@@ -1,6 +1,6 @@
 ---
-title: "adhd breakups and blame: \"ADHD Breakups & Blame: Heal Your Heart & Ditch the Guilt!\""
-description: "Explore 'adhd breakups and blame' with a warm, understanding guide. Discover how to navigate blame in relationships and feel uplifted and seen. Let’s find new paths together!"
+title: "Why ADHD Breakups Hurt So Much (And How to Finally Let Go of the Blame)"
+description: "Learn why ADHD breakups feel overwhelming and how to stop blaming yourself. Discover practical tools for healing, communication, and emotional clarity—quirky, real, and supportive."
 slug: "adhd-breakups-and-blame"
 date: 2025-05-07
 draft: false
