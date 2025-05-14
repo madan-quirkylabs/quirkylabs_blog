@@ -1,15 +1,18 @@
 ---
-title: "adhd do i deserve love: \"ADHD & Love: Why You Absolutely Deserve It!\""
-description: "Exploring 'adhd do i deserve love?' Uncover why your vibrant mind deserves the coziest, warmest nest of love. Feel seen, understood, and deeply valued!"
+title: "ADHD and Love: Do I Deserve It? (Yes, Here’s Why)"
+description: "Wondering if you deserve love with ADHD? This guide unpacks the doubts, offers affirming truths, and helps you see your worth—quirks and all."
 slug: "adhd-do-i-deserve-love"
 date: 2025-05-07
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD and relationships", "ADHD love acceptance", "deserving love with ADHD", "ADHD relationship challenges", "ADHD emotional support", "adult ADHD love", "ADHD self-esteem"]
-keywords: ["ADHD and relationships", "ADHD love acceptance", "deserving love with ADHD", "ADHD relationship challenges", "ADHD emotional support", "adult ADHD love", "ADHD self-esteem"]
+tags: ["ADHD and relationships", "deserving love with ADHD", "ADHD love acceptance", "ADHD emotional support", "ADHD relationship challenges", "adult ADHD love", "ADHD self-worth"]
+keywords: ["ADHD and love", "do I deserve love ADHD", "deserving love with ADHD", "ADHD emotional support", "ADHD relationship confidence", "ADHD self-worth", "ADHD and intimacy"]
 og_image: "/og/adhd-do-i-deserve-love.png"
+og_title: "ADHD and Love: Do I Deserve It? (Yes, Here’s Why)"
+og_description: "Wondering if you deserve love with ADHD? This guide unpacks the doubts, offers affirming truths, and helps you see your worth—quirks and all."
 ---
+
 
 Imagine your brain is like a super-busy bee, buzzing from flower to flower. Sometimes it forgets to sip the nectar because there's so much to see!
 

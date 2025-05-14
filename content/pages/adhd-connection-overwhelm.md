@@ -1,15 +1,18 @@
 ---
-title: "Beat ADHD Connection Overwhelm – Find Joy & Ease Today!"
-description: "Discover how to manage \"ADHD connection overwhelm\" with our warm, playful guide. Feel seen and understood as we explore emotional insights together, one flower at a time."
+title: "ADHD Connection Overwhelm: How to Find Social Ease Without Shutting Down"
+description: "Feeling socially fried? Learn how ADHD connection overwhelm impacts your relationships and get playful, proven ways to recharge without guilt."
 slug: "adhd-connection-overwhelm"
 date: 2025-05-03
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD connection overwhelm", "managing social fatigue ADHD", "ADHD friendship challenges", "coping with ADHD overstimulation", "ADHD social interaction tips", "navigating ADHD relationships", "ADHD and social overwhelm"]
-keywords: ["ADHD connection overwhelm", "managing social fatigue ADHD", "ADHD friendship challenges", "coping with ADHD overstimulation", "ADHD social interaction tips", "navigating ADHD relationships", "ADHD and social overwhelm"]
+tags: ["ADHD connection overwhelm", "managing social fatigue ADHD", "ADHD social burnout", "coping with ADHD overstimulation", "ADHD friendship challenges", "ADHD social interaction tips", "navigating ADHD relationships"]
+keywords: ["ADHD connection overwhelm", "social fatigue ADHD", "ADHD social burnout", "ADHD overstimulation", "ADHD social interaction", "ADHD relationship struggles", "how to manage ADHD social overwhelm"]
 og_image: "/og/adhd-connection-overwhelm.png"
+og_title: "ADHD Connection Overwhelm: How to Find Social Ease Without Shutting Down"
+og_description: "Feeling socially fried? Learn how ADHD connection overwhelm impacts your relationships and get playful, proven ways to recharge without guilt."
 ---
+
 
 Imagine your brain is a busy little bee, buzzing from flower to flower without a map. Each flower is a shiny new thought, and oh boy, there are so many!
 

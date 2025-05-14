@@ -1,14 +1,16 @@
 ---
-title: "Beat the ADHD Crash After Focus - Feel Energized!"
-description: "Feeling deflated after a hyper-focus high? Our blog on 'ADHD crash after focus' offers a cozy hug of understanding and tips to recharge. You're not alone, superhero!"
+title: "ADHD Crash After Focus: Why It Happens & How to Recover Fast"
+description: "Burned out after a hyperfocus marathon? Learn why the ADHD crash happens and get quirky, science-backed tips to bounce back with energy and ease."
 slug: "adhd-crash-after-focus"
 date: 2025-05-03
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD focus crash recovery", "managing ADHD energy dips", "ADHD productivity tips", "emotional impact of ADHD fatigue", "strategies for post-focus ADHD crash", "coping with ADHD exhaustion", "rejuvenation tips for ADHD adults"]
-keywords: ["ADHD focus crash recovery", "managing ADHD energy dips", "ADHD productivity tips", "emotional impact of ADHD fatigue", "strategies for post-focus ADHD crash", "coping with ADHD exhaustion", "rejuvenation tips for ADHD adults"]
+tags: ["ADHD focus crash recovery", "post-hyperfocus ADHD", "managing ADHD energy dips", "coping with ADHD fatigue", "ADHD exhaustion solutions", "recovery after ADHD hyperfocus", "ADHD burnout recovery"]
+keywords: ["ADHD crash after focus", "ADHD hyperfocus crash", "managing ADHD fatigue", "post-hyperfocus recovery", "ADHD burnout help", "coping with ADHD energy dips", "recharge after ADHD focus"]
 og_image: "/og/adhd-crash-after-focus.png"
+og_title: "ADHD Crash After Focus: Why It Happens & How to Recover Fast"
+og_description: "Burned out after a hyperfocus marathon? Learn why the ADHD crash happens and get quirky, science-backed tips to bounce back with energy and ease."
 ---
 
 Imagine you're a superhero, zipping through the sky, faster than lightning—pow! You're tackling every task with superhero speed, saving the day left and right.

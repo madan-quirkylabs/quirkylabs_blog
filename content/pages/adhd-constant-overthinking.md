@@ -1,14 +1,16 @@
 ---
-title: "Ease Your Mind: ADHD Constant Overthinking Solutions!"
-description: "Explore 'ADHD Constant Overthinking'—a cozy corner where your bustling mind feels understood. Discover playful insights that untangle thoughts and uplift spirits!"
+title: "ADHD Constant Overthinking: How to Calm the Racing Thoughts"
+description: "Struggling with ADHD and racing thoughts? Learn calming strategies to stop the spiral of overthinking and finally give your mind a breather."
 slug: "adhd-constant-overthinking"
 date: 2025-05-03
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD overthinking strategies", "managing ADHD mind racing", "ADHD thought patterns", "playful ADHD coping techniques", "adult ADHD overthinking", "ADHD creative thinking", "ADHD mind management tips"]
-keywords: ["ADHD overthinking strategies", "managing ADHD mind racing", "ADHD thought patterns", "playful ADHD coping techniques", "adult ADHD overthinking", "ADHD creative thinking", "ADHD mind management tips"]
+tags: ["ADHD overthinking strategies", "calming ADHD racing thoughts", "ADHD mind spiral solutions", "ADHD thought patterns", "adult ADHD overthinking", "playful ADHD coping techniques", "ADHD mental clarity tips"]
+keywords: ["ADHD constant overthinking", "ADHD racing thoughts", "calming ADHD mind", "ADHD thought patterns", "ADHD mental strategies", "overthinking ADHD help", "ADHD mind spiral"]
 og_image: "/og/adhd-constant-overthinking.png"
+og_title: "ADHD Constant Overthinking: How to Calm the Racing Thoughts"
+og_description: "Struggling with ADHD and racing thoughts? Learn calming strategies to stop the spiral of overthinking and finally give your mind a breather."
 ---
 
 Imagine your brain is a super-busy ice cream shop. Scoops of thoughts piling up, dripping everywhere!

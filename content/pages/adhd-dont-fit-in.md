@@ -1,15 +1,18 @@
 ---
-title: "ADHD dont fit in: Feel Unique: Why 'ADHD Don't Fit In' is Your Superpower!"
-description: "ADHD dont fit in: Feel like a bouncy ball in a world of marbles? \"ADHD don't fit in\" embraces your unique spark! Join us for stories that celebrate your vibrant mind and uplift your spirit."
+title: "ADHD Don’t Fit In? Why Feeling Different Is Actually Your Superpower"
+description: "Feel like a bouncy ball in a world of marbles? Explore why ADHD makes you feel out of place—and how that difference is your greatest strength."
 slug: "adhd-dont-fit-in"
 date: 2025-05-03
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD feeling different", "ADHD adults not fitting in", "ADHD playful coping", "ADHD creativity benefits", "ADHD unique perspectives", "ADHD community support", "ADHD social challenges"]
-keywords: ["ADHD feeling different", "ADHD adults not fitting in", "ADHD playful coping", "ADHD creativity benefits", "ADHD unique perspectives", "ADHD community support", "ADHD social challenges"]
+tags: ["ADHD feeling different", "ADHD not fitting in", "ADHD social challenges", "ADHD unique strengths", "adult ADHD identity", "ADHD creativity benefits", "ADHD self-acceptance"]
+keywords: ["ADHD don’t fit in", "ADHD feeling different", "ADHD unique strengths", "ADHD social identity", "not fitting in with ADHD", "ADHD and self-worth", "ADHD community support"]
 og_image: "/og/adhd-dont-fit-in.png"
+og_title: "ADHD Don’t Fit In? Why Feeling Different Is Actually Your Superpower"
+og_description: "Feel like a bouncy ball in a world of marbles? Explore why ADHD makes you feel out of place—and how that difference is your greatest strength."
 ---
+
 
 In class, Jamie felt like a bouncy ball in a box of marbles. *Boing, boing!* The marbles barely moved, but Jamie couldn't stop bouncing!
 

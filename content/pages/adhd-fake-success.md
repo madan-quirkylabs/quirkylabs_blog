@@ -1,14 +1,16 @@
 ---
-title: "Unlock Real Joy: Beyond ADHD Fake Success Myths!"
-description: "Unpack the 'ADHD fake success' with us and discover the real treasures in your journey. Feel seen and uplifted as we explore together, squirrel-style!"
+title: "ADHD Fake Success: Why It Feels Hollow (and What’s Actually Real)"
+description: "Ever feel like your wins don’t count? Unpack the truth about ADHD fake success and learn to validate your journey, squirrel-style, with real joy and honesty."
 slug: "adhd-fake-success"
 date: 2025-05-03
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD fake success", "overcoming ADHD impostor syndrome", "ADHD productivity myths", "ADHD success stories", "ADHD coping strategies", "playful ADHD advice", "ADHD validation tips"]
-keywords: ["ADHD fake success", "overcoming ADHD impostor syndrome", "ADHD productivity myths", "ADHD success stories", "ADHD coping strategies", "playful ADHD advice", "ADHD validation tips"]
+tags: ["ADHD fake success", "overcoming ADHD impostor syndrome", "ADHD productivity myths", "validating ADHD success", "ADHD coping strategies", "playful ADHD advice", "authentic ADHD wins"]
+keywords: ["ADHD fake success", "impostor syndrome ADHD", "ADHD validation tips", "real ADHD success stories", "ADHD productivity myths", "authentic ADHD accomplishments", "coping with ADHD self-doubt"]
 og_image: "/og/adhd-fake-success.png"
+og_title: "ADHD Fake Success: Why It Feels Hollow (and What’s Actually Real)"
+og_description: "Ever feel like your wins don’t count? Unpack the truth about ADHD fake success and learn to validate your journey, squirrel-style, with real joy and honesty."
 ---
 
 Imagine you're a quirky squirrel, zipping from tree to tree in search of nuts. But oops! Some of these nuts are just shiny pebbles. 

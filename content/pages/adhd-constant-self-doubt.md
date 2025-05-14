@@ -1,14 +1,16 @@
 ---
-title: "Beat ADHD Constant Self Doubt: Embrace Your Brilliance!"
-description: "Dive into our blog on \"adhd constant self doubt\" to feel seen and embraced! Discover playful insights and glittery paths to overcome self-doubt. 🌟"
+title: "ADHD Constant Self-Doubt: How to Trust Yourself Again"
+description: "Tired of second-guessing everything? Discover how ADHD fuels self-doubt—and playful, powerful ways to rebuild your confidence and clarity."
 slug: "adhd-constant-self-doubt"
 date: 2025-05-07
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD and self-doubt", "managing ADHD self-doubt", "ADHD self-doubt strategies", "coping with ADHD uncertainty", "overcoming ADHD mental hurdles", "adult ADHD emotional challenges", "playful approaches to ADHD self-doubt"]
-keywords: ["ADHD and self-doubt", "managing ADHD self-doubt", "ADHD self-doubt strategies", "coping with ADHD uncertainty", "overcoming ADHD mental hurdles", "adult ADHD emotional challenges", "playful approaches to ADHD self-doubt"]
+tags: ["ADHD and self-doubt", "ADHD self-confidence tools", "managing ADHD self-doubt", "coping with ADHD uncertainty", "overcoming ADHD mental hurdles", "adult ADHD emotional resilience", "playful ADHD mindset shifts"]
+keywords: ["ADHD constant self-doubt", "managing ADHD self-doubt", "ADHD self-confidence tips", "coping with ADHD uncertainty", "ADHD emotional resilience", "overcoming ADHD mindset blocks", "trusting yourself with ADHD"]
 og_image: "/og/adhd-constant-self-doubt.png"
+og_title: "ADHD Constant Self-Doubt: How to Trust Yourself Again"
+og_description: "Tired of second-guessing everything? Discover how ADHD fuels self-doubt—and playful, powerful ways to rebuild your confidence and clarity."
 ---
 
 Imagine your brain is a bouncy castle at a super fun fair. But, oops! Every bounce makes you worry you might fall out. "Am I bouncing right?" you wonder.

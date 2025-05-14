@@ -1,14 +1,16 @@
 ---
-title: "Stop Overload! Find Joy in 'ADHD Doing Too Much'"
-description: "Feeling overwhelmed by \"ADHD doing too much\"? Dive into our cozy blog where we understand the whirlwind and help you find calm and clarity in the chaos."
+title: "ADHD Doing Too Much: How to Slow Down Without Losing Your Spark"
+description: "Overwhelmed by ADHD multitasking and task overload? Learn playful ways to pause, prioritize, and protect your energy—without dimming your brilliance."
 slug: "adhd-doing-too-much"
 date: 2025-05-03
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD multitasking challenges", "managing ADHD overactivity", "ADHD productivity tips", "ADHD and task overload", "playful ADHD coping strategies", "ADHD and balancing tasks", "ADHD doing too much"]
-keywords: ["ADHD multitasking challenges", "managing ADHD overactivity", "ADHD productivity tips", "ADHD and task overload", "playful ADHD coping strategies", "ADHD and balancing tasks", "ADHD doing too much"]
+tags: ["ADHD doing too much", "ADHD multitasking challenges", "managing ADHD overactivity", "ADHD productivity balance", "coping with ADHD overload", "ADHD task prioritization", "playful ADHD strategies"]
+keywords: ["ADHD doing too much", "ADHD task overload", "managing ADHD overactivity", "ADHD multitasking help", "coping with ADHD overwhelm", "ADHD productivity tools", "balance ADHD energy"]
 og_image: "/og/adhd-doing-too-much.png"
+og_title: "ADHD Doing Too Much: How to Slow Down Without Losing Your Spark"
+og_description: "Overwhelmed by ADHD multitasking and task overload? Learn playful ways to pause, prioritize, and protect your energy—without dimming your brilliance."
 ---
 
 Imagine your brain is a super-enthusiastic puppy at a park full of squirrels. So many fun things! Oops, lost a shoe!

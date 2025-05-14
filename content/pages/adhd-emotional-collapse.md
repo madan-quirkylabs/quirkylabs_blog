@@ -1,14 +1,16 @@
 ---
-title: "Survive ADHD Emotional Collapse: Tips to Reclaim Joy!"
-description: "Navigate your 'ADHD emotional collapse' with warmth and understanding. Discover comforting insights and feel seen in our playful, uplifting blog. Press reset with us!"
+title: "ADHD Emotional Collapse: How to Recover When Everything Feels Too Much"
+description: "Meltdown mode? Learn how to recover from ADHD emotional collapse with compassion, clarity, and quirky tips that help you reset and move forward."
 slug: "adhd-emotional-collapse"
 date: 2025-05-03
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD emotional regulation", "managing ADHD overwhelm", "ADHD coping strategies for adults", "emotional dysregulation ADHD", "ADHD emotional support", "adult ADHD emotional outbursts", "resetting after an ADHD meltdown"]
-keywords: ["ADHD emotional regulation", "managing ADHD overwhelm", "ADHD coping strategies for adults", "emotional dysregulation ADHD", "ADHD emotional support", "adult ADHD emotional outbursts", "resetting after an ADHD meltdown"]
+tags: ["ADHD emotional collapse", "managing ADHD overwhelm", "ADHD emotional regulation", "coping with ADHD meltdowns", "adult ADHD emotional support", "resetting after ADHD burnout", "emotional dysregulation in ADHD"]
+keywords: ["ADHD emotional collapse", "ADHD meltdowns", "managing ADHD overwhelm", "emotional dysregulation ADHD", "ADHD coping strategies", "reset after ADHD crash", "adult ADHD emotional recovery"]
 og_image: "/og/adhd-emotional-collapse.png"
+og_title: "ADHD Emotional Collapse: How to Recover When Everything Feels Too Much"
+og_description: "Meltdown mode? Learn how to recover from ADHD emotional collapse with compassion, clarity, and quirky tips that help you reset and move forward."
 ---
 
 Imagine you're a whirlwind of colorful socks tumbling in a dryer. Sock after sock, thoughts whirl and spin, faster and faster. Suddenly, the dryer stops. Socks everywhere!

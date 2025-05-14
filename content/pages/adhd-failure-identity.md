@@ -1,15 +1,18 @@
 ---
-title: "Beat ADHD Failure Identity: Find Joy & Success!"
-description: "Explore the \"adhd failure identity\" with us and find comfort in knowing you're not alone. This blog offers a warm hug of words, inviting you to embrace your vibrant, bouncy mind. Feel seen, understood, and uplifted with every read!"
+title: "ADHD Failure Identity: How to Let Go of Shame and Embrace Your Wins"
+description: "Feel like you're always falling short? Learn how ADHD can create a ‘failure identity’—and discover playful ways to shift the story and celebrate your progress."
 slug: "adhd-failure-identity"
 date: 2025-05-07
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD failure identity", "embracing ADHD imperfections", "ADHD self-acceptance", "ADHD emotional resilience", "overcoming ADHD challenges", "ADHD playful coping strategies", "managing ADHD in adulthood"]
-keywords: ["ADHD failure identity", "embracing ADHD imperfections", "ADHD self-acceptance", "ADHD emotional resilience", "overcoming ADHD challenges", "ADHD playful coping strategies", "managing ADHD in adulthood"]
+tags: ["ADHD failure identity", "overcoming ADHD shame", "ADHD self-acceptance", "ADHD emotional resilience", "embracing ADHD imperfections", "managing ADHD in adulthood", "playful ADHD mindset shifts"]
+keywords: ["ADHD failure identity", "ADHD shame recovery", "ADHD self-worth", "overcoming ADHD setbacks", "managing ADHD in adulthood", "ADHD self-acceptance", "emotional resilience ADHD"]
 og_image: "/og/adhd-failure-identity.png"
+og_title: "ADHD Failure Identity: How to Let Go of Shame and Embrace Your Wins"
+og_description: "Feel like you're always falling short? Learn how ADHD can create a ‘failure identity’—and discover playful ways to shift the story and celebrate your progress."
 ---
+
 
 Imagine your brain is a bouncy castle at a busy fair. Thoughts bounce in and out like kids on a sugar rush—colorful, loud, and super speedy.
 
