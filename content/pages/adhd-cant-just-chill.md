@@ -23,7 +23,7 @@ Want to explore more about this zippy, zappy world of ADHD? Let's dive in togeth
 
 Ella was a whirlwind of color, swirling around her room. She was hunting for her socks, her mind a racetrack with thoughts zooming like cars. She needed to get ready for school, but her brain had other plans. It was like trying to hold a dozen bouncy balls underwater, each one popping up unexpectedly. For Ella, and many like her, ADHD can’t just chill.
 
-### A Bouncy Ball Bonanza
+## ADHD Restlessness Explained: Why You Can’t Just Chill
 
 As she finally spotted one sock under her bed, another idea bounced up. "Oh, glitter pens!" she squealed, forgetting the sock mission. Her room was a treasure chest, and every shiny object was a new quest. 
 
@@ -37,7 +37,7 @@ Sammy's mind was like a pinball machine. Ideas and thoughts ping-ponged around, 
 
 In this whirlwind of activity, Sammy felt the familiar tug of [ADHD rest anxiety](/pages/adhd-rest-anxiety/), a nagging sensation that he should be doing more even when trying to relax on that sunny park bench.
 
-### Ice Cream and Ideas
+## ADHD Downtime Anxiety: How Distraction Hijacks Relaxation
 
 As Sammy licked a towering, wobbly scoop of mint chocolate chip, a squirrel zipped by, its bushy tail a fluff of intrigue. "Ooh, where’s he off to?" Sammy mused, forgetting the ice cream as it began to drip down his hand.
 
@@ -51,7 +51,7 @@ Alex decided to embrace their unique pace. They began organizing their tasks in 
 
 Amidst their colorful scheduling, Alex felt a pang of [ADHD and Guilt Doing Nothing](/pages/adhd-and-guilt-doing-nothing/), yet continued to paint their time with purposeful strokes.
 
-### A Rainbow of Adventures!
+## ADHD and Self-Acceptance: Embracing Your Unique Energy
 
 Every day, Alex discovered new ways to channel their energy. They started a blog, "The Buzzing Mind," sharing stories and tips for others who buzz through life.
 
@@ -59,7 +59,7 @@ Alex ended each day feeling like a superhero. They had harnessed their powers, n
 
 "Embrace your buzz," Alex would write. "It's your superpower!" And with every word, they inspired others to celebrate their vibrant wings.
 
-## Quickfire ADHD Checklist
+## ADHD Relaxation Hacks: Fast Ways to Calm Your Brain
 
 🌪️ Imagine your brain is a pinball machine—ADHD can’t just hit pause!
 
@@ -69,9 +69,7 @@ Alex ended each day feeling like a superhero. They had harnessed their powers, n
 
 🎨 Your mind’s a wild art festival—every booth (thought) demands your attention!
 
-## Frequently Asked Questions
-
-
+## ADHD Chill FAQs: Why It’s Hard to Relax and What Actually Helps
 
 ### What People Are Googling
 

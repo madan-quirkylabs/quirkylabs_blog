@@ -25,7 +25,7 @@ In the bustling kitchen of the Sunny Side Café, Miles was a whirlwind of though
 
 Miles had recently navigated the choppy waters of a breakup. The blame game had been intense. His ex had pointed fingers at his scattered schedules and forgotten dates.
 
-### Whose Fault Is It Anyway?
+## ADHD Breakups: Understanding the Blame Game
 
 Miles reflected on this as he buttered toast. Each slice was a reminder: things could slip, no matter how hard he tried.
 
@@ -39,7 +39,7 @@ Miles nodded, feeling a bit lighter. Maybe, just maybe, it wasn't all his fault.
 
 When last we left off, our hero, Captain Focus, was navigating the choppy waters of ADHD breakups and blame. In this episode, he discovers that his trusty ship, The Relationship, leaks not from one giant hole but many small ones. Each leak represents a misunderstanding or missed expectation, often amplified by the stormy seas of ADHD.
 
-### Captain Focus Learns to Patch Leaks
+## ADHD and Relationships: How to Repair Misunderstandings
 
 Feeling the weight of past departures, Captain Focus often worried he was [too much for others](/pages/adhd-too-much-for-others/), a fear that sometimes made him steer his ship too cautiously.
 
@@ -51,7 +51,7 @@ As our hero sailed on, he realized that understanding and patience were like the
 
 In the world of ADHD breakups and blame, understanding bloomed like spring flowers. Sarah and Jamie realized that blaming each other was like trying to solve a jigsaw puzzle with pieces from different boxes—it just didn't work. They learned to communicate better, seeing each other’s quirks not as faults, but as unique colors in a vibrant painting.
 
-### A Colorful Conclusion
+## 	Letting Go After ADHD Breakups: Finding Peace & Self-Forgiveness
 
 Amidst their newfound harmony, Sarah often sought Jamie's reassurance, a testament to the [ADHD need for reassurance](/pages/adhd-need-for-reassurance/) that love was still strong, even on the quieter days.
 
@@ -61,16 +61,14 @@ In the end, Sarah and Jamie found that love, understanding, and a dash of humor 
 
 So remember, in relationships, as in life, every challenge is a chance to grow. And every breakup, a lesson in love.
 
-## Quickfire ADHD Checklist
+## ADHD Breakup Recovery: Quick Tips to Stop Blaming Yourself
 
 1. **Pack your squirrels!** Gather those scatter-brained thoughts before they scamper off.
 2. **Don’t feed the Blame Monster!** It’s like giving candy to a toothache.
 3. **Ride the Emotional Rollercoaster!** Buckle up, keep hands and feet inside at all times.
 4. **Find your Lost Socks!** Sometimes what’s missing pops up in unexpected places.
 
-## Frequently Asked Questions
-
-
+## ADHD Relationship Breakups: Most Googled Blame & Healing Questions
 
 ### What People Are Googling
 

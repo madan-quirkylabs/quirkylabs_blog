@@ -23,7 +23,7 @@ Whiskers twitched and tails wagged as Milo, the peppery-spotted puppy, darted ar
 
 Suddenly, a shadow of doubt crept across his sunny playground. "Am I doing this right?" he wondered, pausing mid-zoom. "Do other puppies question every wag, every sniff?" This was Milo’s everyday hurdle, the classic case of ADHD constant self doubt.
 
-### A Doubtful Dilemma!
+## ADHD Self-Doubt: Why You Question Everything You Do
 
 Milo sat down, his ears flopping with each heavy thought. "Maybe I'm too much," he sighed, watching his friends play without a single pause.
 
@@ -37,7 +37,7 @@ This is much like when someone with ADHD battles constant self-doubt. They're tr
 
 Amid her practice, Jemma also realized that her past experiences with [ADHD Childhood Labels](/pages/adhd-childhood-labels/) had made the juggling act tougher, but now she was learning to redefine herself.
 
-### Jemma's Journey to Joyful Juggling
+## ADHD Confidence Building: Juggling Doubts into Strengths
 
 Determined to untangle her tentacles, Jemma decided to seek advice from Sammy the Wise Seahorse. Sammy, with his twinkling tail and calming presence, was known for his wisdom in the deep blue sea.
 
@@ -55,7 +55,7 @@ She realized that her thoughts were like playful puppies—sometimes they ran wi
 
 Throughout her journey, Lily also confronted the [ADHD internalized ableism](/pages/adhd-internalized-ableism/) she had unknowingly adopted, which had magnified her self-doubt and colored her perception of her capabilities.
 
-### A Symphony of Smiles!
+## ADHD and Self-Acceptance: Finding Your Confidence Rhythm
 
 The next morning, Lily shared her feelings with her friends. They listened, nodded, and shared their own stories. Together, they created a patchwork of experiences, each piece as unique as the next.
 
@@ -65,7 +65,7 @@ Lily's journey through self-doubt to self-acceptance was like discovering a secr
 
 Keep dancing, Lily. The music never stops; it only gets sweeter.
 
-## Quickfire ADHD Checklist
+## ADHD Confidence Boosters: Playful Tricks to Quiet Self-Doubt
 
 1. **Tame the Doubtful Dragons:** When your ADHD dragons breathe fire, wear a flame-proof cape!
 
@@ -75,9 +75,7 @@ Keep dancing, Lily. The music never stops; it only gets sweeter.
 
 4. **Whisper Sweet Nothings to Your Mirror:** Tell your reflection it's doing its best, especially on twisty brain days!
 
-## Frequently Asked Questions
-
-
+## ADHD Self-Doubt FAQs: What It Is & How to Rebuild Trust in Yourself
 
 ### What People Are Googling
 

@@ -26,7 +26,7 @@ In the bustling town of Mindville, every alleyway and street corner buzzed with 
 
 Tommy’s mind was like a supercharged rocket with too many potential destinations. One moment he’d be laser-focused on building a model airplane, and the next, he was sketching a super-fast car that could run on lemonade!
 
-### The Lemonade-Powered Car Project
+## ADHD Mental Block: Why Creative Brains Struggle to Finish Ideas
 
 But here's the thing: starting projects felt like launching a rocket with a dozen engines, all roaring to go. Finishing them, though? That was like trying to land that rocket on a tiny, moving target across the universe. It wasn’t that Tommy didn’t want to complete his inventions; his brain just loved darting to the next bright idea before the last one landed.
 
@@ -38,7 +38,7 @@ As Captain Focus adjusted her compass, the ADHD fog tried to blur her path. But 
 
 Yet, even with her strategic arsenal, she couldn't shake the lingering fear that each unfinished project was a reminder of her **[ADHD Wasting Potential](/pages/adhd-wasting-potential/)**, a shadow in the bright light of her creative sparks.
 
-### Ahoy, Strategy Island!
+## ADHD Paralysis Solutions: Tools to Unlock Your Creative Flow
 
 Just then, she spotted it! An island lush with tools like colorful planners and whimsical timers. Each tool shimmered like a gem, ready to help her focus her brilliant, yet sometimes blocked, thoughts.
 
@@ -54,7 +54,7 @@ In the heart of the city, our hero finally finds their stride. They start using 
 
 Amidst their journey, the superhero often feels the sting of their [ADHD big dreams no follow through](/pages/adhd-big-dreams-no-follow-through/), yet they continue to find ways to transform each dream into actionable steps, embracing the adventure with a hopeful heart.
 
-### Zap! Pow! Focus!
+## ADHD Focus Tricks: How to Overcome Blocked Brilliance Step by Step
 
 One sunny afternoon, the hero faces a tricky puzzle. But instead of getting tangled in a web of too many thoughts, they channel their energy. One by one, the pieces fall into place, bright and smooth like stars in the night sky.
 
@@ -64,7 +64,7 @@ Our superhero learns that being 'brilliant but blocked' isn't a full stop. It's 
 
 So remember, even if your thoughts race like wild horses, with a bit of practice, you can ride them to victory! Keep going, keep growing, and let your brilliant light shine.
 
-## Quickfire ADHD Checklist
+## ADHD Motivation Checklist: Unstick Your Brain with These Fast Fixes
 
 1. 🚀 Imagine your brain's a sparkly rocket, but the launch pad's a bit muddy. Time to clear the sludge!
 
@@ -74,9 +74,7 @@ So remember, even if your thoughts race like wild horses, with a bit of practice
 
 4. 🎈 Tie your tasks to colorful balloons so they float up in your day's sky, not away!
 
-## Frequently Asked Questions
-
-
+## ADHD Creative Block FAQs: Why You're Brilliant But Can't Start or Finish
 
 ### What People Are Googling
 

@@ -24,7 +24,7 @@ In the cozy village of Bouncy Hills, there was a young boy named Leo who simply 
 
 One sunny afternoon, Leo was supposed to help his Grandma bake her famous cherry pie. The kitchen smelled like a sweet, warm hug. But Leo felt like a bumblebee in a jar, buzzing from the fridge to the window, then to the door.
 
-### A Pie Adventure Begins!
+## ADHD and Movement: Turning Restlessness Into a Superpower
 
 Grandma chuckled. "Leo, my dear, let’s make baking as fun as a treasure hunt!" She suggested they dance around the kitchen for each step of the recipe. Leo grinned. His feet were ready for this new game.
 
@@ -32,7 +32,7 @@ He zipped to the cupboard, slid to the fridge, and twirled back with eggs and fl
 
 So, imagine ADHD as a bouncy kangaroo named Joey. Joey just can't sit still. When he tries, his legs twitch and his mind races off to the next big adventure.
 
-### Joey's Jumpy Journey
+## Why ADHD Makes Stillness Hard — And Why That’s Okay
 
 But beneath his cheerful exterior, Joey often felt the sting of [ADHD and guilt doing nothing](/pages/adhd-and-guilt-doing-nothing), wondering if he should be enjoying the calm instead of chasing the next thrill.
 
@@ -46,7 +46,7 @@ And off he bounced again, leaving a trail of laughter and half-eaten snacks. Joe
 
 The school year fluttered by like a leaf caught in a breezy dance. For Jamie, managing ADHD meant moments where sitting still felt like trying to hold onto that dancing leaf. But every day, with each little victory, Jamie felt more at ease. The classroom became less of a battleground and more of a playground for his mind.
 
-### Finding Peace in the Whirlwind
+## ADHD Energy Hacks: Finding Focus in a Fidgety World
 
 Amidst his vibrant bursts of creativity, Jamie also wrestled with the [ADHD Rest Feels Like Failure](/pages/adhd-rest-feels-like-failure/), constantly reminding himself that pauses were just as important as productivity.
 
@@ -60,16 +60,14 @@ Sitting still wasn't Jamie's style, and that was perfectly okay. He had found hi
 
 For everyone with sparks of boundless energy, remember: Your brilliance just needs the right place to sparkle. Keep dancing to your own rhythm!
 
-## Quickfire ADHD Checklist
+## ADHD Can't Sit Still? Try These Fun Focus Fixes
 
 1. 🐒 Swing like a monkey from one task to another!
 2. 🌪️ Be a gentle tornado, swirling through chores and hobbies.
 3. 🍿 Pop from seat to seat like popcorn at a movie!
 4. 🐝 Buzz around your tasks like a bee on a sunny day.
 
-## Frequently Asked Questions
-
-
+## ADHD Restlessness FAQs: How to Manage and Thrive
 
 ### What People Are Googling
 

@@ -21,7 +21,7 @@ But hey, what if each ball could teach you a cool new trick? Let's keep juggling
 
 Milo was a magician, but not the kind you'd find at birthday parties. Nope, his magic was in his mind, where thoughts zipped and zoomed like fireflies at a summer camp. One second, he'd be pondering breakfast, and the next, he'd be unraveling the mysteries of the universe—or at least trying to. This was a classic case of ADHD constant overthinking, where his brain was a pinball machine, thoughts pinging and ponging all over.
 
-### The Great Thought Tangle
+## ADHD Overthinking: Why Your Brain Won’t Stop Buzzing
 
 One chilly Tuesday, Milo decided to make pancakes. Simple, right? Well, not quite. As he mixed the batter, his mind took a detour. "What if I add blueberries? Or chocolate chips? Both?" Then, a wilder thought: "Could I invent a pancake-flipping robot?"
 
@@ -31,7 +31,7 @@ Just then, his cat, Whiskers, meowed, snapping Milo back to reality. Pancakes we
 
 In the colorful world of Mindville, Captain Thought-a-Lot was always busy. His ship, the S.S. Overthink, had sails that fluttered with ideas, worries, and what-ifs. This was the famous ADHD constant overthinking in action, a whirlwind of thoughts churning like a sea during a storm.
 
-### Whirlpools of Wonder
+## ADHD Racing Thoughts: How to Anchor a Spiral Mind
 
 Yet, deep down, Captain Thought-a-Lot often felt the sting of [ADHD Rejection Sensitivity](/pages/adhd-rejection-sensitivity/), wondering if his crew truly appreciated his navigational efforts amidst the tempest of his thoughts.
 
@@ -47,7 +47,7 @@ Leo realized that his thoughts were like fireflies, buzzing with life and imposs
 
 In these quiet moments, Leo often felt the weight of [ADHD loneliness in relationships](/pages/adhd-loneliness-in-relationships/), yet tonight, he found comfort in the starlit peace.
 
-### A Night Sky of Thoughts
+## ADHD and Nighttime Overthinking: Calming the Brainstorm
 
 With his mom's help, Leo learned to look at his thoughts like stars in the night sky—each one bright but far from overwhelming. He didn't need to chase them; he could just watch them twinkle and fade.
 
@@ -55,7 +55,7 @@ As he headed to bed, Leo felt lighter, as if he had unpacked a heavy backpack at
 
 "Tomorrow’s another day," he whispered, smiling to himself. "Another day to watch the stars."
 
-## Quickfire ADHD Checklist
+## ADHD Overthinking Survival Kit: Calm the Chaos with Play
 
 1. **Tame the Thought Octopus:** Keep those squirmy tentacles from grabbing everything!
 
@@ -65,9 +65,7 @@ As he headed to bed, Leo felt lighter, as if he had unpacked a heavy backpack at
 
 4. **Doodle Your Daydreams:** Turn that whirlwind of wonder into a masterpiece.
 
-## Frequently Asked Questions
-
-
+## ADHD Overthinking FAQs: Why It Happens & How to Ease the Swirl
 
 ### What People Are Googling
 

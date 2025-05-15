@@ -23,7 +23,7 @@ Ready to find your sunny spot? Let's explore together!
 
 In the whimsical world of Willowby Lane, young Toby had a mind like a firework show—vibrant, unpredictable, and bursting with ideas. One sunny afternoon, while Toby was deep into building a colossal Lego castle, a sudden need to take an ADHD break hit him like a sneeze.
 
-### Break Time or Panic Time?
+## Why Taking Breaks Triggers Anxiety in ADHD Adults
 
 Mom had always told him, "Toby, remember, taking short breaks can help you refocus." But sometimes, these breaks did the exact opposite. Toby’s thoughts started racing faster than a squirrel during nut season!
 
@@ -33,7 +33,7 @@ He plopped down on his beanbag, trying to slow down his galloping thoughts.
 
 So, let’s dive back into our forest of thoughts, where our little squirrel, Sandy, was busy arranging her collection of acorns. Remember how she zipped from tree to tree, her mind buzzing like a bee on a particularly sweet flower? Well, sometimes, taking breaks for Sandy felt like someone had suddenly turned off the sun. Everything just stopped.
 
-### Whooosh! Goes the Panic Wind
+## ADHD Rest Anxiety: Why Relaxing Feels Uncomfortable
 
 Sandy’s realization mirrors the journey of many who experience the [ADHD Rest Anxiety](/pages/adhd-rest-anxiety/) as they learn that breaks are essential, not optional, for maintaining balance.
 
@@ -51,7 +51,7 @@ One sunny afternoon, everyone gathered in the town square. They shared their own
 
 Feeling the gentle breeze, Miss Clara whispered about how, despite her love for calm activities, she sometimes felt that [ADHD rest feels like failure](/pages/adhd-rest-feels-like-failure/), adding a tender depth to her serene smile.
 
-### A Picnic of Peaceful Thoughts
+## Calming ADHD Break Anxiety: Tips That Actually Work
 
 Little Timmy discovered that counting clouds helped him feel less overwhelmed. Miss Clara, the librarian, liked to knit slowly, stitch by stitch. And Mayor Thompson found that planning his day with colorful sticky notes made things less scary.
 
@@ -61,16 +61,14 @@ As the sun set, painting the sky in shades of orange and pink, a warm feeling se
 
 Whenever ADHD breaks triggered a bit of panic, they now had a toolbox full of friendly tricks. And with each other's help, they were learning to dance in the rain, even during the unexpected thunderstorms.
 
-## Quickfire ADHD Checklist
+## ADHD Break Anxiety Tips: Quick Relief Strategies That Help
 
 1. 🌪️ Imagine a squirrel at a disco—yep, that's your brain on ADHD breaks trigger panic!
 2. 🎈 Pop goes the weasel! Keep your calm toolbox handy, don't let the balloon burst.
 3. 🐙 Feeling like an octopus in a yarn shop? Time to untangle those tentacles with a quick doodle or dance!
 4. 🚀 Strap in your seatbelt! Before your thoughts blast off, count backward from 10 and find your launch pad.
 
-## Frequently Asked Questions
-
-
+## ADHD Break Panic FAQ: Common Questions About Resting With ADHD
 
 ### What People Are Googling
 

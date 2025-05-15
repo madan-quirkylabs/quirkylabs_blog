@@ -24,7 +24,7 @@ Once upon a scattered-brain afternoon, Jamie tumbled into a whirlwind of thought
 
 Jamie loved friends. Loved lots of them! But sometimes, their ADHD made each chat feel like a hyper puppy pulling on its leash. Every direction seemed fun! But oh, so tiring.
 
-### Can You Hear the Buzz?
+## ADHD Social Overload: Why Connection Feels Exhausting
 
 At the park, Jamie's friends chattered like cheerful sparrows. One friend raved about a new video game. Another shared a wild camping story. Words fluttered around Jamie like colorful butterflies. Catching them all? Impossible!
 
@@ -34,7 +34,7 @@ The sun smiled gently, wrapping Jamie in a warm, cozy blanket of light. Maybe, j
 
 The wind was like a sneaky cat, always slipping through the forest of thoughts in Theo's mind. Theo, with his treasure map of ideas, often found himself overwhelmed when he tried to connect the dots, especially when everything twinkled all at once. This feeling, my friends, is what we call "ADHD connection overwhelm." It's like trying to listen to a whole orchestra when you only want to hear the flute!
 
-### A Symphony of Thoughts
+## ADHD and Overstimulation: How to Navigate Group Interactions
 
 During these moments of solitude, Theo often felt the sting of [ADHD rejection sensitivity](/pages/adhd-rejection-sensitivity/), fearing that his chaotic thought symphony might be too much for others to appreciate.
 
@@ -50,13 +50,13 @@ She reached out to her friends, sharing her feelings. To her surprise, they each
 
 Feeling understood in these moments is a rare treasure, almost soothing the sting of [ADHD rejection sensitivity](/pages/adhd-rejection-sensitivity/).
 
-### Teamwork Makes the Dream Work!
+## Managing ADHD Connection Overwhelm with Support & Play
 
 Together, they created a beautiful mess, turning overwhelm into a shared adventure. Jamie learned that connections aren't about perfection; they're about support and laughter.
 
 So whenever you feel overwhelmed, remember Jamie. Grab some friends, share your balloons, and splash into the chaos together. It's way more fun with a crew!
 
-## Quickfire ADHD Checklist
+## ADHD Social Burnout Toolkit: Quick Tips for Calm Connection
 
 1. 🐙 Imagine your brain is a playful octopus—too many handshakes at once! Time to hug one friend at a time.
 
@@ -66,9 +66,7 @@ So whenever you feel overwhelmed, remember Jamie. Grab some friends, share your 
 
 4. 📚 Envision your social energy as a bookshelf. Too cluttered? Time to tidy up and pick just one book to read tonight.
 
-## Frequently Asked Questions
-
-
+## ADHD Connection Overwhelm FAQs: Social Fatigue and Recharging
 
 ### What People Are Googling
 

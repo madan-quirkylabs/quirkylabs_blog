@@ -23,7 +23,7 @@ Once upon a buzzy-brain afternoon, Sammie the squirrel was having a bit of a day
 
 Today, Sammie decided to relax under the old oak tree, trying to read a book. But every rustle of leaves and distant chirp was like a drummer in his head. "Why can't I just enjoy this?" he wondered, feeling the familiar stir of ADHD that often made leisure feel more like a chore.
 
-### A Nutty Challenge
+## Why ADHD Makes Relaxation So Hard (And How to Make It Easier)
 
 Sammie put the book down and stared up at the swaying branches. He wanted to enjoy the moment, but his mind was like a pinball machine, lights flashing and bells ringing with every thought.
 
@@ -37,7 +37,7 @@ Max thought about reading, then painting, then baking... but nothing stuck. It's
 
 Feeling the soft, warm embrace of the blanket, Max couldn't help but reflect on how, even in these quiet moments, there was a nagging sense of [ADHD and guilt doing nothing](/pages/adhd-and-guilt-doing-nothing/), yet today, he chose to embrace the peace instead.
 
-### Max's Mindful Moment
+## ADHD and Mindful Relaxation: How to Find Peace in Downtime
 
 Determined, Max tried a different tactic. He grabbed his coziest blanket, a cup of hot cocoa, and sat by the window. "Maybe watching the clouds is simple enough," he mused.
 
@@ -51,7 +51,7 @@ Jamie figured out tricks to quiet those bees. Like a magician pulling rabbits fr
 
 In discovering these playful pauses, Jamie also learned to combat the often overwhelming [ADHD and Guilt Doing Nothing](/pages/adhd-and-guilt-doing-nothing/), transforming guilt into permission to simply be.
 
-### Time to Tame the Buzz!
+## ADHD Leisure Time: Tips for Making Rest Actually Fun
 
 Jamie shared these tricks with their friends. Together, they created a club called "The Cozy Corner Club," where they tried new relaxing activities each week. It was like finding secret treasure chests filled with peace and giggles.
 
@@ -61,7 +61,7 @@ As Jamie looked around at all the smiling faces in The Cozy Corner Club, they fe
 
 And so, Jamie and their friends kept exploring the lands of leisure, one playful adventure at a time.
 
-## Quickfire ADHD Checklist
+## ADHD Relaxation Tools: Fast Fixes for Restless Brains
 
 1. **Butterfly Brain:** When your thoughts flutter like butterflies in a breeze, catch one and whisper, "Let's chill for a minute."
 
@@ -71,9 +71,7 @@ And so, Jamie and their friends kept exploring the lands of leisure, one playful
 
 4. **Merry-Go-Round Mind:** When your brain spins like a merry-go-round, grab the golden ring and take a slow, sweet ride.
 
-## Frequently Asked Questions
-
-
+## ADHD Leisure FAQs: Why You Can't Relax and How to Reclaim Joy
 
 ### What People Are Googling
 

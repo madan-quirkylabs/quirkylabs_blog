@@ -23,7 +23,7 @@ In the cozy town of Buzzlewood, there lived a young fox named Felix who was as s
 
 One bright morning, Felix was bubbling with excitement over his latest invention: a machine designed to paint rainbows! He dashed to his friend Betty Beaver's house to share his colorful news.
 
-### A Whirl of Words and Rainbows
+## ADHD and Communication: Why Explaining Yourself Feels So Hard
 
 At Betty's door, Felix took a deep breath, ready to explain his masterpiece. "So, it’s like, you know, it makes, um, rainbows and stuff, right in your backyard!" His words zipped and zapped like fireflies in the dark.
 
@@ -41,7 +41,7 @@ When we last left off, our hero, Sam, was trying to explain why she painted the 
 
 Feeling the intense weight of [ADHD Rejection Sensitivity](/pages/adhd-rejection-sensitivity/), Sam worried her explanation would only widen the gap of misunderstanding between her and her mom.
 
-### A Squirrel in a Word Maze
+## ADHD Word-Finding Struggles: Making Sense of Your Thought Tornado
 
 Imagine you’re in a maze, right? Now, add a dozen squirrels. That's Sam trying to follow one line of thought. She grabbed words like they were branches, hoping one would hold her weight.
 
@@ -55,7 +55,7 @@ Jamie discovered magic in her unique way of thinking. She found joy in the color
 
 Sometimes, feeling like you're **[Adhd Dont Fit In](/pages/adhd-dont-fit-in/)** can be a part of the journey, but Jamie's notebook became a bridge, connecting her unique world with others.
 
-### Sparkle and Shine
+## How to Express ADHD Thoughts Clearly and Be Understood
 
 With a little help from her friends, both imaginary and real, Jamie started to appreciate her mind's special sparkle. She created a little notebook, decorated with stars and dragons, where she'd jot down her thoughts when they zoomed by. This didn't catch all the fireworks, but it sure caught some!
 
@@ -63,7 +63,7 @@ As time passed, Jamie felt more comfortable in her own mind. She realized that n
 
 So, remember, if you ever feel like your mind is a dragon, too—full of fire and mystery—embrace it! Your thoughts are unique and wonderful. They don't have to make sense to everyone, not all the time. What matters most is that they make sense to you. Keep shining, keep sparkling, and let your dragon soar!
 
-## Quickfire ADHD Checklist
+## ADHD Communication Tips: Fast Fixes for When You Can’t Find the Words
 
 1. **Mind like a Fireworks Show** - Thoughts popping, fizzling, and soaring in every direction!
 
@@ -73,9 +73,7 @@ So, remember, if you ever feel like your mind is a dragon, too—full of fire an
 
 4. **Juggling Jelly** - Trying to hold onto one clear idea is like juggling slippery jelly!
 
-## Frequently Asked Questions
-
-
+## ADHD Explaining Yourself FAQs: Real Struggles, Real Strategies
 
 ### What People Are Googling
 

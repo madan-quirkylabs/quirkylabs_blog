@@ -23,7 +23,7 @@ Once upon a sunny, squirrel-filled afternoon, Ellie found herself in a pickle. W
 
 Ellie’s kitchen was her playground, but today, her ingredients seemed like they were playing hide and seek. “Where did I put the sugar?” she wondered aloud, spinning in a circle. Every time she tried to focus, her thoughts hopped like little frogs from one lily pad to another.
 
-### When Cookies are Just a Dream
+## ADHD Task Paralysis: Why Simple Plans Fall Apart
 
 Opening the fridge, she forgot what she was looking for. “Eggs! Right,” she giggled, grabbing them. But then, the phone rang, and her attention zipped away like a shooting star. Answering it, she chatted and laughed, completely forgetting about the eggs warming in her hand.
 
@@ -35,7 +35,7 @@ Every time they tried to execute a mission, Spark would get distracted by a new,
 
 Every distraction and new fascination pushed Spark deeper into the familiar cycle of the [ADHD Ambition Burnout Loop](/pages/adhd-ambition-burnout-loop), where his enthusiasm initially soared before fatigue set in.
 
-### Operation Stay-on-Track
+## ADHD Execution Strategies: How to Focus and Follow Through
 
 Commander Focus knew they needed a strategy. So, he introduced the Daily Mission Board—a big, bright board where they could pin their main mission of the day. This way, Spark could see the main goal and try to stick to it.
 
@@ -51,7 +51,7 @@ Together, they brainstormed ways to help each other out. For Leo, they created a
 
 Amidst the laughter, Leo couldn't help but reflect on how his big dreams often felt stifled by his inability to follow through, a common thread many with ADHD experience, which you can read more about [here](/pages/adhd-big-dreams-no-follow-through/).
 
-### Teamwork Makes the Dream Work
+## ADHD Daily Execution: How Support Systems Can Help You Succeed
 
 With his new tools, Leo felt less overwhelmed. He started to enjoy the planning part, knowing that his friends were there, cheering him on. They even made a game out of it, seeing who could tick off their tasks the fastest.
 
@@ -59,14 +59,14 @@ In the end, Leo realized that everyone has their own mountains to climb. But wit
 
 So, if you ever feel like you can't execute your plans, remember Leo. With a little help and a lot of heart, you can conquer anything!
 
-## Quickfire ADHD Checklist
+## ADHD Productivity Cheatsheet: Fun Fixes for Getting Unstuck
 
 1. Brain's like a squirrel in a ball pit—focus everywhere but nowhere!
 2. Lists longer than a dragon's tail but can't light the fire to start.
 3. Ideas pop like popcorn, but none stick to the bowl.
 4. Planner packed like a treasure chest, but the map’s in Swahili!
 
-## Frequently Asked Questions
+## ADHD Execution FAQs: Why It’s Hard to Start and What You Can Do
 
 
 

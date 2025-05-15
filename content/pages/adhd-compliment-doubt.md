@@ -26,7 +26,7 @@ Once upon a bustling brain day, Jamie, who had ADHD, received a compliment. It w
 
 Jamie wondered, "Did they really mean it? Or were they just being nice?" Her thoughts raced like a pinball machine, bouncing from doubt to doubt.
 
-### Can Compliments Stick on Teflon?
+## ADHD Compliment Doubt: Why Praise Doesn't Always Stick
 
 You see, for Jamie and many others with ADHD, compliments often feel like they're coated in Teflon. They slide right off before they can stick! Jamie's mind was a lively playground, always in motion, making it hard for those nice words to find a place to settle down.
 
@@ -40,7 +40,7 @@ Sir Fidget's mind was a whirlwind, tossing the compliment around like a leaf cau
 
 Often, this doubt is a shadow of [ADHD Impostor Syndrome](/pages/adhd-impostor-syndrome/), which whispers that you're not really as capable as others believe.
 
-### A Knightly Conundrum
+## ADHD Impostor Syndrome and Compliment Rejection
 
 "Why would the Queen compliment me?" he pondered aloud. "I'm more likely to forget my sword than slay a dragon!"
 
@@ -58,7 +58,7 @@ As the day wound down, Jamie's mind still buzzed with thoughts about the ADHD co
 
 This gentle acceptance helped to ease the often gnawing **[ADHD impostor syndrome](/pages/adhd-impostor-syndrome/)** that usually whispered doubts with each word of praise.
 
-### Let's Paint Our Own Sky!
+## How to Accept Compliments with ADHD (and Actually Believe Them)
 
 The next day, Jamie decided to start a small journal, documenting every compliment they received, ADHD and all. Each entry was a colorful splash on the pages, a reminder of their own unique hues.
 
@@ -68,16 +68,14 @@ By the end of the week, the journal was bursting with bits of joy. Jamie realize
 
 Jamie's heart felt lighter, and for the first time in a long time, they truly believed in the brightness of their own canvas. They knew that every compliment was a true reflection of who they were, vibrant and remarkable, just like the sunset.
 
-## Quickfire ADHD Checklist
+## ADHD Compliment Toolkit: Playful Tips to Embrace Praise
 
 1. Imagine compliments like glittering fireflies. Try catching them, not shooing them away!
 2. Each "well done!" is a warm cookie. Don’t let ADHD doubt snatch it from your hands!
 3. Think of praise as a cozy blanket. Wrap yourself up, don’t toss it in the corner!
 4. When compliments bloom like flowers, don’t be the frost; be the sunshine that lets them grow!
 
-## Frequently Asked Questions
-
-
+## ADHD Compliment Doubt FAQs: Why You Struggle to Accept Praise
 
 ### What People Are Googling
 

@@ -25,7 +25,7 @@ Once upon a time, in the bustling town of Busyville, lived Jamie, a bright-eyed 
 
 One sunny afternoon, Jamie decided to take a much-needed break in Sunny Park. She settled under the shade of a big oak tree, hoping for a quiet moment. But alas, every rustle of leaves, chirp of a bird, or giggle from nearby kids sent her thoughts racing again.
 
-### A Squirrel's Attempt at Zen
+## ADHD Mind Won’t Stop: Why Relaxation Feels Impossible
 
 She tried counting acorns. One, two, three—squirrel! Where was she? Oh, right, relaxing. Jamie chuckled at herself, realizing this was going to be harder than she thought.
 
@@ -39,7 +39,7 @@ Captain Brainwave, representing our 'ADHD can't relax' scenario, finds himself i
 
 Feeling a bit of peace, he couldn't help but wonder if this moment of [ADHD rest anxiety](/pages/adhd-rest-anxiety/) was just another form of procrastination, or truly a step toward mastering his chaotic mind.
 
-### Captain Brainwave's Strategy!
+## ADHD Calming Techniques: How to Slow the Brain Storm
 
 So, what's a captain to do? He tries a new tactic: juggling! He starts with two balls, then three. It's not perfect, but it's better. "Juggling isn't so bad," he thinks. As he focuses on the balls in his hands, the others seem to slow down a bit.
 
@@ -53,7 +53,7 @@ We decided to create a cozy relaxation corner in our living space. It was filled
 
 Amidst this new setup, we also had to confront the lingering sense of [ADHD and guilt doing nothing](/pages/adhd-and-guilt-doing-nothing/), recognizing that rest was not a lapse in productivity but a necessary nourishment for our minds.
 
-### A Cozy Corner to Calm the Storm
+## Creating ADHD-Friendly Relaxation Spaces That Work
 
 Slowly, the relaxation corner became our little sanctuary. Whenever the waves of ADHD made it hard to relax, we had a go-to island of calm. It was like finding a secret garden hidden in a bustling city.
 
@@ -61,16 +61,14 @@ We learned that relaxation isn't about stopping the storm but learning to dance 
 
 So remember, even when ADHD whirls you around, there's always a way to find or create your calm. Keep searching, keep trying, and let your relaxation corner be your gentle hug at the end of a long day.
 
-## Quickfire ADHD Checklist
+## ADHD Rest Hacks: Playful Ways to Help Your Brain Chill
 
 1. **Squirrel in a Basket:** Try a fidget spinner! Keep those twirly whirlies at bay.
 2. **Bubble Wrap Symphony:** Pop some bubbles! Each snap is a mini break for your brain.
 3. **Tea Party on the Moon:** Sip some chamomile tea, even if your thoughts are spacewalking.
 4. **Snail’s Pace Race:** Slow and steady, count to ten, let the racing snails win sometimes!
 
-## Frequently Asked Questions
-
-
+## ADHD Relaxation FAQs: What’s Blocking Your Calm & How to Unwind
 
 ### What People Are Googling
 

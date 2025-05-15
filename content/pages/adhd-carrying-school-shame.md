@@ -26,7 +26,7 @@ Once upon a time, in the bustling halls of Whizzbang Elementary, there lived a y
 
 You see, Ellie had ADHD, which often felt like carrying a backpack filled with school shame. It was as if every forgotten homework or missed detail added a rock to her load. And trust me, rocks are no fun in a backpack made for dreams and doodles!
 
-### A Backpack Full of Pebbles and Stardust
+## ADHD School Shame: Understanding the Emotional Weight of Early Struggles
 
 Ellie's adventures in class were like a treasure hunt, where she often found sparkles but missed some clues. Her treasure map didn’t look like everyone else’s. While her classmates followed a straight path, Ellie’s map had loop-de-loops and scribbles. 
 
@@ -38,7 +38,7 @@ So there we were, back with Sammy Squirrel, navigating the forest of Big School 
 
 Amid his reflections, Sammy couldn't help but wonder if others saw him as always needing correction, a sentiment echoed across many who feel burdened by the label of being [ADHD Always In Trouble](/pages/adhd-always-in-trouble/).
 
-### A Light in the Woods
+## Letting Go of ADHD Academic Shame: Lessons from the Wise Owl
 
 But then, a wise old owl named Professor Hoot appeared on a branch. "Why carry stones not meant for your journey?" he asked in a knowingly wise tone. Sammy blinked, puzzled. "But aren't these stones—my mistakes—supposed to teach me something?"
 
@@ -52,7 +52,7 @@ One day, Ms. Parker introduced a project about famous inventors. Jamie chose Leo
 
 In this newfound confidence, Jamie also began to heal from the [ADHD internalized ableism](/pages/adhd-internalized-ableism/) that had once made them doubt their worth and capabilities.
 
-### Victory in Vivid Colors
+## ADHD School Healing: How Creative Kids Reclaim Their Confidence
 
 Jamie started to see school as a canvas, not a battleground. They painted their projects with bright ideas and bold strokes. Teachers began to appreciate Jamie's unique perspective, and classmates sought their whirlwind brain for group tasks.
 
@@ -60,7 +60,7 @@ At the school year's close, Jamie received an award for "Most Creative Thinker."
 
 ADHD wasn’t a shadow; it was Jamie's own brilliant light, guiding them forward. With every step, they lit up a path for others to follow, turning stumbles into part of the dance. Keep shining, Jamie, the world is brighter with your light!
 
-## Quickfire ADHD Checklist
+## ADHD Shame Detox: A Playful Checklist for Reclaiming Your Spark
 
 🎒 **Busting the Backpack of ADHD Carrying School Shame: A Checklist**
 
@@ -79,9 +79,7 @@ ADHD wasn’t a shadow; it was Jamie's own brilliant light, guiding them forward
 5. **Cook the "messy desk" monster for dinner.**  
    Serve it up with a side of creativity sauce!
 
-## Frequently Asked Questions
-
-
+## ADHD School Shame FAQs: Why It Sticks and How to Heal From It
 
 ### What People Are Googling
 

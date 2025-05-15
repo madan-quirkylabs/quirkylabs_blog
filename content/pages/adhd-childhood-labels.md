@@ -23,7 +23,7 @@ Once upon a time, in the bustling town of Brainwave, there lived a young girl na
 
 One day, Zoe’s teacher, Mrs. Maple, introduced the class to a new term: "ADHD childhood labels." Zoe tilted her head, curious about these words that seemed to dance around her like fireflies.
 
-### A Tiny Tag with a Big Impact
+## ADHD Childhood Labels: Why They Stick and How to Reframe Them
 
 Mrs. Maple explained that some kids have extra energy or find it hard to focus, and sometimes they get a label like ADHD. Zoe’s eyes sparkled with recognition. "That sounds like me!" she thought. She imagined herself wearing a tag, not for her coat, but for her brain!
 
@@ -35,7 +35,7 @@ Captain Focus knew these labels weren't anchors; they were buoys, bobbing along 
 
 At 'fidgety,' Captain Focus also uncovered the buried **[Adhd Carrying School Shame](/pages/adhd-carrying-school-shame/)**, which reminded him that every restless move was once misunderstood, not as potential, but as a problem to be managed.
 
-### Discovering Treasure Islands
+## Turning ADHD Childhood Labels Into Strengths and Superpowers
 
 With a spyglass in hand, Captain Focus zoomed in on 'daydreamer.' Rather than a foggy, distant isle, it was a cloud where imaginative creatures crafted stories and ideas that no one else could see.
 
@@ -49,7 +49,7 @@ In Captain Focus's world, labels were just the beginning of understanding the ma
 
 As the sun dipped below the horizon, the colors in the sky mingled like a painter's palette, a beautiful chaos that seemed to mirror Sam's thoughts. He had always felt different because of his ADHD childhood labels, like a puzzle piece that didn't fit. But today, he realized that maybe it wasn’t about fitting into someone else’s picture.
 
-### A Kaleidoscope of Wonders
+## Embracing ADHD Identity: From Shame to Self-Acceptance
 
 Sam also pondered the weight of [ADHD carrying school shame](/pages/adhd-carrying-school-shame/), realizing that past judgments didn't define his true capabilities or his vibrant future.
 
@@ -61,7 +61,7 @@ Sam went to bed feeling like a star that had found its place in the galaxy. He w
 
 In a world that often demands conformity, remember, like Sam, to embrace your unique colors. Dance to your own rhythm. The world is waiting for your sparkle.
 
-## Quickfire ADHD Checklist
+## ADHD Label Liberation Checklist: Reframe, Reclaim, Rejoice
 
 🚀 **Whiz-Kid Wonder** - Were you the "Energizer Bunny," always bouncing from one adventure to the next?
 
@@ -73,9 +73,7 @@ In a world that often demands conformity, remember, like Sam, to embrace your un
 
 Tick off your favorite 'ADHD childhood labels' that made you giggle or sigh!
 
-## Frequently Asked Questions
-
-
+## ADHD Childhood Labels FAQs: Understanding Impact & Rewriting the Story
 
 ### What People Are Googling
 

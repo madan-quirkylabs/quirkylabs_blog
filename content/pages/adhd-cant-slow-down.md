@@ -27,7 +27,7 @@ Once upon a time, in the bustling town of Fidget Falls, lived a young boy named 
 
 Milo's thoughts were like popcorn kernels in a hot pan. Pop! He'd think of space rockets. Pop! He'd wonder about underwater cities. Pop! His mind zipped to the jungles with swinging monkeys. Keeping up with his super-speedy thoughts was like trying to catch a lightning bug with your bare hands.
 
-### Whizzing Through the Day
+## ADHD Fast Brain: What It Feels Like to Be Always On
 
 At school, Milo’s legs were just as restless as his brain. During math, his feet played tag under the table. While writing, his fingers drummed out a concert. Each subject was a new adventure his mind raced off to, leaving his body wiggling in the chair.
 
@@ -35,7 +35,7 @@ Even lunchtime was a blur. Milo would munch through his sandwich like it was a p
 
 Back in the village of Brainopolis, Speedy the squirrel scurried up the Great Oak Tree. His thoughts, like fireworks, popped and fizzed. "Sometimes ADHD can't slow down," he chattered to himself, pausing to nibble on an acorn. "But that just means I see more, do more, and be more!"
 
-### A Nutty Encounter
+## ADHD Mind Speed: The Beauty and Burden of Going 100 MPH
 
 Speedy's mind raced, a familiar sensation where even moments of stillness were tinged with the worry of [ADHD rest anxiety](/pages/adhd-rest-anxiety/).
 
@@ -51,7 +51,7 @@ Together, they found a perfect spot on the highest branch. The sky painted itsel
 
 As the sun dipped below the horizon, Tommy finally realized something important. Even if his ADHD can't slow down, he could still harness its power in fun, creative ways. He didn't have to fight the speed; he could ride it like a skateboard down a thrilling hill.
 
-### Zipping to a Happy Ending
+## How to Channel ADHD Energy Into Joyful Productivity
 
 Despite this new, exciting strategy, Tommy still felt the whispering **[ADHD Rest Anxiety](/pages/adhd-rest-anxiety/)** that he should always be doing more, even when it was time to relax.
 
@@ -63,7 +63,7 @@ Tommy smiled, feeling like a knight who had just tamed a wild dragon. His energy
 
 So, remember, if your thoughts race like a rocket, maybe it's just your superpower gearing up. Grab your helmet, buckle up, and enjoy the ride!
 
-## Quickfire ADHD Checklist
+## ADHD Slow-Down Toolkit: Tips for a Speedy Brain
 
 1. **Buckle up your brain-boots!** Let's sprint through thoughts without tripping.
 
@@ -75,9 +75,7 @@ So, remember, if your thoughts race like a rocket, maybe it's just your superpow
 
 5. **Doodle on your worry-wall.** Turn those "oops!" into "oohs!" and "aahs!"
 
-## Frequently Asked Questions
-
-
+## ADHD Racing Thoughts FAQs: Why You Can’t Slow Down & What Helps
 
 ### What People Are Googling
 

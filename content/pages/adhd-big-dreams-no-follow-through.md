@@ -25,7 +25,7 @@ In the colorful town of Sparkville, everyone had a backpack of dreams. But Sammi
 
 Every morning, Sammie would bounce out of bed, her mind buzzing like a busy bee with new plans. By breakfast, she had invented a new game involving spoons and marshmallows. By lunch, she was onto designing a secret handshake for a club of adventurers.
 
-### A Whirl of Wonderful Whims
+## Why ADHD Makes It So Hard to Finish Big Ideas and Projects
 
 But as the sun dipped below the hills, many of Sammie’s grand plans were left dancing in the wind, unfinished and forgotten. This wasn’t because she didn’t care or try; her brain just liked to race ahead to the next exciting thing!
 
@@ -35,7 +35,7 @@ Together, they made a map of ideas, marking X's on the most exciting ones. Max's
 
 So, there we were in the fantastical realm of Dreamsville, where every morning is a parade of bright balloons and every night, a blanket of soft, twinkling stars. Our hero, Dexter the Dreamer, had a heart as big as the sky and dreams just as vast. But Dexter had a little quirk — he struggled with ADHD, which in Dreamsville meant 'Amazing Dreams, Hardly Done'.
 
-### Dreams in a Whirlwind
+## ADHD and Unfinished Projects: Understanding the No Follow-Through Cycle
 
 Amidst his whirlwind of brilliant ideas, Dexter often stumbled into the [ADHD Ambition Burnout Loop](/pages/adhd-ambition-burnout-loop/), where his boundless energy met the harsh reality of exhaustion, yet his spirit remained as resilient as ever.
 
@@ -53,7 +53,7 @@ With a new planner filled with colorful stickers and bold markers, Jamie sketche
 
 Amidst his journey, Jamie realized that his previous attempts weren't failures but stepping stones, and now his [ADHD unfinished projects](/pages/adhd-unfinished-projects/) were turning into completed successes.
 
-### Small Steps to Big Dreams
+## ADHD Follow-Through Tips: How to Finally Finish Your Big Dreams
 
 His mom smiled over her tea. "Just one small step at a time, Jamie," she advised.
 
@@ -67,7 +67,7 @@ With a giggle and a proud hug, his mom celebrated his victories, both big and sm
 
 So to all the dreamers with big ideas and wandering focus: your dreams aren’t too big, and your follow-through isn’t too small. It’s all about finding your rhythm in the dance of dreams and steps. Keep dancing, keep dreaming, keep doing.
 
-## Quickfire ADHD Checklist
+## ADHD Project Help: Fast-Action Tips to Finish What You Start
 
 1. **Juggling Jellybeans**: Keep one jellybean in the air, not the whole bag!
 
@@ -77,9 +77,7 @@ So to all the dreamers with big ideas and wandering focus: your dreams aren’t 
 
 4. **Garden Goals**: Plant your dream seeds, water one at a time, and watch them grow!
 
-## Frequently Asked Questions
-
-
+## ADHD Big Dreams FAQ: Why You Start Projects and Never Finish Them
 
 ### What People Are Googling
 
