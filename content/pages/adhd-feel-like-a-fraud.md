@@ -21,7 +21,7 @@ Hey, it's okay! Remember, every superhero has their unique style, and maybe your
 
 Imagine you're at a superhero party, but instead of a cape, you're wearing a neon sign that says "ADHD." You move from the snack table to the punch bowl, chatting and laughing, but inside, you feel like a fraud. Everyone seems to have their superpowers figured out, gliding through tasks with the grace of a gazelle. But you? Your superpower feels more like you accidentally packed a box of fireworks—flashy, unpredictable, and sometimes way too loud.
 
-### Superpowers and Fireworks
+## ADHD Imposter Syndrome: Why You Feel Like a Fraud Even When You’re Thriving
 
 That's how Timmy felt at Captain Focus' Annual Super Gala. He'd gotten the glittery invitation (which he nearly lost twice) and was now surrounded by heroes who managed their powers like clockwork. Timmy, with his bouncing leg and wandering eyes, wondered how long before someone noticed his cape was just a towel from his mom's kitchen.
 
@@ -33,7 +33,7 @@ One day, while scampering through the tree library, Sammy stumbled upon a wise o
 
 But amidst his worries, Sammy also feared that his ability to shine during the nut-gathering contests was just [ADHD performative productivity](/pages/adhd-performative-productivity/), masking his daily struggles.
 
-### 🌟 Acorn Wisdom
+## ADHD Self-Doubt: How to Reframe the Feeling of Being a Pretender
 
 "I feel like I'm not squirrel enough," Sammy confessed, "like I'm pretending to be good at gathering nuts."
 
@@ -51,7 +51,7 @@ At home, surrounded by their colored notes and quirky gadgets, Jamie smiled. The
 
 Feeling like a fraud, Jamie often wondered if their successes were genuine or just another aspect of [ADHD Fake Success](/pages/adhd-fake-success/).
 
-### Superpowers Unleashed!
+## ADHD Confidence Boost: How to Embrace Your Unique Superpowers
 
 Every doodle, every scattered idea was a testament to Jamie's vibrant imagination. Their thoughts might jump like playful frogs, but each leap brought them closer to a new lily pad of ideas.
 
@@ -59,18 +59,16 @@ So, if you ever feel like a fraud, remember Jamie. Embrace your unique mind. Dan
 
 Keep jumping, keep discovering. You are not alone.
 
-## Quickfire ADHD Checklist
+## ADHD Imposter Syndrome Checklist: Quirky Signs You’re More Real Than You Think
 
 1. **Juggling Jelly** - When your hands are full but your brain drops the ball.
 2. **Magician’s Hat Trick** - You pull out tasks, but poof! Focus disappears.
 3. **Chameleon Days** - Feel like you're changing colors to match the 'normal' crowd?
 4. **Ghost in the Machine** - Sometimes, your achievements feel like someone else's doing.
 
-## Frequently Asked Questions
+## ADHD Imposter Syndrome: Frequently Asked Questions
 
-
-
-### What People Are Googling
+### ADHD and Fraud Feelings: What People Are Searching for Online
 
 <details><summary>Why do I feel like a fraud with ADHD?</summary><p>Feeling like a fraud, often called "impostor syndrome," is actually quite common among folks with ADHD. This feeling can stem from the challenges of managing varying productivity levels and societal expectations which might not always align well with how ADHD affects you. Remember, your experiences and struggles are valid, even if they're different from what others seem to go through. It's important to acknowledge your own efforts and the unique strengths you bring to the table, despite the hurdles you face along the way.</p></details>
 <details><summary>Is feeling like an imposter common in ADHD?</summary><p>Absolutely, feeling like an imposter is quite common among individuals with ADHD. This feeling often stems from a lifetime of experiences where your unique way of processing or approaching tasks might not align with conventional expectations. Remember, ADHD brains are incredibly creative and capable, but they work differently! It's important to acknowledge your achievements and unique strengths, and understand that everyone, ADHD or not, has their own challenges and feelings of doubt at times.</p></details>
@@ -80,7 +78,7 @@ Keep jumping, keep discovering. You are not alone.
 
 
 
-### Practical FAQs
+### ADHD and Self-Doubt: Practical Advice for Feeling Like You Belong
 
 <details><summary>Why do people with ADHD feel like a fraud?</summary><p>Feeling like a fraud, or experiencing what's often called "impostor syndrome," is common among individuals with ADHD. This often happens because there's a mismatch between their efforts and the outcomes, especially when ADHD-related challenges make tasks harder than they seem to others. People with ADHD might beat themselves up for struggling with things that appear easy for everyone else, leading to feelings of being an impostor. It’s important to remember that ADHD comes with unique strengths as well, and learning to leverage these can help mitigate those feelings of fraudulence.</p></details>
 <details><summary>How common is it for individuals with ADHD to feel like a fraud?</summary><p>It's quite common for individuals with ADHD to experience feelings of being a fraud, often described as imposter syndrome. This happens because people with ADHD can struggle with inconsistency in performance — being brilliant one day and struggling the next, which can really lead to doubting one's abilities and achievements. You're not alone in this; many share these feelings, finding themselves wondering if their successes are deserved or just a stroke of luck. Remember, your challenges don’t define your worth or capabilities, and it's okay to seek support and strategies to manage these feelings.</p></details>
@@ -90,7 +88,7 @@ Keep jumping, keep discovering. You are not alone.
 
 
 
-### Curious ADHD Questions
+### ADHD and Feeling Like a Fraud: Honest Answers to Relatable Questions
 
 <details><summary>Why does having ADHD make me often feel like a fraud when I'm successful?</summary><p>Feeling like a fraud, often referred to as imposter syndrome, is surprisingly common among people with ADHD. This might happen because the ways you’ve learned to achieve success—perhaps through last-minute sprints or unconventional methods—don't always match the typical narratives of how success "should" be achieved. Additionally, the frequent mismatch between your abilities and consistent performance can make your successes feel unearned or just lucky. Rest assured, your success is valid, and your unique approach is simply another way to navigate your path.</p></details>
 <details><summary>Can ADHD make me feel like a fraud when I'm not working or being productive?</summary><p>Absolutely, feeling like a fraud when you're not constantly productive is a common experience for those with ADHD, often referred to as "impostor syndrome." This feeling can stem from the inconsistency in productivity that ADHD can create—one day you might accomplish a huge amount, and the next, very little. It's important to remember that your value isn't tied exclusively to your output; you are deserving and worthwhile all the time, not just when you're being productive. Be gentle with yourself and try to embrace the ebbs and flows of your energy and focus.</p></details>

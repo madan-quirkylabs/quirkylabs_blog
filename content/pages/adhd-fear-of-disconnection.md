@@ -25,7 +25,7 @@ Once upon a time, in the bustling village of Mindville, lived Wally the Weasel, 
 
 One sunny afternoon, Wally was zipping through Mindville’s market, his pockets jingling with gadgets that blinked, beeped, and buzzed. Each device was a lifeline, a way to bridge the gap between his rapid-fire mind and the slower-paced world around him.
 
-### A Gadget for Every Giggle
+## ADHD Social Disconnect: When You Feel Left Out or Misunderstood
 
 But today, something was off. His trusty gadgets weren't helping as they usually did. Wally felt like he was on a tiny island, watching his friends on the mainland, laughing and sharing moments he couldn’t quite grasp. 
 
@@ -33,7 +33,7 @@ He tugged at his scarf, feeling a chill despite the warmth of the sun.
 
 When we last left off, our hero, Captain Focus, was navigating the foggy seas of Distraction Bay. With his trusty compass spinning from thoughts of treasure to fears of stormy weather, Captain Focus felt the chilly breeze of the 'ADHD fear of disconnection'. This wasn't just about losing his way in the fog but fearing the anchor of his friendships might come loose.
 
-### Ahoy! Tightening the Friendship Anchors!
+## How to Strengthen ADHD Friendships and Overcome Isolation
 
 Feeling the weight of the [ADHD rejection sensitivity](/pages/adhd-rejection-sensitivity/), Captain Focus carefully chose each tool, knowing the pain of misinterpreted intentions all too well.
 
@@ -45,7 +45,7 @@ With his chest by his side, Captain Focus felt ready to sail through any storm, 
 
 As the sun dipped below the horizon, Jamie and her friends felt a warm glow of contentment. Jamie realized that her ADHD fear of disconnection, much like the setting sun, wasn't a permanent goodbye but a promise of another hello. Her friends, with their own quirks and colors, showed her that every heart fears silence, but every hand held tight says, "You're not alone."
 
-### A Symphony of Chuckles and Cheers
+## ADHD Reconnection Joy: Finding Your People and Feeling Belonging
 
 In these moments, Jamie understood that her [ADHD need for connection](/pages/adhd-need-for-connection/) was as vast and star-filled as the night sky, drawing her closer to those who embrace her vibrant spirit.
 
@@ -53,7 +53,7 @@ Laughing over spilled popcorn, they shared stories and dreams under the starlit 
 
 So, whenever the fear whispers, Jamie now knows her tribe is just a heartbeat away. Together, they're a circle unbroken, a dance of different, dazzling sparks. Keep close, keep connected, and let the heart lead the way!
 
-## Quickfire ADHD Checklist
+## ADHD Connection Hacks: Fun Tools to Rebuild Social Bonds
 
 1. **Pack Your Social Snacks!**  
    Keep bite-sized chats ready, like popcorn at a movie!
@@ -67,9 +67,7 @@ So, whenever the fear whispers, Jamie now knows her tribe is just a heartbeat aw
 4. **Connect-the-Dots**  
    Each friend is a star. Draw lines gently, make your own constellation!
 
-## Frequently Asked Questions
-
-
+## ADHD Fear of Disconnection FAQs: Why It Happens and How to Cope
 
 ### What People Are Googling
 

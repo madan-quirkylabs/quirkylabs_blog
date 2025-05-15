@@ -27,7 +27,7 @@ Once upon a time, in the bustling town of Mindville, lived a bright-eyed bunny n
 
 Binky often felt like his mind was a radio tuned to ten stations at once. This made him worry about sharing his inner world. He feared intimacy because his thoughts were like a merry-go-round that never stopped.
 
-### Hopping into Hearts
+## ADHD Fear of Intimacy: Why Getting Close Feels Risky
 
 One sunny afternoon, Binky was invited to Lulu’s birthday party. Lulu was a gentle lamb who had always been kind to him. As he hopped towards the party, his heart did a jittery dance. What if he talked too much? Or not enough? What if his rapid-fire thoughts scared someone?
 
@@ -35,7 +35,7 @@ Binky took a deep breath. He reminded himself that it's okay to be nervous. It's
 
 As we left off, little Sparky, our adventurous squirrel with ADHD, had just discovered the Great Oak of Understanding. It was rumored to hold the secrets of conquering fears, including the notorious 'ADHD fear of intimacy' that often made Sparky skittish around other squirrels.
 
-### Tiptoeing into Trust
+## ADHD and Vulnerability: Taking Small Steps Toward Connection
 
 Feeling the weight of his worries, Sparky also wondered if his friends, aware of his struggles, might see him as [too much for others](/pages/adhd-too-much-for-others), yet he hoped they understood his earnest desire to connect.
 
@@ -51,7 +51,7 @@ Mia decided to take small, brave steps. She started with honest talks with her f
 
 In these moments of vulnerability, Mia often felt the heavy shadow of her [ADHD fear of rejection](/pages/adhd-fear-of-rejection/), yet she bravely continued to share her true self.
 
-### Small Steps, Big Smiles
+## Building Intimacy with ADHD: How Play and Patience Help
 
 Every chat felt like adding a soft, new quilt piece to her friendship blanket. Each piece was a patch of trust, a snippet of shared laughter, or a moment of understood silence.
 
@@ -59,16 +59,14 @@ One sunny afternoon, while sipping lemonade in the park, Mia felt a warm glow in
 
 Mia’s journey taught her that with patience and small steps, the fear could become manageable. Her heart was a kite in the spring breeze—sometimes diving, sometimes soaring, but always in the sky, bright and hopeful.
 
-## Quickfire ADHD Checklist
+## ADHD Intimacy Hacks: Gentle Steps to Open Up Emotionally
 
 1. 🚀 Strap on your emotional jetpack, we're zooming into closeness!  
 2. 🌌 Explore the galaxy of feelings, even if it feels like a supernova!  
 3. 🎭 Wear your heart on your sleeve, not your invisibility cloak.  
 4. 🍪 Share your cookies, even if your jar clinks with quirks and fears.
 
-## Frequently Asked Questions
-
-
+## ADHD Intimacy FAQs: Why You Fear Closeness and How to Feel Safe
 
 ### What People Are Googling
 

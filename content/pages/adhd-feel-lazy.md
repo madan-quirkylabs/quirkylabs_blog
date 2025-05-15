@@ -21,7 +21,7 @@ But hey, what if you could find a secret, silly dance to wiggle your toes free? 
 
 Once upon a time, in the bustling village of Mindville, lived Ziggy the Zebra, known for his dazzling, zig-zag stripes. Ziggy also had ADHD, which sometimes made tasks feel like climbing a giant jelly mountain. On sunny days, he felt like a superhero, zipping from one adventure to the next. But there were also gloomy days where ADHD made Ziggy feel lazy, even when he wanted to gallop and play.
 
-### Can You Feel the Slow-Mo?
+## ADHD Motivation Struggles: Why You Feel Lazy and What’s Really Going On
 
 On one such slow-mo day, Ziggy found himself sprawled on the comfy grass under the big banana tree, watching clouds drift by like fluffy marshmallows in a hot cocoa sky. Thoughts popped like popcorn in his mind. "I should be jumping with Jerry Giraffe," he sighed, watching a butterfly flit past, its wings a blur of color. But his legs felt like they were filled with peanut butter, heavy and sticky.
 
@@ -29,7 +29,7 @@ On one such slow-mo day, Ziggy found himself sprawled on the comfy grass under t
 
 So, here's the thing about our friend Sam, the squirrel, who people sometimes think feels lazy because of his ADHD. It's not about being lazy at all! In fact, Sam is like a supercharged rocket that sometimes doesn't know where to fly next. Picture this: Sam wakes up, excited to start the day. He has a big list: collect acorns, tidy up the treehouse, visit friends, and maybe start a new hobby—leaf painting!
 
-**A Squirrel's Busy Brain**
+## ADHD Executive Dysfunction: When Too Many Ideas Feel Like Too Much
 
 Often, this whirlwind of thoughts leads Sam to battle feelings of being [never good enough](/pages/adhd-never-good-enough/), as he struggles to meet his own adventurous expectations.
 
@@ -47,7 +47,7 @@ Tommy thought that was a funny way to think about it. He imagined his brain as a
 
 Tommy also learned that many kids with ADHD, like him, often struggle with feeling as though they're always in trouble, which can be quite exhausting and discouraging over time.
 
-### A Little Bee's Break
+## ADHD Productivity Hacks: How Small Shifts Can Boost Energy and Focus
 
 The next day, Tommy tried something new. During homework, he took short breaks to stretch and jump, just like the breaks a bee takes when gathering pollen from different flowers. To his surprise, it helped! He completed his homework faster than ever before.
 
@@ -59,7 +59,7 @@ Tommy felt proud. He knew that with a few little tweaks, he could manage his ADH
 
 Tommy went home smiling. He was ready to dance through every day, even on the slow ones. He knew he wasn't alone, and that felt like the warmest, sunniest spot in the garden.
 
-## Quickfire ADHD Checklist
+## ADHD Laziness Myth Buster: Fun & Visual Tools to Get Unstuck
 
 1. **Sloth Mode Activated:** When your brain feels like a lazy river, float gently!
   
@@ -69,11 +69,9 @@ Tommy went home smiling. He was ready to dance through every day, even on the sl
 
 4. **Juggling Jello:** When tasks slip and slide away, it’s time to gather your giggles and try again!
 
-## Frequently Asked Questions
+## ADHD Feeling Lazy: Frequently Asked Questions
 
-
-
-### What People Are Googling
+### ADHD Laziness: What People Are Searching For (and the Real Answers)
 
 <details><summary>Why do I feel lazy if I have ADHD?</summary><p>Feeling "lazy" is actually a common experience for many with ADHD, but it's important to remember that this isn't laziness at all! What you're likely experiencing is the challenge of impaired executive function, which is a core aspect of ADHD. This can make tasks like planning, starting, and completing activities feel much more daunting and exhausting than they might for someone without ADHD. Be gentle with yourself, and recognize that this feeling is a part of your ADHD, not a reflection of your character or effort.</p></details>
 <details><summary>Is feeling lazy a symptom of ADHD?</summary><p>Absolutely, it's quite common to feel what you might describe as "lazy" when you're dealing with ADHD. This feeling often stems from the challenges of managing your energy levels and motivation, especially for tasks that don't immediately spark your interest. Remember, what feels like laziness is actually often a symptom of feeling overwhelmed or having difficulty starting tasks due to executive function challenges. It's really important to be kind to yourself and recognize this as just another part of navigating ADHD.</p></details>
@@ -83,7 +81,7 @@ Tommy went home smiling. He was ready to dance through every day, even on the sl
 
 
 
-### Practical FAQs
+### ADHD and Lack of Motivation: Practical Tips to Get Moving Again
 
 <details><summary>Why do people with ADHD feel lazy?</summary><p>It's really common to hear folks with ADHD describe themselves as feeling "lazy," but what's often happening is a bit more complex. People with ADHD can struggle with executive function challenges, which include difficulties with planning, starting, and completing tasks. This isn't about laziness at all; it's more about how their brains manage energy and focus. Remember, feeling stuck sometimes doesn't reflect your worth or capabilities; it's just a part of navigating ADHD.</p></details>
 <details><summary>How can someone with ADHD overcome feelings of laziness?</summary><p>Firstly, it's important to remember that what might feel like "laziness" is often just a part of the unique way your ADHD brain works, struggling perhaps with motivation or activation. One effective strategy is to break tasks into smaller, more manageable chunks, making the process less overwhelming and helping initiate action. Setting up a cozy, inviting workspace and using timers to alternate between short periods of work and rest can also be incredibly helpful. Remember, every small step you take is a victory worth celebrating, so be gentle with yourself as you navigate your tasks.</p></details>
@@ -93,7 +91,7 @@ Tommy went home smiling. He was ready to dance through every day, even on the sl
 
 
 
-### Curious ADHD Questions
+### ADHD and Inertia: Quirky and Curious Questions People Secretly Wonder About
 
 <details><summary>Why does my adhd feel lazy when I actually want to get things done?</summary><p>Ah, that feeling can be so frustrating, can't it? What you're experiencing isn't laziness at all; it's a common aspect of ADHD known as "executive dysfunction." This is when the brain struggles with managing tasks, organizing thoughts, and prioritizing actions. It's like wanting to start a car without the keys — you're ready to go, but your brain isn't cooperating. Remember, this doesn't reflect your ambition or capability; it's just a tricky part of navigating ADHD.</p></details>
 <details><summary>How can I explain to friends that my adhd feel lazy isn't really laziness?</summary><p>Absolutely, sharing how ADHD impacts you with friends can really help deepen their understanding! You might explain that what looks like laziness is actually your brain managing different wiring. ADHD can make it hard to start tasks, prioritize them, or maintain energy levels consistently, which might appear as 'laziness' but is far from it. Letting them know that it’s more about how your brain navigates attention and energy can help them see your experiences through a more empathetic lens.</p></details>

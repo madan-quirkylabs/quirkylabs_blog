@@ -25,7 +25,7 @@ In the bustling village of Willowbrook, Jamie the squirrel was known for his bou
 
 You see, Jamie worried that one day, everyone in Willowbrook would see that his treehouse was full of unfinished projects. They'd notice he sometimes forgot where he buried his nuts because he was off chasing a new, shiny idea.
 
-### A Squirrel's Secret
+## ADHD Impostor Syndrome: Why You Feel Like a Fraud
 
 One sunny morning, Jamie was darting from branch to branch when he overheard a conversation. Two birds were chirping about how everyone has things they're not perfect at. This made Jamie's ears perk up. Could it be true that others felt the same way?
 
@@ -37,7 +37,7 @@ With a gulp, Fidget approached the cave's gaping mouth, her heart doing a jitter
 
 Her fears of being found out intertwined tightly with the gnawing sense of [ADHD Impostor Syndrome](/pages/adhd-impostor-syndrome/), making every step towards the cave feel heavier.
 
-### Into the Echoing Depths
+## ADHD Self-Doubt: Facing the Fear of Exposure
 
 Fidget stepped inside, and the cave began to murmur. "Why are you always so scattered?" it echoed. Fidget flinched. "Can't you sit still?" another voice boomed, bouncing off the walls. Each question felt like a pebble in her shoe, annoying and hard to ignore.
 
@@ -53,7 +53,7 @@ The spotlight was warm like a cozy blanket, and Jamie felt a surprising calm. Sh
 
 Amid her nerves, Jamie also worried about her tendency to **[ADHD overcompensating](/pages/adhd-overcompensating/)**, fearing it might make her act appear too forced or unnatural.
 
-### Abracadabra, Anxiety Be Gone!
+## ADHD Authenticity: Owning Your Brilliance Without Fear
 
 The crowd clapped and cheered. Jamie realized that they loved her show, not because it was perfect, but because it was joyfully hers. Her fear, like a shadow in the evening, seemed much smaller under the stage lights.
 
@@ -61,16 +61,14 @@ Backstage, her friends hugged her. "You were amazing!" they chirped. Jamie smile
 
 From that day on, Jamie embraced her unique mind. She knew it was okay to be herself, quirks and all. With each smile and round of applause, her fear of being found out faded, like stars at dawn.
 
-## Quickfire ADHD Checklist
+## ADHD “Found Out” Recovery Kit: Embrace Who You Really Are
 
 1. Pack your "Invisible Cloak" of smiley faces and nods. Blend in like a chameleon!
 2. Keep your "Oops-oh-well" umbrella handy for rainy, forgetful days.
 3. Juggle those thoughts like a circus star—keep 'em flying, even if they drop!
 4. Wear your "I've got this" sneakers for quick sprints away from the 'ADHD fear of being found out'.
 
-## Frequently Asked Questions
-
-
+## ADHD Impostor FAQs: Why You Hide & How to Feel Safe Being Seen
 
 ### What People Are Googling
 

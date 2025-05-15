@@ -28,7 +28,7 @@ In the whimsical world of Willowby Lane, there lived a bright-eyed squirrel name
 
 One sunny afternoon, Simon was feeling particularly sparkly. His mind buzzed with exciting plans and inventions. But as he zipped through the park, a tiny cloud of worry followed him. He wondered if his endless energy and big ideas might be just... too much.
 
-### A Squirrel with a Sparkle
+## ADHD and Fear of Intensity: Am I Too Much?
 
 Simon decided to confide in his wise old friend, Mr. Tortoise. "Mr. Tortoise," he panted, "do you think I can be too much sometimes? With all my hopping and ideas?"
 
@@ -38,7 +38,7 @@ Simon blinked, his fears flickering slightly. Could his sparkle really be just r
 
 When we last left our curious circus, the Fearful Firefly was buzzing anxiously around the Big Top, glowing brighter with every flap of her tiny wings. She was worried about being too much, about her light being too bright and her buzz too loud for the gentle circus folks.
 
-### Light Shows and Loud Buzzes
+## ADHD Social Anxiety: How to Embrace Your Big Energy
 
 Yet, in the midst of this newfound acceptance, the Fearful Firefly couldn't shake off a lingering sense of [ADHD Loneliness In Relationships](/pages/adhd-loneliness-in-relationships/), wondering if the cheers were just for her light and not for who she really was inside.
 
@@ -56,13 +56,13 @@ Backstage, her friends gathered around, their smiles as bright as stage lights. 
 
 In these moments, she no longer felt the familiar sting of [ADHD rejection sensitivity](/pages/adhd-rejection-sensitivity/), just an embrace of true acceptance.
 
-### A Symphony of Smiles
+## ADHD Self-Worth: Why Being “Too Much” Is Just Right
 
 Ellie's fears of being too much had dimmed, like stars at dawn, making way for a day full of promise. She learned that her vibrant energy was not a flaw—it was her superpower. Her friends loved her not despite her intensity, but because of it. They were her cheerleaders, always ready to turn her fears into confetti.
 
 As she left the theater, Ellie felt like she was walking on moonbeams. Her steps were light, her spirit was free, and her heart was full. She knew now that being "too much" was just enough. And with a twirl, she whispered to herself, "Let the whole world hear my music."
 
-## Quickfire ADHD Checklist
+## ADHD Self-Acceptance Tools: Shine Without Shrinking
 
 1. **Balloon Parade**: Before you float away with worry, tie a string to your wrist!
    
@@ -72,9 +72,7 @@ As she left the theater, Ellie felt like she was walking on moonbeams. Her steps
 
 4. **Fireworks Show**: Sparkle just right, not all night. Dim your dazzle, but keep the sparkle!
 
-## Frequently Asked Questions
-
-
+## ADHD “Too Much” FAQs: Managing Big Feelings & Energy With Grace
 
 ### What People Are Googling
 

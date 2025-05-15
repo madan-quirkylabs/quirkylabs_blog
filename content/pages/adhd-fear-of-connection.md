@@ -26,7 +26,7 @@ Once upon a time in the bustling town of Synapseville, lived a bouncy bunny name
 
 Benny worried his zippy thoughts might be too much for others. What if they couldn’t keep up? What if they didn’t understand why he changed topics like he changed socks? Fast and often!
 
-### Benny Faces the Challenge
+## ADHD Social Fears: When Connection Feels Too Risky
 
 One sunny day, Benny decided to face his fears. He was invited to Lulu the Lemur’s treehouse tea party. He really wanted to go but felt that familiar flutter in his chest.
 
@@ -38,7 +38,7 @@ Despite the challenge, Fizz knew deep down that connections were like secret tre
 
 Amid these newfound joys, Fizz's old shadows lingered, the whispering fear that Ellie might someday see them as [too much for others](/pages/adhd-too-much-for-others), yet hoping this magical friendship would prove different.
 
-### The Quest Begins!
+## ADHD Friendship Anxiety: From Isolation to Openness
 
 At the village square, Fizz encountered Ellie, a vibrant painter whose words danced like paint on a canvas. Ellie's ease made Fizz's thoughts tangle less. They chatted about clouds that looked like floating candies and laughed at the playful breeze.
 
@@ -54,7 +54,7 @@ Lucy sighed, a sound mixed with relief and a touch of sadness, knowing all too w
 
 Lucy laughed, feeling a weight lift off her shoulders. She realized that sharing her fears was like opening a window inside a stuffy room—it let the fresh air in and the scary shadows out.
 
-### Making New Friends Is Like Planting Seeds
+## ADHD and Connection: How Small Steps Build Big Trust
 
 Lucy decided to plant more friendship seeds. Each new hello was a tiny seed that could grow into a beautiful connection.
 
@@ -64,16 +64,14 @@ She learned that connections aren't as scary as they seem. They're just new adve
 
 So, remember, every friend was once a stranger. Don't let fear stop you from growing your beautiful garden of friends.
 
-## Quickfire ADHD Checklist
+## ADHD Connection Tips: How to Feel Safe Reaching Out
 
 1. 🌈 Imagine you're a bouncy kangaroo—leap into the conversation, even if it feels squishy!
 2. 🎈 Think of your thoughts as balloons in a parade—let them float by before grabbing the right one.
 3. 🍪 Treat each new chat like a surprise cookie jar—what yummy idea will you discover next?
 4. 🐒 Swing through the jungle of jitters like a fearless monkey—each vine is a new friend!
 
-## Frequently Asked Questions
-
-
+## ADHD Social Anxiety FAQs: Why Connection Feels Hard & What Helps
 
 ### What People Are Googling
 

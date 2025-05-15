@@ -26,7 +26,7 @@ Once upon a sunny afternoon, Jamie dashed through the park like a squirrel chasi
 
 "Why don't they laugh at my jokes?" she pondered, tossing a pine cone into the air.
 
-### Can Pine Cones Fly?
+## ADHD Rejection Sensitivity: Why It Hurts So Deeply
 
 She imagined each pine cone was a tiny spaceship. "Off to explore unknown galaxies!" she exclaimed, watching it plummet instead. Just like her attempts to make friends, soaring high then suddenly dropping.
 
@@ -36,7 +36,7 @@ Jamie's thoughts spun faster than a merry-go-round. It was exhausting. Every inv
 
 So, there’s our little hero, Captain Brainwave, zooming through Brainopolis. He's on a mission to fight the sneaky villain known as the ADHD Fear of Rejection. This villain is as slippery as a bar of soap in a bathtub! It makes Captain Brainwave worry that his friends might not like his unique, super-fast superhero style.
 
-### A Sticky Situation
+## How ADHD Impacts Friendships and Triggers Fear of Being Left Out
 
 Amid his excitement and nerves, Captain Brainwave also battled the nagging worry that he might be [ADHD Too Much For Others](/pages/adhd-too-much-for-others), fearing his energetic nature could overwhelm his pals.
 
@@ -56,7 +56,7 @@ Sam learned to see it differently, thanks to the support of friends like Mia and
 
 Amidst all this, Sam also confronted a deeper, nagging fear, often wondering, [am I too much for others?](/pages/adhd-too-much-for-others/)
 
-### Bouncing Back!
+## Rebuilding Confidence After Rejection with ADHD
 
 One sunny afternoon, as they watched the clouds drift by, Mia shared a secret. "Every cloud has a silver lining," she said, "even the ones that rain on our parade!" They all laughed, realizing that even when things go wrong, there's always a chance to try again.
 
@@ -66,16 +66,14 @@ So, under the golden rays of another day, Sam and friends skipped forward. With 
 
 Keep playing, keep laughing, and remember, every stumble is just a new dance move you haven't mastered yet!
 
-## Quickfire ADHD Checklist
+## ADHD Rejection Toolkit: Fun Ways to Handle Emotional Triggers
 
 1. **Put on your superhero cape** - Face the day ready to fly above the fear!
 2. **Wear your rubber boots** - Stomp through puddles of doubt without getting your socks wet.
 3. **Pack your invisible shield** - Block those rejection arrows with a smile!
 4. **Carry a cookie in your pocket** - Treat yourself after dodging the sticky webs of worry.
 
-## Frequently Asked Questions
-
-
+## ADHD Rejection Fear FAQs: What Is RSD and How to Cope Better
 
 ### What People Are Googling
 

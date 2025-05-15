@@ -25,7 +25,7 @@ Once upon a sunny morning, Max, an 8th grader with high-functioning ADHD, was on
 
 Max dove into piles of clothes and swam through seas of books and gadgets. His room was a treasure trove of distractions. Each item whispered tales and adventures, pulling his attention this way and that. "Focus, Max," he muttered, trying to steer his thoughts back to the homework hunt.
 
-### A Wild Chase in the Bedroom Jungle
+## ADHD Disorganization: How High-Functioning Adults Struggle Silently
 
 His desk was a mountain of mysteries. Under a stack of comic books, he found his math worksheet. Bingo! But wait, where was his history essay? Ah, the plot thickens! Max's journey through his room was like exploring a cave without a flashlight.
 
@@ -33,7 +33,7 @@ Every shiny object tempted him to wander off the path. His ADHD made focusing a 
 
 When we last left our sprightly squirrel, Nutty, he was zooming from tree to tree, a clear picture of ADHD high-functioning struggles. Even though he was the fastest in the forest at gathering nuts, he sometimes forgot where he buried them!
 
-### A Nutty Mix-Up
+## ADHD and Memory: Why High-Functioning Adults Still Lose Track of Things
 
 Despite his success, Nutty often doubted the compliments on his speed and skill, wondering if his friends saw the same value in his efforts that he struggled to see in himself, which made him feel like he was constantly [overcompensating](/pages/adhd-overcompensating/).
 
@@ -51,7 +51,7 @@ Their friends, once puzzled by Alex's scattered focus and sudden bursts of ideas
 
 Despite the cheers, Alex sometimes wondered if their successes were real, often feeling the pangs of [ADHD Impostor Syndrome](/pages/adhd-impostor-syndrome/), which whispered doubts that perhaps they weren't as capable as others perceived.
 
-### A Kaleidoscope of Triumph
+## ADHD Strengths: How to Recognize the Wins You Might Be Overlooking
 
 Laughter bubbled like a pot on the stove. Alex's challenges with ADHD weren't gone, but in these golden moments, they felt lighter. The children learned that every mind paints the world differently and that's what makes life so exciting.
 
@@ -61,7 +61,7 @@ As the stars blinked awake in the twilight, Alex felt a warm glow in their heart
 
 So, no matter the struggle, remember: every sunset brings the chance for a brighter dawn. Keep playing, keep dreaming, keep being you.
 
-## Quickfire ADHD Checklist
+## High-Functioning ADHD Checklist: Hidden Struggles You Might Be Ignoring
 
 1. **Chasing Butterflies:** Your thoughts zoom like bees to every blossom in the garden.
 
@@ -71,11 +71,9 @@ So, no matter the struggle, remember: every sunset brings the chance for a brigh
 
 4. **100 Tabs Open:** Your brain's like a web browser with a million tabs open—where's the mute?
 
-## Frequently Asked Questions
+## High-Functioning ADHD: Frequently Asked Questions
 
-
-
-### What People Are Googling
+### ADHD That Looks Fine: What High-Functioning Adults Secretly Search For
 
 <details><summary>What are common struggles for high functioning ADHD adults?</summary><p>Absolutely, it’s important to recognize that even high-functioning adults with ADHD may face unique challenges! Common struggles often include maintaining organization, managing time effectively, and keeping up with multiple tasks at once. Additionally, many experience difficulties with sustaining attention during less stimulating activities and may struggle with impulsivity in social or professional settings. It’s all part of navigating ADHD, and finding strategies that work for you can make a big difference in smoothing out these bumps in the road.</p></details>
 <details><summary>How to manage ADHD if you're high functioning?</summary><p>Navigating ADHD when you're high-functioning might feel a bit like a stealth mission, where your struggles aren't always visible to others. Start by embracing structured routines and checklists to keep your day flowing smoothly. Don't hesitate to lean on tech tools like apps for task management or timers to break work into manageable chunks. Most importantly, remember to celebrate your successes, no matter how small, and give yourself plenty of grace on the tougher days. You're doing wonderfully, and every step forward is a victory!</p></details>
@@ -85,7 +83,7 @@ So, no matter the struggle, remember: every sunset brings the chance for a brigh
 
 
 
-### Practical FAQs
+### Managing ADHD When You Seem Fine: Practical Support for Hidden Struggles
 
 <details><summary>What are common ADHD high functioning struggles in the workplace?</summary><p>Absolutely, navigating the workplace with high-functioning ADHD comes with its unique set of challenges. One common struggle might be managing time effectively, as it's easy to lose track of it when you're hyperfocused on one task or bouncing between multiple tasks. Another is maintaining organization, whether that's keeping a tidy workspace or prioritizing tasks in a way that doesn't feel overwhelming. Many also find that handling distractions and sustaining concentration during less engaging tasks can be tough. Remember, each of these struggles also brings with it a set of unique strengths, and finding strategies that work for you can really make a positive difference.</p></details>
 <details><summary>How do ADHD high functioning struggles affect relationships?</summary><p>Absolutely, navigating relationships with high-functioning ADHD can indeed have its unique challenges, but knowing what these are can really help in managing them. Often, difficulties with time management, forgetfulness, or impulsivity in conversations might lead to misunderstandings or frustrations. However, open communication about these challenges can not only increase understanding between partners but also strengthen the bond. By working together and perhaps establishing gentle reminders or systems, you can create a supportive environment that allows both partners to thrive.</p></details>
@@ -95,7 +93,7 @@ So, no matter the struggle, remember: every sunset brings the chance for a brigh
 
 
 
-### Curious ADHD Questions
+### High-Functioning ADHD: Honest Questions You Might Be Afraid to Ask
 
 <details><summary>Why do people with ADHD high functioning struggles often have a hard time keeping track of time?</summary><p>Absolutely, it's a common challenge and you're not alone in this! Folks with ADHD might struggle with time management because their brains process the passage of time differently. This is often referred to as "time blindness," where it can be tough to estimate how long tasks will take or to switch smoothly from one task to another. Implementing tools like timers, alarms, or visual time indicators can be really helpful to gently keep you on track without feeling overwhelmed. Remember, finding what uniquely works for you is a cozy journey of discovery.</p></details>
 <details><summary><p>It's a curious thing, isn't it? For someone with ADHD high functioning struggles, time doesn't flow in a steady stream; instead, it may feel like a series of rapids followed by tranquil pools. This phenomenon, often called "time blindness," means that even when they are deeply engaged in tasks, the concept of time can be elusive, making punctuality and time management quite the adventurous challenge!</p></summary><p>Absolutely, your description captures the experience perfectly! Time blindness can indeed make the passage of time feel unpredictable and often tricky to navigate for those with ADHD. This can turn what many see as straightforward tasks into a bit of a wild ride. The key is finding strategies that resonate with you, like setting multiple alarms or using a visual timer, to gently keep you anchored as you flow through your day. Remember, it's all about discovering what best supports your unique rhythm!</p></details>

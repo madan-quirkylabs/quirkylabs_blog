@@ -28,7 +28,7 @@ Once upon a time, in the land of Bright Minds, there lived a young, sprightly sq
 
 One sunny morning, Sammy scurried to the debate, his heart drumming like a parade band. He worried his words might jumble like tossed salad when it was his turn to speak.
 
-### Sammy’s Silly Squirrel Thoughts
+## ADHD Communication Fears: Why Speaking Up Feels Risky
 
 As he climbed up the debate tree, his little claws pitter-pattered with nervous excitement. "What if I forget my words?" he thought, peering down at the forest floor, which seemed as far away as the moon. 
 
@@ -40,7 +40,7 @@ Timmy took a deep breath. His knees knocked like a pair of clattering coconuts. 
 
 His fears about the [ADHD fear of judgment](/pages/adhd-fear-of-judgment/) seemed to dissolve as he shared smiles and nods with the other climbers, each on their unique journey.
 
-### Up the Tree We Go!
+## ADHD Public Speaking Confidence: From Fear to Voice
 
 Gathering all his gumption, Timmy approached the tree. Each step was squishy, like stepping on jelly sandwiches. He reached out and touched the bark. It felt rough, like a pirate’s stubbly chin.
 
@@ -58,7 +58,7 @@ Fear was just a shadow passing by. Jamie’s excitement for their project lit up
 
 This realization also helped Jamie combat the deep-seated **[ADHD internalized ableism](/pages/adhd-internalized-ableism/)** that often made them doubt their capabilities.
 
-### Everyone's Star Shines Differently
+## ADHD and Presentation Confidence: How to Overcome the Fear of Looking Silly
 
 In the end, Jamie’s project won a special award for Most Enthusiastic Presentation. They learned that making mistakes was part of learning and growing. The fear of looking dumb was just a tiny comet in the vast universe of learning.
 
@@ -66,7 +66,7 @@ Jamie now knew that their ADHD was like having a brain built of shooting stars�
 
 So, whenever you feel that fear creeping in, remember Jamie and their stellar project. Shine bright and embrace your unique sparkle!
 
-## Quickfire ADHD Checklist
+## ADHD Self-Expression Kit: Tips to Speak Up with Sparkle
 
 ✨ **ADHD Fear of Looking Dumb Checklist** ✨
 
@@ -75,9 +75,7 @@ So, whenever you feel that fear creeping in, remember Jamie and their stellar pr
 3. 🎭 Wear your mistakes like a superhero cape, not a wet blanket.
 4. 🍪 Treat each oopsie like a cookie crumb—sweep it up with a giggle!
 
-## Frequently Asked Questions
-
-
+## ADHD Fear of Looking Dumb FAQs: What It Is and How to Speak Freely
 
 ### What People Are Googling
 

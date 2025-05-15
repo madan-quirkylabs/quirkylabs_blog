@@ -25,7 +25,7 @@ Once upon a sunny afternoon, in the charming town of Whimsyville, lived a young 
 
 Simon was planning a party. A big, fun, nut-filled fiesta! He was excited but nervous. What if his decorations looked like a tornado's leftovers? What if his nut pie tasted like cardboard? Oh, the horror!
 
-### A Nutty Party Prep
+## ADHD and Social Fear: Why Being Judged Feels So Intense
 
 He scurried around, gathering acorns and pine cones. His thoughts popped like popcorn. "Will they laugh if I hang the lanterns too low?" he fretted, picturing all the other squirrels chuckling.
 
@@ -33,7 +33,7 @@ Simon paused, took a deep breath, and looked around. His little corner of the fo
 
 Chirpy the Squirrel's mind was a whirlwind of acorns. Each acorn was a different thought or worry, tumbling around noisily. Lately, one especially large acorn had been thumping louder than the others: the fear of judgment. Chirpy fretted that the other forest critters might giggle at his scattered stash or chirp behind his back about his zigzaggy plans.
 
-### A Nutty Solution
+## ADHD Social Courage: How to Push Past Fear and Be Yourself
 
 Amidst the planning, Chirpy couldn't help but recall how he'd often felt [labeled as disruptive](/pages/adhd-labeled-as-disruptive/) during past gatherings, yet this time, he was determined to turn that label into a badge of creative organization.
 
@@ -45,7 +45,7 @@ Her words felt like a soft breeze rustling through the leaves. Chirpy realized t
 
 In the bustling forest, the critters had all gathered. They were all there to celebrate Buddy’s brave dance at the Moonlight Ball. Despite his ADHD fear of judgment, Buddy twirled and tapped under the shimmering stars, his every move sparking joy and admiration among his friends. His bold steps had painted a new picture of courage in their hearts.
 
-### Buddy's Big Bow
+## ADHD Fear of Judgment Recovery: Celebrate Your Boldness
 
 Feeling buoyed by the acceptance, Buddy also began to gently unpack his **[ADHD childhood labels](/pages/adhd-childhood-labels/)**, realizing they did not define his vibrant present or his boundless future.
 
@@ -57,16 +57,14 @@ Buddy realized that his fear was just a shadow, and like all shadows, it got sma
 
 So, whenever you feel the eyes of judgment, remember Buddy’s moonlit dance. Spin, jump, and laugh. After all, life is your forest, and you are meant to dance through it, wonderfully different and wildly free.
 
-## Quickfire ADHD Checklist
+## ADHD Social Confidence Kit: Tips to Shine Despite Judgment
 
 1. **Wear Your Invisible Crown:** Strut like a peacock, even if you feel like a wet cat.
 2. **Dance in the Rain:** Let judgment roll off like raindrops on a slicker.
 3. **Whistle Your Own Tune:** Play your thoughts loud, even if they're a bit out of tune.
 4. **Build Your Fort:** Guard your mind like a dragon with treasure, fiery and proud!
 
-## Frequently Asked Questions
-
-
+## ADHD Judgment Fear FAQs: Why You Worry & How to Feel Seen
 
 ### What People Are Googling
 

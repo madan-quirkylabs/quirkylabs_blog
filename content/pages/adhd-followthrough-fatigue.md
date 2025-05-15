@@ -23,7 +23,7 @@ Once upon a sunny afternoon, Jamie found herself staring at a jigsaw puzzle. A t
 
 She felt a burst of excitement, her mind like a pinball machine. Lights flashing! Ideas bouncing! But halfway through, her energy fizzled out like a forgotten cupcake left out in the rain. This wasn't just tiredness; it was like her brain had run a marathon in flip-flops.
 
-### A Puzzle Too Puzzling?
+## ADHD Followthrough Fatigue: Why You Burn Out Halfway Through a Task
 
 Jamie called this feeling "ADHD followthrough fatigue." It's when your brain says, "Let’s go!" but then spots a squirrel and forgets about the marathon. It happens a lot when you have ADHD. You start with a rocket boost, then suddenly you're out of fuel on the moon.
 
@@ -35,7 +35,7 @@ One minute, our bunny is hopping with purpose, ready to save the day. The next, 
 
 Amidst all this, he can't help but feel the weight of his [ADHD big dreams no follow through](/pages/adhd-big-dreams-no-follow-through/), as grand visions of elaborate castles in the sky seem just out of reach, yet so vivid in his imagination.
 
-### Bunny's Battle with the Blanket of Fatigue
+## ADHD Energy Drain: How to Manage Burnout from Half-Finished Efforts
 
 Now, imagine this fatigue as a big, comfy blanket. It sounds nice, right? But not when you're trying to be a knight. Our bunny tries to throw off the blanket, but it's cozy and persuasive, whispering, "Stay a bit longer."
 
@@ -45,7 +45,7 @@ So, how does our bunny hero keep his hop? He learns to take small leaps. One paw
 
 After a whirlwind of excitement and energy, Sam was feeling the weight of ADHD followthrough fatigue. The once sparkling ideas seemed to dim under the shadow of exhaustion. Yet, Sam wasn't ready to give up just yet. With a deep breath, they reminded themselves that every cloud has a silver lining—even if it's a bit frayed.
 
-### A Spoonful of Perseverance!
+## ADHD and Motivation: How to Keep Going When You’re Ready to Quit
 
 In those moments, the fear of unfulfilled potential crept in, but Sam knew that overcoming the [ADHD Fear of Failure](/pages/adhd-fear-of-failure/) was just another hill to climb.
 
@@ -57,7 +57,7 @@ In the cozy embrace of the clubhouse, surrounded by friends and finished tasks, 
 
 So, whenever you feel overwhelmed, remember Sam and their spoonful of perseverance. Tackle one task, then the next. And always, always keep your friends close. They're your cheerleaders on the sidelines of this playful game called life.
 
-## Quickfire ADHD Checklist
+## ADHD Burnout Checklist: Simple Tricks to Keep Energy Flowing
 
 1. **Charge Your Brain Batteries!** When your mind feels like a sleepy kitten, take a quick nap or dance break.
 
@@ -67,11 +67,11 @@ So, whenever you feel overwhelmed, remember Sam and their spoonful of perseveran
 
 4. **Magic Mind Potion!** Sip some water—imagine it’s a sparkling potion to zap away that ADHD followthrough fatigue.
 
-## Frequently Asked Questions
+## ADHD Followthrough Fatigue: Frequently Asked Questions
 
 
 
-### What People Are Googling
+### ADHD Energy Slumps: What People Search About Mid-Task Burnout
 
 <details><summary>Why do I feel so tired after trying to focus with ADHD?</summary><p>It's completely understandable to feel tired after a period of intense focus, especially with ADHD. Your brain has been doing some heavy lifting! Trying to maintain concentration can be more demanding for someone with ADHD, as it often requires a greater amount of effort and energy to manage distractions and keep on task. Think of it like running a mental marathon; it's totally okay to feel exhausted after reaching that finish line. Give yourself permission to rest and recharge.</p></details>
 <details><summary>How to improve follow-through when you have ADHD?</summary><p>Improving follow-through when you have ADHD can definitely be a cozy and manageable affair! Start by breaking tasks into smaller, more digestible steps, making it less overwhelming and easier to start. A visual or digital planner can be a comforting companion, helping you keep track of your tasks and deadlines. Remember, celebrating small victories along the way can make the journey feel more rewarding and motivating. You're doing great, just take it one step at a time!</p></details>
@@ -81,7 +81,7 @@ So, whenever you feel overwhelmed, remember Sam and their spoonful of perseveran
 
 
 
-### Practical FAQs
+### ADHD Focus & Fatigue: Practical Tips for Sustaining Attention
 
 <details><summary>What is ADHD followthrough fatigue and how does it affect daily life?</summary><p>ADHD follow-through fatigue is a common feeling among individuals with ADHD, where the initial energy and enthusiasm for a new project or task dissipate, and completing it becomes unexpectedly challenging. This often occurs because the novelty that initially stimulates the ADHD brain fades, making sustained attention and interest harder to maintain. In daily life, this can lead to a cycle of uncompleted tasks and projects, which might feel frustrating and impact self-esteem. Recognizing this pattern can help in developing strategies to break tasks into smaller, manageable steps and finding ways to reintroduce novelty and interest to sustain momentum.</p></details>
 <details><summary>What are the common symptoms of ADHD followthrough fatigue?</summary><p>Absolutely, it's really great that you're looking into this! ADHD followthrough fatigue, or simply feeling drained after trying to keep up with day-to-day tasks, is quite common. You might notice symptoms like feeling overwhelmingly tired after completing tasks, a sense of dissatisfaction no matter the effort put in, or even avoiding starting new tasks because past tasks have been so draining. It’s important to remember that this doesn't reflect your capabilities or worth; it's just another part of navigating ADHD.</p></details>
@@ -91,7 +91,7 @@ So, whenever you feel overwhelmed, remember Sam and their spoonful of perseveran
 
 
 
-### Curious ADHD Questions
+### ADHD Task Fatigue Questions: Quirky Curiosities That Deserve Real Answers
 
 <details><summary>Why does 'ADHD followthrough fatigue' make me feel like I'm wearing lead boots?</summary><p>That feeling of wearing lead boots when you're struggling with ADHD follow-through fatigue is incredibly common and completely understandable. ADHD can make it challenging to manage and sustain energy levels, especially after the initial excitement of starting a project wears off. This can leave you feeling unusually heavy and sluggish, almost as if every step forward is a monumental effort. Remember, it's okay to acknowledge this fatigue and adjust your pace accordingly. Taking things step by step with regular breaks can sometimes make those "boots" feel a bit lighter.</p></details>
 <details><summary>How can I explain 'ADHD followthrough fatigue' to a friend who doesn't get it?</summary><p>Absolutely, explaining "ADHD follow-through fatigue" to someone who isn't familiar can feel a bit daunting, but here's a cozy way to put it: Imagine every task you want to complete is like starting a new little campfire. For someone with ADHD, it’s not just about lighting the fire; it’s about gathering the wood, remembering where the matches are, and keeping the fire going despite wind and rain. Each step requires energy, and when you’re trying to manage multiple fires, it can be really exhausting, even if some fires seem small. Sharing this analogy might help your friend visualize why follow-through can be so tiring and why it’s more challenging with ADHD.</p></details>

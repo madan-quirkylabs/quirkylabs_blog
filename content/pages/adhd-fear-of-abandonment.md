@@ -25,7 +25,7 @@ Lucy had a mind like a butterfly garden—colorful, fluttery, and always a bit c
 
 The next day, Lucy felt a familiar pang. It was her ADHD fear of abandonment, buzzing like a pesky mosquito. What if Max thought she didn't care? What if he didn't want to be friends anymore?
 
-### A Mindful Misadventure
+## ADHD Abandonment Fears: When You Think They’ll Leave
 
 Lucy decided to tackle the problem head-on. She grabbed her polka-dotted boots and a notebook. "To Max's house!" she declared with a superhero's gusto.
 
@@ -42,7 +42,7 @@ Sparky worried his forest friends might one day disappear, leaving him to scurry
 
 In his heart, Sparky also harbored a nagging worry that he was [too much for his friends](/pages/adhd-too-much-for-others/), a common feeling among those with ADHD, which made his treasure map plan feel even more crucial.
 
-### A Nutty Solution
+## ADHD and Friendship Anxiety: Creative Ways to Stay Connected
 
 Sparky had an idea! "What if I create a treasure map?" he thought. "A map that leads to my stash of nuts, but also to fun places in our forest!" By sharing his map, he hoped to remind his friends of all the fun they had together.
 
@@ -62,7 +62,7 @@ Jamie couldn't help but often feel she was [ADHD Too Much For Others](/pages/adh
 
 Luna smiled, her eyes twinkling like stars. "I'm here, always."
 
-### Stars Can't Shine Without Darkness
+## ADHD Fear of Being Left Behind: Finding Security Through Support
 
 They promised to support each other, no matter what. Every fear seemed smaller, every joy bigger.
 
@@ -72,16 +72,14 @@ Together, they learned that friendship was the light that made the dark less dau
 
 So, if you ever feel a breeze of loneliness, remember Jamie and Luna. Find your Luna, share your story, and watch the stars come out. You're not alone. Not really. Not ever.
 
-## Quickfire ADHD Checklist
+## ADHD Abandonment Toolkit: Playful Steps to Feel Secure
 
 1. 🚀 Strap on your jetpack! Always return texts and calls to keep connections flying high.
 2. 🌱 Water your friendship garden. Regular check-ins help relationships bloom, not doom!
 3. 🧩 Missing puzzle piece alert! Make sure everyone knows they fit perfectly in your wacky world.
 4. 🎢 Ride the rollercoaster together. Share your highs and lows; loop friends in your loop-the-loops!
 
-## Frequently Asked Questions
-
-
+## ADHD Abandonment FAQs: How to Build Trust and Connection
 
 ### What People Are Googling
 

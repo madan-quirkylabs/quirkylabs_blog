@@ -25,7 +25,7 @@ Once upon a time, in the colorful town of Bustleton, there lived a cheery squirr
 
 Sammy had a case of what the wise old owl called "ADHD hustle burnout." It's like when you're trying to do a million things, and suddenly, your brain feels like it's made of jelly.
 
-### Can Sammy Slow Down?
+## ADHD Overachievement Cycle: How to Spot the Crash Before It Hits
 
 One sunny morning, Sammy was zipping from tree to tree, organizing an acorn festival, painting a mural, and learning a new dance routine. Phew! Just listing his tasks was exhausting.
 
@@ -33,7 +33,7 @@ His friends noticed Sammy's frazzled whiskers and droopy tail. "Maybe take a tin
 
 In the first part, we met Taylor, the tireless turtle with a shiny, supercharged jetpack strapped snugly to her shell. Taylor loved zooming around, the whoosh of tasks and tasks ticking off like a well-oiled checklist. But even super turtles need to watch their fuel gauge.
 
-### Watch Out for the Red Zone!
+## ADHD Rest Guilt: Why It’s So Hard to Slow Down
 
 As she lay thinking under the sun, Taylor couldn't help but feel a pang of [ADHD and guilt doing nothing](/pages/adhd-and-guilt-doing-nothing/), wondering if she was wasting precious time just lying there.
 
@@ -49,7 +49,7 @@ Jamie decided it was time to sprinkle some fun breaks into their day. They start
 
 Amid these joyful breaks, Jamie also grappled with the [ADHD fear of stopping](/pages/adhd-fear-of-stopping/), worried that slowing down might halt their productivity completely.
 
-### A New Chapter Begins
+## ADHD and Energy Management: How to Recharge Without Shame
 
 Each break was like a little recharge, filling Jamie’s energy tank one giggle at a time. They learned that by managing their energy smarter, not harder, they could keep the burnout monster at bay.
 
@@ -57,18 +57,16 @@ Jamie’s days became more colorful, like a garden blooming in fast-forward. The
 
 Remember, everyone’s storybook has its own pace. Jamie’s tale teaches us to enjoy each chapter, even if it means pausing to breathe or laugh. After all, every hero needs a rest to save the day with a smile!
 
-## Quickfire ADHD Checklist
+## ADHD Hustle Burnout Checklist: Signs You’re Doing Too Much
 
 1. 🥞 Stack your plate too high? Time to scrape off a few tasks!
 2. 🎢 Feel like a circus juggler on a rollercoaster? Hit the brakes!
 3. 🐢 Racing like a hare? Slow down, channel your inner tortoise.
 4. 🔋 Finding your battery flashing red? Plug in to your happy charger!
 
-## Frequently Asked Questions
+## ADHD Hustle Burnout: Frequently Asked Questions
 
-
-
-### What People Are Googling
+### ADHD Burnout Causes: What People Search When They’re Running on Empty
 
 <details><summary>Why does ADHD make me burn out quickly?</summary><p>Experiencing quick burnout with ADHD is quite common and completely understandable. Your brain is often working in overdrive managing a myriad of thoughts, stimuli, and emotions, which can be incredibly exhausting. The effort to maintain focus and organization in daily tasks can also consume a lot of your energy, leading to burnout faster than you might expect. It’s important to recognize these feelings and give yourself permission to take regular breaks and practice self-care — you're doing more hard work than you realize!</p></details>
 <details><summary>How to manage hustle culture with ADHD?</summary><p>Navigating hustle culture with ADHD can definitely feel overwhelming at times, but it’s totally manageable with some personalized strategies. Start by setting clear boundaries for your work and rest periods, ensuring you have enough downtime to recharge—remember, rest is productive too! It’s also helpful to prioritize tasks by breaking them down into smaller, more manageable steps, and perhaps using tools like timers or apps designed for focus and productivity. Above all, be kind to yourself and remember that your value isn't defined by your productivity—finding a balance that suits your unique pace is key.</p></details>
@@ -78,7 +76,7 @@ Remember, everyone’s storybook has its own pace. Jamie’s tale teaches us to 
 
 
 
-### Practical FAQs
+### ADHD Overdrive Mode: Practical Tips for Avoiding Burnout Cycles
 
 <details><summary>What is ADHD hustle burnout and how does it differ from regular burnout?</summary><p>ADHD hustle burnout is a specific type of exhaustion that can affect individuals with ADHD after periods of intense focus or hyperactivity, often known as "hyperfocus." While regular burnout generally stems from prolonged stress and overwork, ADHD hustle burnout can also arise from the constant effort of managing ADHD symptoms, such as staying organized or keeping up with daily tasks. This can be especially taxing because it involves a cycle of intense engagement followed by periods of significant depletion, which can feel like you're running a marathon at sprint speed. Understanding this unique pattern can help in finding strategies that cater specifically to the rhythm of ADHD, ensuring you manage energy levels more sustainably.</p></details>
 <details><summary>What are the common symptoms of ADHD hustle burnout?</summary><p>Absolutely, it’s really important to recognize the signs of what’s often called ADHD hustle burnout. This can include feeling overwhelmingly tired despite resting, a sense of mental fog or difficulty concentrating that goes beyond your usual ADHD experiences, and even a loss of interest in activities you normally enjoy. You might also notice increased irritability and difficulty managing emotions, which isn't uncommon when you’ve been pushing yourself too hard. It’s like your brain deciding to put up a little “out of order” sign after too much stress or overstimulation. Remember, noticing these signs is the first step toward taking care of yourself!</p></details>
@@ -88,7 +86,7 @@ Remember, everyone’s storybook has its own pace. Jamie’s tale teaches us to 
 
 
 
-### Curious ADHD Questions
+### ADHD Productivity Burnout: Questions People Ask When They’re Exhausted
 
 <details><summary>Why does my 'ADHD hustle burnout' make me feel like a deflated balloon at a party?</summary><p>Oh, that feeling is definitely tough, and you're not alone in experiencing it. When you have ADHD, you often find yourself in a cycle of high energy bursts followed by intense crashes, much like a balloon that’s been overinflated and suddenly loses air. This "hustle burnout" happens because you might push beyond your limits during periods of high motivation, only to feel completely drained afterward. It's like your mind and body have been running a marathon at a sprint pace, and suddenly, you're feeling every bit of that exhaustive effort. Remember, it’s okay to rest and recharge, just like how a quiet corner at a party can be a welcome respite.</p></details>
 <details><summary><p>Ah, the deflated balloon feeling is quite a vivid image, isn't it? When you're experiencing 'ADHD hustle burnout', it's like all the air – your energy and enthusiasm – has been whooshed out, leaving you feeling flat and unanimated. This happens because constantly hustling with ADHD can lead you to overextend yourself without adequate breaks, much like a balloon being overinflated until it can't hold any more air. Remember, even balloons need a little rest to stay afloat and lively at the party!</p></summary><p>Absolutely, the analogy of a deflated balloon is spot-on when describing ADHD hustle burnout! It’s really important to remember to pace yourself and incorporate regular breaks into your routine. Just like a balloon that needs a bit of rest to avoid popping, your mind and body require downtime to recharge and maintain your sparkle. Always take a moment to check in with yourself and ensure you're not stretching too thin—it's key to keeping your energy and enthusiasm buoyant!</p></details>

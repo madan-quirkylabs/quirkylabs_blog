@@ -25,7 +25,7 @@ In the bustling village of Mindwell, there was a young squirrel named Sam. Sam w
 
 One sunny morning, Sam decided to organize his nut collection. He started with boundless energy, sorting walnuts from almonds. But soon, his mind darted to the kite festival next weekend. Then to the new treehouse by the creek. And back to nuts. Oh, his thoughts were like fireflies on a warm summer night!
 
-### A Nutty Situation
+## ADHD and Intelligence: Why You Feel Dumb (and Why You’re Not)
 
 By noon, Sam had mixed up all his nuts again. His tiny paws shuffled them around, trying to remember which pile was which. A walnut ended up with the almonds, and a pecan with the cashews. What a mix-up!
 
@@ -35,7 +35,7 @@ But his friend, Lily the rabbit, hopped over with a smile. She always knew how t
 
 As our hero, Sparky the squirrel, scurried through his nut-collecting adventures, he often felt a bit silly. “Why can't I remember where I buried those acorns?” he'd mutter, scratching his head. This made Sparky feel like he wasn’t as sharp as the other squirrels in the grove. It’s a feeling some kids with ADHD might relate to, like when they think, “Why can’t I focus like everyone else?”
 
-### Nutty Mishaps and Bright Ideas
+## ADHD Coping Tips: How to Reframe Mistakes and Celebrate Creativity
 
 During his struggles, Sparky often battled with feelings of [ADHD Failure Identity](/pages/adhd-failure-identity/), which made his successes even more meaningful.
 
@@ -51,7 +51,7 @@ Mrs. Parker smiled as she watched Jamie bounce back, her spirit unbroken. "You s
 
 Feeling the weight of past judgments, she also understood that this was a moment to shed the labels of being [ADHD Always In Trouble](/pages/adhd-always-in-trouble/), embracing the chaos as part of her colorful journey.
 
-### A Spectrum of Colors
+## ADHD Self-Esteem Boost: Embracing Your Unique Brain and Talents
 
 Jamie's eyes sparkled. She was beginning to see her ADHD as a vibrant palette of colors, each one bursting with potential. Instead of feeling overwhelmed at her racing thoughts, she decided to channel them into creative projects.
 
@@ -61,7 +61,7 @@ Every night, Jamie would read her journal, amazed at her own creativity. She no 
 
 So, if you ever feel like your thoughts are too much, remember Jamie. Grab your crayons, real or imaginary, and color outside the lines. Who knows what beautiful pictures you might create?
 
-## Quickfire ADHD Checklist
+## ADHD Confidence Checklist: Quirky Ways to Feel Smarter and Stronger
 
 🌟 **Quirky Checklist for When ADHD Makes You Feel Like a Noodle in a Salad Bowl** 🌟
 
@@ -75,11 +75,11 @@ So, if you ever feel like your thoughts are too much, remember Jamie. Grab your 
 
 Remember, your brain is just wearing mismatched socks – funky and totally unique!
 
-## Frequently Asked Questions
+## ADHD Feeling Dumb: Frequently Asked Questions
 
 
 
-### What People Are Googling
+### ADHD and Intelligence: What People Are Searching for Online
 
 <details><summary>Why do I feel dumb with ADHD?</summary><p>Feeling like this is actually more common than you might think among folks with ADHD. Your brain is wired to handle tasks and process information in a unique way, which can sometimes make traditional learning styles or everyday tasks feel challenging. This doesn't mean you're dumb at all; it's just that your incredible brain is tuned to operate differently—often excelling in creativity, problem-solving, and innovation. Remember, recognizing and embracing how you learn and interact with the world can really help you see the strengths in your unique cognitive style.</p></details>
 <details><summary>Does ADHD make you feel less intelligent?</summary><p>Absolutely not! ADHD does not measure your intelligence or limit your capabilities; rather, it's about how your brain manages attention and regulates impulses. Many people with ADHD are incredibly creative, quick thinkers, and have unique problem-solving skills. It's important to remember that intelligence is diverse, and ADHD can actually contribute to seeing the world in innovative and special ways.</p></details>
@@ -89,7 +89,7 @@ Remember, your brain is just wearing mismatched socks – funky and totally uniq
 
 
 
-### Practical FAQs
+### ADHD and Self-Esteem: Practical Support Strategies for Feeling Smarter
 
 <details><summary>Why do people with ADHD feel dumb?</summary><p>It’s really common for folks with ADHD to feel this way, but it’s important to remember that feeling “dumb” often stems from misunderstanding ADHD’s unique impact on learning and processing information. ADHD can make it tricky to focus, remember details, or follow instructions, which might make traditional learning environments challenging. This doesn’t reflect your intelligence or potential at all! Instead, it highlights a need for learning and working environments that are better suited to your unique wiring and strengths.</p></details>
 <details><summary>How can someone with ADHD who feels dumb improve their self-esteem?</summary><p>Oh, it's so important to remember that feeling "dumb" doesn't reflect your true capabilities or worth at all! Everyone has unique strengths and areas where they might struggle, especially with ADHD in the mix. A great start to boosting your self-esteem is to explore and embrace what you naturally excel at — perhaps you're incredibly creative, uniquely empathetic, or have a knack for thinking outside the box. Also, consider surrounding yourself with supportive people who understand ADHD and can celebrate your successes and help you navigate challenges. You're far more wonderful and capable than you might feel in the tough moments!</p></details>
@@ -99,7 +99,7 @@ Remember, your brain is just wearing mismatched socks – funky and totally uniq
 
 
 
-### Curious ADHD Questions
+### ADHD Self-Doubt Moments: Honest Answers to Real-Life Brain Wobbles
 
 <details><summary>Why do some people with ADHD feel dumb when they forget simple things?</summary><p>It's really common for individuals with ADHD to feel this way, but remember, forgetting simple things doesn't make you dumb at all! ADHD can affect how you manage and recall information, which means sometimes your brain might skip over a few details like where you put your keys or an appointment date. This happens because the ADHD brain is wired to be really good at focusing on high-interest tasks, so it might overlook the mundane ones. Always be kind to yourself and remember that each brain has its unique strengths – yours just happens to excel in creativity and big-picture thinking!</p></details>
 <details><summary>How can I support a friend who has ADHD and often says they 'feel dumb'?</summary><p>It’s wonderful that you want to support your friend! One of the best ways to help is by reminding them of their unique strengths and talents, which are often plentiful but overshadowed by their struggles. Encourage them to explore and engage in activities where they feel capable and enthusiastic, as success in these areas can boost their self-esteem. Additionally, offer a listening ear and validate their feelings without immediately trying to fix the problem, as just being understood can be incredibly comforting. Your support can make a real difference in how they view themselves!</p></details>
