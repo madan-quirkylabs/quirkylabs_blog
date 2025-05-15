@@ -1,14 +1,16 @@
 ---
-title: "Find Joy & Ease: ADHD Working Hard to Fit In"
-description: "Explore 'ADHD working hard to fit in' and feel the embrace of understanding. Discover how our playful insights uplift and validate your journey. Join us, it’s okay to wobble!"
+title: "ADHD and Fitting In: Why You Try So Hard & Still Feel Off"
+description: "Trying to fit in with ADHD can feel exhausting. Explore why it's so tough and how to stop bending yourself out of shape just to belong. You already do."
 slug: "adhd-working-hard-to-fit-in"
 date: 2025-05-03
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD fitting in strategies", "ADHD social challenges", "managing ADHD in social settings", "ADHD coping techniques", "adult ADHD emotional support", "ADHD validation stories", "ADHD playful coping"]
-keywords: ["ADHD fitting in strategies", "ADHD social challenges", "managing ADHD in social settings", "ADHD coping techniques", "adult ADHD emotional support", "ADHD validation stories", "ADHD playful coping"]
+tags: ["ADHD fitting in", "ADHD social challenges", "masking ADHD", "ADHD acceptance", "ADHD and belonging", "adult ADHD social struggles", "authenticity with ADHD"]
+keywords: ["ADHD fitting in", "ADHD social challenges", "masking ADHD", "ADHD acceptance", "ADHD and belonging", "adult ADHD social struggles", "authenticity with ADHD"]
 og_image: "/og/adhd-working-hard-to-fit-in.png"
+og_title: "ADHD and Fitting In: Why You Try So Hard & Still Feel Off"
+og_description: "Trying to fit in with ADHD can feel exhausting. Explore why it's so tough and how to stop bending yourself out of shape just to belong. You already do."
 ---
 
 Imagine ADHD as a bouncy ball in a glass shop. Bounce, bounce, dodge!

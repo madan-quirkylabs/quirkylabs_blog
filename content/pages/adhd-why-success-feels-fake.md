@@ -1,14 +1,16 @@
 ---
-title: "ADHD why success feels fake: Unlock Real Joy: Why ADHD Makes Success Feel Fake!"
-description: "ADHD why success feels fake: Explore why with ADHD, why success feels fake, and how to cherish your wins. Dive into a blog that understands and uplifts you, making every achievement truly yours."
+title: "ADHD and Imposter Syndrome: Why Success Feels Fake"
+description: "Do your wins feel fake with ADHD? Learn why imposter syndrome hits hard for ADHDers and how to actually believe in your own success. You earned it."
 slug: "adhd-why-success-feels-fake"
 date: 2025-05-03
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD and imposter syndrome", "ADHD success feels fake", "celebrating ADHD achievements", "invisible trophies ADHD", "understanding ADHD emotional themes", "ADHD adult success perception", "ADHD and self-doubt"]
-keywords: ["ADHD and imposter syndrome", "ADHD success feels fake", "celebrating ADHD achievements", "invisible trophies ADHD", "understanding ADHD emotional themes", "ADHD adult success perception", "ADHD and self-doubt"]
+tags: ["ADHD and imposter syndrome", "ADHD success doubts", "celebrating ADHD wins", "ADHD and self-esteem", "ADHD validation", "adult ADHD emotions", "ADHD achievement mindset"]
+keywords: ["ADHD and imposter syndrome", "ADHD success doubts", "celebrating ADHD wins", "ADHD and self-esteem", "ADHD validation", "adult ADHD emotions", "ADHD achievement mindset"]
 og_image: "/og/adhd-why-success-feels-fake.png"
+og_title: "ADHD and Imposter Syndrome: Why Success Feels Fake"
+og_description: "Do your wins feel fake with ADHD? Learn why imposter syndrome hits hard for ADHDers and how to actually believe in your own success. You earned it."
 ---
 
 Imagine you're a magician in a world where everyone forgets the magic show. You pull a rabbit out of a hat, everyone claps, but then... poof! They forget. 

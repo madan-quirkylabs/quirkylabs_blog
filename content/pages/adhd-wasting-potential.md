@@ -1,14 +1,16 @@
 ---
-title: "Unlock Your Magic: Stop ADHD Wasting Potential Now!"
-description: "Discover the truth behind \"ADHD wasting potential\" and feel empowered! Our blog offers cozy insights and playful validation to help you find your perfect key. Let's race to possibilities together!"
+title: "ADHD Wasting Potential: Why It Feels Like You're Falling Behind"
+description: "Feel like you're wasting your potential with ADHD? Learn why this feeling shows up and how to reclaim your spark with quirky, science-backed strategies."
 slug: "adhd-wasting-potential"
 date: 2025-05-03
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD and unrealized potential", "finding focus with ADHD", "managing ADHD distractions", "ADHD creativity challenges", "ADHD support strategies", "maximizing potential with ADHD", "ADHD motivational techniques"]
-keywords: ["ADHD and unrealized potential", "finding focus with ADHD", "managing ADHD distractions", "ADHD creativity challenges", "ADHD support strategies", "maximizing potential with ADHD", "ADHD motivational techniques"]
+tags: ["ADHD and unrealized potential", "ADHD motivation", "managing ADHD distractions", "ADHD creativity blocks", "ADHD self-worth", "maximizing ADHD strengths", "ADHD emotional support"]
+keywords: ["ADHD and unrealized potential", "ADHD motivation", "managing ADHD distractions", "ADHD creativity blocks", "ADHD self-worth", "maximizing ADHD strengths", "ADHD emotional support"]
 og_image: "/og/adhd-wasting-potential.png"
+og_title: "ADHD Wasting Potential: Why It Feels Like You're Falling Behind"
+og_description: "Feel like you're wasting your potential with ADHD? Learn why this feeling shows up and how to reclaim your spark with quirky, science-backed strategies."
 ---
 
 Imagine your brain is like a super-duper, shiny sports car. But guess what? You've got a hundred keys and only one fits! You try one, nope. Another, nope. Frustrating, right?

@@ -1,14 +1,16 @@
 ---
-title: "Unlock Energy: Cozy Up with 'ADHD Wired But Tired' Tips!"
-description: "Feeling 'ADHD wired but tired'? Dive into our blog for cozy chats and uplifting insights. It's a warm, playful space where your buzzing mind feels right at home!"
+title: "ADHD Wired But Tired: Why You Can’t Sleep But Can’t Focus Either"
+description: "Feel wired but tired with ADHD? Here's why your brain buzzes at bedtime and how to find rest in a way that works for you. Cozy strategies included!"
 slug: "adhd-wired-but-tired"
 date: 2025-05-03
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD wired but tired", "ADHD energy management", "ADHD sleep issues", "ADHD playful coping", "ADHD creative strategies", "adult ADHD lifestyle tips", "managing ADHD fatigue"]
-keywords: ["ADHD wired but tired", "ADHD energy management", "ADHD sleep issues", "ADHD playful coping", "ADHD creative strategies", "adult ADHD lifestyle tips", "managing ADHD fatigue"]
+tags: ["ADHD wired but tired", "ADHD energy regulation", "ADHD sleep struggles", "ADHD rest hacks", "ADHD daily fatigue", "adult ADHD rhythms", "ADHD lifestyle tips"]
+keywords: ["ADHD wired but tired", "ADHD energy regulation", "ADHD sleep struggles", "ADHD rest hacks", "ADHD daily fatigue", "adult ADHD rhythms", "ADHD lifestyle tips"]
 og_image: "/og/adhd-wired-but-tired.png"
+og_title: "ADHD Wired But Tired: Why You Can’t Sleep But Can’t Focus Either"
+og_description: "Feel wired but tired with ADHD? Here's why your brain buzzes at bedtime and how to find rest in a way that works for you. Cozy strategies included!"
 ---
 
 Imagine your brain is like a hyper puppy in a big park—zoomies galore! It races from one shiny thought to the next, never pausing for a breath.

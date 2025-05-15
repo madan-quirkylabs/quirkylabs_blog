@@ -1,14 +1,16 @@
 ---
-title: "adhd why cant i love myself: \"Unlock Self-Love: Why ADHD Can't Dim Your Spark!\""
-description: "Discover the magic of self-acceptance with \"adhd why cant i love myself.\" Feel seen, understood, and uplifted as you learn to dance to your own buzzy bee rhythm. Join us and find your cozy nook!"
+title: "ADHD and Self-Love: Why It's So Hard to Love Yourself Sometimes"
+description: "Struggle with self-love and ADHD? You’re not alone. Discover why your brain makes it tough — and how to start loving yourself with warmth and playfulness."
 slug: "adhd-why-cant-i-love-myself"
 date: 2025-05-07
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD self-acceptance", "ADHD self-love challenges", "managing ADHD in adulthood", "ADHD emotional regulation", "ADHD and self-esteem", "ADHD personal stories", "ADHD creative expression"]
-keywords: ["ADHD self-acceptance", "ADHD self-love challenges", "managing ADHD in adulthood", "ADHD emotional regulation", "ADHD and self-esteem", "ADHD personal stories", "ADHD creative expression"]
+tags: ["ADHD self-love", "ADHD self-acceptance", "ADHD emotional challenges", "managing ADHD in adulthood", "ADHD and self-esteem", "ADHD healing journeys", "ADHD self-compassion"]
+keywords: ["ADHD self-love", "ADHD self-acceptance", "ADHD emotional challenges", "managing ADHD in adulthood", "ADHD and self-esteem", "ADHD healing journeys", "ADHD self-compassion"]
 og_image: "/og/adhd-why-cant-i-love-myself.png"
+og_title: "ADHD and Self-Love: Why It's So Hard to Love Yourself Sometimes"
+og_description: "Struggle with self-love and ADHD? You’re not alone. Discover why your brain makes it tough — and how to start loving yourself with warmth and playfulness."
 ---
 
 Imagine your brain is like a super-busy bee, zipping from flower to flower. It's hard to settle on just one!

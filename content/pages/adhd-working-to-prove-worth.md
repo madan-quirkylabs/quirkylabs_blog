@@ -1,14 +1,16 @@
 ---
-title: "adhd working to prove worth: \"Win at Work: Let ADHD Fuel Your Quest for Success!\""
-description: "Explore 'ADHD working to prove worth' in a cozy blog that understands your unique hops and leaps. Feel uplifted as you discover how each jump showcases your worth!"
+title: "ADHD Working to Prove Worth: Why You Push So Hard & Still Doubt Yourself"
+description: "Do you keep working to prove your worth with ADHD? Here’s why that loop starts — and how to break free without losing your drive or identity."
 slug: "adhd-working-to-prove-worth"
 date: 2025-05-07
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD proving worth at work", "ADHD productivity strategies", "ADHD workplace success", "ADHD and self-esteem", "celebrating ADHD strengths", "ADHD motivation techniques", "ADHD and overcoming challenges"]
-keywords: ["ADHD proving worth at work", "ADHD productivity strategies", "ADHD workplace success", "ADHD and self-esteem", "celebrating ADHD strengths", "ADHD motivation techniques", "ADHD and overcoming challenges"]
+tags: ["ADHD proving worth", "ADHD workplace pressure", "ADHD self-worth issues", "ADHD motivation patterns", "adult ADHD emotional health", "overcoming ADHD doubt", "ADHD strengths"]
+keywords: ["ADHD proving worth", "ADHD workplace pressure", "ADHD self-worth issues", "ADHD motivation patterns", "adult ADHD emotional health", "overcoming ADHD doubt", "ADHD strengths"]
 og_image: "/og/adhd-working-to-prove-worth.png"
+og_title: "ADHD Working to Prove Worth: Why You Push So Hard & Still Doubt Yourself"
+og_description: "Do you keep working to prove your worth with ADHD? Here’s why that loop starts — and how to break free without losing your drive or identity."
 ---
 
 Imagine ADHD as a bouncy little frog, always hopping from lily pad to lily pad. Today, it's a big pond, full of chances to show how high and far it can leap.

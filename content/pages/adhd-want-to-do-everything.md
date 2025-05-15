@@ -1,3 +1,17 @@
+---
+title: "ADHD Want to Do Everything: Why You Crave All the Things at Once"
+description: "Why does ADHD make you want to start every hobby, job, or passion project at once? Discover why your brain says 'yes' to everything — and how to channel it."
+slug: "adhd-want-to-do-everything"
+date: 2025-05-07
+draft: false
+type: "page"
+categories: ["ADHD Guides"]
+tags: ["ADHD multiple interests", "managing ADHD excitement", "ADHD project starting", "ADHD focus strategies", "ADHD creative ideas", "embracing ADHD curiosity", "ADHD productivity tips"]
+keywords: ["ADHD multiple interests", "managing ADHD excitement", "ADHD project starting", "ADHD focus strategies", "ADHD creative ideas", "embracing ADHD curiosity", "ADHD productivity tips"]
+og_image: "/og/adhd-want-to-do-everything.png"
+og_title: "ADHD Want to Do Everything: Why You Crave All the Things at Once"
+og_description: "Why does ADHD make you want to start every hobby, job, or passion project at once? Discover why your brain says 'yes' to everything — and how to channel it."
+---
 
 Imagine your brain is a bouncy castle at the busiest birthday party ever. Thoughts jump around like hyper kids high on cake and juice.
 
