@@ -29,7 +29,7 @@ In the heart of the bustling city of Mindville, there lived a bright, spirited k
 
 One sunny morning, Alex woke up buzzing with excitement. Today was the day to work on their grand castle project for school. But first, a quick superhero cartoon wouldn't hurt, right?
 
-### The Battle of Distractions
+## ADHD and Self-Sabotage: Why Distractions Derail You
 
 As the TV blared, the clock ticked sneaky ticks. Alex, lost in the land of heroes and villains, forgot about the castle waiting to rise from its blueprint ashes. The clock's hands danced round and round, playing tag with the hours.
 
@@ -41,7 +41,7 @@ Captain Focus tries to sail straight, but the whirlpools are magnetic! His ship,
 
 Amidst the chaos, Captain Focus also battles the silent storm of [ADHD impostor syndrome](/pages/adhd-impostor-syndrome/), questioning his own capabilities as a captain, despite his proven skills.
 
-### A Whirlpool Named Procrastination
+## Procrastination and ADHD: Escaping the Self-Sabotage Spiral
 
 Just then, a giant whirlpool named Procrastination appears. It's huge and spins with enticing distractions. Captain Focus knows he shouldn't listen, but the whirlpool’s song is catchy. "Later is better," it hums.
 
@@ -55,7 +55,7 @@ They gathered on the deck, under the twinkling stars, and made a pact. They woul
 
 Amid their commitments, the captain openly addressed another hidden challenge, saying, "We also need to be vigilant about not just drifting but overcompensating; it's easy to push too hard to prove ourselves." [Read more about ADHD Overcompensating](/pages/adhd-overcompensating/).
 
-### A Treasure Map to Better Days
+## How to Break ADHD Self-Sabotage with Strategy and Support
 
 With teamwork, they crafted a new map. This map had clear marks to avoid the common traps of distraction and procrastination. Each crew member had a role, playing to their strengths and keeping the ship sailing smoothly.
 

@@ -26,13 +26,13 @@ In the bustling town of Brainwave Heights, Jamie couldn't sit still. Even during
 
 "Why does it feel like my ADHD rest doesn't recharge my batteries?" Jamie sighed, flopping onto their colorful beanbag.
 
-### When Rest Feels Like Work
+## Why Rest Doesn’t Recharge ADHD Brains (and What Actually Helps)
 
 Jamie's room was a fortress of comfy pillows and calming blue lights. But even in this cozy den, rest was like trying to hold onto a slippery fish. So Jamie decided to seek advice from the wise old owl, Professor Hoot.
 
 The streets were lined with trees whispering secrets. Jamie's sneakers squelched on the dewy grass as they made their way to the Professor's treehouse. The journey itself was an adventure filled with distractions—shiny pebbles, curious squirrels, and even a lost kite begging to be chased!
 
-Part 2: Restful Rebellion
+### Breaking the Rules of Rest: How ADHD Needs to Recharge Differently
 
 After the battery saga, Sammy Squirrel was a bit flustered. "So, if traditional rest doesn't recharge my battery, what will?" he wondered aloud. His tail twitched in frustration.
 
@@ -40,7 +40,7 @@ Feeling this fresh perspective on rest, Sammy realized that his usual guilt over
 
 Sammy decided it wasn't time to give up but to get creative. "Maybe I need a different kind of charger!" he chirped excitedly. He scurried up the Knowledge Tree, his favorite spot to think and observe.
 
-### A Squirrel's Solution
+## Playful Recharge: ADHD Rest That Actually Works
 
 At the top, Sammy met Mira the wise old owl. "Oh, Sammy," Mira hooted softly, "not all rest is about being still. Have you tried playful rest or changing activities?"
 
@@ -60,7 +60,7 @@ Alex shared this new insight with his friends, who were amazed to learn about it
 
 Yet this exploration also brought to light that Alex often felt a deep sense of [ADHD and Guilt Doing Nothing](/pages/adhd-and-guilt-doing-nothing/), especially when trying to enjoy these unconventional methods of recharging.
 
-### A New Kind of Fuel
+## Recharge Your ADHD Energy with Unexpected Joyful Routines
 
 Together, they discovered new ways to feel refreshed. Playing short games, enjoying quick walks, or even telling jokes. It wasn't traditional rest, but it worked like magic for Alex!
 

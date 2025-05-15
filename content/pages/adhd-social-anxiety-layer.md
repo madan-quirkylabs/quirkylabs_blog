@@ -25,7 +25,7 @@ Once upon a time, in the bustling town of Brainwave, lived Ziggy, a zippy little
 
 Every time Ziggy got invited to a party, his mind raced like a pinball machine. Lights flashing, thoughts bouncing from corner to corner. What if I say something weird? What if I can't keep up with the chat?
 
-### A Bouncy Ballroom
+## What ADHD Social Anxiety Feels Like in the Moment
 
 Imagine a ballroom where the floor is a trampoline. That's kind of what Ziggy's brain felt like at social events.
 
@@ -35,7 +35,7 @@ Sir Focus tried to greet the friendly trees—Old Oak, Weeping Willow, and Chatt
 
 Amidst his struggle, Sir Focus couldn't help but feel the pangs of [ADHD Rejection Sensitivity](/pages/adhd-rejection-sensitivity/), fearing that his silent moments might be misinterpreted as indifference by the vibrant forest community.
 
-### Oh, That Tricky Cloak!
+## How ADHD Social Anxiety Weighs You Down (And What Helps)
 
 As he trudged deeper into the forest, Sir Focus remembered the advice of Lady Mindful, who once said, "Even the heaviest cloak can be lightened with the right tools." So, he reached into his knapsack, pulling out a small, shiny object: the Amulet of Pause. With a deep breath, he activated the amulet, and the world slowed down, just a tad, but enough.
 
@@ -49,7 +49,7 @@ Mia decided to sketch the sunset, capturing both the chaos and calm. Each stroke
 
 Feeling seen and understood, she realized that this was the connection she had been yearning for, illuminating her struggle with [ADHD loneliness in relationships](/pages/adhd-loneliness-in-relationships/).
 
-### Burst of Brilliance!
+## From Social Fear to Self-Expression: ADHD Confidence Sparks
 
 At school the next day, Mia shared her artwork. Her classmates were captivated. They saw the sunset, but Mia showed them the layers.
 

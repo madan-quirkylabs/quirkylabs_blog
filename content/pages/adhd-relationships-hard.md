@@ -21,7 +21,7 @@ But here's the cool part: every dropped ball can be picked up again. What if we 
 
 In the bustling kitchen of a small, sunny apartment, Jamie was on a culinary adventure. Pots bubbled like tiny volcanoes. Spoons lay scattered like fallen soldiers. Jamie, whose brain danced to a unique rhythm thanks to ADHD, found managing relationships just as chaotic as their cooking process. For someone with ADHD, relationships can be hard, swirling with misunderstood intentions and forgotten dates, much like how Jamie often misplaced their recipes.
 
-### Stirring Up Understanding
+## How ADHD Makes Relationships Hard — and What Actually Helps
 
 Amidst the sizzle and steam, Jamie's partner, Alex, stepped into the kitchen. The scene was a sensory overload, mirroring the complexities of their daily interactions. Jamie often zoomed from one topic to another, like a bee buzzing from flower to flower, which left Alex both amused and bewildered. 
 
@@ -35,7 +35,7 @@ Max noticed some plants needed more water, while others thrived in the sunshine.
 
 Max's dedication to nurturing his garden mirrors his approach to relationships, where he often finds himself [over-apologizing](/pages/adhd-over-apologizing/) to ensure everyone feels valued and understood.
 
-### A Wild, Whimsical Weeding
+## How to Deal with ADHD Relationship Misunderstandings Like a Garden Gnome
 
 One day, Max decided to weed his garden, which was an adventure on its own! Weeds popped up unpredictably, just like misunderstandings in relationships. But Max didn't give up. He gently cleared the weeds, making room for communication and understanding to grow. This made his garden healthier and more beautiful.
 
@@ -51,7 +51,7 @@ In their heart-to-heart, Ella admitted her frequent need for reassurance, knowin
 
 Ella nodded, her eyes reflecting the warm glow of the sunset. "And every piece is important. Just like every moment we share, every challenge we face together makes us stronger."
 
-### A Puzzle Worth Solving
+## ADHD Relationships Are Like Puzzles (And Yes, You Can Solve Them Together)
 
 They made a pact to keep communicating openly, to make sure no piece of their puzzle was ever lost again. They promised to be patient with each other, to learn and grow together.
 
@@ -65,7 +65,7 @@ Together, they stepped forward, ready to embrace every challenge, turning them i
 
 ## Quickfire ADHD Checklist
 
-🌟 **ADHD Relationships: A Quirky Checklist for Navigating the Emotional Rollercoaster!**
+🌟 **Checklist: How to Handle ADHD in Relationships Without Losing Your Mind (Or Socks)**
 
 1. **Keep Your Butterflies in Formation**  
    Sometimes feelings flutter like wild butterflies. Try to guide them gently!

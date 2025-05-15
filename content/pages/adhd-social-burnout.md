@@ -25,7 +25,7 @@ Once upon a breezy afternoon, Jamie, a bright-eyed, bouncy kid with ADHD, was ge
 
 The clock struck three, and the backyard transformed into a carnival of colors and laughter. Kids darted around like pinballs, and Jamie was right in the mix, his words tumbling out faster than popcorn kernels in a hot pan.
 
-### When the Fun Meter Hits the Limit
+## Why ADHD Social Burnout Hits So Hard (and How to Spot It)
 
 But as the clock hands twirled, Jamie's internal fun meter started to flicker. By the hour's end, he felt like a smartphone running on 2% battery. This, my friends, is what adults might call "ADHD social burnout." A moment when the party doesn't stop, but your mind desperately craves a quiet nook.
 
@@ -33,7 +33,7 @@ Jamie glanced around. His feet wanted to dance, but his brain begged for a break
 
 So, there we were, back in the bustling city of Socialopolis, where our hero, Jamie, was learning all about the ups and downs of navigating ADHD social burnout. Remember how Jamie felt like a superhero juggling colorful balloons? Well, sometimes those balloons would start popping left and right—pop, pop, pop! That’s when Jamie knew: "Oops, my social battery's running low!"
 
-### A Balloon Too Many
+## The ADHD Social Burnout Tipping Point: When Enough Is Enough
 
 Amidst the laughter and chatter, Jamie couldn't shake off the feeling of [ADHD loneliness in relationships](/pages/adhd-loneliness-in-relationships/), a reminder that connecting deeply could sometimes feel as elusive as catching smoke with bare hands.
 
@@ -49,7 +49,7 @@ Jamie started to set gentle boundaries, like a gardener deciding how much water 
 
 At times, Jamie also felt the sting of [ADHD rejection sensitivity](/pages/adhd-rejection-sensitivity/), but learning to navigate this helped strengthen their resilience and deepen their self-awareness.
 
-### A Cozy Conclusion
+## How to Recharge After ADHD Social Burnout Without Guilt
 
 With their new strategy, Jamie didn't give up on parties or chatting with friends. Instead, they found a balance. They joined the social whirlwind when it felt fun and stepped back when it was too much. It was like having the best of both worlds!
 

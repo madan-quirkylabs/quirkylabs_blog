@@ -25,7 +25,7 @@ Once upon a bustling brain, there lived an adventurous thought named Archie. Arc
 
 Archie wanted to chill out. Really, he did! But every time he tried to sit still, a million other thoughts invited him to their non-stop dance party. "Come play!" they'd shout, and Archie couldn't resist.
 
-### When Rest Feels Like a Chore
+## Why ADHD Makes Rest Feel Like a Chore (and How to Make It Fun Again)
 
 One cozy evening, Archie decided enough was enough. He needed a break from all the mental gymnastics. He envisioned a quiet nook inside the brain, perhaps near the memory center, where he could relax without all the buzz. But as he settled in, the worries crept in like unwelcome party crashers.
 
@@ -33,7 +33,7 @@ One cozy evening, Archie decided enough was enough. He needed a break from all t
 
 With her mind buzzing like a hive of busy bees, Annie the Antelope found herself facing the mysterious shadow of ADHD rest anxiety. It was like trying to nap in a hammock swaying wildly in the wind. Every time she tried to slow down and relax, her thoughts would jump around like popcorn popping at a carnival.
 
-### Let's Try a Different Path!
+## How to Outsmart ADHD Rest Anxiety (Without Forcing Stillness)
 
 Amidst her struggle, Annie also encountered the haunting notion that her rest might be seen as failure, a common feeling captured at [ADHD Rest Feels Like Failure](/pages/adhd-rest-feels-like-failure/), yet here in her cozy corner, she found the courage to challenge that myth.
 
@@ -45,7 +45,7 @@ Finally, Annie realized that the shadow wasn't her enemy but a signal, reminding
 
 In the heart of the bustling city of Mindopolis, Lucy finally found a cozy little park named Serenity Greens. Here, she decided to tackle her ADHD rest anxiety head-on. Sitting on a soft patch of grass, she took a deep breath and closed her eyes. She imagined tying her whirling thoughts to gentle, colorful balloons, letting them float away into the calm blue sky.
 
-### Balloon Fiesta of Thoughts!
+## Let Your Thoughts Float: ADHD Rest Anxiety Meets Calm Tricks
 
 As she felt the sun warm her face, Lucy also acknowledged the weight of [ADHD and guilt doing nothing](/pages/adhd-and-guilt-doing-nothing/), yet she chose to embrace the tranquility of the moment, proving to herself that stillness can also be productive.
 

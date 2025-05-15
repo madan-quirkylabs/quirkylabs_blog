@@ -21,7 +21,7 @@ Don't worry, though. Every game gets easier with practice. Want to play again an
 
 Once upon a time, in the colorful town of Buzzlewood, lived Timmy Tumbler, a bright-eyed squirrel with a bushy tail and an even bushier schedule. Timmy was known far and wide for his boundless energy and zillion ideas. Yet despite his brilliance, he often found himself tangled in the vines of his own thoughts. It was like every time he tried to focus on gathering nuts, his mind would scamper off to plan a winter fest or invent a new nut-sorting machine!
 
-### A Nutty Predicament
+## Why ADHD Sabotages Success (And What to Do Instead)
 
 One sunny morning, Timmy woke up with a big goal: today, he would gather the most nuts ever! But no sooner had he started his task than he noticed a shiny pebble by the river. "Ooh, shiny!" he exclaimed, and off he went, forgetting all about his nutty mission.
 
@@ -35,7 +35,7 @@ As he began waddling towards the starting line, Timmy remembered he hadn't eaten
 
 Timmy's sprint back to the race was a vivid reminder of the [ADHD Shiny Object Syndrome](/pages/adhd-shiny-object-syndrome/), where distractions veer focus away from important goals.
 
-### Oh, Shiny Pebble or Finish Line?
+## Staying Focused with ADHD: Distractions vs. Goals
 
 Just like Timmy, folks with ADHD often find their success sabotaged by their wandering focus. They set big goals, like winning races or finishing projects. But along the way, shiny distractions pop up, luring their attention away.
 
@@ -47,7 +47,7 @@ With each task completed, Sam felt a little lighter, like a balloon slowly filli
 
 As the sun began to set, Sam realized that ADHD was like a mischievous sprite, often sabotaging success at the most inconvenient times. But today, with the help of friends and a new game plan, success felt closer than ever, despite the familiar tug of [ADHD Big Dreams No Follow Through](/pages/adhd-big-dreams-no-follow-through/).
 
-### Victory Dance!
+## Celebrate Small Wins: ADHD Success Starts Here
 
 When the project was finally complete, Sam and the team did a victory dance around the room. It was a silly, joyful swirl of arms and legs, like spaghetti in a playful gust of wind.
 

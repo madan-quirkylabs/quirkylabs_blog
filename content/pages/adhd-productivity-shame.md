@@ -27,7 +27,7 @@ Lily had a mind like a butterfly garden—colorful, vibrant, and always flutteri
 
 But as the sun dipped below the horizon, Lily felt a familiar pang. Despite buzzing all day, her garden seemed just as unruly as when she started. This feeling had a name she knew all too well: ADHD productivity shame.
 
-### A Butterfly in a Field of Tasks
+## Why ADHD Makes Productivity Feel So Shameful
 
 It was like her wings were huge and bright, catching every breeze. Breezes like quick ideas and sudden urges to do something else. Each gust tossed her onto a new path, and the original task waited, unfinished.
 
@@ -39,7 +39,7 @@ He’d start on one acorn, then see another, shinier one and scamper off. But at
 
 While Squeaky felt lighter, he couldn't escape the nagging feeling that even this new strategy was another form of the [ADHD toxic productivity cycle](/pages/adhd-toxic-productivity-cycle/), always pushing him to do more.
 
-### Squeaky's Strategy Shuffle
+## How to Beat ADHD Shame with Small Wins & Squirrel Tricks
 
 “Maybe I need a plan,” Squeaky mused. He decided to try something new. Instead of chasing every shiny acorn, he’d pick just three each morning. Only the best ones.
 
@@ -55,7 +55,7 @@ One sunny morning, Jamie decided to build a colorful kite. Despite the wind's pl
 
 Amid the laughter and plans, Jamie mentioned how this new understanding helped mitigate the [ADHD rest feels like failure](/pages/adhd-rest-feels-like-failure/), transforming downtime into a valuable part of their kite-flying practice.
 
-### Kites and Confidence
+## Building ADHD Confidence: How to Turn Shame into Wind for Your Wings
 
 Jamie shared their kite-flying adventures with others, explaining how ADHD productivity shame often tried to sneak in and clip their strings. But like a kite master, Jamie learned to dance with the wind, not against it.
 
@@ -65,7 +65,7 @@ They all laughed, cheered, and planned their next kite-flying day together. The 
 
 ## Quickfire ADHD Checklist
 
-🎈 **ADHD Productivity Shame Checklist: Let's Dance in the Rain!**
+🎈 **Quick Checklist: Ditch the Shame & Get Stuff Done with ADHD**
 
 1. **Squirrel in a Blender:** Is your mind spinning with 'shoulds'? Take a deep breath and pause that blender!
 

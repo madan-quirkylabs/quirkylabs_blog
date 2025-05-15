@@ -25,7 +25,7 @@ Once upon a chirpy morning in the town of Breezy Corners, Tommy Tumbleweed's bra
 
 Tommy loved to invent things. His room was a treasure trove of half-built projects and wild inventions.
 
-### The Case of the Unfinished Robot
+## Why ADHD Can Feel Like Wasting Potential (And Why You're Not)
 
 Today, he was working on Robbie the Robot. But wait! A comic book under his bed whispered for attention. Oh, and didn’t he start a painting yesterday? The paintbrushes were calling!
 
@@ -39,7 +39,7 @@ As she meandered, her friend, Benny Bunny, zipped by. Benny was quick, focused o
 
 As she gathered her treasures, Tilly's mind wandered to all the projects she'd started with excitement but left unfinished, a common reflection among those with ADHD, like the stories you can find at [ADHD Unfinished Projects](/pages/adhd-unfinished-projects/).
 
-### Making Friends with the Distractions
+## How ADHD Detours Can Be Part of the Journey
 
 But Tilly had a different style. Each distraction wasn't just a hiccup; it was an invitation to explore. By the time she reached the Silver Stream, she had collected a kaleidoscope of colorful pebbles and made friends with a wandering woodpecker.
 
@@ -55,7 +55,7 @@ She started using tools like timers and checklists. It was like turning her swir
 
 Each brushstroke on her canvas was a bold challenge to the nagging [ADHD fear of failure](/pages/adhd-fear-of-failure/), transforming anxiety into art.
 
-### Embrace Your Superpower!
+## Your ADHD Isn’t Wasting Potential — It’s Just Wired Differently
 
 One day, Jamie decided to paint her ideas. The canvas looked wild! Colors clashed and danced. It was a masterpiece of her unique mind.
 

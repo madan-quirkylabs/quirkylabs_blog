@@ -25,7 +25,7 @@ Once upon a time, in a classroom buzzing like a bee's hive, lived a bouncy young
 
 Mrs. Grumble, with her eyebrows like storm clouds, often mistook Jack's energetic bursts for misbehavior. She rarely saw the creative whirlwind behind his twinkling eyes, only the chaos it caused in her neatly planned lessons. This is a tale of how Jack faced adhd trauma from teachers.
 
-### A Wild Ride on the Thought Express
+## How ADHD Kids Experience School Trauma From Misunderstood Behavior
 
 One rainy Tuesday, the classroom felt extra stuffy, and Jack was a balloon ready to pop. Mrs. Grumble was droning on about multiplication tables, a topic as dry as toast to Jack. His eyes wandered to the window, where raindrops raced down the glass like tiny Olympic sprinters.
 
@@ -33,7 +33,7 @@ Jack imagined himself as one of those raindrops, zipping down to the finish line
 
 When we left off, our hero, Timmy Tumble, had just discovered his Superpower Glasses. These glasses helped him see his ADHD not as a bug, but as a feature! Yet, even superheroes face challenges. Timmy often encountered the Kryptonite of ADHD trauma from teachers who misunderstood his super-speedy brain and lightning-fast thoughts.
 
-### Adventures in Classroomland
+## ADHD Trauma in School: Misunderstood, Punished, and Overwhelmed
 
 Often, Timmy felt like he was [**always in trouble**](/pages/adhd-always-in-trouble/), a feeling that seemed to follow him from one classroom to the next, casting a long shadow over his school days.
 
@@ -49,7 +49,7 @@ But with new friends and a patient mentor, Jamie started sorting through them. H
 
 Amidst this newfound understanding, Jamie also began to shed the heavy cloak of [ADHD carrying school shame](/pages/adhd-carrying-school-shame/) that had clung to him through the years, feeling lighter with each passing day.
 
-### A Bright New Chapter
+## Healing from ADHD School Trauma: Finding Safe Spaces and Self-Worth
 
 Jamie learned to see his ADHD as a splash of extra color in his life's painting. It made things vibrant, sometimes messy, but always unique.
 

@@ -25,7 +25,7 @@ Once upon a sunlit afternoon, Jamie, who had ADHD, felt like a superhero. She ha
 
 Jamie always wondered about ADHD and why success feels fake. It was like scoring a touchdown in a game she hadn't played. Everyone cheered, but inside, she felt like she was just watching from the stands.
 
-### When Victory Feels Like a Visitor
+## Why Success Feels Fake with ADHD (and What to Do About It)
 
 This strange feeling had a fancy name: imposter syndrome. Jamie learned that many with ADHD feel this way. Success comes and knocks on their door, but it feels like it’s looking for someone else.
 
@@ -39,7 +39,7 @@ You see, for the Juggler, each applause felt like it was for someone else. He th
 
 This persistent feeling, akin to [ADHD Impostor Syndrome](/pages/adhd-impostor-syndrome/), can make even the most skilled performers question their rightful place on the stage.
 
-### The Sneaky Doubt Monster
+## Impostor Syndrome and ADHD: The Self-Doubt Sneak Attack
 
 Enter the Doubt Monster, a sneaky little critter that whispers, "Was that really your win?" every time the Juggler took a bow. This monster loved to sneak up just as the crowd cheered, making the Juggler's victories feel less shiny.
 
@@ -53,7 +53,7 @@ The Juggler listened, the words slowly sinking in, battling the whispers of the 
 
 In our tale of the busy bee, it was clear why ADHD made success feel fake. The bee buzzed from one task to another, rarely pausing to see the blossoms it helped bloom. Much like our bee, people with ADHD often skip the celebration stage, moving on to the next challenge too quickly.
 
-### Buzzing to a Pause
+## Learning to Celebrate ADHD Wins, One Bloom at a Time
 
 Yet, amid these realizations, the bee still harbored a quiet whisper of doubt, a common feeling among those with ADHD, who often grapple with [ADHD Impostor Syndrome](/pages/adhd-impostor-syndrome/), questioning the authenticity of their accomplishments.
 

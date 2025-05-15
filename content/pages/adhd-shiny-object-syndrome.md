@@ -27,7 +27,7 @@ In the heart of a bustling, colorful market, young Sam scampered around like a p
 
 "Oh! Look at those glittery stickers!" Sam exclaimed, barely a whisper before, "Wow, a robot that moves!" His thoughts jumped from toy to toy, like a frog leaping across lily pads.
 
-### A Whirlwind of Wonders
+## What ADHD Shiny Object Syndrome Feels Like (and Why It Happens)
 
 Just as Sam reached for a shiny, red fire truck, a breeze fluttered past, carrying the sweet scent of caramel popcorn. "Yum, popcorn!" And off he dashed, his mind already munching on the next delightful distraction.
 
@@ -39,7 +39,7 @@ As Sam scampered along, every leaf that twinkled in the sunlight, every acorn th
 
 Yet in the back of his mind, Sam couldn't help but worry—would this pattern of [ADHD Fear of Failure](/pages/adhd-fear-of-failure/) keep him from ever reaching the Great Oak?
 
-### A Sparkly Detour
+## How ADHD Distractions Pull You Off Track (and What to Do)
 
 And then, there it was: the most mesmerizing, shiny object of them all—a glittering, dew-kissed pinecone perched just off the trail. "Just a quick look," Sam thought, his tiny paws itching with curiosity.
 
@@ -57,7 +57,7 @@ With the help of his new strategies, Jamie found a way to balance his curiosity 
 
 Despite the allure of each new idea, Jamie often found himself caught in the [ADHD ambition burnout loop](/pages/adhd-ambition-burnout-loop), striving to balance the excitement of new projects with the energy to sustain them.
 
-### A Sparkling Conclusion!
+## Balancing Focus and Fun with ADHD Shiny Object Syndrome
 
 Over time, Jamie learned to dance between the sparkles and his duties. It was like playing hopscotch on a sunlit day, each square a step towards his goals, yet every jump filled with fun.
 

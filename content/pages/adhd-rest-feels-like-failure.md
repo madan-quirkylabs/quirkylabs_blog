@@ -27,7 +27,7 @@ Meet Milo, a whirlwind of energy and ideas with bouncing feet and a giggle that 
 
 One quiet Saturday, Milo found himself slumped on his cozy bean bag. The world outside buzzed along, but inside, Milo felt stuck. His brain whispered, “Take a rest,” but his heart countered, “That’s like giving up!” Yes, for Milo, ADHD rest feels like failure.
 
-### A Cozy Conundrum
+## Why ADHD Rest Feels Like Failure (and How to Reframe It)
 
 Milo wrestled with the quiet. Resting felt as odd as wearing socks on his hands! He wondered why pausing felt so wrong, even when his mind craved a break.
 
@@ -37,7 +37,7 @@ But then, the Wise Old Owl from the tree next door hooted softly, "Wiggly, rest 
 
 As Wiggly Wabbit's restful evening continued, he couldn't help but feel haunted by a familiar sensation, a creeping [ADHD guilt doing nothing](/pages/adhd-and-guilt-doing-nothing/) that nagged at him, questioning his lack of activity.
 
-### Rest is Recharging!
+## From Guilt to Growth: Embracing Rest with ADHD
 
 Wiggly pondered this as he nibbled on a carrot. "Maybe resting isn't so bad. Maybe it's like a secret potion that makes my superpowers even stronger."
 
@@ -49,7 +49,7 @@ But with her new tools, Jamie learned to embrace rest. She imagined it as rechar
 
 Jamie also realized that her inability to enjoy these quiet moments was deeply linked to her struggle with [ADHD and guilt doing nothing](/pages/adhd-and-guilt-doing-nothing/), making each pause feel like a battle she was losing.
 
-### Super Jamie Takes a Break!
+## Rest Like a Superhero: ADHD and the Power of the Pause
 
 Now, Jamie had a secret weapon: her rest routine. She curled up with her cat, Mr. Whiskers, and a good book, letting the quiet moments mend her mental muscles.
 

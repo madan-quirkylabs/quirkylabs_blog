@@ -23,7 +23,7 @@ Meet Jamie! Jamie's brain is like a super-charged rocket, zooming and zapping fr
 
 One sunny afternoon, Jamie decided to throw a space-themed party. Invitations were sent out like mini-rockets to all classmates. Jamie waited eagerly, eyes glued to the mailbox. Each tick of the clock was a drumroll in Jamie’s chest.
 
-### When the Mailbox Stays Quiet
+## ADHD and Rejection: Why Little Things Hurt a Lot
 
 Time crawled. No RSVPs. Jamie’s mind started racing. "What if no one likes me? What if they all decided to go to Lisa's party instead?" This wasn’t just worry; it was Jamie’s rejection sensitivity kicking into high gear. The mailbox seemed to gulp down Jamie’s hopes like a black hole swallowing stars.
 
@@ -31,7 +31,7 @@ Jamie flopped on the couch, heart sinking like a comet plummeting to earth. But 
 
 In the bustling city of Neuronville, where every brain cell had a job, Dottie the Dopamine Dancer loved to spread happiness. But there was one place she found particularly challenging—the RSD Theater, run by the director Rex, who was a stickler for perfection. Rex's theater was infamous for making the citizens of Neuronville feel a bit wobbly if they didn't meet his high expectations. This was especially tough for Dottie, who, with her ADHD, sometimes missed a step or two in her routines.
 
-### The Trouble at Rehearsal
+## How ADHD Rejection Sensitivity Shows Up in Everyday Life
 
 Feeling the sting of Rex's critique, Dottie wondered if her ADHD made her too different, intensifying her fear that she might never truly [fit in with the other performers](/pages/adhd-dont-fit-in/).
 
@@ -47,13 +47,13 @@ Spark wagged his tail, sensing Jamie’s uplifted mood. Today’s journey taught
 
 This fort, Jamie thought, would be a haven from the overwhelming moments when they experienced [ADHD Connection Overwhelm](/pages/adhd-connection-overwhelm/), a place just for them and Spark to enjoy quiet and comfort together.
 
-### Adventure Awaits!
+## Comforting Ways to Cope with ADHD Rejection Sensitivity
 
 Tomorrow, they planned to build a fort. Yes, a fort with blankets, pillows, and laughs. A safe space where rejection had no invite. Jamie smiled, excited for their next adventure. They knew that with Spark by their side, and a new understanding of their feelings, they could face anything with a bit of creativity and a lot of courage.
 
 "Let's always remember today," Jamie whispered to Spark as they drifted to sleep. In the warmth of their fort, surrounded by the soft glow of fairy lights, they found peace. Here, in their magical fortress, Jamie felt strong, understood, and completely accepted.
 
-## Quickfire ADHD Checklist
+## Checklist: ADHD Rejection Sensitivity Survival Kit
 
 🌈 **ADHD Rejection Sensitivity Checklist: Cozy Up and Conquer!**
 

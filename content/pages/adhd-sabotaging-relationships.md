@@ -27,7 +27,7 @@ Sam loved his girlfriend, Lila, to the moon and back. His ADHD, however, sometim
 
 Today, Sam had promised Lila a quiet picnic by the lake. Just them, some sandwiches, and the gentle lull of water. Perfect, right?
 
-### The Picnic Plot Takes a Turn
+## How ADHD Sabotages Relationships (And How to Stay Present)
 
 But as they sat down, Sam's mind sprinted ahead. He remembered he forgot to feed their cat, Whiskers. Then, ping! His phone chimed with reminders. Texts buzzed. Emails beeped. Lila's smile faltered.
 
@@ -41,7 +41,7 @@ Take the time he almost missed Porcupine's birthday. His mind was like a pinball
 
 Feeling the weight of his responsibilities, Captain Focus often worried he was [too much for others](/pages/adhd-too-much-for-others), but today he was just enough to make Porcupine's day unforgettable.
 
-### Oops! A Wild Distraction Appears!
+## Distractions and Love: Managing ADHD in Relationships
 
 Just in the nick of time, his sidekick, Reminder Robin, chirped in his ear. "Captain! You're about to let ADHD sabotage your relationship with Porcupine!" Captain Focus zoomed back to his mission, thanks to his trusty sidekick.
 
@@ -55,7 +55,7 @@ Tom learned that his ADHD was like a mischievous wind, sometimes scattering his 
 
 Tom, often grappling with an [ADHD Fear of Rejection](/pages/adhd-fear-of-rejection/), found solace in Sarah's steady reassurance, weaving a stronger bond between them.
 
-### A Dash of Understanding, A Pinch of Patience
+## Building Connection When ADHD Tries to Wreck It
 
 Together, they crafted a colorful kite of strategies. They wrote love notes as reminders and set special dates where they could re-tie the knots of connection. 
 

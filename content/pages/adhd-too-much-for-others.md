@@ -27,7 +27,7 @@ One sunny afternoon, Flick decided to throw a tea party. He invited all the anim
 
 As the guests arrived, Flick was everywhere at once. Pouring tea, offering cakes, telling stories, and jumping from one topic to another. His energy was like a playful breeze that sometimes turned into a gusty wind!
 
-### A Tea Party Like No Other
+## What It Feels Like When ADHD Feels ‘Too Much’ for Others
 
 The other animals loved Flick, but sometimes his ADHD felt like too much for them. While Flick was buzzing around, his friend Turtle whispered to Rabbit, "Do you think it's a bit... much?"
 
@@ -37,7 +37,7 @@ But they all knew that Flick's heart was as big as his energy. And that made eve
 
 So there we were, Captain Brainstorm and his trusty crew, sailing the ADHD seas. Sometimes, the waves got so big and wild that they splashed all over the other ships. That's what it's like when ADHD feels like too much for others. It's not on purpose, it's just a bit splashy sometimes!
 
-### Shipmates Need Umbrellas
+## How to Keep Your ADHD Energy From Splashing Too Hard
 
 Captain Brainstorm often worried he might be [ADHD Fear of Rejection](/pages/adhd-fear-of-rejection/), fearing his boundless energy might push others away.
 
@@ -53,7 +53,7 @@ His friends learned to see his bursts of energy like fireworks—bright and exci
 
 Amid their shared laughter and paint-splattered smiles, Sam's heart warmed as he found reassurance in their acceptance, soothing his ever-present [ADHD fear of rejection](/pages/adhd-fear-of-rejection/).
 
-### A Twirl of Understanding
+## Being ‘Too Much’ with ADHD—Or Just Enough?
 
 One sunny afternoon, they all decided to create a giant mural. Sam's ideas danced across the canvas, bold and colorful. His friends added their own touches, blending in smoothly.
 

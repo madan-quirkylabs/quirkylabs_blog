@@ -23,7 +23,7 @@ Once upon a busy brain, there lived an idea named Izzy. Izzy was no ordinary ide
 
 One bright Saturday morning, Alex woke up buzzing with excitement. "Today's the day for doing!" Alex declared with a stretch and a yawn. The sun was shining, the birds were singing, and Izzy was doing somersaults in Alex's head.
 
-### A Day of Starting Everything!
+## Why ADHD Brains Love Starting Projects (And Struggle to Finish)
 
 First, Alex decided to build a mega-super-duper fort. Pillows and blankets flew through the air like a mini tornado. Halfway through, Izzy whispered, "Let's make a comic book!" So off went Alex, leaving a half-built fort and diving into a world of heroes and villains drawn with wild, wobbly lines.
 
@@ -35,7 +35,7 @@ But oh! The universe is vast and distractions are like asteroids, pinging agains
 
 Yet behind each exciting journey, the shadow of [ADHD Big Dreams No Follow Through](/pages/adhd-big-dreams-no-follow-through/) lingers, reminding Captain Brainstorm of all the orbits he's left uncompleted.
 
-### Navigating the Galactic Whirlwind
+## How to Stay Focused When ADHD Pulls You in 10 Directions
 
 With so many cosmic wonders to explore, Captain Brainstorm needs a map—a plan! Maybe a trusty co-pilot, like a timer, reminding him to spend just enough time on each planet before rocketing to the next.
 
@@ -47,7 +47,7 @@ One sunny afternoon, our hero decided it was time to celebrate all these beginni
 
 Amidst the joyful chaos, someone whispered, "Imagine what we could accomplish if only we didn't fall into the [ADHD Ambition Burnout Loop](/pages/adhd-ambition-burnout-loop)." The thought lingered, soft and bittersweet, yet it did not dampen the spirits.
 
-### A Festival of Beginnings!
+## Celebrate ADHD Creativity — Even If You Don’t Finish Everything
 
 Laughter filled the air as everyone shared their own half-done wonders. They realized that starting was just as important as finishing. Each piece told a story of inspiration, a burst of energy, a moment of clarity.
 

@@ -25,7 +25,7 @@ Imagine juggling flamingo-shaped balloons on a windy day. That's a bit what it f
 
 Jamie's mind is like a pinball machine. Thoughts ping and pong from homework to the latest video game, never stopping. Sitting still is a mythical concept. "Stay focused," says everyone. Easier said than done!
 
-### Balancing Act: The ADHD Edition
+## Why ADHD Makes Life Feel Like a Juggling Act
 
 One sunny afternoon, Jamie faced a mountain of homework. Math, science, and, oh, a history essay! But Jamie's brain was at a funfair, riding the rollercoaster of ideas. "Let's draw! No, read a comic! Wait—look, a squirrel!"
 
@@ -35,7 +35,7 @@ ADHD struggles with balance were real. But Jamie wasn't alone. With the right tr
 
 In the bustling village of Mindwell, where thoughts zipped like hummingbirds, our hero, Balance, found a special friend named ADHD. ADHD was like a spirited puppy, always running after squirrels of ideas and barking at the leaves of distraction. Together, they made an enthusiastic team, but often, ADHD's energy made Balance wobble on her tiptoes.
 
-### Balancing Act in Mindwell
+## How ADHD Impacts Emotional and Mental Balance (and What Helps)
 
 As they paused atop the rope, ADHD confessed a lingering unease, feeling that even this restful moment was a lapse in productivity, a common sentiment encapsulated within the [ADHD and guilt doing nothing](/pages/adhd-and-guilt-doing-nothing/) struggle.
 
@@ -51,7 +51,7 @@ With each step, Alex learned that it's okay to wobble. It's okay to fall. Every 
 
 Feeling this freedom, Alex also recognized the emotional weight of those quieter moments, where their ADHD often made them feel like [rest feels like failure](/pages/adhd-rest-feels-like-failure/), even when they deserved a break.
 
-### Dance Your Dance!
+## Finding Your ADHD Rhythm: Balance Through Play and Self-Compassion
 
 Their friends cheered, tossing colorful confetti into the air. Alex laughed, realizing that in life's circus, everyone has their own act.
 

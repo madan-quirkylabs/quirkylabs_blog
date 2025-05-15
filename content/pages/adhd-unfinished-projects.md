@@ -25,7 +25,7 @@ Once upon a time, in a colorful room filled with half-painted canvases and half-
 
 Benny's desk was a treasure chest of 'ADHD unfinished projects.' From a rocket ship made out of pine cones to a scarf knitted with only one row, each project was a story half-told. His friends often giggled at his collection of adventures, each paused mid-breath.
 
-### A Symphony of Half Notes
+## Why ADHD Starts Projects with Excitement — and Rarely Finishes Them
 
 One sunny morning, Benny woke up bubbling with a new idea. "I'm going to build the biggest, most fantastic treehouse ever!" he declared with a twinkle in his eye. His tiny paws gathered wood, nails, and ropes. The forest echoed with the sounds of his new endeavor.
 
@@ -33,7 +33,7 @@ But by noon, something sparkly caught his eye. "Oh, shiny!" And just like that, 
 
 When we left off, Captain Focus had just discovered the Island of Unfinished Projects, a place cluttered with half-built sandcastles, partially dug treasure chests, and boats missing a few planks. It's a familiar sight for those navigating the seas of ADHD, where winds of new ideas often blow us to fresh adventures before the last one is complete.
 
-### Ahoy! New Ideas on the Horizon!
+## Creative ADHD Brain vs. Finishing Tasks: The Real Struggle
 
 Her heart races with the thrill of potential, but she also feels the gentle tug of [ADHD Ambition Burnout Loop](/pages/adhd-ambition-burnout-loop), reminding her to pace herself on these endless seas of creativity.
 
@@ -45,7 +45,7 @@ The secret, she learns, is not to see these unfinished projects as failures but 
 
 As the sun began to set, painting the sky in shades of orange and pink, Alex looked around at the sea of half-finished projects that littered their room. Each one was a tiny adventure, paused in time. Alex chuckled, realizing that their room was a treasure map dotted with 'X's, each marking the spot of another quest begun but not yet completed.
 
-### The Treasure of Finishing
+## How to Finish ADHD Projects (Without Losing the Fun)
 
 Amid the colorful chaos, Alex couldn't help but feel the familiar tug of [ADHD big dreams no follow through](/pages/adhd-big-dreams-no-follow-through/), dreaming of grand completions yet stumbling over the start.
 

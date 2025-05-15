@@ -13,7 +13,7 @@ og_title: "Free ADHD Test for Women: Discover Your Symptoms in Minutes"
 og_description: "Take our free ADHD test for women. Fast, gentle, and designed to reveal the unique ways ADHD shows up in your life. Start understanding yourself better today!"
 ---
 
-## Butterflies, Bouncing Balls & a Squirrel Named Memory: Is It ADHD?
+## ADHD in Women: Signs You Might Be Missing (And What to Do)
 
 Imagine juggling a million bouncing balls in a bubble gum forest!
 
@@ -33,7 +33,7 @@ Wendy pondered. Could a test help her understand the colourful carnival inside h
 
 So, with a bounce in her step and sparkles in her eyes, she embarked on an adventure.
 
-### The Adventure Begins  
+## What It’s Like to Take an ADHD Test as a Woman
 
 In Brainwave, the ADHD test for women wasn't a scary medical procedure. Oh, no. It was a magical adventure filled with wondrous tasks and enlightening encounters. 
 
@@ -63,7 +63,7 @@ So, our seekers of the sparkly butterfly reach the big, familiar CHAT (Conners' 
 
 The test flickers into life, much like the flare of a colorful dragon's breath. It asks you opening questions. You might feel like you've been teleported inside a giant pinball machine. Springing from question to question, your emotions bounce around the silvery walls. Some questions might jab, like a ticklish feather. Others may knock you sideways, like a rogue wave at a beach party.
 
-### Dancing with the Butterfly 
+## How ADHD Tests Help Women Understand Their Minds
 
 Bit by bit, you dance with the butterfly. You pin down and express those swirls and twirls, sparkles, and whirl of emotions lurking inside you. 
 

@@ -23,7 +23,7 @@ But guess what? Every bee finds its flower eventually. Want to find yours togeth
 
 In the cozy, sun-dappled corner of Ms. Marigold's bustling classroom, Tommy was having a tiny, secret adventure. His legs bounced like excited grasshoppers under his desk. His fingers drummed a silent, jittery beat on his notebook. Tommy's mind was a merry-go-round of thoughts, spinning too fast and too bright. It was his ADHD's secret sidekick: anxiety.
 
-### Let’s Peek into Tommy’s Thoughts!
+## What ADHD Secret Anxiety Looks Like in Everyday Life
 
 As the teacher explained fractions, Tommy's brain decided to host a pop quiz on everything at once. What's for lunch? Did I lock the door this morning? Why is the chalk so screechy? His thoughts buzzed like a beehive in springtime.
 
@@ -31,7 +31,7 @@ Sitting still felt like trying to hold a puppy still at bath time. It was wiggly
 
 So, where were we? Ah, yes! Max, the curious cat with a heart full of glitter and paws that couldn't stay still. Max often felt a special kind of worry, a sneaky whisper in his ear that we'll call "ADHD secret anxiety." It was like having an invisible mouse that only Max could hear, squeaking doubts just when he was trying to focus.
 
-### Max's Marvelous Mind Map
+## How to Spot and Map Your ADHD Secret Anxiety
 
 Amidst his inner turmoil, Max often wondered if his achievements were genuine or just part of his [ADHD fake success](/pages/adhd-fake-success/), adding another shade to his colorful worries.
 
@@ -47,7 +47,7 @@ With his new friends cheering him on, Sam started to see his anxiety not as a ba
 
 Amidst his newfound courage, Sam also began to unravel the threads of [ADHD impostor syndrome](/pages/adhd-impostor-syndrome/), realizing that his fears of not being 'good enough' were just another layer of his complex, beautiful self.
 
-### Turning Whispers into Wonders
+## Turning ADHD Anxiety Into Playful Wins and Self-Compassion
 
 The final school bell rang with a promise. Sam felt lighter, as if his backpack was filled with balloons instead of books. He realized that sharing his feelings was like opening a window on a stuffy day—refreshing and necessary.
 

@@ -25,7 +25,7 @@ Once upon a sunny afternoon, Billy, a bunny with bouncy ADHD, was having a bit o
 
 Billy sighed, his ears flopping. "I guess it's just my ADHD being too emotional today."
 
-### A Bunny’s Emotional Adventure
+##	How ADHD Turns Emotions Into Rollercoasters (And What Helps)
 
 Tim nodded slowly. "ADHD can make your feelings big and bouncy, huh?"
 
@@ -37,7 +37,7 @@ They decided to make a game of it. Every time Billy felt a big emotion, he’d s
 
 When we last left Piper, she was zooming around like a hyper hummingbird, collecting feelings like shiny treasures. You see, for Piper, having ADHD meant she often felt emotions more intensely. This is what some folks call "ADHD too emotional." Her heart didn’t just flutter; it did gymnastics!
 
-### Emotional Rollercoaster Ride
+## Why ADHD Makes You Feel Everything So Deeply
 
 Amidst these highs and lows, Piper often wondered if her intense emotions made her [ADHD too much for others](/pages/adhd-too-much-for-others/), yet she kept dancing to her unique tune.
 
@@ -51,7 +51,7 @@ Piper learned that every emotion was like a note in her life’s song. Sometimes
 
 By the end of the week, Lily noticed a pattern. Whenever she felt overwhelmed, her emotions, supercharged by her ADHD, seemed to dance like popping popcorn. It was like her feelings were on a bouncy castle, leaping higher with every bounce.
 
-### Bouncing Back with a Smile
+## ADHD, Emotions, and Finding Your Rainbow After the Storm
 
 Amid her reflections, Lily couldn't shake off the nagging [ADHD fear of rejection](/pages/adhd-fear-of-rejection/), wondering if her intense emotions made her too much to handle for others.
 

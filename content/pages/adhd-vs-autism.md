@@ -15,8 +15,6 @@ og_description: "Wondering about ADHD vs Autism? Learn how they differ and overl
 
 # ADHD vs Autism: How It Feels, and Where It Gets Confusing
 
-## Emotional Hook
-
 Alex always knew his mind worked a little differently — like a radio tuned just a half-step off.
 
 Some days he hyperfocused for hours; other days, simple conversations felt like puzzles missing half their pieces. Was it ADHD? Autism? Both? Neither?
@@ -25,9 +23,7 @@ If you've ever wondered why the world feels a little out of sync — and you're 
 
 Understanding the difference between ADHD vs Autism isn't about fitting into a label. It's about giving yourself hope, clarity, and self-compassion.
 
----
-
-## Story-Based Explanation
+## ADHD and Autism Side-by-Side: How to Tell the Difference
 
 Trying to understand the difference between ADHD and Autism sometimes feels like trying to tell apart two rivers — they look separate, but often twist and run close to each other.
 
@@ -47,9 +43,7 @@ But at the heart:
 You might see yourself in one, the other, or both.
 And that's not something broken — it's something worth understanding.
 
----
-
-## ADHD vs Autism: Quick Comparison Checklist
+## ADHD vs Autism Checklist: Traits, Similarities, and Overlaps
 
 **Signs that lean ADHD:**
 - Brain swaps TV channels without asking
@@ -90,7 +84,7 @@ A: It can be a first step! A quiz can help highlight patterns and open up new co
 
 ---
 
-## Call to Action
+## Your next steps
 
 > _\"If any part of this resonated with you — maybe it's time to explore a little further. Start with our free ADHD self-assessment at [quirkylabs.ai](https://quirkylabs.ai). No pressure, no judgment, just more clarity.\"_
 

@@ -29,7 +29,7 @@ In the cozy corner of a bustling café, Jamie twitched like a squirrel in a danc
 
 "Just focus," Jamie muttered, trying to pin down one thought about what they really wanted. 
 
-### Love in a Game of Hide and Seek
+## Why People with ADHD Want Love But Hide From It
 
 Deep down, Jamie knew. ADHD want love but hide, like a mischievous cat playing behind curtains. They craved connections that felt as warm as the sunlit spot on the café’s window seat. But admitting it? That was the heart-racing, stomach-twisting challenge.
 
@@ -43,7 +43,7 @@ Zippy was a whirlwind of energy, always zigzagging from one tree to another. His
 
 Feeling his anxieties bubble, he confessed another deep fear, often wondering if his friends might eventually decide he was [too emotional](/pages/adhd-too-emotional/) to handle.
 
-### A Nutty Idea
+## How to Feel Safe Sharing Love When ADHD Makes You Want to Hide
 
 One sunny afternoon, Dotty the wise old owl noticed Zippy on his lonesome branch. "Why so solitary, my speedy friend?" she hooted.
 
@@ -59,7 +59,7 @@ The friends listened, their faces warm and understanding. They shared hugs with 
 
 Often, Jamie worried their ADHD made them [too emotional](/pages/adhd-too-emotional/), but this night showed how emotions could also build bridges.
 
-### Cozy Hearts Club
+## Letting Love In with ADHD (Even When It Feels Scary)
 
 The next day, Jamie felt lighter, as if they had set down a heavy backpack filled with rocks. Their friends checked in, sending funny memes and sweet messages. It was clear that sharing their truth had not pushed people away but pulled them closer.
 

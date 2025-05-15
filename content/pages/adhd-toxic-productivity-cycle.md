@@ -25,7 +25,7 @@ Once upon a bustling morning, Eddie the squirrel was on a mission. With his tiny
 
 Eddie had a big, shiny idea. He decided to organize the biggest acorn feast the forest had ever seen. “Today, I’ll do it all!” he chirped with a twitch of his tail.
 
-### A Feisty Start with Fluffy Goals
+## Why ADHD Starts Strong and Then Spirals into Burnout
 
 But here’s the twist: Eddie has ADHD. This means his engine zooms but sometimes sputters in the mud. He wanted to do everything perfectly. So, he dug into the endless pile of tasks. Collect acorns. Check! Now, wash them. Oh, but wait! Shouldn’t he also map out where to bury them for winter?
 
@@ -39,7 +39,7 @@ This nasty villain tricks you into doing too much too fast. Imagine Captain Focu
 
 During these breaks, Captain Focus also tackled his [ADHD and guilt doing nothing](/pages/adhd-and-guilt-doing-nothing/), learning that stillness could be just as productive as action.
 
-### Zap! Boom! Pow! Rest Is Your Superpower!
+## ADHD Rest as a Superpower: How to Recharge Without Guilt
 
 After the crash, our hero learned a big lesson. Rest isn't just for the sleepy; it's a secret weapon. Captain Focus found that taking breaks helped him recharge his superpowers. Instead of running on empty, he started pacing himself—like a wise old turtle winning a marathon against speedy bunnies.
 
@@ -53,7 +53,7 @@ With a new set of tools—like scheduled breaks and a 'done is better than perfe
 
 Whenever Jamie felt the urge to keep pushing despite exhaustion, they reminded themselves that even in moments of rest, they were not failing but simply taking care of their mental health, an important lesson in understanding that [ADHD rest feels like failure](/pages/adhd-rest-feels-like-failure).
 
-### Let's Break It Down!
+## Breaking the ADHD Toxic Productivity Cycle (One Joyful Step at a Time)
 
 The next week, Jamie put their plan into action. They started each day with a colorful checklist. Each task completed was a high-five to themselves.
 

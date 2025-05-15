@@ -27,7 +27,7 @@ Once upon a time, in the bustling town of Neuronville, lived a spirited youngste
 
 Like many with ADHD, Sparky craved understanding. He wanted someone to say, "Hey, I get why your thoughts hop like playful frogs!"
 
-### The Great Validation Quest
+## Why ADHD Brains Crave Validation (And How to Truly Feel Seen)
 
 One sunny day, Sparky decided to embark on a quest. He wanted to find the legendary Scroll of Understanding. According to the tales, it could help anyone feel seen and heard.
 
@@ -37,7 +37,7 @@ Every person he met, he asked about the Scroll. And with each step, his hope gre
 
 Now, you might recall how Captain Curiosity was always eager for a new adventure, much like folks with ADHD often feel a strong pull towards understanding their own minds. This feeling, my friends, is what some call 'ADHD validation hunger'. It's like having a treasure map where 'X' marks the spot of self-awareness and acceptance.
 
-### A Snack of Understanding
+## How ADHD Validation Hunger Feeds Self-Worth and Belonging
 
 In their pursuit of validation, many of the crew also battled the invisible shackles of [ADHD impostor syndrome](/pages/adhd-impostor-syndrome/), constantly feeling like frauds despite their genuine struggles and accomplishments.
 
@@ -55,7 +55,7 @@ Milo, with his sparkly eyes, realized that his ADHD validation hunger was just l
 
 Milo also whispered a secret relief, realizing that his tendency to [overcompensate](/pages/adhd-overcompensating/) was just another way he tried to ensure his place in this accepting circle.
 
-### Fireflies and Friendships
+## Building Connection and Confidence Through ADHD Self-Validation
 
 Laughing under the twinkling stars, they made a pact to always support each other. To provide a listening ear or a comforting smile whenever needed. They were a team, united by their differences and similarities alike.
 

@@ -25,7 +25,7 @@ In the little town of Busyville, where thoughts zipped around like bees in a gar
 
 He scampered from tree to tree, gathering nuts not just for winter but to show everyone just how capable he was. His tiny paws were a blur, and his mind was a firework of plans and possibilities.
 
-### Let the Nut Gathering Begin!
+## Why ADHD Makes You Feel Like You Have to Prove Yourself
 
 Neighbors watched as Benny zipped back and forth. Some chuckled, others whispered. But Benny was too busy to notice. His stash was growing, and so was his confidence!
 
@@ -33,7 +33,7 @@ Benny’s idea was simple: build the biggest, most wonderful nut tower ever seen
 
 In the bustling town of Brainwave Bay, the residents, each with their label, were always buzzing about. ADHD, our eager little worker, was especially busy, fluttering from task to task like a bumblebee in a sunlit garden. Despite the hustle, ADHD felt a tug in its heart, a need to show it was as worthy as the rest.
 
-### ADHD's Secret Mission
+## Turning ADHD Doubts Into Creative Wins
 
 Amidst this flurry of activity, ADHD often wrestled with the [heavy shadow of past criticisms](/pages/adhd-carrying-school-shame/), a lingering cloud from school days that doubted its capabilities.
 
@@ -53,7 +53,7 @@ Jamie's project presentation day arrived, filled with the aroma of anticipation.
 
 Despite the initial **[ADHD fear of judgment](/pages/adhd-fear-of-judgment/)**, Jamie's presentation turned into a celebration of her distinctive talents.
 
-### A Sparkling Success!
+## How to Feel Worthy With ADHD — Without Overworking
 
 Laughter and applause filled the room when Jamie finished. Her project wasn’t just completed; it was a hit! Her classmates saw the world through her vibrant, colorful lens. They realized that her ADHD wasn’t a hurdle but a jetpack that propelled her creativity.
 

@@ -27,7 +27,7 @@ Once upon a sunny, sparkly morning, Sam, a bright-eyed squirrel with a zippy tai
 
 One moment he'd spot a shiny nut, the next he'd be daydreaming about the circus. The trees danced, the leaves whispered, and Sam's thoughts spun like a merry-go-round.
 
-### A Nutty Challenge
+## Why ADHD Makes Fitting In So Exhausting (And How to Stop Masking)
 
 "Focus, Sam, focus!" he'd chirp to himself, snapping back to the task. His tiny paws fumbled with the nuts, dropping more than storing. His friends zipped around, their collections growing, while Sam's pile stayed stubbornly small. 
 
@@ -35,7 +35,7 @@ One moment he'd spot a shiny nut, the next he'd be daydreaming about the circus.
 
 In the bustling city of Brainopolis, where thoughts zoomed around like speedy cars, ADHD was a colorful, bouncy ball. Always hopping here and there, trying to fit into square holes—round pegs, square holes, you know the drill!
 
-### ADHD's Toolbox Adventure
+## How ADHD Tries to Fit In (and Why It Doesn’t Have To)
 
 Amidst the twirls and tweaks, ADHD sometimes felt like a performer on stage, always mindful of [ADHD Masking At Work](/pages/adhd-masking-at-work), wondering if the real self was hidden beneath a shiny guise.
 
@@ -47,7 +47,7 @@ Working hard to fit in, ADHD realized something special—fitting in isn't about
 
 As the school year buzzed along, ADHD worked hard to fit in. It wasn't always easy, like trying to solve a puzzle with extra pieces. But ADHD had helpers—friends like Patience and Understanding who didn't mind repeating things or slowing down their games.
 
-### A Colorful Finish
+## How ADHD Adds Sparkle — Even When It Feels Out of Place
 
 Even as ADHD flourished, it often felt like a performance, always wondering if others might see through the act, a classic case of [ADHD Impostor Syndrome](/pages/adhd-impostor-syndrome/).
 

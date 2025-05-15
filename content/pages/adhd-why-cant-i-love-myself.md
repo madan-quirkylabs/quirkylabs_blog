@@ -25,7 +25,7 @@ Why not join the dance? Find the magic in your marvelous mind!
 
 Once upon a cozy nook in the little town of Buzzle, lived Ellie, a girl with sparkly sneakers and hair as wild as her ideas. Ellie had ADHD, which made her thoughts hop like a bunny in a field of carrots. One sunny afternoon, Ellie sat under her favorite oak tree, doodling in her notepad. She sighed, feeling a bit blue. "Why is it so hard with ADHD? Why can't I love myself just as I am?" she whispered to her sketch of a lopsided heart.
 
-### Ellie's Wobbly Heart Adventure
+## Why ADHD Makes Self-Love Feel So Hard (And How to Change That)
 
 Right then, a gentle breeze fluttered the pages of her notepad to a blank page as if to say, "Start fresh, Ellie!" With a determined squint, she grabbed her crayon like a knight ready for battle. "Okay, brain, let's figure this out together."
 
@@ -35,7 +35,7 @@ But then, she remembered how her unique mind also made her the star of the schoo
 
 As the story of our hero, Captain Focus, continued, he found himself puzzled. "ADHD, why can't I love myself?" he wondered aloud while staring at his reflection in the shimmering waters of Distraction Bay. It seemed every time he tried to appreciate his own strengths, a wave of self-doubt would wash them away.
 
-### Captain Focus Faces the Mirror Monster
+## Facing the Self-Doubt That ADHD Brings
 
 Amidst this journey, Captain Focus also grappled with the pervasive [ADHD Fear Of Rejection](/pages/adhd-fear-of-rejection/), fearing his unique mind might never find acceptance among his peers.
 
@@ -55,7 +55,7 @@ In that moment, our hero realized that each flicker in the sky was different. So
 
 Feeling the warmth of self-acceptance, they also acknowledged the [ADHD Need For Reassurance](/pages/adhd-need-for-reassurance/), understanding it as a part of their journey toward loving themselves fully.
 
-#### Dance to Your Own Sparkle!
+## How to Love Yourself with ADHD (And Actually Mean It)
 
 So, they decided to dance to the rhythm of their own sparkle. They embraced their fast-moving thoughts as bursts of creativity. They saw their endless energy as fuel for adventure. And they understood that their struggles with focus were just detours, interesting roads leading to unexpected treasures.
 

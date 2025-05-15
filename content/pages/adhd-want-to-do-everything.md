@@ -27,7 +27,7 @@ Once upon a time, in the bustling village of Breezy Meadows, lived a young squir
 
 One sunny morning, Simon woke up with a burst of energy. He wanted to collect acorns, play tag with the rabbits, climb the tallest oak, and learn a new song on his tiny squirrel-sized flute. His mind buzzed like a bee around a pot of honey.
 
-### Burst of Ideas!
+## Why ADHD Makes You Want to Do Everything at Once
 
 As he scampered out of his cozy tree nook, Simon’s eyes darted from one adventure to another. He started with acorns, stuffing his cheeks with as many as he could find. But then, whoosh! A butterfly fluttered by, and off he dashed, leaving a trail of acorns bouncing on the forest floor.
 
@@ -41,7 +41,7 @@ Imagine each ball as a sparkling idea or a shiny task. They toss one high—mayb
 
 But as the enthusiasm for each new task rises, so does the lurking shadow of the [ADHD ambition burnout loop](/pages/adhd-ambition-burnout-loop), reminding our hero that energy is finite even if passion is boundless.
 
-### A Circus of Wonders!
+## ADHD Curiosity Overload: Juggling Every Idea Under the Sun
 
 As they juggle, a crowd gathers. They're amazed at how our hero keeps all those balls in the air. But uh-oh, what’s this? A sixth ball, labeled "organize the bookshelf," is tossed into the mix. Our hero's eyes widen, but they smile, accepting the challenge.
 
@@ -57,7 +57,7 @@ Sam smiled, watching the sun dip below the horizon. They didn't do everything, b
 
 In that fleeting twilight moment, Sam also reflected on how their big plans often led to a cycle typical of the [ADHD ambition burnout loop](/pages/adhd-ambition-burnout-loop/), yet tonight, they felt a soothing sense of peace.
 
-### Wrangling Wishes
+## How to Channel ADHD Energy Without Burning Out
 
 Sometimes, Sam thought, it's like herding kittens into a cozy, fluffy basket. A bit wild, a bit cuddly, but always a heartwarming challenge.
 

@@ -13,7 +13,7 @@ og_title: "Free ADHD Quiz for Teens: Spot the Signs Early & Take the First Step"
 og_description: "Wondering if you might have ADHD as a teen? Take our free quiz to understand your brain better and explore if ADHD could be part of your unique journey."
 ---
 
-## Got a Bouncy Brain? Step into the ADHD Forest and Find Out!
+## Teen ADHD Quiz: Explore the Signs in Your Brain's Wild Forest
 
 Hey, Quiz Whiz! 
 
@@ -37,7 +37,7 @@ In the ADHD forest, thoughts are like bouncy, playful squirrels. Can't sit still
 
 Everywhere you look is a riot of colors, sounds, smells. It's always a feast for your senses!
 
-### Why Take a Quiz, You Ask?
+## Why Teens Should Take an ADHD Quiz (Even if It's Just for Fun)
 
 Now, sometimes, these squirrels get a bit too energetic. Before you know it, there are too many squirrels bouncing around. This can confuse you, like staring at a fast, swirling kaleidoscope. 
 
@@ -51,7 +51,7 @@ Last we left off, an unexpected quizzard was in our midst—our very own ADHD Qu
 
 This isn't an everyday, run-of-the-mill quiz, oh no. This quiz has a special spark. It's like a magical rocket ship journeying through an unknown universe (the universe being our jumbly, wumbly brains!). And let's not forget, it's just as curious as a wide-eyed kitten, trying to make sense out of this chaotic thing we call the teen life.
 
-### Twinkle-Twinkle Quiz Star, How I Wonder What You Are!
+## What Makes This ADHD Teen Quiz Different (and Actually Fun!)
 
 So what makes our quiz star twinkle? What makes it so special you ask?
 
@@ -65,7 +65,7 @@ Remember, under all those bewitching stars, this is but a journey, a playful exp
 
 As the ADHD quiz for teens fluttered to an end, the answers danced on the screen like flickering fireflies against an evening sky. The bubbles of uncertainty popped, replaced by the blossoming resolve of understanding.
 
-### Attention Hops into Action!
+## What the ADHD Quiz for Teens Reveals — And What to Do Next
 
 Every tick and cross was like a beacon, illuminating the path to deeper self-knowing. Teens were no longer obscure rumors in the jungle of life. They were lively parrots, chirping their stories with sparkling eyes and vibrant feathers.
 

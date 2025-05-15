@@ -25,7 +25,7 @@ Once upon a time in the colorful town of Breezy Hollows, there was a young squir
 
 Sammy loved adventures, perhaps a bit too much. His attention darted from one shiny leaf to another, never quite settling. It was like he was a detective, always on the lookout for the next clue. But when it came time to gather nuts, like all squirrels must before winter, Sammy faced his silent battle.
 
-### A Nutty Predicament
+## Why ADHD Silent Struggles Often Go Unseen
 
 While the other squirrels methodically collected their winter stash, Sammy struggled. His mind would whisper, "Look there! No, look here!" This chaos, unseen to others, made simple tasks like nut gathering a grand adventure of its own.
 
@@ -37,7 +37,7 @@ Sam’s thoughts race like speedy little cars in a bumper car arena, bumping and
 
 Feeling a bit like they're [always in trouble](/pages/adhd-always-in-trouble/), Sam's journey is also about embracing the chaos and finding joy in the unpredictable whirlwind of thoughts and misplaced items.
 
-### Whirling Thoughts and Lost Keys
+## Common Hidden ADHD Challenges in Daily Life
 
 One of Sam's daily quests is keeping track of the ever-elusive castle keys—also known as house keys! Every morning is a treasure hunt. “Where did I put those keys?” Sam often wonders aloud, checking the fridge, then the sock drawer. 
 
@@ -49,7 +49,7 @@ In the end, Sam, with a smile and a shrug, often finds the keys, the homework, a
 
 In the world of ADHD, silent struggles often go unnoticed, like sneaky ninjas in a crowded room. But not today. Today, they had a spotlight, thanks to Max's open heart and Emma's keen listening.
 
-### A New Understanding
+## How to Make ADHD Silent Struggles Feel Seen and Supported
 
 Many of these silent struggles had roots stretching back to childhood, where Max was often [labeled as disruptive](/pages/adhd-labeled-as-disruptive/), a label that he was now learning to peel away layer by layer.
 

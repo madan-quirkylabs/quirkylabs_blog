@@ -25,7 +25,7 @@ Once upon a wobbly time, in the cozy little town of Whimsyville, lived Ziggy - a
 
 One breezy afternoon, Ziggy decided to bake a cake. Not just any cake, but a rainbow cake with layers as vibrant as his thoughts. He started with red, then blue, somehow skipped to purple, and forgot about green altogether.
 
-### A Cake as Wild as Ziggy's Thoughts
+## What ADHD 'Weirdness' Really Looks Like (and Why It’s Wonderful)
 
 As Ziggy mixed his batter, his mind danced to its own funky beat. Eggs? Check. Sugar? Oops, added twice! No worries, extra sweet, extra fun! His kitchen looked like a paint explosion in a sprinkle factory. But Ziggy loved every bit of it.
 
@@ -35,7 +35,7 @@ Ziggy, feeling a bit puzzled, met his friend, Bella the wise old owl. Bella had 
 
 Ziggy also discovered the beauty in connection; his glitter not only brightened paths but also bridged hearts, easing the [ADHD loneliness in relationships](/pages/adhd-loneliness-in-relationships/) he once felt.
 
-### A Sparkly Challenge
+## How to Embrace the Feeling of Being ‘Too Weird to Be Loved’
 
 Ziggy pondered Bella’s words as he watched the stars twinkle, almost as if they were nodding in agreement. The next day, at the Great Forest Gathering, Ziggy decided to show everyone just how magical his sparkliness could be.
 
@@ -51,7 +51,7 @@ But as she stood there, her friends one by one shared how her vivacity, her unpr
 
 In this moment, Ada also understood the deep truth that her need for connection was not a weakness but a beautiful part of who she was, a feeling shared by many who find solace at [ADHD Need For Connection](/pages/adhd-need-for-connection/).
 
-### Everyone's Special Spark
+## Your ADHD Quirks Are Magic, Not Mistakes
 
 Ada’s heart felt like a balloon swelling with joy. Her worries melted like marshmallows in hot chocolate. She realized that what made her different didn't make her unlovable. It made her special, memorable.
 

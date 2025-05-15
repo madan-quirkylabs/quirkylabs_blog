@@ -23,7 +23,7 @@ Wanna join the squirrel and take a tiny step closer to that big shiny acorn? Let
 
 Once upon a time, in the whirling, twirling town of Buzzleberg, there lived a bouncy young bunny named Benny. Benny had ADHD, which made him super good at hopping from one hobby to the next in a flash! One day he was into painting, the next he was all about carrot cake baking. Benny was also famously known for being scared of commitment, especially when it came to picking just one thing to love forever.
 
-### Bunny Hops and Hobby Stops
+## ADHD and Fear of Commitment: Why Sticking to One Thing Feels Impossible
 
 In Buzzleberg, the Annual Hobby Hoopla was the highlight of the year. Everyone would pick one hobby to showcase. Benny’s friends were buzzing with excitement, choosing their hobbies like picking the juiciest berries. But Benny? His heart did a jittery jive. Committing to just one hobby felt like trying to catch a cloud — fun to chase but impossible to hold.
 
@@ -31,7 +31,7 @@ In Buzzleberg, the Annual Hobby Hoopla was the highlight of the year. Everyone w
 
 In the world of the Brain Circus, our juggler was getting jittery. You see, when it comes to the big 'C'—commitment—that's when our juggler feels like a squirrel at a dog park. Too many possibilities, too much going on, and oh, the overwhelming need to choose just one nut!
 
-### A Tumbling Routine of Thoughts
+## What ADHD Commitment Fears Really Mean (And How to Cope)
 
 In the midst of these swirling thoughts, our juggler often wondered if they were simply facing the classic [ADHD Fear of Failure](/pages/adhd-fear-of-failure/), questioning their ability to succeed in any chosen path.
 
@@ -47,7 +47,7 @@ One sunny afternoon, Max and Sparky sat under their favorite tree. "Maybe my ADH
 
 This realization hit Max especially hard as he considered his past experiences with [ADHD big dreams no follow through](/pages/adhd-big-dreams-no-follow-through/), wondering if his dreams were just too vivid for reality.
 
-### A Purr-fect Understanding
+## How to Take Small Steps Toward Commitment with ADHD
 
 Max decided to take small steps. He talked to his friends about his feelings, sharing his whirlwind mind-map. They didn't run; they understood and stayed. They shared their own fears, which weren't so different.
 

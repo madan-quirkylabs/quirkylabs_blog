@@ -25,7 +25,7 @@ In the cozy nook of her rainbow-splattered treehouse, Ellie twiddled a pencil li
 
 Ellie glanced at her mountain of sketches and sighed. Her thoughts were raccoons at a picnic: curious, scattered, and into everything!
 
-### A Juggling Act in Ellie's Mind
+## ADHD Wired But Tired: Why Your Brain Won’t Shut Off at Night
 
 Turning her attention back to the paper, Ellie drew a superhero with sneakers that could sprint up rainbows. "If only I could borrow those for my brain," she giggled, imagining her thoughts racing on colorful arcs.
 
@@ -35,7 +35,7 @@ Ellie’s pencil danced across the page. Her mind was a wild concert but somehow
 
 So, there we were—the brain squirrels of ADHD-land, fizzing and buzzing like a soda pop left in the sun! They darted up and down the branches of thought, scampering tirelessly. But even the most energetic squirrel needs a break after a wild acorn chase.
 
-### Time for a Tiny Nap?
+## How to Rest When ADHD Keeps You Buzzing
 
 Even as they nestled into their leafy beds, the squirrels couldn't shake the nagging [ADHD guilt of doing nothing](/pages/adhd-and-guilt-doing-nothing/), feeling uneasy in the stillness that their tired bodies desperately needed.
 
@@ -53,7 +53,7 @@ Alex's new understanding whispered softly, like a secret, that it's okay to be a
 
 Alex giggled, picturing his energy as a puppy.
 
-### Superhero Pajama Party!
+## Winding Down With ADHD: Cozy Tricks for Restless Nights
 
 Together, we decided that even superheroes need to recharge. "Maybe they wear cozy pajamas and read comic books to relax," Alex suggested, a twinkle in his eyes.
 
