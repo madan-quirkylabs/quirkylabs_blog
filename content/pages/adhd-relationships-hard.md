@@ -216,7 +216,7 @@ Together, they stepped forward, ready to embrace every challenge, turning them i
 - [Adhd Too Much For Others](/pages/adhd-too-much-for-others/)
 - [Adhd People Leave Me](/pages/adhd-people-leave-me/)
 - [Adhd Want Love But Hide](/pages/adhd-want-love-but-hide/)
-- [Adhd Why Cant I Love Myself](/pages/adhd-why-cant-i-love-myself/)
+- [Adhd Why Cant I Love Myself](/pages/adhd-self-love-struggles/)
 </details>
 
 

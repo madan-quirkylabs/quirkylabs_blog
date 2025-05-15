@@ -8,7 +8,7 @@ These posts target high-volume keywords, address common ADHD challenges, and hav
 
 * `adhd-want-to-do-everything`
 * `adhd-wasting-potential`
-* `adhd-why-cant-i-love-myself`
+* `adhd-self-love-struggles`
 * `adhd-why-success-feels-fake`
 * `adhd-motivation-vanishes`
 * `adhd-anxious-attachment`

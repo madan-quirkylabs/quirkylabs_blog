@@ -206,7 +206,7 @@ So, if you ever feel like ADHD is making love play hide and seek with you, remem
 - [Adhd Breakups And Blame](/pages/adhd-breakups-and-blame/)
 - [Adhd Fear Being Unlovable](/pages/adhd-fear-being-unlovable/)
 - [Adhd Fear Of Rejection](/pages/adhd-fear-of-rejection/)
-- [Adhd Why Cant I Love Myself](/pages/adhd-why-cant-i-love-myself/)
+- [Adhd Why Cant I Love Myself](/pages/adhd-self-love-struggles/)
 </details>
 
 

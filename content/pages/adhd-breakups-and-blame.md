@@ -199,7 +199,7 @@ So remember, in relationships, as in life, every challenge is a chance to grow. 
 
 - [Adhd Want Love But Hide](/pages/adhd-want-love-but-hide/)
 - [Adhd Need For Reassurance](/pages/adhd-need-for-reassurance/)
-- [Adhd Why Cant I Love Myself](/pages/adhd-why-cant-i-love-myself/)
+- [Adhd Why Cant I Love Myself](/pages/adhd-self-love-struggles/)
 - [Adhd Love Me Then Leave Me](/pages/adhd-love-me-then-leave-me/)
 - [Adhd Too Emotional](/pages/adhd-too-emotional/)
 - [Adhd Do I Deserve Love](/pages/adhd-do-i-deserve-love/)
