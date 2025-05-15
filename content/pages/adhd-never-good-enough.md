@@ -27,7 +27,7 @@ In the whimsical town of Buzzlewood, Ellie, a spirited squirrel, was bustling ab
 
 Ellie’s treehouse was a splash of color and chaos, with acorn caps scattered like confetti after a parade. Her mind raced faster than a hummingbird’s wings, flitting from one idea to the next. Today, she was determined to sort them by color, size, and shininess.
 
-### A Nutty Dilemma
+## ADHD and Inadequacy: Why You Feel ‘Never Good Enough’ & How to Heal
 
 But no sooner had she started, Ellie’s attention was snagged by a shiny pebble outside her window. "Ooh, that would look fabulous in my collection!" she thought, and off she scampered down the tree.
 
@@ -39,7 +39,7 @@ One sunny day, Captain Focus-a-lot invited all his friends for a grand feast in 
 
 At that moment, Captain Focus-a-lot gently reminded them that even when they felt the pressure of [ADHD Expectation Vs Reality](/pages/adhd-expectation-vs-reality/), they were all uniquely brilliant in their way.
 
-### A Feast of Ideas
+## Embracing ADHD Strengths: Turning Self-Doubt into Self-Worth
 
 There was Sally with her seven-layer dip of dreams, each layer a different hope she had. Then came Tommy with a pie of puzzles, the crust intricately woven with his latest fixations. And don't forget Jerry, who brought a basket of bouncing blueberry muffins; they seemed to jump right out of the basket with excitement, just like Jerry's thoughts!
 
@@ -49,7 +49,7 @@ They laughed and planned more squiggly-path adventures, discovering that the jou
 
 As the sun set over the hills, Jamie finally understood something important. Their journey with ADHD wasn't about being perfect; it was about being wonderfully, uniquely themselves. "ADHD never good enough?" Jamie chuckled softly. "More like ADHD always good enough in its own special way."
 
-### A Colorful Conclusion
+## ADHD Perfectionism Recovery: From Judgment to Joyful Self-Acceptance
 
 As Jamie reflected on their struggles, they realized that their feelings of never being enough were tied deeply to the [ADHD internalized ableism](/pages/adhd-internalized-ableism/) they had experienced throughout their life.
 
@@ -61,7 +61,7 @@ Jamie nodded, feeling lighter and brighter. They realized that the challenge was
 
 And that was more than good enough.
 
-## Quickfire ADHD Checklist
+## ADHD Self-Esteem Checklist: Squirrel Brains & Celebrated Chaos
 
 1. **Squirrel Brain Rodeo**: When your thoughts buck wilder than a cowboy at a rodeo, lasso them gently back to the corral.
 
@@ -71,9 +71,7 @@ And that was more than good enough.
 
 4. **Treasure Hunt**: Remember, finding your keys, wallet, or phone is just an unexpected adventure added to your daily quest!
 
-## Frequently Asked Questions
-
-
+## ADHD Confidence FAQs: How to Feel Proud, Not Pressured
 
 ### What People Are Googling
 

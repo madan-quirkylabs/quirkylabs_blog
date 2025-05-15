@@ -25,7 +25,7 @@ In the heart of a bustling city, filled with more colors than a giant box of cra
 
 One crisp autumn morning, Piper was on a mission to organize their room, a task that turned into an epic adventure. They started by sorting out socks, but each pair had to be perfectly matched, not just by color but by size and texture. "ADHD perfectionism at its finest," Piper chuckled, knowing their brain loved details a bit too much.
 
-### A Colorful Quest Begins
+## ADHD Perfectionism Explained: How It Starts & How to Let It Go
 
 Piper's room was a treasure chest, but every treasure was out of place. Books piled like a leaning tower of pizza slices. Stuffed animals thrown around like a salad tossed too hard.
 
@@ -35,7 +35,7 @@ Their quest to conquer chaos continued, with their ADHD perfectionism guiding th
 
 In the grand symphony of Frankie's brain, the notes of ADHD perfectionism often played a sneaky tune. It was like trying to catch a soap bubble without popping it—every task had to be just so, or poof! Anxiety would flit in, dressed as a pesky mosquito, buzzing with reminders of possible mistakes.
 
-### Frankie's Brain Orchestra Plays On
+## ADHD Perfectionism vs Progress: Learning to Love the Lopsided Treehouse
 
 Frankie's realization also helped him face his [ADHD impostor syndrome](/pages/adhd-impostor-syndrome/), understanding that imperfections do not define his worth or abilities.
 
@@ -51,7 +51,7 @@ One evening, while sitting under his favorite sprawling oak tree, Teddy decided 
 
 During these heartfelt conversations, Teddy also opened up about his [ADHD impostor syndrome](/pages/adhd-impostor-syndrome/), feeling a deep relief as he shared his fear of being seen as less capable despite his talents.
 
-### A Cozy Conclusion
+## Managing ADHD Perfectionism: Let Your Inner Artist Squiggle Freely
 
 Teddy learned that it's okay not to be perfect. He found joy in the colors of his paintings, not just the lines. His friends loved his art, squiggles and all!
 
@@ -59,7 +59,7 @@ Now, Teddy tackles projects with a new motto: "Perfectly imperfect is just perfe
 
 Remember, every squiggle tells a story. Embrace your unique story, quirks and all!
 
-## Quickfire ADHD Checklist
+## ADHD Perfectionism Checklist: Octopuses, Cakes & Rainbow Lines
 
 🎨 **ADHD Perfectionism Playbook: Your Cozy Checklist** 🎨
 
@@ -75,9 +75,7 @@ Remember, every squiggle tells a story. Embrace your unique story, quirks and al
 4. **Color Outside the Lines**  
    Discover the joy in a scribble-scrabble rainbow, not just within the lines.
 
-## Frequently Asked Questions
-
-
+## ADHD Perfectionism FAQs: Why It Happens & How to Move Forward Without Burnout
 
 ### What People Are Googling
 

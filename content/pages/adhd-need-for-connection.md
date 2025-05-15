@@ -29,7 +29,7 @@ In the heart of the bustling city of Synapseville, there lived a sprightly young
 
 One sunny morning, as Sammy scampered up his favorite oak tree, his thoughts bounced around like popcorn. "What's for breakfast? Oh, look, a butterfly! I wonder if clouds ever get lonely?" This whirl of ideas was typical for Sammy, thanks to his ever-sparkling ADHD brain.
 
-### A Squirrel in Need of a Chat
+## ADHD Social Connection: Why It Matters & How to Build Belonging
 
 But with all these fluttering thoughts, Sammy felt a tug in his heart—a gentle reminder of his ADHD need for connection. He realized that while his mind raced, what he really wanted was to share these zippy thoughts with someone.
 
@@ -43,7 +43,7 @@ Zippy realized that the more he chatted and played with others, the less scatter
 
 Amid their nut-hunting escapades, Zippy also sensed that sometimes, despite the joy of the group, he could feel an undercurrent of [ADHD loneliness in relationships](/pages/adhd-loneliness-in-relationships/), a quiet reminder that being understood was as important as being loved.
 
-### A Nutty Gathering
+## Building ADHD Friendships: Playful Ways to Connect & Stay Grounded
 
 One sunny afternoon, Zippy organized a grand nut-hunting adventure. He invited all his forest friends. There was Chirpy the bird, Buzzy the bee, and even Slomo the snail, who promised to catch up eventually.
 
@@ -59,7 +59,7 @@ As Lily's friends gathered around, each sharing their own little quirks and stor
 
 Amid these heartwarming connections, Lily often battled the aching pang of [ADHD Rejection Sensitivity](/pages/adhd-rejection-sensitivity/), which made her treasure these friendships even more deeply.
 
-### A Pact Sealed with Laughter
+## ADHD Bonding Tips: How Shared Giggles Create Lasting Connection
 
 In the weeks that followed, their little group became tighter than the lids on pickle jars. They learned that while Lily sometimes darted around like a hummingbird from flower to flower, her heart was steady and loyal. Her friends started to appreciate how her ADHD brought them all a bit closer, weaving their lives together with laughter and spontaneous adventures.
 
@@ -67,7 +67,7 @@ As the leaves turned golden and the air grew crisp, Lily felt more rooted than e
 
 Lily's story teaches us that every heart sings a unique tune, but together, we create a symphony. So, reach out, hold hands, and let's dance through this wacky, wonderful life together.
 
-## Quickfire ADHD Checklist
+## ADHD Connection Checklist: Bouncy Bonds & Cozy Moments
 
 1. **Catch the Butterfly:** Chase conversations like they're bright butterflies in a sunny garden.
 
@@ -77,9 +77,7 @@ Lily's story teaches us that every heart sings a unique tune, but together, we c
 
 4. **Stitch the Quilt:** Piece together shared stories, crafting a colorful friendship quilt.
 
-## Frequently Asked Questions
-
-
+## ADHD Social Needs FAQs: How to Feel Seen & Supported
 
 ### What People Are Googling
 

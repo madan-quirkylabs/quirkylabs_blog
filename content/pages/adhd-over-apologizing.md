@@ -25,7 +25,7 @@ Once upon a bustling afternoon, Sammy, a young squirrel with sparkly eyes and a 
 
 Sammy's friends knew this dance well. They chuckled lovingly as he made his whirlwind apologies through the forest, collecting decorations.
 
-### Oops! Sorry about That!
+## ADHD Over-Apologizing Explained: Why You Say Sorry Too Much & How to Stop
 
 At the stream, Sammy accidentally splashed water on Bella Bee. "Oh dear! Sorry, Bella!" he squeaked. Bella smiled and buzzed, "No worries, Sammy!"
 
@@ -41,7 +41,7 @@ However, this superpower sometimes made her bump into the pesky habit of over-ap
 
 Feeling perpetually on the brink of being too much for others, she often wondered if her intense energy was a challenge for those around her to handle. [Adhd Too Much For Others](/pages/adhd-too-much-for-others/)
 
-### A Detour through Sorryville
+## ADHD and People-Pleasing: Breaking the Habit of Constant Apologies
 
 One day, Captain Focus met a wise old owl named Professor Hoot, who noticed her over-apologizing. "My dear Captain," he said, perched on a glimmering lamppost, "you sprinkle 'sorry' like salt on popcorn. But not every kernel needs it!"
 
@@ -57,7 +57,7 @@ Benny decided to try something new: replacing some sorrys with thank yous. Inste
 
 In his journey, Benny also confronted his deep-seated [ADHD fear of rejection](/pages/adhd-fear-of-rejection/), realizing that his over-apologizing was partly a shield against being dismissed or disliked.
 
-### Leafy Lessons in Gratitude
+## ADHD Apology Replacement Tricks: Say Thank You Instead of Sorry
 
 His friends noticed the change. They felt sunnier, like a morning without clouds. Benny felt lighter too, like a leaf finally resting on the ground after a playful dance in the breeze.
 
@@ -67,16 +67,14 @@ Benny learned that every sorry didn't need an echo. Sometimes, one heartfelt tha
 
 So, remember, like Benny, every one of us can turn our sorry leaves into gratitude trees. And who knows? Maybe our friendships will grow stronger, rooted in understanding and kindness.
 
-## Quickfire ADHD Checklist
+## ADHD Apology Overload Checklist: From Sorry Storms to Sparkly Self-Worth
 
 1. **Catch the Sorry Sprinkle:** Before a "sorry" slips out, catch it like a sneaky firefly!
 2. **Is It a Sorry Soup?** Check if you're stirring a big pot of unnecessary apologies!
 3. **Magic Mirror Moment:** Ask your reflection if you really need to say sorry today.
 4. **Sorry-Not-Sorry Switch:** Every time you want to say sorry, swap it with a thank you!
 
-## Frequently Asked Questions
-
-
+## ADHD Over-Apologizing FAQs: Where It Comes From & How to Rewire It
 
 ### What People Are Googling
 

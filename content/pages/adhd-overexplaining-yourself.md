@@ -23,7 +23,7 @@ Once upon a sunny afternoon, Sammy, a sprightly squirrel with sparkly eyes, was 
 
 As he started his tale, Sammy didn’t just talk about acorns. Oh no! He dove into the history of acorns, the different types of trees, and why autumn leaves were like nature’s confetti.
 
-### Acorn Adventures Begin!
+## ADHD Overexplaining: Why You Share Every Detail & How to Feel Heard
 
 His friends giggled as Sammy zigzagged through stories about squirrel ancestors and acorn cap hats. He described every crunch and twitch of his nose with bubbly enthusiasm. For Sammy, every detail was a treasure chest of fun facts, spilling over like a waterfall of words.
 
@@ -35,7 +35,7 @@ This was Simon’s way of navigating through life with his extra special brain w
 
 Amidst his tales, Simon often wondered if his vibrant storytelling was just a mask for what many with ADHD experience, a constant battle against [ADHD impostor syndrome](/pages/adhd-impostor-syndrome/), questioning the authenticity of his own narratives.
 
-### Why All the Details?
+## ADHD Communication Style: Why Your Brain Loves Sharing the Whole Story
 
 Well, for Simon, every detail was a star in his night sky. Leaving one out felt like hiding the best part of the story. When he overexplained, it wasn’t just for his audience; it was how his brain enjoyed the replay, colorful and vibrant.
 
@@ -49,7 +49,7 @@ Charlie learned to appreciate his unique way of sharing. He saw it as adding ext
 
 In that warm, accepting moment, Charlie also found comfort in knowing that despite often feeling like he had to [perform to be productive](/pages/adhd-performative-productivity/), his genuine self was enough to make a lasting impact.
 
-### Brushstrokes of Brilliance
+## ADHD Self-Expression Tips: Turning Overexplaining Into Clear, Confident Sharing
 
 One sunny afternoon, while painting a mural in the park, Charlie decided to embrace his natural storytelling style fully. He laughed, saying, "My brain is like this paintbrush, always adding new colors!"
 
@@ -61,7 +61,7 @@ Charlie smiled, his heart full. "Maybe it's not about talking less but sharing w
 
 So, remember, like Charlie, your unique voice is your strength. Don't hold back your colors; let them shine bright!
 
-## Quickfire ADHD Checklist
+## ADHD Overexplaining Checklist: From Popcorn Thoughts to Painted Clarity
 
 1. 🎈 Imagine you're a balloon; don't pop with too much air—keep your stories light and bouncy!
 
@@ -71,9 +71,7 @@ So, remember, like Charlie, your unique voice is your strength. Don't hold back 
 
 4. 🎨 Think of your chat as a mini painting—not every inch needs color. Leave space for imagination!
 
-## Frequently Asked Questions
-
-
+## ADHD Communication FAQs: How to Stop Overexplaining & Start Feeling Understood
 
 ### What People Are Googling
 

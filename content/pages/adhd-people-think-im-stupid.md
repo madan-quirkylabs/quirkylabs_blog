@@ -27,7 +27,7 @@ Once upon a time in the bustling town of Brainwave, there lived a young girl nam
 
 At school, Ellie often heard whispers, "ADHD people think I'm stupid." It stung a little each time, but she knew better than to believe it. Her brain just ran on sparkly, high-octane fuel, making ordinary thoughts extraordinary!
 
-### A Brilliant Burst of Brainpower
+## ADHD Misunderstood Intelligence: Why People Judge & Why They’re Wrong
 
 One sunny Thursday, Mrs. Maple, the science teacher, announced a project about the solar system. Ellie's hand shot up like a rocket. "Can I make a model with rotating planets?"
 
@@ -41,7 +41,7 @@ I chuckled, shaking my head. "Oh, Ziggy, it’s like when you try to store your 
 
 Feeling misunderstood or underestimated due to ADHD can often lead to a [sense of low self-worth](/pages/adhd-low-self-worth/), but remember, Ziggy, every mind has its unique way of shining.
 
-### A Forest of Thoughts
+## ADHD Thinking Patterns: Embrace the Zigzag Genius Inside You
 
 Just like Ziggy’s forest, filled with hidden acorn treasures, every ADHD brain is bustling with thoughts. Sometimes, these thoughts scatter like leaves in the wind, making it hard for us to catch them all. But that doesn’t mean there’s less value in the forest; it’s just a bit more colorful and unpredictable.
 
@@ -59,7 +59,7 @@ Lou's understanding gaze deepened as he added, "And you know, carrying those old
 
 Sam nodded, his eyes twinkling. "Exactly! Sometimes, our brains just race on a different track!"
 
-### A Cozy Conclusion
+## ADHD and Self-Worth: How to Ditch Doubt and Celebrate Your Brain
 
 They spent the afternoon sharing stories, each more colorful than the last. Sam felt lighter, like a leaf dancing in the wind.
 
@@ -67,7 +67,7 @@ Lou smiled warmly. "It's not about being fast or slow, smart or not. It’s abou
 
 Sam left the café with a new bounce in his step. He realized that what makes us different makes us special. And that's pretty smart, isn't it?
 
-## Quickfire ADHD Checklist
+## ADHD Self-Esteem Reboot Checklist: Lemons, Capes & Brainstorms
 
 🌟 **Quirky Checklist for "ADHD People Think I'm Stupid" Moments** 🌟
 
@@ -79,9 +79,7 @@ Sam left the café with a new bounce in his step. He realized that what makes us
 
 4. **Build Your Bouncy Castle of Ideas**: When one tumbles, bounce right back with another!
 
-## Frequently Asked Questions
-
-
+## ADHD Intelligence FAQs: Why You’re Not ‘Stupid’—Just Wired Differently
 
 ### What People Are Googling
 

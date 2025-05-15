@@ -25,7 +25,7 @@ Once upon a bubbly afternoon, Sammy Squirrel was scampering through the vibrant 
 
 Today, Sammy had a mission! Mrs. Owl needed her nest reorganized. Mr. Beaver wanted help building a dam. And the Bunny family was hosting a hop-dance that needed an extra judge.
 
-### Sammy's Super Squirrel Services
+## ADHD People Pleasing Explained: Why You Do It & How to Stop Exhausting Yourself
 
 Sammy started with Mrs. Owl's towering tree home. He tidied with twirls, fluffs flying like a mini tornado. Next, he dashed to Mr. Beaver’s brook, balancing bark and twigs with acrobatic ease. Finally, he hopped over to judge the Bunny hop-dance, his eyes sparkling with excitement at each bunny bounce.
 
@@ -37,7 +37,7 @@ Captain Focus decided it was time for a tune-up. He flew The Pleaser to the near
 
 At the space station, he also confided in Blinky about his nagging feeling of not doing enough or being enough, which is often intensified by [ADHD impostor syndrome](/pages/adhd-impostor-syndrome/).
 
-### Tune-Up Time!
+## ADHD Boundary Setting: How to Say No Without Guilt or Meltdown
 
 At the station, the mechanic, a wise old robot named Blinky, listened to Captain Focus's concerns. "You've got to remember to balance your thrusters," Blinky advised, tapping on The Pleaser's dashboard. "It’s easy to burn out if you're always accelerating to please others."
 
@@ -53,7 +53,7 @@ Jamie decided it was okay to say no sometimes. They didn't have to juggle everyo
 
 Amid these revelations, Jamie also contemplated how their [ADHD impostor syndrome](/pages/adhd-impostor-syndrome/) often made them doubt their genuine need for downtime, confusing self-care with selfishness.
 
-### A Basket of Puppies
+## ADHD Self-Worth Recovery: Set Boundaries Like You Mean It
 
 The next day, Jamie started small. They told their friend they couldn’t hang out because they needed some alone time. It felt weird but good. Like wearing a new pair of shoes that you need to break in.
 
@@ -63,7 +63,7 @@ From then on, Jamie made sure to check in with themselves. Were they saying yes 
 
 It’s okay to take care of yourself too. Remember, even superheroes need a break!
 
-## Quickfire ADHD Checklist
+## ADHD People Pleasing Checklist: Cookies, Chalk & Healthy “No”s
 
 1. 🎭 Imagine juggling flaming torches — that's your ADHD people-pleasing. Drop one; it’s okay!
 
@@ -73,9 +73,7 @@ It’s okay to take care of yourself too. Remember, even superheroes need a brea
 
 4. 🐢 Slow down! You’re not a racehorse at the derby; more like a cozy, thoughtful turtle.
 
-## Frequently Asked Questions
-
-
+## ADHD Pleasing Habits FAQs: What Causes Them & How to Break Free
 
 ### What People Are Googling
 

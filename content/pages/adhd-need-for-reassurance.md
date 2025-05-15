@@ -25,7 +25,7 @@ Once upon a time, in the bustling town of Whimsyville, there lived a young fox n
 
 One crisp autumn morning, Felix was gearing up for his big presentation at the Whimsyville Woodland Conference. He had practiced his speech about the magical properties of dewdrops a gazillion times. Yet, every few minutes, he’d scamper up to his friend, Bella the Beaver, asking, "Do you think it's good enough? Are you sure I got this?"
 
-### Why Does Felix Keep Asking?
+## ADHD Reassurance Seeking: Why You Ask & How to Feel More Secure
 
 Bella, wise and patient, understood that Felix, like many with ADHD, had an intense need for reassurance. It wasn’t just about being unsure; it was like his brain constantly wanted to make sure the puzzle pieces were still fitting together perfectly in his mind.
 
@@ -35,7 +35,7 @@ And with each reassurance, Felix felt a little more confident, his thoughts a bi
 
 When we last left our hero, Captain Focus, he was diving deep into the sea of chaos, his trusty Sidekick Reassurance always by his side. The duo was inseparable, tackling swirling whirlpools of distraction and leaping over waves of forgetfulness with ease. But why, you might wonder, does Captain Focus rely so much on his pal Reassurance?
 
-### A Sidekick Worth Having
+## ADHD Confidence Boosts: How Validation Helps You Stay Grounded
 
 Yet, beneath his cape, Captain Focus harbors a quiet fear, wondering if he's just [too much for others](/pages/adhd-too-much-for-others/), a whisper that Reassurance gently silences with each successful endeavor.
 
@@ -51,7 +51,7 @@ His friends, seeing his worry lift, cheered and clapped harder. They knew Sammy 
 
 Sammy also realized that his fear of being too much for others was just another hurdle he could clear with the support of his friends, just like in the game. [ADHD Too Much For Others](/pages/adhd-too-much-for-others/)
 
-### A High Five for Every Try!
+## ADHD and Emotional Support: How to Feel Safe Without Over-Asking
 
 Each smile and high five from his friends acted like little sparks of joy, helping him light up the scoreboard with confidence. Sammy learned that asking for a bit of reassurance wasn't a setback; it was his secret strategy to keep the game fun and his spirits high.
 
@@ -59,7 +59,7 @@ As the game ended and the group gathered their things, Sammy felt lighter and mo
 
 "Every day's a game, and every cheer helps me play better!" Sammy thought, smiling as he walked home under the twinkling stars.
 
-## Quickfire ADHD Checklist
+## ADHD Reassurance Checklist: Cheery Cheers for Your Sparkly Self
 
 1. **Hug-o-Meter Check:** Squeeze a reassuring hug from someone like a bear grabbing honey!
 
@@ -71,9 +71,7 @@ As the game ended and the group gathered their things, Sammy felt lighter and mo
 
 5. **Mirror Pep Talk:** Tell your reflection it’s more awesome than a superhero in pajamas!
 
-## Frequently Asked Questions
-
-
+## ADHD Self-Doubt FAQs: Why You Need Validation & How to Rewire That Need
 
 ### What People Are Googling
 

@@ -23,7 +23,7 @@ Milly had a superpower, sort of like having turbocharged roller skates for her b
 
 On a bright Saturday morning, Milly decided she was going to be the best plant mom ever. Her little apartment jungle was going to be pristine! She started with the fern in the corner, then zipped to the succulents on the windowsill, and suddenly, whoosh! Now she was repotting the cactus that definitely didn't need repotting.
 
-### The Great Plant Explosion
+## ADHD Overcompensating at Home: When Doing Too Much Turns Into Burnout
 
 In a whirlwind of soil and leaves, Milly's living room looked like a salad after a food fight. She plopped into a pile of potting soil, panting. "Maybe that was too much," she sighed, looking at her dirt-streaked cat who seemed to agree. But hey, at least the plants were watered, twice... or was it three times?
 
@@ -31,7 +31,7 @@ Milly's day had just begun. She had a list! Well, several lists. And each list h
 
 When we last left Sam, the squirrel, he was in a whirlwind of activity, trying to gather every acorn in sight. His little paws were a blur, racing from tree to tree. This, my friends, is a bit like when someone with ADHD overcompensates.
 
-### Acorn Avalanche!
+## ADHD Perfectionism & Overachievement: Why You Do Too Much to Feel 'Enough'
 
 This gentle approach allowed Sam to focus better without the constant fear of acorns—and expectations—crashing down around him, a feeling all too familiar to those grappling with [ADHD and the fear of being found out](/pages/adhd-fear-of-being-found-out/).
 
@@ -47,7 +47,7 @@ Jamie decided to embrace the boomerang. Maybe it didn't always fly straight, but
 
 Amidst their reflections, Jamie realized this pattern also fed into a deeper issue, often feeling like they were [ADHD masking at work](/pages/adhd-masking-at-work/), always performing to meet others’ expectations while hiding their true self.
 
-### Boomerang Bonanza!
+## ADHD Overcompensation Recovery: From Trying Too Hard to Thriving Just Right
 
 At the family dinner, Jamie shared their new perspective. "Think of my brain like a playful puppy," Jamie explained, "it runs around excitedly, but always comes back with something unexpected!"
 
@@ -59,7 +59,7 @@ In the cozy glow of their bedroom, scribbling in a journal, Jamie felt a warm sa
 
 So, let's throw our boomerangs with gusto, embracing the unpredictable flights, and celebrate where they land!
 
-## Quickfire ADHD Checklist
+## ADHD Overcompensating Checklist: Juggling, Sweaters & Tea Party Pacing
 
 1. **Juggling Jellybeans** - Keep those colorful tasks in the air, but don’t let them splat!
 
@@ -69,9 +69,7 @@ So, let's throw our boomerangs with gusto, embracing the unpredictable flights, 
 
 4. **Dancing with Deadlines** - Twirl through your tasks, but remember to take a bow and rest!
 
-## Frequently Asked Questions
-
-
+## ADHD Overcompensation FAQs: Why It Happens & How to Create Balance
 
 ### What People Are Googling
 

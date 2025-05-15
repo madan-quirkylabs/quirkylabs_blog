@@ -23,7 +23,7 @@ Once upon a bubbly Tuesday morning, Jamie, with a sparkle of mischief in their e
 
 "Let's start a rock band!” Jamie exclaimed at breakfast. By lunch, it was, "We should totally paint the living room bright orange!” Their friends smiled, nodding along to the rhythm of Jamie's ever-changing beats.
 
-### Why Jamie's Ideas Flit and Float
+## ADHD Relationship Struggles: Why People Might Leave & What’s Actually Happening
 
 Now, Jamie's friends often whispered, "ADHD people leave me in the dust with their whirlwind ideas." It wasn’t that Jamie didn't care; their brain just danced to a faster tune! Ideas popped like popcorn, each one as exciting as the last.
 
@@ -31,7 +31,7 @@ So, while Jamie was already crafting a kite that could touch the clouds, their f
 
 So, there we were in the bustling brain-town market, where thoughts were like popping popcorn. Suddenly, Sam the Sparkle, our ADHD hero, noticed something. "ADHD people leave me," he mumbled, looking around. His thought-friends had dashed off to a new stall, distracted by shiny new ideas.
 
-### A New Adventure Every Minute
+## ADHD and Social Dynamics: How Fast Brains Lead to Misunderstood Friendships
 
 Despite his initial fears, Sam knew his friends' wandering was not a reflection of his worth, subtly easing his [ADHD fear of abandonment](/pages/adhd-fear-of-abandonment/).
 
@@ -45,7 +45,7 @@ In the end, Sam realized it wasn't about being left. It was about the adventure�
 
 After our chat, I realized something important. Yes, sometimes ADHD people leave me, but that's not the whole story. It's like a game of musical chairs. Sometimes, when the music stops, they just need to find the nearest chair, not the one next to me. And that's okay!
 
-### A Dance of Chairs and Chances
+## Coping with ADHD Abandonment Feelings: Dance, Don’t Despair
 
 This ebb and flow often leaves me wondering if I'm just [too much for others](/pages/adhd-too-much-for-others/), but then I remember it's all part of our unique rhythm.
 
@@ -53,16 +53,14 @@ I learned to see the beauty in their whirlwind. Like leaves in the wind, they mi
 
 So, if you ever feel like someone with ADHD has left you behind, remember, it's not the end. It's just a pause in the dance. Keep the music playing and be ready for when they whirl back into your life. The reunion will be sweet, I promise!
 
-## Quickfire ADHD Checklist
+## ADHD Relationship Rollercoaster Checklist: Tag, You’re Still Loved!
 
 1. 🚀 Launch into conversations like a rocket—leave slow starts in the dust!
 2. 🧩 Embrace your puzzle pieces—even if they don’t always fit perfectly.
 3. ⏰ Set a squirrel’s timer—short, sweet, and squirrely quick!
 4. 🎨 Paint your exits with rainbow colors—make ‘em bright, make ‘em bold!
 
-## Frequently Asked Questions
-
-
+## ADHD Friendship Challenges FAQs: From Fear of Loss to Rebuilding Bonds
 
 ### What People Are Googling
 

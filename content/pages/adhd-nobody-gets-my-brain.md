@@ -23,7 +23,7 @@ Once upon a time, in the colorful, bustling town of Synapseville, lived Zippy, a
 
 One sunny morning, Zippy decided to bake a cake. But oh! His mind danced from eggs to elephants in a blink. He cracked an egg, then suddenly started painting an elephant on the eggshell. Why? Because, why not?
 
-### A Whirlwind in the Kitchen
+## ADHD Thought Patterns: When No One Gets Your Brain's Wild Magic
 
 As he reached for the flour, his sleeve swept up his math homework. Flour clouds poofed around, turning the kitchen into a winter wonderland. Zippy giggled, tossing glitter into the mix because glitter makes everything better, right?
 
@@ -31,7 +31,7 @@ Outside, the sun played hide and seek with the clouds. Inside, Zippy played tag 
 
 Where were we? Ah, yes! Our happy little brain, bustling like a busy street market, filled with the vibrant stalls of thoughts, ideas, and daydreams. The owner of this bustling marketplace, let's call her Jamie, often feels like her sign reads "ADHD - Nobody Gets My Brain!" because her thoughts are as jumpy as a frog in a sock!
 
-### What's on Today's To-Do List?
+## ADHD Brain Explained: From Idea Chaos to Creative Masterpiece
 
 Despite the excitement of her bustling mind, Jamie often finds herself wrestling with the [ADHD Rejection Sensitivity](/pages/adhd-rejection-sensitivity/), fearing her vibrant way of thinking might be too much for others to handle.
 
@@ -47,7 +47,7 @@ In the warm glow of the setting sun, Jamie's friends suggested they each share s
 
 Exploring these nuances together also deepened Jamie's sense of connection, which he often longed for, as he navigated the feelings described on the page about [ADHD Need For Connection](/pages/adhd-need-for-connection/).
 
-### A Brain Like a Box of Crayons
+## ADHD Brain Uniqueness: Celebrate Your Colorful, Creative Mind
 
 "Think of my ADHD as a box of crayons," Jamie said, excitement bubbling up. "Sometimes, I color outside the lines without even noticing!"
 
@@ -59,16 +59,14 @@ Jamie felt a warm sense of belonging. With friends like these, he knew they'd la
 
 And so, with hearts lighter and minds slightly more understood, they continued their journey under the starlit sky, ready to tackle the world—one colorful, chaotic crayon stroke at a time.
 
-## Quickfire ADHD Checklist
+## ADHD Mind Unboxed Checklist: Rollercoasters, Crayons & Calm
 
 1. 🚀 Strap in! My thoughts are a rollercoaster—no slow rides here.
 2. 🌪️ Mind like a tornado; ideas swirling faster than leaves in the wind.
 3. 🎨 My brain’s a box of crayons—sometimes outside the lines but always colorful.
 4. 🧩 If understanding me is a puzzle, don’t worry—some pieces just hide under the sofa!
 
-## Frequently Asked Questions
-
-
+## ADHD Misunderstood Brain FAQs: Why It Happens & How to Explain It
 
 ### What People Are Googling
 

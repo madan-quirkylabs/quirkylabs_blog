@@ -23,7 +23,7 @@ Once upon a casual Tuesday, Sammy the squirrel woke up in a flurry. His little m
 
 Sammy scurried around his tiny treehouse, cheeks puffed, eyes wide. "Too much to do, too little time!" he chirped fretfully.
 
-### Oh Nuts, Where Did the Time Go?
+## ADHD Time Anxiety: Why Wasted Time Triggers Panic & How to Reset Gracefully
 
 His heart did a bouncy dance as he checked off his to-do list. "Gather acorns, sort leaves, fluff up the nest..." The list seemed to stretch longer than a caterpillar doing yoga!
 
@@ -37,7 +37,7 @@ Timmy decided to confront the parade. He grabbed his imaginary conductor’s bat
 
 In this newfound rhythm, Timmy also learned to embrace his [ADHD Big Dreams No Follow Through](/pages/adhd-big-dreams-no-follow-through/), seeing each small step as part of a bigger dance, even if the final performance wasn't always clear.
 
-### Making Friends with the Clock
+## ADHD Time Management Tips: Dancing with the Clock Instead of Racing It
 
 He started by slowing down the march. Instead of rushing from task to task, Timmy took a deep breath. He pictured the clock hands moving to a gentle waltz, not the frantic tap-dance of before.
 
@@ -51,7 +51,7 @@ But then, Aunt Mabel, with her twinkling eyes and wise smile, handed Sam a color
 
 Amidst these gentle ticks, he also saw the beauty in the [ADHD brilliant but blocked journey](/pages/adhd-brilliant-but-blocked/), understanding that each pause and reflection was a part of his creative process, not just a delay.
 
-### Time Became a Friend, Not a Foe
+## ADHD Productivity Without Panic: How to Turn Wasted Time into Wins
 
 Sam started using the timer, not as a strict taskmaster, but as a playful companion in his adventures. Each beep became a celebration of what he had achieved, not a scary reminder of what hadn’t been done.
 
@@ -61,7 +61,7 @@ At the end of the day, Sam realized that time was a canvas, and he was the artis
 
 So, whenever the old worry whispers, Sam smiles and sets his colorful timer. Each tick now says, "You’re doing just fine."
 
-## Quickfire ADHD Checklist
+## ADHD Time Panic Checklist: Monsters, Trains & Cozy Time Tricks
 
 1. **Tame the Time-Eating Monster:** Picture ADHD as a cuddly, yet mischievous monster munching on your minutes!
 
@@ -71,9 +71,7 @@ So, whenever the old worry whispers, Sam smiles and sets his colorful timer. Eac
 
 4. **Catch the Runaway Train Thoughts:** Before your brain zips to the next station, jot down where it's been!
 
-## Frequently Asked Questions
-
-
+## ADHD Time Management FAQs: How to Cope When Time Feels Like It’s Slipping Away
 
 ### What People Are Googling
 

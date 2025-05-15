@@ -25,7 +25,7 @@ In the whimsical town of Bustleburg, Jamie had a peculiar way of doing things. W
 
 One bright morning, Jamie set out to organize the grandest tea party ever seen in Bustleburg. The plan was simple: invite everyone, bake cookies, and of course, brew a gigantic pot of lavender tea. Easy-peasy, right? But Jamie's brain buzzed like a bee near a blooming flower. One idea sparked another.
 
-### A Whirlwind of Whimsy
+## ADHD Performative Productivity: Why You Fake Focus & What To Do Instead
 
 Suddenly, Jamie remembered the need to water the plants. Mid-cookie-bake! Off to the garden they dashed, watering can singing a shimmering tune. But wait—wasn’t the cat’s birthday today too? Balloons! Where were the balloons?
 
@@ -39,7 +39,7 @@ Captain Focus, with his shimmering cape of concentration, tries to outmaneuver t
 
 Despite his triumphs, Captain Focus often wrestles with [ADHD impostor syndrome](/pages/adhd-impostor-syndrome/), quietly wondering if his achievements are just another elaborate illusion.
 
-### A Tangle of Tasks!
+## ADHD Real Productivity: How to Drop the Act and Work with Purpose
 
 As Captain Focus spins faster, the tasks become a blur. The ghost cheers, loving the chaos. But our hero learns quickly. He realizes that slowing down might just be his superpower. 
 
@@ -49,7 +49,7 @@ Captain Focus smiles, a task well completed in hand. He's found the secret: true
 
 In the heart of the bustling city of Brainville, where thoughts zoomed like speedy cars and ideas fluttered like colorful butterflies, Jamie had learned a valuable lesson about ADHD performative productivity. They realized that trying to juggle too many tasks at once just because they thought they had to wasn't the way to go. It was like trying to catch raindrops in a sieve—exhausting and not very effective!
 
-### Whistles and Bubbles
+## ADHD Focus Strategies: Turning Chaos into Meaningful Momentum
 
 In the midst of their revelations, Jamie also came to understand the deep-seated [ADHD Impostor Syndrome](/pages/adhd-impostor-syndrome/) that often made them doubt their own successes, despite clear evidence of their capabilities.
 
@@ -61,7 +61,7 @@ Jamie's journey taught them that it's okay not to be the flashiest performer in 
 
 Keep dancing to your own beat, and let the magic of ADHD performative productivity shine in your unique way!
 
-## Quickfire ADHD Checklist
+## ADHD Productivity Checklist: Boats, Butterflies & Real Wins
 
 1. **Set Sail on the Task Ocean:** Launch your boat, even if the sails are a bit wrinkly!
 
@@ -71,9 +71,7 @@ Keep dancing to your own beat, and let the magic of ADHD performative productivi
 
 4. **Reward the Inner Magpie:** Shiny treat time after every tiny victory lap!
 
-## Frequently Asked Questions
-
-
+## ADHD Productivity Struggles FAQs: How to Work Smarter Without the Stress
 
 ### What People Are Googling
 

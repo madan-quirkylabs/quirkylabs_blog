@@ -13,7 +13,7 @@ og_title: "ADHD or Lazy? How to Tell the Difference (Free Quiz Included)"
 og_description: "Wondering if it’s ADHD or just laziness? Take our free quiz and learn the signs of executive dysfunction, procrastination, and what’s really going on in your brain."
 ---
 
-## Tap-Tap-Twirly Brain: Adventures in Maybe-ADHD
+## ADHD or just Lazy
 
 You ever feel like a bunny hopping in 10 different directions? Not lazy, sweetie, just chaotically cute!
 
@@ -31,7 +31,7 @@ Now, you may ask, is it "ADHD vs laziness"? Sit tight, my friend, I'm about to c
 
 Picture this: It's a sunny Tuesday afternoon. A tasty sandwich and crackling, crunchy chips await you. Your homework? Not so much. It's glaring at you like an old, grumpy cat. You tell it to shush. You want to enjoy your sandwich in peace.
 
-### Let's Zoom into Your Brain!
+## ADHD vs Laziness: How to Tell the Real Difference in Your Brain
 
 ADHD stands for Attention Deficit Hyperactivity Disorder. It’s a bit like having 1000 rainbow squirrels running around your brain, each one shouting for attention.
 
@@ -45,7 +45,7 @@ So where does this thrilling brain adventure lead us? Right into the heart of th
 
 Folks often mistake ADHD for laziness. Like confusing pizza and pie – they might look round and delicious, but inside, they're totally different! ADHD resembles a high-speed ping-pong match inside your head. Thoughts bounce back and forth, making it hard to focus on one thing. Laziness, on the other hand, is like a slow-motion video. There's not much happening, and even less effort involved.
 
-### Meet Snowflake, the Fast-Fox
+## ADHD or Just Lazy? Understanding Executive Dysfunction with a Quirky Twist
 
 Imagine heading to the supermarket for some awesome ice cream. Along the way, you get distracted by delightful chattering squirrels, a fun street musician, or snowflakes dancing in the wind. That's your cute but mischievous invisible pet fox, Snowflake (a refreshing nickname for ADHD, yeah?). Snowflake is zippy and loves to explore. Kind of like a turbo-charged bubbles machine - bouncing here, there, and everywhere!
 
@@ -57,7 +57,7 @@ Ah, our journey is just about done! In our cozy little adventure of understandin
 
 We learned that it's not about laziness. It's not about being a sleepy sloth who just can't be bothered. ADHD is like a busy bee buzzing impatiently, trying to focus on a million flowers at once. 
 
-### The Hyperactive Hummingbird 
+## ADHD Motivation Problems: Why You’re Not Lazy, Just Wired Differently
 
 When you have ADHD, you're a hummingbird. You're not lazy, just constantly on the move. You're looking for the sweetest nectar but you're hardly ever still. 
 
@@ -65,7 +65,7 @@ On days you feel like a lazy cat, remind yourself, "no, I'm a hummingbird". You 
 
 So, let's keep humming along, shall we? No more self-labeling as lazy. You're just uniquely wired. You're flying to your own rhythm. Keep being you, because you're brilliant just as you are!
 
-## Quickfire ADHD Checklist
+## ADHD vs Lazy Checklist: Fireworks, Foxes & Focus Fumbles
 
 1. Do your thoughts jump around like hyperactive kangaroos on coffee?
 2. Is your memory fluffier than a pillow? You keep losing things inside it?
@@ -74,7 +74,7 @@ So, let's keep humming along, shall we? No more self-labeling as lazy. You're ju
 5. Could impatience be your shadow, popping up way too often and everywhere?
 6. Are you a professional juggler, multitasking and dropping balls everywhere? ADHD or laziness, who can tell?
 
-## Frequently Asked Questions
+## ADHD or Lazy FAQs: What's Really Going On in That Brilliant Brain?
 
 <details>
 <summary>Do I have ADHD or am I just a super slack-potato?</summary>
