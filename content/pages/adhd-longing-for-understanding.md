@@ -24,7 +24,7 @@ Tommy was like a bouncy ball in a small room, always on the move. His mind was a
 
 One sunny afternoon, Tommy decided to build the tallest tower ever with his colorful blocks. As he stacked one block on top of another, his mind raced with possibilities. He imagined a rocket-shaped tower soaring into the sky, touching the clouds.
 
-### Tommy's Tower Touches the Clouds
+## ADHD Need for Understanding: Why You Crave It & How to Build Connection
 
 The tower wobbled. Tommy’s thoughts scattered like marbles on a dance floor. He giggled, trying to catch them all before they rolled away. His mom watched from the kitchen, a smile playing on her lips. She knew this dance well.
 
@@ -36,7 +36,7 @@ One sunny day, Sparky decided to build a bridge. Not just any bridge, but one th
 
 Among the villagers, some whispered about Sparky's [ADHD rejection sensitivity](/pages/adhd-rejection-sensitivity/), empathizing with his fear that his intense energy might push them away instead of pulling them closer.
 
-### Bridge Building Begins!
+## ADHD Relationship Building: Turning the Need to Be Understood Into Real Support
 
 Sparky started with colorful bricks of curiosity and ropes of resilience. But every now and then, a brick would slip, or a rope would snap. That's just how it goes in the world of BusyBrains. But Sparky kept at it, humming a tune of persistence.
 
@@ -48,7 +48,7 @@ And so, in the cozy world of BusyBrains, Sparky found that his longing for under
 
 In the bustling village of Mindwell, everyone gathered around Max, the lanterns casting a warm glow like a hug from the sun. Max's story of ADHD longing for understanding touched the hearts of the villagers. They realized that sometimes, minds like Max’s just had a different way of dancing to life's rhythm.
 
-### A Symphony of Understanding
+## Emotional Validation for ADHD: How Feeling Seen Transforms Your World
 
 This moment of connection was especially poignant for Max who often felt the sting of [ADHD rejection sensitivity](/pages/adhd-rejection-sensitivity/), fearing that his intense way of experiencing the world might push others away.
 
@@ -58,7 +58,7 @@ Max felt a lightness, like a leaf finally finding its way after swirling in the 
 
 With hearts lighter and minds open, the village of Mindwell became a beacon of understanding. Max smiled, knowing that together, they could turn every whirlwind into a waltz.
 
-## Quickfire ADHD Checklist
+## ADHD Validation Checklist: Your Brain's Not Broken—Just Brilliant
 
 1. **Pack Your Patience Picnic Basket**  
    Fill it with soft, squishy understanding and a big napkin of time.
@@ -72,9 +72,7 @@ With hearts lighter and minds open, the village of Mindwell became a beacon of u
 4. **Dance in the Rain of Distraction**  
    Let the drops tickle your thoughts and the puddles splash with bright ideas.
 
-## Frequently Asked Questions
-
-
+## ADHD Emotional Support FAQs: Why You Crave Connection & How to Get It
 
 ### What People Are Googling
 

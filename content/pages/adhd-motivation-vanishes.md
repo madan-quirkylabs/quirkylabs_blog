@@ -23,7 +23,7 @@ Once upon a time, in the curious little town of Mindwell, lived Ellie. Ellie had
 
 She started with excitement bubbling like a soda pop! She gathered wood, nails, and paint. But just as quickly as her excitement came, her ADHD motivation vanished. Poof! Like a magician's rabbit!
 
-### When Motivation Takes a Vacation
+## ADHD Lost Motivation: Why It Disappears & How to Find It Again
 
 Now Ellie stood puzzled, staring at the half-assembled birdhouse. Her mind took a detour, suddenly fascinated by a butterfly fluttering by. "Ooo, pretty!" she thought, forgetting the nails and hammer in her hand.
 
@@ -33,7 +33,7 @@ Ellie nodded, her spirits a bit droopy. She really wanted to finish that birdhou
 
 So, back to our tale of Sir Fidget and his vanishing treasure of motivation. Remember, just like how quickly Sir Fidget's treasure chest of motivation could disappear, so can the motivation for someone with ADHD. It could be there one minute, shining brightly, and poof! Suddenly, it's as if a sneaky dragon swooped down and snatched it away.
 
-### Sir Fidget's Quest Continues
+## ADHD Productivity Slumps: A Quirky Quest for Getting Things Done
 
 Amidst the mirth, Sir Fidget felt a pang of recognition that his grand ideas often soared high but lacked the follow-through, a common thread for those who, like him, dream big but struggle with execution.
 
@@ -49,22 +49,20 @@ Timmy decided he wouldn’t let the vanishing act of his motivation keep him dow
 
 As he savored each cookie, Timmy pondered the [ADHD shiny object syndrome](/pages/adhd-shiny-object-syndrome/), reflecting on how easily new distractions could appear, tempting him away from his current battles.
 
-### Zap! Back to Action!
+## ADHD Motivation Hacks: Snacks, Breaks & Little Wins That Recharge You
 
 With every cookie break, Timmy felt his motivation power up like a little battery. He imagined himself glowing brighter with each bite. Soon, the clutter was gone, and Timmy felt like a hero in his own comic book. 
 
 He realized that it’s okay if motivation takes a little nap sometimes. The trick was to know how to wake it up again. With his new superpower of taking breaks, Timmy was ready for any challenge. And remember, every hero has their unique way to shine, just like you! Keep charging, keep shining!
 
-## Quickfire ADHD Checklist
+## ADHD Motivation Rescue Checklist: From Foggy Brains to Fireworks
 
 1. 🌈 Ride the unicorn of curiosity until it naps on a cloud.
 2. 🌪️ When ADHD motivation vanishes, it's like a sock lost in the laundry—search gently.
 3. 🍪 Treat tasks like surprise cookies hidden in the drawer—find and enjoy one by one!
 4. 🎈 Let your tasks be balloons—hold onto the string but let them float a bit.
 
-## Frequently Asked Questions
-
-
+## ADHD Motivation FAQs: Why You Freeze, Fizzle, and How to Get Going Again
 
 ### What People Are Googling
 

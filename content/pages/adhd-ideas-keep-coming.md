@@ -23,7 +23,7 @@ Hey, want to hop on the next idea train with me? Let's see where it goes togethe
 
 In the bustling town of Mindville, ideas were like popcorn kernels in a hot pot—especially for Jamie, whose brain was an ever-sizzling skillet. Jamie had ADHD, making their mind a dazzling, never-ending carnival of thoughts and inventions. Each morning, Jamie would wake up, and like clockwork, their brain churned out ideas as if a magical idea factory lived inside their head. "ADHD ideas keep coming," Jamie would laugh, scribbling frantically in their oversized, well-loved notebook.
 
-### A Whirlwind of Whimsy
+## ADHD Idea Overload: Whimsical Thoughts That Keep Coming
 
 At breakfast, Jamie’s thoughts danced from building a bike powered by laughter to inventing a pillow that could record dreams. "What if cats could talk?" they mused, watching their kitten, Sprinkles, attempt a majestic leap onto a lofty shelf, only to clumsily misjudge the distance.
 
@@ -39,7 +39,7 @@ Sometimes, this relentless pursuit feels like an [ADHD ambition burnout loop](/p
 
 A giant wave of ideas about a time-traveling skateboard splashed over them. Captain Focus grinned. "Chart a course to the Future Past Island!" he declared.
 
-### Ideas Ahoy!
+## Managing ADHD Creativity: How to Surf the Tsunami of Ideas
 
 Their ship, The Creative Endeavour, was always a hive of activity. Ideas like playful dolphins swam alongside. Some ideas were shiny fish, darting quickly out of sight. Others were like sea turtles, slow but grand, worth following for a while.
 
@@ -57,7 +57,7 @@ Sammy Squirrel had built a cozy little nook filled with nuts and doodads. Each i
 
 Sometimes, though, Sammy felt a pang of sadness, knowing some of these ideas would remain just that—ideas, never fully realized, a common feeling captured well on the page about [ADHD Big Dreams No Follow Through](/pages/adhd-big-dreams-no-follow-through/).
 
-### A Sky Full of Stars
+## ADHD Dream Overflow: How to Keep Track of Big Ideas That Shine Bright
 
 In the heart of the forest, the critters gathered around a crackling fire. They shared stories and laughed at the quirky journeys each idea had taken them on. Sammy felt a warm glow inside. His ideas, like fireflies, lit up the dark, creating a magical spectacle.
 
@@ -67,14 +67,14 @@ With hearts full of joy and minds buzzing with creativity, the critters understo
 
 So, embrace your ideas. Let them dance like leaves in the wind. After all, every idea is a spark of magic, waiting to light up the sky!
 
-## Quickfire ADHD Checklist
+## ADHD Idea Management Checklist: Keep the Magic Without Meltdown
 
 1. 🎈 Let your ideas float up like balloons at a lively parade!
 2. 🎨 Paint each ADHD idea on a big, imaginary canvas—splash, swirl, repeat!
 3. 🌪️ Tame your idea whirlwind with a cozy idea net—catch 'em gently!
 4. 📚 Stack your bustling bookshelf of thoughts—one quirky tale at a time!
 
-## Frequently Asked Questions
+## ADHD Creative Overload FAQs: Why You Can’t Stop Thinking and What To Do
 
 
 

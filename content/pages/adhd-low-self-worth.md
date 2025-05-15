@@ -25,7 +25,7 @@ Once upon a breezy afternoon, Sammy the Squirrel was bustling through his treeho
 
 But despite his whirlwind of activities, Sammy often felt a little thump in his heart. He wondered why his acorn art wasn’t as polished as Penny Pigeon’s, or why his leaf piles weren't as neat as Gary Groundhog's. This sneaky feeling was something many with ADHD experience, known as ADHD low self-worth.
 
-### Sammy's Squirrelly Self-Esteem Struggles
+## ADHD and Insecurity: When Low Self-Worth Blocks Your Brilliance
 
 One sunny morning, Sammy decided to throw the grandest picnic the forest had ever seen. He wanted to prove to himself, more than anyone, that he could pull off something wonderful. He darted around, scribbling guest lists on birch bark and fluffing up moss cushions.
 
@@ -35,7 +35,7 @@ Little did Sammy know, his forest friends cherished his energetic charm and crea
 
 When we left off, our hero, Captain Focus, was battling the murky clouds of ADHD low self-worth. Inside these clouds, whispers of doubt tried to confuse him, telling him he wasn’t good enough because his mind raced like a playful puppy in a park.
 
-### Captain Focus Finds His Superpower
+## ADHD and Self-Worth Recovery: Small Wins, Big Confidence
 
 Amid his journey, Captain Focus also grappled with feelings from being [labeled as disruptive](/pages/adhd-labeled-as-disruptive/) during his school years, which occasionally cast a shadow over his colorful victories.
 
@@ -49,7 +49,7 @@ With each step, the fog of ADHD low self-worth began to lift, and Captain Focus 
 
 As the weeks rolled by, Jamie noticed something wonderful. Her garden wasn't just growing; it was thriving, buzzing with life and color. This realization made her think about her journey with ADHD and low self-worth. Like her plants, she needed the right environment to flourish, and with patience and understanding, she was beginning to see her true potential.
 
-### Sprouts of Confidence
+## ADHD Self-Compassion: How to Bloom Despite Feeling ‘Not Enough’
 
 This newfound self-compassion helped Jamie shed the heavy coat of [ADHD failure identity](/pages/adhd-failure-identity/) that she had worn for too long, replacing it with a cloak of vibrant self-esteem.
 
@@ -61,7 +61,7 @@ Jamie's story teaches us that with the right care, we can overcome any challenge
 
 Keep growing, keep shining!
 
-## Quickfire ADHD Checklist
+## ADHD Confidence Checklist: Boost Self-Worth with Doodles, Socks & Self-Kindness
 
 1. **Embrace Your Inner Doodle**: Let your lines squiggle and wiggle—perfectly imperfect!
 
@@ -73,9 +73,7 @@ Keep growing, keep shining!
 
 Remember, your ADHD and low self-worth are just part of your colorful, wonderful self!
 
-## Frequently Asked Questions
-
-
+## ADHD Low Self-Worth FAQs: Why You Struggle With It & How to Rebuild Confidence
 
 ### What People Are Googling
 

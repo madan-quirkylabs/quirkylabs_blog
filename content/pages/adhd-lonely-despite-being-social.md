@@ -22,7 +22,7 @@ Then, a friendly smile from across the room—a lifeline thrown into the sea of 
 
 In the bustling heart of a colorful playground, Sam bounced like a ping-pong ball from one group of friends to another. His laughter was contagious, his jokes a rapid-fire, and his energy? Oh, it was like a superhero fueled by pure lightning. Yet, inside, Sam often felt like he was on a solo merry-go-round, watching the world blur around him. Despite his social butterfly badge, Sam embodied the phrase 'ADHD lonely despite being social.'
 
-### A Playground of Thoughts
+## ADHD and Social Disconnection: Why Fun Events Still Feel Lonely
 
 Sam's mind was like a magician’s hat, endlessly pulling out ribbons of sparkling ideas and bright conversations. But when the laughter faded and the playground emptied, a quiet shadow crept over him. He felt like a lone wolf in a vast, snowy forest, disconnected from the pack despite the tracks all around him.
 
@@ -34,7 +34,7 @@ Buzzy, with his shiny wings and quick moves, was always the life of the garden p
 
 During these reflective moments, Buzzy often grappled with the sting of [ADHD Rejection Sensitivity](/pages/adhd-rejection-sensitivity/), wondering if his buzzing was ever too much for his garden friends.
 
-### Buzzing Thoughts and Quiet Moments
+## ADHD Loneliness in Crowds: Feeling Alone While Being the Life of the Party
 
 One sunny afternoon, while resting on his favorite peony, Buzzy overheard the wise old owl, Hoot, talking about "feeling alone in a crowd." This made Buzzy think. Maybe he wasn’t the only one who felt this way?
 
@@ -50,7 +50,7 @@ That night, as he lay in bed, Sam decided to make a small change. He started kee
 
 Despite the fun, Sam's heart whispered of his [ADHD Rejection Sensitivity](/pages/adhd-rejection-sensitivity/), intensifying the feeling of being on that different wavelength.
 
-### Little Notes, Big Smiles
+## ADHD Social Journaling: Track Real Connection Moments (Even the Tiny Sparkles!)
 
 Slowly, the pages of Sam's journal filled up. He read them often, especially on days he felt like a puzzle piece in the wrong box. The words reminded him of the real connections he had made.
 
@@ -58,7 +58,7 @@ Sam learned that feeling lonely doesn't mean you're alone. And being different d
 
 So, whenever you feel a bit out of step, remember Sam. Write your feelings, find your tribe, and shine bright. After all, every star twinkles at its own pace.
 
-## Quickfire ADHD Checklist
+## ADHD Social Loneliness Checklist: Party Hats & Real Talk
 
 1. 🎈 Feel like a bouncy castle in a quiet park? That's ADHD lonely despite being social.
 
@@ -68,9 +68,7 @@ So, whenever you feel a bit out of step, remember Sam. Write your feelings, find
 
 4. 🎭 Wearing a party hat while hiding in a blanket fort? Let's peek out together.
 
-## Frequently Asked Questions
-
-
+## ADHD Social Isolation FAQs: Why You Feel Alone in a Crowd & What to Do About It
 
 ### What People Are Googling
 

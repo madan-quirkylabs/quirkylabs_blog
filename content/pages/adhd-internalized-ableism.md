@@ -26,7 +26,7 @@ In the whimsical town of Mindwell, everyone's brain worked a bit like a super-ch
 
 Max often found himself tripping over a sneaky little thing called ADHD internalized ableism. It was like having an invisible backpack that sometimes filled with stones when people misunderstood his zippy brain.
 
-### The Invisible Backpack
+## ADHD Internalized Ableism: How Society’s Shame Weighs Down Your Spark
 
 One sunny afternoon, Max decided to build the world's most magnificent Lego castle. Colors everywhere! His fingers danced from one brick to another, creating towers and turrets at lightning speed. He was in his element, his brain buzzing happily along.
 
@@ -38,7 +38,7 @@ But then, his cat Whiskers knocked over a Lego tower. Max laughed. The tower cou
 
 When we last left Max, the curious cat with a penchant for climbing trees, he was just realizing that not all cats climb trees in the same way. Max, as we know, has ADHD, which makes him unique in how he approaches his adventures. Today, Max was feeling a bit gloomy because he had heard some older cats whispering that "proper cats" don't get distracted by butterflies or forget why they climbed the tree in the first place.
 
-### Max's Mindful Moment
+## Overcoming ADHD Shame: Why You’re Not “Too Much” or “Not Enough”
 
 Max also realized that his feelings of gloom were not just about climbing trees but tied to a deeper sense of [ADHD carrying school shame](/pages/adhd-carrying-school-shame/), which he'd been shouldering since kittenhood.
 
@@ -54,7 +54,7 @@ With a renewed purr of confidence, Max leapt from his branch, ready to explore t
 
 As the garden party drew to a close, Ellie realized she had learned a valuable lesson about ADHD internalized ableism. She understood that the real magic wasn't in having a "normal" garden but in appreciating the unique beauty of her wild, colorful flowers.
 
-### A Garden of Unique Delights
+## Embracing Neurodiversity: ADHD Minds Are Wildflowers, Not Weeds
 
 Ellie's journey also reminded her how she once felt burdened by labels from childhood, a sentiment echoed in the stories of others who had been similarly [tagged as disruptive](/pages/adhd-labeled-as-disruptive/).
 
@@ -66,7 +66,7 @@ Ellie watched them go, her heart as full as her vibrant garden. She whispered to
 
 And the garden, in its own chaotic, beautiful way, whispered back, "Yes, we are."
 
-## Quickfire ADHD Checklist
+## Internalized Ableism Checklist for ADHD: Toss the Shame, Keep the Spark
 
 🌟 **Busting ADHD Internalized Ableism Checklist** 🌟
 
@@ -82,9 +82,7 @@ And the garden, in its own chaotic, beautiful way, whispered back, "Yes, we are.
 4. **Give your “Inner Critic Cat” a cozy nap.**
    Even the fussiest felines rest—your thoughts deserve a break too!
 
-## Frequently Asked Questions
-
-
+## ADHD Ableism FAQs: How to Spot It, Stop It & Start Celebrating Your Brain
 
 ### What People Are Googling
 

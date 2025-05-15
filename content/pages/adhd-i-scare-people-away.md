@@ -29,7 +29,7 @@ Benny loved talking. About dinosaurs. About space rockets. About the monster und
 
 One sunny afternoon, Benny and his mom went to the park. He was as excited as a puppy with a new bone. He couldn't wait to play and chat with everyone!
 
-### A Whirlwind of Words
+## ADHD Social Anxiety: When Words Zoom Ahead of Connection
 
 At the park, Benny zoomed from one group of kids to another. "Did you know that T-Rex had teeth as big as bananas?" he blurted out without a hello. Then, whoosh! Off to the next group. "Space rockets can go super, super fast!"
 
@@ -41,7 +41,7 @@ Zippy didn’t want to be the lonely hero of his story, so he came up with a bri
 
 Feeling a sudden surge of warmth, Zippy realized that his previous fear of [rejection](/pages/adhd-fear-of-rejection/) was melting away as he embraced the joy of true teamwork and connection.
 
-### Let's Share Superpowers!
+## ADHD Communication Fixes: How to Share Your Spark, Not Overwhelm
 
 Zippy started by creating a superhero squad. He invited friends to his treehouse and showed them his secret: a giant chalkboard where he scribbled all his fast-flying thoughts. "You can add your ideas too!" he cheered.
 
@@ -55,7 +55,7 @@ She started to see her bursts of excitement as sparks of creativity rather than 
 
 Amidst these revelations, Ellie also grappled with an [ADHD fear of rejection](/pages/adhd-fear-of-rejection/), wondering if her vibrant personality might eventually push people away despite their current acceptance.
 
-### Firework Friendships
+## Building Lasting Friendships with ADHD: Sparkle Without Burnout
 
 By the time leaves began to turn golden, Ellie had woven a strong net of friendships. They were built on understanding and shared moments of joy. Her friends appreciated her spontaneity; it made every day an adventure.
 
@@ -63,7 +63,7 @@ Ellie learned that her true friends loved her not despite her ADHD, but partly b
 
 So, if you ever feel like your energy might be too much, remember Ellie. Like a lighthouse, be proud of your bright light. It's not just there to guide ships; it's there to warm the souls who are brave enough to sail close to you. Keep shining, and let your true colors light up the sky!
 
-## Quickfire ADHD Checklist
+## ADHD Social Interaction Checklist: Be Loud, Be Proud, Be Kind
 
 🚀 **ADHD: I Scare People Away Checklist**
 
@@ -75,9 +75,7 @@ So, if you ever feel like your energy might be too much, remember Ellie. Like a 
 
 4. **Forget-Me-Not!** Plant reminders for others, so they know they're in your sparkly thoughts.
 
-## Frequently Asked Questions
-
-
+## ADHD & Social Fear FAQs: Your Curious Brain Wants to Know!
 
 ### What People Are Googling
 

@@ -26,7 +26,7 @@ Take a deep breath. Let’s find those rainbows together, shall we?
 
 In the cozy corner of a bustling cafe, Sam was a whirlwind of thoughts and feelings. With his ADHD, intense emotions often felt like riding a rickety rollercoaster—alone. One minute, he was up, sipping his cappuccino with a grin. The next, his smile dropped like a hot potato, as a wave of loneliness washed over him.
 
-### A Rollercoaster Ride of Feels
+## ADHD Emotional Overwhelm: Why Feelings Hit Harder When You’re Alone
 
 Each emotion was a bright paint splatter on a canvas. Excitement was neon pink; sadness, a gloomy gray. Sometimes, the colors blended into a confusing whirlpool.
 
@@ -38,7 +38,7 @@ One minute, Alex could be as jubilant as a puppy in a park full of squirrels. Th
 
 This realization led Alex to explore more about why those with ADHD often feel a profound [ADHD Need For Connection](/pages/adhd-need-for-connection/), seeking bonds that affirm and understand their unique experiences.
 
-### A Ship Needs Its Captain
+## Coping With ADHD Mood Storms: How to Steer Through Alone Time
 
 But Alex, our brave sailor, wasn’t about to let his ship capsize. He learned that sometimes, you need to steer directly into the storm to understand it. By recognizing the signs of an incoming emotional tempest, he could brace himself.
 
@@ -52,7 +52,7 @@ One day, Jamie decided to paint their feelings. Reds clashed with blues, and yel
 
 This journey also reminded Jamie that despite feeling overwhelmed at times, [ADHD's need for connection](/pages/adhd-need-for-connection/) is strong, and reaching out can turn the solitary struggle into shared understanding.
 
-### Taming the Emotional Tornado
+## Emotional Regulation for ADHD: Art, Calm, and Feeling Seen When You’re Solo
 
 Jamie learned to recognize their feelings like colors on a palette. They didn’t need to fear the intensity; they could express it, share it, and understand it. 
 
@@ -60,16 +60,14 @@ Their friends and family began to understand too. They didn’t solve everything
 
 So, if you're ever feeling overwhelmed by your emotions, think of them as colors. Mix them, match them, and create something beautiful out of them. Remember, you're not alone. And every stormy emotion can lead to a calm, beautiful sunset. Keep painting your feelings. They're valid, and they're valued.
 
-## Quickfire ADHD Checklist
+## ADHD Emotion Survival Checklist: From Stormy Moods to Cozy Calm
 
 1. 🎢 Ride the ADHD emotion rollercoaster with a soft pillow for crashes.
 2. 🐢 When feelings zoom, be the slow, smiling sloth—breathe, stretch, sigh.
 3. 🧩 Puzzle out your feelings with a crayon—scribble what's inside!
 4. 🍿 Pop into a cozy blanket fort, flashlight tales to your plushies.
 
-## Frequently Asked Questions
-
-
+## ADHD Intense Emotions FAQs: Why You Feel Too Much and What Helps
 
 ### What People Are Googling
 

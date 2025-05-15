@@ -29,7 +29,7 @@ In the bustling beehive of BeeBop's office, everything buzzed with a sort of org
 
 Each morning, BeeBop strapped on his superhero cape, which was invisible, of course. It helped him blend into the buzzing office without anyone noticing his ADHD superpowers—like hyperfocus and creative whirlwinds.
 
-### BeeBop's Hidden Cape
+## ADHD Masking in the Workplace: Why You Do It & What It Costs
 
 This cape wasn't just any cape. It was woven from threads of "just fitting in" and "keeping the quirks under wraps." While BeeBop could brainstorm like a boss and hop between tasks faster than anyone, he often tucked these talents away.
 
@@ -39,7 +39,7 @@ Now, ADHD masking is a bit like wearing a heavy costume all day. It can be exhau
 
 Despite the initial fear, our chameleon friend started to wonder if he was just [performing productivity](/pages/adhd-performative-productivity/) rather than genuinely thriving, sparking a journey towards embracing his true self at work.
 
-### A Colorful Dilemma
+## Authenticity at Work with ADHD: How to Show Up Without Burning Out
 
 One day, our chameleon friend decided to try something new. Instead of blending in, he wore a bright, polka-dotted tie. Just a small splash of color, but oh, it felt rebellious!
 
@@ -49,7 +49,7 @@ From that day, he started adding more of his true colors to his office attire. I
 
 As the days passed, Jamie found that the effort of ADHD masking at work was like juggling water balloons—slippery and bound to burst eventually. But, with each shared chuckle and understanding nod from colleagues, Jamie's fear of dropping the balloons lessened.
 
-### Unmasking the Magic
+## ADHD at Work: From Exhausted Pretending to Empowered Performing
 
 In these moments, Jamie also started to tackle the gnawing [ADHD impostor syndrome](/pages/adhd-impostor-syndrome/), realizing they weren't alone in their feelings of self-doubt.
 
@@ -61,7 +61,7 @@ From then on, Jamie felt lighter, like a leaf dancing on the wind. Work became a
 
 So, remember, it's okay to let some balloons pop. Each burst might just let in a gust of fresh, wonderful wind!
 
-## Quickfire ADHD Checklist
+## ADHD Unmasking Checklist: Circus Hats Off, True Self On
 
 1. **Juggle those thoughts like a clown at a circus!** Keep your ideas flying high but easy to catch.
 
@@ -71,9 +71,7 @@ So, remember, it's okay to let some balloons pop. Each burst might just let in a
 
 4. **Find your cozy corner.** Like a cat in a sunbeam, find that spot where you can shine without shadows.
 
-## Frequently Asked Questions
-
-
+## ADHD Masking FAQs: How It Affects Your Job & Mental Health
 
 ### What People Are Googling
 

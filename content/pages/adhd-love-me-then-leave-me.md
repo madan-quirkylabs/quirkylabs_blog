@@ -27,7 +27,7 @@ Once upon a busy brainwave, Sammy the squirrel was preparing for winter. But Sam
 
 Sammy's treehouse was a museum of half-knitted scarves and partially sorted nut collections. Every corner held a tale of enthusiastic beginnings without an end. His friends would chuckle, saying, "Sammy starts with a hurricane and leaves with a breeze!"
 
-### The Tale of the Half-Done Hoard
+## ADHD Love Patterns: Why You Start Strong & Then Fade Fast
 
 One sunny morning, inspired by a shiny pebble, Sammy decided it was time for change. "I'll organize my nuts today!" he declared with a sparkle in his eyes. He started at one corner, humming cheerfully. But then, a butterfly fluttered by, as enchanting as a floating petal. Sammy's attention, like a leaf caught in a whirlwind, spun off course.
 
@@ -35,7 +35,7 @@ One sunny morning, inspired by a shiny pebble, Sammy decided it was time for cha
 
 The adventures of the Squirrel and his ever-distracted mind continued. He loved finding new nuts, each one more exciting than the last. But often, after a brief fling of excitement, the thrill would fade. "ADHD love me then leave me," he'd mutter, staring at a half-buried acorn he'd lost interest in.
 
-**Squirrel's Nutty Dilemma**
+## ADHD Abandonment Cycle: When Hyperfocus Turns Into Distance
 
 In Squirrel’s quest for lasting attachment, he couldn’t help but wonder if his [ADHD Fear of Abandonment](/pages/adhd-fear-of-abandonment/) was the root of his fleeting fascinations.
 
@@ -49,7 +49,7 @@ Squirrel nodded, his mind already darting to a shiny pebble nearby. But he pause
 
 Finally, after what seemed like a rollercoaster ride, Sam and Jamie found their rhythm. They had journeyed through the ups and downs of 'ADHD love me then leave me,' understanding each other's unique needs and quirks. They learned that love isn't about always staying the same but adapting and growing together.
 
-### Playful Partnership
+## ADHD Relationship Growth: How to Break the ‘Love Me Then Leave Me’ Pattern
 
 Together, they navigated the fear of being unlovable, discovering that in each other's eyes, they were more than enough. [Learn more about ADHD and the fear of being unlovable](/pages/adhd-fear-being-unlovable/).
 
@@ -59,7 +59,7 @@ Together, they built a toolbox filled with laughter, whispers, and shared dreams
 
 So, if you ever feel like ADHD is making love play hide and seek with you, remember Sam and Jamie. With a sprinkle of understanding, a dash of patience, and heaps of love, every day can be a joyful discovery. Keep dancing to the rhythm of each other's hearts, and you’ll find that love doesn’t just come and go; it stays and grows.
 
-## Quickfire ADHD Checklist
+## ADHD Love Rollercoaster Checklist: Nuts, Butterflies & Bonding
 
 1. **Catching Butterflies with a Net Made of Fog** - That's how it can feel trying to remember why you walked into the room!
 
@@ -69,9 +69,7 @@ So, if you ever feel like ADHD is making love play hide and seek with you, remem
 
 4. **Jigsaw Puzzle in a Windstorm** - Trying to piece together your focus while ideas whirl around like autumn leaves.
 
-## Frequently Asked Questions
-
-
+## ADHD Love & Attachment FAQs: What Makes Relationships Hard & How to Heal Them
 
 ### What People Are Googling
 

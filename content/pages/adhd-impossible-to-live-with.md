@@ -26,7 +26,7 @@ Once there was a boy named Max whose thoughts zoomed like race cars on a super-s
 
 He'd be in math class, staring at numbers that danced like little frogs, impossible to catch. Suddenly, his mind would jump to wondering if penguins have best friends. It made staying on task as tricky as trying to hug a cloud!
 
-### Welcome to Max's Whirlwind World!
+## ADHD Daily Life Struggles: When It Feels Like Too Much to Handle
 
 One sunny day, Max's teacher, Mr. Pebble, noticed his struggle. Instead of a frown, Mr. Pebble wore a smile like a secret whispered between old friends. He knew something special about minds like Max’s—they weren’t messy, just marvelously misunderstood.
 
@@ -38,7 +38,7 @@ With a twirl of his compass, Captain Focus steered his ship through the Foggy Is
 
 Often, Captain Focus would whisper to himself, a reminder from his heart, "Am I too much for everyone?" but the winds of hope aboard the ADHD Adventure reassured him that his unique journey was not only necessary but deeply valued. [ADHD Too Much For Others](/pages/adhd-too-much-for-others/)
 
-### Navigating the High Seas
+## ADHD Coping Strategies: Finding Joy Amidst the Chaos
 
 "What's that ahead?" shouted his first mate, a clever parrot named Polly Procrastination. "Looks like the Rocky Reefs of Routine!"
 
@@ -50,7 +50,7 @@ Navigating ADHD wasn't just about avoiding obstacles; it was about recognizing t
 
 In the cozy little town of Mindful Meadows, everyone had begun to see things differently. Jamie, with her whirlwind of thoughts and boundless energy, showed them that saying "ADHD impossible to live with" was like saying the sun is too sunny. Her vibrant sparks of creativity were simply a different kind of sunshine.
 
-### A New Day in Mindful Meadows
+## Embracing ADHD Strengths: You’re Not Too Much, You’re Magic!
 
 In moments of self-doubt, Jamie often visited the comforting thought that her need for reassurance was just part of her journey, not a barrier to love, as explored in deeper detail [here](/pages/adhd-need-for-reassurance/).
 
@@ -64,16 +64,14 @@ Around them, laughter filled the air as more kids joined Jamie's game. Each chil
 
 So, remember, a mind full of electricity isn't just a challenge; it's a spectacular light show, waiting for the right moment to illuminate everything around it. Keep dancing to your own rhythm, and light up the world in your unique way.
 
-## Quickfire ADHD Checklist
+## ADHD Coping Checklist: Giggle Jars, Fidget Tools & Brainy Hacks
 
 1. Keep a basket of fidget toys—your personal squirrel stash for busy paws!
 2. Set alarms like fairy bells to guide you through daily adventures.
 3. Color-code everything! Make your world as vibrant as a unicorn's mane.
 4. Have a giggle jar! Each time ADHD feels impossible, jot down a funny moment.
 
-## Frequently Asked Questions
-
-
+## ADHD Feels Impossible FAQs: Answers for When You’re Overwhelmed
 
 ### What People Are Googling
 

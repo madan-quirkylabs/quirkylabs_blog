@@ -26,13 +26,13 @@ In the bustling village of Mindwell, young Ellie was known as a whirlwind of ide
 
 Ellie loved learning, but sitting still was like trying to keep a puppy in a basket. Every subject was a new adventure, a chance to dive deep into oceans of facts and surf waves of wonder. Yet, when her enthusiasm bubbled over, it sometimes spilled onto others' work, causing a stir among her classmates and teachers.
 
-### A Whirlwind in a Quiet Room
+## ADHD in the Classroom: Why You’re Called Disruptive & What It Really Means
 
 One sunny morning, Ellie's class was as quiet as a secret. Everyone was heads-down, scribbling away on a history test. But inside Ellie’s head, ideas were having a dance party.
 
 Now, let’s dive back into the bustling world of Busyville, where every creature and critter bustles with energy, much like our friends with ADHD. Remember our young squirrel, Squeaky? Well, Squeaky often found himself in a bit of a pickle. His endless zest and zippy twirls through the treetops sometimes led the town folk to label him as disruptive. But was he really?
 
-### Squeaky's Special Spark
+## Reframing Disruptive ADHD Behavior: Finding the Hidden Genius in the Chaos
 
 Though often misunderstood, Squeaky's vivacious spirit highlighted the silent struggles many with ADHD experience, a tale woven with both challenge and charm. [Adhd Silent Struggles](/pages/adhd-silent-struggles/)
 
@@ -44,7 +44,7 @@ So, was Squeaky really a disruptor? Or was he just a catalyst for change, a spar
 
 After what felt like an endless game of tag in his mind, Sam finally sat down with his favorite teacher, Mr. Jasper. Together, they unraveled the mystery of why ADHD was often labeled as disruptive. Mr. Jasper explained that just like a superhero, Sam's superpower was his unique energy and creativity. Sometimes, though, it made him seem like a bouncing ball in a china shop!
 
-### Super Sam Saves the Day!
+## Turning ADHD Disruption into Superpowers: Real Stories, Real Wins
 
 This revelation was liberating, especially since Sam had long struggled with feelings of [ADHD Low Self Worth](/pages/adhd-low-self-worth/), often feeling like he wasn’t as capable as his peers.
 
@@ -54,16 +54,14 @@ In the end, Sam realized that being labeled as disruptive wasn't an anchor but a
 
 So, remember, just like Sam, your unique traits are your superpowers. Embrace them, and soar high!
 
-## Quickfire ADHD Checklist
+## ADHD Disruption Checklist: Embrace Your Spark, Not the Label
 
 1. 🐿️ Embrace your inner squirrel! ADHD isn't disruptive, it's just nutty brilliance!
 2. 🎨 Paint outside the lines. Who says life's canvas has to be neat?
 3. 🚀 Strap on your jetpack! Zoom through tasks—crashes are just pit stops.
 4. 🎉 Throw a dance party in your brain. Every thought is an invited guest!
 
-## Frequently Asked Questions
-
-
+## ADHD Disruptive Behavior FAQs: Why It Happens & How to Shift the Narrative
 
 ### What People Are Googling
 
