@@ -1,15 +1,18 @@
 ---
-title: "ADHD rest doesnt recharge: ADHD Rest Doesn't Recharge? Find Joyful Solutions Here!"
-description: "ADHD rest doesnt recharge: Struggling because your 'ADHD rest doesn't recharge'? Dive into our blog to find cozy, playful strategies that help you feel seen and energized!"
+title: "ADHD Rest Doesn’t Recharge You? Here’s Why & What Actually Works"
+description: "ADHD rest doesn’t recharge you? Discover why your brain resists rest and explore energizing, joyful solutions that actually help you feel restored."
 slug: "adhd-rest-doesnt-recharge"
 date: 2025-05-03
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD rest challenges", "ADHD recharge strategies", "non-traditional rest for ADHD", "ADHD energy management", "ADHD playful coping techniques", "rest feels like work ADHD", "creative rest solutions ADHD"]
-keywords: ["ADHD rest challenges", "ADHD recharge strategies", "non-traditional rest for ADHD", "ADHD energy management", "ADHD playful coping techniques", "rest feels like work ADHD", "creative rest solutions ADHD"]
+tags: ["ADHD rest challenges", "ADHD recharge strategies", "non-traditional rest for ADHD", "rest feels like work ADHD", "ADHD energy management", "creative rest ADHD", "ADHD coping methods"]
+keywords: ["ADHD rest challenges", "ADHD recharge strategies", "non-traditional rest for ADHD", "rest feels like work ADHD", "ADHD energy management", "creative rest ADHD", "ADHD coping methods"]
 og_image: "/og/adhd-rest-doesnt-recharge.png"
+og_title: "ADHD Rest Doesn’t Recharge You? Here’s Why & What Actually Works"
+og_description: "ADHD rest doesn’t recharge you? Discover why your brain resists rest and explore energizing, joyful solutions that actually help you feel restored."
 ---
+
 
 Imagine your brain is like a bouncy castle at a super fun fair. It's always jumping!
 

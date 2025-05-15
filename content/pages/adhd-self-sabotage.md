@@ -1,14 +1,16 @@
 ---
-title: "Beat ADHD Self Sabotage: Unlock a Happier, Smoother Life!"
-description: "Explore how \"ADHD self sabotage\" feels like juggling colorful tasks, and drop the guilt! Our blog offers cozy insights and playful strategies to keep you smiling through the chaos. Feel seen and uplifted with us!"
+title: "ADHD Self-Sabotage: Why It Happens & How to Finally Get Out of Your Own Way"
+description: "Struggling with ADHD self-sabotage? Learn why it shows up and how to break free from the cycle with playful, practical strategies that actually work."
 slug: "adhd-self-sabotage"
 date: 2025-05-03
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD self-sabotage strategies", "overcoming ADHD procrastination", "managing ADHD distractions", "playful ADHD coping techniques", "adult ADHD task management", "ADHD emotional support", "ADHD productivity tips"]
-keywords: ["ADHD self-sabotage strategies", "overcoming ADHD procrastination", "managing ADHD distractions", "playful ADHD coping techniques", "adult ADHD task management", "ADHD emotional support", "ADHD productivity tips"]
+tags: ["ADHD self-sabotage strategies", "overcoming ADHD procrastination", "managing ADHD distractions", "adult ADHD task management", "breaking ADHD cycles", "ADHD focus techniques", "playful ADHD support"]
+keywords: ["ADHD self-sabotage strategies", "overcoming ADHD procrastination", "managing ADHD distractions", "adult ADHD task management", "breaking ADHD cycles", "ADHD focus techniques", "playful ADHD support"]
 og_image: "/og/adhd-self-sabotage.png"
+og_title: "ADHD Self-Sabotage: Why It Happens & How to Finally Get Out of Your Own Way"
+og_description: "Struggling with ADHD self-sabotage? Learn why it shows up and how to break free from the cycle with playful, practical strategies that actually work."
 ---
 
 Imagine you're juggling colorful balls—red, blue, green! Each one is a task, bright and demanding.

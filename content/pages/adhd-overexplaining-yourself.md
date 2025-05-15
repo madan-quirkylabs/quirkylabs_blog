@@ -1,14 +1,16 @@
 ---
-title: "End the Cycle: Embrace ADHD Overexplaining Yourself!"
-description: "Discover why \"ADHD overexplaining yourself\" is your superpower! Dive into our blog for a cozy chat that makes you feel seen and celebrated. Join us!"
+title: "ADHD and Overexplaining Yourself: Why You Do It & How to Feel Heard"
+description: "Always explaining too much with ADHD? Learn why it happens, how to stop second-guessing your words, and feel confident expressing yourself clearly and authentically."
 slug: "adhd-overexplaining-yourself"
 date: 2025-05-03
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD overexplaining symptoms", "managing ADHD communication", "ADHD storytelling challenges", "embracing ADHD quirks", "ADHD social interactions", "ADHD and detailed conversations", "understanding ADHD behavior"]
-keywords: ["ADHD overexplaining symptoms", "managing ADHD communication", "ADHD storytelling challenges", "embracing ADHD quirks", "ADHD social interactions", "ADHD and detailed conversations", "understanding ADHD behavior"]
+tags: ["ADHD overexplaining", "managing ADHD communication", "ADHD social behavior", "ADHD and storytelling", "feeling misunderstood with ADHD", "ADHD self-expression", "understanding ADHD interactions"]
+keywords: ["ADHD overexplaining", "managing ADHD communication", "ADHD social behavior", "ADHD and storytelling", "feeling misunderstood with ADHD", "ADHD self-expression", "understanding ADHD interactions"]
 og_image: "/og/adhd-overexplaining-yourself.png"
+og_title: "ADHD and Overexplaining Yourself: Why You Do It & How to Feel Heard"
+og_description: "Always explaining too much with ADHD? Learn why it happens, how to stop second-guessing your words, and feel confident expressing yourself clearly and authentically."
 ---
 
 Imagine your brain is like a super-busy bee, buzzing from one flower to another, never quite settling. Now, imagine trying to explain why that bee can’t just pick one flower and stick to it. That’s what it’s like trying to explain your ADHD brain sometimes!

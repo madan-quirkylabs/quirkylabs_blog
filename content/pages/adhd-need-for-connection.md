@@ -1,14 +1,16 @@
 ---
-title: "Unlock Joy: How ADHD Need for Connection Fuels Happiness!"
-description: "Discover how the \"ADHD need for connection\" can transform loneliness to joy in our blog. Feel seen, understood, and join a community that bounces along with you! 🌟"
+title: "ADHD and the Need for Connection: Why It’s Vital & How to Find Your People"
+description: "Craving deep connection with ADHD? You’re not alone. Learn why connection matters so much, how to build it authentically, and finally feel truly understood."
 slug: "adhd-need-for-connection"
 date: 2025-05-03
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD friendship needs", "connecting with ADHD adults", "ADHD emotional support", "sharing ADHD experiences", "finding connection with ADHD", "understanding ADHD in adults", "ADHD social interaction tips"]
-keywords: ["ADHD friendship needs", "connecting with ADHD adults", "ADHD emotional support", "sharing ADHD experiences", "finding connection with ADHD", "understanding ADHD in adults", "ADHD social interaction tips"]
+tags: ["ADHD friendship needs", "ADHD emotional connection", "connecting with ADHD adults", "finding ADHD community", "ADHD social support", "ADHD loneliness relief", "sharing ADHD experiences"]
+keywords: ["ADHD friendship needs", "ADHD emotional connection", "connecting with ADHD adults", "finding ADHD community", "ADHD social support", "ADHD loneliness relief", "sharing ADHD experiences"]
 og_image: "/og/adhd-need-for-connection.png"
+og_title: "ADHD and the Need for Connection: Why It’s Vital & How to Find Your People"
+og_description: "Craving deep connection with ADHD? You’re not alone. Learn why connection matters so much, how to build it authentically, and finally feel truly understood."
 ---
 
 Imagine your brain is like a bouncy castle, hopping from thought to thought.

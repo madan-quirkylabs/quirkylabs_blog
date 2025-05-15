@@ -1,14 +1,16 @@
 ---
-title: "Unlock Joy: How ADHD Too Emotional Enhances Life!"
-description: "Explore why feeling \"adhd too emotional\" is like juggling playful balloons. This cozy read offers laughs, tears, and heartwarming insights to make you feel seen and cherished. Join us for a giggle!"
+title: "ADHD and Feeling Too Emotional: Why It Happens & How to Embrace It"
+description: "Does ADHD make you feel 'too emotional'? Learn how emotional sensitivity works with ADHD—and how to turn your big feelings into strengths, not struggles."
 slug: "adhd-too-emotional"
 date: 2025-05-07
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD emotional regulation", "managing ADHD emotions", "ADHD mood swings", "emotional dysregulation ADHD", "ADHD emotional sensitivity", "ADHD emotional challenges", "ADHD feelings management"]
-keywords: ["ADHD emotional regulation", "managing ADHD emotions", "ADHD mood swings", "emotional dysregulation ADHD", "ADHD emotional sensitivity", "ADHD emotional challenges", "ADHD feelings management"]
+tags: ["ADHD emotional sensitivity", "managing ADHD emotions", "emotional dysregulation ADHD", "ADHD mood swings", "coping with ADHD feelings", "ADHD emotional support", "ADHD emotional challenges"]
+keywords: ["ADHD emotional sensitivity", "managing ADHD emotions", "emotional dysregulation ADHD", "ADHD mood swings", "coping with ADHD feelings", "ADHD emotional support", "ADHD emotional challenges"]
 og_image: "/og/adhd-too-emotional.png"
+og_title: "ADHD and Feeling Too Emotional: Why It Happens & How to Embrace It"
+og_description: "Does ADHD make you feel 'too emotional'? Learn how emotional sensitivity works with ADHD—and how to turn your big feelings into strengths, not struggles."
 ---
 
 Imagine your feelings are like a basket of puppies—cute, wiggly, and all over the place! One minute you're laughing, the next you're sniffling, all because one puppy licked your nose and then scampered away.

@@ -1,14 +1,16 @@
 ---
-title: "adhd people think im stupid: \"Feel Smarter: Beat the 'ADHD People Think I'm Stupid' Myth!\""
-description: "adhd people think im stupid: \"Feel misunderstood? 'ADHD people think I'm stupid' explores how ADHD minds sparkle with creativity. Dive in and feel seen and celebrated!\""
+title: "ADHD and Feeling ‘People Think I’m Stupid’: Why It Happens & How to Reclaim Your Worth"
+description: "Ever feel like people think you’re stupid because of ADHD? You're not alone. Learn how to shift that narrative and embrace the brilliance of your neurodivergent brain."
 slug: "adhd-people-think-im-stupid"
 date: 2025-05-07
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD creativity in adults", "ADHD misunderstood intelligence", "ADHD thinking patterns", "neurodiversity and ADHD", "ADHD communication challenges", "ADHD and social perception", "celebrating ADHD minds"]
-keywords: ["ADHD creativity in adults", "ADHD misunderstood intelligence", "ADHD thinking patterns", "neurodiversity and ADHD", "ADHD communication challenges", "ADHD and social perception", "celebrating ADHD minds"]
+tags: ["ADHD misunderstood intelligence", "ADHD communication challenges", "ADHD social perception", "ADHD thinking patterns", "neurodiversity and ADHD", "celebrating ADHD minds", "self-worth with ADHD"]
+keywords: ["ADHD misunderstood intelligence", "ADHD communication challenges", "ADHD social perception", "ADHD thinking patterns", "neurodiversity and ADHD", "celebrating ADHD minds", "self-worth with ADHD"]
 og_image: "/og/adhd-people-think-im-stupid.png"
+og_title: "ADHD and Feeling ‘People Think I’m Stupid’: Why It Happens & How to Reclaim Your Worth"
+og_description: "Ever feel like people think you’re stupid because of ADHD? You're not alone. Learn how to shift that narrative and embrace the brilliance of your neurodivergent brain."
 ---
 
 In a bustling kitchen, Sam's thoughts buzzed like a blender left on high. Ideas whirled and splashed out in colorful bursts, missing the bowl sometimes.

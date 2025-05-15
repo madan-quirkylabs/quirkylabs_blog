@@ -1,13 +1,16 @@
 ---
-title: "Free ADHD Quiz for Teens: Spot the Signs Early"
-description: "Take our super fun 'ADHD quiz for teens'! Explore your unique brain, chase curiosity, and make ADHD your superpower!"
+title: "Free ADHD Quiz for Teens: Spot the Signs Early & Take the First Step"
+description: "Wondering if you might have ADHD as a teen? Take our free quiz to understand your brain better and explore if ADHD could be part of your unique journey."
 slug: "adhd-quiz-for-teens"
 date: 2025-04-30
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD", "Neurodivergence"]
-keywords: ["teen ADHD symptoms", "ADHD self test teen", "ADHD test high school"]
+tags: ["teen ADHD quiz", "ADHD self test for teens", "early ADHD signs", "ADHD in high school", "ADHD teenage symptoms", "ADHD awareness for teens", "ADHD quiz for students"]
+keywords: ["teen ADHD quiz", "ADHD self test for teens", "early ADHD signs", "ADHD in high school", "ADHD teenage symptoms", "ADHD awareness for teens", "ADHD quiz for students"]
+og_image: "/og/adhd-quiz-for-teens.png"
+og_title: "Free ADHD Quiz for Teens: Spot the Signs Early & Take the First Step"
+og_description: "Wondering if you might have ADHD as a teen? Take our free quiz to understand your brain better and explore if ADHD could be part of your unique journey."
 ---
 
 ## Got a Bouncy Brain? Step into the ADHD Forest and Find Out!

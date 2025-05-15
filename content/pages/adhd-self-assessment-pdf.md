@@ -1,13 +1,16 @@
 ---
-title: "Printable ADHD Self-Assessment PDF"
-description: "Spin joyfully into our ADHD Self-Assessment PDF treasure hunt. It's an engaging, fun-filled guide to unravel your ADHD traits. Join us!"
+title: "ADHD Self-Assessment PDF: Free Printable Checklist to Understand Your Traits"
+description: "Download our free ADHD self-assessment PDF. A fun, insightful printable checklist to help you recognize key ADHD traits and take your next step with clarity."
 slug: "adhd-self-assessment-pdf"
 date: 2025-04-30
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD", "Neurodivergence"]
-keywords: ["ADHD checklist pdf", "self assessment ADHD printable"]
+tags: ["ADHD self-assessment", "printable ADHD checklist", "ADHD traits quiz", "ADHD checklist pdf", "self-assessment for ADHD", "understanding ADHD signs", "free ADHD PDF tool"]
+keywords: ["ADHD self-assessment", "printable ADHD checklist", "ADHD traits quiz", "ADHD checklist pdf", "self-assessment for ADHD", "understanding ADHD signs", "free ADHD PDF tool"]
+og_image: "/og/adhd-self-assessment-pdf.png"
+og_title: "ADHD Self-Assessment PDF: Free Printable Checklist to Understand Your Traits"
+og_description: "Download our free ADHD self-assessment PDF. A fun, insightful printable checklist to help you recognize key ADHD traits and take your next step with clarity."
 ---
 
 ## Pinball Thoughts & Paintbrush Minds? Dizzy’s ADHD Quest Begins!

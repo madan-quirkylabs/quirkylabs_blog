@@ -1,6 +1,6 @@
 ---
-title: "ADHD feel alone: Feel Understood: ADHD Connections That End Loneliness!"
-description: "Feeling like you're the only one mapless in the ADHD amusement park? Our blog 'ADHD Feel Alone' offers a cozy space to find buddies who truly get it. Let's explore together!"
+title: "ADHD and Loneliness: Why You Feel Alone & How to Build Real Connections"
+description: "Feeling isolated with ADHD? Learn why loneliness hits harder and how to find real, understanding connections that make you feel truly seen and supported."
 slug: "adhd-feel-alone"
 date: 2025-05-03
 draft: false
@@ -9,6 +9,8 @@ categories: ["ADHD Guides"]
 tags: ["ADHD feeling isolated", "loneliness in ADHD adults", "connecting with ADHD peers", "ADHD emotional support", "ADHD and social challenges", "adult ADHD community", "ADHD coping strategies"]
 keywords: ["ADHD feeling isolated", "loneliness in ADHD adults", "connecting with ADHD peers", "ADHD emotional support", "ADHD and social challenges", "adult ADHD community", "ADHD coping strategies"]
 og_image: "/og/adhd-feel-alone.png"
+og_title: "ADHD and Loneliness: Why You Feel Alone & How to Build Real Connections"
+og_description: "Feeling isolated with ADHD? Learn why loneliness hits harder and how to find real, understanding connections that make you feel truly seen and supported."
 ---
 
 Sometimes, ADHD feels like you're lost in a huge, bustling amusement park. Everyone else seems to know exactly where they're going, zipping from ride to ride. But you? You're wandering, mapless, feeling a bit out of step.

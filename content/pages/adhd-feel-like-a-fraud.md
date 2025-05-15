@@ -1,14 +1,16 @@
 ---
-title: "ADHD feel like a fraud: Beat Impostor Blues: Embrace ADHD & Feel Genuine!"
-description: "Discover why \"ADHD feel like a fraud\" resonates with so many. This cozy, validating blog helps you embrace your unique superhero style with a warm, understanding hug. Feel seen and uplifted with us!"
+title: "ADHD Imposter Syndrome: Why You Feel Like a Fraud & How to Embrace Your Truth"
+description: "Struggling with ADHD imposter syndrome? Learn why it happens, how to stop feeling like a fraud, and finally feel proud of who you are—quirks and all."
 slug: "adhd-feel-like-a-fraud"
 date: 2025-05-03
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD imposter syndrome", "feeling like a fraud with ADHD", "managing ADHD emotions", "ADHD adult coping strategies", "ADHD identity challenges", "embracing ADHD uniqueness", "ADHD social anxiety"]
-keywords: ["ADHD imposter syndrome", "feeling like a fraud with ADHD", "managing ADHD emotions", "ADHD adult coping strategies", "ADHD identity challenges", "embracing ADHD uniqueness", "ADHD social anxiety"]
+tags: ["ADHD imposter syndrome", "feeling like a fraud with ADHD", "ADHD self-doubt", "managing ADHD emotions", "embracing ADHD uniqueness", "ADHD identity challenges", "adult ADHD coping"]
+keywords: ["ADHD imposter syndrome", "feeling like a fraud with ADHD", "ADHD self-doubt", "managing ADHD emotions", "embracing ADHD uniqueness", "ADHD identity challenges", "adult ADHD coping"]
 og_image: "/og/adhd-feel-like-a-fraud.png"
+og_title: "ADHD Imposter Syndrome: Why You Feel Like a Fraud & How to Embrace Your Truth"
+og_description: "Struggling with ADHD imposter syndrome? Learn why it happens, how to stop feeling like a fraud, and finally feel proud of who you are—quirks and all."
 ---
 
 Ever feel like you're a ninja in a library, trying super hard not to get noticed? But whoops! You accidentally knock over a stack of books. That's what it's like when your brain has its own playlist, skipping tracks unpredictably while you're just trying to blend in.

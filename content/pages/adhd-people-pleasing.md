@@ -1,14 +1,16 @@
 ---
-title: "Unlock Joy: How ADHD People Pleasing Can Be a Gift!"
-description: "Discover the cozy world of \"ADHD people pleasing\" and find comfort in knowing you're not alone. This blog offers a warm hug of understanding and insights that uplift. Join us and feel seen!"
+title: "ADHD and People Pleasing: Why You Do It & How to Set Boundaries Without Guilt"
+description: "Always putting others first with ADHD? Learn why people pleasing happens, how to set healthy boundaries, and start honoring your needs without guilt or burnout."
 slug: "adhd-people-pleasing"
 date: 2025-05-03
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD people pleasing strategies", "managing ADHD in social settings", "overcoming overcommitment with ADHD", "ADHD validation and support", "setting boundaries with ADHD", "ADHD adult emotional regulation", "ADHD and social exhaustion"]
-keywords: ["ADHD people pleasing strategies", "managing ADHD in social settings", "overcoming overcommitment with ADHD", "ADHD validation and support", "setting boundaries with ADHD", "ADHD adult emotional regulation", "ADHD and social exhaustion"]
+tags: ["ADHD people pleasing", "setting boundaries with ADHD", "ADHD social exhaustion", "managing ADHD in relationships", "overcoming overcommitment ADHD", "ADHD emotional regulation", "self-worth and ADHD"]
+keywords: ["ADHD people pleasing", "setting boundaries with ADHD", "ADHD social exhaustion", "managing ADHD in relationships", "overcoming overcommitment ADHD", "ADHD emotional regulation", "self-worth and ADHD"]
 og_image: "/og/adhd-people-pleasing.png"
+og_title: "ADHD and People Pleasing: Why You Do It & How to Set Boundaries Without Guilt"
+og_description: "Always putting others first with ADHD? Learn why people pleasing happens, how to set healthy boundaries, and start honoring your needs without guilt or burnout."
 ---
 
 Imagine you're a super-busy bee, buzzing from one colorful flower to another. You don't want to miss a single one because hey, they might feel left out!

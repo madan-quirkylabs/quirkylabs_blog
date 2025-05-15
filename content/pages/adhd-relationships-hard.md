@@ -1,14 +1,16 @@
 ---
-title: "Unlock Joy: Why ADHD Relationships Hard Can Mean More Love!"
-description: "Struggling with 'ADHD relationships hard'? Our blog offers cozy, playful insights to help you juggle love's complexities and feel truly seen. Let's tackle ADHD together!"
+title: "ADHD Relationships Are Hard: Why It Happens & How to Make Love Work"
+description: "Why are ADHD relationships hard? Discover the real reasons behind the struggles—and how to build stronger, more joyful connections with practical, playful tips."
 slug: "adhd-relationships-hard"
 date: 2025-05-07
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD relationship challenges", "managing ADHD in relationships", "ADHD communication strategies", "fun ADHD relationship tips", "understanding ADHD partners", "playful ADHD relationship advice", "ADHD relationship dynamics"]
-keywords: ["ADHD relationship challenges", "managing ADHD in relationships", "ADHD communication strategies", "fun ADHD relationship tips", "understanding ADHD partners", "playful ADHD relationship advice", "ADHD relationship dynamics"]
+tags: ["ADHD relationship challenges", "managing ADHD in relationships", "ADHD communication strategies", "understanding ADHD partners", "ADHD emotional connection", "ADHD dating advice", "healthy ADHD relationship habits"]
+keywords: ["ADHD relationship challenges", "managing ADHD in relationships", "ADHD communication strategies", "understanding ADHD partners", "ADHD emotional connection", "ADHD dating advice", "healthy ADHD relationship habits"]
 og_image: "/og/adhd-relationships-hard.png"
+og_title: "ADHD Relationships Are Hard: Why It Happens & How to Make Love Work"
+og_description: "Why are ADHD relationships hard? Discover the real reasons behind the struggles—and how to build stronger, more joyful connections with practical, playful tips."
 ---
 
 Imagine trying to juggle while riding a unicycle. That's what managing ADHD in relationships can feel like sometimes! One ball is texting back on time, another is remembering dates, and oh, look—a birthday!

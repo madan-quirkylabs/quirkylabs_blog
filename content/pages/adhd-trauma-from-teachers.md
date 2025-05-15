@@ -1,14 +1,16 @@
 ---
-title: "Heal Your Heart: Overcoming ADHD Trauma from Teachers"
-description: "Explore healing from \"adhd trauma from teachers\" with our blog. Feel seen and celebrated as we transform school memories into empowering stories. Join us for a cozy, understanding journey!"
+title: "ADHD Trauma from Teachers: How to Heal, Reclaim Confidence & Feel Safe Again"
+description: "Struggling with ADHD trauma from teachers? You're not alone. Learn how those early experiences shape you—and how to heal, feel seen, and rebuild your self-worth."
 slug: "adhd-trauma-from-teachers"
 date: 2025-05-07
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD classroom experiences", "ADHD teacher support", "overcoming ADHD stigma", "ADHD coping strategies in school", "ADHD emotional trauma", "teacher impact on ADHD", "playful ADHD learning techniques"]
-keywords: ["ADHD classroom experiences", "ADHD teacher support", "overcoming ADHD stigma", "ADHD coping strategies in school", "ADHD emotional trauma", "teacher impact on ADHD", "playful ADHD learning techniques"]
+tags: ["ADHD trauma from teachers", "ADHD classroom experiences", "healing ADHD emotional wounds", "teacher impact on ADHD", "overcoming ADHD school stigma", "ADHD coping strategies", "rebuilding ADHD confidence"]
+keywords: ["ADHD trauma from teachers", "ADHD classroom experiences", "healing ADHD emotional wounds", "teacher impact on ADHD", "overcoming ADHD school stigma", "ADHD coping strategies", "rebuilding ADHD confidence"]
 og_image: "/og/adhd-trauma-from-teachers.png"
+og_title: "ADHD Trauma from Teachers: How to Heal, Reclaim Confidence & Feel Safe Again"
+og_description: "Struggling with ADHD trauma from teachers? You're not alone. Learn how those early experiences shape you—and how to heal, feel seen, and rebuild your self-worth."
 ---
 
 Imagine a sunny classroom, buzzing like a beehive. But oops! Someone's knocked over a jar of marbles. That's Tommy's thoughts—scattered everywhere!

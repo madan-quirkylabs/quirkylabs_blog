@@ -1,14 +1,16 @@
 ---
-title: "Escape ADHD Hustle Burnout: Find Joy & Balance Now!"
-description: "Feeling the 'ADHD hustle burnout'? Let's park that super-charged brain and find joy in the pit stop. This blog offers a cozy nook for understanding and recharging. 🌟"
+title: "ADHD Hustle Burnout: Why You Crash & How to Recharge Without Guilt"
+description: "Always on the go until you crash? Discover why ADHD hustle burnout happens, how to manage energy better, and reclaim joy without guilt or shame."
 slug: "adhd-hustle-burnout"
 date: 2025-05-03
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD hustle burnout", "managing ADHD in adults", "ADHD energy management", "ADHD productivity tips", "balancing ADHD enthusiasm", "burnout recovery for ADHD", "ADHD and taking breaks"]
-keywords: ["ADHD hustle burnout", "managing ADHD in adults", "ADHD energy management", "ADHD productivity tips", "balancing ADHD enthusiasm", "burnout recovery for ADHD", "ADHD and taking breaks"]
+tags: ["ADHD hustle burnout", "managing ADHD in adults", "ADHD energy management", "ADHD burnout recovery", "balancing ADHD enthusiasm", "ADHD rest strategies", "ADHD and taking breaks"]
+keywords: ["ADHD hustle burnout", "managing ADHD in adults", "ADHD energy management", "ADHD burnout recovery", "balancing ADHD enthusiasm", "ADHD rest strategies", "ADHD and taking breaks"]
 og_image: "/og/adhd-hustle-burnout.png"
+og_title: "ADHD Hustle Burnout: Why You Crash & How to Recharge Without Guilt"
+og_description: "Always on the go until you crash? Discover why ADHD hustle burnout happens, how to manage energy better, and reclaim joy without guilt or shame."
 ---
 
 Imagine your brain as a super-charged sports car, always zooming! Vroom, vroom—so fast, so fun!

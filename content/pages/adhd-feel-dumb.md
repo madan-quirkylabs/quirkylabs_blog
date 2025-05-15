@@ -1,14 +1,16 @@
 ---
-title: "Beat the 'ADHD Feel Dumb' Blues with Smart, Fun Tips!"
-description: "Feel like 'adhd feel dumb' sometimes? Dive into our blog where we turn that feeling into a playful, creative journey, making you feel seen and understood!"
+title: "ADHD Feeling Dumb: Why It Happens & How to Reclaim Your Confidence"
+description: "Do you ever think 'ADHD makes me feel dumb'? You're not alone. Learn why this happens, how to shift the narrative, and celebrate your unique ADHD brilliance."
 slug: "adhd-feel-dumb"
 date: 2025-05-07
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD feeling dumb", "ADHD and self-doubt", "ADHD reading challenges", "ADHD focus strategies", "overcoming ADHD misconceptions", "ADHD and creativity", "ADHD emotional support"]
-keywords: ["ADHD feeling dumb", "ADHD and self-doubt", "ADHD reading challenges", "ADHD focus strategies", "overcoming ADHD misconceptions", "ADHD and creativity", "ADHD emotional support"]
+tags: ["ADHD feeling dumb", "ADHD self-esteem", "ADHD and self-doubt", "overcoming ADHD misconceptions", "ADHD and intelligence", "ADHD strengths", "emotional support for ADHD"]
+keywords: ["ADHD feeling dumb", "ADHD self-esteem", "ADHD and self-doubt", "overcoming ADHD misconceptions", "ADHD and intelligence", "ADHD strengths", "emotional support for ADHD"]
 og_image: "/og/adhd-feel-dumb.png"
+og_title: "ADHD Feeling Dumb: Why It Happens & How to Reclaim Your Confidence"
+og_description: "Do you ever think 'ADHD makes me feel dumb'? You're not alone. Learn why this happens, how to shift the narrative, and celebrate your unique ADHD brilliance."
 ---
 
 Imagine your brain is like a super-busy bee, buzzing from flower to flower. Sometimes it forgets to make honey because it's so excited about all the flowers!

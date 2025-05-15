@@ -1,14 +1,16 @@
 ---
-title: "Ease ADHD Rest Anxiety: Snuggle into Calm & Play!"
-description: "Struggling with ADHD rest anxiety? Dive into comforting insights that make your busy brain feel understood and cherished. Let's find your cozy rest spot together!"
+title: "ADHD Rest Anxiety: Why You Can’t Relax & How to Finally Feel Calm"
+description: "Can’t relax with ADHD? Learn how rest anxiety shows up, why it’s so common, and playful strategies to help your brain unwind and actually enjoy doing nothing."
 slug: "adhd-rest-anxiety"
 date: 2025-05-03
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD rest strategies", "managing ADHD anxiety", "relaxation techniques for ADHD", "ADHD sleep tips", "calming ADHD mind", "ADHD and anxiety coping", "ADHD friendly relaxation methods"]
-keywords: ["ADHD rest strategies", "managing ADHD anxiety", "relaxation techniques for ADHD", "ADHD sleep tips", "calming ADHD mind", "ADHD and anxiety coping", "ADHD friendly relaxation methods"]
+tags: ["ADHD rest anxiety", "ADHD relaxation strategies", "calming ADHD brain", "ADHD anxiety and rest", "how to relax with ADHD", "ADHD nervous system regulation", "ADHD rest resistance"]
+keywords: ["ADHD rest anxiety", "ADHD relaxation strategies", "calming ADHD brain", "ADHD anxiety and rest", "how to relax with ADHD", "ADHD nervous system regulation", "ADHD rest resistance"]
 og_image: "/og/adhd-rest-anxiety.png"
+og_title: "ADHD Rest Anxiety: Why You Can’t Relax & How to Finally Feel Calm"
+og_description: "Can’t relax with ADHD? Learn how rest anxiety shows up, why it’s so common, and playful strategies to help your brain unwind and actually enjoy doing nothing."
 ---
 
 Imagine your brain is like a super-busy bee, buzzing from flower to flower. Now, it's time to rest, but guess what? The bee doesn't want to sit still!

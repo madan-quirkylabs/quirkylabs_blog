@@ -1,13 +1,16 @@
 ---
-title: "Take Our Free ADHD Test for Adults"
-description: "Unleash curiosity with our breezy ADHD test for adults! Playful, speedy and tailored for your vibrant mind. Start your discovery journey today!"
+title: "Free ADHD Test for Adults: Fast, Fun & Eye-Opening"
+description: "Take our free ADHD test for adults. A playful, research-informed quiz to help you spot symptoms, explore traits, and better understand your brain. Start now!"
 slug: "adhd-test-for-adults"
 date: 2025-04-30
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD", "Neurodivergence"]
-keywords: ["ADHD adult quiz", "ADHD symptoms in adults", "executive dysfunction test"]
+tags: ["ADHD test for adults", "adult ADHD symptoms", "free ADHD quiz", "executive dysfunction test", "identify ADHD traits", "neurodivergent self-assessment", "ADHD diagnosis support"]
+keywords: ["ADHD test for adults", "adult ADHD symptoms", "free ADHD quiz", "executive dysfunction test", "identify ADHD traits", "neurodivergent self-assessment", "ADHD diagnosis support"]
+og_image: "/og/adhd-test-for-adults.png"
+og_title: "Free ADHD Test for Adults: Fast, Fun & Eye-Opening"
+og_description: "Take our free ADHD test for adults. A playful, research-informed quiz to help you spot symptoms, explore traits, and better understand your brain. Start now!"
 ---
 
 ## Squirrel Rodeos & Slippery Zucchinis: Is It ADHD?

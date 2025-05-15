@@ -1,14 +1,16 @@
 ---
-title: "Feel Heard: Unpacking 'ADHD No One Understands Me'"
-description: "Feel like \"ADHD no one understands me\"? Dive into a blog where your vibrant, bouncy-ball energy is celebrated, not shushed! Let's find that lost remote together and tune into a world that gets you."
+title: "ADHD and Feeling Misunderstood: What to Do When No One Gets You"
+description: "Feel like no one understands your ADHD? You’re not alone. Learn why this happens, how to express your needs, and finally feel truly heard and seen."
 slug: "adhd-no-one-understands-me"
 date: 2025-05-03
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD adult experiences", "feeling misunderstood with ADHD", "managing adult ADHD", "ADHD emotional challenges", "ADHD and social interactions", "adult ADHD coping strategies", "adult ADHD personal stories"]
-keywords: ["ADHD adult experiences", "feeling misunderstood with ADHD", "managing adult ADHD", "ADHD emotional challenges", "ADHD and social interactions", "adult ADHD coping strategies", "adult ADHD personal stories"]
+tags: ["feeling misunderstood with ADHD", "ADHD adult experiences", "ADHD emotional challenges", "ADHD and social interactions", "adult ADHD coping strategies", "understanding adult ADHD", "ADHD communication tips"]
+keywords: ["feeling misunderstood with ADHD", "ADHD adult experiences", "ADHD emotional challenges", "ADHD and social interactions", "adult ADHD coping strategies", "understanding adult ADHD", "ADHD communication tips"]
 og_image: "/og/adhd-no-one-understands-me.png"
+og_title: "ADHD and Feeling Misunderstood: What to Do When No One Gets You"
+og_description: "Feel like no one understands your ADHD? You’re not alone. Learn why this happens, how to express your needs, and finally feel truly heard and seen."
 ---
 
 Imagine you're a bouncy ball in a room full of glass statues. You're zipping and zooming, full of energy and sparkles, but oh! Those statues don’t move at all. They just don't get the fun of bouncing high!

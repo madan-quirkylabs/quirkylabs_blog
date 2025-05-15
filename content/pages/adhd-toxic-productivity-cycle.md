@@ -1,14 +1,16 @@
 ---
-title: "Escape the ADHD Toxic Productivity Cycle – Find Joy!"
-description: "Break free from the ADHD toxic productivity cycle with our blog! Discover playful insights and cozy validation to help you bounce back at your own joyful pace. Feel seen and uplifted today!"
+title: "ADHD Toxic Productivity Cycle: Why You Burn Out & How to Break Free"
+description: "Stuck in the ADHD toxic productivity cycle? Learn why it happens and how to reclaim your energy with playful strategies that honor your pace and joy."
 slug: "adhd-toxic-productivity-cycle"
 date: 2025-05-03
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD productivity tips", "overcoming ADHD perfectionism", "ADHD energy management", "managing ADHD tasks", "breaking ADHD productivity cycle", "ADHD and self-acceptance", "ADHD playful productivity strategies"]
-keywords: ["ADHD productivity tips", "overcoming ADHD perfectionism", "ADHD energy management", "managing ADHD tasks", "breaking ADHD productivity cycle", "ADHD and self-acceptance", "ADHD playful productivity strategies"]
+tags: ["ADHD toxic productivity", "breaking ADHD productivity cycle", "managing ADHD energy", "ADHD perfectionism", "ADHD self-acceptance", "playful ADHD productivity", "avoiding burnout with ADHD"]
+keywords: ["ADHD toxic productivity", "breaking ADHD productivity cycle", "managing ADHD energy", "ADHD perfectionism", "ADHD self-acceptance", "playful ADHD productivity", "avoiding burnout with ADHD"]
 og_image: "/og/adhd-toxic-productivity-cycle.png"
+og_title: "ADHD Toxic Productivity Cycle: Why You Burn Out & How to Break Free"
+og_description: "Stuck in the ADHD toxic productivity cycle? Learn why it happens and how to reclaim your energy with playful strategies that honor your pace and joy."
 ---
 
 Imagine your brain is a hyper bouncy ball in a tiny room. Boing! It hits a wall labeled "Do ALL the things!" and then, whoops, crashes into another wall: "But, perfection first!"

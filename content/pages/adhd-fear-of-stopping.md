@@ -1,14 +1,16 @@
 ---
-title: "Unlock Joy: Overcome ADHD Fear of Stopping Today!"
-description: "Explore the \"ADHD fear of stopping\" with us! This blog offers a cozy nook of understanding and strategies to gently embrace the pause. Feel seen, feel soothed, and learn to rest without the stress."
+title: "ADHD Fear of Stopping: Why You Can’t Rest & How to Embrace the Pause"
+description: "Understand the ADHD fear of stopping and why rest feels scary. Discover calming strategies to manage downtime and finally feel safe to slow down."
 slug: "adhd-fear-of-stopping"
 date: 2025-05-03
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD fear of stopping", "managing ADHD downtime", "ADHD relaxation anxiety", "ADHD and fear of inactivity", "ADHD stopping strategies", "coping with ADHD restlessness", "ADHD and taking breaks"]
-keywords: ["ADHD fear of stopping", "managing ADHD downtime", "ADHD relaxation anxiety", "ADHD and fear of inactivity", "ADHD stopping strategies", "coping with ADHD restlessness", "ADHD and taking breaks"]
+tags: ["ADHD fear of stopping", "managing ADHD downtime", "ADHD rest anxiety", "ADHD fear of inactivity", "coping with ADHD restlessness", "ADHD relaxation strategies", "taking breaks with ADHD"]
+keywords: ["ADHD fear of stopping", "managing ADHD downtime", "ADHD rest anxiety", "ADHD fear of inactivity", "coping with ADHD restlessness", "ADHD relaxation strategies", "taking breaks with ADHD"]
 og_image: "/og/adhd-fear-of-stopping.png"
+og_title: "ADHD Fear of Stopping: Why You Can’t Rest & How to Embrace the Pause"
+og_description: "Understand the ADHD fear of stopping and why rest feels scary. Discover calming strategies to manage downtime and finally feel safe to slow down."
 ---
 
 Imagine you're a bouncy super ball, zipping and zooming everywhere!

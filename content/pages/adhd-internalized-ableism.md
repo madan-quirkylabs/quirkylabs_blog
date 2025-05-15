@@ -1,15 +1,18 @@
 ---
-title: "Beat ADHD Internalized Ableism & Embrace Your Spark!"
-description: "Discover how to embrace your vibrant mind with our blog on \"adhd internalized ableism.\" Dive into a cozy, playful exploration that helps you feel validated and celebrated, just as you are!"
+title: "ADHD Internalized Ableism: What It Is & How to Start Embracing Your Brain"
+description: "Feel like you’re not ‘ADHD enough’ or too much? Learn how internalized ableism sneaks in, how to undo the shame, and start celebrating your brilliant ADHD brain."
 slug: "adhd-internalized-ableism"
 date: 2025-05-07
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD internalized ableism", "embracing ADHD creativity", "ADHD positive mindset", "ADHD self-acceptance", "ADHD and self-doubt", "celebrating ADHD differences", "ADHD emotional support"]
-keywords: ["ADHD internalized ableism", "embracing ADHD creativity", "ADHD positive mindset", "ADHD self-acceptance", "ADHD and self-doubt", "celebrating ADHD differences", "ADHD emotional support"]
+tags: ["ADHD internalized ableism", "ADHD self-acceptance", "celebrating ADHD differences", "ADHD and self-doubt", "ADHD emotional support", "embracing ADHD identity", "ADHD positive mindset"]
+keywords: ["ADHD internalized ableism", "ADHD self-acceptance", "celebrating ADHD differences", "ADHD and self-doubt", "ADHD emotional support", "embracing ADHD identity", "ADHD positive mindset"]
 og_image: "/og/adhd-internalized-ableism.png"
+og_title: "ADHD Internalized Ableism: What It Is & How to Start Embracing Your Brain"
+og_description: "Feel like you’re not ‘ADHD enough’ or too much? Learn how internalized ableism sneaks in, how to undo the shame, and start celebrating your brilliant ADHD brain."
 ---
+
 
 Imagine your brain is a bouncy castle. Thoughts jump and flip wildly, not always landing where they should. It's a fun mess!
 

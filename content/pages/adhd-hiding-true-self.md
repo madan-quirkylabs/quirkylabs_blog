@@ -1,15 +1,18 @@
 ---
-title: "ADHD hiding true self: Unmasking Joy: Embrace Your True Self Beyond ADHD!"
-description: "Discover the joy of embracing your vibrant mind with our blog on \"ADHD hiding true self.\" Feel seen and uplifted as we explore how to share your unique sparkle with the world!"
+title: "ADHD and Hiding Your True Self: How to Drop the Mask & Embrace Who You Are"
+description: "Tired of hiding your true self with ADHD? Learn why masking happens, how it affects your mental health, and ways to live more authentically and confidently."
 slug: "adhd-hiding-true-self"
 date: 2025-05-03
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD masking strategies", "hiding ADHD symptoms", "adult ADHD identity", "embracing ADHD uniqueness", "ADHD emotional challenges", "ADHD self-expression", "understanding ADHD in adults"]
-keywords: ["ADHD masking strategies", "hiding ADHD symptoms", "adult ADHD identity", "embracing ADHD uniqueness", "ADHD emotional challenges", "ADHD self-expression", "understanding ADHD in adults"]
+tags: ["ADHD masking strategies", "hiding ADHD symptoms", "adult ADHD identity", "embracing ADHD uniqueness", "ADHD emotional challenges", "ADHD self-expression", "authenticity with ADHD"]
+keywords: ["ADHD masking strategies", "hiding ADHD symptoms", "adult ADHD identity", "embracing ADHD uniqueness", "ADHD emotional challenges", "ADHD self-expression", "authenticity with ADHD"]
 og_image: "/og/adhd-hiding-true-self.png"
+og_title: "ADHD and Hiding Your True Self: How to Drop the Mask & Embrace Who You Are"
+og_description: "Tired of hiding your true self with ADHD? Learn why masking happens, how it affects your mental health, and ways to live more authentically and confidently."
 ---
+
 
 Bobby's mind was like a super-fast race car, zooming from thought to thought. But sometimes, in class, he felt like he had to park his race car in a tiny garage, hiding all the fun stickers and cool racing stripes.
 

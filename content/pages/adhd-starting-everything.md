@@ -1,14 +1,16 @@
 ---
-title: "Unlock Joy: Master ADHD Starting Everything Today!"
-description: "Discover the charm of \"ADHDstarting everything\" with our blog! A cozy spot where starting feels like magic and every new project is a celebration. Feel seen and uplifted in our understanding community!"
+title: "ADHD and Starting Everything: Why You Jump In & How to Finish What Matters"
+description: "Always starting, never finishing? Learn why ADHD brains love new beginnings and how to channel that spark into follow-through without losing the fun."
 slug: "adhd-starting-everything"
 date: 2025-05-07
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD project initiation", "starting new projects with ADHD", "ADHD and task switching", "managing multiple projects ADHD", "ADHD enthusiasm for new tasks", "ADHD starting new hobbies", "embracing ADHD creativity"]
-keywords: ["ADHD project initiation", "starting new projects with ADHD", "ADHD and task switching", "managing multiple projects ADHD", "ADHD enthusiasm for new tasks", "ADHD starting new hobbies", "embracing ADHD creativity"]
+tags: ["ADHD project initiation", "starting new projects with ADHD", "ADHD task follow-through", "managing multiple projects ADHD", "ADHD creative energy", "task switching ADHD", "finishing what you start ADHD"]
+keywords: ["ADHD project initiation", "starting new projects with ADHD", "ADHD task follow-through", "managing multiple projects ADHD", "ADHD creative energy", "task switching ADHD", "finishing what you start ADHD"]
 og_image: "/og/adhd-starting-everything.png"
+og_title: "ADHD and Starting Everything: Why You Jump In & How to Finish What Matters"
+og_description: "Always starting, never finishing? Learn why ADHD brains love new beginnings and how to channel that spark into follow-through without losing the fun."
 ---
 
 Imagine ADHD as a kid in a candy store, eyes wide, bouncing from one colorful jar to another. "Ooh, shiny!" it shouts, starting on a lollipop, then spotting the chocolate.

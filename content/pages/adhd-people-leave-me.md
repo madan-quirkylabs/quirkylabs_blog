@@ -1,14 +1,16 @@
 ---
-title: "Why ADHD People Leave Me: Unlocking Deep Bonds!"
-description: "Discover the warmth and understanding of \"adhd people leave me\" in our blog. Dive into cozy insights and playful tips that make you feel seen and cherished, even when the buzz gets too much!"
+title: "Why People Leave You When You Have ADHD: What’s Really Going On & How to Heal"
+description: "Feel like people keep leaving you because of your ADHD? You're not alone. Learn the hidden reasons, how to communicate your needs, and build deeper, lasting bonds."
 slug: "adhd-people-leave-me"
 date: 2025-05-07
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD friendship dynamics", "managing ADHD relationships", "understanding ADHD behavior", "coping with ADHD friends", "ADHD communication strategies", "playful approaches to ADHD", "maintaining connections with ADHD"]
-keywords: ["ADHD friendship dynamics", "managing ADHD relationships", "understanding ADHD behavior", "coping with ADHD friends", "ADHD communication strategies", "playful approaches to ADHD", "maintaining connections with ADHD"]
+tags: ["ADHD relationship struggles", "ADHD friendship challenges", "managing ADHD social dynamics", "coping with ADHD rejection", "ADHD communication tips", "understanding ADHD behavior", "maintaining relationships with ADHD"]
+keywords: ["ADHD relationship struggles", "ADHD friendship challenges", "managing ADHD social dynamics", "coping with ADHD rejection", "ADHD communication tips", "understanding ADHD behavior", "maintaining relationships with ADHD"]
 og_image: "/og/adhd-people-leave-me.png"
+og_title: "Why People Leave You When You Have ADHD: What’s Really Going On & How to Heal"
+og_description: "Feel like people keep leaving you because of your ADHD? You're not alone. Learn the hidden reasons, how to communicate your needs, and build deeper, lasting bonds."
 ---
 
 Imagine you're a buzzing bee, zipping from one flower to another. That's how it feels when friends with ADHD buzz out of sight—suddenly they're gone!

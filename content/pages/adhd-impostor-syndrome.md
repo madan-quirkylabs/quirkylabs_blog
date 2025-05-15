@@ -1,14 +1,16 @@
 ---
-title: "Beat ADHD Impostor Syndrome: Feel Valid & Capable Now!"
-description: "Unravel the mystery of ADHD impostor syndrome with us! Feel seen and uplifted as we bounce through insights that validate and celebrate your unique mind."
+title: "ADHD Impostor Syndrome: Why You Feel Like a Fraud & How to Reclaim Your Worth"
+description: "Struggling with ADHD impostor syndrome? Learn why self-doubt sneaks in, how to quiet the inner critic, and finally feel valid, capable, and proud of who you are."
 slug: "adhd-impostor-syndrome"
 date: 2025-05-03
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD impostor syndrome", "adult ADHD self-doubt", "overcoming ADHD stigma", "ADHD creative challenges", "ADHD self-identity", "managing ADHD emotions", "ADHD validation strategies"]
-keywords: ["ADHD impostor syndrome", "adult ADHD self-doubt", "overcoming ADHD stigma", "ADHD creative challenges", "ADHD self-identity", "managing ADHD emotions", "ADHD validation strategies"]
+tags: ["ADHD impostor syndrome", "adult ADHD self-doubt", "overcoming ADHD stigma", "managing ADHD emotions", "ADHD self-identity", "ADHD confidence building", "ADHD validation strategies"]
+keywords: ["ADHD impostor syndrome", "adult ADHD self-doubt", "overcoming ADHD stigma", "managing ADHD emotions", "ADHD self-identity", "ADHD confidence building", "ADHD validation strategies"]
 og_image: "/og/adhd-impostor-syndrome.png"
+og_title: "ADHD Impostor Syndrome: Why You Feel Like a Fraud & How to Reclaim Your Worth"
+og_description: "Struggling with ADHD impostor syndrome? Learn why self-doubt sneaks in, how to quiet the inner critic, and finally feel valid, capable, and proud of who you are."
 ---
 
 Imagine your brain is a bouncy castle, fun but oh-so-squishy. Sometimes, you leap into a thought and whoops—bounce right off to the next!

@@ -1,14 +1,16 @@
 ---
-title: "Unlock Joy: How ADHD Overcompensating Sparks Creativity!"
-description: "Discover the cozy side of \"ADHD overcompensating\" with our blog. Feel seen, understood, and uplifted as we explore the quirky charm of our ADHD superpowers together!"
+title: "ADHD and Overcompensating: Why You Try So Hard & How to Channel It Creatively"
+description: "Feel like you're always overcompensating with ADHD? Learn why it happens, how to manage it, and how to turn that energy into something powerful and fulfilling."
 slug: "adhd-overcompensating"
 date: 2025-05-03
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD overcompensation strategies", "managing ADHD impulsivity", "ADHD and multitasking", "adult ADHD coping mechanisms", "hyperfocusing in ADHD", "ADHD productivity tips", "emotional regulation ADHD"]
-keywords: ["ADHD overcompensation strategies", "managing ADHD impulsivity", "ADHD and multitasking", "adult ADHD coping mechanisms", "hyperfocusing in ADHD", "ADHD productivity tips", "emotional regulation ADHD"]
+tags: ["ADHD overcompensating", "ADHD coping strategies", "hyperfocusing in ADHD", "adult ADHD emotional regulation", "managing ADHD impulsivity", "ADHD productivity techniques", "ADHD creative energy"]
+keywords: ["ADHD overcompensating", "ADHD coping strategies", "hyperfocusing in ADHD", "adult ADHD emotional regulation", "managing ADHD impulsivity", "ADHD productivity techniques", "ADHD creative energy"]
 og_image: "/og/adhd-overcompensating.png"
+og_title: "ADHD and Overcompensating: Why You Try So Hard & How to Channel It Creatively"
+og_description: "Feel like you're always overcompensating with ADHD? Learn why it happens, how to manage it, and how to turn that energy into something powerful and fulfilling."
 ---
 
 Imagine you're a superhero, but instead of flying, you speed-skate on ice. Super-fast, super fun! But sometimes, oops! You forget where you put your skates.

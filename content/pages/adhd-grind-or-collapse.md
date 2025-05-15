@@ -1,14 +1,16 @@
 ---
-title: "Beat the 'ADHD Grind or Collapse' – Thrive with Joy!"
-description: "Discover the \"ADHD grind or collapse\" blog, where we turn chaos into comfort! Unpack the superhero in you with heartfelt stories and tips that feel like a warm hug. Dive in and feel understood!"
+title: "ADHD Grind or Collapse Cycle: Why You Burn Out & How to Break Free"
+description: "Caught in the ADHD grind or collapse cycle? Learn why it happens, how to manage energy better, and build a rhythm that brings both peace and productivity."
 slug: "adhd-grind-or-collapse"
 date: 2025-05-03
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD productivity strategies", "managing ADHD overwhelm", "ADHD task management", "ADHD work-life balance", "ADHD coping mechanisms", "embracing ADHD quirks", "adult ADHD support"]
-keywords: ["ADHD productivity strategies", "managing ADHD overwhelm", "ADHD task management", "ADHD work-life balance", "ADHD coping mechanisms", "embracing ADHD quirks", "adult ADHD support"]
+tags: ["ADHD grind or collapse", "ADHD productivity strategies", "managing ADHD overwhelm", "ADHD energy management", "ADHD task management", "ADHD burnout recovery", "adult ADHD support"]
+keywords: ["ADHD grind or collapse", "ADHD productivity strategies", "managing ADHD overwhelm", "ADHD energy management", "ADHD task management", "ADHD burnout recovery", "adult ADHD support"]
 og_image: "/og/adhd-grind-or-collapse.png"
+og_title: "ADHD Grind or Collapse Cycle: Why You Burn Out & How to Break Free"
+og_description: "Caught in the ADHD grind or collapse cycle? Learn why it happens, how to manage energy better, and build a rhythm that brings both peace and productivity."
 ---
 
 Imagine you're a superhero, but instead of flying, you're juggling. Balls are your tasks—so many shiny colors!

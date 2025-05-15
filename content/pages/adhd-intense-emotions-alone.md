@@ -1,15 +1,18 @@
 ---
-title: "Feel Understood: Navigating ADHD Intense Emotions Alone!"
-description: "Discover how to navigate \"ADHD intense emotions alone\" with warmth and understanding. Dive into our blog for cozy insights and feel the rainbow after the storm."
+title: "ADHD Intense Emotions: How to Cope Alone Without Feeling Overwhelmed"
+description: "Facing intense emotions alone with ADHD? You're not broken. Learn calming tools, emotional insights, and ways to feel understood and steady again."
 slug: "adhd-intense-emotions-alone"
 date: 2025-05-03
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD emotional regulation", "managing ADHD emotions alone", "ADHD intense feelings", "coping with ADHD mood swings", "ADHD adult emotional rollercoaster", "ADHD feelings of loneliness", "navigating ADHD emotions"]
-keywords: ["ADHD emotional regulation", "managing ADHD emotions alone", "ADHD intense feelings", "coping with ADHD mood swings", "ADHD adult emotional rollercoaster", "ADHD feelings of loneliness", "navigating ADHD emotions"]
+tags: ["ADHD emotional regulation", "managing ADHD emotions alone", "ADHD intense feelings", "coping with ADHD mood swings", "ADHD emotional overwhelm", "adult ADHD loneliness", "navigating ADHD emotions"]
+keywords: ["ADHD emotional regulation", "managing ADHD emotions alone", "ADHD intense feelings", "coping with ADHD mood swings", "ADHD emotional overwhelm", "adult ADHD loneliness", "navigating ADHD emotions"]
 og_image: "/og/adhd-intense-emotions-alone.png"
+og_title: "ADHD Intense Emotions: How to Cope Alone Without Feeling Overwhelmed"
+og_description: "Facing intense emotions alone with ADHD? You're not broken. Learn calming tools, emotional insights, and ways to feel understood and steady again."
 ---
+
 
 Imagine it's raining popcorn in your brain—non-stop, puffy thoughts popping everywhere!
 

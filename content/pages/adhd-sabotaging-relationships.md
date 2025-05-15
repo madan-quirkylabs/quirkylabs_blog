@@ -1,14 +1,16 @@
 ---
-title: "Unlock Love: Stop ADHD Sabotaging Relationships Now!"
-description: "Discover how \"ADHD sabotaging relationships\" isn't just you! Dive into insights and cozy tips to keep your relationship picnic peaceful and joyful. 🌟🧺"
+title: "ADHD Sabotaging Relationships? Why It Happens & How to Build Real Connection"
+description: "Is ADHD sabotaging your relationships? Learn why it happens and discover heartfelt strategies to nurture love, improve communication, and feel truly connected."
 slug: "adhd-sabotaging-relationships"
 date: 2025-05-07
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD relationship challenges", "managing ADHD in relationships", "ADHD communication tips", "improving focus in ADHD partnerships", "ADHD and emotional connection", "strategies for ADHD and dating", "understanding ADHD in love"]
-keywords: ["ADHD relationship challenges", "managing ADHD in relationships", "ADHD communication tips", "improving focus in ADHD partnerships", "ADHD and emotional connection", "strategies for ADHD and dating", "understanding ADHD in love"]
+tags: ["ADHD relationship challenges", "ADHD emotional connection", "ADHD communication tips", "ADHD dating strategies", "managing ADHD in love", "improving ADHD relationships", "understanding ADHD partners"]
+keywords: ["ADHD relationship challenges", "ADHD emotional connection", "ADHD communication tips", "ADHD dating strategies", "managing ADHD in love", "improving ADHD relationships", "understanding ADHD partners"]
 og_image: "/og/adhd-sabotaging-relationships.png"
+og_title: "ADHD Sabotaging Relationships? Why It Happens & How to Build Real Connection"
+og_description: "Is ADHD sabotaging your relationships? Learn why it happens and discover heartfelt strategies to nurture love, improve communication, and feel truly connected."
 ---
 
 Imagine your brain is like a hyper puppy in a park full of squirrels. Each squirrel is a thought, darting off in different directions, impossible to catch!

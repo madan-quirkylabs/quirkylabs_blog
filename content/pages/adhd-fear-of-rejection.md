@@ -1,15 +1,18 @@
 ---
-title: "Beat ADHD Fear of Rejection: Feel Loved & Accepted!"
-description: "Discover how to bounce back from the \"ADHD fear of rejection\" with our cozy guide. Feel seen, understood, and ready to embrace friendship anew. Let's hop to happiness together!"
+title: "ADHD Fear of Rejection: How to Feel Loved, Accepted & Confident Again"
+description: "Struggling with ADHD fear of rejection? Learn practical tips to overcome rejection sensitivity, build stronger friendships, and feel emotionally secure."
 slug: "adhd-fear-of-rejection"
 date: 2025-05-07
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD fear of rejection", "coping with rejection ADHD", "ADHD social anxiety", "overcoming ADHD rejection sensitivity", "ADHD friendship challenges", "managing ADHD emotions", "ADHD adult social skills"]
-keywords: ["ADHD fear of rejection", "coping with rejection ADHD", "ADHD social anxiety", "overcoming ADHD rejection sensitivity", "ADHD friendship challenges", "managing ADHD emotions", "ADHD adult social skills"]
+tags: ["ADHD fear of rejection", "coping with rejection ADHD", "ADHD rejection sensitivity", "ADHD social anxiety", "managing ADHD emotions", "ADHD and friendships", "adult ADHD support"]
+keywords: ["ADHD fear of rejection", "coping with rejection ADHD", "ADHD rejection sensitivity", "ADHD social anxiety", "managing ADHD emotions", "ADHD and friendships", "adult ADHD support"]
 og_image: "/og/adhd-fear-of-rejection.png"
+og_title: "ADHD Fear of Rejection: How to Feel Loved, Accepted & Confident Again"
+og_description: "Struggling with ADHD fear of rejection? Learn practical tips to overcome rejection sensitivity, build stronger friendships, and feel emotionally secure."
 ---
+
 
 Imagine you're a bouncy kangaroo, hopping from one friend to another. Fun, right? But uh-oh, what if one friend doesn’t smile back?
 

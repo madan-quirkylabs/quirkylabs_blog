@@ -1,14 +1,16 @@
 ---
-title: "Beat ADHD Panic of Wasted Time: Unlock Joyful Focus!"
-description: "Feel the 'ADHD panic of wasted time'? This blog is your cozy corner where you're seen and uplifted. Let's bounce back from distraction, one playful hop at a time!"
+title: "ADHD Panic About Wasted Time: Why It Happens & How to Reclaim Your Focus"
+description: "Feel overwhelmed by wasted time with ADHD? Learn why the panic sets in and how to gently reset your brain for focus, peace, and progress without shame."
 slug: "adhd-panic-of-wasted-time"
 date: 2025-05-07
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD time management tips", "managing ADHD time panic", "ADHD and time wastage", "playful ADHD coping strategies", "adult ADHD time management", "ADHD emotional regulation", "overcoming ADHD time anxiety"]
-keywords: ["ADHD time management tips", "managing ADHD time panic", "ADHD and time wastage", "playful ADHD coping strategies", "adult ADHD time management", "ADHD emotional regulation", "overcoming ADHD time anxiety"]
+tags: ["ADHD time anxiety", "managing ADHD time panic", "ADHD time management tips", "overcoming ADHD time stress", "adult ADHD focus strategies", "ADHD emotional regulation", "reclaiming time with ADHD"]
+keywords: ["ADHD time anxiety", "managing ADHD time panic", "ADHD time management tips", "overcoming ADHD time stress", "adult ADHD focus strategies", "ADHD emotional regulation", "reclaiming time with ADHD"]
 og_image: "/og/adhd-panic-of-wasted-time.png"
+og_title: "ADHD Panic About Wasted Time: Why It Happens & How to Reclaim Your Focus"
+og_description: "Feel overwhelmed by wasted time with ADHD? Learn why the panic sets in and how to gently reset your brain for focus, peace, and progress without shame."
 ---
 
 Imagine you're a bouncy ball in a giant pinball machine. Ping! There goes another minute. Pong! There goes another plan. You're zipping and zooming from one shiny distraction to the next. Whoosh!

@@ -1,14 +1,16 @@
 ---
-title: "Unlock Magic: ADHD Productivity vs Possibility!"
-description: "Explore \"ADHD productivity vs possibility\" and see how your vibrant mind isn't just busy—it's brilliantly explorative! Feel seen and uplifted with our insights."
+title: "ADHD Productivity vs Possibility: How to Balance Doing and Dreaming"
+description: "Torn between tasks and ideas with ADHD? Learn how to honor your creative spark without losing focus—and thrive at the intersection of productivity and possibility."
 slug: "adhd-productivity-vs-possibility"
 date: 2025-05-07
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD productivity strategies", "embracing ADHD creativity", "ADHD and imagination in adults", "balancing ADHD tasks and dreams", "ADHD mind exploration", "productivity vs possibility ADHD", "adult ADHD playful approaches"]
-keywords: ["ADHD productivity strategies", "embracing ADHD creativity", "ADHD and imagination in adults", "balancing ADHD tasks and dreams", "ADHD mind exploration", "productivity vs possibility ADHD", "adult ADHD playful approaches"]
+tags: ["ADHD productivity vs possibility", "balancing ADHD dreams and tasks", "ADHD creative mind", "embracing ADHD imagination", "ADHD productivity strategies", "managing ADHD ideas", "adult ADHD creative balance"]
+keywords: ["ADHD productivity vs possibility", "balancing ADHD dreams and tasks", "ADHD creative mind", "embracing ADHD imagination", "ADHD productivity strategies", "managing ADHD ideas", "adult ADHD creative balance"]
 og_image: "/og/adhd-productivity-vs-possibility.png"
+og_title: "ADHD Productivity vs Possibility: How to Balance Doing and Dreaming"
+og_description: "Torn between tasks and ideas with ADHD? Learn how to honor your creative spark without losing focus—and thrive at the intersection of productivity and possibility."
 ---
 
 Imagine your brain is like a super bouncy trampoline. Ideas jump high—touch the sky!

@@ -1,14 +1,16 @@
 ---
-title: "Stop Saying Sorry! Embrace ADHD Over Apologizing Now"
-description: "Discover why \"adhd over apologizing\" is more common than you think and how to embrace your quirks without guilt. Feel seen and uplifted with each word!"
+title: "ADHD and Over-Apologizing: Why You Say Sorry Too Much & How to Stop"
+description: "Always saying sorry with ADHD? You’re not alone. Learn why it happens, how to set boundaries, and start embracing your quirks without guilt or shame."
 slug: "adhd-over-apologizing"
 date: 2025-05-07
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD over apologizing", "managing over apologizing ADHD", "ADHD apology habits", "reducing unnecessary apologies ADHD", "understanding ADHD social interactions", "ADHD emotional regulation tips", "coping with ADHD over apologizing"]
-keywords: ["ADHD over apologizing", "managing over apologizing ADHD", "ADHD apology habits", "reducing unnecessary apologies ADHD", "understanding ADHD social interactions", "ADHD emotional regulation tips", "coping with ADHD over apologizing"]
+tags: ["ADHD over apologizing", "managing over apologizing ADHD", "ADHD apology habits", "reducing unnecessary apologies ADHD", "understanding ADHD social interactions", "ADHD emotional regulation", "coping with ADHD social habits"]
+keywords: ["ADHD over apologizing", "managing over apologizing ADHD", "ADHD apology habits", "reducing unnecessary apologies ADHD", "understanding ADHD social interactions", "ADHD emotional regulation", "coping with ADHD social habits"]
 og_image: "/og/adhd-over-apologizing.png"
+og_title: "ADHD and Over-Apologizing: Why You Say Sorry Too Much & How to Stop"
+og_description: "Always saying sorry with ADHD? You’re not alone. Learn why it happens, how to set boundaries, and start embracing your quirks without guilt or shame."
 ---
 
 Imagine your brain is like a super excited puppy, always running around, sometimes knocking things over by accident. You're at a friend's house, and oops! The puppy's tail swings too fast, tipping over a flower vase. Splash! Water everywhere!

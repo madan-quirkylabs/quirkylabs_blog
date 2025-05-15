@@ -1,14 +1,16 @@
 ---
-title: "Conquer ADHD Rejection Sensitivity: Feel Understood & Loved!"
-description: "Discover how to embrace your emotions with our guide on \"ADHD rejection sensitivity.\" Feel seen, understood, and uplifted as we explore how to keep your colorful balloons close!"
+title: "ADHD Rejection Sensitivity: How to Cope, Feel Loved & Be Understood"
+description: "Struggling with ADHD rejection sensitivity? Learn practical strategies to feel more secure, handle emotional swings, and build stronger relationships."
 slug: "adhd-rejection-sensitivity"
 date: 2025-05-03
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD rejection sensitivity coping", "managing emotional sensitivity ADHD", "rejection sensitive dysphoria tips", "adult ADHD friendship challenges", "emotional regulation ADHD adults", "ADHD social anxiety strategies", "understanding ADHD emotional responses"]
-keywords: ["ADHD rejection sensitivity coping", "managing emotional sensitivity ADHD", "rejection sensitive dysphoria tips", "adult ADHD friendship challenges", "emotional regulation ADHD adults", "ADHD social anxiety strategies", "understanding ADHD emotional responses"]
+tags: ["ADHD rejection sensitivity", "rejection sensitive dysphoria", "coping with emotional dysregulation", "ADHD emotional support", "managing ADHD friendships", "ADHD and social rejection", "adult ADHD emotional regulation"]
+keywords: ["ADHD rejection sensitivity", "rejection sensitive dysphoria", "coping with emotional dysregulation", "ADHD emotional support", "managing ADHD friendships", "ADHD and social rejection", "adult ADHD emotional regulation"]
 og_image: "/og/adhd-rejection-sensitivity.png"
+og_title: "ADHD Rejection Sensitivity: How to Cope, Feel Loved & Be Understood"
+og_description: "Struggling with ADHD rejection sensitivity? Learn practical strategies to feel more secure, handle emotional swings, and build stronger relationships."
 ---
 
 Imagine your feelings are like a bunch of colorful balloons. You're holding them tightly at a bustling, noisy party. Suddenly, someone bumps into you—oops!—and one balloon slips away. That's like when a friend cancels plans last minute. Your grip tightens on the others.

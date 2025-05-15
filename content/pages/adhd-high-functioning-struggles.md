@@ -1,14 +1,16 @@
 ---
-title: "Unmasking Joy: Thrive Amid ADHD High Functioning Struggles!"
-description: "Explore the \"ADHD high functioning struggles\" with us! Get cozy and uncover how your vibrant, bouncy-castle mind is not just busy but brilliantly creative. Feel seen and uplifted with every word!"
+title: "High-Functioning ADHD: Why It’s Still Hard & How to Cope with Hidden Struggles"
+description: "Look fine on the outside but struggling inside? Learn what high-functioning ADHD really feels like and how to manage invisible challenges with compassion and clarity."
 slug: "adhd-high-functioning-struggles"
 date: 2025-05-03
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["high-functioning ADHD adults", "ADHD creative thinking", "managing ADHD distractions", "ADHD focus strategies", "ADHD playful coping", "celebrating ADHD strengths", "ADHD thought process"]
-keywords: ["high-functioning ADHD adults", "ADHD creative thinking", "managing ADHD distractions", "ADHD focus strategies", "ADHD playful coping", "celebrating ADHD strengths", "ADHD thought process"]
+tags: ["high-functioning ADHD adults", "hidden ADHD struggles", "managing ADHD distractions", "ADHD coping strategies", "ADHD emotional challenges", "celebrating ADHD strengths", "ADHD executive function"]
+keywords: ["high-functioning ADHD adults", "hidden ADHD struggles", "managing ADHD distractions", "ADHD coping strategies", "ADHD emotional challenges", "celebrating ADHD strengths", "ADHD executive function"]
 og_image: "/og/adhd-high-functioning-struggles.png"
+og_title: "High-Functioning ADHD: Why It’s Still Hard & How to Cope with Hidden Struggles"
+og_description: "Look fine on the outside but struggling inside? Learn what high-functioning ADHD really feels like and how to manage invisible challenges with compassion and clarity."
 ---
 
 Imagine your brain is a bouncy castle at a busy party. Kids are jumping, laughing, and shouting—all at once. That's like your thoughts when you're trying to focus on homework. It's noisy and super busy up there!

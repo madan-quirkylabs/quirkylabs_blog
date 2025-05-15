@@ -1,14 +1,16 @@
 ---
-title: "Unlock Joy: Stop ADHD Sabotaging Success Today!"
-description: "Struggling with ADHD sabotaging success? Dive into our blog where we understand the playful chaos of your mind and help turn it into your superpower. Let’s chase success together!"
+title: "ADHD Sabotaging Success? Here’s Why It Happens & How to Break the Cycle"
+description: "Is ADHD sabotaging your success? Learn why self-sabotage happens, and discover focused, empowering strategies to unlock your potential without losing your spark."
 slug: "adhd-sabotaging-success"
 date: 2025-05-07
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD success strategies", "overcoming ADHD in adults", "ADHD focus tips", "managing ADHD distractions", "ADHD and career success", "playful ADHD coping", "ADHD productivity hacks"]
-keywords: ["ADHD success strategies", "overcoming ADHD in adults", "ADHD focus tips", "managing ADHD distractions", "ADHD and career success", "playful ADHD coping", "ADHD productivity hacks"]
+tags: ["ADHD success strategies", "overcoming ADHD challenges", "ADHD productivity hacks", "managing ADHD distractions", "ADHD and career growth", "self-sabotage ADHD", "ADHD focus and achievement"]
+keywords: ["ADHD success strategies", "overcoming ADHD challenges", "ADHD productivity hacks", "managing ADHD distractions", "ADHD and career growth", "self-sabotage ADHD", "ADHD focus and achievement"]
 og_image: "/og/adhd-sabotaging-success.png"
+og_title: "ADHD Sabotaging Success? Here’s Why It Happens & How to Break the Cycle"
+og_description: "Is ADHD sabotaging your success? Learn why self-sabotage happens, and discover focused, empowering strategies to unlock your potential without losing your spark."
 ---
 
 Imagine you're in a game of tag with your thoughts. You're "it," chasing one sneaky idea after another around your brain's playground. But just as you're about to tag one, whoosh! Another thought zips by, waving a shiny distraction.

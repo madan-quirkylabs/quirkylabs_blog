@@ -1,14 +1,16 @@
 ---
-title: "End the ADHD Finishing Nothing Cycle – Find Joy & Success!"
-description: "Struggling with \"ADHD finishing nothing\"? Hop into our blog where we understand the dance of unfinished tasks and offer cozy, playful strategies to help you feel seen and uplifted."
+title: "ADHD and Finishing Nothing: Why It Happens & How to Finally Follow Through"
+description: "Always starting, never finishing? Learn why ADHD makes task completion hard and discover smart, playful strategies to finally follow through and feel accomplished."
 slug: "adhd-finishing-nothing"
 date: 2025-05-07
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD project completion tips", "managing ADHD unfinished tasks", "ADHD multitasking strategies", "ADHD task follow-through", "finishing projects with ADHD", "ADHD playful coping strategies", "overcoming ADHD task hopping"]
-keywords: ["ADHD project completion tips", "managing ADHD unfinished tasks", "ADHD multitasking strategies", "ADHD task follow-through", "finishing projects with ADHD", "ADHD playful coping strategies", "overcoming ADHD task hopping"]
+tags: ["ADHD project completion", "managing unfinished ADHD tasks", "ADHD task follow-through", "finishing projects with ADHD", "overcoming ADHD task hopping", "ADHD productivity strategies", "ADHD executive dysfunction"]
+keywords: ["ADHD project completion", "managing unfinished ADHD tasks", "ADHD task follow-through", "finishing projects with ADHD", "overcoming ADHD task hopping", "ADHD productivity strategies", "ADHD executive dysfunction"]
 og_image: "/og/adhd-finishing-nothing.png"
+og_title: "ADHD and Finishing Nothing: Why It Happens & How to Finally Follow Through"
+og_description: "Always starting, never finishing? Learn why ADHD makes task completion hard and discover smart, playful strategies to finally follow through and feel accomplished."
 ---
 
 Imagine you're a bouncy kangaroo, hopping from one task to another. First, you're drawing, next, you're building a LEGO tower. Oh, shiny!

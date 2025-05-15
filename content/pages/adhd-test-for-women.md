@@ -1,13 +1,16 @@
 ---
-title: "Free ADHD Test for Women – Discover Your Symptoms Fast"
-description: "Join the fun as we navigate the whirlwind of taking an ADHD test for women! Easy, quick, undaunting - a friendly guide through chaos."
+title: "Free ADHD Test for Women: Discover Your Symptoms in Minutes"
+description: "Take our free ADHD test for women. Fast, gentle, and designed to reveal the unique ways ADHD shows up in your life. Start understanding yourself better today!"
 slug: "adhd-test-for-women"
 date: 2025-04-30
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD", "Neurodivergence"]
-keywords: ["ADHD in women", "women ADHD quiz", "ADHD self test female"]
+tags: ["ADHD in women", "female ADHD quiz", "women ADHD self-test", "ADHD symptoms in women", "neurodivergent female traits", "executive dysfunction in women", "ADHD diagnosis support for women"]
+keywords: ["ADHD in women", "female ADHD quiz", "women ADHD self-test", "ADHD symptoms in women", "neurodivergent female traits", "executive dysfunction in women", "ADHD diagnosis support for women"]
+og_image: "/og/adhd-test-for-women.png"
+og_title: "Free ADHD Test for Women: Discover Your Symptoms in Minutes"
+og_description: "Take our free ADHD test for women. Fast, gentle, and designed to reveal the unique ways ADHD shows up in your life. Start understanding yourself better today!"
 ---
 
 ## Butterflies, Bouncing Balls & a Squirrel Named Memory: Is It ADHD?

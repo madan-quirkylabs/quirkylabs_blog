@@ -1,14 +1,16 @@
 ---
-title: "Beat the 'ADHD Feel Lazy' Blues with Cozy, Fun Tips!"
-description: "adhd feel lazy: \"Feeling stuck when ADHD makes you feel lazy? Dive into our blog for cozy, playful insights that help you wiggle free and glide through life with a grin. You're not alone!\""
+title: "ADHD Feeling Lazy: Why It’s Not Laziness & How to Get Moving Again"
+description: "Think ADHD makes you lazy? It's not laziness—it's overwhelm, fatigue, and executive dysfunction. Learn how to break free and start feeling capable again."
 slug: "adhd-feel-lazy"
 date: 2025-05-07
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD feeling lazy", "managing ADHD fatigue", "ADHD and low energy", "playful ADHD coping strategies", "ADHD motivational tips", "overcoming ADHD inertia", "ADHD adults productivity hacks"]
-keywords: ["ADHD feeling lazy", "managing ADHD fatigue", "ADHD and low energy", "playful ADHD coping strategies", "ADHD motivational tips", "overcoming ADHD inertia", "ADHD adults productivity hacks"]
+tags: ["ADHD feeling lazy", "managing ADHD fatigue", "ADHD executive dysfunction", "ADHD motivational tips", "overcoming ADHD inertia", "ADHD productivity hacks", "adult ADHD support"]
+keywords: ["ADHD feeling lazy", "managing ADHD fatigue", "ADHD executive dysfunction", "ADHD motivational tips", "overcoming ADHD inertia", "ADHD productivity hacks", "adult ADHD support"]
 og_image: "/og/adhd-feel-lazy.png"
+og_title: "ADHD Feeling Lazy: Why It’s Not Laziness & How to Get Moving Again"
+og_description: "Think ADHD makes you lazy? It's not laziness—it's overwhelm, fatigue, and executive dysfunction. Learn how to break free and start feeling capable again."
 ---
 
 Imagine your brain is a bouncy castle at a busy party, full of jumping ideas. Sometimes, though, it feels like all the air just whooshes out. Pffft!

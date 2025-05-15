@@ -1,14 +1,16 @@
 ---
-title: "adhd too much for others: \"Feel Loved: Navigating When ADHD Seems Too Much!\""
-description: "Discover why \"ADHD too much for others\" doesn't mean you're too much! Dive into our blog for a cozy, playful guide to finding those who cherish your vibrant mind. Feel seen and celebrated, just as you are!"
+title: "ADHD Too Much for Others? How to Feel Loved Without Shrinking Yourself"
+description: "Worried you're 'too much' because of ADHD? Learn why that feeling shows up, and find warm, empowering strategies to connect, feel loved, and stay true to your vibrant self."
 slug: "adhd-too-much-for-others"
 date: 2025-05-07
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD relationships", "managing ADHD in social settings", "ADHD and friendship challenges", "connecting with others with ADHD", "ADHD social skills", "ADHD acceptance", "ADHD too much for others"]
-keywords: ["ADHD relationships", "managing ADHD in social settings", "ADHD and friendship challenges", "connecting with others with ADHD", "ADHD social skills", "ADHD acceptance", "ADHD too much for others"]
+tags: ["ADHD too much for others", "ADHD relationship struggles", "managing ADHD in social settings", "ADHD acceptance", "ADHD and connection", "navigating ADHD friendships", "feeling understood with ADHD"]
+keywords: ["ADHD too much for others", "ADHD relationship struggles", "managing ADHD in social settings", "ADHD acceptance", "ADHD and connection", "navigating ADHD friendships", "feeling understood with ADHD"]
 og_image: "/og/adhd-too-much-for-others.png"
+og_title: "ADHD Too Much for Others? How to Feel Loved Without Shrinking Yourself"
+og_description: "Worried you're 'too much' because of ADHD? Learn why that feeling shows up, and find warm, empowering strategies to connect, feel loved, and stay true to your vibrant self."
 ---
 
 Imagine your brain is like a super-charged pinball machine. Lights flashing, buzzers buzzing, and that shiny ball zipping everywhere — that's your thoughts when you have ADHD. Sometimes, it's a dazzling show, but others might find it a bit too loud or fast. 

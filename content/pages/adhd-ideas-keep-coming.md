@@ -1,14 +1,16 @@
 ---
-title: "Unleash Creativity: ADHD Ideas Keep Coming & Spark Joy!"
-description: "\"Explore how 'ADHD ideas keep coming' in a blog that feels like a warm hug for your buzzing mind! Discover validation and joy in your vibrant thought process.\""
+title: "ADHD and Endless Ideas: How to Harness Creative Overload Without Burning Out"
+description: "Is your ADHD brain overflowing with ideas? Learn how to manage idea overload, channel your creativity, and actually bring your brilliant visions to life."
 slug: "adhd-ideas-keep-coming"
 date: 2025-05-07
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD creative thinking", "managing ADHD ideas", "playful ADHD strategies", "ADHD idea overload", "embracing ADHD creativity", "ADHD brainstorming techniques", "ADHD whimsical thoughts"]
-keywords: ["ADHD creative thinking", "managing ADHD ideas", "playful ADHD strategies", "ADHD idea overload", "embracing ADHD creativity", "ADHD brainstorming techniques", "ADHD whimsical thoughts"]
+tags: ["ADHD creative thinking", "ADHD idea overload", "managing ADHD ideas", "ADHD brainstorming strategies", "embracing ADHD creativity", "focus with ADHD", "ADHD productivity hacks"]
+keywords: ["ADHD creative thinking", "ADHD idea overload", "managing ADHD ideas", "ADHD brainstorming strategies", "embracing ADHD creativity", "focus with ADHD", "ADHD productivity hacks"]
 og_image: "/og/adhd-ideas-keep-coming.png"
+og_title: "ADHD and Endless Ideas: How to Harness Creative Overload Without Burning Out"
+og_description: "Is your ADHD brain overflowing with ideas? Learn how to manage idea overload, channel your creativity, and actually bring your brilliant visions to life."
 ---
 
 Imagine your brain is a bustling train station. Trains zooming in, zooming out! All the ideas are passengers, eager to explore.

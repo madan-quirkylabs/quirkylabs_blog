@@ -1,14 +1,16 @@
 ---
-title: "Conquer ADHD Shiny Object Syndrome & Spark Joy!"
-description: "Explore 'ADHD Shiny Object Syndrome' with us and feel understood! Discover how each sparkle enhances your unique galaxy of wonders. Let's go star-catching together!"
+title: "ADHD Shiny Object Syndrome: How to Stay Focused Without Dimming Your Spark"
+description: "Dealing with ADHD shiny object syndrome? Learn how to harness your curiosity and stay on track—without losing the joy that makes your brain magical."
 slug: "adhd-shiny-object-syndrome"
 date: 2025-05-07
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD shiny object syndrome", "managing ADHD distractions", "ADHD interest exploration", "ADHD and curiosity", "playful ADHD coping strategies", "adult ADHD playful tone", "ADHD emotional themes"]
-keywords: ["ADHD shiny object syndrome", "managing ADHD distractions", "ADHD interest exploration", "ADHD and curiosity", "playful ADHD coping strategies", "adult ADHD playful tone", "ADHD emotional themes"]
+tags: ["ADHD shiny object syndrome", "managing ADHD distractions", "ADHD curiosity management", "focusing with ADHD", "playful ADHD coping strategies", "adult ADHD attention tools", "balancing joy and focus ADHD"]
+keywords: ["ADHD shiny object syndrome", "managing ADHD distractions", "ADHD curiosity management", "focusing with ADHD", "playful ADHD coping strategies", "adult ADHD attention tools", "balancing joy and focus ADHD"]
 og_image: "/og/adhd-shiny-object-syndrome.png"
+og_title: "ADHD Shiny Object Syndrome: How to Stay Focused Without Dimming Your Spark"
+og_description: "Dealing with ADHD shiny object syndrome? Learn how to harness your curiosity and stay on track—without losing the joy that makes your brain magical."
 ---
 
 Imagine you're a super-duper space explorer on a shiny-object mission!

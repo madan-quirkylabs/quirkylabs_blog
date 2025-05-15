@@ -1,14 +1,16 @@
 ---
-title: "adhd love me then leave me: \"Unravel ADHD Love: Why They Adore & Vanish!\""
-description: "Explore the 'ADHD love me then leave me' dance in our cozy blog, where you're not just seen—you're celebrated. Discover emotional insights and feel uplifted!"
+title: "ADHD Love Me Then Leave Me: Why It Happens & How to Break the Cycle"
+description: "Feel caught in the 'ADHD love me then leave me' pattern? Learn the emotional drivers behind it and how to build deeper, lasting relationships with more clarity and connection."
 slug: "adhd-love-me-then-leave-me"
 date: 2025-05-07
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD relationship challenges", "ADHD emotional themes", "managing ADHD in relationships", "ADHD love dynamics", "understanding ADHD partners", "ADHD commitment issues", "ADHD playful content"]
-keywords: ["ADHD relationship challenges", "ADHD emotional themes", "managing ADHD in relationships", "ADHD love dynamics", "understanding ADHD partners", "ADHD commitment issues", "ADHD playful content"]
+tags: ["ADHD relationship challenges", "managing ADHD in relationships", "ADHD emotional themes", "ADHD love dynamics", "understanding ADHD partners", "ADHD commitment issues", "ADHD emotional regulation"]
+keywords: ["ADHD relationship challenges", "managing ADHD in relationships", "ADHD emotional themes", "ADHD love dynamics", "understanding ADHD partners", "ADHD commitment issues", "ADHD emotional regulation"]
 og_image: "/og/adhd-love-me-then-leave-me.png"
+og_title: "ADHD Love Me Then Leave Me: Why It Happens & How to Break the Cycle"
+og_description: "Feel caught in the 'ADHD love me then leave me' pattern? Learn the emotional drivers behind it and how to build deeper, lasting relationships with more clarity and connection."
 ---
 
 Imagine your mind as a bouncy castle at a bustling fair. Exciting, right?

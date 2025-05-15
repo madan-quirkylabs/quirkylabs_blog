@@ -1,14 +1,16 @@
 ---
-title: "ADHD masking at work: \"Unmask Joy: Thrive Unveiled with ADHD at Work!\""
-description: "Unmask the secrets of 'ADHD masking at work' and find comfort in knowing you're not alone. Let's navigate the circus together, feeling seen and supported!"
+title: "ADHD Masking at Work: Why You Hide It & How to Thrive Authentically"
+description: "Feel like you're faking it at work with ADHD? You're not alone. Learn why masking happens, how it affects your mental health, and ways to succeed without the mask."
 slug: "adhd-masking-at-work"
 date: 2025-05-03
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD masking strategies", "coping with ADHD at work", "hiding ADHD symptoms in office", "ADHD work challenges", "managing adult ADHD in workplace", "ADHD and employee performance", "unmasking ADHD at work"]
-keywords: ["ADHD masking strategies", "coping with ADHD at work", "hiding ADHD symptoms in office", "ADHD work challenges", "managing adult ADHD in workplace", "ADHD and employee performance", "unmasking ADHD at work"]
+tags: ["ADHD masking at work", "coping with ADHD at work", "hiding ADHD symptoms", "ADHD work challenges", "adult ADHD workplace strategies", "unmasking ADHD", "ADHD and employee performance"]
+keywords: ["ADHD masking at work", "coping with ADHD at work", "hiding ADHD symptoms", "ADHD work challenges", "adult ADHD workplace strategies", "unmasking ADHD", "ADHD and employee performance"]
 og_image: "/og/adhd-masking-at-work.png"
+og_title: "ADHD Masking at Work: Why You Hide It & How to Thrive Authentically"
+og_description: "Feel like you're faking it at work with ADHD? You're not alone. Learn why masking happens, how it affects your mental health, and ways to succeed without the mask."
 ---
 
 Imagine juggling squishy tomatoes at a work meeting. Slippery, right?

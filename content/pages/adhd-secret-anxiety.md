@@ -1,14 +1,16 @@
 ---
-title: "Unlock the 'ADHD Secret Anxiety' – Find Joy & Calm Today!"
-description: "Explore the cozy corners of 'ADHD secret anxiety' with us! Find comfort and understanding as we unveil the quiet worries of ADHD minds. Let's find your flower together!"
+title: "ADHD Secret Anxiety: What It Is & How to Finally Feel at Peace"
+description: "Struggling with secret ADHD anxiety? Learn how to spot the hidden stress signals and uncover calming, playful ways to feel emotionally steady and seen."
 slug: "adhd-secret-anxiety"
 date: 2025-05-03
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD and anxiety in adults", "managing ADHD anxiety", "hidden anxiety in ADHD", "ADHD secret stress", "coping with ADHD anxiety", "adult ADHD emotional challenges", "playful approaches to ADHD anxiety"]
-keywords: ["ADHD and anxiety in adults", "managing ADHD anxiety", "hidden anxiety in ADHD", "ADHD secret stress", "coping with ADHD anxiety", "adult ADHD emotional challenges", "playful approaches to ADHD anxiety"]
+tags: ["ADHD and anxiety in adults", "hidden ADHD anxiety", "coping with ADHD anxiety", "ADHD emotional regulation", "secret stress ADHD", "adult ADHD emotional support", "ADHD calming techniques"]
+keywords: ["ADHD and anxiety in adults", "hidden ADHD anxiety", "coping with ADHD anxiety", "ADHD emotional regulation", "secret stress ADHD", "adult ADHD emotional support", "ADHD calming techniques"]
 og_image: "/og/adhd-secret-anxiety.png"
+og_title: "ADHD Secret Anxiety: What It Is & How to Finally Feel at Peace"
+og_description: "Struggling with secret ADHD anxiety? Learn how to spot the hidden stress signals and uncover calming, playful ways to feel emotionally steady and seen."
 ---
 
 Imagine your brain is like a super-busy bee, buzzing from flower to flower. It's fun but oh-so tiring!

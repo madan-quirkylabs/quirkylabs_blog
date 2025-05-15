@@ -1,14 +1,16 @@
 ---
-title: "Feed Your ADHD Validation Hunger: Feel Seen & Loved!"
-description: "Dive into our blog on 'ADHD validation hunger' and discover how to toss your own candy—feeling seen and celebrated in every jump and tumble!"
+title: "ADHD Validation Hunger: Why You Crave It & How to Truly Feel Seen"
+description: "Feel like you're always chasing validation with ADHD? Learn why that happens, and explore warm, effective ways to feel understood and celebrated—by yourself and others."
 slug: "adhd-validation-hunger"
 date: 2025-05-03
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD validation strategies", "ADHD emotional support", "celebrating ADHD wins", "ADHD understanding needs", "ADHD positive reinforcement", "ADHD self-validation techniques", "ADHD peer support"]
-keywords: ["ADHD validation strategies", "ADHD emotional support", "celebrating ADHD wins", "ADHD understanding needs", "ADHD positive reinforcement", "ADHD self-validation techniques", "ADHD peer support"]
+tags: ["ADHD validation hunger", "ADHD emotional support", "ADHD self-worth", "celebrating ADHD wins", "ADHD positive reinforcement", "ADHD self-validation", "ADHD peer understanding"]
+keywords: ["ADHD validation hunger", "ADHD emotional support", "ADHD self-worth", "celebrating ADHD wins", "ADHD positive reinforcement", "ADHD self-validation", "ADHD peer understanding"]
 og_image: "/og/adhd-validation-hunger.png"
+og_title: "ADHD Validation Hunger: Why You Crave It & How to Truly Feel Seen"
+og_description: "Feel like you're always chasing validation with ADHD? Learn why that happens, and explore warm, effective ways to feel understood and celebrated—by yourself and others."
 ---
 
 Imagine your brain is a bouncy castle at a fun fair, full of kids jumping wildly. Now, imagine trying to catch a single, slippery fish in that bouncy chaos. That's what focusing feels like with ADHD.

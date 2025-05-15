@@ -1,14 +1,16 @@
 ---
-title: "Beat ADHD Followthrough Fatigue: Find Joy & Success!"
-description: "Discover the cozy comfort of understanding ADHD followthrough fatigue in our blog. Feel seen and uplifted as we explore ways to help your inner puppy play to the end!"
+title: "ADHD Followthrough Fatigue: Why You Burn Out Mid-Task & How to Push Through"
+description: "Struggling to finish what you start with ADHD? Learn why followthrough fatigue hits and how to manage energy, beat burnout, and complete tasks with more ease."
 slug: "adhd-followthrough-fatigue"
 date: 2025-05-07
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD followthrough fatigue", "managing ADHD exhaustion", "ADHD project completion tips", "ADHD energy management strategies", "ADHD task fatigue", "overcoming ADHD burnout", "sustaining focus with ADHD"]
-keywords: ["ADHD followthrough fatigue", "managing ADHD exhaustion", "ADHD project completion tips", "ADHD energy management strategies", "ADHD task fatigue", "overcoming ADHD burnout", "sustaining focus with ADHD"]
+tags: ["ADHD followthrough fatigue", "managing ADHD exhaustion", "ADHD burnout", "ADHD project completion", "ADHD task fatigue", "ADHD energy management", "sustaining focus with ADHD"]
+keywords: ["ADHD followthrough fatigue", "managing ADHD exhaustion", "ADHD burnout", "ADHD project completion", "ADHD task fatigue", "ADHD energy management", "sustaining focus with ADHD"]
 og_image: "/og/adhd-followthrough-fatigue.png"
+og_title: "ADHD Followthrough Fatigue: Why You Burn Out Mid-Task & How to Push Through"
+og_description: "Struggling to finish what you start with ADHD? Learn why followthrough fatigue hits and how to manage energy, beat burnout, and complete tasks with more ease."
 ---
 
 Imagine your brain is like a hyper puppy, excited by every new toy. You start building a Lego castle, but oh look—there's a bouncy ball!

@@ -1,14 +1,16 @@
 ---
-title: "adhd want love but hide: \"Unlock Love: Why ADHD Makes Us Hide But Still Want It!\""
-description: "Discover why \"adhd want love but hide\" in our heartfelt blog. A cozy read that helps you feel seen and provides insights into navigating emotions playfully and safely. Ready to feel understood?"
+title: "ADHD Want Love But Hide: Why It Happens & How to Let Connection In"
+description: "Feel like you crave love but hide from it with ADHD? You're not alone. Discover the emotional reasons behind this pattern and how to open up while feeling safe and seen."
 slug: "adhd-want-love-but-hide"
 date: 2025-05-07
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD relationships and intimacy", "ADHD emotional connection", "hiding feelings with ADHD", "seeking love with ADHD", "managing social anxiety ADHD", "ADHD dating challenges", "finding love with ADHD"]
-keywords: ["ADHD relationships and intimacy", "ADHD emotional connection", "hiding feelings with ADHD", "seeking love with ADHD", "managing social anxiety ADHD", "ADHD dating challenges", "finding love with ADHD"]
+tags: ["ADHD want love but hide", "ADHD relationships and intimacy", "hiding feelings with ADHD", "emotional vulnerability ADHD", "ADHD dating challenges", "seeking love with ADHD", "building connection with ADHD"]
+keywords: ["ADHD want love but hide", "ADHD relationships and intimacy", "hiding feelings with ADHD", "emotional vulnerability ADHD", "ADHD dating challenges", "seeking love with ADHD", "building connection with ADHD"]
 og_image: "/og/adhd-want-love-but-hide.png"
+og_title: "ADHD Want Love But Hide: Why It Happens & How to Let Connection In"
+og_description: "Feel like you crave love but hide from it with ADHD? You're not alone. Discover the emotional reasons behind this pattern and how to open up while feeling safe and seen."
 ---
 
 Imagine your heart is like a bouncy castle, full of colorful thoughts.

@@ -1,14 +1,16 @@
 ---
-title: "Unlock Secrets When ADHD Motivation Vanishes!"
-description: "Feeling like your ADHD motivation vanishes just when you need it? Dive into our blog for cozy, playful tips to gently nudge your superpowers back to life!"
+title: "ADHD Motivation Vanishes? Why It Happens & How to Get It Back"
+description: "Does your ADHD motivation disappear when you need it most? Learn why it happens and explore gentle, effective ways to restart your drive without shame or stress."
 slug: "adhd-motivation-vanishes"
 date: 2025-05-07
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD motivation tips", "maintaining focus with ADHD", "overcoming ADHD distractions", "ADHD project completion", "ADHD motivational strategies", "regaining motivation ADHD", "ADHD-friendly motivation techniques"]
-keywords: ["ADHD motivation tips", "maintaining focus with ADHD", "overcoming ADHD distractions", "ADHD project completion", "ADHD motivational strategies", "regaining motivation ADHD", "ADHD-friendly motivation techniques"]
+tags: ["ADHD motivation tips", "regaining motivation with ADHD", "overcoming ADHD distractions", "ADHD project completion", "ADHD motivational strategies", "executive dysfunction ADHD", "ADHD-friendly productivity"]
+keywords: ["ADHD motivation tips", "regaining motivation with ADHD", "overcoming ADHD distractions", "ADHD project completion", "ADHD motivational strategies", "executive dysfunction ADHD", "ADHD-friendly productivity"]
 og_image: "/og/adhd-motivation-vanishes.png"
+og_title: "ADHD Motivation Vanishes? Why It Happens & How to Get It Back"
+og_description: "Does your ADHD motivation disappear when you need it most? Learn why it happens and explore gentle, effective ways to restart your drive without shame or stress."
 ---
 
 Imagine you're a superhero, cape and all, ready to save the day. Suddenly, poof! Your superpowers vanish just like that sneaky sock in the laundry. Oops!

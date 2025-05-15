@@ -1,14 +1,16 @@
 ---
-title: "End ADHD Unfinished Projects – Embrace Your Creativity!"
-description: "Dive into the cozy world of 'ADHD unfinished projects' and find solace knowing your creative chaos is a unique kind of beautiful. Let’s bloom together!"
+title: "ADHD Unfinished Projects: Why You Start So Much & How to Actually Finish"
+description: "Struggling with ADHD unfinished projects? Learn why it's so hard to finish and how to turn your creative chaos into satisfying wins—with joy, not shame."
 slug: "adhd-unfinished-projects"
 date: 2025-05-03
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD unfinished projects", "managing ADHD craft projects", "ADHD and creative blocks", "ADHD project completion tips", "embracing ADHD project chaos", "ADHD motivational strategies", "ADHD and project follow-through"]
-keywords: ["ADHD unfinished projects", "managing ADHD craft projects", "ADHD and creative blocks", "ADHD project completion tips", "embracing ADHD project chaos", "ADHD motivational strategies", "ADHD and project follow-through"]
+tags: ["ADHD unfinished projects", "ADHD project follow-through", "managing ADHD creative chaos", "completing tasks with ADHD", "ADHD motivation tips", "project management ADHD", "overcoming creative blocks ADHD"]
+keywords: ["ADHD unfinished projects", "ADHD project follow-through", "managing ADHD creative chaos", "completing tasks with ADHD", "ADHD motivation tips", "project management ADHD", "overcoming creative blocks ADHD"]
 og_image: "/og/adhd-unfinished-projects.png"
+og_title: "ADHD Unfinished Projects: Why You Start So Much & How to Actually Finish"
+og_description: "Struggling with ADHD unfinished projects? Learn why it's so hard to finish and how to turn your creative chaos into satisfying wins—with joy, not shame."
 ---
 
 Imagine a garden where flowers start blooming but never quite open. That's like having a bunch of crafts projects all half-done and scattered around.

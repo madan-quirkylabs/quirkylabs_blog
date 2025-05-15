@@ -1,13 +1,16 @@
 ---
-title: "ADHD vs Laziness: How to Know the Difference (Free Quiz Inside)"
-description: "Embark on a fun journey exploring 'ADHD vs laziness'. Playfully crack the mystery: could it be ADHD, or are you simply having a cozy lazy day!"
+title: "ADHD or Lazy? How to Tell the Difference (Free Quiz Included)"
+description: "Wondering if it’s ADHD or just laziness? Take our free quiz and learn the signs of executive dysfunction, procrastination, and what’s really going on in your brain."
 slug: "adhd-or-lazy"
 date: 2025-04-30
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD", "Neurodivergence"]
-keywords: ["executive dysfunction", "ADHD quiz", "procrastination vs adhd"]
+tags: ["ADHD vs laziness", "executive dysfunction", "ADHD procrastination", "ADHD quiz", "neurodivergent struggles", "understanding ADHD", "self-assessment for ADHD"]
+keywords: ["ADHD vs laziness", "executive dysfunction", "ADHD procrastination", "ADHD quiz", "neurodivergent struggles", "understanding ADHD", "self-assessment for ADHD"]
+og_image: "/og/adhd-or-lazy.png"
+og_title: "ADHD or Lazy? How to Tell the Difference (Free Quiz Included)"
+og_description: "Wondering if it’s ADHD or just laziness? Take our free quiz and learn the signs of executive dysfunction, procrastination, and what’s really going on in your brain."
 ---
 
 ## Tap-Tap-Twirly Brain: Adventures in Maybe-ADHD

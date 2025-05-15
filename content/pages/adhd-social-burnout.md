@@ -1,14 +1,16 @@
 ---
-title: "Beat ADHD Social Burnout: Stay Energized & Connected!"
-description: "Feeling overwhelmed? Our blog on \"ADHD social burnout\" is a cozy corner for understanding and tips to recharge. Sit with us, feel seen, and find your calm amidst the chaos."
+title: "ADHD Social Burnout: Why It Hits Hard & How to Recharge Without Guilt"
+description: "Dealing with ADHD social burnout? Discover why socializing can drain you and how to recover your energy with smart, soothing strategies that actually work."
 slug: "adhd-social-burnout"
 date: 2025-05-03
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD social burnout tips", "managing social energy with ADHD", "social fatigue in adults with ADHD", "coping with ADHD social overwhelm", "navigating ADHD social interactions", "strategies for ADHD social exhaustion", "preventing burnout in ADHD adults"]
-keywords: ["ADHD social burnout tips", "managing social energy with ADHD", "social fatigue in adults with ADHD", "coping with ADHD social overwhelm", "navigating ADHD social interactions", "strategies for ADHD social exhaustion", "preventing burnout in ADHD adults"]
+tags: ["ADHD social burnout", "managing social energy ADHD", "coping with ADHD overwhelm", "social fatigue ADHD adults", "ADHD emotional exhaustion", "ADHD self-care strategies", "preventing ADHD burnout"]
+keywords: ["ADHD social burnout", "managing social energy ADHD", "coping with ADHD overwhelm", "social fatigue ADHD adults", "ADHD emotional exhaustion", "ADHD self-care strategies", "preventing ADHD burnout"]
 og_image: "/og/adhd-social-burnout.png"
+og_title: "ADHD Social Burnout: Why It Hits Hard & How to Recharge Without Guilt"
+og_description: "Dealing with ADHD social burnout? Discover why socializing can drain you and how to recover your energy with smart, soothing strategies that actually work."
 ---
 
 Imagine your brain as a bouncy castle at a never-ending party. Kids are jumping and laughing non-stop. It's fun but oh, so noisy!

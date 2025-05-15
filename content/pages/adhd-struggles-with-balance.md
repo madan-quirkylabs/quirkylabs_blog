@@ -1,14 +1,16 @@
 ---
-title: "Find Harmony: Beat ADHD Struggles with Balance Now!"
-description: "Feeling like you're juggling flamingo-shaped balloons? Our blog on 'ADHD struggles with balance' offers warm insights to help you feel seen and celebrated. Let's dance through this together!"
+title: "ADHD Struggles with Balance: Why Life Feels So Juggly & How to Find Your Rhythm"
+description: "Struggling to balance life with ADHD? Discover why juggling it all feels so chaotic and learn playful strategies to bring calm, clarity, and real balance into your day."
 slug: "adhd-struggles-with-balance"
 date: 2025-05-03
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD balance struggles", "managing ADHD tasks", "ADHD task juggling", "ADHD life balance tips", "ADHD focus challenges", "playful ADHD coping", "ADHD task management strategies"]
-keywords: ["ADHD balance struggles", "managing ADHD tasks", "ADHD task juggling", "ADHD life balance tips", "ADHD focus challenges", "playful ADHD coping", "ADHD task management strategies"]
+tags: ["ADHD balance struggles", "managing ADHD tasks", "ADHD life balance tips", "task juggling with ADHD", "focus and ADHD", "ADHD organization help", "playful ADHD coping"]
+keywords: ["ADHD balance struggles", "managing ADHD tasks", "ADHD life balance tips", "task juggling with ADHD", "focus and ADHD", "ADHD organization help", "playful ADHD coping"]
 og_image: "/og/adhd-struggles-with-balance.png"
+og_title: "ADHD Struggles with Balance: Why Life Feels So Juggly & How to Find Your Rhythm"
+og_description: "Struggling to balance life with ADHD? Discover why juggling it all feels so chaotic and learn playful strategies to bring calm, clarity, and real balance into your day."
 ---
 
 Imagine you're juggling colorful balls, each one a different task. Up, up they go—homework, chores, hobbies—oops, there goes a ball!

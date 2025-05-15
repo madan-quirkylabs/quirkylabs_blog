@@ -1,14 +1,16 @@
 ---
-title: "Find Comfort: How ADHD Need for Reassurance Can Help!"
-description: "Unlock the magic of understanding your 'adhd need for reassurance' with our cozy, insightful blog. Feel seen and uplifted as we explore why gentle nudges mean so much!"
+title: "ADHD and the Need for Reassurance: Why It Happens & How to Feel Secure"
+description: "Constantly seeking reassurance with ADHD? Learn why it happens, what your brain is craving, and how to feel more confident and emotionally safe."
 slug: "adhd-need-for-reassurance"
 date: 2025-05-07
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD reassurance needs", "ADHD emotional support strategies", "managing ADHD self-doubt", "ADHD validation techniques", "ADHD adults coping mechanisms", "reassurance seeking in ADHD", "positive reinforcement for ADHD"]
-keywords: ["ADHD reassurance needs", "ADHD emotional support strategies", "managing ADHD self-doubt", "ADHD validation techniques", "ADHD adults coping mechanisms", "reassurance seeking in ADHD", "positive reinforcement for ADHD"]
+tags: ["ADHD reassurance needs", "ADHD emotional support", "managing ADHD self-doubt", "reassurance seeking in ADHD", "ADHD validation techniques", "emotional security ADHD", "positive reinforcement for ADHD"]
+keywords: ["ADHD reassurance needs", "ADHD emotional support", "managing ADHD self-doubt", "reassurance seeking in ADHD", "ADHD validation techniques", "emotional security ADHD", "positive reinforcement for ADHD"]
 og_image: "/og/adhd-need-for-reassurance.png"
+og_title: "ADHD and the Need for Reassurance: Why It Happens & How to Feel Secure"
+og_description: "Constantly seeking reassurance with ADHD? Learn why it happens, what your brain is craving, and how to feel more confident and emotionally safe."
 ---
 
 Imagine your brain is a super-busy bee, buzzing from flower to flower. Now, picture this bee getting a tiny, encouraging whisper with each visit: "You're doing great!"

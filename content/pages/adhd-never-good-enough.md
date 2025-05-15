@@ -1,14 +1,16 @@
 ---
-title: "Beat the 'ADHD Never Good Enough' Blues—Find Joy!"
-description: "\"Feeling like your 'ADHD never good enough'? Join us in Buzzlewood for a cozy, uplifting read that gets you and offers new strategies to play your best game!\""
+title: "ADHD and Feeling ‘Never Good Enough’: Why It Hurts & How to Heal"
+description: "Always feel like you're falling short with ADHD? You're not alone. Learn how to challenge that ‘never enough’ voice and find real pride in who you are."
 slug: "adhd-never-good-enough"
 date: 2025-05-07
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD perfectionism", "feeling inadequate with ADHD", "adult ADHD coping strategies", "embracing imperfection ADHD", "ADHD productivity tips", "ADHD emotional support", "ADHD playful advice"]
-keywords: ["ADHD perfectionism", "feeling inadequate with ADHD", "adult ADHD coping strategies", "embracing imperfection ADHD", "ADHD productivity tips", "ADHD emotional support", "ADHD playful advice"]
+tags: ["ADHD perfectionism", "feeling inadequate with ADHD", "adult ADHD coping strategies", "overcoming ADHD self-doubt", "embracing imperfection ADHD", "ADHD emotional support", "healing ADHD mindset"]
+keywords: ["ADHD perfectionism", "feeling inadequate with ADHD", "adult ADHD coping strategies", "overcoming ADHD self-doubt", "embracing imperfection ADHD", "ADHD emotional support", "healing ADHD mindset"]
 og_image: "/og/adhd-never-good-enough.png"
+og_title: "ADHD and Feeling ‘Never Good Enough’: Why It Hurts & How to Heal"
+og_description: "Always feel like you're falling short with ADHD? You're not alone. Learn how to challenge that ‘never enough’ voice and find real pride in who you are."
 ---
 
 Imagine your brain is like a supercharged pinball machine. Lights flash, sounds beep—always buzzing!

@@ -1,14 +1,16 @@
 ---
-title: "Beat Burnout: Why 'ADHD Rest Feels Like Failure' & How to Cope!"
-description: "Feeling stuck when you pause? Our blog on why 'ADHD rest feels like failure' offers a warm, cozy reassurance that it's okay to take a breather. You're not alone!"
+title: "ADHD Rest Feels Like Failure? Why That Happens & How to Embrace the Pause"
+description: "Does rest feel like failure with ADHD? Learn why downtime can feel so uncomfortable—and discover warm, empowering strategies to rest without guilt or shame."
 slug: "adhd-rest-feels-like-failure"
 date: 2025-05-03
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD rest guilt", "feeling unproductive with ADHD", "ADHD relaxation techniques", "overcoming ADHD downtime guilt", "ADHD and self-care strategies", "managing ADHD rest periods", "adult ADHD resting challenges"]
-keywords: ["ADHD rest guilt", "feeling unproductive with ADHD", "ADHD relaxation techniques", "overcoming ADHD downtime guilt", "ADHD and self-care strategies", "managing ADHD rest periods", "adult ADHD resting challenges"]
+tags: ["ADHD rest guilt", "feeling unproductive with ADHD", "overcoming ADHD downtime guilt", "ADHD and self-care", "ADHD rest mindset", "ADHD coping strategies", "resting with ADHD"]
+keywords: ["ADHD rest guilt", "feeling unproductive with ADHD", "overcoming ADHD downtime guilt", "ADHD and self-care", "ADHD rest mindset", "ADHD coping strategies", "resting with ADHD"]
 og_image: "/og/adhd-rest-feels-like-failure.png"
+og_title: "ADHD Rest Feels Like Failure? Why That Happens & How to Embrace the Pause"
+og_description: "Does rest feel like failure with ADHD? Learn why downtime can feel so uncomfortable—and discover warm, empowering strategies to rest without guilt or shame."
 ---
 
 Imagine you're a buzzing bee, always zooming from one flower to the next. But sometimes, even bees need to sit on a petal and just breathe.

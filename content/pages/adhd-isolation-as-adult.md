@@ -1,14 +1,16 @@
 ---
-title: "ADHD isolation as adult: Beat ADHD Isolation as an Adult: Find Your Tribe!"
-description: "Discover how to tackle \"ADHD isolation as adult\" with warmth and understanding. This blog feels like finding a cozy map to connection. Join us and feel seen and uplifted!"
+title: "ADHD Isolation in Adults: Why It Happens & How to Reconnect"
+description: "Feeling isolated with ADHD as an adult? You’re not alone. Discover why disconnection happens and how to build genuine, joyful connections that feel right for you."
 slug: "adhd-isolation-as-adult"
 date: 2025-05-03
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD adult isolation", "managing ADHD loneliness", "ADHD adult social strategies", "ADHD connection tips", "adult ADHD playful coping", "ADHD friendship challenges", "adult ADHD community building"]
-keywords: ["ADHD adult isolation", "managing ADHD loneliness", "ADHD adult social strategies", "ADHD connection tips", "adult ADHD playful coping", "ADHD friendship challenges", "adult ADHD community building"]
+tags: ["ADHD adult isolation", "managing ADHD loneliness", "ADHD friendship challenges", "adult ADHD community", "ADHD connection tips", "ADHD emotional support", "ADHD social strategies"]
+keywords: ["ADHD adult isolation", "managing ADHD loneliness", "ADHD friendship challenges", "adult ADHD community", "ADHD connection tips", "ADHD emotional support", "ADHD social strategies"]
 og_image: "/og/adhd-isolation-as-adult.png"
+og_title: "ADHD Isolation in Adults: Why It Happens & How to Reconnect"
+og_description: "Feeling isolated with ADHD as an adult? You’re not alone. Discover why disconnection happens and how to build genuine, joyful connections that feel right for you."
 ---
 
 Imagine you're a playful squirrel in a vast, quiet forest. Trees are friends you haven't met yet, but you feel a bit lost. 

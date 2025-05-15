@@ -1,14 +1,16 @@
 ---
-title: "Feel Unique & Loved: Embrace Your 'ADHD Too Weird to Be Loved'"
-description: "Feeling like your 'ADHD too weird to be loved'? Explore our blog where you'll find magical insights and cozy stories to make you feel seen and cherished. Let's celebrate your unique flicker together!"
+title: "ADHD Too Weird to Be Loved? Why You’re Not & How to Embrace Your Magic"
+description: "Feel like your ADHD makes you too weird to be loved? You're not alone. Discover empowering stories and warm strategies to celebrate your uniqueness and feel truly seen."
 slug: "adhd-too-weird-to-be-loved"
 date: 2025-05-03
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD emotional acceptance", "embracing ADHD uniqueness", "ADHD and self-love", "ADHD creative expression", "ADHD too weird to be loved", "celebrating ADHD differences", "ADHD adults' stories"]
-keywords: ["ADHD emotional acceptance", "embracing ADHD uniqueness", "ADHD and self-love", "ADHD creative expression", "ADHD too weird to be loved", "celebrating ADHD differences", "ADHD adults' stories"]
+tags: ["ADHD too weird to be loved", "ADHD emotional acceptance", "ADHD and self-love", "embracing ADHD uniqueness", "ADHD identity support", "ADHD adults' stories", "celebrating ADHD differences"]
+keywords: ["ADHD too weird to be loved", "ADHD emotional acceptance", "ADHD and self-love", "embracing ADHD uniqueness", "ADHD identity support", "ADHD adults' stories", "celebrating ADHD differences"]
 og_image: "/og/adhd-too-weird-to-be-loved.png"
+og_title: "ADHD Too Weird to Be Loved? Why You’re Not & How to Embrace Your Magic"
+og_description: "Feel like your ADHD makes you too weird to be loved? You're not alone. Discover empowering stories and warm strategies to celebrate your uniqueness and feel truly seen."
 ---
 
 In a world buzzing with busy bees, Sam felt like a lone firefly, flickering wildly.

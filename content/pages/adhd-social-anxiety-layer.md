@@ -1,14 +1,16 @@
 ---
-title: "Unwrap the ADHD Social Anxiety Layer – Find Joy & Ease!"
-description: "Explore the 'ADHD social anxiety layer' with us and discover cozy corners of understanding. Feel seen and hop along on an uplifting journey to social calm!"
+title: "ADHD Social Anxiety: Why It’s So Common & How to Feel More at Ease"
+description: "Struggling with ADHD social anxiety? Learn why it happens, how to spot its sneaky signs, and get empowering tips to feel more comfortable in every interaction."
 slug: "adhd-social-anxiety-layer"
 date: 2025-05-03
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD social anxiety tips", "managing ADHD in social settings", "ADHD adult social strategies", "coping with ADHD social anxiety", "ADHD playful coping techniques", "social anxiety in ADHD adults", "navigating social interactions with ADHD"]
-keywords: ["ADHD social anxiety tips", "managing ADHD in social settings", "ADHD adult social strategies", "coping with ADHD social anxiety", "ADHD playful coping techniques", "social anxiety in ADHD adults", "navigating social interactions with ADHD"]
+tags: ["ADHD social anxiety", "managing ADHD in social settings", "coping with ADHD social anxiety", "ADHD adult social strategies", "navigating social interactions with ADHD", "ADHD emotional support", "overcoming social fear ADHD"]
+keywords: ["ADHD social anxiety", "managing ADHD in social settings", "coping with ADHD social anxiety", "ADHD adult social strategies", "navigating social interactions with ADHD", "ADHD emotional support", "overcoming social fear ADHD"]
 og_image: "/og/adhd-social-anxiety-layer.png"
+og_title: "ADHD Social Anxiety: Why It’s So Common & How to Feel More at Ease"
+og_description: "Struggling with ADHD social anxiety? Learn why it happens, how to spot its sneaky signs, and get empowering tips to feel more comfortable in every interaction."
 ---
 
 Imagine you're a bouncy kangaroo in a room full of sleeping lions. Every hop might wake them up! Yikes!

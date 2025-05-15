@@ -1,14 +1,16 @@
 ---
-title: "Unlock Joy: Beat ADHD Perfectionism & Thrive!"
-description: "Unlock the joy of 'ADHD perfectionism' with our cozy guide! Feel seen and uplifted as we dance through the chaos together. Let's make fun your new perfect!"
+title: "ADHD Perfectionism: Why It Happens & How to Break Free Without Losing Your Spark"
+description: "Struggling with ADHD perfectionism? Discover why it shows up, how it holds you back, and ways to embrace imperfection while still feeling proud of your progress."
 slug: "adhd-perfectionism"
 date: 2025-05-03
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD perfectionism strategies", "managing ADHD with joy", "embracing imperfection ADHD", "ADHD creativity tips", "playful ADHD management", "adult ADHD coping mechanisms", "ADHD chaotic organization"]
-keywords: ["ADHD perfectionism strategies", "managing ADHD with joy", "embracing imperfection ADHD", "ADHD creativity tips", "playful ADHD management", "adult ADHD coping mechanisms", "ADHD chaotic organization"]
+tags: ["ADHD perfectionism", "embracing imperfection with ADHD", "managing ADHD productivity", "ADHD creativity tips", "adult ADHD coping", "perfectionism and executive dysfunction", "ADHD emotional regulation"]
+keywords: ["ADHD perfectionism", "embracing imperfection with ADHD", "managing ADHD productivity", "ADHD creativity tips", "adult ADHD coping", "perfectionism and executive dysfunction", "ADHD emotional regulation"]
 og_image: "/og/adhd-perfectionism.png"
+og_title: "ADHD Perfectionism: Why It Happens & How to Break Free Without Losing Your Spark"
+og_description: "Struggling with ADHD perfectionism? Discover why it shows up, how it holds you back, and ways to embrace imperfection while still feeling proud of your progress."
 ---
 
 Imagine your brain is a bouncy castle, full of wild ideas jumping around. Now, imagine trying to line up all those bouncy ideas in a perfect, straight line. Tough, huh?

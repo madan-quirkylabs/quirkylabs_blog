@@ -1,14 +1,16 @@
 ---
-title: "Unlock Joy: Embrace the ADHD Silent Struggles Today!"
-description: "\"Dive into our blog on 'ADHD silent struggles' and feel understood. We're here to help you turn down the noise and catch calm, just like finding a cozy remote for your thoughts!\""
+title: "ADHD Silent Struggles: What No One Sees & How to Feel Seen"
+description: "Struggling silently with ADHD? Discover the hidden challenges many face and explore comforting, practical strategies to feel more understood and in control."
 slug: "adhd-silent-struggles"
 date: 2025-05-07
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD silent struggles", "managing ADHD distractions", "ADHD adult coping strategies", "ADHD emotional challenges", "ADHD playful support", "ADHD focus techniques", "ADHD multitasking difficulties"]
-keywords: ["ADHD silent struggles", "managing ADHD distractions", "ADHD adult coping strategies", "ADHD emotional challenges", "ADHD playful support", "ADHD focus techniques", "ADHD multitasking difficulties"]
+tags: ["ADHD silent struggles", "hidden ADHD symptoms", "ADHD emotional challenges", "ADHD adult coping strategies", "managing ADHD distractions", "feeling unseen with ADHD", "ADHD multitasking overwhelm"]
+keywords: ["ADHD silent struggles", "hidden ADHD symptoms", "ADHD emotional challenges", "ADHD adult coping strategies", "managing ADHD distractions", "feeling unseen with ADHD", "ADHD multitasking overwhelm"]
 og_image: "/og/adhd-silent-struggles.png"
+og_title: "ADHD Silent Struggles: What No One Sees & How to Feel Seen"
+og_description: "Struggling silently with ADHD? Discover the hidden challenges many face and explore comforting, practical strategies to feel more understood and in control."
 ---
 
 Imagine your brain is like a TV with a zillion channels. All. On. At. Once. You're trying to watch a calm cooking show, but a superhero movie blares over it!

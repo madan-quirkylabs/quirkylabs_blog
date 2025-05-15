@@ -1,15 +1,3 @@
----
-title: "ADHD want to do everything: \"Unlock Joy: Why ADHD Makes You Want to Do Everything!\""
-description: "Explore why 'ADHD want to do everything' feels so real. This cozy blog offers warm insights, making you feel seen and understood in your vibrant ADHD world."
-slug: "adhd-want-to-do-everything"
-date: 2025-05-07
-draft: false
-type: "page"
-categories: ["ADHD Guides"]
-tags: ["ADHD multiple interests", "managing ADHD excitement", "ADHD project starting", "ADHD focus strategies", "ADHD creative ideas", "embracing ADHD curiosity", "ADHD playful learning"]
-keywords: ["ADHD multiple interests", "managing ADHD excitement", "ADHD project starting", "ADHD focus strategies", "ADHD creative ideas", "embracing ADHD curiosity", "ADHD playful learning"]
-og_image: "/og/adhd-want-to-do-everything.png"
----
 
 Imagine your brain is a bouncy castle at the busiest birthday party ever. Thoughts jump around like hyper kids high on cake and juice.
 

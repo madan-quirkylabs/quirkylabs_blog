@@ -1,14 +1,16 @@
 ---
-title: "ADHD scared of commitment: \"Unlock Love: Overcome ADHD Fear of Commitment Today!\""
-description: "Feeling like commitment is a giant acorn? Our blog on 'ADHD scared of commitment' offers cozy insights to make you feel seen and cheered on. Let's explore together!"
+title: "ADHD Fear of Commitment: Why It’s So Hard & How to Move Forward with Love"
+description: "Is ADHD making commitment feel scary? Uncover the real reasons behind your fear and get cozy, supportive strategies to build trust and lasting relationships."
 slug: "adhd-scared-of-commitment"
 date: 2025-05-07
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD fear of commitment", "ADHD relationship challenges", "managing ADHD in relationships", "ADHD commitment strategies", "ADHD and emotional connections", "overcoming ADHD relationship fears", "ADHD adults and commitment issues"]
-keywords: ["ADHD fear of commitment", "ADHD relationship challenges", "managing ADHD in relationships", "ADHD commitment strategies", "ADHD and emotional connections", "overcoming ADHD relationship fears", "ADHD adults and commitment issues"]
+tags: ["ADHD fear of commitment", "ADHD relationship challenges", "overcoming ADHD relationship fears", "ADHD and emotional connection", "ADHD adults and love", "commitment struggles ADHD", "navigating ADHD intimacy"]
+keywords: ["ADHD fear of commitment", "ADHD relationship challenges", "overcoming ADHD relationship fears", "ADHD and emotional connection", "ADHD adults and love", "commitment struggles ADHD", "navigating ADHD intimacy"]
 og_image: "/og/adhd-scared-of-commitment.png"
+og_title: "ADHD Fear of Commitment: Why It’s So Hard & How to Move Forward with Love"
+og_description: "Is ADHD making commitment feel scary? Uncover the real reasons behind your fear and get cozy, supportive strategies to build trust and lasting relationships."
 ---
 
 Imagine ADHD as a bouncy, super-charged squirrel. Normally, it's hopping happily from one shiny acorn to another, never sticking around long enough to see if an acorn turns into a mighty oak.

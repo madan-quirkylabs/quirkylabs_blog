@@ -1,14 +1,16 @@
 ---
-title: "End ADHD Loneliness in Relationships – Find Joy & Connection!"
-description: "Discover how to navigate \"ADHD loneliness in relationships\" with warmth and understanding. Feel seen and uplifted as we explore turning loneliness into connection."
+title: "ADHD Loneliness in Relationships: Why It Happens & How to Reconnect Emotionally"
+description: "Feel lonely even in close relationships with ADHD? Learn why it happens, how to communicate better, and build deeper emotional connections that truly nourish you."
 slug: "adhd-loneliness-in-relationships"
 date: 2025-05-03
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD relationship struggles", "managing ADHD loneliness", "ADHD friendship challenges", "connecting with ADHD partners", "overcoming ADHD isolation", "ADHD emotional support", "finding understanding in ADHD relationships"]
-keywords: ["ADHD relationship struggles", "managing ADHD loneliness", "ADHD friendship challenges", "connecting with ADHD partners", "overcoming ADHD isolation", "ADHD emotional support", "finding understanding in ADHD relationships"]
+tags: ["ADHD relationship struggles", "ADHD loneliness", "connecting with ADHD partners", "managing ADHD emotions", "overcoming ADHD isolation", "ADHD communication tips", "emotional connection in ADHD"]
+keywords: ["ADHD relationship struggles", "ADHD loneliness", "connecting with ADHD partners", "managing ADHD emotions", "overcoming ADHD isolation", "ADHD communication tips", "emotional connection in ADHD"]
 og_image: "/og/adhd-loneliness-in-relationships.png"
+og_title: "ADHD Loneliness in Relationships: Why It Happens & How to Reconnect Emotionally"
+og_description: "Feel lonely even in close relationships with ADHD? Learn why it happens, how to communicate better, and build deeper emotional connections that truly nourish you."
 ---
 
 Imagine you're a bouncy kangaroo in a world where everyone else is a turtle. You hop high and zip fast, excited to share all your discoveries. But your turtle friends? They plod along, steady and slow, often missing your jumps.

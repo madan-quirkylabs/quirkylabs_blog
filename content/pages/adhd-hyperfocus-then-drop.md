@@ -1,14 +1,16 @@
 ---
-title: "Unlock Magic: ADHD Hyperfocus Then Drop Secrets!"
-description: "Explore the whimsy of 'adhd hyperfocus then drop' in our blog! Feel seen and supported as we uncover the magic and challenges of ADHD together."
+title: "ADHD Hyperfocus Then Drop: Why It Happens & How to Finish What You Start"
+description: "Do you dive in deep then suddenly drop tasks? Discover why ADHD hyperfocus ends abruptly and how to build follow-through habits without losing your spark."
 slug: "adhd-hyperfocus-then-drop"
 date: 2025-05-07
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD hyperfocus drop-off", "managing ADHD hyperfocus", "ADHD task transition", "sustaining ADHD focus", "ADHD productivity tips", "embracing ADHD strengths", "ADHD creative energy"]
-keywords: ["ADHD hyperfocus drop-off", "managing ADHD hyperfocus", "ADHD task transition", "sustaining ADHD focus", "ADHD productivity tips", "embracing ADHD strengths", "ADHD creative energy"]
+tags: ["ADHD hyperfocus", "ADHD task drop-off", "managing ADHD hyperfocus", "ADHD task transition", "sustaining ADHD focus", "ADHD productivity strategies", "ADHD creative energy"]
+keywords: ["ADHD hyperfocus", "ADHD task drop-off", "managing ADHD hyperfocus", "ADHD task transition", "sustaining ADHD focus", "ADHD productivity strategies", "ADHD creative energy"]
 og_image: "/og/adhd-hyperfocus-then-drop.png"
+og_title: "ADHD Hyperfocus Then Drop: Why It Happens & How to Finish What You Start"
+og_description: "Do you dive in deep then suddenly drop tasks? Discover why ADHD hyperfocus ends abruptly and how to build follow-through habits without losing your spark."
 ---
 
 Imagine you're a super-duper detective, zooming in on clues. Nothing else exists — just you and the mystery of the missing cookie. Your mind's a magnifying glass, catching every crumb and sugar trail!

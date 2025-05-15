@@ -1,6 +1,6 @@
 ---
-title: "ADHD lonely despite being social: Feel Seen: Conquer 'ADHD Lonely' in a Crowded Room!"
-description: "Feel \"ADHD lonely despite being social\"? Explore why connection can be tricky and find comfort in knowing you're not alone. Dive into our blog for a warm hug of words!"
+title: "ADHD and Feeling Lonely in Social Settings: Why You Feel Isolated & What to Do"
+description: "Feel lonely even when surrounded by people? Learn why ADHD makes connection tricky and discover ways to feel truly seen, heard, and connected."
 slug: "adhd-lonely-despite-being-social"
 date: 2025-05-03
 draft: false
@@ -9,7 +9,10 @@ categories: ["ADHD Guides"]
 tags: ["ADHD social isolation", "feeling lonely with ADHD", "ADHD in social settings", "managing ADHD loneliness", "adult ADHD social challenges", "ADHD emotional regulation", "connecting with others ADHD"]
 keywords: ["ADHD social isolation", "feeling lonely with ADHD", "ADHD in social settings", "managing ADHD loneliness", "adult ADHD social challenges", "ADHD emotional regulation", "connecting with others ADHD"]
 og_image: "/og/adhd-lonely-despite-being-social.png"
+og_title: "ADHD and Feeling Lonely in Social Settings: Why You Feel Isolated & What to Do"
+og_description: "Feel lonely even when surrounded by people? Learn why ADHD makes connection tricky and discover ways to feel truly seen, heard, and connected."
 ---
+
 
 In a room buzzing like a beehive, Sam felt like a lost sock in a laundry load. Everyone chatted and laughed, their words fluttering around like butterflies.
 

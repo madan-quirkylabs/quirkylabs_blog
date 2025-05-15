@@ -1,14 +1,16 @@
 ---
-title: "Beat ADHD Productivity Shame & Unleash Your Joy!"
-description: "Struggling with ADHD productivity shame? This cozy, playful blog offers a warm embrace of your vibrant mind. Feel seen and uplifted as we explore better ways to bounce through tasks together!"
+title: "ADHD Productivity Shame: Why You Feel Behind & How to Reclaim Your Confidence"
+description: "Feel ashamed about your productivity with ADHD? You’re not alone. Learn why it happens, how to drop the guilt, and discover kinder ways to get things done."
 slug: "adhd-productivity-shame"
 date: 2025-05-03
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD productivity tips", "overcoming ADHD shame", "ADHD task management strategies", "ADHD-friendly productivity hacks", "managing ADHD distractions", "celebrating ADHD differences", "coping with ADHD productivity"]
-keywords: ["ADHD productivity tips", "overcoming ADHD shame", "ADHD task management strategies", "ADHD-friendly productivity hacks", "managing ADHD distractions", "celebrating ADHD differences", "coping with ADHD productivity"]
+tags: ["ADHD productivity shame", "overcoming ADHD guilt", "ADHD-friendly productivity", "managing ADHD distractions", "ADHD task management", "coping with ADHD productivity", "celebrating ADHD differences"]
+keywords: ["ADHD productivity shame", "overcoming ADHD guilt", "ADHD-friendly productivity", "managing ADHD distractions", "ADHD task management", "coping with ADHD productivity", "celebrating ADHD differences"]
 og_image: "/og/adhd-productivity-shame.png"
+og_title: "ADHD Productivity Shame: Why You Feel Behind & How to Reclaim Your Confidence"
+og_description: "Feel ashamed about your productivity with ADHD? You’re not alone. Learn why it happens, how to drop the guilt, and discover kinder ways to get things done."
 ---
 
 Imagine your brain is like a super bouncy ball in a tiny room. Ping! Ping! It zips from one wall to another, never stopping.

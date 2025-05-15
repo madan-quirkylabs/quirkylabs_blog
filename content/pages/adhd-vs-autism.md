@@ -1,13 +1,16 @@
 ---
-title: "ADHD vs Autism: Key Differences, Overlaps, and How They Feel"
-description: "Confused about ADHD vs Autism? Discover how they overlap, differ, and what it means for you. Gentle, hopeful guidance. Free ADHD quiz included."
+title: "ADHD vs Autism: Key Differences, Similarities & What It Feels Like"
+description: "Wondering about ADHD vs Autism? Learn how they differ and overlap, how to spot the signs, and what it means for self-understanding. Gentle, clear, and empowering."
 slug: "adhd-vs-autism"
 date: 2024-04-25
-draft: true
-tags: ["ADHD", "Autism", "Neurodivergence", "Mental Health", "Self-Discovery"]
-categories: ["ADHD Guides"]
-keywords: ["ADHD vs autism", "difference between ADHD and autism", "ADHD and autism overlap"]
+draft: false
 type: "page"
+categories: ["ADHD Guides"]
+tags: ["ADHD vs autism", "ADHD autism differences", "neurodivergent comparison", "mental health insights", "autism and ADHD overlap", "self-discovery neurodivergence", "understanding neurodivergent traits"]
+keywords: ["ADHD vs autism", "ADHD autism differences", "neurodivergent comparison", "mental health insights", "autism and ADHD overlap", "self-discovery neurodivergence", "understanding neurodivergent traits"]
+og_image: "/og/adhd-vs-autism.png"
+og_title: "ADHD vs Autism: Key Differences, Similarities & What It Feels Like"
+og_description: "Wondering about ADHD vs Autism? Learn how they differ and overlap, how to spot the signs, and what it means for self-understanding. Gentle, clear, and empowering."
 ---
 
 # ADHD vs Autism: How It Feels, and Where It Gets Confusing

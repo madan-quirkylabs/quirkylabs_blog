@@ -1,15 +1,18 @@
 ---
-title: "adhd labeled as disruptive: \"Unlock Your Spark: Why Being ADHD & Disruptive Rocks!\""
-description: "Discover how \"ADHD labeled as disruptive\" can actually be a sign of vibrant creativity. Dive into our blog to feel seen and celebrate your unique mind!"
+title: "ADHD Labeled as Disruptive: Why It Happens & How to Reframe the Narrative"
+description: "Ever been called disruptive because of your ADHD? Learn why this label sticks, what it really means, and how to reclaim your spark with pride and understanding."
 slug: "adhd-labeled-as-disruptive"
 date: 2025-05-07
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD and disruptive label", "ADHD misunderstood behaviors", "ADHD classroom challenges", "ADHD creative minds", "ADHD emotional support", "rethinking ADHD perceptions", "ADHD validation strategies"]
-keywords: ["ADHD and disruptive label", "ADHD misunderstood behaviors", "ADHD classroom challenges", "ADHD creative minds", "ADHD emotional support", "rethinking ADHD perceptions", "ADHD validation strategies"]
+tags: ["ADHD and disruptive label", "ADHD misunderstood behaviors", "ADHD classroom challenges", "rethinking ADHD", "ADHD validation strategies", "ADHD creative strengths", "ADHD emotional support"]
+keywords: ["ADHD and disruptive label", "ADHD misunderstood behaviors", "ADHD classroom challenges", "rethinking ADHD", "ADHD validation strategies", "ADHD creative strengths", "ADHD emotional support"]
 og_image: "/og/adhd-labeled-as-disruptive.png"
+og_title: "ADHD Labeled as Disruptive: Why It Happens & How to Reframe the Narrative"
+og_description: "Ever been called disruptive because of your ADHD? Learn why this label sticks, what it really means, and how to reclaim your spark with pride and understanding."
 ---
+
 
 In a classroom buzzing more than a beehive, Sam's thoughts were like popcorn. Pop, pop, pop! Each idea a colorful burst, hard to catch.
 

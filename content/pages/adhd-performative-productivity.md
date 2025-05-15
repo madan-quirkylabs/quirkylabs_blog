@@ -1,14 +1,16 @@
 ---
-title: "Unlock Joy: ADHD Performative Productivity Secrets!"
-description: "Explore \"ADHD performative productivity\" and feel seen with our cozy, playful guide. Unpack the magic of working with ADHD in a way that uplifts and understands you! 🎩✨"
+title: "ADHD and Performative Productivity: Why You Fake Focus & How to Work Smarter"
+description: "Stuck in performative productivity with ADHD? Learn why you feel the need to look busy, how to spot the signs, and ways to shift toward real, joyful productivity."
 slug: "adhd-performative-productivity"
 date: 2025-05-03
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD productivity strategies", "ADHD work humor", "performative productivity ADHD", "ADHD multitasking challenges", "playful ADHD coping", "ADHD task management", "ADHD whimsical productivity"]
-keywords: ["ADHD productivity strategies", "ADHD work humor", "performative productivity ADHD", "ADHD multitasking challenges", "playful ADHD coping", "ADHD task management", "ADHD whimsical productivity"]
+tags: ["ADHD performative productivity", "ADHD productivity struggles", "managing ADHD work habits", "fake focus ADHD", "real ADHD productivity tips", "ADHD workplace strategies", "breaking ADHD work patterns"]
+keywords: ["ADHD performative productivity", "ADHD productivity struggles", "managing ADHD work habits", "fake focus ADHD", "real ADHD productivity tips", "ADHD workplace strategies", "breaking ADHD work patterns"]
 og_image: "/og/adhd-performative-productivity.png"
+og_title: "ADHD and Performative Productivity: Why You Fake Focus & How to Work Smarter"
+og_description: "Stuck in performative productivity with ADHD? Learn why you feel the need to look busy, how to spot the signs, and ways to shift toward real, joyful productivity."
 ---
 
 Imagine you're juggling colorful balls at a circus—oops, one's an orange! 😆 That's like trying to do work with ADHD. You're supposed to be juggling, but suddenly you're making orange juice!

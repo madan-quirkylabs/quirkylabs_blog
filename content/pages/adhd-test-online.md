@@ -1,14 +1,18 @@
 ---
-title: "Free Online ADHD Test (Backed by Science)"
-description: "Unlock the fun in taking our ADHD test online free! Easy, engaging, geared for peppy minds. Become your own ADHD superhero in just clicks!"
+title: "Free Online ADHD Test: Backed by Science & Built for You"
+description: "Take our free online ADHD test—fast, science-backed, and fun. Discover how ADHD shows up in your life and get clarity in just a few minutes. No sign-up needed!"
 slug: "adhd-test-online"
 date: 2025-04-30
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD", "Neurodivergence"]
-keywords: ["ADHD test", "ADHD online quiz", "ADHD self assessment", "free ADHD test"]
+tags: ["online ADHD test", "free ADHD quiz", "ADHD self-assessment", "digital ADHD screening", "science-backed ADHD test", "ADHD online evaluation", "no sign-up ADHD test"]
+keywords: ["online ADHD test", "free ADHD quiz", "ADHD self-assessment", "digital ADHD screening", "science-backed ADHD test", "ADHD online evaluation", "no sign-up ADHD test"]
+og_image: "/og/adhd-test-online.png"
+og_title: "Free Online ADHD Test: Backed by Science & Built for You"
+og_description: "Take our free online ADHD test—fast, science-backed, and fun. Discover how ADHD shows up in your life and get clarity in just a few minutes. No sign-up needed!"
 ---
+
 
 ## Is Your Brain a Whirlwind of Glitter? Try the Free ADHD Test
 

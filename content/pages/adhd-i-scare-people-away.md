@@ -1,14 +1,16 @@
 ---
-title: "adhd i scare people away: \"ADHD & Social Fears: Embrace & Connect Without Scaring Away!\""
-description: "adhd i scare people away: Feel like \"ADHD, I scare people away\"? Dive into our blog where we turn fears into shared laughter and understanding. Here, you're not alone but celebrated!"
+title: "ADHD and Scaring People Away: How to Manage Social Fears & Build Real Connections"
+description: "Worried that ADHD makes you scare people off? Learn why this fear happens, how to navigate social situations with confidence, and feel truly accepted."
 slug: "adhd-i-scare-people-away"
 date: 2025-05-07
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD communication challenges", "ADHD social skills", "managing ADHD relationships", "ADHD and making friends", "coping with ADHD symptoms", "ADHD emotional regulation", "ADHD adult experiences"]
-keywords: ["ADHD communication challenges", "ADHD social skills", "managing ADHD relationships", "ADHD and making friends", "coping with ADHD symptoms", "ADHD emotional regulation", "ADHD adult experiences"]
+tags: ["ADHD communication challenges", "ADHD social fears", "managing ADHD relationships", "ADHD and making friends", "coping with ADHD symptoms", "ADHD emotional regulation", "adult ADHD support"]
+keywords: ["ADHD communication challenges", "ADHD social fears", "managing ADHD relationships", "ADHD and making friends", "coping with ADHD symptoms", "ADHD emotional regulation", "adult ADHD support"]
 og_image: "/og/adhd-i-scare-people-away.png"
+og_title: "ADHD and Scaring People Away: How to Manage Social Fears & Build Real Connections"
+og_description: "Worried that ADHD makes you scare people off? Learn why this fear happens, how to navigate social situations with confidence, and feel truly accepted."
 ---
 
 In my mind, thoughts buzz like bees at a picnic—nonstop, noisy, everywhere!

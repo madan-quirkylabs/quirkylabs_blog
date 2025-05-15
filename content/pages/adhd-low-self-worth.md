@@ -1,14 +1,16 @@
 ---
-title: "adhd low self worth: \"Boost Your Spirits: Overcome ADHD Low Self-Worth Today!\""
-description: "Explore \"ADHD Low Self Worth\" and discover how to embrace your unique bounce! This blog offers warm, playful insights to help you feel seen and uplifted."
+title: "ADHD and Low Self-Worth: Why You Feel ‘Not Enough’ & How to Rebuild Confidence"
+description: "Struggling with low self-worth and ADHD? You're not broken. Discover where the self-doubt comes from and how to reconnect with your value and spark."
 slug: "adhd-low-self-worth"
 date: 2025-05-07
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD self-esteem issues", "ADHD self-worth strategies", "coping with ADHD as an adult", "embracing uniqueness in ADHD", "adult ADHD emotional challenges", "ADHD validation techniques", "overcoming ADHD insecurities"]
-keywords: ["ADHD self-esteem issues", "ADHD self-worth strategies", "coping with ADHD as an adult", "embracing uniqueness in ADHD", "adult ADHD emotional challenges", "ADHD validation techniques", "overcoming ADHD insecurities"]
+tags: ["ADHD self-esteem issues", "ADHD low self-worth", "overcoming ADHD insecurities", "ADHD emotional resilience", "adult ADHD support", "ADHD validation techniques", "rebuilding ADHD confidence"]
+keywords: ["ADHD self-esteem issues", "ADHD low self-worth", "overcoming ADHD insecurities", "ADHD emotional resilience", "adult ADHD support", "ADHD validation techniques", "rebuilding ADHD confidence"]
 og_image: "/og/adhd-low-self-worth.png"
+og_title: "ADHD and Low Self-Worth: Why You Feel ‘Not Enough’ & How to Rebuild Confidence"
+og_description: "Struggling with low self-worth and ADHD? You're not broken. Discover where the self-doubt comes from and how to reconnect with your value and spark."
 ---
 
 Imagine you're a shiny, bouncy soccer ball. You're meant to zoom across fields, make epic goals, and have a blast with friends. But sometimes, you feel more like a tired old basketball, forgotten and flat, hiding in the back of the garage.

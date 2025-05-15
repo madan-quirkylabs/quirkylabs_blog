@@ -1,15 +1,18 @@
 ---
-title: "Unlock Joy: How 'ADHD Hide Your Struggles' Frees You!"
-description: "Discover how 'ADHD hide your struggles' offers a warm, cozy haven where your ninja-like coping skills are not just seen but celebrated. Feel understood and uplifted!"
+title: "ADHD Hiding Struggles: Why You Mask It & How to Stop Feeling Alone"
+description: "Always hiding your ADHD struggles? You're not alone. Discover why masking happens, the emotional cost, and how to start feeling safe to show the real you."
 slug: "adhd-hide-your-struggles"
 date: 2025-05-03
 draft: false
 type: "page"
 categories: ["ADHD Guides"]
-tags: ["ADHD hiding strategies", "coping with ADHD invisibly", "ADHD secret struggles", "playful ADHD management", "ADHD adult challenges", "ADHD creative coping techniques", "managing ADHD with humor"]
-keywords: ["ADHD hiding strategies", "coping with ADHD invisibly", "ADHD secret struggles", "playful ADHD management", "ADHD adult challenges", "ADHD creative coping techniques", "managing ADHD with humor"]
+tags: ["ADHD hiding struggles", "ADHD masking", "coping with ADHD invisibly", "ADHD emotional challenges", "ADHD authenticity", "adult ADHD support", "ADHD mental health"]
+keywords: ["ADHD hiding struggles", "ADHD masking", "coping with ADHD invisibly", "ADHD emotional challenges", "ADHD authenticity", "adult ADHD support", "ADHD mental health"]
 og_image: "/og/adhd-hide-your-struggles.png"
+og_title: "ADHD Hiding Struggles: Why You Mask It & How to Stop Feeling Alone"
+og_description: "Always hiding your ADHD struggles? You're not alone. Discover why masking happens, the emotional cost, and how to start feeling safe to show the real you."
 ---
+
 
 Imagine you're a ninja, stealthily hiding your secret moves. Like how you might tuck away your homework in a jungle of bedroom chaos, because who wants to show that sometimes, focusing feels like trying to catch a super-fast, invisible butterfly?
 
