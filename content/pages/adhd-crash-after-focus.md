@@ -25,7 +25,7 @@ Now, meet Jamie. Jamie is just like our superhero. She was doing her mega focus 
 
 For three whole hours, Jamie was unstoppable. She solved problems like a wizard casting spells. But after the last problem was slayed, whoosh! Her superpowers drained out like sand in an hourglass.
 
-### The Great Power Outage!
+## Why ADHD Focus Crashes Happen After Hyperfocus
 
 Suddenly, Jamie felt like a zapped bunny. Flop! All she wanted was to curl up in her cozy nook. No more numbers, no more spells. Just her, her comfy blanket, and maybe her favorite old cartoon. The crash had landed.
 
@@ -37,7 +37,7 @@ His superpowers of hyper-focus start to dwindle, and his energy levels dip lower
 
 However, Captain Focus often struggles with the nagging feeling that resting is a form of failure, a common sensation among those with ADHD, known as [ADHD Rest Feels Like Failure](/pages/adhd-rest-feels-like-failure/).
 
-### A Cozy Hideout
+## ADHD Focus Recovery Tips: Creating Your Recharge Zone
 
 Luckily, our hero has a secret hideout, a cozy nook filled with cushions and blankets. It's his go-to spot for recharging his superpowers. Here, he lets himself relax, putting on his favorite music and sipping on a warm cup of cocoa.
 
@@ -51,7 +51,7 @@ But just then, Grandma Jenny, with her infinite wisdom and warm cookies, came to
 
 While he enjoyed the quiet moment, Leo couldn't shake the feeling that he should be doing something productive, a common struggle for many dealing with [ADHD and guilt doing nothing](/pages/adhd-and-guilt-doing-nothing/).
 
-### Super Leo Recharges!
+## ADHD Burnout Recovery: Real-Life Story and Self-Compassion
 
 With each bite, Leo felt a tiny bit more like himself. It was as if each chocolate chip brought back a spark of his energy. He realized that crashes were just part of his superpower. Like a garden that rests in winter to bloom in spring, he just needed a little rest.
 
@@ -59,16 +59,14 @@ By bedtime, Leo was smiling again. He understood that tomorrow is another day, f
 
 So, Leo drifted off, dreaming of the skies, ready for whatever came next.
 
-## Quickfire ADHD Checklist
+## ADHD Post-Focus Recovery Checklist: Recharge Without Guilt
 
 1. **Blanket Burrito Roll-Up:** Wrap yourself like a snug taco in your favorite blanket.
 2. **Snack Attack:** Munch on treats like a squirrel prepping for winter—yum!
 3. **Couch Potato Mode:** Sink into your sofa like a marshmallow in hot chocolate.
 4. **Giggle Fuel:** Watch a funny show—laugh like a hyena at a tickle party!
 
-## Frequently Asked Questions
-
-
+## ADHD Focus Crash FAQs: Why You Burn Out & How to Recover
 
 ### What People Are Googling
 

@@ -24,7 +24,7 @@ So, wanna bounce back in and play some more? There's always a new game just wait
 
 Once upon a time, in the twinkling town of BuzzleVille, there lived a sprightly squirrel named Sammy. Sammy had a mind like a pinball machine—always bouncing from one thought to another. He was known for his zippy zigzags through the trees and his collection of shiny things. But sometimes, Sammy felt like he was a bit too different, especially when he forgot where he buried his nuts or missed an important tree-meeting. This often led Sammy to wrestle with something called 'ADHD failure identity,' a sneaky shadow that made him doubt his squirrelly skills.
 
-### Sammy’s Big Oopsie Day
+## ADHD Failure Identity: When Mistakes Shape Self-Worth
 
 One sunny morning, Sammy woke up extra jumpy. He had a big day ahead—today was the Grand Nut Festival! But in his usual whirlwind way, he misplaced his map to the Nutty Grove, the festival venue. Sammy’s heart sank. He searched high and low, flipping leaves and poking through his stash of sparkly trinkets. But no map.
 
@@ -32,7 +32,7 @@ One sunny morning, Sammy woke up extra jumpy. He had a big day ahead—today was
 
 So there we were, with Captain Focus and the Sapphire Map, searching for the hidden treasure of Success Island. But every time we thought we were close, a thick fog called 'ADHD failure identity' rolled in. It made the Captain forget his successes and only remember the times he got lost.
 
-### Beware the Fog!
+## ADHD Self-Doubt: How to Clear the Mental Fog
 
 Even amidst the whispers of doubt, the crew's support helped counter the persistent [ADHD fear of judgment](/pages/adhd-fear-of-judgment/) that often clouded the Captain's vision.
 
@@ -48,7 +48,7 @@ Jamie chuckled, thinking of their earlier frustrations like tangled headphones. 
 
 Sensing the weight of [ADHD Carrying School Shame](/pages/adhd-carrying-school-shame/), Jamie resolved to shape a new narrative, one where each challenge was a lesson, not a sentence.
 
-### Victory in Every Step
+## Overcoming ADHD Shame: Celebrate Small Wins Every Day
 
 At school the next day, Jamie shared their epiphany with Max, who was all ears and smiles. "It's like you’re a captain steering through a storm. Rough waves? No problem!"
 
@@ -60,16 +60,14 @@ From then on, Jamie faced each day with a spark of courage and a pocketful of ho
 
 And as the stars twinkled above, Jamie felt lighter, ready to chase dreams without the shadow of doubt. They had turned their story of struggle into one of triumph, one playful step at a time.
 
-## Quickfire ADHD Checklist
+## ADHD Failure Identity Checklist: Tools for Self-Compassion
 
 1. 🌪️ Embrace your inner whirlwind—messy can mean creative, not chaotic!
 2. 🎢 Ride the rollercoaster of tasks—ups, downs, and loop-the-loops!
 3. 🧩 Celebrate every puzzle piece you place, even if the box is upside down.
 4. 🌈 Paint your success in rainbow colors, not just shades of gray!
 
-## Frequently Asked Questions
-
-
+## ADHD Shame and Self-Worth FAQs: How to Rebuild Confidence
 
 ### What People Are Googling
 

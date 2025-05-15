@@ -22,7 +22,7 @@ But here's a secret: the right hands will love catching your wild, wonderful bou
 
 Once upon a time, in the bustling town of Breezy Hollow, lived a bright-eyed squirrel named Simon. Simon had ADHD, and he zipped from tree to tree, often dropping nuts along the way. His mind was like a pinball machine, lights flashing and bells ringing with every new thought. But deep down, Simon had a whisper of worry that fluttered like a butterfly in his chest. He often pondered whether his scatterbrained ways made him hard to love. Yes, Simon was grappling with the common ADHD fear of being unlovable.
 
-### A Nutty Day
+## ADHD Relationship Anxiety: When You Feel Too Much
 
 One sunny afternoon, Simon planned to gather nuts from the grand old oak at the village square. His friends, a wise old owl and a slow-paced turtle, decided to join. Simon darted ahead, thoughts buzzing like bees around a hive.
 
@@ -34,7 +34,7 @@ One sunny morning, Benny met Olivia the Owl, who was wise and watchful. "What's 
 
 Olivia continued, her voice calm and reassuring, "And remember Benny, it's okay to seek comfort; many with ADHD have a [need for reassurance](/pages/adhd-need-for-reassurance), and that's perfectly normal."
 
-### Olivia's Wise Words
+## ADHD Self-Worth: Reframing the Fear of Being Unlovable
 
 Olivia listened, her eyes soft and understanding. "Benny, everyone has their quirks. It's what makes the garden interesting!" She explained that just like every flower has its unique bloom, every creature has its special charm.
 
@@ -48,7 +48,7 @@ Jamie realized that everyone has quirks. ADHD was just one of many threads in th
 
 Feeling the constant tug of needing reassurance, Jamie always found comfort in moments like these, where the support was palpable. [Learn more about the ADHD need for reassurance](/pages/adhd-need-for-reassurance/).
 
-### Bright Stars in a Shared Sky
+## ADHD and Love: How Connection Can Heal Self-Doubt
 
 At the bonfire, everyone shared stories and laughed. Jamie felt a warm glow inside. Their fears didn't seem so big anymore, not with friends who understood and cared.
 
@@ -58,16 +58,14 @@ The stars twinkled above, reminding Jamie that we all shine in our own way. And 
 
 So, dance with your quirks. Embrace your sparkle. You are loved, just as you are!
 
-## Quickfire ADHD Checklist
+## ADHD Loveability Checklist: Tiny Joys That Prove You’re Enough
 
 1. Tuck your worries under the pillow! Even monsters need sleep sometimes.
 2. Imagine your fears as bubblegum bubbles—pop them with a giggle!
 3. Gather your quirks like a squirrel with acorns—they make you, you!
 4. Remember, every mismatched sock finds its warm, cozy shoe eventually.
 
-## Frequently Asked Questions
-
-
+## ADHD Love & Worthiness FAQs: Why You Are Lovable Just as You Are
 
 ### What People Are Googling
 

@@ -23,7 +23,7 @@ Meet Jamie! Jamie is like a superhero whose superpower is doing everything all a
 
 One sunny afternoon, Jamie decided to bake cookies, finish a science project, and watch a movie. All at the same time! The kitchen buzzed like a beehive in spring. Flour clouds poofed into the air as Jamie whisked like a wizard.
 
-### A Dash of Chaos, A Pinch of Fun
+## ADHD Overcommitment: The Chaos of Doing Too Much
 
 But oh, the chaos! The cookies turned into little charcoal disks. The science project? Let's just say volcanoes and living rooms are not a good mix. And the movie? Well, it played to an audience of zero.
 
@@ -31,7 +31,7 @@ Jamie laughed it off. It was a typical Tuesday, after all.
 
 When we last left Captain Focus, our ever-energetic hero, he was zipping around his Brain Base, trying to juggle ten different missions at once. From painting the command center to recalibrating the memory banks, there was no shortage of tasks. This is a bit like when someone with ADHD does too much, spreading their superpowers too thin over many tasks.
 
-### The Great Juggle
+## ADHD and Task Overload: When Superpowers Are Spread Too Thin
 
 Amidst the chaos, Captain Focus felt a tinge of [Adhd Impostor Syndrome](/pages/adhd-impostor-syndrome/), questioning if he truly deserved the title of superhero when everything seemed so out of control.
 
@@ -47,7 +47,7 @@ Sitting on the soft grass, Jamie decided to anchor her kite every now and then. 
 
 Amid these reflections, Jamie couldn't shake off a nagging thought, the persistent whisper of [ADHD impostor syndrome](/pages/adhd-impostor-syndrome/), questioning whether her vibrant displays were just elaborate cover-ups for her struggles.
 
-### Time to Rest and Reflect!
+## ADHD Energy Management: Slowing Down Without Losing Spark
 
 Jamie learned to enjoy watching her kite from the ground sometimes, appreciating the view from a calm, still place. Her energy was precious, not something to let fly away with the wind all at once.
 
@@ -55,7 +55,7 @@ Tomorrow, she would fly her kite again, but maybe this time with a few more brea
 
 Always remember, managing your energy is just as important as using it. Keep flying high, but don't forget to enjoy the view!
 
-## Quickfire ADHD Checklist
+## ADHD Overload Checklist: Playful Ways to Rebalance Your Day
 
 1. 🎈 Is your brain juggling flaming torches while riding a unicycle?
 2. 🐿️ Are you chasing more squirrels than a hyper puppy at the park?
@@ -64,9 +64,7 @@ Always remember, managing your energy is just as important as using it. Keep fly
 
 Take a breath. It’s okay to hop off the ride and press pause!
 
-## Frequently Asked Questions
-
-
+## ADHD Doing Too Much FAQs: How to Stop the Spiral & Regain Control
 
 ### What People Are Googling
 

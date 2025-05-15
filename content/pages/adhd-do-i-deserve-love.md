@@ -26,7 +26,7 @@ In the bustling town of Breezy Corners, where every morning smelled like pancake
 
 One sunny afternoon, Jax decided to build a treehouse. But guess what? Halfway through, he got a better idea! Why not make a superhero fort instead? His tools danced around as he changed plans, much like the thoughts tumbling in his mind.
 
-### A Superhero's Dilemma
+## ADHD Self-Worth in Relationships: Am I Too Much to Love?
 
 Here's Jax, standing with a hammer in hand, pondering. "If I keep switching gears, who’d stick around for the ride?" he thought. Could someone else love his whirlwind ways as much as he loved his adventures?
 
@@ -38,7 +38,7 @@ Professor Hoots adjusted his glasses and began to explain. "Every creature in th
 
 Professor Hoots, sensing a deeper unease, added gently, "Many with ADHD often wrestle with an [ADHD Fear Of Rejection](/pages/adhd-fear-of-rejection/), fearing that their vibrant and unpredictable nature might push others away, yet here in the forest, we see the beauty in the chaos and the unpredictable."
 
-### The Magic of Mismatched Socks
+## ADHD and Love Acceptance: Why You’re More Than Enough
 
 "Think of it this way," continued Professor Hoots, perching on a gnarled branch. "In a drawer full of socks, some match, some don’t. But all keep feet warm. Just like socks, people with ADHD might match differently, but they all deserve love."
 
@@ -54,7 +54,7 @@ Of course! Just like a kite flying high in the sky, Jamie's spirit soared. ADHD 
 
 Jamie, while sipping their cocoa, couldn't help but wonder about the depth of their [ADHD Need for Reassurance](/pages/adhd-need-for-reassurance/), a craving that seemed to intensify with every sweet word Alex uttered.
 
-### Love Flies on Colorful Wings
+## ADHD and Belonging: How to Embrace Love With Confidence
 
 Alex pointed out, "Hey, your ADHD makes you, you! It's part of your unique color in the world."
 
@@ -62,7 +62,7 @@ Jamie smiled, feeling a warm glow inside. Love wasn't about being perfect; it wa
 
 So, fly high, laugh loud, and love lots. The sky is big enough for every kite. And every heart, no matter how it beats, has a sky to soar in.
 
-## Quickfire ADHD Checklist
+## ADHD and Love Checklist: Rewire Your Beliefs About Worthiness
 
 1. **Scatterbrain Salsa Dance:** Does your mind whirl like a salsa dancer? Love's music still plays for you!
 
@@ -72,9 +72,7 @@ So, fly high, laugh loud, and love lots. The sky is big enough for every kite. A
 
 4. **Energetic Puppy Vibes:** Got the boundless energy of a puppy at playtime? You deserve belly rubs and love pats too!
 
-## Frequently Asked Questions
-
-
+## ADHD Love FAQs: Do I Deserve Love & How to Accept It
 
 ### What People Are Googling
 

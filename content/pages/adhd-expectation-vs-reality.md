@@ -26,7 +26,7 @@ Come, let's laugh and learn from our quirky adventures together!
 
 Meet Jamie, a whiz at whirlwind ideas, with a brain like a supercharged pinball machine! Always ready to zip from one thought to another, Jamie's world was a kaleidoscope of endless possibilities. You see, Jamie had ADHD, and the expectations vs. reality of living with it were as different as socks and sandals.
 
-### A Day in the Life of Jamie
+## ADHD Daily Life: What You Expect vs What Actually Happens
 
 One sunny morning, Jamie woke up with a to-do list as long as a dragon’s tail. "Today, I'll conquer the world!" Jamie declared, bouncing out of bed. The expectation? A smooth sail through chores, homework, and maybe inventing a new type of cookie. Easy-peasy!
 
@@ -40,7 +40,7 @@ Captain Focus expected a straight path. Guess what? The jungle had other plans! 
 
 Amidst the chaos, he couldn't shake the feeling, an echo from his days in school — that nagging sense of [ADHD carrying school shame](/pages/adhd-carrying-school-shame/), which still colored his adventures with a hint of doubt.
 
-### A Jungle of Surprises!
+## ADHD Surprises: When Life Doesn’t Go as Planned
 
 "Oh, a sparkling river!" Captain Focus gasped, forgetting his map for a moment. This river wasn’t on his expectation map, but it sure was in reality!
 
@@ -56,7 +56,7 @@ Sam learned that her bouncing ideas, like popcorn popping, weren't a problem but
 
 Amid their heartfelt conversation, Alex mentioned, "It's like shedding that old [ADHD failure identity](/pages/adhd-failure-identity/), where we felt we couldn't succeed no matter what."
 
-### Our Unexpected Superpowers!
+## ADHD Strengths Revealed: Embracing the Unexpected
 
 In the cozy corner of the library, they celebrated their finished project, a vibrant collage that sparkled with their unique touches. It was a patchwork quilt of thoughts, each piece a burst of color.
 
@@ -72,7 +72,7 @@ Walking home under the stars, they felt lighter, as if they had untangled a knot
 
 Alex agreed, "Absolutely. Let's make it wonder what we'll do next!"
 
-## Quickfire ADHD Checklist
+## ADHD Expectation vs Reality: Funny Truths and Life Hacks
 
 1. **Expect to be a multitasking wizard:** Juggle eggs, not tasks. Reality drops some eggs!
 
@@ -82,9 +82,7 @@ Alex agreed, "Absolutely. Let's make it wonder what we'll do next!"
 
 4. **Assume you'll finish that book:** Books are like wild adventures—easily paused for a snack!
 
-## Frequently Asked Questions
-
-
+## ADHD Expectations FAQs: Why Life Isn’t What You Imagined
 
 ### What People Are Googling
 

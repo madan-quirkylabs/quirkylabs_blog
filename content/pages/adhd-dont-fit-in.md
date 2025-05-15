@@ -26,7 +26,7 @@ Once upon a time, in the bustling town of Buzzleburg, lived a bouncing bunny nam
 
 One sunny morning, Benny was supposed to help at the carrot festival. But his mind was dancing to a different beat. While everyone focused on carrot cake and carrot stew, Benny got distracted by the bright, fluttering butterflies.
 
-### Oh, shiny!
+## ADHD and Feeling Different: When You Don't Fit In
 
 Benny chased the butterflies around the park, giggling and forgetting all about the carrots. His friends tried to remind him, but he was already on his next adventure: cloud watching!
 
@@ -36,7 +36,7 @@ But that's just the beginning! What happens next in Benny's zippy, zigzaggy day?
 
 Right on cue, the teachers noticed that Puzzle-Piece Pete was squirming in his seat, not quite fitting in with the other students. He’d glance out the window, drum on his desk, and sometimes chirp out answers without raising his hand. The classroom felt like a snug sweater that was just a bit too tight for Pete.
 
-### Pete's Classroom Capers
+## ADHD Social Struggles: Why It Feels Hard to Belong
 
 Feeling like he was always on display, Pete often grappled with the [ADHD Rejection Sensitivity](/pages/adhd-rejection-sensitivity/) that made such moments painfully intense.
 
@@ -50,7 +50,7 @@ It was then that Ms. Harmony realized something important. Pete didn’t quite f
 
 As the sun began to set, Alex finally realized something important. Even though it sometimes felt like "ADHD don't fit in," that wasn't really true. In fact, Alex's unique way of seeing the world added all sorts of colors and flavors that no one else could.
 
-### A Splash of Color in a Monochrome World
+## ADHD Self-Acceptance: Embrace Your Differences as Strengths
 
 Feeling connected was more than just being around people, and Alex knew they sometimes struggled with [ADHD Need For Connection](/pages/adhd-need-for-connection/), yearning for meaningful interactions that went beyond the surface.
 
@@ -62,16 +62,14 @@ In the cozy corner of the playground, Alex found that their sparkle wasn't just 
 
 So remember, your unique sparkle is needed in the world. Shine bright, always!
 
-## Quickfire ADHD Checklist
+## ADHD Fitting In Checklist: Fun Reminders to Embrace Your Sparkle
 
 1. Square peg in a round hole? Yep, that’s us with our glittery edges!
 2. If life’s a game of musical chairs, we’re dancing between two seats!
 3. Our thoughts? A pinball machine on a sugar rush!
 4. Socks in sandals? That's how 'ADHD don't fit in' feels at a fancy party!
 
-## Frequently Asked Questions
-
-
+## ADHD Belonging FAQs: Why You Feel Different & How to Connect
 
 ### What People Are Googling
 

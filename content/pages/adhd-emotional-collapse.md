@@ -23,7 +23,7 @@ Once upon a sunny afternoon, Ellie, a bright-eyed girl with an imagination as bo
 
 Ellie tried to keep up with the math lesson, but numbers danced around her head like mischievous fireflies. She couldn't pin them down. Frustration bubbled. It was all just too much. And then, splat! An 'ADHD emotional collapse' hit her like a gooey pie in the face. Her feelings, usually as colorful as a pack of Skittles, turned into a stormy, tangled mess.
 
-### When the Emotional Bandwidth Overflows
+## ADHD Emotional Overload: Signs and First Steps to Recovery
 
 Ellie's teacher noticed her struggling and gave her a gentle smile. "Hey, Ellie, want to take a five-minute brain break?" she suggested.
 
@@ -35,7 +35,7 @@ This foe is sneaky. It creeps up silently after days or even weeks of Captain Fo
 
 In moments like these, he often felt the sting of [ADHD impostor syndrome](/pages/adhd-impostor-syndrome/), questioning if his victories were truly his or just flukes.
 
-### Uh-oh, Energy Crisis!
+## ADHD Burnout Signs: When Your Brain Says “Too Much”
 
 Captain Focus felt his powers drain. His once sharp mind now felt as foggy as a morning in Marshmallow Valley. Tasks piled up like a mountain of mismatched socks, overwhelming and unsorted.
 
@@ -49,13 +49,13 @@ Ellie learned that after the rain comes a rainbow. She started to keep a little 
 
 Amid her journey, Ellie also uncovered feelings of [ADHD impostor syndrome](/pages/adhd-impostor-syndrome/), questioning her achievements and fearing they weren't truly deserved.
 
-### A Pinch of Magic in Every Page
+## ADHD Emotional Healing: Journaling and Self-Compassion Tips
 
 Every page of Ellie’s diary was a step towards understanding her storms. She realized that each storm passed, and each page turned brought a new dawn. With her diary, she wasn't just surviving her emotions; she was learning to dance in the rain.
 
 Ellie's story doesn't end here, of course. But with her newfound tools and the comforting knowledge that storms do pass, she felt ready for any weather. And just like Ellie, anyone can find their way through the whirlwinds, one colorful, hopeful page at a time. Keep dancing, keep dreaming, and remember—after every storm, there's a rainbow waiting to shine.
 
-## Quickfire ADHD Checklist
+## ADHD Meltdown Recovery: Fun and Easy Reset Ideas
 
 1. **Catch the Popcorn Before the Bowl Tips Over:** Notice when your feelings start jumping like hot popcorn.
 
@@ -65,9 +65,7 @@ Ellie's story doesn't end here, of course. But with her newfound tools and the c
 
 4. **Sing with the Tea Kettle:** Let out steam with a good cry or a hearty laugh before the whistle blows too loud.
 
-## Frequently Asked Questions
-
-
+## ADHD Emotional Collapse FAQs: How to Cope and Rebound
 
 ### What People Are Googling
 
