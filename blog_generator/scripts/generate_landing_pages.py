@@ -118,12 +118,12 @@ def generate_front_matter_from_one_call(row):
         .replace("{{slug}}", row["slug"])
     )
 
+    section_cfg = prompts_dict.get(section, {})
     messages = [
-        {"role": "system", "content": system_instruction},
-        {"role": "user", "content": prompt}
+        {"role": "system", "content": section_cfg.get("system_instruction", "")},
+        {"role": "user", "content": section_cfg.get("prompt", "").replace("{{topic}}", row["topic"]).replace("{{primary_keyword}}", row["primary_keyword"]).replace("{{slug}}", row["slug"])}
     ]
-
-    raw_yaml = call_llm(messages, section=section).strip()
+    raw_yaml = call_llm(messages, section=section, section_config=section_cfg)
 
     # ✅ Validate structure
     REQUIRED_YAML_KEYS = [

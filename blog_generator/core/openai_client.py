@@ -7,11 +7,11 @@ from core.llm_client import LLMClient
 class OpenAIClient(LLMClient):
     def __init__(self, config):
         self.api_key = os.getenv("OPENAI_API_KEY")
-        self.default_model = config["openai"]["model"]
-        self.default_temperature = config["openai"]["temperature"]
-        self.max_retries = config["openai"]["max_retries"]
-        self.timeout = config["openai"]["request_timeout"]
-        self.max_token_size = config["openai"]["max_token_size"]
+        self.default_model = config.get("model", "gpt-4")
+        self.default_temperature = config.get("temperature", 0.7)
+        self.max_retries = config.get("max_retries", 3)
+        self.timeout = config.get("request_timeout", 30)
+        self.max_token_size = config.get("max_token_size", 2048)
 
         openai.api_key = self.api_key
         self.client = openai

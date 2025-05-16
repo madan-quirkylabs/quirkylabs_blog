@@ -5,9 +5,9 @@ from langchain_google_vertexai import ChatVertexAI
 
 class GeminiClient(LLMClient):
     def __init__(self, config):
-        self.default_model = config.get("gemini", {}).get("model", "gemini-2.0-flash")
-        self.default_temperature = config.get("gemini", {}).get("temperature", 0.7)
-        self.location = config.get("gemini", {}).get("location", "us-central1")
+        self.default_model = config.get("model", "gemini-1.5-flash")
+        self.default_temperature = config.get("temperature", 0.7)
+        self.location = config.get("location", "us-central1")
 
     def chat_completion(self, messages, override=None):
         override = override or {}
