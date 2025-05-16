@@ -4,49 +4,53 @@ front_matter_one_shot:
   temperature: 0.9
   enabled: true
   prompt: |
-    🎯 Your mission: Generate the **best possible SEO-optimized YAML front matter** for an ADHD blog post on blog.quirkylabs.ai that will rank on Google page 1.
+    🎯 Generate an elite SEO-optimized YAML front matter block for an ADHD blog post for blog.quirkylabs.ai
 
-    🧠 Think like a:
-    - **SEO expert** (keyword intent, emotional triggers, semantic search)
-    - **Copywriter** (quirky, emotionally resonant, ADHD-friendly tone)
-    - **Metadata strategist** (perfect title–slug–description alignment)
+    🔑 Must combine:
+    - Deep keyword strategy (front-loaded keywords, long-tails, semantic variations)
+    - Emotional clarity (quirky, empathetic tone for overwhelmed ADHD professionals)
+    - Click-magnet formatting (numbers, power words, urgency)
 
-    🧾 Your output must:
-    - Begin and end with `---`
-    - Be **strictly valid YAML**
-    - Use **standard double quotes** (`"`) around all strings
-    - Include all the following fields:
+    🧠 THINK LIKE:
+    - A copywriter at Pixar (quirky, human)
+    - A neuroscientist writing for Medium
+    - An SEO strategist building a SERP-dominating post
 
-      - `title`: Must begin with the primary keyword **exactly as provided**, in **Title Case**, and be emotionally clickable
-      - `description`: Max 160 characters. Must include the keyword naturally, but sound human. Mix up formats: ask questions, share emotional truths, promise transformation.
-      - `slug`: Must match exactly what’s provided
-      - `date`: Use today's date in `YYYY-MM-DD`
-      - `draft`: false
-      - `type`: "page"
-      - `categories`: Always `["ADHD Guides"]`
-      - `tags`: 6–8 high-volume, long-tail keyword phrases starting with “ADHD...”
-      - `keywords`: Must match `tags` exactly
-      - `og_image`: `/og/{{slug}}.png` — replace `{{slug}}` with the actual slug
-      - `og_title`: Must match `title`
-      - `og_description`: Match or slightly expand `description` (up to 200 characters). Make it even more emotionally compelling for social shares.
+    🧾 OUTPUT RULES:
+    - YAML only — start and end with `---`
+    - All string values must be wrapped in standard double quotes
+    - Use today's date in YYYY-MM-DD
+    - Slug must match input exactly
+    - OG title = title
+    - OG description = a longer, punchier version of the meta description (up to 200 characters)
 
-    ✨ BRAND VOICE:
-    - **Pixar meets productivity**: fun, quirky, empathetic, and deeply supportive
-    - Speak **directly to overwhelmed ADHD professionals**: warm, clear, no fluff
-    - Avoid boring or generic phrasing — add *zest*, *emotion*, and *clarity*
+    📌 INCLUDE THESE FIELDS:
+    - title: Must begin with the keyword, be in Title Case, include power words or numbers if natural
+    - description: Max 160 characters, human, emotionally engaging, benefit-focused, keyword-rich
+    - slug: exact as provided
+    - date
+    - draft: false
+    - type: "page"
+    - categories: ["ADHD Guides"]
+    - tags: 6–8 phrases starting with “ADHD...”
+    - keywords: must match tags
+    - og_image: "/og/{{slug}}.png"
+    - og_title
+    - og_description
 
-    ✅ Example tone (don't copy, but be inspired by):
-    - "Is your brain juggling too many balls — and dropping them all? Here’s how ADHD focus struggles show up (and how to stop the chaos)."
-    - "Feeling like you’ll never catch up? ADHD might be stealing your momentum. Let’s flip the script."
+    🎨 TONE:
+    - Friendly but focused
+    - Quirky but clear
+    - Helpful but emotionally validating
 
     📥 INPUT:
     Topic: {{topic}}
     Primary Keyword: {{primary_keyword}}
     Slug: {{slug}}
 
-    ⚠️ Output only valid YAML. No explanations, comments, or markdown.
+    ⚠️ Output only valid YAML. No markdown, no explanations.
   system_instruction: >
-    You are the best SEO + copywriting expert in the world. Write YAML front matter for ADHD blog posts that emotionally connect with readers AND dominate Google. Prioritize clear structure, keyword alignment, emotional relevance, and quirk. Make it irresistible to click *and* rank.
+    You are a blend of the world’s best SEO strategist and ADHD copywriting expert. You write magnetic, empathetic front matter that ranks, resonates, and converts — all while feeling warm, smart, and trustworthy.
 
 emotional_hook:
   provider: gemini
