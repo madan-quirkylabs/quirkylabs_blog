@@ -82,6 +82,11 @@ FAQ_TYPES = {
     "faq_cta": {"style": "cta"}
 }
 
+REQUIRED_YAML_KEYS = [
+    "title", "description", "slug", "date", "draft", "type",
+    "categories", "tags", "keywords", "og_image", "og_title", "og_description"
+]
+
 external_links = """
 ## Trusted ADHD Resources
 
@@ -100,6 +105,70 @@ def interpolate_prompt(prompt, topic, primary_keyword):
                  .replace("{{topic}}", topic)
                  .replace("{{Primary Keyword}}", primary_keyword)
                  .replace("{{primary_keyword}}", primary_keyword))
+
+def generate_front_matter_from_one_call(row):
+    section = "front_matter_one_shot"
+    prompt_template = prompts_dict[section]["prompt"]
+    system_instruction = prompts_dict[section]["system_instruction"]
+
+    prompt = (
+        prompt_template
+        .replace("{{topic}}", row["topic"])
+        .replace("{{primary_keyword}}", row["primary_keyword"])
+        .replace("{{slug}}", row["slug"])
+    )
+
+    messages = [
+        {"role": "system", "content": system_instruction},
+        {"role": "user", "content": prompt}
+    ]
+
+    raw_yaml = call_llm(messages, section=section).strip()
+
+    # ✅ Validate structure
+    REQUIRED_YAML_KEYS = [
+        "title", "description", "slug", "date", "draft", "type",
+        "categories", "tags", "keywords", "og_image", "og_title", "og_description"
+    ]
+
+    try:
+        parsed = yaml.safe_load(raw_yaml)
+        if not isinstance(parsed, dict) or not all(k in parsed for k in REQUIRED_YAML_KEYS):
+            raise ValueError("Missing required keys")
+
+        # Enforce SEO constraints
+        kw = row["primary_keyword"]
+        slug = row["slug"]
+
+        parsed["slug"] = slug
+        if not parsed["title"].lower().startswith(kw.lower()):
+            parsed["title"] = f"{kw}: {parsed['title']}"
+        if kw.lower() not in parsed["description"].lower():
+            parsed["description"] = f"{kw}: {parsed['description']}"
+
+        parsed["og_title"] = parsed["title"]
+        parsed["og_description"] = parsed["description"]
+        parsed["og_image"] = f"/og/{slug}.png"
+
+        return yaml.dump(parsed, sort_keys=False, allow_unicode=True)
+
+    except Exception as e:
+        print(f"❌ Invalid front matter YAML: {e}")
+        # fallback
+        return f"""---
+title: "Missing Title"
+description: "Missing Description"
+slug: "{row['slug']}"
+date: {datetime.utcnow().strftime('%Y-%m-%d')}
+draft: true
+type: "page"
+categories: ["ADHD Guides"]
+tags: []
+keywords: []
+og_image: "/og/{row['slug']}.png"
+og_title: "Missing Title"
+og_description: "Missing Description"
+---\n\n"""
 
 def generate_faq_questions(section_key, topic, keyword):
     faq_def = next(item for item in faq_section_defs if item["key"] == section_key)
@@ -215,30 +284,6 @@ def render_related_spokes(pillar_slug, current_slug):
 {chr(10).join(links)}
 </details>
 """
-
-def build_front_matter(meta_title, meta_desc, slug, keywords):
-    def escape_quotes(text):
-        return text.replace('"', '\\"').strip()
-
-    today = datetime.utcnow().strftime('%Y-%m-%d')
-    clean_title = escape_quotes(meta_title)
-    clean_desc = escape_quotes(meta_desc)
-    kws = "[" + ", ".join(f'\"{k.strip()}\"' for k in keywords.split(",") if k.strip()) + "]"
-
-    return f"""---
-title: \"{clean_title}\"
-description: \"{clean_desc}\"
-slug: \"{slug}\"
-date: {today}
-draft: false
-type: \"page\"
-categories: [\"ADHD Guides\"]
-tags: {kws}
-keywords: {kws}
-og_image: \"/og/{slug}.png\"
-og_title: "{clean_title}"
-og_description: "{clean_desc}"
----\n\n"""
 
 def assemble_blog(sections, row):
     try:
@@ -372,34 +417,6 @@ def enforce_keyword_presence(text, keyword):
         return f"{keyword}: {text}"
     return text
 
-def generate_meta_description(topic, keyword, blog_content):
-    section = "meta_description"
-    prompt_template = prompts_dict.get(section, {}).get("prompt")
-    instruction = prompts_dict.get(section, {}).get("system_instruction")
-    prompt = prompt_template.replace("{{Topic}}", topic).replace("{{Primary Keyword}}", keyword)
-    prompt = prompt.replace("{{topic}}", topic).replace("{{primary_keyword}}", keyword)
-    prompt = prompt.replace("{{Content}}", blog_content[:800])
-
-    messages = [
-        {"role": "system", "content": instruction},
-        {"role": "user", "content": prompt}
-    ]
-    return call_llm(messages, section=section)
-
-def generate_emotional_meta_title(topic, keyword):
-    section = "meta_title"
-    prompt_template = prompts_dict.get(section, {}).get("prompt")
-    instruction = prompts_dict.get(section, {}).get("system_instruction")
-
-    prompt = prompt_template.replace("{{Topic}}", topic).replace("{{Primary Keyword}}", keyword)
-    prompt = prompt.replace("{{topic}}", topic).replace("{{primary_keyword}}", keyword)
-
-    messages = [
-        {"role": "system", "content": instruction},
-        {"role": "user", "content": prompt}
-    ]
-    return call_llm(messages, section=section)
-
 def insert_sentence_into_section(section_text, sentence):
     paras = section_text.strip().split("\n\n")
     if len(paras) > 2:
@@ -423,24 +440,6 @@ def generate_story_section_with_link(section_name, topic, keyword, pillar_slug, 
     static = f"You might also want to check out [{fallback['anchor']}]({fallback['url']})."
     return insert_sentence_into_section(section_text, static)
 
-def generate_keywords_from_blog(topic, blog_body):
-    section = "keyword_generation"
-    prompt_template = prompts_dict[section]["prompt"]
-    system_instruction = prompts_dict[section]["system_instruction"]
-
-    prompt = prompt_template.replace("{{Topic}}", topic).replace("{{Content}}", blog_body[:1500])
-
-    messages = [
-        {"role": "system", "content": system_instruction},
-        {"role": "user", "content": prompt}
-    ]
-
-    try:
-        return call_llm(messages, section=section)
-    except Exception as e:
-        print(f"[KeywordGen] Error: {e}")
-        return "ADHD, Neurodivergence"
-
 def check_readability(text):
     return textstat.flesch_reading_ease(text), textstat.flesch_kincaid_grade(text)
 
@@ -448,13 +447,6 @@ def generate_blog(row):
     topic = row["topic"]
     keyword = row["primary_keyword"]
     slug = row["slug"]
-
-    if SECTION_ENABLE_FLAGS.get("meta_title", True):
-        meta_title = generate_emotional_meta_title(topic, keyword)
-        meta_title = enforce_keyword_presence(meta_title, keyword)
-    else:
-        meta_title = topic
-    keywords = row.get("keywords", "")
 
     sections = {}
     log = {"slug": slug, "topic": topic, "status": "in_progress", "section_attempts": []}
@@ -477,7 +469,7 @@ def generate_blog(row):
                             topic=topic,
                             keyword=keyword,
                             pillar_slug=row.get("pillar_slug", ""),
-                            current_slug=row.get("slug", ""),
+                            current_slug=slug,
                             generate_func=generate_section
                         )
                     else:
@@ -498,29 +490,33 @@ def generate_blog(row):
                     save_retry_payload(row, section)
                 return
 
-        row["meta_title"] = meta_title
+        row["meta_title"] = f"[SEO One-Shot] {topic}"
         blog = assemble_blog(sections, row)
 
-        if SECTION_ENABLE_FLAGS.get("keyword_generation", True):
-            generated_keywords = generate_keywords_from_blog(topic, blog)
+        # 🔥 Generate full front matter block in one LLM call
+        if SECTION_ENABLE_FLAGS.get("front_matter_one_shot", True):
+            front = generate_front_matter_from_one_call(row)
 
-            gpt_keywords = [kw.strip() for kw in generated_keywords.split(",") if kw.strip()]
-            keywords = ",".join(gpt_keywords[:7])
+            # 📝 Save raw front matter for debugging
+            debug_front_path = os.path.join(LOGS_DIR, f"{slug}_front_matter.yaml")
+            with open(debug_front_path, "w", encoding="utf-8") as f:
+                f.write(front)
         else:
-            keywords = row.get("keywords", "")
-
-        if ENABLE_VALIDATION:
-            flesch, grade = check_readability(blog)
-            log["readability"] = {"flesch": flesch, "grade": grade}
-
-        if SECTION_ENABLE_FLAGS.get("meta_description", True):
-            meta_desc = generate_meta_description(topic, keyword, blog)
-            meta_desc = enforce_keyword_presence(meta_desc, keyword)
-        else:
-            meta_desc = ""
-
-        log["meta_description"] = meta_desc
-        front = build_front_matter(meta_title, meta_desc, slug, keywords)
+            print(f"⚠️ Skipping front_matter_one_shot section as per config.")
+            front = f"""---
+                title: "Missing Title"
+                description: "Missing Description"
+                slug: "{slug}"
+                date: {datetime.utcnow().strftime('%Y-%m-%d')}
+                draft: true
+                type: "page"
+                categories: ["ADHD Guides"]
+                tags: []
+                keywords: []
+                og_image: "/og/{slug}.png"
+                og_title: "Missing Title"
+                og_description: "Missing Description"
+                ---\n\n"""
 
         output_path = os.path.join(SUCCESS_DIR, f"{slug}.md")
         with open(output_path, "w", encoding="utf-8") as f:

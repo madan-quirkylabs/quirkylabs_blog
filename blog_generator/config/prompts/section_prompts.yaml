@@ -1,3 +1,26 @@
+front_matter_one_shot:
+  enabled: true
+  prompt: |
+    Generate YAML front matter for a blog.
+
+    Topic: {{topic}}
+    Primary Keyword: {{primary_keyword}}
+    Slug: {{slug}}
+
+    Requirements:
+    - title: Must start with the Primary Keyword
+    - description: Must include the Primary Keyword naturally (under 160 characters)
+    - slug: Use exactly the slug provided
+    - tags: 6–8 SEO-optimized keyword phrases
+    - keywords: Same as tags
+    - og_title: Must match title
+    - og_description: Must match description
+    - og_image: Format as /og/{{slug}}.png
+
+    Output only valid YAML. Do not explain or wrap in markdown.
+  system_instruction: >
+    You are an SEO expert. Generate clean YAML front matter with exact keyword usage and strict formatting.
+
 emotional_hook:
   prompt: Write a vivid, playful mini-scene about '{{Topic}}'. Use simple everyday metaphors linked to ADHD struggles. Short 2–3 line paragraphs. Insert a blank line after every emotional beat. End with a hopeful invitation.
   system_instruction: Generate only the Emotional Hook. Cozy, validating tone, playful ADHD-friendly language. Use short playful sentences (10–14 words max). Prefer simple vocabulary. Target Grade 6–7 readability (Flesch score above 60). Stay tightly anchored to '{{Topic}}'.
@@ -20,39 +43,40 @@ checklist:
   system_instruction: Generate Checklist section only. Prioritize emotional vivid metaphors, playful cozy phrasing. Use short playful sentences (10–14 words max). Prefer simple vocabulary. Target Grade 6–7 readability (Flesch score above 60). Stay tightly anchored to '{{Topic}}'.
 keyword_generation:
   enabled: false
-  prompt: 'Suggest 5–7 SEO keywords (comma-separated) for a blog about ''{{Topic}}''. This blog is written for adults with ADHD and uses a playful, validating tone. Base the keywords on the content and emotional themes below:
+  prompt:
+    "Suggest 5–7 SEO keywords (comma-separated) for a blog about '{{Topic}}'. This blog is written for adults with ADHD and uses a playful, validating tone. Base the keywords on the content and emotional themes below:
 
 
-    {{Content}}'
+    {{Content}}"
   system_instruction: You are an SEO expert helping create ADHD-friendly content. Keep keyword suggestions focused, not too general. Format them as a comma-separated list.
 faq_sections:
-- enabled: false
-  key: faq_google_autocomplete
-  heading: What People Are Googling
-  prompt: Based on '{{Topic}}', generate 5 real-sounding questions that people might type into Google. Use Google Autocomplete-style phrasing. Questions should be short, natural, and written like actual search queries. Only generate the questions — no answers.
-  system_instruction: You are a search-optimized content assistant. Generate raw search-style questions based on what people are actually googling. Do not provide answers. Questions only. Keep them brief and phrased casually like real Google queries.
-- enabled: false
-  key: faq_core
-  heading: Practical FAQs
-  prompt: 'Write 4–6 FAQs about ''{{Topic}}''. Each question must contain the exact phrase ''{{primary_keyword}}''. Format strictly using HTML: <details><summary>Question</summary><p>Answer</p></details>. Do not number the questions. No markdown. No extra text.'
-  system_instruction: Generate pragmatic, search-optimized FAQs. Must use strict HTML formatting with <details> and <summary>.
-- enabled: false
-  key: faq_curious
-  heading: Curious ADHD Questions
-  prompt: 'Write 4–6 quirky, emotionally nuanced FAQs about ''{{Topic}}''. Each question must include the exact phrase ''{{primary_keyword}}''. Format strictly using HTML: <details><summary>Question</summary><p>Answer</p></details>. No bullet points, no markdown.'
-  system_instruction: Respond like a friendly guide with cozy emotional nuance. Use strict HTML structure.
-- enabled: false
-  key: faq_cta
-  heading: Want to Check Yourself?
-  prompt: 'Write 1 FAQ that invites people to take our free self-assessment for ''{{Topic}}'' at [QuirkyLabs.ai](https://quirkylabs.ai). Question must include the exact phrase ''{{primary_keyword}}''. Format strictly using HTML: <details><summary>Question</summary><p>Answer with link.</p></details>.'
-  system_instruction: Gently encourage the reader to visit QuirkyLabs.ai. Use strict HTML structure.
+  - enabled: false
+    key: faq_google_autocomplete
+    heading: What People Are Googling
+    prompt: Based on '{{Topic}}', generate 5 real-sounding questions that people might type into Google. Use Google Autocomplete-style phrasing. Questions should be short, natural, and written like actual search queries. Only generate the questions — no answers.
+    system_instruction: You are a search-optimized content assistant. Generate raw search-style questions based on what people are actually googling. Do not provide answers. Questions only. Keep them brief and phrased casually like real Google queries.
+  - enabled: false
+    key: faq_core
+    heading: Practical FAQs
+    prompt: "Write 4–6 FAQs about '{{Topic}}'. Each question must contain the exact phrase '{{primary_keyword}}'. Format strictly using HTML: <details><summary>Question</summary><p>Answer</p></details>. Do not number the questions. No markdown. No extra text."
+    system_instruction: Generate pragmatic, search-optimized FAQs. Must use strict HTML formatting with <details> and <summary>.
+  - enabled: false
+    key: faq_curious
+    heading: Curious ADHD Questions
+    prompt: "Write 4–6 quirky, emotionally nuanced FAQs about '{{Topic}}'. Each question must include the exact phrase '{{primary_keyword}}'. Format strictly using HTML: <details><summary>Question</summary><p>Answer</p></details>. No bullet points, no markdown."
+    system_instruction: Respond like a friendly guide with cozy emotional nuance. Use strict HTML structure.
+  - enabled: false
+    key: faq_cta
+    heading: Want to Check Yourself?
+    prompt: "Write 1 FAQ that invites people to take our free self-assessment for '{{Topic}}' at [QuirkyLabs.ai](https://quirkylabs.ai). Question must include the exact phrase '{{primary_keyword}}'. Format strictly using HTML: <details><summary>Question</summary><p>Answer with link.</p></details>."
+    system_instruction: Gently encourage the reader to visit QuirkyLabs.ai. Use strict HTML structure.
 cta:
   enabled: false
   prompt: Write a soft, mischievous Call to Adventure inviting readers to explore '{{Topic}}' at [QuirkyLabs.ai](https://quirkylabs.ai). Frame it as 'charting their galaxy' or 'joining a fun quest'. Cozy, validating, adventurous tone. Mention '{{Primary Keyword}}' naturally if it fits.
   system_instruction: Generate CTA only. Cozy, playful adventurous tone inviting exploration. Use short playful sentences (10–14 words max). Prefer simple vocabulary. Target Grade 6–7 readability (Flesch score above 60). Stay tightly anchored to '{{Topic}}'.
 validation:
   enabled: false
-  prompt: 'Strictly evaluate the following blog content:
+  prompt: "Strictly evaluate the following blog content:
 
 
     1. Emotional Hook vividness and relatability?
@@ -74,7 +98,7 @@ validation:
     9. Flag any missing sections or if overall flow feels dry, robotic, overly dense, or clinical.
 
 
-    Summarize all findings clearly. Mark blog as PASS only if all criteria are met tightly. Otherwise mark as FAIL.'
+    Summarize all findings clearly. Mark blog as PASS only if all criteria are met tightly. Otherwise mark as FAIL."
   system_instruction: Strict QA validator for emotional flow, breathing space, vividness, ADHD-friendliness, playful H3 heading presence, readability grade, and section completeness.
 topic_relevance_validation:
   enabled: false
@@ -82,7 +106,8 @@ topic_relevance_validation:
   system_instruction: Strict topic anchoring validator. Allow mild metaphor usage but no major drift.
 meta_description:
   enabled: false
-  prompt: 'Write an SEO-optimized meta description for a blog titled "{{Topic}}".
+  prompt:
+    'Write an SEO-optimized meta description for a blog titled "{{Topic}}".
 
     - It must include the exact phrase: "{{Primary Keyword}}" (not a variation).
 
@@ -104,7 +129,8 @@ meta_description:
   system_instruction: You're an SEO copywriter writing validating, ADHD-friendly meta descriptions.
 meta_title:
   enabled: false
-  prompt: 'Rewrite this topic into a benefit-driven, emotionally punchy meta title.
+  prompt:
+    'Rewrite this topic into a benefit-driven, emotionally punchy meta title.
 
     - Include the exact phrase: "{{Primary Keyword}}".
 
@@ -121,5 +147,5 @@ meta_title:
   system_instruction: You're a playful SEO expert for ADHD blogs.
 faq_core:
   enabled: false
-  prompt: 'Write 4–6 FAQs about ''{{Topic}}''. Each question must contain the exact phrase ''{{primary_keyword}}''. Format strictly using HTML: <details><summary>Question</summary><p>Answer</p></details>. Do not number the questions. No markdown. No extra text.'
+  prompt: "Write 4–6 FAQs about '{{Topic}}'. Each question must contain the exact phrase '{{primary_keyword}}'. Format strictly using HTML: <details><summary>Question</summary><p>Answer</p></details>. Do not number the questions. No markdown. No extra text."
   system_instruction: Generate pragmatic, search-optimized FAQs. Must use strict HTML formatting with <details> and <summary>.
