@@ -21,8 +21,69 @@ paths:
   section_prompts: config/prompts/section_prompts.json
   master_prompt: config/prompts/master_prompt.md
 
-llm_provider: openai # openai or gemini
+llm_provider: gemini # openai or gemini
 
 gemini:
   model: gemini-2.0-flash
   temperature: 0.7
+
+llm_section_defaults:
+  emotional_hook:
+    provider: gemini
+    model: gemini-1.5-pro
+    temperature: 0.7
+
+  story_part_1:
+    provider: gemini
+    model: gemini-1.5-pro
+    temperature: 0.8
+
+  story_part_2:
+    provider: gemini
+    model: gemini-1.5-pro
+    temperature: 0.8
+
+  story_part_3:
+    provider: gemini
+    model: gemini-1.5-pro
+    temperature: 0.8
+
+  checklist:
+    provider: gemini
+    model: gemini-1.5-pro
+    temperature: 0.9
+
+  faq_google_autocomplete:
+    provider: gemini
+    model: gemini-1.5-pro
+    temperature: 0.7
+
+  faq_core:
+    provider: gemini
+    model: gemini-1.5-pro
+    temperature: 0.7
+
+  faq_curious:
+    provider: gemini
+    model: gemini-1.5-pro
+    temperature: 0.7
+
+  faq_cta:
+    provider: gemini
+    model: gemini-1.5-pro
+    temperature: 0.7
+
+  cta:
+    provider: gemini
+    model: gemini-1.5-pro
+    temperature: 0.7
+
+  meta_description:
+    provider: gemini
+    model: gemini-1.5-pro
+    temperature: 0.7
+
+  keyword_generation:
+    provider: gemini
+    model: gemini-1.5-pro
+    temperature: 0.7

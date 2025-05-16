@@ -6,9 +6,9 @@ from core.llm_client import LLMClient
 
 class OpenAIClient(LLMClient):
     def __init__(self, config):
-        self.api_key = os.getenv("OPENAI_API_KEY")  # ✅ Read from env
-        self.model = config["openai"]["model"]
-        self.temperature = config["openai"]["temperature"]
+        self.api_key = os.getenv("OPENAI_API_KEY")
+        self.default_model = config["openai"]["model"]
+        self.default_temperature = config["openai"]["temperature"]
         self.max_retries = config["openai"]["max_retries"]
         self.timeout = config["openai"]["request_timeout"]
         self.max_token_size = config["openai"]["max_token_size"]
@@ -16,21 +16,18 @@ class OpenAIClient(LLMClient):
         openai.api_key = self.api_key
         self.client = openai
 
-    def chat_completion(self, messages):
-        """
-        Calls OpenAI's ChatCompletion endpoint with retries.
-        Args:
-            messages (list): List of {"role": ..., "content": ...} dicts.
-        Returns:
-            str: The generated message content.
-        """
+    def chat_completion(self, messages, override=None):
+        override = override or {}
+        model = override.get("model", self.default_model)
+        temperature = override.get("temperature", self.default_temperature)
+
         for attempt in range(1, self.max_retries + 1):
             try:
-                logging.info(f"[OpenAI] Attempt {attempt} for model: {self.model}")
+                logging.info(f"[OpenAI] Attempt {attempt} using model: {model}")
                 response = self.client.chat.completions.create(
-                    model=self.model,
+                    model=model,
                     messages=messages,
-                    temperature=self.temperature,
+                    temperature=temperature,
                     max_tokens=self.max_token_size
                 )
                 return response.choices[0].message.content.strip()
@@ -42,5 +39,5 @@ class OpenAIClient(LLMClient):
                     logging.info(f"[OpenAI Retry] Waiting {delay}s...")
                     time.sleep(delay)
                 else:
-                    logging.error(f"[OpenAI] Max retries reached.")
+                    logging.error("[OpenAI] Max retries reached.")
                     raise

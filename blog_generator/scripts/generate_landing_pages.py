@@ -10,7 +10,8 @@ import re
 from bs4 import BeautifulSoup
 import requests
 import random  # ensure this is already at the top
-from core.llm_factory import get_llm_client
+
+from core.llm_router import call_llm  # 🔄 updated to use call_llm
 
 # Setup project path
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
@@ -25,7 +26,10 @@ logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %
 # Load config and OpenAI client
 config = load_config()
 pillar_config = load_pillar_config()
-llm_client = get_llm_client(config)
+
+# Flag to enable or disable validation during generation
+ENABLE_VALIDATION = False
+ENABLE_RETRIES = False
 
 # Ensure output dirs exist
 for dir_path in [SUCCESS_DIR, FAILURE_DIR, LOGS_DIR, RETRIES_DIR]:
@@ -51,6 +55,14 @@ with open(SECTION_PROMPTS_PATH, "r", encoding="utf-8") as f:
 
 faq_section_defs = prompts_dict.get("faq_sections", [])
 faq_section_keys = [fs["key"] for fs in faq_section_defs]
+
+SECTION_ENABLE_FLAGS = {
+    key: section.get("enabled", True)
+    for key, section in prompts_dict.items()
+    if isinstance(section, dict) and "prompt" in section  # excludes faq_sections list
+}
+for faq_section in faq_section_defs:
+    SECTION_ENABLE_FLAGS[faq_section["key"]] = faq_section.get("enabled", True)
 
 section_order = [
     "emotional_hook",
@@ -90,16 +102,18 @@ def interpolate_prompt(prompt, topic, primary_keyword):
 
 def generate_faq_questions(section_key, topic, keyword):
     faq_def = next(item for item in faq_section_defs if item["key"] == section_key)
-    prompt = interpolate_prompt(faq_def["prompt"], topic, keyword)
+    prompt = faq_def["prompt"].replace("{{Topic}}", topic).replace("{{topic}}", topic)
+    prompt = prompt.replace("{{Primary Keyword}}", keyword).replace("{{primary_keyword}}", keyword)
     system_instruction = faq_def["system_instruction"]
 
     messages = [
         {"role": "system", "content": system_instruction},
         {"role": "user", "content": prompt}
     ]
-    raw = llm_client.chat_completion(messages)
 
-    raw_lines = raw.strip().split("\n")
+    raw = call_llm(messages, section=section_key)
+
+    raw_lines = raw.strip().split("")
     questions = [
         line.strip("-•* 1234567890. ").strip().strip('"').strip("'")
         for line in raw_lines
@@ -108,12 +122,15 @@ def generate_faq_questions(section_key, topic, keyword):
     return questions
 
 def generate_answer_for_question(question):
-    followup_prompt = f"Answer this question in 3–4 sentences using a helpful, cozy tone: \"{question}\""
+    section = "faq_core"
+    section_prompt = prompts_dict[section]
+
+    prompt = section_prompt["prompt"].replace("{{Topic}}", question).replace("{{topic}}", question)
     messages = [
-        {"role": "system", "content": "You're a friendly ADHD coach writing validating answers for FAQs."},
-        {"role": "user", "content": followup_prompt}
+        {"role": "system", "content": section_prompt["system_instruction"]},
+        {"role": "user", "content": prompt}
     ]
-    return llm_client.chat_completion(messages)
+    return call_llm(messages, section=section)
 
 def generate_faq_section(section_key, topic, keyword):
     questions = generate_faq_questions(section_key, topic, keyword)
@@ -134,20 +151,15 @@ def generate_section(section, topic, primary_keyword):
     if not prompt or not system_instruction:
         raise KeyError(f"Prompt or system_instruction missing for section '{section}'")
 
-    prompt = interpolate_prompt(prompt, topic, primary_keyword)
+    prompt = prompt.replace("{{Topic}}", topic).replace("{{topic}}", topic)
+    prompt = prompt.replace("{{Primary Keyword}}", primary_keyword).replace("{{primary_keyword}}", primary_keyword)
 
     messages = [
         {"role": "system", "content": system_instruction},
         {"role": "user", "content": prompt}
     ]
 
-    # Use Gemini ONLY for 'emotional_hook' for now
-    if section == "emotional_hook" and config.get("llm_provider") == "gemini":
-        print("💡 Using Gemini for emotional_hook")
-    else:
-        print(f"💡 Using {config.get('llm_provider')} for section: {section}")
-
-    return llm_client.chat_completion(messages)
+    return call_llm(messages, section=section)
 
 def faq_to_jsonld(faq_html):
     pattern = re.compile(r"<details>\s*<summary>(.*?)</summary>\s*(.*?)\s*</details>", re.DOTALL | re.IGNORECASE)
@@ -279,31 +291,22 @@ def assemble_blog(sections, row):
 
     try:
         return f"""
-{sections['emotional_hook']}
+{sections.get('emotional_hook', '*[This section was skipped]*')}
 
-{sections['story_part_1']}
+{sections.get('story_part_1', '*[This section was skipped]*')}
 
-{sections['story_part_2']}
+{sections.get('story_part_2', '*[This section was skipped]*')}
 
-{sections['story_part_3']}
+{sections.get('story_part_3', '*[This section was skipped]*')}
 
 ## Quickfire ADHD Checklist
 
-{sections['checklist']}
+{sections.get('checklist', '*[This section was skipped]*')}
 
 ## Frequently Asked Questions
 
 {all_faq_html}
 
-<script type="application/ld+json">
-{faq_structured}
-</script>
-<script type="application/ld+json">
-{article_structured}
-</script>
-<script type="application/ld+json">
-{breadcrumb_structured}
-</script>
 {related_block}
 
 {external_links}
@@ -315,6 +318,19 @@ Alex builds ADHD-friendly productivity tools with stories, science, and squirrel
 [Learn more →](https://quirkylabs.ai)
 
 ---
+
+<script type="application/ld+json">
+{faq_structured}
+</script>
+
+<script type="application/ld+json">
+{article_structured}
+</script>
+
+<script type="application/ld+json">
+{breadcrumb_structured}
+</script>
+
 """
     except Exception as e:
         print(f"[assemble_blog] Error constructing blog body: {e}")
@@ -347,30 +363,6 @@ def get_related_slug_map(pillar_slug, current_slug):
         links[slug] = {"anchor": anchor, "url": url}
     return links
 
-def get_link_insertion_sentence(blog_section, topic, slug_map):
-    formatted_json = "\n".join([
-        f"- {v['anchor']}: {v['url']}" for v in slug_map.values()
-    ])
-
-    prompt = f"""
-Below is a story segment about "{topic}". Your job is to **seamlessly weave in ONE related ADHD topic** from the list below. Return **just one emotionally cozy sentence** that fits naturally. Do NOT list all links. Use exact anchor and link.
-
-Related Topics:
-{formatted_json}
-
-Story Segment:
-"""
-
-    messages = [
-        {"role": "system", "content": "You are a playful ADHD blogger helping link related topics naturally."},
-        {"role": "user", "content": prompt + blog_section}
-    ]
-
-    try:
-        return llm_client.chat_completion(messages)
-    except Exception as e:
-        return None  # Fallback will handle this
-
 def enforce_keyword_presence(text, keyword):
     pattern = re.compile(re.escape(keyword), re.IGNORECASE)
     if not pattern.search(text):
@@ -378,45 +370,32 @@ def enforce_keyword_presence(text, keyword):
     return text
 
 def generate_meta_description(topic, keyword, blog_content):
-    excerpt = blog_content[:800].strip()
-
-    prompt = f"""
-Write an SEO-optimized meta description for a blog titled "{topic}".
-- It must include the exact phrase: "{keyword}" (not a variation).
-- Keep it under 160 characters (ideal 140–155).
-- Use cozy, playful, emotionally validating language.
-- Highlight a specific emotional insight or benefit the blog offers.
-- Your tone should match that of a warm ADHD coach who “gets it.”
-- Focus on how the blog helps the reader feel seen, understood, or uplifted.
-
-Here’s a sample from the blog’s opening:
-
-{excerpt}
-"""
+    section = "meta_description"
+    prompt_template = prompts_dict.get(section, {}).get("prompt")
+    instruction = prompts_dict.get(section, {}).get("system_instruction")
+    prompt = prompt_template.replace("{{Topic}}", topic).replace("{{Primary Keyword}}", keyword)
+    prompt = prompt.replace("{{topic}}", topic).replace("{{primary_keyword}}", keyword)
+    prompt = prompt.replace("{{Content}}", blog_content[:800])
 
     messages = [
-        {"role": "system", "content": "You're an SEO copywriter writing validating, ADHD-friendly meta descriptions."},
+        {"role": "system", "content": instruction},
         {"role": "user", "content": prompt}
     ]
-
-    return llm_client.chat_completion(messages)
+    return call_llm(messages, section=section)
 
 def generate_emotional_meta_title(topic, keyword):
-    prompt = f"""
-Rewrite this topic into a benefit-driven, emotionally punchy meta title.
-- Include the exact phrase: "{keyword}".
-- Limit to 60 characters if possible.
-- Make it cozy, playful, and clickable.
-- Avoid generic phrasing.
+    section = "meta_title"
+    prompt_template = prompts_dict.get(section, {}).get("prompt")
+    instruction = prompts_dict.get(section, {}).get("system_instruction")
 
-Topic: "{topic}"
-Keyword: "{keyword}"
-"""
+    prompt = prompt_template.replace("{{Topic}}", topic).replace("{{Primary Keyword}}", keyword)
+    prompt = prompt.replace("{{topic}}", topic).replace("{{primary_keyword}}", keyword)
+
     messages = [
-        {"role": "system", "content": "You're a playful SEO expert for ADHD blogs."},
+        {"role": "system", "content": instruction},
         {"role": "user", "content": prompt}
     ]
-    return llm_client.chat_completion(messages)
+    return call_llm(messages, section=section)
 
 def insert_sentence_into_section(section_text, sentence):
     paras = section_text.strip().split("\n\n")
@@ -436,19 +415,15 @@ def generate_story_section_with_link(section_name, topic, keyword, pillar_slug, 
     if not slug_map:
         return section_text  # No links to inject
 
-    injected_sentence = get_link_insertion_sentence(section_text, topic, slug_map)
-
-    if injected_sentence:
-        return insert_sentence_into_section(section_text, injected_sentence.strip())
-    else:
-        # fallback static
-        fallback = next(iter(slug_map.values()))
-        static = f"You might also want to check out [{fallback['anchor']}]({fallback['url']})."
-        return insert_sentence_into_section(section_text, static)
+    # fallback static
+    fallback = next(iter(slug_map.values()))
+    static = f"You might also want to check out [{fallback['anchor']}]({fallback['url']})."
+    return insert_sentence_into_section(section_text, static)
 
 def generate_keywords_from_blog(topic, blog_body):
-    prompt_template = prompts_dict["keyword_generation"]["prompt"]
-    system_instruction = prompts_dict["keyword_generation"]["system_instruction"]
+    section = "keyword_generation"
+    prompt_template = prompts_dict[section]["prompt"]
+    system_instruction = prompts_dict[section]["system_instruction"]
 
     prompt = prompt_template.replace("{{Topic}}", topic).replace("{{Content}}", blog_body[:1500])
 
@@ -458,8 +433,7 @@ def generate_keywords_from_blog(topic, blog_body):
     ]
 
     try:
-        response = llm_client.chat_completion(messages)
-        return response
+        return call_llm(messages, section=section)
     except Exception as e:
         print(f"[KeywordGen] Error: {e}")
         return "ADHD, Neurodivergence"
@@ -471,8 +445,12 @@ def generate_blog(row):
     topic = row["topic"]
     keyword = row["primary_keyword"]
     slug = row["slug"]
-    meta_title = generate_emotional_meta_title(topic, keyword)
-    meta_title = enforce_keyword_presence(meta_title, keyword)
+
+    if SECTION_ENABLE_FLAGS.get("meta_title", True):
+        meta_title = generate_emotional_meta_title(topic, keyword)
+        meta_title = enforce_keyword_presence(meta_title, keyword)
+    else:
+        meta_title = topic
     keywords = row.get("keywords", "")
 
     sections = {}
@@ -480,6 +458,9 @@ def generate_blog(row):
 
     try:
         for section in section_order:
+            if not SECTION_ENABLE_FLAGS.get(section, True):
+                print(f"⏭️ Skipping section: {section}")
+                continue
             success = False
             log["section_attempts"].append({"section": section, "attempts": []})
 
@@ -504,25 +485,36 @@ def generate_blog(row):
                     break
 
                 except Exception as e:
+                    print(e)
                     log["section_attempts"][-1]["attempts"].append({"status": "fail", "error": str(e)})
 
             if not success:
                 log["status"] = "failed_section"
                 save_log(slug, log)
-                save_retry_payload(row, section)
+                if ENABLE_RETRIES:
+                    save_retry_payload(row, section)
                 return
 
         row["meta_title"] = meta_title
         blog = assemble_blog(sections, row)
-        generated_keywords = generate_keywords_from_blog(topic, blog)
-        gpt_keywords = [kw.strip() for kw in generated_keywords.split(",") if kw.strip()]
-        keywords = ",".join(gpt_keywords[:7])
 
-        flesch, grade = check_readability(blog)
-        log["readability"] = {"flesch": flesch, "grade": grade}
+        if SECTION_ENABLE_FLAGS.get("keyword_generation", True):
+            generated_keywords = generate_keywords_from_blog(topic, blog)
 
-        meta_desc = generate_meta_description(topic, keyword, blog)
-        meta_desc = enforce_keyword_presence(meta_desc, keyword)
+            gpt_keywords = [kw.strip() for kw in generated_keywords.split(",") if kw.strip()]
+            keywords = ",".join(gpt_keywords[:7])
+        else:
+            keywords = row.get("keywords", "")
+
+        if ENABLE_VALIDATION:
+            flesch, grade = check_readability(blog)
+            log["readability"] = {"flesch": flesch, "grade": grade}
+
+        if SECTION_ENABLE_FLAGS.get("meta_description", True):
+            meta_desc = generate_meta_description(topic, keyword, blog)
+            meta_desc = enforce_keyword_presence(meta_desc, keyword)
+        else:
+            meta_desc = ""
 
         log["meta_description"] = meta_desc
         front = build_front_matter(meta_title, meta_desc, slug, keywords)
