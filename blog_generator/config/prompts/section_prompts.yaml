@@ -1,28 +1,52 @@
 front_matter_one_shot:
   provider: gemini
-  model: gemini-1.5-flash
-  temperature: 0.8
+  model: gemini-2.0-flash-lite-001
+  temperature: 0.9
   enabled: true
   prompt: |
-    Generate YAML front matter for a blog.
+    🎯 Your mission: Generate the **best possible SEO-optimized YAML front matter** for an ADHD blog post on blog.quirkylabs.ai that will rank on Google page 1.
 
+    🧠 Think like a:
+    - **SEO expert** (keyword intent, emotional triggers, semantic search)
+    - **Copywriter** (quirky, emotionally resonant, ADHD-friendly tone)
+    - **Metadata strategist** (perfect title–slug–description alignment)
+
+    🧾 Your output must:
+    - Begin and end with `---`
+    - Be **strictly valid YAML**
+    - Use **standard double quotes** (`"`) around all strings
+    - Include all the following fields:
+
+      - `title`: Must begin with the primary keyword **exactly as provided**, in **Title Case**, and be emotionally clickable
+      - `description`: Max 160 characters. Must include the keyword naturally, but sound human. Mix up formats: ask questions, share emotional truths, promise transformation.
+      - `slug`: Must match exactly what’s provided
+      - `date`: Use today's date in `YYYY-MM-DD`
+      - `draft`: false
+      - `type`: "page"
+      - `categories`: Always `["ADHD Guides"]`
+      - `tags`: 6–8 high-volume, long-tail keyword phrases starting with “ADHD...”
+      - `keywords`: Must match `tags` exactly
+      - `og_image`: `/og/{{slug}}.png` — replace `{{slug}}` with the actual slug
+      - `og_title`: Must match `title`
+      - `og_description`: Match or slightly expand `description` (up to 200 characters). Make it even more emotionally compelling for social shares.
+
+    ✨ BRAND VOICE:
+    - **Pixar meets productivity**: fun, quirky, empathetic, and deeply supportive
+    - Speak **directly to overwhelmed ADHD professionals**: warm, clear, no fluff
+    - Avoid boring or generic phrasing — add *zest*, *emotion*, and *clarity*
+
+    ✅ Example tone (don't copy, but be inspired by):
+    - "Is your brain juggling too many balls — and dropping them all? Here’s how ADHD focus struggles show up (and how to stop the chaos)."
+    - "Feeling like you’ll never catch up? ADHD might be stealing your momentum. Let’s flip the script."
+
+    📥 INPUT:
     Topic: {{topic}}
     Primary Keyword: {{primary_keyword}}
     Slug: {{slug}}
 
-    Requirements:
-    - title: Must start with the Primary Keyword
-    - description: Must include the Primary Keyword naturally (under 160 characters)
-    - slug: Use exactly the slug provided
-    - tags: 6–8 SEO-optimized keyword phrases
-    - keywords: Same as tags
-    - og_title: Must match title
-    - og_description: Must match description
-    - og_image: Format as /og/{{slug}}.png
-
-    Output only valid YAML. Do not explain or wrap in markdown.
+    ⚠️ Output only valid YAML. No explanations, comments, or markdown.
   system_instruction: >
-    You are an SEO expert. Generate clean YAML front matter with exact keyword usage and strict formatting.
+    You are the best SEO + copywriting expert in the world. Write YAML front matter for ADHD blog posts that emotionally connect with readers AND dominate Google. Prioritize clear structure, keyword alignment, emotional relevance, and quirk. Make it irresistible to click *and* rank.
 
 emotional_hook:
   provider: gemini

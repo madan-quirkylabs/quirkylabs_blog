@@ -132,6 +132,18 @@ def generate_front_matter_from_one_call(row):
     ]
 
     try:
+        # 🧹 Extract clean YAML between the first pair of ---
+        if "---" in raw_yaml:
+            parts = raw_yaml.split("---")
+            if len(parts) >= 2:
+                raw_yaml = "---\n" + parts[1].strip()  # Keep only the YAML block
+            else:
+                print("⚠️ LLM output had a starting '---' but no valid block after.")
+
+        print("YAML output for front matter >>>>>>>>>>>>>> STARTS HERE")
+        print(raw_yaml)
+        print("YAML output for front matter <<<<<<<<<<<<<<<< ENDS HERE")
+
         parsed = yaml.safe_load(raw_yaml)
         if not isinstance(parsed, dict) or not all(k in parsed for k in REQUIRED_YAML_KEYS):
             raise ValueError("Missing required keys")
@@ -150,7 +162,7 @@ def generate_front_matter_from_one_call(row):
         parsed["og_description"] = parsed["description"]
         parsed["og_image"] = f"/og/{slug}.png"
 
-        return yaml.dump(parsed, sort_keys=False, allow_unicode=True)
+        return f"---\n{yaml.dump(parsed, sort_keys=False, allow_unicode=True)}---\n\n"
 
     except Exception as e:
         print(f"❌ Invalid front matter YAML: {e}")
