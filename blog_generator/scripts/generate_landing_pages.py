@@ -10,6 +10,7 @@ import re
 from bs4 import BeautifulSoup
 import requests
 import random  # ensure this is already at the top
+import yaml
 
 from core.llm_router import call_llm  # 🔄 updated to use call_llm
 
@@ -51,7 +52,7 @@ df["slug"] = df["slug"].apply(sanitize_slug)
 
 # Load prompts
 with open(SECTION_PROMPTS_PATH, "r", encoding="utf-8") as f:
-    prompts_dict = json.load(f)
+    prompts_dict = yaml.safe_load(f)
 
 faq_section_defs = prompts_dict.get("faq_sections", [])
 faq_section_keys = [fs["key"] for fs in faq_section_defs]
@@ -235,6 +236,8 @@ categories: [\"ADHD Guides\"]
 tags: {kws}
 keywords: {kws}
 og_image: \"/og/{slug}.png\"
+og_title: "{clean_title}"
+og_description: "{clean_desc}"
 ---\n\n"""
 
 def assemble_blog(sections, row):

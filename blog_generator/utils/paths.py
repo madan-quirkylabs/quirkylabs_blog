@@ -17,7 +17,7 @@ RETRIES_DIR = os.path.join(OUTPUT_DIR, "retries")
 PERMANENT_FAILURE_DIR = os.path.join(OUTPUT_DIR, "failure")
 
 # Important config file paths
-SECTION_PROMPTS_PATH = os.path.join(PROMPTS_DIR, "section_prompts.json")
+SECTION_PROMPTS_PATH = os.path.join(PROMPTS_DIR, "section_prompts.yaml")
 PILLAR_CONFIG_PATH = os.path.join(PROMPTS_DIR, "pillar_config.json")
 SETTINGS_PATH = os.path.join(CONFIG_DIR, "settings.yaml")
 
