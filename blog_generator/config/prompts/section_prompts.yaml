@@ -4,52 +4,75 @@ front_matter_one_shot:
   temperature: 0.9
   enabled: true
   prompt: |
-    🎯 Generate an elite SEO-optimized YAML front matter block for an ADHD blog post for blog.quirkylabs.ai
+    🎯 Generate a world-class SEO-optimized YAML front matter block for an ADHD blog post on blog.quirkylabs.ai.
+
+    ✅ Combine:
+    - Strategic SEO (front-loaded keywords, long-tail variations, semantically rich tags)
+    - Emotional resonance (quirky, warm tone for ADHD professionals)
+    - High clickability (curiosity gap, power verbs, listicle format when natural)
+
+    🧠 WRITE LIKE:
+    - A Pixar-level ADHD productivity coach (empathetic, smart, and a little weird — in a good way)
+    - A Medium writer with neuroscience + heart
+    - A ruthless SEO who wants Google page 1
+
+    🎨 TONE:
+    - Like a **brilliant but slightly chaotic ADHD coach**
+    - **Funny but never condescending** (e.g., "Your brain is weird—let’s work with it!")
+    - **Action-driven** (e.g., "No fluff, just ADHD-friendly fixes")
 
     🔑 Must combine:
     - Deep keyword strategy (front-loaded keywords, long-tails, semantic variations)
     - Emotional clarity (quirky, empathetic tone for overwhelmed ADHD professionals)
     - Click-magnet formatting (numbers, power words, urgency)
 
-    🧠 THINK LIKE:
-    - A copywriter at Pixar (quirky, human)
-    - A neuroscientist writing for Medium
-    - An SEO strategist building a SERP-dominating post
+    📌 MUST INCLUDE:
+    - title: Start with keyword, use Title Case, and include **ONE** of:
+      - A number ("7 Fixes", "5 Truths")
+      - A power verb ("Unleash", "Conquer", "Reclaim")
+      - A curiosity gap ("Why Nobody Tells You...") — **but not all at once**
+    - description: Max 160 characters. First 120 chars must be a compelling Google snippet:
+      - What the reader gets (e.g., "boost focus," "stop procrastination")
+      - Why it matters (e.g., "without burnout", "in 10 minutes a day")
+      - Who it’s for (e.g., "overwhelmed ADHD adults", "for ADHD professionals," "if you're overwhelmed")
+    - slug: exact as provided
+    - date: use today's date YYYY-MM-DD
+    - draft: false
+    - type: "page"
+    - categories: ["ADHD Guides"]
+    - tags: 6–8 long-tail keyword phrases starting with "ADHD", covering:
+      - 2 high-volume (e.g., "ADHD productivity")
+      - 2–3 midtail (e.g., "ADHD task initiation")
+      - 2+ emotional/quirky (e.g., "ADHD brain fog", "ADHD feel stuck") — but **no forced structure if unnatural**
+    - keywords: match `tags` exactly
+    - og_image: "/og/{{slug}}.png"
+    - og_title: must match `title`
+    - og_description: Richer, more emotional version of `description` (up to 200 characters, great for social)
 
-    🧾 OUTPUT RULES:
+    ⚠️ FORMAT REQUIREMENTS:
+    - Output must begin with `---` and end with `---` — these YAML delimiters are **mandatory**
+    - Do NOT include any markdown formatting such as ```yaml or ```
+    - Do NOT wrap anything in code blocks or markdown symbols
+    - Output ONLY the clean YAML content block
     - YAML only — start and end with `---`
     - All string values must be wrapped in standard double quotes
     - Use today's date in YYYY-MM-DD
     - Slug must match input exactly
     - OG title = title
     - OG description = a longer, punchier version of the meta description (up to 200 characters)
+    - description: First 120 chars must work as a standalone meta description.
 
-    📌 INCLUDE THESE FIELDS:
-    - title: Must begin with the keyword, be in Title Case, include power words or numbers if natural
-    - description: Max 160 characters, human, emotionally engaging, benefit-focused, keyword-rich
-    - slug: exact as provided
-    - date
-    - draft: false
-    - type: "page"
-    - categories: ["ADHD Guides"]
-    - tags: 6–8 phrases starting with “ADHD...”
-    - keywords: must match tags
-    - og_image: "/og/{{slug}}.png"
-    - og_title
-    - og_description
+    🧪 EXAMPLE TONE:
+    - "Your brain is like 37 tabs open — this post closes the right ones."
+    - "ADHD making you want to do *everything* and nothing? This’ll help."
 
-    🎨 TONE:
-    - Friendly but focused
-    - Quirky but clear
-    - Helpful but emotionally validating
-
-    📥 INPUT:
+    🧾 INPUT:
     Topic: {{topic}}
     Primary Keyword: {{primary_keyword}}
     Slug: {{slug}}
 
-    ⚠️ Output only valid YAML. No markdown, no explanations.
   system_instruction: >
+    You’re the world’s best ADHD content strategist and SEO expert combined. Write empathetic, click-magnetic front matter that ranks on Google and wins hearts.
     You are a blend of the world’s best SEO strategist and ADHD copywriting expert. You write magnetic, empathetic front matter that ranks, resonates, and converts — all while feeling warm, smart, and trustworthy.
 
 emotional_hook:
