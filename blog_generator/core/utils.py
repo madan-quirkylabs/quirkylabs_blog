@@ -1,20 +1,20 @@
-# utils/file_ops.py
+# core/utils.py
 
 import os
 import shutil
 
+# ------------------------------
+# File Operations
+# ------------------------------
 def delete_file(filepath):
-    """Delete a file safely."""
     if os.path.exists(filepath):
         os.remove(filepath)
 
 def move_file(src_path, dest_path):
-    """Move a file from source to destination."""
     if os.path.exists(src_path):
         shutil.move(src_path, dest_path)
 
 def create_folder_if_missing(folder_path):
-    """Create folder if it doesn't exist."""
     os.makedirs(folder_path, exist_ok=True)
 
 def get_section_path(slug, section_name, ext="md"):
@@ -33,3 +33,24 @@ def load_section(slug, section_name, ext="md"):
         with open(path, "r", encoding="utf-8") as f:
             return f.read()
     return None
+
+# ------------------------------
+# Console Colors
+# ------------------------------
+class bcolors:
+    HEADER = '\033[95m'
+    OKBLUE = '\033[94m'
+    OKGREEN = '\033[92m'
+    WARNING = '\033[93m'
+    FAIL = '\033[91m'
+    ENDC = '\033[0m'
+    BOLD = '\033[1m'
+    UNDERLINE = '\033[4m'
+
+# ------------------------------
+# Directory Creation Utility
+# ------------------------------
+def ensure_directories(paths: dict):
+    for key, path in paths.items():
+        if "output" in key:
+            os.makedirs(path, exist_ok=True)

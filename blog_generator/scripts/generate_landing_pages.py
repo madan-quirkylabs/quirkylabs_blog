@@ -12,19 +12,19 @@ import requests
 import random  # ensure this is already at the top
 import yaml
 
-from core.llm_router import call_llm  # 🔄 updated to use call_llm
+from core.llm_client import call_llm  # 🔄 updated to use call_llm
 
 # Setup project path
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
 # Load internal modules
-from utils.paths import INPUT_DIR, SUCCESS_DIR, FAILURE_DIR, LOGS_DIR, SECTION_PROMPTS_PATH, RETRIES_DIR
-from config.config_loader import load_config, load_pillar_config
+from core.config import INPUT_DIR, SUCCESS_DIR, FAILURE_DIR, LOGS_DIR, SECTION_PROMPTS_PATH, RETRIES_DIR
+from core.config import load_config, load_pillar_config
 
 # Configure logging
 logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
 
-from utils.file_ops import save_section, load_section
+from core.utils import save_section, load_section
 
 # Load config and OpenAI client
 config = load_config()

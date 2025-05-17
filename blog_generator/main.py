@@ -1,5 +1,5 @@
 import importlib.util
-from utils.colors import bcolors
+from core.utils import bcolors
 
 ENABLE_RETRIES = False
 
