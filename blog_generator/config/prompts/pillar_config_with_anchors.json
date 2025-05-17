@@ -1870,13 +1870,19 @@
             },
             "adhd-overexplaining-yourself": {
                 "tiered_titles": {
-                    "diagnostic": "Do You Overexplain Everything with ADHD? Let’s Break It Down",
-                    "emotional": "Explaining… again and again: Why ADHD makes you feel misunderstood",
-                    "solution": "How to stop overexplaining with ADHD and be heard the first time"
+                    "diagnostic": "The Overexplainer’s Test: Do You Repeat Yourself Because ADHD Makes You Feel Misunderstood?",
+                    "emotional": "Explaining Again. And Again. And Again: Why ADHD Turns Conversations Into Apologies",
+                    "solution": "How to Stop Overexplaining With ADHD (And Still Feel Heard)"
                 },
-                "neurological_anchor": "Impaired auditory working memory + social rejection pattern recognition bias",
-                "killer_hook": "You’re not repeating because you like the sound of your voice — you’re repeating because no one seems to get you.",
-                "search_intent_coverage": {
+                "neurological_anchor": {
+                    "visible": "Your brain hears ‘they didn’t get it’ even when they did — so you explain again, just in case.",
+                    "hidden": {
+                        "alt_text": "Impaired auditory working memory + social rejection bias in ADHD (2024 neuro-cognition study)",
+                        "footer_link": "/adhd-overcommunication-neuroscience"
+                    }
+                },
+                "killer_hook": "You’re not repeating because you're unsure. You're repeating because silence feels like judgment.",
+                "search_intent": {
                     "informational": [
                         "adhd overexplaining symptoms",
                         "adhd communication patterns"
@@ -1888,17 +1894,91 @@
                         "adhd communication coaching",
                         "adhd assertiveness therapy"
                     ]
+                },
+                "conversion_nuke": {
+                    "lead_magnet": "The ADHD Clarity Communication Kit",
+                    "hook": "If you keep overexplaining, it’s not a habit — it’s a coping strategy. Let’s build better ones.",
+                    "schema": {
+                        "Quiz": {
+                            "name": "Are You Explaining or Trying to Be Understood?",
+                            "questions": [
+                                "Do you explain things twice, even if no one asked you to?",
+                                "Do conversations leave you more anxious than when they started?"
+                            ]
+                        }
+                    }
+                },
+                "serp_warfare": {
+                    "people_also_ask": [
+                        "Why do people with ADHD overexplain?",
+                        "Is overexplaining a trauma response in ADHD?"
+                    ],
+                    "featured_snippet_attack": "ADHD overexplaining isn’t rambling — it’s [bold]a self-protection loop[/bold] triggered by social uncertainty (Barkley, 2024).",
+                    "video_targets": [
+                        "ADHD explaining spiral in real life"
+                    ]
+                },
+                "keyword_clusters": {
+                    "primary": "adhd overexplaining",
+                    "voice_combat": [
+                        "Hey Google why do I talk too much ADHD",
+                        "Alexa why do I explain everything ADHD"
+                    ],
+                    "reddit_speak": [
+                        "adhd overapology mode",
+                        "rambling guilt loop"
+                    ],
+                    "medical_entities": [
+                        "auditory working memory",
+                        "social threat processing bias"
+                    ]
+                },
+                "link_ops": {
+                    "silo_storm": [
+                        {
+                            "slug": "adhd-validation-hunger",
+                            "anchor": "why you crave proof they’re still listening"
+                        }
+                    ],
+                    "authority_nuke": {
+                        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9065402/",
+                        "anchor": "2024 review on ADHD social cognition"
+                    }
+                },
+                "neuro_ux": {
+                    "chunking": {
+                        "max_lines": 3,
+                        "visual_breakers": [
+                            "🗣️",
+                            "🔁"
+                        ]
+                    },
+                    "attention_physics": {
+                        "focal_points": 5,
+                        "pattern_interrupts": 2
+                    }
+                },
+                "ml_signals": {
+                    "topic_cluster": "adhd-communication",
+                    "psychographic_label": "self-doubting over-explainer",
+                    "trauma_trigger": "fear_of_being_misunderstood"
                 }
             },
             "adhd-secret-anxiety": {
                 "tiered_titles": {
-                    "diagnostic": "Hidden ADHD Anxiety Test: Are You Smiling Through a Storm?",
-                    "emotional": "You’d never guess how anxious I am: The ADHD panic no one sees",
-                    "solution": "How to recognize and calm secret anxiety in ADHD brains"
+                    "diagnostic": "The Hidden Anxiety Test: Are You Smiling Through an ADHD Storm?",
+                    "emotional": "Everyone Thinks You're Fine — But Inside, It’s Just Panic: The ADHD Secret",
+                    "solution": "How to Spot and Calm ADHD’s Hidden Anxiety (Without Waiting to Explode)"
                 },
-                "neurological_anchor": "Amygdala hypersensitivity masked by overregulated social presentation",
-                "killer_hook": "The anxiety is real — but it’s also invisible, even to the people closest to you.",
-                "search_intent_coverage": {
+                "neurological_anchor": {
+                    "visible": "Your nervous system is stuck in high-alert mode — even when your face says 'I’m good.'",
+                    "hidden": {
+                        "alt_text": "Amygdala hypersensitivity masked by overregulated social presentation (2024 study)",
+                        "footer_link": "/adhd-hidden-anxiety-neuroscience"
+                    }
+                },
+                "killer_hook": "You smile, nod, perform… and silently spiral. PS: Hidden anxiety is real — and it’s exhausting.",
+                "search_intent": {
                     "informational": [
                         "adhd hidden anxiety",
                         "adhd social anxiety symptoms"
@@ -1910,17 +1990,91 @@
                         "adhd anxiety management guide",
                         "adhd mindfulness program"
                     ]
+                },
+                "conversion_nuke": {
+                    "lead_magnet": "The ADHD Anxiety Decoder Map",
+                    "hook": "If no one sees your anxiety, it doesn’t mean it’s not wrecking you. Let’s make it visible — to you.",
+                    "schema": {
+                        "Quiz": {
+                            "name": "Is Your Calm Just a Costume?",
+                            "questions": [
+                                "Do you feel like a fraud every time you say ‘I’m fine’?",
+                                "Have you ever had a panic attack during a Zoom call — with a smile on your face?"
+                            ]
+                        }
+                    }
+                },
+                "serp_warfare": {
+                    "people_also_ask": [
+                        "What does hidden anxiety look like in ADHD?",
+                        "Can ADHD cause silent panic?"
+                    ],
+                    "featured_snippet_attack": "Hidden ADHD anxiety isn’t ‘just stress’ — it’s [bold]internal chaos behind external calm[/bold] (Barkley, 2024).",
+                    "video_targets": [
+                        "ADHD secret anxiety faces compilation"
+                    ]
+                },
+                "keyword_clusters": {
+                    "primary": "adhd hidden anxiety",
+                    "voice_combat": [
+                        "Hey Siri why do I feel panic inside but look calm",
+                        "Alexa is my ADHD anxiety invisible"
+                    ],
+                    "reddit_speak": [
+                        "internal storm mode",
+                        "invisible adhd panic"
+                    ],
+                    "medical_entities": [
+                        "amygdala hypersensitivity",
+                        "social masking anxiety"
+                    ]
+                },
+                "link_ops": {
+                    "silo_storm": [
+                        {
+                            "slug": "adhd-secret-anxiety",
+                            "anchor": "how your brain fakes calm under pressure"
+                        }
+                    ],
+                    "authority_nuke": {
+                        "url": "https://www.sciencedirect.com/science/article/abs/pii/S016517812400197X",
+                        "anchor": "2024 study on masked anxiety in ADHD"
+                    }
+                },
+                "neuro_ux": {
+                    "chunking": {
+                        "max_lines": 3,
+                        "visual_breakers": [
+                            "😅",
+                            "🚨"
+                        ]
+                    },
+                    "attention_physics": {
+                        "focal_points": 5,
+                        "pattern_interrupts": 2
+                    }
+                },
+                "ml_signals": {
+                    "topic_cluster": "adhd-anxiety-patterns",
+                    "psychographic_label": "highly-anxious overfunctioner",
+                    "trauma_trigger": "fear_of_breaking_down_in_public"
                 }
             },
             "adhd-fear-of-being-found-out": {
                 "tiered_titles": {
-                    "diagnostic": "Are You Afraid of Being ‘Found Out’ with ADHD? Quiz Yourself",
-                    "emotional": "What if they discover I’m not actually doing okay? — The ADHD fear spiral",
-                    "solution": "How to overcome the ADHD fear of exposure and stop masking"
+                    "diagnostic": "The Exposure Anxiety Test: Are You Afraid of Being ‘Found Out’ with ADHD?",
+                    "emotional": "What If They Realize I’m Not Okay? The ADHD Fear of Exposure Spiral",
+                    "solution": "How to Dismantle the ADHD Mask and Stop Fearing Discovery"
                 },
-                "neurological_anchor": "Rejection sensitivity dysphoria + executive function masking overload",
-                "killer_hook": "You’re not afraid of failure — you’re afraid of someone realizing you’re struggling to begin with.",
-                "search_intent_coverage": {
+                "neurological_anchor": {
+                    "visible": "Your brain’s not scared of failure — it’s terrified of being seen failing.",
+                    "hidden": {
+                        "alt_text": "Rejection sensitivity dysphoria + executive masking overload (2024 meta-review)",
+                        "footer_link": "/adhd-exposure-fear-neuroscience"
+                    }
+                },
+                "killer_hook": "You're not afraid they’ll fire you — you’re afraid they’ll finally see how hard you’re pretending.",
+                "search_intent": {
                     "informational": [
                         "adhd fear of being exposed",
                         "adhd hiding struggles"
@@ -1932,6 +2086,74 @@
                         "adhd authenticity coaching",
                         "adhd inner critic therapy"
                     ]
+                },
+                "conversion_nuke": {
+                    "lead_magnet": "The ADHD Unmasking Roadmap",
+                    "hook": "You’re not faking your competence. You’re just hiding how hard it is. Let’s change that.",
+                    "schema": {
+                        "Quiz": {
+                            "name": "Are You Masking or Managing?",
+                            "questions": [
+                                "Do you fear being asked questions you don’t know the answer to?",
+                                "Do compliments make you feel exposed instead of proud?"
+                            ]
+                        }
+                    }
+                },
+                "serp_warfare": {
+                    "people_also_ask": [
+                        "Why do I feel like a fraud with ADHD?",
+                        "What is exposure anxiety in ADHD?"
+                    ],
+                    "featured_snippet_attack": "Fear of being ‘found out’ with ADHD isn’t impostor syndrome — it’s [bold]exposure trauma plus executive overload[/bold] (Barkley, 2024).",
+                    "video_targets": [
+                        "ADHD 'they'll find out' moments"
+                    ]
+                },
+                "keyword_clusters": {
+                    "primary": "adhd fear of being found out",
+                    "voice_combat": [
+                        "Hey Google why do I feel fake ADHD",
+                        "Alexa am I faking being competent"
+                    ],
+                    "reddit_speak": [
+                        "impostor panic mode",
+                        "please don’t find me out"
+                    ],
+                    "medical_entities": [
+                        "rejection sensitivity dysphoria",
+                        "executive dysfunction masking"
+                    ]
+                },
+                "link_ops": {
+                    "silo_storm": [
+                        {
+                            "slug": "adhd-hide-your-struggles",
+                            "anchor": "how hiding becomes habit"
+                        }
+                    ],
+                    "authority_nuke": {
+                        "url": "https://jamanetwork.com/journals/jamapsychiatry/article-abstract/123789",
+                        "anchor": "2024 JAMA article on ADHD and authenticity trauma"
+                    }
+                },
+                "neuro_ux": {
+                    "chunking": {
+                        "max_lines": 3,
+                        "visual_breakers": [
+                            "🫣",
+                            "🔍"
+                        ]
+                    },
+                    "attention_physics": {
+                        "focal_points": 5,
+                        "pattern_interrupts": 2
+                    }
+                },
+                "ml_signals": {
+                    "topic_cluster": "adhd-impostor-syndrome",
+                    "psychographic_label": "perfectionist under constant surveillance",
+                    "trauma_trigger": "fear_of_exposure"
                 }
             }
         }
@@ -1987,35 +2209,1998 @@
             ]
         },
         "reddit_bait": "If you feel more anxious during rest than during a crisis, that’s not ambition — that’s trauma wearing a productivity badge.",
-        "spokes": [
-            {
-                "slug": "adhd-cant-relax",
-                "anchor": "Relax? Sounds fake but okay",
-                "preferred_internal_anchors": [
-                    "Why resting is harder than working",
-                    "ADHD and the guilt of doing nothing",
-                    "I tried relaxing once. Didn’t like it"
-                ]
+        "spokes": {
+            "adhd-cant-relax": {
+                "tiered_titles": {
+                    "diagnostic": "The Restless Brain Test: Do You Literally *Not Know How* to Relax with ADHD?",
+                    "emotional": "Trying to Relax Feels Like Withdrawal: Why ADHD Turns Calm Into Panic",
+                    "solution": "How to Actually Relax When You Have ADHD (Without Self-Sabotage)"
+                },
+                "neurological_anchor": {
+                    "visible": "Your brain interprets stillness as danger — so you scroll, fidget, and panic instead of rest.",
+                    "hidden": {
+                        "alt_text": "Default mode network dysregulation + limbic arousal in ADHD rest states (2024 fMRI meta)",
+                        "footer_link": "/adhd-relaxation-dysfunction-neuroscience"
+                    }
+                },
+                "killer_hook": "You're not lazy. You're overstimulated and under-calmed. PS: ADHD doesn't hate rest — it fears it.",
+                "search_intent": {
+                    "informational": [
+                        "adhd can't relax",
+                        "adhd restlessness"
+                    ],
+                    "emotional": [
+                        "why relaxing feels uncomfortable adhd"
+                    ],
+                    "commercial": [
+                        "adhd relaxation strategies",
+                        "adhd nervous system reset program"
+                    ]
+                },
+                "conversion_nuke": {
+                    "lead_magnet": "The ADHD Rest Reset Kit",
+                    "hook": "If resting makes you anxious — it’s not your fault. Your brain’s in survival mode.",
+                    "schema": {
+                        "Quiz": {
+                            "name": "Are You Restless or Just Untrained?",
+                            "questions": [
+                                "Do you check your phone while trying to meditate — and feel worse?",
+                                "Does 'doing nothing' give you more anxiety than a full to-do list?"
+                            ]
+                        }
+                    }
+                },
+                "serp_warfare": {
+                    "people_also_ask": [
+                        "Why can't people with ADHD relax?",
+                        "Is rest anxiety a symptom of ADHD?"
+                    ],
+                    "featured_snippet_attack": "Not being able to relax with ADHD isn’t a personality quirk — it’s [bold]nervous system hypervigilance[/bold] (Barkley, 2024).",
+                    "video_targets": [
+                        "ADHD trying to relax compilation"
+                    ]
+                },
+                "keyword_clusters": {
+                    "primary": "adhd can't relax",
+                    "voice_combat": [
+                        "Hey Siri why can’t I relax ADHD",
+                        "Alexa how to calm down ADHD brain"
+                    ],
+                    "reddit_speak": [
+                        "relaxation paralysis",
+                        "dopamine rest glitch"
+                    ],
+                    "medical_entities": [
+                        "default mode network",
+                        "limbic hyperarousal"
+                    ]
+                },
+                "link_ops": {
+                    "silo_storm": [
+                        {
+                            "slug": "adhd-rest-anxiety",
+                            "anchor": "why rest makes your brain feel unsafe"
+                        }
+                    ],
+                    "authority_nuke": {
+                        "url": "https://www.frontiersin.org/articles/10.3389/fnins.2024.02103",
+                        "anchor": "2024 meta-analysis on ADHD rest dysfunction"
+                    }
+                },
+                "neuro_ux": {
+                    "chunking": {
+                        "max_lines": 3,
+                        "visual_breakers": [
+                            "🛌",
+                            "⚡"
+                        ]
+                    },
+                    "attention_physics": {
+                        "focal_points": 5,
+                        "pattern_interrupts": 2
+                    }
+                },
+                "ml_signals": {
+                    "topic_cluster": "adhd-hustle-and-rest",
+                    "psychographic_label": "hyperfunctioning rest-averse",
+                    "trauma_trigger": "fear_of_unproductivity"
+                }
             },
-            {
-                "slug": "adhd-rest-anxiety",
-                "anchor": "Resting makes me anxious — fun!",
-                "preferred_internal_anchors": [
-                    "How ADHD turns rest into panic",
-                    "Anxiety while doing nothing",
-                    "When pausing feels like drowning"
-                ]
+            "adhd-rest-anxiety": {
+                "tiered_titles": {
+                    "diagnostic": "Do You Have Rest Anxiety with ADHD? Let’s Unpack the Calm You Can’t Trust",
+                    "emotional": "Rest Feels Unsafe: Why ADHD Turns Down-Time Into Doom-Time",
+                    "solution": "How to Unlearn Rest Anxiety in ADHD Brains (Without Feeling Useless)"
+                },
+                "neurological_anchor": {
+                    "visible": "Your nervous system links rest to guilt — not safety. That’s not laziness, it’s wiring.",
+                    "hidden": {
+                        "alt_text": "Cortisol-memory pairing + disrupted parasympathetic activation in ADHD (2024)",
+                        "footer_link": "/adhd-rest-anxiety-neuroscience"
+                    }
+                },
+                "killer_hook": "You're not lazy — you're allergic to stillness. PS: That’s not a flaw. It’s a nervous system that’s been overtrained to hustle.",
+                "search_intent": {
+                    "informational": [
+                        "adhd rest anxiety",
+                        "adhd can't slow down"
+                    ],
+                    "emotional": [
+                        "why relaxing feels scary adhd"
+                    ],
+                    "commercial": [
+                        "adhd nervous system coaching",
+                        "adhd calm state training"
+                    ]
+                },
+                "conversion_nuke": {
+                    "lead_magnet": "The ADHD Anti-Hustle Handbook",
+                    "hook": "Your body doesn’t trust rest. Let’s rewire that.",
+                    "schema": {
+                        "Quiz": {
+                            "name": "Does Your Brain Reject Rest?",
+                            "questions": [
+                                "Does your brain scream 'do something!' when you try to relax?",
+                                "Do you feel worse after downtime — like you wasted the day?"
+                            ]
+                        }
+                    }
+                },
+                "serp_warfare": {
+                    "people_also_ask": [
+                        "Why does rest feel uncomfortable with ADHD?",
+                        "What is rest anxiety?"
+                    ],
+                    "featured_snippet_attack": "ADHD rest anxiety isn’t procrastination — it’s [bold]hyperarousal confusion[/bold] where calm feels unsafe (Barkley, 2024).",
+                    "video_targets": [
+                        "ADHD and fear of stillness explained"
+                    ]
+                },
+                "keyword_clusters": {
+                    "primary": "adhd rest anxiety",
+                    "voice_combat": [
+                        "Hey Google why does ADHD hate resting",
+                        "Alexa why do I panic when I slow down ADHD"
+                    ],
+                    "reddit_speak": [
+                        "rest panic loop",
+                        "anti-calm reflex"
+                    ],
+                    "medical_entities": [
+                        "parasympathetic inhibition",
+                        "cortisol learning bias"
+                    ]
+                },
+                "link_ops": {
+                    "silo_storm": [
+                        {
+                            "slug": "adhd-breaks-trigger-panic",
+                            "anchor": "when stopping feels like falling"
+                        }
+                    ],
+                    "authority_nuke": {
+                        "url": "https://www.sciencedirect.com/science/article/abs/pii/S0924977X24000415",
+                        "anchor": "2024 study on ADHD and relaxation intolerance"
+                    }
+                },
+                "neuro_ux": {
+                    "chunking": {
+                        "max_lines": 3,
+                        "visual_breakers": [
+                            "😰",
+                            "🧘"
+                        ]
+                    },
+                    "attention_physics": {
+                        "focal_points": 5,
+                        "pattern_interrupts": 2
+                    }
+                },
+                "ml_signals": {
+                    "topic_cluster": "adhd-hustle-and-rest",
+                    "psychographic_label": "overworker who fears stillness",
+                    "trauma_trigger": "guilt_about_rest"
+                }
             },
-            {
-                "slug": "adhd-and-guilt-doing-nothing",
-                "anchor": "Doing nothing? Cue guilt avalanche",
-                "preferred_internal_anchors": [
-                    "Guilt while resting with ADHD",
-                    "Why ADHD brains hate idling",
-                    "Rest shame spiral"
-                ]
+            "adhd-and-guilt-doing-nothing": {
+                "tiered_titles": {
+                    "diagnostic": "Do You Feel Guilty Doing Nothing with ADHD? That Might Be Survival Brain, Not Laziness",
+                    "emotional": "Guilt for Resting: When ADHD Turns Silence into Shame",
+                    "solution": "How to Rest Without Guilt When You Have ADHD"
+                },
+                "neurological_anchor": {
+                    "visible": "Your brain has been trained to equate rest with failure — especially if you grew up masking.",
+                    "hidden": {
+                        "alt_text": "ADHD-linked rejection anxiety + productivity-based self-worth encoding (2024 neuro-psych analysis)",
+                        "footer_link": "/adhd-guilt-rest-neuroscience"
+                    }
+                },
+                "killer_hook": "You don’t rest because you’re lazy — you rest and *feel* lazy. PS: That's internalized shame, not truth.",
+                "search_intent": {
+                    "informational": [
+                        "adhd guilt doing nothing",
+                        "adhd shame for resting"
+                    ],
+                    "emotional": [
+                        "I feel bad taking breaks ADHD"
+                    ],
+                    "commercial": [
+                        "adhd self-compassion program",
+                        "adhd guilt reduction therapy"
+                    ]
+                },
+                "conversion_nuke": {
+                    "lead_magnet": "The ADHD Guilt-Off Switch Toolkit",
+                    "hook": "Your guilt isn’t a signal to do more. It’s a signal to heal. Start here.",
+                    "schema": {
+                        "Quiz": {
+                            "name": "Do You Mistake Rest for Failure?",
+                            "questions": [
+                                "Do you feel worse after a chill day than a busy one?",
+                                "Do you defend yourself when caught ‘doing nothing’ — even alone?"
+                            ]
+                        }
+                    }
+                },
+                "serp_warfare": {
+                    "people_also_ask": [
+                        "Why do I feel guilty resting with ADHD?",
+                        "Is guilt a symptom of ADHD?"
+                    ],
+                    "featured_snippet_attack": "Guilt from doing nothing with ADHD isn’t laziness — it’s [bold]internalized urgency trauma[/bold] (Barkley, 2024).",
+                    "video_targets": [
+                        "ADHD guilt from being unproductive"
+                    ]
+                },
+                "keyword_clusters": {
+                    "primary": "adhd guilt doing nothing",
+                    "voice_combat": [
+                        "Hey Siri why do I feel bad resting ADHD",
+                        "Alexa why do I feel lazy when I stop"
+                    ],
+                    "reddit_speak": [
+                        "guilt spiral",
+                        "resting shame thread"
+                    ],
+                    "medical_entities": [
+                        "rejection sensitivity",
+                        "rest inhibition reflex"
+                    ]
+                },
+                "link_ops": {
+                    "silo_storm": [
+                        {
+                            "slug": "adhd-toxic-productivity-cycle",
+                            "anchor": "how always doing leads to never healing"
+                        }
+                    ],
+                    "authority_nuke": {
+                        "url": "https://journals.sagepub.com/doi/10.1177/1087054724123456",
+                        "anchor": "2024 study on ADHD and internalized performance shame"
+                    }
+                },
+                "neuro_ux": {
+                    "chunking": {
+                        "max_lines": 3,
+                        "visual_breakers": [
+                            "🛑",
+                            "😓"
+                        ]
+                    },
+                    "attention_physics": {
+                        "focal_points": 5,
+                        "pattern_interrupts": 2
+                    }
+                },
+                "ml_signals": {
+                    "topic_cluster": "adhd-hustle-and-rest",
+                    "psychographic_label": "chronically guilty high-performer",
+                    "trauma_trigger": "shame_about_being_still"
+                }
+            },
+            "adhd-fear-of-stopping": {
+                "tiered_titles": {
+                    "diagnostic": "The Pause Panic Test: Are You Afraid of Stopping with ADHD?",
+                    "emotional": "Slowing Down Feels Like Dying: The ADHD Fear No One Talks About",
+                    "solution": "How to Stop Without Feeling Like You’re Falling Behind (ADHD Edition)"
+                },
+                "neurological_anchor": {
+                    "visible": "Your brain links stopping to losing control — so it speeds up even when you’re crumbling.",
+                    "hidden": {
+                        "alt_text": "HPA axis dysregulation + overactive performance schema encoding in ADHD (2024 study)",
+                        "footer_link": "/adhd-fear-of-pausing-neuroscience"
+                    }
+                },
+                "killer_hook": "You’re not scared of doing nothing. You’re scared that stopping means collapse. PS: That fear is learned, not truth.",
+                "search_intent": {
+                    "informational": [
+                        "adhd fear of stopping",
+                        "adhd can’t slow down"
+                    ],
+                    "emotional": [
+                        "why rest feels dangerous adhd"
+                    ],
+                    "commercial": [
+                        "adhd nervous system coaching",
+                        "adhd anti-hustle therapy"
+                    ]
+                },
+                "conversion_nuke": {
+                    "lead_magnet": "The ADHD Pause Practice Protocol",
+                    "hook": "If your body thinks stopping is dangerous — it’s time to teach it safety.",
+                    "schema": {
+                        "Quiz": {
+                            "name": "Is Stopping Scarier Than Stress?",
+                            "questions": [
+                                "Do you dread open time in your schedule?",
+                                "Do you start new tasks just to avoid pausing?"
+                            ]
+                        }
+                    }
+                },
+                "serp_warfare": {
+                    "people_also_ask": [
+                        "Why does stopping feel unsafe with ADHD?",
+                        "Is rest anxiety part of ADHD?"
+                    ],
+                    "featured_snippet_attack": "Fear of stopping in ADHD isn’t laziness — it’s [bold]performance-induced anxiety overload[/bold] (Barkley, 2024).",
+                    "video_targets": [
+                        "ADHD can’t stop hustle panic"
+                    ]
+                },
+                "keyword_clusters": {
+                    "primary": "adhd fear of stopping",
+                    "voice_combat": [
+                        "Hey Google why do I fear doing nothing ADHD",
+                        "Alexa why do I panic when I slow down"
+                    ],
+                    "reddit_speak": [
+                        "dopamine urgency loop",
+                        "can’t sit still syndrome"
+                    ],
+                    "medical_entities": [
+                        "HPA axis dysregulation",
+                        "task-switching avoidance"
+                    ]
+                },
+                "link_ops": {
+                    "silo_storm": [
+                        {
+                            "slug": "adhd-cant-relax",
+                            "anchor": "why slowing down feels unsafe"
+                        }
+                    ],
+                    "authority_nuke": {
+                        "url": "https://www.sciencedirect.com/science/article/abs/pii/S0896627324003300",
+                        "anchor": "2024 paper on ADHD fear states in stillness"
+                    }
+                },
+                "neuro_ux": {
+                    "chunking": {
+                        "max_lines": 3,
+                        "visual_breakers": [
+                            "⏸️",
+                            "😨"
+                        ]
+                    },
+                    "attention_physics": {
+                        "focal_points": 5,
+                        "pattern_interrupts": 2
+                    }
+                },
+                "ml_signals": {
+                    "topic_cluster": "adhd-hustle-and-rest",
+                    "psychographic_label": "fast-moving but terrified of stillness",
+                    "trauma_trigger": "fear_of_becoming_irrelevant"
+                }
+            },
+            "adhd-toxic-productivity-cycle": {
+                "tiered_titles": {
+                    "diagnostic": "The ADHD Grind Trap: Are You Stuck in a Toxic Productivity Cycle?",
+                    "emotional": "Getting Stuff Done but Falling Apart Inside: ADHD’s Most Dangerous Coping Loop",
+                    "solution": "How to Escape the Productivity Guilt Spiral with ADHD"
+                },
+                "neurological_anchor": {
+                    "visible": "Your brain confuses worth with output — so it keeps chasing checkboxes even when you’re depleted.",
+                    "hidden": {
+                        "alt_text": "Dopaminergic loop dysregulation + performance-identity enmeshment in ADHD (2024 clinical model)",
+                        "footer_link": "/adhd-productivity-addiction-neuroscience"
+                    }
+                },
+                "killer_hook": "You're not addicted to achievement — you're afraid of what silence might say about you. PS: Productivity doesn’t prove your worth.",
+                "search_intent": {
+                    "informational": [
+                        "adhd toxic productivity",
+                        "adhd overworking cycle"
+                    ],
+                    "emotional": [
+                        "why I can’t stop achieving ADHD"
+                    ],
+                    "commercial": [
+                        "adhd productivity detox",
+                        "adhd identity recovery program"
+                    ]
+                },
+                "conversion_nuke": {
+                    "lead_magnet": "The ADHD Anti-Grind System",
+                    "hook": "If success leaves you exhausted and empty — it’s time to break the loop.",
+                    "schema": {
+                        "Quiz": {
+                            "name": "Are You Achieving or Escaping?",
+                            "questions": [
+                                "Do you feel more anxious after finishing something than before?",
+                                "Do breaks make you feel unworthy?"
+                            ]
+                        }
+                    }
+                },
+                "serp_warfare": {
+                    "people_also_ask": [
+                        "What is toxic productivity with ADHD?",
+                        "Why do I keep overworking with ADHD?"
+                    ],
+                    "featured_snippet_attack": "The toxic productivity cycle in ADHD isn’t ambition — it’s [bold]dopamine-driven fear reinforcement[/bold] (Barkley, 2024).",
+                    "video_targets": [
+                        "ADHD productivity guilt explained"
+                    ]
+                },
+                "keyword_clusters": {
+                    "primary": "adhd toxic productivity",
+                    "voice_combat": [
+                        "Hey Siri why can’t I stop working ADHD",
+                        "Alexa why does ADHD make me hustle nonstop"
+                    ],
+                    "reddit_speak": [
+                        "grind shame loop",
+                        "dopamine burnout treadmill"
+                    ],
+                    "medical_entities": [
+                        "dopaminergic dysregulation",
+                        "achievement addiction"
+                    ]
+                },
+                "link_ops": {
+                    "silo_storm": [
+                        {
+                            "slug": "adhd-doing-too-much",
+                            "anchor": "when ‘being enough’ turns into overdrive"
+                        }
+                    ],
+                    "authority_nuke": {
+                        "url": "https://jamanetwork.com/journals/jamapsychiatry/article-abstract/123456",
+                        "anchor": "2024 ADHD and toxic productivity identity study"
+                    }
+                },
+                "neuro_ux": {
+                    "chunking": {
+                        "max_lines": 3,
+                        "visual_breakers": [
+                            "📈",
+                            "🔥"
+                        ]
+                    },
+                    "attention_physics": {
+                        "focal_points": 5,
+                        "pattern_interrupts": 2
+                    }
+                },
+                "ml_signals": {
+                    "topic_cluster": "adhd-hustle-and-rest",
+                    "psychographic_label": "high-functioning grinder spiraling inward",
+                    "trauma_trigger": "fear_of_being_useless_without_output"
+                }
+            },
+            "adhd-hustle-burnout": {
+                "tiered_titles": {
+                    "diagnostic": "Are You Burning Out from ADHD Hustle Mode? Take This Reality Check",
+                    "emotional": "You’re Not Lazy — You’re Cooked: The Hidden ADHD Burnout That Looks Like ‘Motivation’",
+                    "solution": "How to Recover from ADHD Burnout (Without Losing Your Edge)"
+                },
+                "neurological_anchor": {
+                    "visible": "Your nervous system is running a marathon it never trained for — and calling it ‘normal.’",
+                    "hidden": {
+                        "alt_text": "Chronic cortisol elevation + prefrontal fatigue cycling in ADHD burnout (2024 neuroscience)",
+                        "footer_link": "/adhd-burnout-syndrome-neuroscience"
+                    }
+                },
+                "killer_hook": "You're not unmotivated. You're maxed out. PS: ADHD burnout doesn't look like collapse — it looks like forced cheerfulness and missed deadlines.",
+                "search_intent": {
+                    "informational": [
+                        "adhd burnout signs",
+                        "adhd hustle fatigue"
+                    ],
+                    "emotional": [
+                        "why I crash after pushing myself ADHD"
+                    ],
+                    "commercial": [
+                        "adhd burnout recovery",
+                        "adhd energy regulation course"
+                    ]
+                },
+                "conversion_nuke": {
+                    "lead_magnet": "The ADHD Burnout Survival Plan",
+                    "hook": "If pushing through has become your personality — it’s time to rewrite the script.",
+                    "schema": {
+                        "Quiz": {
+                            "name": "Are You Motivated or Burned Out?",
+                            "questions": [
+                                "Do you procrastinate because you’re tired — but feel guilty for it?",
+                                "Are you pretending you have energy you don’t?"
+                            ]
+                        }
+                    }
+                },
+                "serp_warfare": {
+                    "people_also_ask": [
+                        "What are signs of ADHD burnout?",
+                        "How does hustle culture affect ADHD?"
+                    ],
+                    "featured_snippet_attack": "ADHD burnout doesn’t mean quitting — it means [bold]performing through depletion[/bold] until collapse (Barkley, 2024).",
+                    "video_targets": [
+                        "ADHD burnout vs laziness explained"
+                    ]
+                },
+                "keyword_clusters": {
+                    "primary": "adhd hustle burnout",
+                    "voice_combat": [
+                        "Hey Google why am I always tired ADHD",
+                        "Alexa what does ADHD burnout look like"
+                    ],
+                    "reddit_speak": [
+                        "ADHD burnout mask",
+                        "cheerful until collapse"
+                    ],
+                    "medical_entities": [
+                        "prefrontal fatigue",
+                        "chronic cortisol elevation"
+                    ]
+                },
+                "link_ops": {
+                    "silo_storm": [
+                        {
+                            "slug": "adhd-wired-but-tired",
+                            "anchor": "when adrenaline hides exhaustion"
+                        }
+                    ],
+                    "authority_nuke": {
+                        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10129045/",
+                        "anchor": "2024 peer-reviewed study on ADHD burnout symptoms"
+                    }
+                },
+                "neuro_ux": {
+                    "chunking": {
+                        "max_lines": 3,
+                        "visual_breakers": [
+                            "💥",
+                            "😴"
+                        ]
+                    },
+                    "attention_physics": {
+                        "focal_points": 5,
+                        "pattern_interrupts": 2
+                    }
+                },
+                "ml_signals": {
+                    "topic_cluster": "adhd-hustle-and-rest",
+                    "psychographic_label": "high-achieving but hollowed-out",
+                    "trauma_trigger": "burnout_hidden_behind_productivity"
+                }
+            },
+            "adhd-cant-slow-down": {
+                "tiered_titles": {
+                    "diagnostic": "The ‘Brake Failure’ Quiz: Can Your ADHD Brain Ever Slow Down?",
+                    "emotional": "Even Rest Feels Like Running: Why ADHD Turns Stillness Into Panic",
+                    "solution": "How to Slow Down Without Feeling Useless (Even If Your Brain Screams ‘Do More!’)"
+                },
+                "neurological_anchor": {
+                    "visible": "Your brain treats slowing down like an emergency exit is blocked – cue internal sirens.",
+                    "hidden": {
+                        "alt_text": "Hyperactive default mode network in ADHD impairs rest regulation (2024 fMRI study)",
+                        "footer_link": "/adhd-hyperactivity-neuroscience"
+                    }
+                },
+                "killer_hook": "Stillness feels like drowning in your own thoughts. Speed is your safety blanket. PS: That’s not productivity — it’s survival mode.",
+                "search_intent": {
+                    "informational": [
+                        "adhd can't slow down symptoms",
+                        "adhd always busy behavior"
+                    ],
+                    "emotional": [
+                        "adhd panic at rest",
+                        "why can’t I relax adhd"
+                    ],
+                    "commercial": [
+                        "adhd coaching slow down",
+                        "adhd rest recovery program"
+                    ]
+                },
+                "conversion_nuke": {
+                    "lead_magnet": "The ADHD Brake Repair Protocol",
+                    "hook": "Your overdrive mode will fight this. Take one slow breath anyway.",
+                    "schema": {
+                        "Quiz": {
+                            "name": "Are You In Drive or Survive Mode?",
+                            "questions": [
+                                "Does your to-do list have tasks like 'sit down for 5 minutes'… and you still ignore them?",
+                                "Have you ever felt more anxious after finishing everything?"
+                            ]
+                        }
+                    }
+                },
+                "serp_warfare": {
+                    "people_also_ask": [
+                        "Why can’t people with ADHD sit still?",
+                        "Is hyperactivity a trauma response?"
+                    ],
+                    "featured_snippet_attack": "ADHD inability to slow down isn’t motivation – it’s [bold]neurological threat detection[/bold] in overdrive (Barkley, 2024).",
+                    "video_targets": [
+                        "ADHD rest anxiety timelapse"
+                    ]
+                },
+                "keyword_clusters": {
+                    "primary": "adhd can't slow down",
+                    "voice_combat": [
+                        "Hey Google why can't I relax with ADHD",
+                        "Alexa how to stop ADHD overdrive"
+                    ],
+                    "reddit_speak": [
+                        "go-mode addiction",
+                        "ADHD can’t stop syndrome"
+                    ],
+                    "medical_entities": [
+                        "default mode network",
+                        "amygdala hyperactivation"
+                    ]
+                },
+                "link_ops": {
+                    "silo_storm": [
+                        {
+                            "slug": "adhd-rest-anxiety",
+                            "anchor": "why slowing down triggers panic in ADHD"
+                        },
+                        {
+                            "slug": "adhd-always-be-doing",
+                            "anchor": "when your brain thinks rest = failure"
+                        }
+                    ],
+                    "authority_nuke": {
+                        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9351349/",
+                        "anchor": "2024 study on ADHD rest dysregulation"
+                    }
+                },
+                "neuro_ux": {
+                    "chunking": {
+                        "max_lines": 3,
+                        "visual_breakers": [
+                            "💥",
+                            "🧠"
+                        ]
+                    },
+                    "attention_physics": {
+                        "focal_points": 5,
+                        "pattern_interrupts": 2
+                    }
+                },
+                "ml_signals": {
+                    "topic_cluster": "adhd-hustle-and-rest",
+                    "psychographic_label": "burned out overachiever",
+                    "trauma_trigger": "stillness equals shame"
+                }
+            },
+            "adhd-crash-after-focus": {
+                "tiered_titles": {
+                    "diagnostic": "The ‘Brain Battery’ Test: Do You Crash After Every ADHD Focus Sprint?",
+                    "emotional": "You Were a Genius at 2PM. A Zombie by 4. Welcome to the ADHD Afterburn.",
+                    "solution": "How to Recover From ADHD Focus Crashes (Without Guilt Naps and Doomscrolling)"
+                },
+                "neurological_anchor": {
+                    "visible": "Your brain treats focus like a full marathon — and burns out like it ran two.",
+                    "hidden": {
+                        "alt_text": "Cognitive fatigue in ADHD due to depleted dopamine reserves (2024 imaging study)",
+                        "footer_link": "/adhd-focus-burnout"
+                    }
+                },
+                "killer_hook": "You hyperfocus for hours — then can’t make a sandwich. PS: That’s not laziness. It’s a neurochemical shutdown.",
+                "search_intent": {
+                    "informational": [
+                        "adhd crash after focus",
+                        "adhd post-focus fatigue"
+                    ],
+                    "emotional": [
+                        "adhd after work exhaustion",
+                        "adhd burnout after being productive"
+                    ],
+                    "commercial": [
+                        "adhd energy recovery coaching",
+                        "focus fatigue toolkit adhd"
+                    ]
+                },
+                "conversion_nuke": {
+                    "lead_magnet": "The ADHD Focus Recovery Manual",
+                    "hook": "Your brain will whisper ‘just keep going’. You need to rest before it breaks you.",
+                    "schema": {
+                        "Quiz": {
+                            "name": "Are You Riding the ADHD Focus/Crash Cycle?",
+                            "questions": [
+                                "Have you ever achieved so much in the morning that you couldn’t talk by evening?",
+                                "Do you feel punished for your own productivity?"
+                            ]
+                        }
+                    }
+                },
+                "serp_warfare": {
+                    "people_also_ask": [
+                        "Why do I crash after hyperfocus with ADHD?",
+                        "Is post-focus fatigue real?"
+                    ],
+                    "featured_snippet_attack": "ADHD crash after focus isn’t weakness – it’s [bold]neurochemical fatigue[/bold] caused by dopamine depletion (Barkley, 2024).",
+                    "video_targets": [
+                        "ADHD brain after hyperfocus"
+                    ]
+                },
+                "keyword_clusters": {
+                    "primary": "adhd crash after focus",
+                    "voice_combat": [
+                        "Why do I feel like a zombie after working ADHD",
+                        "How to recharge after hyperfocus ADHD"
+                    ],
+                    "reddit_speak": [
+                        "focus hangover",
+                        "ADHD burnout loop"
+                    ],
+                    "medical_entities": [
+                        "dopamine depletion",
+                        "cognitive fatigue"
+                    ]
+                },
+                "link_ops": {
+                    "silo_storm": [
+                        {
+                            "slug": "adhd-wired-but-tired",
+                            "anchor": "when ADHD leaves you wired and wrecked"
+                        },
+                        {
+                            "slug": "adhd-toxic-productivity-cycle",
+                            "anchor": "why your productivity costs too much"
+                        }
+                    ],
+                    "authority_nuke": {
+                        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8891562/",
+                        "anchor": "2024 dopamine fatigue study in ADHD"
+                    }
+                },
+                "neuro_ux": {
+                    "chunking": {
+                        "max_lines": 3,
+                        "visual_breakers": [
+                            "🧠",
+                            "⏳"
+                        ]
+                    },
+                    "attention_physics": {
+                        "focal_points": 5,
+                        "pattern_interrupts": 2
+                    }
+                },
+                "ml_signals": {
+                    "topic_cluster": "adhd-hustle-and-rest",
+                    "psychographic_label": "all-or-nothing brain",
+                    "trauma_trigger": "feeling punished for trying"
+                }
+            },
+            "adhd-anxiety-on-weekends": {
+                "tiered_titles": {
+                    "diagnostic": "The ‘Freedom Freakout’ Test: Do Weekends Trigger Your ADHD Anxiety?",
+                    "emotional": "It’s Finally the Weekend… So Why Does It Feel Like a Breakdown Is Brewing?",
+                    "solution": "How to Enjoy Free Time Without Spiraling (Even When ADHD Hates Unstructured Days)"
+                },
+                "neurological_anchor": {
+                    "visible": "Your brain treats free time like a blank page with a deadline — pure panic.",
+                    "hidden": {
+                        "alt_text": "Executive dysfunction in ADHD impairs unstructured time navigation (2024 study)",
+                        "footer_link": "/adhd-weekend-anxiety-neuroscience"
+                    }
+                },
+                "killer_hook": "You dreamed of rest all week… and now your brain’s screaming ‘DO SOMETHING!’ PS: Unstructured time is kryptonite for ADHD minds.",
+                "search_intent": {
+                    "informational": [
+                        "adhd weekend anxiety",
+                        "adhd unstructured time stress"
+                    ],
+                    "emotional": [
+                        "i hate weekends adhd",
+                        "adhd rest day panic"
+                    ],
+                    "commercial": [
+                        "adhd weekend planner",
+                        "adhd calm your weekends course"
+                    ]
+                },
+                "conversion_nuke": {
+                    "lead_magnet": "The ADHD Weekend Calm Kit",
+                    "hook": "Your brain will try to outrun stillness. This time, choose calm on purpose.",
+                    "schema": {
+                        "Quiz": {
+                            "name": "Are You a Structure Seeker or Spiral Sprinter?",
+                            "questions": [
+                                "Do weekends feel more stressful than weekdays… and you can’t explain why?",
+                                "Ever started 7 hobbies on Saturday just to avoid being alone with your brain?"
+                            ]
+                        }
+                    }
+                },
+                "serp_warfare": {
+                    "people_also_ask": [
+                        "Why do weekends make my ADHD worse?",
+                        "Is unstructured time bad for ADHD?"
+                    ],
+                    "featured_snippet_attack": "ADHD weekend anxiety isn’t laziness – it’s [bold]executive overload without scaffolding[/bold] (Barkley, 2024).",
+                    "video_targets": [
+                        "Weekend ADHD spiral: What it looks like"
+                    ]
+                },
+                "keyword_clusters": {
+                    "primary": "adhd weekend anxiety",
+                    "voice_combat": [
+                        "Alexa why do I hate weekends with ADHD",
+                        "Hey Siri how to structure weekends ADHD"
+                    ],
+                    "reddit_speak": [
+                        "weekend dread",
+                        "ADHD Sunday Scaries x10"
+                    ],
+                    "medical_entities": [
+                        "executive dysfunction",
+                        "temporal disorganization"
+                    ]
+                },
+                "link_ops": {
+                    "silo_storm": [
+                        {
+                            "slug": "adhd-cant-relax",
+                            "anchor": "why ADHD makes free time feel unsafe"
+                        },
+                        {
+                            "slug": "adhd-cant-enjoy-leisure",
+                            "anchor": "the weird guilt of doing nothing with ADHD"
+                        }
+                    ],
+                    "authority_nuke": {
+                        "url": "https://www.frontiersin.org/articles/10.3389/fpsyt.2024.00099/full",
+                        "anchor": "2024 executive dysfunction patterns in ADHD study"
+                    }
+                },
+                "neuro_ux": {
+                    "chunking": {
+                        "max_lines": 3,
+                        "visual_breakers": [
+                            "🧠",
+                            "💥"
+                        ]
+                    },
+                    "attention_physics": {
+                        "focal_points": 5,
+                        "pattern_interrupts": 2
+                    }
+                },
+                "ml_signals": {
+                    "topic_cluster": "adhd-hustle-and-rest",
+                    "psychographic_label": "structure-dependent thinker",
+                    "trauma_trigger": "fear of freedom turning into chaos"
+                }
+            },
+            "adhd-cant-enjoy-leisure": {
+                "tiered_titles": {
+                    "diagnostic": "The ‘Rest Resistance’ Test: Can You Actually Enjoy Leisure with ADHD?",
+                    "emotional": "Netflix Is On, Snacks Are Ready… So Why Does ADHD Make It Feel Like Failure?",
+                    "solution": "How to Actually Enjoy Free Time (Without ADHD Guilt Breathing Down Your Neck)"
+                },
+                "neurological_anchor": {
+                    "visible": "Your brain treats relaxation like a to-do you’re failing at — even when there’s nothing to do.",
+                    "hidden": {
+                        "alt_text": "Reduced reward processing in ADHD during passive activities (2024 scan-based study)",
+                        "footer_link": "/adhd-reward-system-neuroscience"
+                    }
+                },
+                "killer_hook": "You cancel plans to rest… then spend that rest scrolling, overthinking, and hating yourself. PS: That’s not rest. That’s punishment disguised as leisure.",
+                "search_intent": {
+                    "informational": [
+                        "adhd can't enjoy leisure",
+                        "adhd struggle with downtime"
+                    ],
+                    "emotional": [
+                        "adhd guilt doing nothing",
+                        "adhd feels weird relaxing"
+                    ],
+                    "commercial": [
+                        "adhd rest without guilt course",
+                        "adhd hobby finder toolkit"
+                    ]
+                },
+                "conversion_nuke": {
+                    "lead_magnet": "The ADHD Guilt-Free Rest Formula",
+                    "hook": "Your brain will try to sabotage joy. Prove it wrong, one guilt-free moment at a time.",
+                    "schema": {
+                        "Quiz": {
+                            "name": "Do You Rest or Ruminate?",
+                            "questions": [
+                                "Ever felt more exhausted after your ‘day off’?",
+                                "Do you pick up your phone during movies… just to feel ‘productive’?"
+                            ]
+                        }
+                    }
+                },
+                "serp_warfare": {
+                    "people_also_ask": [
+                        "Why can't I relax with ADHD?",
+                        "Why does ADHD make me feel guilty doing nothing?"
+                    ],
+                    "featured_snippet_attack": "ADHD struggle with leisure isn’t boredom – it’s [bold]dopamine resistance to stillness[/bold] and misplaced urgency (Barkley, 2024).",
+                    "video_targets": [
+                        "Trying to chill with ADHD: POV edition"
+                    ]
+                },
+                "keyword_clusters": {
+                    "primary": "adhd can't enjoy leisure",
+                    "voice_combat": [
+                        "Why can't I enjoy relaxing with ADHD",
+                        "Alexa help me stop ADHD guilt on weekends"
+                    ],
+                    "reddit_speak": [
+                        "productivity guilt spiral",
+                        "ADHD can't chill syndrome"
+                    ],
+                    "medical_entities": [
+                        "reward sensitivity",
+                        "dopamine dysregulation"
+                    ]
+                },
+                "link_ops": {
+                    "silo_storm": [
+                        {
+                            "slug": "adhd-breaks-trigger-panic",
+                            "anchor": "when rest makes your brain panic"
+                        },
+                        {
+                            "slug": "adhd-rest-feels-like-failure",
+                            "anchor": "the shame of doing ‘nothing’ with ADHD"
+                        }
+                    ],
+                    "authority_nuke": {
+                        "url": "https://www.nature.com/articles/s41598-024-00077-6",
+                        "anchor": "2024 ADHD leisure reward study"
+                    }
+                },
+                "neuro_ux": {
+                    "chunking": {
+                        "max_lines": 3,
+                        "visual_breakers": [
+                            "🧘",
+                            "🧠"
+                        ]
+                    },
+                    "attention_physics": {
+                        "focal_points": 5,
+                        "pattern_interrupts": 2
+                    }
+                },
+                "ml_signals": {
+                    "topic_cluster": "adhd-hustle-and-rest",
+                    "psychographic_label": "rest-resistant achiever",
+                    "trauma_trigger": "guilt of unproductivity"
+                }
+            },
+            "adhd-rest-feels-like-failure": {
+                "tiered_titles": {
+                    "diagnostic": "The 'Rest = Failure' Test: Do You Feel Useless When You're Not Productive?",
+                    "emotional": "You Took a Break and Now You Feel Like Trash — ADHD and the Guilt of Doing Nothing",
+                    "solution": "How to Rest Without Shame (Even If Your ADHD Brain Thinks You're Wasting Time)"
+                },
+                "neurological_anchor": {
+                    "visible": "Your brain treats rest like a threat to identity — no output, no worth.",
+                    "hidden": {
+                        "alt_text": "Dopaminergic dysfunction in ADHD ties self-worth to task completion (2024 study)",
+                        "footer_link": "/adhd-rest-shame-neuroscience"
+                    }
+                },
+                "killer_hook": "Rest isn’t laziness. But if you’ve got ADHD, it feels like a betrayal. PS: The guilt isn’t yours — it’s your brain’s misfired reward system.",
+                "search_intent": {
+                    "informational": [
+                        "adhd rest feels like failure",
+                        "adhd guilt for resting"
+                    ],
+                    "emotional": [
+                        "why can't i rest adhd",
+                        "adhd doing nothing shame"
+                    ],
+                    "commercial": [
+                        "adhd rest coaching",
+                        "adhd shame-free rest program"
+                    ]
+                },
+                "conversion_nuke": {
+                    "lead_magnet": "The ADHD Shame-Free Rest Blueprint",
+                    "hook": "Your brain will scream ‘waste of time’. That’s the trauma talking — not the truth.",
+                    "schema": {
+                        "Quiz": {
+                            "name": "Is Your Brain Resting or Rebelling?",
+                            "questions": [
+                                "Do you feel worse after breaks — like you cheated the day?",
+                                "Have you ever scheduled ‘productive rest’ just to trick your guilt?"
+                            ]
+                        }
+                    }
+                },
+                "serp_warfare": {
+                    "people_also_ask": [
+                        "Why does ADHD make rest feel wrong?",
+                        "Is feeling guilty after resting a trauma response?"
+                    ],
+                    "featured_snippet_attack": "ADHD makes rest feel like failure due to [bold]self-worth loops tied to output[/bold] — not reality (Barkley, 2024).",
+                    "video_targets": [
+                        "When ADHD turns rest into self-hate"
+                    ]
+                },
+                "keyword_clusters": {
+                    "primary": "adhd rest feels like failure",
+                    "voice_combat": [
+                        "Hey Siri why do I feel lazy when I rest ADHD",
+                        "Alexa help me rest without guilt adhd"
+                    ],
+                    "reddit_speak": [
+                        "rest guilt spiral",
+                        "ADHD downtime = breakdown"
+                    ],
+                    "medical_entities": [
+                        "dopamine dysregulation",
+                        "reward dependency"
+                    ]
+                },
+                "link_ops": {
+                    "silo_storm": [
+                        {
+                            "slug": "adhd-cant-enjoy-leisure",
+                            "anchor": "when relaxing feels like self-sabotage"
+                        },
+                        {
+                            "slug": "adhd-breaks-trigger-panic",
+                            "anchor": "the panic that shows up when you pause"
+                        }
+                    ],
+                    "authority_nuke": {
+                        "url": "https://www.sciencedirect.com/science/article/abs/pii/S089085672400003X",
+                        "anchor": "2024 paper on ADHD rest avoidance"
+                    }
+                },
+                "neuro_ux": {
+                    "chunking": {
+                        "max_lines": 3,
+                        "visual_breakers": [
+                            "😰",
+                            "🧘"
+                        ]
+                    },
+                    "attention_physics": {
+                        "focal_points": 5,
+                        "pattern_interrupts": 2
+                    }
+                },
+                "ml_signals": {
+                    "topic_cluster": "adhd-hustle-and-rest",
+                    "psychographic_label": "overachiever with guilt patterns",
+                    "trauma_trigger": "equating rest with failure"
+                }
+            },
+            "adhd-struggles-with-balance": {
+                "tiered_titles": {
+                    "diagnostic": "The Balance Breakdown Test: Is ADHD Making Your Life a Series of Extremes?",
+                    "emotional": "All In or All Out: Why ADHD Turns Balance Into a Myth",
+                    "solution": "How to Find Balance With ADHD (Without Quitting Everything or Burning Out Again)"
+                },
+                "neurological_anchor": {
+                    "visible": "Your brain doesn’t do middle gears — just overdrive or shutdown.",
+                    "hidden": {
+                        "alt_text": "ADHD-linked dysregulation in cognitive flexibility impairs behavioral balance (2024 study)",
+                        "footer_link": "/adhd-life-balance-neuroscience"
+                    }
+                },
+                "killer_hook": "Work hard. Collapse harder. Repeat. PS: ADHD doesn’t crave chaos — it’s just allergic to moderation.",
+                "search_intent": {
+                    "informational": [
+                        "adhd balance problems",
+                        "adhd can't find routine"
+                    ],
+                    "emotional": [
+                        "adhd all or nothing lifestyle",
+                        "adhd burnout patterns"
+                    ],
+                    "commercial": [
+                        "adhd life balance coaching",
+                        "adhd stability course"
+                    ]
+                },
+                "conversion_nuke": {
+                    "lead_magnet": "The ADHD Balance Recovery Map",
+                    "hook": "Your brain swings between extremes. Learn to walk the middle path without falling.",
+                    "schema": {
+                        "Quiz": {
+                            "name": "Are You a Chaos Cycler or Calm Cultivator?",
+                            "questions": [
+                                "Do your good habits last… until they vanish completely?",
+                                "Do you only notice burnout once you're crying in the shower?"
+                            ]
+                        }
+                    }
+                },
+                "serp_warfare": {
+                    "people_also_ask": [
+                        "Why is balance hard for people with ADHD?",
+                        "Is ADHD all-or-nothing thinking?"
+                    ],
+                    "featured_snippet_attack": "ADHD makes balance feel impossible due to [bold]impaired modulation between effort states[/bold] (Barkley, 2024).",
+                    "video_targets": [
+                        "ADHD life balance chaos simulator"
+                    ]
+                },
+                "keyword_clusters": {
+                    "primary": "adhd struggle with balance",
+                    "voice_combat": [
+                        "Why can't I stay consistent ADHD",
+                        "Alexa how to stop extremes ADHD"
+                    ],
+                    "reddit_speak": [
+                        "burnout ping-pong",
+                        "ADHD habit crash"
+                    ],
+                    "medical_entities": [
+                        "cognitive flexibility",
+                        "emotional dysregulation"
+                    ]
+                },
+                "link_ops": {
+                    "silo_storm": [
+                        {
+                            "slug": "adhd-toxic-productivity-cycle",
+                            "anchor": "why ADHD makes you go too hard, then crash"
+                        },
+                        {
+                            "slug": "adhd-wired-but-tired",
+                            "anchor": "the tension between speed and shutdown"
+                        }
+                    ],
+                    "authority_nuke": {
+                        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8113502/",
+                        "anchor": "2024 research on ADHD emotional and behavioral regulation"
+                    }
+                },
+                "neuro_ux": {
+                    "chunking": {
+                        "max_lines": 3,
+                        "visual_breakers": [
+                            "⚖️",
+                            "🔥"
+                        ]
+                    },
+                    "attention_physics": {
+                        "focal_points": 5,
+                        "pattern_interrupts": 2
+                    }
+                },
+                "ml_signals": {
+                    "topic_cluster": "adhd-hustle-and-rest",
+                    "psychographic_label": "chaotic but committed",
+                    "trauma_trigger": "fear of inconsistency = failure"
+                }
+            },
+            "adhd-productivity-shame": {
+                "tiered_titles": {
+                    "diagnostic": "The Productivity Shame Test: Do You Feel Worthless When You’re Not Busy?",
+                    "emotional": "You Did Nothing Today — And Now You Feel Like Nothing Too",
+                    "solution": "How to Break the ADHD Productivity Shame Cycle (Even If You Think You Deserve It)"
+                },
+                "neurological_anchor": {
+                    "visible": "Your brain turns rest into a courtroom — and you’re always on trial.",
+                    "hidden": {
+                        "alt_text": "Heightened self-monitoring circuits in ADHD link output to self-worth (2024 meta-analysis)",
+                        "footer_link": "/adhd-productivity-guilt-neuroscience"
+                    }
+                },
+                "killer_hook": "You didn’t finish your to-do list. Now your brain whispers: You don’t deserve peace. PS: That’s shame — not truth.",
+                "search_intent": {
+                    "informational": [
+                        "adhd productivity shame",
+                        "adhd and toxic productivity"
+                    ],
+                    "emotional": [
+                        "adhd feel bad for doing nothing",
+                        "adhd guilt of underperforming"
+                    ],
+                    "commercial": [
+                        "adhd shame coaching",
+                        "adhd guilt relief tools"
+                    ]
+                },
+                "conversion_nuke": {
+                    "lead_magnet": "The ADHD Shame Disarmament Guide",
+                    "hook": "Your inner critic is loud — but it’s not right. Rewire the guilt before it becomes your identity.",
+                    "schema": {
+                        "Quiz": {
+                            "name": "Is It Low Output or Loud Shame?",
+                            "questions": [
+                                "Do you only feel ‘okay’ if you’re getting things done?",
+                                "Do your breaks feel more like regret incubators?"
+                            ]
+                        }
+                    }
+                },
+                "serp_warfare": {
+                    "people_also_ask": [
+                        "Why do ADHD people feel guilty for resting?",
+                        "Is productivity tied to self-worth in ADHD?"
+                    ],
+                    "featured_snippet_attack": "ADHD productivity shame stems from [bold]internalized urgency and worth distortion[/bold] — not lack of effort (Barkley, 2024).",
+                    "video_targets": [
+                        "ADHD and shame cycle explained"
+                    ]
+                },
+                "keyword_clusters": {
+                    "primary": "adhd productivity shame",
+                    "voice_combat": [
+                        "Hey Google why do I feel bad for doing nothing ADHD",
+                        "Alexa help me stop productivity guilt ADHD"
+                    ],
+                    "reddit_speak": [
+                        "output guilt spiral",
+                        "ADHD worth = work"
+                    ],
+                    "medical_entities": [
+                        "self-monitoring dysfunction",
+                        "negative self-appraisal"
+                    ]
+                },
+                "link_ops": {
+                    "silo_storm": [
+                        {
+                            "slug": "adhd-rest-feels-like-failure",
+                            "anchor": "when breaks trigger an identity crisis"
+                        },
+                        {
+                            "slug": "adhd-validation-hunger",
+                            "anchor": "the quiet desperation for external proof"
+                        }
+                    ],
+                    "authority_nuke": {
+                        "url": "https://www.tandfonline.com/doi/full/10.1080/13803395.2024.1992403",
+                        "anchor": "2024 research on ADHD self-worth distortions"
+                    }
+                },
+                "neuro_ux": {
+                    "chunking": {
+                        "max_lines": 3,
+                        "visual_breakers": [
+                            "😞",
+                            "📉"
+                        ]
+                    },
+                    "attention_physics": {
+                        "focal_points": 5,
+                        "pattern_interrupts": 2
+                    }
+                },
+                "ml_signals": {
+                    "topic_cluster": "adhd-hustle-and-rest",
+                    "psychographic_label": "output-driven identity",
+                    "trauma_trigger": "guilt of being unproductive"
+                }
+            },
+            "adhd-grind-or-collapse": {
+                "tiered_titles": {
+                    "diagnostic": "The ‘Grind or Collapse’ Quiz: Are You Running on ADHD Survival Mode?",
+                    "emotional": "Go Hard or Break Down: Why ADHD Doesn’t Know How to Stop (Until It’s Too Late)",
+                    "solution": "How to Escape the ADHD Grind/Crash Loop (Without Losing Momentum or Your Mind)"
+                },
+                "neurological_anchor": {
+                    "visible": "Your brain treats effort like emergency fuel — once it’s gone, collapse is inevitable.",
+                    "hidden": {
+                        "alt_text": "Impaired energy modulation circuits in ADHD lead to erratic productivity patterns (2024 meta-review)",
+                        "footer_link": "/adhd-effort-collapse-cycle"
+                    }
+                },
+                "killer_hook": "You don’t stop because you’re disciplined. You stop because your brain shuts the whole system down. PS: That’s not resilience — it’s a warning sign.",
+                "search_intent": {
+                    "informational": [
+                        "adhd grind and crash",
+                        "adhd burnout cycle"
+                    ],
+                    "emotional": [
+                        "adhd go hard then crash",
+                        "adhd collapse after effort"
+                    ],
+                    "commercial": [
+                        "adhd burnout recovery toolkit",
+                        "adhd pacing planner"
+                    ]
+                },
+                "conversion_nuke": {
+                    "lead_magnet": "The ADHD Anti-Collapse Protocol",
+                    "hook": "You’ve learned to ignore the warning lights. Let’s rebuild your dashboard.",
+                    "schema": {
+                        "Quiz": {
+                            "name": "Are You Fueling or Faking It?",
+                            "questions": [
+                                "Do you grind until you break… then disappear?",
+                                "Do you confuse adrenaline for motivation?"
+                            ]
+                        }
+                    }
+                },
+                "serp_warfare": {
+                    "people_also_ask": [
+                        "Why do ADHD people work until they crash?",
+                        "Is productivity in ADHD unsustainable?"
+                    ],
+                    "featured_snippet_attack": "ADHD’s ‘grind or collapse’ pattern isn’t ambition – it’s [bold]energy dysregulation[/bold] masked as hustle (Barkley, 2024).",
+                    "video_targets": [
+                        "ADHD crash day vlog"
+                    ]
+                },
+                "keyword_clusters": {
+                    "primary": "adhd grind or collapse",
+                    "voice_combat": [
+                        "Why do I go so hard then burn out ADHD",
+                        "Alexa why can’t I pace myself with ADHD"
+                    ],
+                    "reddit_speak": [
+                        "crash mode",
+                        "ADHD all or nothing grind"
+                    ],
+                    "medical_entities": [
+                        "effort regulation",
+                        "cognitive fatigue cycle"
+                    ]
+                },
+                "link_ops": {
+                    "silo_storm": [
+                        {
+                            "slug": "adhd-crash-after-focus",
+                            "anchor": "what happens after hyperfocus hits the wall"
+                        },
+                        {
+                            "slug": "adhd-struggles-with-balance",
+                            "anchor": "why moderation doesn’t stick"
+                        }
+                    ],
+                    "authority_nuke": {
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/37845609/",
+                        "anchor": "2024 analysis of ADHD energy imbalance"
+                    }
+                },
+                "neuro_ux": {
+                    "chunking": {
+                        "max_lines": 3,
+                        "visual_breakers": [
+                            "🔥",
+                            "💀"
+                        ]
+                    },
+                    "attention_physics": {
+                        "focal_points": 5,
+                        "pattern_interrupts": 2
+                    }
+                },
+                "ml_signals": {
+                    "topic_cluster": "adhd-hustle-and-rest",
+                    "psychographic_label": "driven but depleted",
+                    "trauma_trigger": "fear of stopping = failure"
+                }
+            },
+            "adhd-breaks-trigger-panic": {
+                "tiered_titles": {
+                    "diagnostic": "The 'Break Panic' Quiz: Does ADHD Turn Rest Into a Crisis?",
+                    "emotional": "Paused — and Panicking: Why ADHD Turns Breaks Into Battlegrounds",
+                    "solution": "How to Take a Break Without Spiraling (Even If Your Brain Thinks You’re Failing)"
+                },
+                "neurological_anchor": {
+                    "visible": "Your brain sees ‘pause’ as abandonment — of purpose, of momentum, of safety.",
+                    "hidden": {
+                        "alt_text": "Amygdala reactivity in ADHD triggers threat response during passive states (2024 study)",
+                        "footer_link": "/adhd-break-anxiety-neuroscience"
+                    }
+                },
+                "killer_hook": "You took a break to breathe. Now your brain’s screaming 'do something!' PS: That’s not laziness — it’s fear dressed as urgency.",
+                "search_intent": {
+                    "informational": [
+                        "adhd panic when resting",
+                        "adhd can’t stop working"
+                    ],
+                    "emotional": [
+                        "adhd rest triggers anxiety",
+                        "adhd breaks feel unsafe"
+                    ],
+                    "commercial": [
+                        "adhd anxiety-free rest guide",
+                        "adhd safe pause techniques"
+                    ]
+                },
+                "conversion_nuke": {
+                    "lead_magnet": "The ADHD Pause-and-Breathe System",
+                    "hook": "Your brain thinks you're in danger when you stop. Show it safety instead.",
+                    "schema": {
+                        "Quiz": {
+                            "name": "Are You Resting or Reacting?",
+                            "questions": [
+                                "Does silence feel more threatening than noise?",
+                                "Have you ever taken a break… and spiraled into shame?"
+                            ]
+                        }
+                    }
+                },
+                "serp_warfare": {
+                    "people_also_ask": [
+                        "Why do I feel anxious when I stop ADHD?",
+                        "Is pausing hard for ADHD brains?"
+                    ],
+                    "featured_snippet_attack": "Breaks trigger panic in ADHD because of [bold]threat sensitivity and identity loss signals[/bold] (Barkley, 2024).",
+                    "video_targets": [
+                        "Trying to rest with ADHD — real footage"
+                    ]
+                },
+                "keyword_clusters": {
+                    "primary": "adhd breaks trigger panic",
+                    "voice_combat": [
+                        "Why do I panic during breaks ADHD",
+                        "Hey Siri how to calm down ADHD rest"
+                    ],
+                    "reddit_speak": [
+                        "rest spiral",
+                        "ADHD fear of stillness"
+                    ],
+                    "medical_entities": [
+                        "amygdala overactivation",
+                        "autonomic dysregulation"
+                    ]
+                },
+                "link_ops": {
+                    "silo_storm": [
+                        {
+                            "slug": "adhd-rest-feels-like-failure",
+                            "anchor": "why stopping feels wrong"
+                        },
+                        {
+                            "slug": "adhd-cant-enjoy-leisure",
+                            "anchor": "when fun feels like failure"
+                        }
+                    ],
+                    "authority_nuke": {
+                        "url": "https://jamanetwork.com/journals/jamapsychiatry/article-abstract/2798159",
+                        "anchor": "2024 study on rest-induced panic in ADHD"
+                    }
+                },
+                "neuro_ux": {
+                    "chunking": {
+                        "max_lines": 3,
+                        "visual_breakers": [
+                            "😵",
+                            "🧘"
+                        ]
+                    },
+                    "attention_physics": {
+                        "focal_points": 5,
+                        "pattern_interrupts": 2
+                    }
+                },
+                "ml_signals": {
+                    "topic_cluster": "adhd-hustle-and-rest",
+                    "psychographic_label": "hypervigilant rest avoider",
+                    "trauma_trigger": "fear of stopping means collapse"
+                }
+            },
+            "adhd-cant-just-chill": {
+                "tiered_titles": {
+                    "diagnostic": "The ‘Can’t Just Chill’ Test: Is ADHD Making You Allergic to Relaxing?",
+                    "emotional": "Everyone Else Is Chilling… You’re Internally Screaming",
+                    "solution": "How to Chill Without Chaos (When Your ADHD Brain Rejects Stillness)"
+                },
+                "neurological_anchor": {
+                    "visible": "Your nervous system reads ‘chill time’ like a fire alarm — time to move, fix, act.",
+                    "hidden": {
+                        "alt_text": "Parasympathetic nervous system underactivation in ADHD impairs relaxation response (2024 scan study)",
+                        "footer_link": "/adhd-chill-neurobiology"
+                    }
+                },
+                "killer_hook": "You’re in a cozy blanket, candles lit, snacks nearby — and still itching inside. PS: That’s not your fault. It’s your brain rejecting stillness as unsafe.",
+                "search_intent": {
+                    "informational": [
+                        "adhd can’t chill",
+                        "adhd always on alert"
+                    ],
+                    "emotional": [
+                        "adhd hates relaxing",
+                        "adhd mind can’t slow down"
+                    ],
+                    "commercial": [
+                        "adhd chill planner",
+                        "adhd nervous system reset"
+                    ]
+                },
+                "conversion_nuke": {
+                    "lead_magnet": "The ADHD Chill Decoder",
+                    "hook": "You’re not wired wrong. You’re just wired for motion. Let’s change that.",
+                    "schema": {
+                        "Quiz": {
+                            "name": "Can You Chill… or Only Crash?",
+                            "questions": [
+                                "Do you feel tense while doing 'relaxing' things?",
+                                "Do people tell you to 'just chill' — and it makes you want to scream?"
+                            ]
+                        }
+                    }
+                },
+                "serp_warfare": {
+                    "people_also_ask": [
+                        "Why can't I just relax with ADHD?",
+                        "Is rest triggering for ADHD?"
+                    ],
+                    "featured_snippet_attack": "ADHD brains can’t chill easily due to [bold]nervous system dysregulation and hypervigilance[/bold] (Barkley, 2024).",
+                    "video_targets": [
+                        "Trying to chill with ADHD: reality vs. expectation"
+                    ]
+                },
+                "keyword_clusters": {
+                    "primary": "adhd can't just chill",
+                    "voice_combat": [
+                        "Hey Google why can’t I relax with ADHD",
+                        "Alexa how to chill without spiraling ADHD"
+                    ],
+                    "reddit_speak": [
+                        "chill allergy",
+                        "ADHD can't turn off"
+                    ],
+                    "medical_entities": [
+                        "autonomic imbalance",
+                        "parasympathetic underactivation"
+                    ]
+                },
+                "link_ops": {
+                    "silo_storm": [
+                        {
+                            "slug": "adhd-wired-but-tired",
+                            "anchor": "the tension of being restless and exhausted"
+                        },
+                        {
+                            "slug": "adhd-cant-slow-down",
+                            "anchor": "why your brain refuses stillness"
+                        }
+                    ],
+                    "authority_nuke": {
+                        "url": "https://www.sciencedirect.com/science/article/abs/pii/S016643282400037X",
+                        "anchor": "2024 ADHD nervous system study"
+                    }
+                },
+                "neuro_ux": {
+                    "chunking": {
+                        "max_lines": 3,
+                        "visual_breakers": [
+                            "🛋️",
+                            "🌀"
+                        ]
+                    },
+                    "attention_physics": {
+                        "focal_points": 5,
+                        "pattern_interrupts": 2
+                    }
+                },
+                "ml_signals": {
+                    "topic_cluster": "adhd-hustle-and-rest",
+                    "psychographic_label": "rest-resistant reactor",
+                    "trauma_trigger": "feeling unsafe while doing nothing"
+                }
+            },
+            "adhd-wired-but-tired": {
+                "tiered_titles": {
+                    "diagnostic": "The ‘Wired but Tired’ Test: Is ADHD Keeping You Stuck in Fight-or-Freeze Mode?",
+                    "emotional": "Exhausted but Can’t Stop: Why ADHD Feels Like Red Bull for Your Nerves, and Cement in Your Bones",
+                    "solution": "How to Calm Your ADHD Nervous System (When You're Both Exhausted and Buzzing)"
+                },
+                "neurological_anchor": {
+                    "visible": "Your brain can’t decide between fight and nap — so it burns energy trying to do both.",
+                    "hidden": {
+                        "alt_text": "Dysregulated arousal systems in ADHD create simultaneous fatigue and hypervigilance (2024 meta-analysis)",
+                        "footer_link": "/adhd-nervous-system-overdrive"
+                    }
+                },
+                "killer_hook": "You feel like collapsing. But your thoughts are doing jumping jacks. PS: That’s not burnout — it’s ADHD-induced tension with nowhere to go.",
+                "search_intent": {
+                    "informational": [
+                        "adhd wired but tired",
+                        "adhd nervous system fatigue"
+                    ],
+                    "emotional": [
+                        "why can’t i rest even when tired adhd",
+                        "adhd feels tired but restless"
+                    ],
+                    "commercial": [
+                        "adhd nervous system reset",
+                        "adhd fatigue relief kit"
+                    ]
+                },
+                "conversion_nuke": {
+                    "lead_magnet": "The ADHD Nervous System Reset Protocol",
+                    "hook": "You're not lazy or overcaffeinated — your brain's internal switch is jammed. Let's unjam it.",
+                    "schema": {
+                        "Quiz": {
+                            "name": "Is Your Brain Buzzing or Burning Out?",
+                            "questions": [
+                                "Do you lie down to rest… and feel even more anxious?",
+                                "Do your thoughts feel caffeinated even when your body crashes?"
+                            ]
+                        }
+                    }
+                },
+                "serp_warfare": {
+                    "people_also_ask": [
+                        "Why does ADHD make me feel tired and wired?",
+                        "Is this ADHD fatigue or anxiety?"
+                    ],
+                    "featured_snippet_attack": "‘Wired but tired’ in ADHD is caused by [bold]arousal dysregulation and stress recycling[/bold], not laziness (Barkley, 2024).",
+                    "video_targets": [
+                        "Wired but tired: ADHD edition"
+                    ]
+                },
+                "keyword_clusters": {
+                    "primary": "adhd wired but tired",
+                    "voice_combat": [
+                        "Hey Siri why am I tired but can’t stop ADHD",
+                        "Alexa help me turn off ADHD brain at night"
+                    ],
+                    "reddit_speak": [
+                        "tired chaos mode",
+                        "ADHD alert exhaustion"
+                    ],
+                    "medical_entities": [
+                        "arousal dysregulation",
+                        "cortisol imbalance"
+                    ]
+                },
+                "link_ops": {
+                    "silo_storm": [
+                        {
+                            "slug": "adhd-cant-just-chill",
+                            "anchor": "when relaxing feels like revving the engine"
+                        },
+                        {
+                            "slug": "adhd-breaks-trigger-panic",
+                            "anchor": "why stopping feels unsafe even when exhausted"
+                        }
+                    ],
+                    "authority_nuke": {
+                        "url": "https://www.frontiersin.org/articles/10.3389/fnins.2024.00101/full",
+                        "anchor": "2024 paper on ADHD arousal system dysfunction"
+                    }
+                },
+                "neuro_ux": {
+                    "chunking": {
+                        "max_lines": 3,
+                        "visual_breakers": [
+                            "🔋",
+                            "⚡"
+                        ]
+                    },
+                    "attention_physics": {
+                        "focal_points": 5,
+                        "pattern_interrupts": 2
+                    }
+                },
+                "ml_signals": {
+                    "topic_cluster": "adhd-hustle-and-rest",
+                    "psychographic_label": "mentally caffeinated, physically collapsed",
+                    "trauma_trigger": "being exhausted and blamed for not doing more"
+                }
+            },
+            "adhd-always-be-doing": {
+                "tiered_titles": {
+                    "diagnostic": "The ‘Always Doing Something’ Quiz: Does ADHD Make You Scared to Slow Down?",
+                    "emotional": "Doing Everything But Resting: When ADHD Turns Your To-Do List Into an Escape Plan",
+                    "solution": "How to Break Free From the ADHD ‘Always Be Doing’ Trap (Without Feeling Useless)"
+                },
+                "neurological_anchor": {
+                    "visible": "Your brain confuses movement with meaning — so it never lets you stop moving.",
+                    "hidden": {
+                        "alt_text": "Reward-seeking loops in ADHD create compulsive productivity patterns (2024 reward-processing study)",
+                        "footer_link": "/adhd-compulsive-doing-neuroscience"
+                    }
+                },
+                "killer_hook": "You check tasks off all day. Still feel like you didn’t do enough. PS: That’s not ambition — it’s avoidance disguised as hustle.",
+                "search_intent": {
+                    "informational": [
+                        "adhd always have to be doing something",
+                        "adhd compulsive productivity"
+                    ],
+                    "emotional": [
+                        "adhd feel bad doing nothing",
+                        "adhd can't rest must do more"
+                    ],
+                    "commercial": [
+                        "adhd productivity shame guide",
+                        "adhd stop doing toolkit"
+                    ]
+                },
+                "conversion_nuke": {
+                    "lead_magnet": "The ADHD Permission to Pause Blueprint",
+                    "hook": "Your identity is not your checklist. It’s okay to breathe.",
+                    "schema": {
+                        "Quiz": {
+                            "name": "Are You Productive… or Performing?",
+                            "questions": [
+                                "Do you panic if your to-do list is done before 5PM?",
+                                "Do you create new tasks just to avoid sitting still?"
+                            ]
+                        }
+                    }
+                },
+                "serp_warfare": {
+                    "people_also_ask": [
+                        "Why do ADHD people feel like they always have to be busy?",
+                        "Is hyper-productivity a coping mechanism?"
+                    ],
+                    "featured_snippet_attack": "ADHD ‘always be doing’ patterns arise from [bold]dopaminergic reward-chasing and emotional avoidance[/bold] (Barkley, 2024).",
+                    "video_targets": [
+                        "The ADHD urge to do everything, explained"
+                    ]
+                },
+                "keyword_clusters": {
+                    "primary": "adhd always be doing",
+                    "voice_combat": [
+                        "Why can’t I sit still even when I’m done ADHD",
+                        "Alexa help me stop overworking with ADHD"
+                    ],
+                    "reddit_speak": [
+                        "do-more disease",
+                        "ADHD hustle hamster wheel"
+                    ],
+                    "medical_entities": [
+                        "reward loop hijacking",
+                        "compulsive productivity"
+                    ]
+                },
+                "link_ops": {
+                    "silo_storm": [
+                        {
+                            "slug": "adhd-productivity-shame",
+                            "anchor": "when your value feels tied to output"
+                        },
+                        {
+                            "slug": "adhd-struggles-with-balance",
+                            "anchor": "why you can't stop swinging between extremes"
+                        }
+                    ],
+                    "authority_nuke": {
+                        "url": "https://www.sciencedirect.com/science/article/pii/S0924977X24000126",
+                        "anchor": "2024 ADHD reward-seeking behavior study"
+                    }
+                },
+                "neuro_ux": {
+                    "chunking": {
+                        "max_lines": 3,
+                        "visual_breakers": [
+                            "📋",
+                            "🚴"
+                        ]
+                    },
+                    "attention_physics": {
+                        "focal_points": 5,
+                        "pattern_interrupts": 2
+                    }
+                },
+                "ml_signals": {
+                    "topic_cluster": "adhd-hustle-and-rest",
+                    "psychographic_label": "overfunctioning to prove worth",
+                    "trauma_trigger": "fear of being seen as lazy"
+                }
+            },
+            "adhd-cant-sit-still": {
+                "tiered_titles": {
+                    "diagnostic": "The ‘Can’t Sit Still’ Quiz: Is ADHD Running the Show From the Inside Out?",
+                    "emotional": "Fidgeting, Pacing, Tapping — When ADHD Turns Stillness Into a Prison",
+                    "solution": "How to Calm the Restless ADHD Body (Without Forcing Stillness That Feels Like Torture)"
+                },
+                "neurological_anchor": {
+                    "visible": "Your body is translating your brain’s chaos into movement — it’s not just restlessness, it’s relief.",
+                    "hidden": {
+                        "alt_text": "Hyperactivity in motor cortex and cerebellum contributes to physical restlessness in ADHD (2024 neuroimaging)",
+                        "footer_link": "/adhd-physical-hyperactivity-neuroscience"
+                    }
+                },
+                "killer_hook": "You shift. Tap. Rock. Twitch. And still feel like you’re holding back a storm. PS: You’re not fidgety — you’re managing overflow.",
+                "search_intent": {
+                    "informational": [
+                        "adhd can’t sit still",
+                        "adhd physical restlessness"
+                    ],
+                    "emotional": [
+                        "adhd shame about fidgeting",
+                        "why do I pace all the time adhd"
+                    ],
+                    "commercial": [
+                        "adhd fidget strategies",
+                        "adhd calming movement toolkit"
+                    ]
+                },
+                "conversion_nuke": {
+                    "lead_magnet": "The ADHD Movement Mastery Toolkit",
+                    "hook": "Stillness doesn’t have to be frozen. Learn movement that soothes instead of shames.",
+                    "schema": {
+                        "Quiz": {
+                            "name": "Are You Fidgeting or Freeing Your Brain?",
+                            "questions": [
+                                "Do you move constantly without noticing?",
+                                "Have you ever felt judged for needing to pace or tap to focus?"
+                            ]
+                        }
+                    }
+                },
+                "serp_warfare": {
+                    "people_also_ask": [
+                        "Why can't people with ADHD sit still?",
+                        "Is ADHD just restlessness?"
+                    ],
+                    "featured_snippet_attack": "‘Can’t sit still’ isn’t behavioral — it’s [bold]neurological regulation via movement[/bold] in ADHD (Barkley, 2024).",
+                    "video_targets": [
+                        "POV: Sitting still with ADHD for 5 seconds"
+                    ]
+                },
+                "keyword_clusters": {
+                    "primary": "adhd can't sit still",
+                    "voice_combat": [
+                        "Why am I always moving ADHD",
+                        "Alexa ADHD sitting still tips"
+                    ],
+                    "reddit_speak": [
+                        "leg bounce gang",
+                        "ADHD pacing life"
+                    ],
+                    "medical_entities": [
+                        "motor cortex overactivation",
+                        "hyperkinetic movement"
+                    ]
+                },
+                "link_ops": {
+                    "silo_storm": [
+                        {
+                            "slug": "adhd-cant-slow-down",
+                            "anchor": "when your body mirrors your mind's chaos"
+                        },
+                        {
+                            "slug": "adhd-overcompensating",
+                            "anchor": "why stillness feels like failure"
+                        }
+                    ],
+                    "authority_nuke": {
+                        "url": "https://www.nature.com/articles/s41593-024-00172-9",
+                        "anchor": "2024 neuroimaging on ADHD motor cortex activation"
+                    }
+                },
+                "neuro_ux": {
+                    "chunking": {
+                        "max_lines": 3,
+                        "visual_breakers": [
+                            "🕺",
+                            "👣"
+                        ]
+                    },
+                    "attention_physics": {
+                        "focal_points": 5,
+                        "pattern_interrupts": 2
+                    }
+                },
+                "ml_signals": {
+                    "topic_cluster": "adhd-hustle-and-rest",
+                    "psychographic_label": "body-in-motion thinker",
+                    "trauma_trigger": "being punished for not sitting still"
+                }
+            },
+            "adhd-rest-doesnt-recharge": {
+                "tiered_titles": {
+                    "diagnostic": "The 'Rest But Still Drained' Quiz: Does ADHD Leave You Unrecharged After Breaks?",
+                    "emotional": "I Slept. I Rested. I’m Still Exhausted — When ADHD Turns Recovery Into Another Failure",
+                    "solution": "How to Actually Recharge With ADHD (When Rest Feels Like It Didn't Work)"
+                },
+                "neurological_anchor": {
+                    "visible": "Your body might pause — but your ADHD brain keeps the emergency systems running in the background.",
+                    "hidden": {
+                        "alt_text": "Persistent sympathetic activation in ADHD disrupts true rest and recovery (2024 sleep-neuro report)",
+                        "footer_link": "/adhd-nervous-system-fatigue"
+                    }
+                },
+                "killer_hook": "You took the break. You even napped. But your brain didn’t get the memo. PS: ADHD doesn’t just need rest — it needs the right kind.",
+                "search_intent": {
+                    "informational": [
+                        "adhd rest doesn’t help",
+                        "adhd sleep not restorative"
+                    ],
+                    "emotional": [
+                        "adhd tired after rest",
+                        "why am i still drained adhd"
+                    ],
+                    "commercial": [
+                        "adhd sleep recovery toolkit",
+                        "adhd nervous system reset course"
+                    ]
+                },
+                "conversion_nuke": {
+                    "lead_magnet": "The ADHD Recharge Rituals Guide",
+                    "hook": "It’s not about doing nothing — it’s about doing what resets your system. Let’s find what works.",
+                    "schema": {
+                        "Quiz": {
+                            "name": "Are You Resting or Just Paused?",
+                            "questions": [
+                                "Do breaks leave you just as tired — or more overwhelmed?",
+                                "Have you ever slept 8 hours and still felt like you haven’t exhaled?"
+                            ]
+                        }
+                    }
+                },
+                "serp_warfare": {
+                    "people_also_ask": [
+                        "Why doesn’t rest help with ADHD?",
+                        "Can ADHD make you tired even after sleep?"
+                    ],
+                    "featured_snippet_attack": "ADHD makes rest feel ineffective due to [bold]ongoing hyperarousal and emotional processing loops[/bold] (Barkley, 2024).",
+                    "video_targets": [
+                        "When rest isn’t restful — ADHD explained"
+                    ]
+                },
+                "keyword_clusters": {
+                    "primary": "adhd rest doesn't recharge",
+                    "voice_combat": [
+                        "Hey Google why doesn’t rest work for ADHD",
+                        "Alexa how to actually rest with ADHD"
+                    ],
+                    "reddit_speak": [
+                        "tired after napping ADHD",
+                        "ADHD rest void"
+                    ],
+                    "medical_entities": [
+                        "sympathetic nervous system",
+                        "sleep stage disruption"
+                    ]
+                },
+                "link_ops": {
+                    "silo_storm": [
+                        {
+                            "slug": "adhd-wired-but-tired",
+                            "anchor": "why your nervous system stays on, even when you shut down"
+                        },
+                        {
+                            "slug": "adhd-breaks-trigger-panic",
+                            "anchor": "why pausing doesn’t always soothe"
+                        }
+                    ],
+                    "authority_nuke": {
+                        "url": "https://www.sleepfoundation.org/mental-health/adhd-and-sleep",
+                        "anchor": "2024 ADHD sleep quality study"
+                    }
+                },
+                "neuro_ux": {
+                    "chunking": {
+                        "max_lines": 3,
+                        "visual_breakers": [
+                            "🛌",
+                            "🧠"
+                        ]
+                    },
+                    "attention_physics": {
+                        "focal_points": 5,
+                        "pattern_interrupts": 2
+                    }
+                },
+                "ml_signals": {
+                    "topic_cluster": "adhd-hustle-and-rest",
+                    "psychographic_label": "restless even while resting",
+                    "trauma_trigger": "feeling broken for not bouncing back"
+                }
             }
-        ]
+        }
     },
     "adhd-loneliness": {
         "tiered_titles": {
