@@ -184,7 +184,7 @@ og_title: "Missing Title"
 og_description: "Missing Description"
 ---\n\n"""
 
-def generate_combined_faq_section(topic, keyword, current_slug=None, pillar_slug=None):
+def generate_combined_faq_section(topic, keyword, current_slug=None, pillar_slug=None, keyword_anchor_map=None):
     """
     Combine questions from multiple FAQ styles and format into a single markdown block with H3 headings.
     """
@@ -220,12 +220,12 @@ def generate_combined_faq_section(topic, keyword, current_slug=None, pillar_slug
 
     for question in final_questions:
         raw_answer = generate_answer_for_question(question)
-        enhanced = enhance_answer_formatting(raw_answer, question, related_slug_map)
+        enhanced = enhance_answer_formatting(raw_answer, question, related_slug_map, keyword_anchor_map)
         faq_blocks.append(f"### {question}\n\n{enhanced.strip()}")
 
     return "\n\n".join(faq_blocks)
 
-def enhance_answer_formatting(answer, question, slug_map=None):
+def enhance_answer_formatting(answer, question, slug_map=None, keyword_map=None):
     # Shorten to ~2 sentences
     sentences = re.split(r"(?<=[.!?])\s+", answer.strip())
     short_answer = " ".join(sentences[:2])
@@ -234,12 +234,20 @@ def enhance_answer_formatting(answer, question, slug_map=None):
     if "Pro Tip:" not in short_answer and len(sentences) > 2:
         short_answer += "\n\n**Pro Tip:** Try breaking it into tiny steps and reward progress."
 
-    # Add internal link if match found
+    # Add internal link from slug map (based on question text)
     if slug_map:
         for slug, meta in slug_map.items():
             if slug.replace("-", " ") in question.lower():
                 link = f"[{meta['anchor']}]({meta['url']})"
                 short_answer += f"\n\nNeed more help? Check out {link}."
+                break
+
+    # ✅ Add internal links based on anchor phrases in the answer
+    if keyword_map:
+        for anchor, url in keyword_map.items():
+            if anchor.lower() in short_answer.lower():
+                pattern = re.compile(re.escape(anchor), re.IGNORECASE)
+                short_answer = pattern.sub(f"[{anchor}]({url})", short_answer, count=1)
                 break
 
     return short_answer
@@ -512,6 +520,27 @@ def generate_blog(row):
     keyword = row["primary_keyword"]
     slug = row["slug"]
 
+    # Step 1: Load related slugs from the row
+    related_slugs = [s.strip() for s in row.get("related_slugs", "").split(",") if s.strip()]
+
+    # Step 2: Load pillar config with anchor info
+    with open("config/prompts/pillar_config_with_anchors.json", "r", encoding="utf-8") as f:
+        pillar_config = json.load(f)
+
+    # Step 3: Build slug → anchors lookup
+    slug_to_anchors = {}
+    for cluster in pillar_config.values():
+        for spoke in cluster["spokes"]:
+            slug = spoke["slug"]
+            anchors = spoke.get("preferred_internal_anchors") or [spoke.get("anchor")]
+            slug_to_anchors[slug] = anchors
+
+    # Step 4: Build keyword-anchor map scoped to this blog
+    keyword_anchor_map = {}
+    for rel_slug in related_slugs:
+        for anchor in slug_to_anchors.get(rel_slug, []):
+            keyword_anchor_map[anchor] = f"/pages/{rel_slug}/"
+
     sections = {}
     log = {"slug": slug, "topic": topic, "status": "in_progress", "section_attempts": []}
 
@@ -530,7 +559,8 @@ def generate_blog(row):
                             topic=topic,
                             keyword=keyword,
                             current_slug=slug,
-                            pillar_slug=row.get("pillar_slug", "")
+                            pillar_slug=row.get("pillar_slug", ""),
+                            keyword_anchor_map=keyword_anchor_map
                         )
                     elif section in ["story_part_2", "story_part_3"]:
                         content = generate_story_section_with_link(
