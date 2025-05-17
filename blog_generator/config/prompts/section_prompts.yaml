@@ -127,39 +127,35 @@ keyword_generation:
     {{Content}}"
   system_instruction: You are an SEO expert helping create ADHD-friendly content. Keep keyword suggestions focused, not too general. Format them as a comma-separated list.
 
-faq_sections:
-  - enabled: false
-    provider: gemini
-    model: gemini-1.5-flash
-    temperature: 0.8
-    key: faq_google_autocomplete
-    heading: What People Are Googling
-    prompt: Based on '{{Topic}}', generate 5 real-sounding questions that people might type into Google. Use Google Autocomplete-style phrasing. Questions should be short, natural, and written like actual search queries. Only generate the questions — no answers.
-    system_instruction: You are a search-optimized content assistant. Generate raw search-style questions based on what people are actually googling. Do not provide answers. Questions only. Keep them brief and phrased casually like real Google queries.
-  - enabled: false
-    provider: gemini
-    model: gemini-1.5-flash
-    temperature: 0.8
-    key: faq_core
-    heading: Practical FAQs
-    prompt: "Write 4–6 FAQs about '{{Topic}}'. Each question must contain the exact phrase '{{primary_keyword}}'. Format strictly using HTML: <details><summary>Question</summary><p>Answer</p></details>. Do not number the questions. No markdown. No extra text."
-    system_instruction: Generate pragmatic, search-optimized FAQs. Must use strict HTML formatting with <details> and <summary>.
-  - enabled: false
-    provider: gemini
-    model: gemini-1.5-flash
-    temperature: 0.8
-    key: faq_curious
-    heading: Curious ADHD Questions
-    prompt: "Write 4–6 quirky, emotionally nuanced FAQs about '{{Topic}}'. Each question must include the exact phrase '{{primary_keyword}}'. Format strictly using HTML: <details><summary>Question</summary><p>Answer</p></details>. No bullet points, no markdown."
-    system_instruction: Respond like a friendly guide with cozy emotional nuance. Use strict HTML structure.
-  - enabled: false
-    provider: gemini
-    model: gemini-1.5-flash
-    temperature: 0.8
-    key: faq_cta
-    heading: Want to Check Yourself?
-    prompt: "Write 1 FAQ that invites people to take our free self-assessment for '{{Topic}}' at [QuirkyLabs.ai](https://quirkylabs.ai). Question must include the exact phrase '{{primary_keyword}}'. Format strictly using HTML: <details><summary>Question</summary><p>Answer with link.</p></details>."
-    system_instruction: Gently encourage the reader to visit QuirkyLabs.ai. Use strict HTML structure.
+faq_emotional:
+  enabled: true
+  provider: gemini
+  model: gemini-1.5-flash
+  temperature: 0.7
+  system_instruction: >
+    You are an ADHD expert helping write clear, empathetic answers to common ADHD questions. Your answers should sound warm, simple, and helpful, written at a 6th-grade reading level.
+  prompt: >
+    Based on the topic "{{topic}}", generate 5 frequently asked questions that people with ADHD often ask. Focus on emotional pain points, confusion, or common misunderstandings. Only output questions.
+
+faq_search_queries:
+  enabled: true
+  provider: gemini
+  model: gemini-1.5-flash
+  temperature: 0.4
+  system_instruction: >
+    You are a keyword analyst and ADHD content strategist. Your job is to find long-tail search queries people actually type into Google.
+  prompt: >
+    For the keyword "{{primary_keyword}}", list 7 highly searched questions that match Google Autocomplete or People Also Ask. Return only question-formatted lines.
+
+faq_quirky:
+  enabled: true
+  provider: gemini
+  model: gemini-1.5-flash
+  temperature: 0.85
+  system_instruction: >
+    You are a quirky, curious ADHD explainer. You help answer the weird or unexpected ADHD questions people are too shy to ask.
+  prompt: >
+    Given the topic "{{topic}}", generate 5 quirky, surprising, or thought-provoking questions someone with ADHD might wonder about. Return only the questions.
 
 cta:
   provider: gemini

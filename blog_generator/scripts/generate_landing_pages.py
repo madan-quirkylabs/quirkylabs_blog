@@ -73,7 +73,7 @@ section_order = [
     "story_part_2",
     "story_part_3",
     "checklist",
-    *faq_section_keys,
+    "faq_combined",
     "cta"
 ]
 
@@ -184,6 +184,66 @@ og_title: "Missing Title"
 og_description: "Missing Description"
 ---\n\n"""
 
+def generate_combined_faq_section(topic, keyword, current_slug=None, pillar_slug=None):
+    """
+    Combine questions from multiple FAQ styles and format into a single markdown block with H3 headings.
+    """
+
+    question_sources = ["faq_search_queries", "faq_emotional", "faq_quirky"]
+
+    all_questions = []
+
+    # Collect questions from all configured sources
+    for key in question_sources:
+        try:
+            questions = generate_faq_questions(key, topic, keyword)
+            all_questions.extend(questions)
+        except Exception as e:
+            print(f"⚠️ Skipping {key} due to error: {e}")
+
+    # Deduplicate questions by normalized text
+    seen = set()
+    unique_questions = []
+    for q in all_questions:
+        normalized = q.lower().strip("?!. ").replace("  ", " ")
+        if normalized not in seen and len(q) > 8:
+            seen.add(normalized)
+            unique_questions.append(q)
+
+    # Limit to top 10
+    final_questions = unique_questions[:10]
+
+    # Load related post slugs for internal linking
+    related_slug_map = get_related_slug_map(pillar_slug, current_slug)
+
+    faq_blocks = []
+
+    for question in final_questions:
+        raw_answer = generate_answer_for_question(question)
+        enhanced = enhance_answer_formatting(raw_answer, question, related_slug_map)
+        faq_blocks.append(f"### {question}\n\n{enhanced.strip()}")
+
+    return "\n\n".join(faq_blocks)
+
+def enhance_answer_formatting(answer, question, slug_map=None):
+    # Shorten to ~2 sentences
+    sentences = re.split(r"(?<=[.!?])\s+", answer.strip())
+    short_answer = " ".join(sentences[:2])
+
+    # Add Pro Tip if missing
+    if "Pro Tip:" not in short_answer and len(sentences) > 2:
+        short_answer += "\n\n**Pro Tip:** Try breaking it into tiny steps and reward progress."
+
+    # Add internal link if match found
+    if slug_map:
+        for slug, meta in slug_map.items():
+            if slug.replace("-", " ") in question.lower():
+                link = f"[{meta['anchor']}]({meta['url']})"
+                short_answer += f"\n\nNeed more help? Check out {link}."
+                break
+
+    return short_answer
+
 def generate_faq_questions(section_key, topic, keyword):
     faq_def = next(item for item in faq_section_defs if item["key"] == section_key)
     prompt = faq_def["prompt"].replace("{{Topic}}", topic).replace("{{topic}}", topic)
@@ -216,18 +276,6 @@ def generate_answer_for_question(question):
     ]
     return call_llm(messages, section=section)
 
-def generate_faq_section(section_key, topic, keyword):
-    questions = generate_faq_questions(section_key, topic, keyword)
-    faq_blocks = []
-
-    for question in questions:
-        # Remove any accidental <summary> wrapping
-        question = re.sub(r"</?summary>", "", question, flags=re.IGNORECASE).strip()
-        answer = generate_answer_for_question(question)
-        faq_blocks.append(f"### {question}\n\n{answer.strip()}")
-
-    return "\n".join(faq_blocks)
-
 def generate_section(section, topic, primary_keyword):
     prompt = prompts_dict.get(section, {}).get("prompt")
     system_instruction = prompts_dict.get(section, {}).get("system_instruction")
@@ -245,30 +293,47 @@ def generate_section(section, topic, primary_keyword):
 
     return call_llm(messages, section=section)
 
-def faq_to_jsonld(faq_html):
-    pattern = re.compile(r"<details>\s*<summary>(.*?)</summary>\s*(.*?)\s*</details>", re.DOTALL | re.IGNORECASE)
-    matches = pattern.findall(faq_html)
+def faq_to_jsonld(faq_markdown):
+    """
+    Extracts top 5 FAQ questions and answers from markdown using H3 ### headers.
+    Returns a valid FAQPage JSON-LD object.
+    """
+    import re
+    from bs4 import BeautifulSoup
 
-    def strip_html_tags(html):
-        return BeautifulSoup(html, "html.parser").get_text().strip()
+    faq_entries = []
+    blocks = re.split(r"\n###\s+", faq_markdown)
+
+    for block in blocks[1:]:  # skip first chunk before first ###
+
+        # Split the block into Q and A
+        lines = block.strip().split("\n", 1)
+        if len(lines) != 2:
+            continue  # skip malformed blocks
+
+        question = lines[0].strip()
+        answer_md = lines[1].strip()
+
+        # Strip markdown formatting from answer
+        answer_html = BeautifulSoup(answer_md, "html.parser").get_text().strip()
+
+        faq_entries.append({
+            "@type": "Question",
+            "name": question,
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": answer_html
+            }
+        })
+
+        if len(faq_entries) >= 5:
+            break
 
     jsonld = {
         "@context": "https://schema.org",
         "@type": "FAQPage",
-        "mainEntity": []
+        "mainEntity": faq_entries
     }
-
-    for q, a in matches[:5]:
-        clean_q = re.sub(r"<summary>|</summary>", "", q).strip()
-        clean_a = strip_html_tags(a)
-        jsonld["mainEntity"].append({
-            "@type": "Question",
-            "name": clean_q,
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": clean_a
-            }
-        })
 
     return json.dumps(jsonld, indent=2)
 
@@ -314,18 +379,10 @@ def assemble_blog_from_disk(slug, row):
         "story_part_1": read("story_part_1"),
         "story_part_2": read("story_part_2"),
         "story_part_3": read("story_part_3"),
-        "checklist": read("checklist"),
-        "faq_core": read("faq_core"),
-        "faq_google_autocomplete": read("faq_google_autocomplete"),
-        "faq_cta": read("faq_cta")
+        "checklist": read("checklist")
     }
 
-    # combine all FAQ into one block
-    all_faq_html = "\n\n".join([
-        f"\n\n### {key.replace('_', ' ').title()}\n\n{sections[key]}"
-        for key in ["faq_core", "faq_google_autocomplete", "faq_cta"]
-        if key in sections and sections[key].strip()
-    ])
+    all_faq_html = sections.get("faq_combined", "")
 
     # render related links
     related_block = render_related_spokes(row['pillar_slug'], row['slug'])
@@ -468,8 +525,13 @@ def generate_blog(row):
 
             for attempt in range(config["openai"]["max_retries"]):
                 try:
-                    if section in FAQ_TYPES:
-                        content = generate_faq_section(section, topic, keyword)
+                    if section == "faq_combined":
+                        content = generate_combined_faq_section(
+                            topic=topic,
+                            keyword=keyword,
+                            current_slug=slug,
+                            pillar_slug=row.get("pillar_slug", "")
+                        )
                     elif section in ["story_part_2", "story_part_3"]:
                         content = generate_story_section_with_link(
                             section_name=section,
