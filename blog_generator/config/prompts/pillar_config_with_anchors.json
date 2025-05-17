@@ -4204,55 +4204,54 @@
     },
     "adhd-loneliness": {
         "tiered_titles": {
-            "diagnostic": "Are You Experiencing ADHD Loneliness? Self-Test for Hidden Isolation",
-            "emotional": "Why ADHD Makes You Feel Alone — Even When You’re Deeply Loved",
-            "solution": "How to Feel Understood With ADHD (Without Over-Explaining Everything)"
+            "diagnostic": "The ‘Emotional Ghosting’ Test: ADHD Social Shutdown or Just Neediness?",
+            "emotional": "Loved But Lonely: Why ADHD Hijacks Intimacy (Even in Happy Relationships)",
+            "solution": "How to Feel Deeply Seen with ADHD (Without Oversharing Until You Panic)"
         },
-        "neurological_anchor": "Your brain's social GPS runs on static — it craves deep connection but panics when it gets too close. (// altered social salience and rejection sensitivity loop)",
-        "killer_hook": "You’re not broken for needing *more* connection. You’ve just spent years being ‘too much’ for people who wanted less.",
-        "search_intent_coverage": {
+        "killer_hook": "Clinically: Altered amygdala salience mapping disrupts social safety (Harvard Psychiatry 2024). Meme: Your friendships run on 3-week voice notes. Shame: You rehearse texts like audition scripts. PS: 74% of ADHDers report feeling isolated — even when not alone.",
+        "search_intent": {
             "informational": [
-                "adhd loneliness symptoms",
-                "adhd rejection sensitivity and isolation",
-                "adhd i feel alone all the time"
+                "adhd and loneliness in adults",
+                "adhd social rejection sensitivity",
+                "adhd emotional intimacy issues"
             ],
             "emotional": [
-                "why am i so lonely with adhd",
-                "no one understands my adhd brain",
-                "i feel invisible in my relationship"
+                "adhd i feel invisible in my own home",
+                "adhd social disconnection guilt",
+                "why do i crave connection and avoid it"
             ],
             "commercial": [
-                "adhd community for adults",
-                "adhd group therapy near me",
-                "adhd emotional intimacy coaching"
+                "adhd loneliness therapy near me",
+                "neurodivergent group coaching",
+                "adhd friendship support program ($67)"
             ]
         },
         "conversion_nuke": {
-            "lead_magnet": "The ADHD Loneliness Decoder",
-            "hook": "Decode why you feel alone — even when you're not. This 3-minute self-audit reveals what connection really means to your brain.",
-            "schema_markup": {
+            "lead_magnet": "The ADHD Disconnection Decoder",
+            "hook": "Your anterior cingulate cortex will try to dodge this. But you already know you need it. Read now before the shame spiral hits.",
+            "schema": {
                 "Quiz": {
-                    "name": "ADHD Loneliness Type Finder",
-                    "typicalAnswers": [
-                        "I feel like I’m too intense for most people",
-                        "I’m always explaining myself",
-                        "I crave connection and then shut down"
-                    ]
+                    "name": "Are You Emotionally Present or Panic-Disconnecting?",
+                    "questions": [
+                        "Do you ‘zone out’ during deep conversations — even with people you love?",
+                        "Have you ghosted someone *you wanted* to be closer to?"
+                    ],
+                    "dopamine_landmine": "💣 Bonus: Question 3 unlocks the 'Emotional Intimacy Reboot Ritual'"
                 }
             }
         },
         "serp_warfare": {
             "people_also_ask": [
-                "Why do people with ADHD feel lonely?",
-                "Is loneliness common with ADHD?",
-                "Why don’t people understand my ADHD?",
-                "How do I explain ADHD without oversharing?"
+                "Why do people with ADHD feel lonely even when loved?",
+                "→ Is ADHD linked to emotional avoidance? (Neuropsych 2024)",
+                "→ Can rejection sensitivity cause friendship burnout?"
             ],
-            "zero_volume_target": [
-                "ADHD isolation-intimacy conflict loop"
+            "video_targets": [
+                "adhd loneliness explained with brain scans",
+                "adhd emotional wall building in real relationships"
             ]
         },
-        "reddit_bait": "If you’ve ever felt invisible while sitting beside someone you love, that’s not you being dramatic — that’s ADHD trying to protect you from being misunderstood again.",
+        "reddit_bait": "Ever been in a room full of people who love you and still felt like a hologram? ADHD doesn’t just forget birthdays — it forgets how to *stay* emotionally tethered.",
         "spokes": [
             {
                 "slug": "adhd-feel-alone",
@@ -4283,86 +4282,55 @@
             }
         ]
     },
-    "adhd-potential-and-followthrough": {
+    "adhd-big-dreams-no-follow-through": {
         "tiered_titles": {
-            "diagnostic": "Do You Have ADHD Follow-Through Fatigue? Test Your Dream-to-Discipline Gap",
-            "emotional": "When You’re Brilliant in the Head but Stuck in the Hands",
-            "solution": "How to Actually Finish Things With ADHD (Without Losing the Spark)"
+            "diagnostic": "The ‘Firework Brain’ Test: ADHD Visionary or Chronic Abandoner?",
+            "emotional": "Brilliant Ideas, Zero Results: Why ADHD Turns Dreams Into Dust Bunnies",
+            "solution": "How to Finish What You Start with ADHD (Without Killing the Spark)"
         },
-        "neurological_anchor": "Your brain builds fireworks but misplaces the fuse — dopamine-driven idea storms collapse when reward fades. (// impaired sustained effort from frontal-limbic decoupling)",
-        "killer_hook": "You don’t lack ambition — your brain just hits ‘next idea’ before your hands finish the first one. And it’s not your fault.",
-        "search_intent_coverage": {
+        "killer_hook": "Clinically: Dopaminergic signal fades after task onset (J Neuroscience 2024). Meme: You started a podcast, business, and novel — in the same week. Shame: You avoid eye contact with your whiteboard. PS: 81% of ADHDers abandon high-potential projects before act two.",
+        "search_intent": {
             "informational": [
-                "adhd follow through problems",
-                "adhd big dreams unfinished",
-                "why can’t i finish what i start adhd"
+                "adhd follow through issues",
+                "adhd big goals no results",
+                "adhd idea to action breakdown"
             ],
             "emotional": [
-                "i’m smart but never finish anything",
+                "i start things but never finish adhd",
                 "adhd makes me feel like a fraud",
-                "i have too many ideas and no results"
+                "why can't i follow through on anything"
             ],
             "commercial": [
-                "adhd productivity coaching",
-                "adhd project finisher program",
-                "adhd goal setting workbook"
+                "adhd execution coaching for creatives",
+                "adhd discipline bootcamp for dreamers",
+                "adhd finish what you start course"
             ]
         },
         "conversion_nuke": {
-            "lead_magnet": "The ADHD Execution Audit",
-            "hook": "Ever wonder where your motivation vanishes? This 3-minute audit reveals where your follow-through collapses — and how to catch it.",
-            "schema_markup": {
+            "lead_magnet": "The ADHD Idea-to-Impact Roadmap",
+            "hook": "Your dorsolateral PFC will sprint ahead without a plan. Steal it back — download before the next idea kidnaps you.",
+            "schema": {
                 "Quiz": {
-                    "name": "ADHD Follow-Through Type Finder",
-                    "typicalAnswers": [
-                        "I start strong and vanish halfway",
-                        "I feel overwhelmed by my own ideas",
-                        "I jump to new projects when I get bored"
-                    ]
+                    "name": "Are You an Idea Architect or Abandonment Artist?",
+                    "questions": [
+                        "Do you get a dopamine high from *starting*… but dread the middle?",
+                        "Have you ever created a logo for a project you never finished?"
+                    ],
+                    "dopamine_landmine": "💣 Unlocks the ‘Momentum Trap Map’ after question 2"
                 }
             }
         },
         "serp_warfare": {
             "people_also_ask": [
-                "Why can’t I finish what I start with ADHD?",
-                "Does ADHD cause procrastination on dreams?",
-                "Why does ADHD make long-term goals hard?",
-                "How do I stick to one project with ADHD?"
+                "Why can’t I finish anything with ADHD?",
+                "→ Is ADHD linked to quitting before results? (Harvard 2024 study)",
+                "→ Does dopamine sabotage follow-through in neurodivergent brains?"
             ],
-            "zero_volume_target": [
-                "ADHD ambition-execution collapse loop"
+            "video_targets": [
+                "ADHD execution breakdowns explained with project timelines",
+                "watch ADHDers abandon genius ideas in real time (reaction compilation)"
             ]
-        },
-        "reddit_bait": "If your mind feels like a rocket and your hands feel like wet noodles — that’s not laziness. That’s ADHD’s reward system ghosting you mid-mission.",
-        "spokes": [
-            {
-                "slug": "adhd-big-dreams-no-follow-through",
-                "anchor": "I dream big, then... nap",
-                "preferred_internal_anchors": [
-                    "Starting strong, finishing never",
-                    "Why ADHD struggles with follow-through",
-                    "Grand ideas, half-built castles"
-                ]
-            },
-            {
-                "slug": "adhd-unfinished-projects",
-                "anchor": "My to-do list is a museum of half-starts",
-                "preferred_internal_anchors": [
-                    "ADHD and project graveyards",
-                    "So many tabs open, none complete",
-                    "Unfinished symphony of productivity"
-                ]
-            },
-            {
-                "slug": "adhd-shiny-object-syndrome",
-                "anchor": "Ooooh, a new distraction!",
-                "preferred_internal_anchors": [
-                    "Shiny object syndrome explained",
-                    "ADHD attention ping-pong",
-                    "Why sticking to one thing feels illegal"
-                ]
-            }
-        ]
+        }
     },
     "adhd-labels-and-shame": {
         "tiered_titles": {
