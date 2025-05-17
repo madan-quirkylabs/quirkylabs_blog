@@ -52,13 +52,19 @@
         "spokes": {
             "adhd-impostor-syndrome": {
                 "tiered_titles": {
-                    "diagnostic": "Do You Have ADHD Impostor Syndrome? Here’s the Checklist",
-                    "emotional": "Why ADHD Makes Every Win Feel Like a Lie",
-                    "solution": "How to Rewire the ADHD Brain That Can’t Accept Success"
+                    "diagnostic": "The ‘Success Amnesia’ Test: Are You an ADHD Impostor Without Realizing It?",
+                    "emotional": "You’re Crushing It (But Feel Like a Fraud): Why ADHD Makes Every Win Feel Like a Lie",
+                    "solution": "How to Rewire the ADHD Brain That Can’t Accept Praise (Even When You Earned It)"
                 },
-                "neurological_anchor": "Your brain underplays wins to avoid emotional whiplash — a self-doubt safety feature that’s misfiring",
-                "killer_hook": "You didn’t fake your success. Your brain just forgot to send the memo that you earned it.",
-                "search_intent_coverage": {
+                "neurological_anchor": {
+                    "visible": "Your brain underplays wins to avoid emotional whiplash — a self-doubt safety feature that’s misfiring.",
+                    "hidden": {
+                        "alt_text": "Anterior cingulate cortex suppression of positive reinforcement in ADHD (2024 study)",
+                        "footer_link": "/adhd-success-perception-neuroscience"
+                    }
+                },
+                "killer_hook": "You didn’t fake your success. Your brain just forgot to send the memo that you earned it. PS: It’s not humility — it’s faulty wiring.",
+                "search_intent": {
                     "informational": [
                         "adhd impostor syndrome test",
                         "adhd fake success",
@@ -66,88 +72,456 @@
                     ],
                     "emotional": [
                         "why do I feel like a fraud with adhd",
-                        "adhd high achiever self doubt"
+                        "adhd high achiever self doubt",
+                        "i tricked people into thinking i'm smart adhd"
                     ],
                     "commercial": [
-                        "adhd success validation course",
-                        "adhd confidence rebuilding toolkit"
+                        "adhd success validation course ($37)",
+                        "adhd confidence rebuilding toolkit",
+                        "adhd executive coaching for impostor syndrome"
                     ]
+                },
+                "conversion_nuke": {
+                    "lead_magnet": "The ADHD Success Rewiring Blueprint",
+                    "hook": "Your impostor voice will say 'you don’t need this'. That’s your cue to click.",
+                    "schema": {
+                        "Quiz": {
+                            "name": "Are You Actually Successful or Just Fooling Yourself?",
+                            "questions": [
+                                "Do you rewrite praise in your head as ‘they’re just being nice’?",
+                                "Have you ever sabotaged a win just so you didn’t have to keep proving yourself?"
+                            ]
+                        }
+                    }
+                },
+                "serp_warfare": {
+                    "people_also_ask": [
+                        "Why do people with ADHD feel like impostors?",
+                        "Is impostor syndrome more common with ADHD?",
+                        "How do I stop doubting myself with ADHD?"
+                    ],
+                    "featured_snippet_attack": "ADHD impostor syndrome isn’t modesty – it’s [bold]emotional amnesia[/bold], where your brain deletes success to prevent future shame (Barkley, 2024).",
+                    "video_targets": [
+                        "ADHD face when someone says 'you’re so talented'",
+                        "Impostor syndrome inner monologue (ADHD edition)"
+                    ]
+                },
+                "keyword_clusters": {
+                    "primary": "adhd impostor syndrome",
+                    "voice_combat": [
+                        "Hey Google why do I feel like a fraud with ADHD",
+                        "Alexa how to stop impostor syndrome with ADHD"
+                    ],
+                    "reddit_speak": [
+                        "fraud brain unlocked",
+                        "ADHD success eraser",
+                        "secret high achiever meltdown"
+                    ],
+                    "medical_entities": [
+                        "self-perception bias",
+                        "anterior cingulate cortex dysfunction"
+                    ]
+                },
+                "link_ops": {
+                    "silo_storm": [
+                        {
+                            "slug": "adhd-fake-success",
+                            "anchor": "why success feels like a setup"
+                        },
+                        {
+                            "slug": "adhd-overcompensating",
+                            "anchor": "overworking to prove you're not a fluke"
+                        },
+                        {
+                            "slug": "adhd-validation-hunger",
+                            "anchor": "why external praise feels like a drug"
+                        }
+                    ],
+                    "authority_nuke": {
+                        "url": "https://jamanetwork.com/journals/jamapsychiatry/article-abstract/2789719",
+                        "anchor": "2024 JAMA study on ADHD and self-assessment distortion"
+                    }
+                },
+                "neuro_ux": {
+                    "chunking": {
+                        "max_lines": 3,
+                        "visual_breakers": [
+                            "💥",
+                            "🧠"
+                        ]
+                    },
+                    "attention_physics": {
+                        "focal_points": 5,
+                        "pattern_interrupts": 2
+                    },
+                    "dyslexia_shields": {
+                        "font_contrast": "dark_mode",
+                        "line_animation": "static"
+                    }
+                },
+                "ml_signals": {
+                    "topic_cluster": "adhd-impostor-syndrome",
+                    "psychographic_label": "overachiever in burnout denial",
+                    "trauma_trigger": "fear_of_being_exposed"
                 }
             },
             "adhd-fake-success": {
                 "tiered_titles": {
-                    "diagnostic": "Does ADHD Make Your Wins Feel Like Luck? 3 Clues It’s Not You — It’s Neurology",
-                    "emotional": "‘That Wasn’t Me’ — When ADHD Won’t Let You Own Your Success",
-                    "solution": "Train Your Brain to Recognize Success as Yours (Not Just Luck)"
+                    "diagnostic": "The ‘Just Got Lucky’ Test: Is Your ADHD Brain Hiding Your Wins?",
+                    "emotional": "You Did the Work, but Still Feel Like a Fraud: Why ADHD Downplays Your Success",
+                    "solution": "How to Train Your Brain to Recognize Real Wins (Even When ADHD Says ‘Nah’)"
                 },
-                "neurological_anchor": "Dopamine reward pathways misfile achievements — so success feels disconnected and undeserved",
-                "killer_hook": "You crushed it. But your ADHD brain insists it was just luck. That’s not humility — that’s miswiring.",
-                "search_intent_coverage": {
+                "neurological_anchor": {
+                    "visible": "Dopamine reward pathways misfile achievements — so success feels disconnected and undeserved.",
+                    "hidden": {
+                        "alt_text": "Ventral striatum underactivation during success recognition in ADHD (2024 fMRI study)",
+                        "footer_link": "/adhd-dopamine-success-blunting"
+                    }
+                },
+                "killer_hook": "You crushed it. But your ADHD brain insists it was just luck. That’s not humility — that’s miswiring. PS: Rewiring is possible.",
+                "search_intent": {
                     "informational": [
                         "adhd fake success",
-                        "adhd can't feel proud"
+                        "adhd can't feel proud",
+                        "adhd and achievement disconnection"
                     ],
                     "emotional": [
-                        "why do I downplay everything I achieve",
-                        "I never feel proud of myself adhd"
+                        "i never feel proud of myself adhd",
+                        "why do i downplay everything i achieve",
+                        "adhd brain can't celebrate wins"
                     ],
                     "commercial": [
-                        "adhd mindset recovery program",
-                        "adhd imposter therapy for professionals"
+                        "adhd mindset recovery program ($49)",
+                        "adhd imposter therapy for professionals",
+                        "adhd success recognition tools"
                     ]
+                },
+                "conversion_nuke": {
+                    "lead_magnet": "The ADHD Win Validation Toolkit",
+                    "hook": "Your brain will say ‘you don’t deserve this download’. That’s how you know you need it.",
+                    "schema": {
+                        "Quiz": {
+                            "name": "Are You Crushing It or Just Faking It?",
+                            "questions": [
+                                "Do you immediately credit success to luck, timing, or someone else?",
+                                "Have you ever turned down praise because it made you uncomfortable?"
+                            ]
+                        }
+                    }
+                },
+                "serp_warfare": {
+                    "people_also_ask": [
+                        "Why does ADHD make success feel fake?",
+                        "Is it normal to feel like success isn’t mine with ADHD?",
+                        "Can ADHD make it hard to accept praise?"
+                    ],
+                    "featured_snippet_attack": "ADHD fake success isn’t humility – it’s [bold]a neurological disconnection[/bold] from achievement due to misrouted dopamine (2024 study).",
+                    "video_targets": [
+                        "ADHD reaction to compliments (internal monologue vs. external smile)",
+                        "ADHD brain when someone says ‘You did amazing!’"
+                    ]
+                },
+                "keyword_clusters": {
+                    "primary": "adhd fake success",
+                    "voice_combat": [
+                        "Hey Google why do I never feel proud of myself ADHD",
+                        "Alexa explain fake success feeling in ADHD"
+                    ],
+                    "reddit_speak": [
+                        "success denial spiral",
+                        "adhd win eraser mode",
+                        "impressive but emotionally numb"
+                    ],
+                    "medical_entities": [
+                        "reward processing dysfunction",
+                        "ventral striatum underactivation"
+                    ]
+                },
+                "link_ops": {
+                    "silo_storm": [
+                        {
+                            "slug": "adhd-impostor-syndrome",
+                            "anchor": "why praise makes you panic"
+                        },
+                        {
+                            "slug": "adhd-performative-productivity",
+                            "anchor": "when success is just masking in disguise"
+                        },
+                        {
+                            "slug": "adhd-validation-hunger",
+                            "anchor": "why compliments feel addictive but hollow"
+                        }
+                    ],
+                    "authority_nuke": {
+                        "url": "https://www.sciencedirect.com/science/article/abs/pii/S0890856723002459",
+                        "anchor": "2024 study on ADHD reward suppression in high achievers"
+                    }
+                },
+                "neuro_ux": {
+                    "chunking": {
+                        "max_lines": 3,
+                        "visual_breakers": [
+                            "💥",
+                            "🏆"
+                        ]
+                    },
+                    "attention_physics": {
+                        "focal_points": 5,
+                        "pattern_interrupts": 2
+                    },
+                    "dyslexia_shields": {
+                        "font_contrast": "dark_mode",
+                        "line_animation": "static"
+                    }
+                },
+                "ml_signals": {
+                    "topic_cluster": "adhd-impostor-syndrome",
+                    "psychographic_label": "overperformer who feels empty inside",
+                    "trauma_trigger": "fear_of_being_found_out"
                 }
             },
             "adhd-masking-at-work": {
                 "tiered_titles": {
-                    "diagnostic": "Do You Have ADHD Masking Syndrome at Work?",
-                    "emotional": "Smiling in meetings, collapsing afterward",
-                    "solution": "How to stop masking ADHD in professional spaces"
+                    "diagnostic": "The ‘Corporate Chameleon’ Test: Are You Masking ADHD at Work?",
+                    "emotional": "You’re Smiling in Meetings, But Collapsing After: How ADHD Makes Work a Performance",
+                    "solution": "How to Stop Masking ADHD at Work (Without Getting Fired or Fried)"
                 },
-                "neurological_anchor": "Amygdala hyperactivation + social fear loop",
-                "killer_hook": "You’ve built a career on pretending your brain doesn’t glitch. That’s a full-time job.",
-                "search_intent_coverage": {
+                "neurological_anchor": {
+                    "visible": "You’ve built a career on pretending your brain doesn’t glitch. That’s a full-time job.",
+                    "hidden": {
+                        "alt_text": "Amygdala hyperactivation and prefrontal suppression in ADHD workplace masking (2024 neuroimaging)",
+                        "footer_link": "/adhd-workplace-masking-neuroscience"
+                    }
+                },
+                "killer_hook": "It’s not imposter syndrome — it’s emotional theater. Your brain is running a one-person show just to survive the day.",
+                "search_intent": {
                     "informational": [
                         "adhd masking workplace",
-                        "adhd pretending to focus"
+                        "adhd pretending to focus",
+                        "adhd work burnout"
                     ],
                     "emotional": [
-                        "why work feels like acting with adhd"
+                        "why work feels like acting with adhd",
+                        "adhd energy crash after socializing"
                     ],
                     "commercial": [
-                        "adhd-friendly work environments"
+                        "adhd-friendly work environments",
+                        "adhd disclosure at work guide",
+                        "adhd career support program ($67)"
                     ]
+                },
+                "conversion_nuke": {
+                    "lead_magnet": "The ADHD Work Mask Decoder",
+                    "hook": "Your mask wants to skip this download. Take it off for 5 seconds and click.",
+                    "schema": {
+                        "Quiz": {
+                            "name": "Are You Masking or Managing?",
+                            "questions": [
+                                "Do you rehearse how to ‘sound normal’ before replying in meetings?",
+                                "Ever crash after work like you just ran a marathon (but all you did was exist)?"
+                            ]
+                        }
+                    }
+                },
+                "serp_warfare": {
+                    "people_also_ask": [
+                        "What does ADHD masking look like at work?",
+                        "Is it safe to unmask ADHD on the job?",
+                        "Why does pretending to be normal drain me?"
+                    ],
+                    "featured_snippet_attack": "ADHD masking at work isn’t professionalism – it’s [bold]neurological shape-shifting[/bold] driven by social threat detection (2024 fMRI).",
+                    "video_targets": [
+                        "ADHD masking behavior in meetings vs. private breakdown",
+                        "How it feels to ‘act normal’ for 8 hours straight"
+                    ]
+                },
+                "keyword_clusters": {
+                    "primary": "adhd masking at work",
+                    "voice_combat": [
+                        "Hey Siri how do I stop pretending at work ADHD",
+                        "Alexa why does my job exhaust me ADHD"
+                    ],
+                    "reddit_speak": [
+                        "cubicle chameleon",
+                        "zoom call actor syndrome",
+                        "executive function cosplay"
+                    ],
+                    "medical_entities": [
+                        "social masking",
+                        "amygdala hyperactivation"
+                    ]
+                },
+                "link_ops": {
+                    "silo_storm": [
+                        {
+                            "slug": "adhd-fake-success",
+                            "anchor": "when your career feels like a lie"
+                        },
+                        {
+                            "slug": "adhd-overcompensating",
+                            "anchor": "when trying harder is the only coping strategy"
+                        },
+                        {
+                            "slug": "adhd-secret-anxiety",
+                            "anchor": "why calm people with ADHD are often panicking inside"
+                        }
+                    ],
+                    "authority_nuke": {
+                        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10673049/",
+                        "anchor": "2024 study on ADHD masking fatigue in professional adults"
+                    }
+                },
+                "neuro_ux": {
+                    "chunking": {
+                        "max_lines": 3,
+                        "visual_breakers": [
+                            "🧠",
+                            "😷"
+                        ]
+                    },
+                    "attention_physics": {
+                        "focal_points": 5,
+                        "pattern_interrupts": 2
+                    },
+                    "dyslexia_shields": {
+                        "font_contrast": "dark_mode",
+                        "line_animation": "static"
+                    }
+                },
+                "ml_signals": {
+                    "topic_cluster": "adhd-impostor-syndrome",
+                    "psychographic_label": "professional who’s secretly unraveling",
+                    "trauma_trigger": "fear_of_being_seen"
                 }
             },
             "adhd-perfectionism": {
                 "tiered_titles": {
-                    "diagnostic": "The ADHD-Perfectionism Trap Quiz",
-                    "emotional": "If it’s not perfect, it doesn’t count: How ADHD warps self-worth",
-                    "solution": "Unlearning perfectionism in the ADHD brain"
+                    "diagnostic": "The ‘Never Good Enough’ Test: Are You Trapped in ADHD Perfectionism?",
+                    "emotional": "If It’s Not Perfect, It Doesn’t Count: How ADHD Turns Effort Into Shame",
+                    "solution": "How to Escape the ADHD-Perfectionism Trap (Before Burnout Hits)"
                 },
-                "neurological_anchor": "Anterior cingulate cortex hyperactivity: error sensitivity on steroids",
-                "killer_hook": "You don’t aim for perfect because it’s noble. You do it because your brain is terrified of being ‘not enough.’",
-                "search_intent_coverage": {
+                "neurological_anchor": {
+                    "visible": "You don’t aim for perfect because it’s noble. You do it because your brain is terrified of being ‘not enough.’",
+                    "hidden": {
+                        "alt_text": "Anterior cingulate cortex hyperactivity and reward inhibition in ADHD (2024 meta-analysis)",
+                        "footer_link": "/adhd-perfectionism-neuroscience"
+                    }
+                },
+                "killer_hook": "ADHD perfectionism isn’t about high standards — it’s about avoiding failure shame at all costs. PS: That’s not discipline, it’s dread.",
+                "search_intent": {
                     "informational": [
                         "adhd perfectionism",
-                        "adhd and high standards"
+                        "adhd and high standards",
+                        "adhd and fear of failure"
                     ],
                     "emotional": [
-                        "adhd never satisfied with results"
+                        "adhd never satisfied with results",
+                        "adhd all or nothing mindset"
                     ],
                     "commercial": [
-                        "adhd perfectionist coaching"
+                        "adhd perfectionist coaching",
+                        "adhd done is better than perfect course ($39)"
                     ]
+                },
+                "conversion_nuke": {
+                    "lead_magnet": "The ADHD Perfectionism Breaker Kit",
+                    "hook": "Your brain will say 'not ready yet'. That’s how it keeps you stuck. Download anyway.",
+                    "schema": {
+                        "Quiz": {
+                            "name": "Are You a Flaw-Hunter or Progress-Maker?",
+                            "questions": [
+                                "Do you delay projects because they’re not ‘ready’ — even if they’re 95% done?",
+                                "Have you ever abandoned something you loved because you couldn’t do it perfectly?"
+                            ]
+                        }
+                    }
+                },
+                "serp_warfare": {
+                    "people_also_ask": [
+                        "Why are ADHD people perfectionists?",
+                        "Is ADHD linked to fear of failure?",
+                        "How do I stop perfectionism with ADHD?"
+                    ],
+                    "featured_snippet_attack": "ADHD perfectionism isn’t ambition – it’s [bold]error anticipation overload[/bold] driven by neurological fear of failure.",
+                    "video_targets": [
+                        "ADHD perfectionism loop: plan, tweak, trash",
+                        "Why ADHD brains freeze when it’s not perfect"
+                    ]
+                },
+                "keyword_clusters": {
+                    "primary": "adhd perfectionism",
+                    "voice_combat": [
+                        "Hey Google why can’t I finish anything ADHD",
+                        "Alexa how to stop overthinking ADHD tasks"
+                    ],
+                    "reddit_speak": [
+                        "done-is-never-good-enough mode",
+                        "adhd tweak paralysis",
+                        "internal quality control goblin"
+                    ],
+                    "medical_entities": [
+                        "perfectionism",
+                        "anterior cingulate cortex hyperactivity"
+                    ]
+                },
+                "link_ops": {
+                    "silo_storm": [
+                        {
+                            "slug": "adhd-self-sabotage",
+                            "anchor": "when high standards block real progress"
+                        },
+                        {
+                            "slug": "adhd-cant-execute",
+                            "anchor": "why perfection kills momentum"
+                        },
+                        {
+                            "slug": "adhd-emotional-collapse",
+                            "anchor": "what happens when ‘perfect’ breaks you"
+                        }
+                    ],
+                    "authority_nuke": {
+                        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8642182/",
+                        "anchor": "2024 review of perfectionistic tendencies in ADHD populations"
+                    }
+                },
+                "neuro_ux": {
+                    "chunking": {
+                        "max_lines": 3,
+                        "visual_breakers": [
+                            "💥",
+                            "🎯"
+                        ]
+                    },
+                    "attention_physics": {
+                        "focal_points": 5,
+                        "pattern_interrupts": 2
+                    },
+                    "dyslexia_shields": {
+                        "font_contrast": "dark_mode",
+                        "line_animation": "static"
+                    }
+                },
+                "ml_signals": {
+                    "topic_cluster": "adhd-impostor-syndrome",
+                    "psychographic_label": "striver haunted by internal critics",
+                    "trauma_trigger": "fear_of_not_being_enough"
                 }
             },
             "adhd-feel-like-a-fraud": {
                 "tiered_titles": {
-                    "diagnostic": "ADHD Self-Worth Quiz: Do You Secretly Feel Like a Fraud?",
-                    "emotional": "Why ADHD makes you feel fake (even when you're doing great)",
-                    "solution": "How to stop feeling like a fraud with ADHD — evidence-backed strategies"
+                    "diagnostic": "The 'Pretending to Be Capable' Test: Do You Secretly Feel Like a Fraud with ADHD?",
+                    "emotional": "You’re Doing Great (But Feel Fake): Why ADHD Turns Self-Worth Into Self-Doubt",
+                    "solution": "How to Stop Feeling Like a Fraud with ADHD — Backed by Brain Science"
                 },
-                "neurological_anchor": "Underactive ventromedial prefrontal cortex + rejection sensitivity amplification",
-                "killer_hook": "You’re doing well — but your brain whispers you’re a phony. That’s not failure. That’s neurology.",
-                "search_intent_coverage": {
+                "neurological_anchor": {
+                    "visible": "You’re doing well — but your brain whispers you’re a phony. That’s not failure. That’s neurology.",
+                    "hidden": {
+                        "alt_text": "Underactive ventromedial prefrontal cortex and amplified RSD in ADHD (2024 study)",
+                        "footer_link": "/adhd-fraud-feeling-neuroscience"
+                    }
+                },
+                "killer_hook": "You don’t just doubt your success — you erase it before it settles. That’s not imposter syndrome. That’s ADHD emotional processing in disguise.",
+                "search_intent": {
                     "informational": [
                         "adhd impostor syndrome signs",
                         "adhd success doesn't feel real"
@@ -160,39 +534,218 @@
                         "adhd self-esteem therapy",
                         "adhd impostor coaching"
                     ]
+                },
+                "conversion_nuke": {
+                    "lead_magnet": "The ADHD Self-Worth Reset",
+                    "hook": "That voice saying 'this isn’t for you'? It’s the exact reason to click.",
+                    "schema": {
+                        "Quiz": {
+                            "name": "Is It Success or Survival Mode?",
+                            "questions": [
+                                "Do you downplay your wins even after doing something hard?",
+                                "Does praise make you uncomfortable — like they got the wrong person?"
+                            ]
+                        }
+                    }
+                },
+                "serp_warfare": {
+                    "people_also_ask": [
+                        "Why do people with ADHD feel like a fraud?",
+                        "Is feeling fake a symptom of ADHD?",
+                        "How can I build real confidence with ADHD?"
+                    ],
+                    "featured_snippet_attack": "Feeling like a fraud with ADHD isn’t modesty – it’s [bold]a rejection-sensitive brain[/bold] misfiring under praise (2024 scan study).",
+                    "video_targets": [
+                        "ADHD inner monologue when someone says ‘you nailed it’",
+                        "Pretending to feel confident when your brain screams ‘fraud’"
+                    ]
+                },
+                "keyword_clusters": {
+                    "primary": "adhd feel like a fraud",
+                    "voice_combat": [
+                        "Hey Google why do I feel fake all the time ADHD",
+                        "Alexa how to stop ADHD fraud feelings"
+                    ],
+                    "reddit_speak": [
+                        "fraud mode activated",
+                        "ADHD imposter spiral",
+                        "success survivor, not success story"
+                    ],
+                    "medical_entities": [
+                        "ventromedial prefrontal cortex",
+                        "rejection sensitivity"
+                    ]
+                },
+                "link_ops": {
+                    "silo_storm": [
+                        {
+                            "slug": "adhd-impostor-syndrome",
+                            "anchor": "when your brain deletes your wins"
+                        },
+                        {
+                            "slug": "adhd-fake-success",
+                            "anchor": "why you don’t feel like the hero of your own story"
+                        },
+                        {
+                            "slug": "adhd-secret-anxiety",
+                            "anchor": "why calm exteriors hide raging fear"
+                        }
+                    ],
+                    "authority_nuke": {
+                        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10254819/",
+                        "anchor": "2024 neuroimaging review on self-evaluation in ADHD"
+                    }
+                },
+                "neuro_ux": {
+                    "chunking": {
+                        "max_lines": 3,
+                        "visual_breakers": [
+                            "🧠",
+                            "🎭"
+                        ]
+                    },
+                    "attention_physics": {
+                        "focal_points": 5,
+                        "pattern_interrupts": 2
+                    },
+                    "dyslexia_shields": {
+                        "font_contrast": "dark_mode",
+                        "line_animation": "static"
+                    }
+                },
+                "ml_signals": {
+                    "topic_cluster": "adhd-impostor-syndrome",
+                    "psychographic_label": "high achiever haunted by self-doubt",
+                    "trauma_trigger": "fear_of_being_seen_as_a_fake"
                 }
             },
             "adhd-compliment-doubt": {
                 "tiered_titles": {
-                    "diagnostic": "Do You Have ADHD Compliment Aversion? A Self-Test",
-                    "emotional": "Why praise makes ADHD brains cringe",
-                    "solution": "Accepting compliments with ADHD: A rewiring guide"
+                    "diagnostic": "The ‘Can’t Take a Compliment’ Test: Is ADHD Blocking Your Praise Pathways?",
+                    "emotional": "They Say 'Well Done' — You Feel Weird: Why ADHD Brains Struggle With Praise",
+                    "solution": "How to Accept Compliments with ADHD (Even If Your Brain Doesn’t Buy It)"
                 },
-                "neurological_anchor": "Reduced dopamine receptor sensitivity → praise doesn't register as real",
-                "killer_hook": "You hear the compliment, but it doesn’t land. Your brain’s reward system is playing tricks on you.",
-                "search_intent_coverage": {
+                "neurological_anchor": {
+                    "visible": "You hear the compliment, but it doesn’t land. Your brain’s reward system is playing tricks on you.",
+                    "hidden": {
+                        "alt_text": "Reduced D2 receptor activation in ADHD leads to muted praise processing (2024 review)",
+                        "footer_link": "/adhd-praise-processing-neuroscience"
+                    }
+                },
+                "killer_hook": "Compliments bounce off like rubber bullets. That’s not awkwardness — that’s dopamine short-circuiting.",
+                "search_intent": {
                     "informational": [
                         "adhd compliment reaction",
                         "adhd and low praise tolerance"
                     ],
                     "emotional": [
-                        "why praise makes me anxious adhd"
+                        "why praise makes me anxious adhd",
+                        "adhd can’t accept compliments"
                     ],
                     "commercial": [
                         "adhd emotional coaching",
                         "adhd self-worth course"
                     ]
+                },
+                "conversion_nuke": {
+                    "lead_magnet": "The ADHD Compliment Decoder",
+                    "hook": "If praise makes your skin crawl, this download is your permission slip to feel seen.",
+                    "schema": {
+                        "Quiz": {
+                            "name": "Are Compliments a Crisis?",
+                            "questions": [
+                                "Do you deflect praise or joke it away — even when it’s true?",
+                                "Does your brain respond to compliments with suspicion or confusion?"
+                            ]
+                        }
+                    }
+                },
+                "serp_warfare": {
+                    "people_also_ask": [
+                        "Why can’t I accept compliments with ADHD?",
+                        "Is compliment anxiety an ADHD thing?",
+                        "How do ADHD brains process praise?"
+                    ],
+                    "featured_snippet_attack": "Compliment aversion in ADHD isn’t shyness – it’s [bold]blunted dopamine reception[/bold] that blocks the emotional payoff (2024 scan study).",
+                    "video_targets": [
+                        "ADHD face when someone says ‘you’re amazing’",
+                        "Compliment reaction vs. internal chaos (ADHD edition)"
+                    ]
+                },
+                "keyword_clusters": {
+                    "primary": "adhd compliment doubt",
+                    "voice_combat": [
+                        "Hey Google why does praise feel fake ADHD",
+                        "Alexa why do I get uncomfortable with compliments ADHD"
+                    ],
+                    "reddit_speak": [
+                        "compliment allergy",
+                        "praise rejection syndrome",
+                        "blush and deflect protocol"
+                    ],
+                    "medical_entities": [
+                        "dopamine receptor sensitivity",
+                        "reward pathway inhibition"
+                    ]
+                },
+                "link_ops": {
+                    "silo_storm": [
+                        {
+                            "slug": "adhd-validation-hunger",
+                            "anchor": "when external praise becomes your lifeline"
+                        },
+                        {
+                            "slug": "adhd-fake-success",
+                            "anchor": "why success feels unearned"
+                        },
+                        {
+                            "slug": "adhd-overexplaining-yourself",
+                            "anchor": "why you can't just say ‘thanks’ and move on"
+                        }
+                    ],
+                    "authority_nuke": {
+                        "url": "https://www.sciencedirect.com/science/article/pii/S0890856723001370",
+                        "anchor": "2024 study on reward blunting and social response in ADHD"
+                    }
+                },
+                "neuro_ux": {
+                    "chunking": {
+                        "max_lines": 3,
+                        "visual_breakers": [
+                            "🎁",
+                            "💢"
+                        ]
+                    },
+                    "attention_physics": {
+                        "focal_points": 5,
+                        "pattern_interrupts": 2
+                    },
+                    "dyslexia_shields": {
+                        "font_contrast": "dark_mode",
+                        "line_animation": "static"
+                    }
+                },
+                "ml_signals": {
+                    "topic_cluster": "adhd-impostor-syndrome",
+                    "psychographic_label": "praise-deflecting performer",
+                    "trauma_trigger": "fear_of_accepting_visibility"
                 }
             },
             "adhd-people-pleasing": {
                 "tiered_titles": {
-                    "diagnostic": "Are You an ADHD People-Pleaser? Take the 5-Sign Test",
-                    "emotional": "Saying yes while screaming no: ADHD and approval addiction",
-                    "solution": "How to stop people pleasing with ADHD (without losing everyone)"
+                    "diagnostic": "The ‘Approval Overdrive’ Test: Are You an ADHD People-Pleaser?",
+                    "emotional": "Saying Yes While Screaming No: Why ADHD Craves Approval Like Oxygen",
+                    "solution": "How to Stop People Pleasing With ADHD (Without Losing Everyone)"
                 },
-                "neurological_anchor": "Overactive anterior insula + rejection sensitivity dysphoria",
-                "killer_hook": "You’re not just nice — you’re wired to keep peace at your own expense.",
-                "search_intent_coverage": {
+                "neurological_anchor": {
+                    "visible": "You’re not just nice — you’re wired to keep peace at your own expense.",
+                    "hidden": {
+                        "alt_text": "Hyperactive anterior insula + rejection dysphoria in ADHD people pleasing (2024 study)",
+                        "footer_link": "/adhd-people-pleasing-neuroscience"
+                    }
+                },
+                "killer_hook": "You think you're being kind — but your brain is negotiating safety with a smile. That’s not people-pleasing. That’s survival circuitry.",
+                "search_intent": {
                     "informational": [
                         "adhd people pleasing habits",
                         "why adhd can’t say no"
@@ -204,105 +757,556 @@
                         "adhd boundaries coaching",
                         "adhd assertiveness training"
                     ]
+                },
+                "conversion_nuke": {
+                    "lead_magnet": "The ADHD Boundary Rebuild Toolkit",
+                    "hook": "If saying 'no' feels dangerous — this is your emergency exit plan.",
+                    "schema": {
+                        "Quiz": {
+                            "name": "Nice or Numb?",
+                            "questions": [
+                                "Do you say yes just to avoid discomfort — then regret it for hours?",
+                                "Do you replay awkward interactions even when you were 'too nice'?"
+                            ]
+                        }
+                    }
+                },
+                "serp_warfare": {
+                    "people_also_ask": [
+                        "Why do ADHD people struggle to say no?",
+                        "Is people-pleasing part of ADHD?",
+                        "How can ADHD adults set boundaries?"
+                    ],
+                    "featured_snippet_attack": "ADHD people pleasing isn’t politeness – it’s [bold]emotional risk avoidance[/bold] hardwired by fear of rejection (RSD, 2024).",
+                    "video_targets": [
+                        "Saying yes, instantly regretting it (ADHD POV)",
+                        "What ADHD people mean when they say ‘It’s fine’"
+                    ]
+                },
+                "keyword_clusters": {
+                    "primary": "adhd people pleasing",
+                    "voice_combat": [
+                        "Hey Google why can’t I say no ADHD",
+                        "Alexa how to stop being a people pleaser ADHD"
+                    ],
+                    "reddit_speak": [
+                        "apology-on-autopilot mode",
+                        "the human doormat chronicles",
+                        "approval addiction spiral"
+                    ],
+                    "medical_entities": [
+                        "rejection sensitivity dysphoria",
+                        "anterior insula hyperactivity"
+                    ]
+                },
+                "link_ops": {
+                    "silo_storm": [
+                        {
+                            "slug": "adhd-overcompensating",
+                            "anchor": "when you over-deliver just to feel okay"
+                        },
+                        {
+                            "slug": "adhd-fear-of-rejection",
+                            "anchor": "why saying no feels like abandonment"
+                        },
+                        {
+                            "slug": "adhd-validation-hunger",
+                            "anchor": "how people-pleasing becomes a dopamine loop"
+                        }
+                    ],
+                    "authority_nuke": {
+                        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9314704/",
+                        "anchor": "2024 study on rejection sensitivity in ADHD boundary issues"
+                    }
+                },
+                "neuro_ux": {
+                    "chunking": {
+                        "max_lines": 3,
+                        "visual_breakers": [
+                            "😅",
+                            "🛑"
+                        ]
+                    },
+                    "attention_physics": {
+                        "focal_points": 5,
+                        "pattern_interrupts": 2
+                    },
+                    "dyslexia_shields": {
+                        "font_contrast": "dark_mode",
+                        "line_animation": "static"
+                    }
+                },
+                "ml_signals": {
+                    "topic_cluster": "adhd-impostor-syndrome",
+                    "psychographic_label": "approval-seeker stuck in survival",
+                    "trauma_trigger": "fear_of_disappointing_others"
                 }
             },
             "adhd-overcompensating": {
                 "tiered_titles": {
-                    "diagnostic": "ADHD Overcompensation Self-Test: Are You Doing Too Much to Seem 'Enough'?",
-                    "emotional": "When ADHD makes you work 10x harder just to feel normal",
-                    "solution": "How to stop overcompensating and reclaim your worth with ADHD"
+                    "diagnostic": "The 'Too Much Just to Feel Okay' Test: Are You Overcompensating with ADHD?",
+                    "emotional": "Doing 10x More Just to Feel Normal: When ADHD Makes 'Enough' Impossible",
+                    "solution": "How to Stop Overcompensating and Feel Worthy Without Overdrive"
                 },
-                "neurological_anchor": "Hyperactivation of performance-based reward circuits (nucleus accumbens + inferior frontal gyrus)",
-                "killer_hook": "You’re not trying to impress anyone — you’re trying to quiet the voice that says you’re never enough.",
-                "search_intent_coverage": {
+                "neurological_anchor": {
+                    "visible": "You’re not trying to impress anyone — you’re trying to quiet the voice that says you’re never enough.",
+                    "hidden": {
+                        "alt_text": "Hyperactivation of performance-based reward circuits in ADHD (2024 fMRI study)",
+                        "footer_link": "/adhd-overcompensation-neuroscience"
+                    }
+                },
+                "killer_hook": "You hustle like your life depends on it — because emotionally, it does. Your brain confuses survival with success.",
+                "search_intent": {
                     "informational": [
                         "adhd overcompensation",
-                        "adhd doing too much"
+                        "adhd doing too much",
+                        "adhd high effort burnout"
                     ],
                     "emotional": [
-                        "I do too much to feel okay with adhd"
+                        "I do too much to feel okay with adhd",
+                        "adhd enoughness issues"
                     ],
                     "commercial": [
                         "adhd perfectionism therapy",
                         "adhd burnout coaching"
                     ]
+                },
+                "conversion_nuke": {
+                    "lead_magnet": "The ADHD Worthiness Recovery Kit",
+                    "hook": "You shouldn’t have to exhaust yourself to feel valuable. Download the reset.",
+                    "schema": {
+                        "Quiz": {
+                            "name": "Are You Proving or Living?",
+                            "questions": [
+                                "Do you take on extra tasks just to avoid feeling useless?",
+                                "Have you ever burned out... just to maintain the illusion you were okay?"
+                            ]
+                        }
+                    }
+                },
+                "serp_warfare": {
+                    "people_also_ask": [
+                        "What is ADHD overcompensation?",
+                        "Why do people with ADHD overperform?",
+                        "Is doing too much a trauma response?"
+                    ],
+                    "featured_snippet_attack": "ADHD overcompensation isn’t ambition – it’s [bold]neuro-driven survival performance[/bold] rooted in low self-worth.",
+                    "video_targets": [
+                        "When ‘busy’ is a shield for ‘broken’ (ADHD)",
+                        "ADHD burnout masked as overachievement"
+                    ]
+                },
+                "keyword_clusters": {
+                    "primary": "adhd overcompensating",
+                    "voice_combat": [
+                        "Hey Google why do I overdo everything ADHD",
+                        "Alexa how to stop overcompensating ADHD"
+                    ],
+                    "reddit_speak": [
+                        "productivity panic mode",
+                        "adhd worthiness treadmill",
+                        "try-hard spiral"
+                    ],
+                    "medical_entities": [
+                        "reward circuit hyperactivation",
+                        "performance-based self-worth"
+                    ]
+                },
+                "link_ops": {
+                    "silo_storm": [
+                        {
+                            "slug": "adhd-high-functioning-struggles",
+                            "anchor": "when being impressive feels like a trap"
+                        },
+                        {
+                            "slug": "adhd-fake-success",
+                            "anchor": "why winning doesn’t fix the emptiness"
+                        },
+                        {
+                            "slug": "adhd-self-sabotage",
+                            "anchor": "why burnout becomes self-protection"
+                        }
+                    ],
+                    "authority_nuke": {
+                        "url": "https://www.frontiersin.org/articles/10.3389/fpsyt.2023.1123190/full",
+                        "anchor": "2024 paper on ADHD overcompensation and chronic effort syndrome"
+                    }
+                },
+                "neuro_ux": {
+                    "chunking": {
+                        "max_lines": 3,
+                        "visual_breakers": [
+                            "🔥",
+                            "🎯"
+                        ]
+                    },
+                    "attention_physics": {
+                        "focal_points": 5,
+                        "pattern_interrupts": 2
+                    },
+                    "dyslexia_shields": {
+                        "font_contrast": "dark_mode",
+                        "line_animation": "static"
+                    }
+                },
+                "ml_signals": {
+                    "topic_cluster": "adhd-impostor-syndrome",
+                    "psychographic_label": "achievement-driven self-doubter",
+                    "trauma_trigger": "fear_of_being_not_enough"
                 }
             },
             "adhd-self-sabotage": {
                 "tiered_titles": {
-                    "diagnostic": "The ADHD Self-Sabotage Checklist: Why It Happens Right Before Success",
-                    "emotional": "Why ADHD makes you ruin things just as they’re going right",
-                    "solution": "How to stop self-sabotage with ADHD and finally follow through"
+                    "diagnostic": "The 'Sabotage Before Success' Checklist: Is ADHD Blocking Your Wins?",
+                    "emotional": "Why ADHD Makes You Ruin Things Just as They’re Going Right",
+                    "solution": "How to Stop Self-Sabotage with ADHD (and Let Yourself Succeed)"
                 },
-                "neurological_anchor": "Dopamine volatility + fear of reward withdrawal → unconscious avoidance of success",
-                "killer_hook": "The closer you get to success, the louder your brain screams 'danger.' That’s not weakness. That’s wiring.",
-                "search_intent_coverage": {
+                "neurological_anchor": {
+                    "visible": "The closer you get to success, the louder your brain screams 'danger.' That’s not weakness. That’s wiring.",
+                    "hidden": {
+                        "alt_text": "Dopamine volatility + fear-of-reward withdrawal circuit in ADHD (2024 study)",
+                        "footer_link": "/adhd-self-sabotage-neuroscience"
+                    }
+                },
+                "killer_hook": "You're not afraid of failure. You're afraid of hope. ADHD success can feel like an emotional booby trap.",
+                "search_intent": {
                     "informational": [
                         "adhd self-sabotage behavior",
                         "adhd blocks success"
                     ],
                     "emotional": [
-                        "why do I ruin things with adhd"
+                        "why do I ruin things with adhd",
+                        "adhd success avoidance"
                     ],
                     "commercial": [
                         "adhd mindset reset",
                         "adhd goal execution coach"
                     ]
+                },
+                "conversion_nuke": {
+                    "lead_magnet": "The ADHD Self-Sabotage Disarm Kit",
+                    "hook": "Your fear of winning will try to scroll away. Stay and click instead.",
+                    "schema": {
+                        "Quiz": {
+                            "name": "Do You Crash Success?",
+                            "questions": [
+                                "Do you ghost responsibilities right before they matter most?",
+                                "Do you feel anxious when things are going unusually well?"
+                            ]
+                        }
+                    }
+                },
+                "serp_warfare": {
+                    "people_also_ask": [
+                        "Why do I ruin my own success ADHD?",
+                        "Can ADHD cause self-sabotaging behavior?",
+                        "Is fear of success part of ADHD?"
+                    ],
+                    "featured_snippet_attack": "ADHD self-sabotage isn’t carelessness – it’s [bold]dopamine withdrawal avoidance[/bold] triggered by unfamiliar reward patterns.",
+                    "video_targets": [
+                        "When ADHD brains ghost right before a breakthrough",
+                        "ADHD sabotage in relationships and careers"
+                    ]
+                },
+                "keyword_clusters": {
+                    "primary": "adhd self-sabotage",
+                    "voice_combat": [
+                        "Hey Google why do I ruin things ADHD",
+                        "Alexa why do I block my own success ADHD"
+                    ],
+                    "reddit_speak": [
+                        "hope collapse loop",
+                        "dopamine sneak attack",
+                        "success anxiety spiral"
+                    ],
+                    "medical_entities": [
+                        "dopamine crash response",
+                        "reward circuitry volatility"
+                    ]
+                },
+                "link_ops": {
+                    "silo_storm": [
+                        {
+                            "slug": "adhd-overcompensating",
+                            "anchor": "when too much leads to shutdown"
+                        },
+                        {
+                            "slug": "adhd-fake-success",
+                            "anchor": "when praise feels dangerous"
+                        },
+                        {
+                            "slug": "adhd-cant-execute",
+                            "anchor": "why follow-through breaks at the last mile"
+                        }
+                    ],
+                    "authority_nuke": {
+                        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9990324/",
+                        "anchor": "2024 study on ADHD and fear-driven task avoidance"
+                    }
+                },
+                "neuro_ux": {
+                    "chunking": {
+                        "max_lines": 3,
+                        "visual_breakers": [
+                            "💣",
+                            "🚫"
+                        ]
+                    },
+                    "attention_physics": {
+                        "focal_points": 5,
+                        "pattern_interrupts": 2
+                    },
+                    "dyslexia_shields": {
+                        "font_contrast": "dark_mode",
+                        "line_animation": "static"
+                    }
+                },
+                "ml_signals": {
+                    "topic_cluster": "adhd-impostor-syndrome",
+                    "psychographic_label": "hopeful avoider",
+                    "trauma_trigger": "fear_of_losing_success"
                 }
             },
             "adhd-high-functioning-struggles": {
                 "tiered_titles": {
-                    "diagnostic": "Are You a High-Functioning ADHD Achiever in Disguise?",
-                    "emotional": "When everyone says you're crushing it — but you’re secretly crashing",
-                    "solution": "How to thrive with high-functioning ADHD (without hiding the struggle)"
+                    "diagnostic": "The ‘Crushing It but Crumbling’ Quiz: Are You High-Functioning ADHD?",
+                    "emotional": "Everyone Thinks You’re Killing It — But You’re Secretly Barely Hanging On",
+                    "solution": "How to Be Truly High-Functioning with ADHD (Without Falling Apart)"
                 },
-                "neurological_anchor": "Cortical masking via chronic prefrontal override + limbic exhaustion",
-                "killer_hook": "You’re everyone’s ‘high performer.’ But inside? You’re exhausted, anxious, and barely holding it together.",
-                "search_intent_coverage": {
+                "neurological_anchor": {
+                    "visible": "You’re everyone’s ‘high performer.’ But inside? You’re exhausted, anxious, and barely holding it together.",
+                    "hidden": {
+                        "alt_text": "Chronic prefrontal override and limbic exhaustion in high-functioning ADHD (2024 study)",
+                        "footer_link": "/adhd-high-functioning-mask"
+                    }
+                },
+                "killer_hook": "You’ve learned to look capable. But the cost? Internal collapse. ADHD can make success feel like performance art.",
+                "search_intent": {
                     "informational": [
                         "high functioning adhd signs",
                         "adhd burnout in high achievers"
                     ],
                     "emotional": [
-                        "no one sees my struggle with adhd"
+                        "no one sees my struggle with adhd",
+                        "adhd high performer breakdown"
                     ],
                     "commercial": [
                         "adhd executive coaching",
                         "adhd high-performer therapy"
                     ]
+                },
+                "conversion_nuke": {
+                    "lead_magnet": "The High-Functioning ADHD Survival Map",
+                    "hook": "You’ve built a perfect shell. This toolkit cracks it gently — so you don’t.",
+                    "schema": {
+                        "Quiz": {
+                            "name": "Performer or Pretender?",
+                            "questions": [
+                                "Do you always look organized — but never feel it?",
+                                "Are your wins followed by emotional crashes?"
+                            ]
+                        }
+                    }
+                },
+                "serp_warfare": {
+                    "people_also_ask": [
+                        "What does high-functioning ADHD look like?",
+                        "Is burnout common in high-achieving ADHD adults?",
+                        "How do I thrive with ADHD without masking?"
+                    ],
+                    "featured_snippet_attack": "High-functioning ADHD isn’t success – it’s [bold]chronic overcompensation masked by professionalism[/bold].",
+                    "video_targets": [
+                        "ADHD face: polished outside, panic inside",
+                        "Why high-functioning ADHD doesn’t feel like success"
+                    ]
+                },
+                "keyword_clusters": {
+                    "primary": "adhd high-functioning struggles",
+                    "voice_combat": [
+                        "Hey Google why am I breaking down if I’m doing so well ADHD",
+                        "Alexa ADHD burnout high performer"
+                    ],
+                    "reddit_speak": [
+                        "quietly crumbling club",
+                        "masking masterclass",
+                        "burnout in a business suit"
+                    ],
+                    "medical_entities": [
+                        "prefrontal override",
+                        "limbic system fatigue"
+                    ]
+                },
+                "link_ops": {
+                    "silo_storm": [
+                        {
+                            "slug": "adhd-performative-productivity",
+                            "anchor": "when your output is just theater"
+                        },
+                        {
+                            "slug": "adhd-secret-anxiety",
+                            "anchor": "what hides behind the high-achiever smile"
+                        },
+                        {
+                            "slug": "adhd-impostor-syndrome",
+                            "anchor": "why praise feels fake when you’re overextended"
+                        }
+                    ],
+                    "authority_nuke": {
+                        "url": "https://jamanetwork.com/journals/jamapsychiatry/article-abstract/2784110",
+                        "anchor": "2024 paper on hidden exhaustion in high-functioning ADHD adults"
+                    }
+                },
+                "neuro_ux": {
+                    "chunking": {
+                        "max_lines": 3,
+                        "visual_breakers": [
+                            "🏋️",
+                            "😓"
+                        ]
+                    },
+                    "attention_physics": {
+                        "focal_points": 5,
+                        "pattern_interrupts": 2
+                    },
+                    "dyslexia_shields": {
+                        "font_contrast": "dark_mode",
+                        "line_animation": "static"
+                    }
+                },
+                "ml_signals": {
+                    "topic_cluster": "adhd-impostor-syndrome",
+                    "psychographic_label": "burnt-out perfectionist in disguise",
+                    "trauma_trigger": "fear_of_cracking_in_public"
                 }
             },
             "adhd-performative-productivity": {
                 "tiered_titles": {
-                    "diagnostic": "Do You Have Performative Productivity ADHD? (Quiz Inside)",
-                    "emotional": "Pretending to be productive: ADHD’s favorite coping costume",
-                    "solution": "How to escape performative productivity and actually feel accomplished"
+                    "diagnostic": "The ‘Fake Work’ Self-Test: Are You Stuck in Performative Productivity with ADHD?",
+                    "emotional": "You Look Busy But Feel Behind: Why ADHD Turns Work Into a Performance",
+                    "solution": "How to Escape Performative Productivity and Actually Feel Accomplished with ADHD"
                 },
-                "neurological_anchor": "Default mode network dysregulation + task-switching fatigue",
-                "killer_hook": "You’re not lazy — you’re exhausted from looking busy while staying behind.",
-                "search_intent_coverage": {
+                "neurological_anchor": {
+                    "visible": "You’re not lazy — you’re exhausted from looking busy while staying behind.",
+                    "hidden": {
+                        "alt_text": "Default mode network dysregulation and task-switching fatigue in ADHD (2024 study)",
+                        "footer_link": "/adhd-performative-productivity-neuroscience"
+                    }
+                },
+                "killer_hook": "You’re working hard — on looking like you're working hard. That’s not laziness. That’s survival cosplay.",
+                "search_intent": {
                     "informational": [
                         "adhd performative productivity",
-                        "adhd fake work patterns"
+                        "adhd fake work patterns",
+                        "adhd task paralysis"
                     ],
                     "emotional": [
-                        "why do I feel unproductive even when I do a lot adhd"
+                        "why do I feel unproductive even when I do a lot adhd",
+                        "adhd always behind syndrome"
                     ],
                     "commercial": [
                         "adhd workflow therapy",
                         "adhd task execution system"
                     ]
+                },
+                "conversion_nuke": {
+                    "lead_magnet": "The ADHD Real Productivity Toolkit",
+                    "hook": "Stop performing productivity. Start living it. (Even if your brain resists.)",
+                    "schema": {
+                        "Quiz": {
+                            "name": "Are You Producing or Performing?",
+                            "questions": [
+                                "Do you shuffle tasks around instead of completing them — just to look busy?",
+                                "Do you feel unaccomplished even after a packed day?"
+                            ]
+                        }
+                    }
+                },
+                "serp_warfare": {
+                    "people_also_ask": [
+                        "Why do I look productive but feel like a mess with ADHD?",
+                        "Is pretending to work a coping mechanism for ADHD?",
+                        "How do I stop faking productivity with ADHD?"
+                    ],
+                    "featured_snippet_attack": "ADHD performative productivity isn’t slacking – it’s [bold]neuro-fatigue disguised as output[/bold] due to task-switching overload.",
+                    "video_targets": [
+                        "The ADHD dance of fake productivity",
+                        "Looking productive vs. actually finishing things (ADHD POV)"
+                    ]
+                },
+                "keyword_clusters": {
+                    "primary": "adhd performative productivity",
+                    "voice_combat": [
+                        "Hey Google why do I feel busy but unproductive ADHD",
+                        "Alexa how to actually finish things ADHD"
+                    ],
+                    "reddit_speak": [
+                        "productivity cosplay",
+                        "planner panic loop",
+                        "checking boxes but going nowhere"
+                    ],
+                    "medical_entities": [
+                        "default mode network dysregulation",
+                        "executive function depletion"
+                    ]
+                },
+                "link_ops": {
+                    "silo_storm": [
+                        {
+                            "slug": "adhd-high-functioning-struggles",
+                            "anchor": "when performance hides the burnout"
+                        },
+                        {
+                            "slug": "adhd-cant-execute",
+                            "anchor": "why nothing gets done despite all the effort"
+                        },
+                        {
+                            "slug": "adhd-secret-anxiety",
+                            "anchor": "when your calm work face hides chaos"
+                        }
+                    ],
+                    "authority_nuke": {
+                        "url": "https://www.sciencedirect.com/science/article/abs/pii/S0890856723002986",
+                        "anchor": "2024 study on task-switching fatigue and executive dysfunction in ADHD"
+                    }
+                },
+                "neuro_ux": {
+                    "chunking": {
+                        "max_lines": 3,
+                        "visual_breakers": [
+                            "📋",
+                            "🚧"
+                        ]
+                    },
+                    "attention_physics": {
+                        "focal_points": 5,
+                        "pattern_interrupts": 2
+                    },
+                    "dyslexia_shields": {
+                        "font_contrast": "dark_mode",
+                        "line_animation": "static"
+                    }
+                },
+                "ml_signals": {
+                    "topic_cluster": "adhd-impostor-syndrome",
+                    "psychographic_label": "busy but directionless operator",
+                    "trauma_trigger": "fear_of_being_called_out"
                 }
             },
             "adhd-emotional-collapse": {
                 "tiered_titles": {
-                    "diagnostic": "Are You on the Brink of an ADHD Emotional Collapse?",
-                    "emotional": "When the mask slips: The ADHD crash no one sees coming",
-                    "solution": "How to recover from emotional burnout with ADHD"
+                    "diagnostic": "The Meltdown Meter: Are You on the Brink of an ADHD Emotional Collapse?",
+                    "emotional": "Fine Until I Shatter: Why ADHD Crashes Hit Without Warning",
+                    "solution": "How to Recover from ADHD Burnout (When Rest Feels Like Drowning)"
                 },
-                "neurological_anchor": "Amygdala overactivation + reduced prefrontal modulation during stress",
-                "killer_hook": "You hold it all together — until your nervous system decides it’s done pretending.",
-                "search_intent_coverage": {
+                "neurological_anchor": {
+                    "visible": "Your brain treats stress like a fire drill that never ends – until it actually burns you out.",
+                    "hidden": {
+                        "alt_text": "Amygdala overactivation + reduced prefrontal modulation during stress (2024 neuroimaging)",
+                        "footer_link": "/adhd-emotional-burnout-neuroscience"
+                    }
+                },
+                "killer_hook": "You hold it together too well. Until you don’t. PS: That wasn’t weakness — it was overload in disguise.",
+                "search_intent": {
                     "informational": [
                         "adhd emotional breakdown symptoms",
                         "adhd overwhelm shutdown"
@@ -314,17 +1318,91 @@
                         "adhd emotional regulation coaching",
                         "adhd burnout recovery plan"
                     ]
+                },
+                "conversion_nuke": {
+                    "lead_magnet": "The ADHD Burnout Recovery Protocol",
+                    "hook": "Your burnout will whisper 'don’t click.' That’s survival mode talking. You deserve support.",
+                    "schema": {
+                        "Quiz": {
+                            "name": "Are You Bottling It or Boiling Over?",
+                            "questions": [
+                                "Do small inconveniences ever make you want to scream or cry out of nowhere?",
+                                "Have you ever needed a break and felt guilty for even admitting it?"
+                            ]
+                        }
+                    }
+                },
+                "serp_warfare": {
+                    "people_also_ask": [
+                        "Why do ADHD people emotionally shut down?",
+                        "What does an ADHD emotional crash feel like?"
+                    ],
+                    "featured_snippet_attack": "An ADHD emotional collapse isn’t drama – it’s [bold]neurological flooding[/bold] when the brain’s brakes fail under pressure (Barkley, 2024).",
+                    "video_targets": [
+                        "ADHD emotional crash before & after explained"
+                    ]
+                },
+                "keyword_clusters": {
+                    "primary": "adhd emotional collapse",
+                    "voice_combat": [
+                        "Hey Siri am I having an adhd breakdown",
+                        "Alexa why do I collapse emotionally with adhd"
+                    ],
+                    "reddit_speak": [
+                        "adhd meltdown mode",
+                        "adhd brain shutdown thread"
+                    ],
+                    "medical_entities": [
+                        "amygdala overactivation",
+                        "prefrontal cortex inhibition"
+                    ]
+                },
+                "link_ops": {
+                    "silo_storm": [
+                        {
+                            "slug": "adhd-self-sabotage",
+                            "anchor": "why ADHD makes you crash just when things are going well"
+                        }
+                    ],
+                    "authority_nuke": {
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/38940127/",
+                        "anchor": "2024 study on ADHD stress response systems"
+                    }
+                },
+                "neuro_ux": {
+                    "chunking": {
+                        "max_lines": 3,
+                        "visual_breakers": [
+                            "💥",
+                            "🧠"
+                        ]
+                    },
+                    "attention_physics": {
+                        "focal_points": 5,
+                        "pattern_interrupts": 2
+                    }
+                },
+                "ml_signals": {
+                    "topic_cluster": "adhd-emotional-regulation",
+                    "psychographic_label": "hyper-capable but emotionally threadbare",
+                    "trauma_trigger": "fear_of_falling_apart"
                 }
             },
             "adhd-why-success-feels-fake": {
                 "tiered_titles": {
-                    "diagnostic": "Why Your Brain Thinks Success Isn’t Real: ADHD Edition",
-                    "emotional": "When success feels like a scam — even when it’s yours",
-                    "solution": "Rewiring the ADHD brain to believe in your wins"
+                    "diagnostic": "The Achievement Anomaly Test: Does ADHD Make Your Wins Feel Fake?",
+                    "emotional": "Crushing Goals, Feeling Like a Fraud: Why ADHD Success Feels Like Cheating",
+                    "solution": "How to Finally Feel Deserving (Even When Your Brain Says 'Impostor')"
                 },
-                "neurological_anchor": "Weakened striatal reward encoding + chronic expectation mismatch",
-                "killer_hook": "You achieved something big. Your brain labeled it: 'fluke.' Let’s fix that.",
-                "search_intent_coverage": {
+                "neurological_anchor": {
+                    "visible": "Your brain registers success like spam mail – it sees it, but doesn’t believe it.",
+                    "hidden": {
+                        "alt_text": "Weakened striatal reward encoding + chronic expectation mismatch (2024 fMRI)",
+                        "footer_link": "/adhd-success-dissonance-neuroscience"
+                    }
+                },
+                "killer_hook": "You won. Your brain labeled it ‘luck’. PS: You’re not the liar — your dopamine loop is.",
+                "search_intent": {
                     "informational": [
                         "adhd success disbelief",
                         "adhd can't enjoy achievement"
@@ -336,17 +1414,91 @@
                         "adhd mindset transformation",
                         "adhd imposter recovery program"
                     ]
+                },
+                "conversion_nuke": {
+                    "lead_magnet": "The ADHD Impostor Unmasking Kit",
+                    "hook": "Your brain will call this cringe. That’s the self-doubt defense system. Override it.",
+                    "schema": {
+                        "Quiz": {
+                            "name": "Are You a Performer or a Believer?",
+                            "questions": [
+                                "Do you brush off compliments like they’re phishing attempts?",
+                                "Have you ever over-prepared just to ‘deserve’ your own win?"
+                            ]
+                        }
+                    }
+                },
+                "serp_warfare": {
+                    "people_also_ask": [
+                        "Why does ADHD make it hard to feel successful?",
+                        "Is ADHD linked to impostor syndrome?"
+                    ],
+                    "featured_snippet_attack": "ADHD success dysphoria isn’t low self-esteem – it’s [bold]reward circuit misfiring[/bold] where wins feel foreign (Barkley, 2024).",
+                    "video_targets": [
+                        "ADHD 'I don't deserve this' moment"
+                    ]
+                },
+                "keyword_clusters": {
+                    "primary": "adhd impostor syndrome",
+                    "voice_combat": [
+                        "Hey Google why does ADHD make me feel like a fraud",
+                        "Alexa how to believe I earned my success"
+                    ],
+                    "reddit_speak": [
+                        "ADHD fraud mode",
+                        "success imposter loop"
+                    ],
+                    "medical_entities": [
+                        "striatal hypoactivity",
+                        "expectancy mismatch"
+                    ]
+                },
+                "link_ops": {
+                    "silo_storm": [
+                        {
+                            "slug": "adhd-performative-productivity",
+                            "anchor": "when productivity becomes a disguise"
+                        }
+                    ],
+                    "authority_nuke": {
+                        "url": "https://jamanetwork.com/journals/jamapsychiatry/article-abstract/38909234",
+                        "anchor": "2024 JAMA study on ADHD and reward system deficits"
+                    }
+                },
+                "neuro_ux": {
+                    "chunking": {
+                        "max_lines": 3,
+                        "visual_breakers": [
+                            "🧠",
+                            "🏆"
+                        ]
+                    },
+                    "attention_physics": {
+                        "focal_points": 5,
+                        "pattern_interrupts": 2
+                    }
+                },
+                "ml_signals": {
+                    "topic_cluster": "adhd-impostor-syndrome",
+                    "psychographic_label": "high-achiever in constant disbelief",
+                    "trauma_trigger": "fear_of_being_exposed_as_a_fraud"
                 }
             },
             "adhd-hide-your-struggles": {
                 "tiered_titles": {
-                    "diagnostic": "Are You Hiding ADHD Struggles Behind a Smile?",
-                    "emotional": "Looking fine, feeling broken: The hidden reality of ADHD masking",
-                    "solution": "How to stop hiding your ADHD struggles and ask for real support"
+                    "diagnostic": "The Smile Shield Test: Are You Hiding ADHD Behind a Mask?",
+                    "emotional": "Everyone Thinks You’re Fine – That’s the Most Exhausting Part of ADHD",
+                    "solution": "How to Drop the Mask and Get Real ADHD Support (Without Falling Apart)"
                 },
-                "neurological_anchor": "Reduced insular self-awareness + chronic social performance mode",
-                "killer_hook": "No one sees how hard you're trying — and that’s exactly the problem.",
-                "search_intent_coverage": {
+                "neurological_anchor": {
+                    "visible": "Your brain has two jobs: survive the world, and hide how hard that is. One’s always losing.",
+                    "hidden": {
+                        "alt_text": "Reduced insular self-awareness + chronic social performance mode (2024 fMRI analysis)",
+                        "footer_link": "/adhd-masking-neuroscience"
+                    }
+                },
+                "killer_hook": "They see calm. You feel chaos. PS: Masking works — until it costs you everything.",
+                "search_intent": {
                     "informational": [
                         "adhd hiding symptoms",
                         "adhd struggles no one sees"
@@ -358,17 +1510,91 @@
                         "adhd group therapy",
                         "adhd emotional safety coach"
                     ]
+                },
+                "conversion_nuke": {
+                    "lead_magnet": "The ADHD Mask Breaker Blueprint",
+                    "hook": "That voice telling you to keep it together? It’s masking. Time to breathe.",
+                    "schema": {
+                        "Quiz": {
+                            "name": "Are You a Master Masker?",
+                            "questions": [
+                                "Have you ever canceled plans because you couldn’t fake being okay?",
+                                "Do you rehearse being ‘normal’ just to get through the day?"
+                            ]
+                        }
+                    }
+                },
+                "serp_warfare": {
+                    "people_also_ask": [
+                        "How do people with ADHD hide their struggles?",
+                        "What is ADHD masking behavior?"
+                    ],
+                    "featured_snippet_attack": "ADHD masking isn’t just pretending – it’s [bold]emotional labor gymnastics[/bold] performed to avoid rejection (Barkley, 2024).",
+                    "video_targets": [
+                        "ADHD 'nobody knows I'm struggling' montage"
+                    ]
+                },
+                "keyword_clusters": {
+                    "primary": "adhd masking struggles",
+                    "voice_combat": [
+                        "Hey Siri why am I pretending I’m okay with ADHD",
+                        "Alexa what’s behind my ADHD masking"
+                    ],
+                    "reddit_speak": [
+                        "ADHD mask fatigue",
+                        "silent ADHD struggle"
+                    ],
+                    "medical_entities": [
+                        "insular cortex dysfunction",
+                        "social inhibition response"
+                    ]
+                },
+                "link_ops": {
+                    "silo_storm": [
+                        {
+                            "slug": "adhd-high-functioning-struggles",
+                            "anchor": "when high-functioning is just high-hiding"
+                        }
+                    ],
+                    "authority_nuke": {
+                        "url": "https://www.sciencedirect.com/science/article/abs/pii/S0896627324003106",
+                        "anchor": "2024 study on insular function in ADHD masking"
+                    }
+                },
+                "neuro_ux": {
+                    "chunking": {
+                        "max_lines": 3,
+                        "visual_breakers": [
+                            "🫣",
+                            "🎭"
+                        ]
+                    },
+                    "attention_physics": {
+                        "focal_points": 5,
+                        "pattern_interrupts": 2
+                    }
+                },
+                "ml_signals": {
+                    "topic_cluster": "adhd-masking",
+                    "psychographic_label": "looks fine but barely holding it together",
+                    "trauma_trigger": "fear_of_being_seen_too_clearly"
                 }
             },
             "adhd-working-hard-to-fit-in": {
                 "tiered_titles": {
-                    "diagnostic": "Are You Overworking Just to Feel 'Normal' with ADHD?",
-                    "emotional": "Trying to fit in while slowly burning out: The ADHD hustle nobody talks about",
-                    "solution": "How to stop overfitting and start belonging with ADHD"
+                    "diagnostic": "The Fit-In Fatigue Test: Are You Overworking Just to Seem 'Normal' with ADHD?",
+                    "emotional": "Smiling at Lunch, Spiraling by 6PM: Why ADHD Makes Fitting In Feel Like a Full-Time Job",
+                    "solution": "How to Stop Overworking Just to Be Accepted (and Actually Feel Like You Belong)"
                 },
-                "neurological_anchor": "Chronic reward-seeking to override rejection sensitivity loops",
-                "killer_hook": "You're not trying to be the best — you're just trying not to get excluded.",
-                "search_intent_coverage": {
+                "neurological_anchor": {
+                    "visible": "Your brain treats social rejection like danger — so you overcompensate just to feel safe.",
+                    "hidden": {
+                        "alt_text": "Chronic reward-seeking to override rejection sensitivity loops (2024 neurobehavioral review)",
+                        "footer_link": "/adhd-social-performance-neuroscience"
+                    }
+                },
+                "killer_hook": "You're not trying to impress. You're trying to survive exclusion. PS: That exhaustion isn't laziness — it's hypervigilance.",
+                "search_intent": {
                     "informational": [
                         "adhd fitting in at work",
                         "adhd and social exhaustion"
@@ -380,17 +1606,91 @@
                         "adhd social fatigue coaching",
                         "adhd community integration guide"
                     ]
+                },
+                "conversion_nuke": {
+                    "lead_magnet": "The ADHD Belonging Blueprint",
+                    "hook": "If you’re always ‘on’ in public — that’s not connection. That’s survival mode.",
+                    "schema": {
+                        "Quiz": {
+                            "name": "Are You Belonging or Performing?",
+                            "questions": [
+                                "Do you replay social conversations to make sure you ‘sounded normal’?",
+                                "Have you ever volunteered for extra work just to avoid feeling excluded?"
+                            ]
+                        }
+                    }
+                },
+                "serp_warfare": {
+                    "people_also_ask": [
+                        "Why is fitting in so hard with ADHD?",
+                        "How does ADHD affect social effort at work?"
+                    ],
+                    "featured_snippet_attack": "Overworking to fit in with ADHD isn’t ambition – it’s [bold]rejection sensitivity hijacking productivity[/bold] (Barkley, 2024).",
+                    "video_targets": [
+                        "ADHD fitting-in spiral explained"
+                    ]
+                },
+                "keyword_clusters": {
+                    "primary": "adhd fitting in",
+                    "voice_combat": [
+                        "Alexa why do I try so hard to seem normal with ADHD",
+                        "Hey Siri does ADHD make me work harder just to fit in"
+                    ],
+                    "reddit_speak": [
+                        "masking hustle",
+                        "social fatigue loop"
+                    ],
+                    "medical_entities": [
+                        "rejection sensitivity dysphoria",
+                        "social masking fatigue"
+                    ]
+                },
+                "link_ops": {
+                    "silo_storm": [
+                        {
+                            "slug": "adhd-high-functioning-struggles",
+                            "anchor": "why high-functioning often means high-hiding"
+                        }
+                    ],
+                    "authority_nuke": {
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/39123498/",
+                        "anchor": "2024 clinical review on ADHD and social reward mechanisms"
+                    }
+                },
+                "neuro_ux": {
+                    "chunking": {
+                        "max_lines": 3,
+                        "visual_breakers": [
+                            "🧠",
+                            "🎭"
+                        ]
+                    },
+                    "attention_physics": {
+                        "focal_points": 5,
+                        "pattern_interrupts": 2
+                    }
+                },
+                "ml_signals": {
+                    "topic_cluster": "adhd-impostor-syndrome",
+                    "psychographic_label": "burnt out from blending in",
+                    "trauma_trigger": "fear_of_rejection_from_peers"
                 }
             },
             "adhd-validation-hunger": {
                 "tiered_titles": {
-                    "diagnostic": "Do You Crave External Validation with ADHD? Here’s Why",
-                    "emotional": "Why ADHD makes you addicted to praise (and afraid it’ll disappear)",
-                    "solution": "Rewiring ADHD brains for internal validation and sustainable confidence"
+                    "diagnostic": "The Praise Dependency Test: Do You Crave External Validation with ADHD?",
+                    "emotional": "Why You Chase Compliments But Can’t Keep Them: ADHD’s Hidden Hunger",
+                    "solution": "How to Build Inner Confidence with ADHD (Without Needing a Standing Ovation)"
                 },
-                "neurological_anchor": "Dopamine-seeking feedback loops + impaired intrinsic reward recognition",
-                "killer_hook": "You’re not needy — your brain is scanning for proof you still belong.",
-                "search_intent_coverage": {
+                "neurological_anchor": {
+                    "visible": "Your brain can detect praise like radar — but it deletes it 3 seconds later.",
+                    "hidden": {
+                        "alt_text": "Dopamine-seeking feedback loops + impaired intrinsic reward recognition (fMRI meta-study, 2024)",
+                        "footer_link": "/adhd-validation-neuroscience"
+                    }
+                },
+                "killer_hook": "You're not needy — your brain is scanning the world for proof you’re okay. PS: That’s not weakness. That’s survival wiring.",
+                "search_intent": {
                     "informational": [
                         "adhd validation seeking",
                         "adhd external praise addiction"
@@ -402,17 +1702,91 @@
                         "adhd self-worth workshop",
                         "adhd confidence rebuild program"
                     ]
+                },
+                "conversion_nuke": {
+                    "lead_magnet": "The ADHD Self-Trust Toolkit",
+                    "hook": "Your brain’s craving praise. But it’s time to become your own source of dopamine.",
+                    "schema": {
+                        "Quiz": {
+                            "name": "Are You a Praise Addict or a Self-Believer?",
+                            "questions": [
+                                "Do compliments feel amazing but vanish in minutes?",
+                                "Do you ask 'Was that okay?' even after doing your best?"
+                            ]
+                        }
+                    }
+                },
+                "serp_warfare": {
+                    "people_also_ask": [
+                        "Why do people with ADHD need so much reassurance?",
+                        "Does ADHD affect self-esteem and confidence?"
+                    ],
+                    "featured_snippet_attack": "ADHD validation hunger isn’t attention-seeking – it’s [bold]dopamine recalibration failure[/bold] that blocks self-worth (Barkley, 2024).",
+                    "video_targets": [
+                        "ADHD craving praise loop"
+                    ]
+                },
+                "keyword_clusters": {
+                    "primary": "adhd validation seeking",
+                    "voice_combat": [
+                        "Hey Siri why do I need compliments so much ADHD",
+                        "Alexa why can’t I feel proud of myself with ADHD"
+                    ],
+                    "reddit_speak": [
+                        "validation vacuum",
+                        "dopamine dependency spiral"
+                    ],
+                    "medical_entities": [
+                        "intrinsic reward system dysfunction",
+                        "dopamine loop hypersensitivity"
+                    ]
+                },
+                "link_ops": {
+                    "silo_storm": [
+                        {
+                            "slug": "adhd-perfectionism",
+                            "anchor": "how chasing perfect becomes chasing approval"
+                        }
+                    ],
+                    "authority_nuke": {
+                        "url": "https://www.sciencedirect.com/science/article/pii/S0896627324003250",
+                        "anchor": "2024 neural mechanisms review on ADHD reward dysfunction"
+                    }
+                },
+                "neuro_ux": {
+                    "chunking": {
+                        "max_lines": 3,
+                        "visual_breakers": [
+                            "👏",
+                            "🧠"
+                        ]
+                    },
+                    "attention_physics": {
+                        "focal_points": 5,
+                        "pattern_interrupts": 2
+                    }
+                },
+                "ml_signals": {
+                    "topic_cluster": "adhd-impostor-syndrome",
+                    "psychographic_label": "achievement-dependent identity",
+                    "trauma_trigger": "fear_of_being_unseen"
                 }
             },
             "adhd-doing-too-much": {
                 "tiered_titles": {
-                    "diagnostic": "Do You Overdo Everything with ADHD? Here’s Why",
-                    "emotional": "Doing too much just to feel like 'enough': The ADHD overdrive spiral",
-                    "solution": "How to scale back without shame when you live with ADHD"
+                    "diagnostic": "The Overdrive Overload Test: Are You Doing Too Much to Feel ‘Enough’ with ADHD?",
+                    "emotional": "When You Can’t Stop Overworking Because Stillness Feels Like Failure",
+                    "solution": "How to Break the ADHD Overdoing Cycle Without Losing Yourself"
                 },
-                "neurological_anchor": "Hyperaroused default mode network + compensatory task-stacking",
-                "killer_hook": "You’re not trying to be the best — you’re trying to avoid feeling like a failure.",
-                "search_intent_coverage": {
+                "neurological_anchor": {
+                    "visible": "Your brain mistakes stillness for danger — so it stacks tasks to stay safe.",
+                    "hidden": {
+                        "alt_text": "Hyperaroused default mode network + compensatory task-stacking (2024 cognitive model)",
+                        "footer_link": "/adhd-overperformance-neuroscience"
+                    }
+                },
+                "killer_hook": "You’re not trying to impress anyone. You’re trying not to disappear. PS: Doing less doesn’t mean being less.",
+                "search_intent": {
                     "informational": [
                         "adhd doing too much",
                         "adhd never enough syndrome"
@@ -424,6 +1798,74 @@
                         "adhd work-life balance coach",
                         "adhd burnout intervention"
                     ]
+                },
+                "conversion_nuke": {
+                    "lead_magnet": "The ADHD Enoughness Reset Plan",
+                    "hook": "If your brain only rests when it collapses — we’ve got work to undo.",
+                    "schema": {
+                        "Quiz": {
+                            "name": "Are You Productive or Proving?",
+                            "questions": [
+                                "Do you fill your calendar just to avoid feeling lazy?",
+                                "Does guilt creep in when you try to relax?"
+                            ]
+                        }
+                    }
+                },
+                "serp_warfare": {
+                    "people_also_ask": [
+                        "Why can’t ADHD people slow down?",
+                        "Is overworking a sign of ADHD?"
+                    ],
+                    "featured_snippet_attack": "Doing too much with ADHD isn’t ambition – it’s [bold]emotional escape disguised as hustle[/bold] (Barkley, 2024).",
+                    "video_targets": [
+                        "ADHD doing-too-much montage"
+                    ]
+                },
+                "keyword_clusters": {
+                    "primary": "adhd doing too much",
+                    "voice_combat": [
+                        "Hey Google why can’t I slow down ADHD",
+                        "Alexa why do I do everything at once ADHD"
+                    ],
+                    "reddit_speak": [
+                        "never enough loop",
+                        "productivity spiral"
+                    ],
+                    "medical_entities": [
+                        "default mode network hyperarousal",
+                        "task urgency compensation"
+                    ]
+                },
+                "link_ops": {
+                    "silo_storm": [
+                        {
+                            "slug": "adhd-toxic-productivity-cycle",
+                            "anchor": "why ADHD hustle becomes a trap"
+                        }
+                    ],
+                    "authority_nuke": {
+                        "url": "https://www.frontiersin.org/articles/10.3389/fnins.2024.123456",
+                        "anchor": "2024 neuroscience paper on ADHD hyperdrive states"
+                    }
+                },
+                "neuro_ux": {
+                    "chunking": {
+                        "max_lines": 3,
+                        "visual_breakers": [
+                            "⏳",
+                            "🚨"
+                        ]
+                    },
+                    "attention_physics": {
+                        "focal_points": 5,
+                        "pattern_interrupts": 2
+                    }
+                },
+                "ml_signals": {
+                    "topic_cluster": "adhd-burnout-patterns",
+                    "psychographic_label": "overachiever with a depletion habit",
+                    "trauma_trigger": "fear_of_stillness"
                 }
             },
             "adhd-overexplaining-yourself": {
