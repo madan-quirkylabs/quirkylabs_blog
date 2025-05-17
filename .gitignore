@@ -1,19 +1,41 @@
-# Local Netlify folder
-.netlify
+# =====================================
+# ✅ Output folders to include or ignore
+# =====================================
 
-# Package Files
+# ✅ INCLUDE section-level blog outputs
+!blog_generator/output/sections/
+!blog_generator/output/sections/**
+!blog_generator/output/success/
+!blog_generator/output/success/**
+
+# ❌ IGNORE logs, failures, retries
+blog_generator/output/failure/
+blog_generator/output/failure/**
+blog_generator/output/logs/
+blog_generator/output/logs/**
+blog_generator/output/retries/
+blog_generator/output/retries/**
+
+# ❌ Ignore CSV summary files
+blog_generator/failed_blogs.csv
+blog_generator/passed_blogs.csv
+
+# =====================================
+# 🔁 Common build/cache artifacts
+# =====================================
+
+# Local Netlify folder
+.netlify/
+
+# Node modules
 node_modules/
 
-# Ignore Hugo output
+# Hugo build output
 /public/
 /resources/
-/output/
 
-# Ignore blog generator output
-/blog_generator/output/
-/blog_generator/failed_blogs.csv
-/blog_generator/passed_blogs.csv
-
+# Python cache
 **/__pycache__/
 
+# Google service credentials
 /google_index_blogs/service-account.json

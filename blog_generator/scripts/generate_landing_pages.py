@@ -24,6 +24,8 @@ from config.config_loader import load_config, load_pillar_config
 # Configure logging
 logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
 
+from utils.file_ops import save_section, load_section
+
 # Load config and OpenAI client
 config = load_config()
 pillar_config = load_pillar_config()
@@ -222,7 +224,7 @@ def generate_faq_section(section_key, topic, keyword):
         # Remove any accidental <summary> wrapping
         question = re.sub(r"</?summary>", "", question, flags=re.IGNORECASE).strip()
         answer = generate_answer_for_question(question)
-        faq_blocks.append(f"<details><summary>{question}</summary><p>{answer.strip()}</p></details>")
+        faq_blocks.append(f"### {question}\n\n{answer.strip()}")
 
     return "\n".join(faq_blocks)
 
@@ -297,71 +299,75 @@ def render_related_spokes(pillar_slug, current_slug):
 </details>
 """
 
-def assemble_blog(sections, row):
-    try:
-        all_faq_html = "\n\n".join([
-            f"\n\n### {f['heading']}\n\n{sections[f['key']]}"
-            for f in faq_section_defs if f['key'] in sections
-        ])
+def assemble_blog_from_disk(slug, row):
+    from utils.file_ops import load_section
+    from datetime import datetime
+    import json
+    import re
+    from bs4 import BeautifulSoup
 
-        faq_structured = faq_to_jsonld(all_faq_html)
-        related_block = render_related_spokes(row['pillar_slug'], row['slug'])
+    def read(section_name):
+        return load_section(slug, section_name) or "*[This section was skipped]*"
 
-        article_structured = json.dumps({
-            "@context": "https://schema.org",
-            "@type": "Article",
-            "author": {
-                "@type": "Person",
-                "name": "QuirkyLabs",
-                "url": "https://quirkylabs.ai/about"
-            },
-            "headline": row["meta_title"],
-            "mainEntityOfPage": f"https://blog.quirkylabs.ai/pages/{row['slug']}/",
-            "datePublished": datetime.utcnow().strftime('%Y-%m-%d')
-        }, indent=2)
+    sections = {
+        "emotional_hook": read("emotional_hook"),
+        "story_part_1": read("story_part_1"),
+        "story_part_2": read("story_part_2"),
+        "story_part_3": read("story_part_3"),
+        "checklist": read("checklist"),
+        "faq_core": read("faq_core"),
+        "faq_google_autocomplete": read("faq_google_autocomplete"),
+        "faq_cta": read("faq_cta")
+    }
 
-        breadcrumb_structured = json.dumps({
-            "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "itemListElement": [
-                {
-                    "@type": "ListItem",
-                    "position": 1,
-                    "name": "Home",
-                    "item": "https://quirkylabs.ai/"
-                },
-                {
-                    "@type": "ListItem",
-                    "position": 2,
-                    "name": "Blog",
-                    "item": "https://blog.quirkylabs.ai/"
-                },
-                {
-                    "@type": "ListItem",
-                    "position": 3,
-                    "name": row["meta_title"],
-                    "item": f"https://blog.quirkylabs.ai/pages/{row['slug']}/"
-                }
-            ]
-        }, indent=2)
+    # combine all FAQ into one block
+    all_faq_html = "\n\n".join([
+        f"\n\n### {key.replace('_', ' ').title()}\n\n{sections[key]}"
+        for key in ["faq_core", "faq_google_autocomplete", "faq_cta"]
+        if key in sections and sections[key].strip()
+    ])
 
-    except Exception as e:
-        print(f"[assemble_blog] Error building schemas: {e}")
-        raise
+    # render related links
+    related_block = render_related_spokes(row['pillar_slug'], row['slug'])
 
-    try:
-        return f"""
-{sections.get('emotional_hook', '*[This section was skipped]*')}
+    # FAQ structured schema
+    faq_structured = faq_to_jsonld(all_faq_html)
 
-{sections.get('story_part_1', '*[This section was skipped]*')}
+    article_structured = json.dumps({
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "author": {
+            "@type": "Person",
+            "name": "QuirkyLabs",
+            "url": "https://quirkylabs.ai/about"
+        },
+        "headline": row["meta_title"],
+        "mainEntityOfPage": f"https://blog.quirkylabs.ai/pages/{row['slug']}/",
+        "datePublished": datetime.utcnow().strftime('%Y-%m-%d')
+    }, indent=2)
 
-{sections.get('story_part_2', '*[This section was skipped]*')}
+    breadcrumb_structured = json.dumps({
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://quirkylabs.ai/"},
+            {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://blog.quirkylabs.ai/"},
+            {"@type": "ListItem", "position": 3, "name": row["meta_title"], "item": f"https://blog.quirkylabs.ai/pages/{row['slug']}/"}
+        ]
+    }, indent=2)
 
-{sections.get('story_part_3', '*[This section was skipped]*')}
+    blog_body = f"""
+{sections['emotional_hook']}
+
+{sections['story_part_1']}
+
+{sections['story_part_2']}
+
+{sections['story_part_3']}
 
 ## Quickfire ADHD Checklist
 
-{sections.get('checklist', '*[This section was skipped]*')}
+{sections['checklist']}
 
 ## Frequently Asked Questions
 
@@ -379,22 +385,11 @@ Alex builds ADHD-friendly productivity tools with stories, science, and squirrel
 
 ---
 
-<script type="application/ld+json">
-{faq_structured}
-</script>
-
-<script type="application/ld+json">
-{article_structured}
-</script>
-
-<script type="application/ld+json">
-{breadcrumb_structured}
-</script>
-
+<script type="application/ld+json">{faq_structured}</script>
+<script type="application/ld+json">{article_structured}</script>
+<script type="application/ld+json">{breadcrumb_structured}</script>
 """
-    except Exception as e:
-        print(f"[assemble_blog] Error constructing blog body: {e}")
-        raise
+    return blog_body
 
 def save_log(slug, obj):
     path = os.path.join(LOGS_DIR, f"{slug}.json")
@@ -486,7 +481,17 @@ def generate_blog(row):
                         )
                     else:
                         content = generate_section(section, topic, keyword)
+                    
+                    existing = load_section(slug, section)
+                    if existing:
+                        sections[section] = existing
+                        print(f"✅ Skipping {section}, already exists for {slug}")
+                        continue
+
+                    # after generating `content`
+                    save_section(slug, section, content)
                     sections[section] = content
+
                     log["section_attempts"][-1]["attempts"].append({"status": "success"})
                     success = True
                     break
@@ -503,7 +508,7 @@ def generate_blog(row):
                 return
 
         row["meta_title"] = f"[SEO One-Shot] {topic}"
-        blog = assemble_blog(sections, row)
+        blog = assemble_blog_from_disk(slug, row)
 
         # 🔥 Generate full front matter block in one LLM call
         if SECTION_ENABLE_FLAGS.get("front_matter_one_shot", True):
@@ -513,6 +518,8 @@ def generate_blog(row):
             debug_front_path = os.path.join(LOGS_DIR, f"{slug}_front_matter.yaml")
             with open(debug_front_path, "w", encoding="utf-8") as f:
                 f.write(front)
+
+            save_section(slug, "front_matter", front, ext="yaml")
         else:
             print(f"⚠️ Skipping front_matter_one_shot section as per config.")
             front = f"""---
