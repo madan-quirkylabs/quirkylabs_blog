@@ -1,22 +1,54 @@
 {
     "adhd-impostor-syndrome": {
-        "pillar_slug": "adhd-impostor-syndrome",
-        "pillar_title": "Neurochemical Lies: How ADHD Hijacks Your Self-Worth (Evidence-Based Fixes)",
-        "neuro_credibility": [
-            "2024 Johns Hopkins fMRI study on ADHD self-perception",
-            "Dr. Russell Barkley on emotional dysregulation in ADHD",
-            "WHO's 2024 adult ADHD diagnostic guidelines"
-        ],
-        "pain_points_addressed": [
-            "Success doesn’t feel earned",
-            "Burnout from pretending to be fine",
-            "Fear of being exposed as a fraud"
-        ],
-        "conversion_elements": [
-            "Paradoxical framing: Trying harder makes it worse",
-            "Proof: 78% of ADHD high achievers report impostor symptoms",
-            "Time urgency: ‘If untreated, this peaks around age 35’"
-        ],
+        "tiered_titles": {
+            "diagnostic": "ADHD Impostor Syndrome Quiz: Are You Faking It… Or Just Masking?",
+            "emotional": "Why ADHD Success Feels Like Fraud: The Trophy You Can’t Touch",
+            "solution": "Rewiring ADHD Impostor Patterns (Without Losing Your Edge)"
+        },
+        "neurological_anchor": "Reduced self-assessment accuracy in the prefrontal cortex = your brain's broken mirror (// dorsolateral PFC hypoactivation)",
+        "killer_hook": "Your brain isn’t lying to you on purpose. But it’s lying nonetheless — and it’s time you stop believing its stories.",
+        "search_intent_coverage": {
+            "informational": [
+                "adhd impostor syndrome test",
+                "adhd success guilt",
+                "adhd fake success",
+                "why do I feel like a fraud with adhd"
+            ],
+            "emotional": [
+                "i’m terrified someone will find out i’m not that smart",
+                "adhd and hating compliments",
+                "why can’t i feel proud of my wins"
+            ],
+            "commercial": [
+                "adhd coaching for high achievers",
+                "adhd self-worth therapy",
+                "adhd validation program"
+            ]
+        },
+        "conversion_nuke": {
+            "lead_magnet": "ADHD Impostor Pattern Decoder",
+            "hook": "Unmask the patterns stealing your confidence. 2-min self-audit — results are confronting (but freeing).",
+            "schema_markup": {
+                "Quiz": {
+                    "name": "Do I Have ADHD Impostor Syndrome?",
+                    "typicalAnswers": [
+                        "I don’t trust my wins",
+                        "I feel like I tricked people into liking me",
+                        "Compliments make me anxious"
+                    ]
+                }
+            }
+        },
+        "serp_warfare": {
+            "people_also_ask": [
+                "Why do people with ADHD feel like impostors?",
+                "Is ADHD linked to success guilt?",
+                "How can I tell if my confidence issues are ADHD-related?"
+            ],
+            "zero_volume_target": [
+                "ADHD mirrored-self distortion loop"
+            ]
+        },
         "spokes": {
             "adhd-impostor-syndrome": {
                 "tiered_titles": {
@@ -460,28 +492,59 @@
                     ]
                 }
             }
-        },
-        "seo_insurance": {
-            "people_also_ask": [
-                "Why do people with ADHD feel like impostors?",
-                "What does ADHD masking look like at work?",
-                "Is perfectionism a sign of ADHD?"
-            ],
-            "featured_snippet_attack": [
-                "Define ADHD impostor syndrome in 40 words",
-                "List 3 signs of ADHD masking behavior",
-                "Explain why perfectionism is common in ADHD"
-            ],
-            "zero_click_defense": [
-                "Structured summary boxes for each FAQ",
-                "Bolded answers for skimmable takeaways",
-                "Anchor-linked Table of Contents"
-            ]
         }
     },
     "adhd-hustle-and-rest": {
-        "pillar_slug": "adhd-hustle-and-rest",
-        "pillar_title": "Rest Feels Unsafe: The ADHD Hustle Curse",
+        "tiered_titles": {
+            "diagnostic": "Do You Have ADHD Rest Anxiety? Take the Self-Test",
+            "emotional": "Why ADHD Makes Rest Feel Like Drowning in Guilt",
+            "solution": "How to Let Your ADHD Brain Rest Without Feeling Lazy"
+        },
+        "neurological_anchor": "Your brain’s threat system is misfiring — it treats stillness like danger. (// amygdala + dopamine loop disruption)",
+        "killer_hook": "You’re not addicted to productivity — your nervous system just thinks slowing down means something bad is about to happen.",
+        "search_intent_coverage": {
+            "informational": [
+                "adhd rest anxiety",
+                "adhd can’t relax",
+                "why does doing nothing make me anxious"
+            ],
+            "emotional": [
+                "i panic when i try to rest",
+                "adhd guilt for relaxing",
+                "resting feels like failure"
+            ],
+            "commercial": [
+                "adhd burnout recovery guide",
+                "adhd nervous system reset",
+                "adhd rest training program"
+            ]
+        },
+        "conversion_nuke": {
+            "lead_magnet": "The ADHD Nervous System Reset Checklist",
+            "hook": "Stop treating rest like a reward. Download the 1-page protocol to teach your brain how to actually unwind.",
+            "schema_markup": {
+                "Checklist": {
+                    "name": "Rest Without Guilt Protocol",
+                    "itemList": [
+                        "2-minute rest drills",
+                        "safe-to-stop affirmations",
+                        "ADHD-friendly rest menu"
+                    ]
+                }
+            }
+        },
+        "serp_warfare": {
+            "people_also_ask": [
+                "Why do people with ADHD struggle to relax?",
+                "Why does rest feel uncomfortable with ADHD?",
+                "Is rest anxiety a symptom of ADHD?",
+                "How do I stop feeling guilty for resting?"
+            ],
+            "zero_volume_target": [
+                "ADHD hyperarousal-rest backlash loop"
+            ]
+        },
+        "reddit_bait": "If you feel more anxious during rest than during a crisis, that’s not ambition — that’s trauma wearing a productivity badge.",
         "spokes": [
             {
                 "slug": "adhd-cant-relax",
@@ -513,8 +576,56 @@
         ]
     },
     "adhd-loneliness": {
-        "pillar_slug": "adhd-loneliness",
-        "pillar_title": "The Loneliness of the ADHD Mind",
+        "tiered_titles": {
+            "diagnostic": "Are You Experiencing ADHD Loneliness? Self-Test for Hidden Isolation",
+            "emotional": "Why ADHD Makes You Feel Alone — Even When You’re Deeply Loved",
+            "solution": "How to Feel Understood With ADHD (Without Over-Explaining Everything)"
+        },
+        "neurological_anchor": "Your brain's social GPS runs on static — it craves deep connection but panics when it gets too close. (// altered social salience and rejection sensitivity loop)",
+        "killer_hook": "You’re not broken for needing *more* connection. You’ve just spent years being ‘too much’ for people who wanted less.",
+        "search_intent_coverage": {
+            "informational": [
+                "adhd loneliness symptoms",
+                "adhd rejection sensitivity and isolation",
+                "adhd i feel alone all the time"
+            ],
+            "emotional": [
+                "why am i so lonely with adhd",
+                "no one understands my adhd brain",
+                "i feel invisible in my relationship"
+            ],
+            "commercial": [
+                "adhd community for adults",
+                "adhd group therapy near me",
+                "adhd emotional intimacy coaching"
+            ]
+        },
+        "conversion_nuke": {
+            "lead_magnet": "The ADHD Loneliness Decoder",
+            "hook": "Decode why you feel alone — even when you're not. This 3-minute self-audit reveals what connection really means to your brain.",
+            "schema_markup": {
+                "Quiz": {
+                    "name": "ADHD Loneliness Type Finder",
+                    "typicalAnswers": [
+                        "I feel like I’m too intense for most people",
+                        "I’m always explaining myself",
+                        "I crave connection and then shut down"
+                    ]
+                }
+            }
+        },
+        "serp_warfare": {
+            "people_also_ask": [
+                "Why do people with ADHD feel lonely?",
+                "Is loneliness common with ADHD?",
+                "Why don’t people understand my ADHD?",
+                "How do I explain ADHD without oversharing?"
+            ],
+            "zero_volume_target": [
+                "ADHD isolation-intimacy conflict loop"
+            ]
+        },
+        "reddit_bait": "If you’ve ever felt invisible while sitting beside someone you love, that’s not you being dramatic — that’s ADHD trying to protect you from being misunderstood again.",
         "spokes": [
             {
                 "slug": "adhd-feel-alone",
@@ -546,8 +657,56 @@
         ]
     },
     "adhd-potential-and-followthrough": {
-        "pillar_slug": "adhd-potential-and-followthrough",
-        "pillar_title": "ADHD Dreams vs. ADHD Discipline",
+        "tiered_titles": {
+            "diagnostic": "Do You Have ADHD Follow-Through Fatigue? Test Your Dream-to-Discipline Gap",
+            "emotional": "When You’re Brilliant in the Head but Stuck in the Hands",
+            "solution": "How to Actually Finish Things With ADHD (Without Losing the Spark)"
+        },
+        "neurological_anchor": "Your brain builds fireworks but misplaces the fuse — dopamine-driven idea storms collapse when reward fades. (// impaired sustained effort from frontal-limbic decoupling)",
+        "killer_hook": "You don’t lack ambition — your brain just hits ‘next idea’ before your hands finish the first one. And it’s not your fault.",
+        "search_intent_coverage": {
+            "informational": [
+                "adhd follow through problems",
+                "adhd big dreams unfinished",
+                "why can’t i finish what i start adhd"
+            ],
+            "emotional": [
+                "i’m smart but never finish anything",
+                "adhd makes me feel like a fraud",
+                "i have too many ideas and no results"
+            ],
+            "commercial": [
+                "adhd productivity coaching",
+                "adhd project finisher program",
+                "adhd goal setting workbook"
+            ]
+        },
+        "conversion_nuke": {
+            "lead_magnet": "The ADHD Execution Audit",
+            "hook": "Ever wonder where your motivation vanishes? This 3-minute audit reveals where your follow-through collapses — and how to catch it.",
+            "schema_markup": {
+                "Quiz": {
+                    "name": "ADHD Follow-Through Type Finder",
+                    "typicalAnswers": [
+                        "I start strong and vanish halfway",
+                        "I feel overwhelmed by my own ideas",
+                        "I jump to new projects when I get bored"
+                    ]
+                }
+            }
+        },
+        "serp_warfare": {
+            "people_also_ask": [
+                "Why can’t I finish what I start with ADHD?",
+                "Does ADHD cause procrastination on dreams?",
+                "Why does ADHD make long-term goals hard?",
+                "How do I stick to one project with ADHD?"
+            ],
+            "zero_volume_target": [
+                "ADHD ambition-execution collapse loop"
+            ]
+        },
+        "reddit_bait": "If your mind feels like a rocket and your hands feel like wet noodles — that’s not laziness. That’s ADHD’s reward system ghosting you mid-mission.",
         "spokes": [
             {
                 "slug": "adhd-big-dreams-no-follow-through",
@@ -579,8 +738,56 @@
         ]
     },
     "adhd-labels-and-shame": {
-        "pillar_slug": "adhd-labels-and-shame",
-        "pillar_title": "Living Under the Label: Stupid, Lazy, or Just ADHD?",
+        "tiered_titles": {
+            "diagnostic": "Were You Labeled ‘Lazy or Stupid’ as a Kid? It Might’ve Been Undiagnosed ADHD",
+            "emotional": "When the Word ‘Lazy’ Lives in Your Bones: ADHD Shame That Sticks",
+            "solution": "How to Heal From ADHD School Shame (Without Needing to Prove Yourself Anymore)"
+        },
+        "neurological_anchor": "Your brain was wired differently — but the world graded you like it wasn’t. (// delayed prefrontal maturation + poor feedback-loop processing)",
+        "killer_hook": "If you've spent your adult life trying to disprove what one 5th-grade teacher said… that’s not ego. That’s unprocessed survival mode.",
+        "search_intent_coverage": {
+            "informational": [
+                "adhd shame from childhood",
+                "adhd labeled as lazy",
+                "adhd and feeling dumb"
+            ],
+            "emotional": [
+                "i still feel stupid because of school",
+                "adhd made me feel worthless",
+                "i can’t shake the lazy label"
+            ],
+            "commercial": [
+                "adhd trauma coaching",
+                "adhd healing inner child",
+                "adhd self-worth workbook"
+            ]
+        },
+        "conversion_nuke": {
+            "lead_magnet": "The ADHD Shame Story Rewrite Kit",
+            "hook": "What if you weren’t the problem — just misread? Download this 5-minute story rewrite exercise to reclaim your brain’s truth.",
+            "schema_markup": {
+                "HowTo": {
+                    "name": "Rewriting Your ADHD Shame Story",
+                    "steps": [
+                        "List the labels you were given",
+                        "Write what they missed about you",
+                        "Replace the label with truth: effort, not failure"
+                    ]
+                }
+            }
+        },
+        "serp_warfare": {
+            "people_also_ask": [
+                "Why do people with ADHD feel dumb?",
+                "Is laziness a symptom of ADHD?",
+                "Why do ADHD adults carry childhood shame?",
+                "How do I heal from being called lazy as a kid?"
+            ],
+            "zero_volume_target": [
+                "ADHD shame-label imprint loop"
+            ]
+        },
+        "reddit_bait": "ADHD isn’t the reason you felt broken in school — but it’s probably why no one noticed how hard you were trying to hold it together.",
         "spokes": [
             {
                 "slug": "adhd-feel-dumb",
@@ -612,8 +819,56 @@
         ]
     },
     "adhd-fear-of-rejection": {
-        "pillar_slug": "adhd-fear-of-rejection",
-        "pillar_title": "ADHD and the Fear of Being Unlovable",
+        "tiered_titles": {
+            "diagnostic": "Do You Have ADHD Rejection Sensitivity? Take the Emotional Pain Quiz",
+            "emotional": "What If I’m Too Much to Love — and Too Wired to Leave?",
+            "solution": "How to Feel Safe in Love With ADHD (Even When You’re Craving Constant Reassurance)"
+        },
+        "neurological_anchor": "Your brain mistakes uncertainty for danger — so it scans every silence like a threat. (// rejection sensitivity dysphoria + amygdala-hypervigilance loop)",
+        "killer_hook": "You’re not needy — you’ve just been trained to monitor affection like a survival skill. That’s not dysfunction. That’s adaptation.",
+        "search_intent_coverage": {
+            "informational": [
+                "adhd rejection sensitivity signs",
+                "adhd and fear of abandonment",
+                "adhd emotional attachment issues"
+            ],
+            "emotional": [
+                "why do i feel unlovable with adhd",
+                "adhd makes me push people away",
+                "i need constant reassurance in relationships"
+            ],
+            "commercial": [
+                "adhd relationship therapy",
+                "adhd attachment coaching",
+                "adhd anxious attachment workbook"
+            ]
+        },
+        "conversion_nuke": {
+            "lead_magnet": "The ADHD Reassurance Radar Map",
+            "hook": "Learn how your ADHD brain tracks connection — and why it panics when love isn’t loud. This free guide will show you how to feel safe without over-apologizing.",
+            "schema_markup": {
+                "Checklist": {
+                    "name": "Am I Too Much or Just Wired for Reassurance?",
+                    "itemList": [
+                        "I read tone like a detective",
+                        "I ask 'Are we okay?' even when nothing’s wrong",
+                        "I hide intensity out of fear I’ll be abandoned"
+                    ]
+                }
+            }
+        },
+        "serp_warfare": {
+            "people_also_ask": [
+                "Why do people with ADHD fear rejection?",
+                "What is ADHD rejection sensitivity?",
+                "Why do I need constant reassurance with ADHD?",
+                "How do I stop being scared people will leave me?"
+            ],
+            "zero_volume_target": [
+                "ADHD abandonment-alert hyperloop"
+            ]
+        },
+        "reddit_bait": "If you need to be reassured 5 times a day that someone loves you — you’re not broken. You’re just carrying an ADHD brain that learned love could vanish without warning.",
         "spokes": [
             {
                 "slug": "adhd-fear-being-unlovable",
