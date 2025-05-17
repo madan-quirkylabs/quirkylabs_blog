@@ -22,7 +22,75 @@
             "adhd-doing-too-much",
             "adhd-overexplaining-yourself",
             "adhd-secret-anxiety",
-            "adhd-fear-of-being-found-out"
+            "adhd-fear-of-being-found-out",
+            "adhd-ghosting-success",
+            "adhd-faking-competence-at-work",
+            "adhd-why-praise-feels-like-a-trap",
+            "adhd-why-tools-fail-you",
+            "adhid-productivity-masks"
+        ]
+    },
+    "adhd-time-rebellion": {
+        "pillar_title": "ADHD Time Blindness: Why ‘Later’ is a Lie (EXISTING)",
+        "spokes": [
+            "adhd-chronic-lateness-shame (EXISTING)",
+            "adhd-planning-fallacy-traps",
+            "adhd-why-deadlines-feel-fake",
+            "adhd-time-blindness-vs-laziness (EXISTING)",
+            "adhd-why-5-minutes-never-is",
+            "adhd-saying-ill-do-it-later (EXISTING)",
+            "adhd-why-clocks-are-useless",
+            "adhd-2-minute-rule-science",
+            "adhd-time-crime-confessions"
+        ]
+    },
+    "adhd-productivity-lies": {
+        "pillar_title": "ADHD Productivity Lies: Why Most Tools Set You Up to Fail",
+        "spokes": [
+            "why-todo-lists-fail-adhd",
+            "adhd-why-focus-apps-suck",
+            "adhd-tool-hopping-burnout",
+            "adhd-planner-shame-cycle",
+            "adhd-why-calendars-dont-work",
+            "adhd-productivity-porn-addiction",
+            "adhd-the-myth-of-self-discipline"
+        ]
+    },
+    "adhd-behavioral-hacks": {
+        "pillar_title": "ADHD Behavioral Hacks: The Science of Getting Sh*t Done",
+        "spokes": [
+            "adhd-dopamine-chunking",
+            "adhd-loss-aversion-tricks",
+            "adhd-why-points-work",
+            "adhd-gamification-saved-my-job",
+            "adhd-ai-copilot-benefits",
+            "adhd-micro-commitments-win",
+            "adhd-social-accountability-hack"
+        ]
+    },
+    "adhd-money-chaos": {
+        "pillar_title": "ADHD & Money Dysregulation: The Shame Spiral",
+        "spokes": [
+            "adhd-impulse-spending-regret",
+            "adhd-late-fees-shame-cycle",
+            "adhd-why-budgets-fail",
+            "adhd-salary-negotiation-shame",
+            "adhd-uber-eats-financial-regret",
+            "adhd-why-saving-feels-impossible",
+            "adhd-doordash-dopamine-drain",
+            "adhd-money-dysfunction-vs-laziness"
+        ]
+    },
+    "adhd-app-funnel": {
+        "pillar_title": "ADHD Productivity Tools That Actually Work",
+        "spokes": [
+            "adhd-why-most-apps-fail-you",
+            "adhd-ai-copilot-case-study",
+            "adhd-how-gamification-changed-me",
+            "adhd-why-you-need-a-productivity-coach",
+            "adhd-task-initiation-holy-grail",
+            "adhd-why-accountability-works",
+            "adhd-the-future-of-adhd-tools"
         ]
     },
     "adhd-hustle-and-rest": {
@@ -48,7 +116,11 @@
             "adhd-wired-but-tired",
             "adhd-always-be-doing",
             "adhd-cant-sit-still",
-            "adhd-rest-doesnt-recharge"
+            "adhd-rest-doesnt-recharge",
+            "adhd-hustle-as-moral-worth",
+            "adhd-why-relaxation-triggers-panic",
+            "adhd-why-balance-is-a-lie",
+            "adhd-sleep-is-not-reward"
         ]
     },
     "adhd-loneliness": {
