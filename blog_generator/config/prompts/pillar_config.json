@@ -2,7 +2,17 @@
     "adhd-breakup-trauma": {
         "pillar_title": "ADHD Breakup Trauma: Why It Feels Like Withdrawal",
         "spokes": [
-            "adhd-breakup-obsession-cycle"
+            "adhd-breakup-obsession-cycle",
+            "adhd-why-no-contact-fails",
+            "adhd-rsd-breakup-meltdowns"
+        ]
+    },
+    "adhd-productivity-lies": {
+        "pillar_title": "ADHD Productivity Lies: Why Most Tools Set You Up to Fail",
+        "spokes": [
+            "why-todo-lists-fail-adhd",
+            "adhd-why-focus-apps-suck",
+            "adhd-tool-hopping-burnout"
         ]
     }
 }

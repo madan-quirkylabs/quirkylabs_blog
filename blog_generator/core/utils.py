@@ -2,6 +2,8 @@
 
 import os
 import shutil
+import json
+import re
 
 # ------------------------------
 # File Operations
@@ -54,3 +56,18 @@ def ensure_directories(paths: dict):
     for key, path in paths.items():
         if "output" in key:
             os.makedirs(path, exist_ok=True)
+
+def extract_json_from_response(response: str) -> dict:
+    """
+    Cleans and extracts a valid JSON object from a raw LLM response string.
+    Strips triple backticks, language tags, and isolates the main JSON block.
+    """
+    # Remove markdown formatting
+    cleaned = re.sub(r"^```(?:json)?|```$", "", response.strip(), flags=re.MULTILINE)
+
+    # Extract the JSON portion
+    json_match = re.search(r"{.*}", cleaned, flags=re.DOTALL)
+    if not json_match:
+        raise ValueError("No valid JSON object found in response.")
+
+    return json.loads(json_match.group(0))

@@ -6,6 +6,7 @@ import logging
 from core.config import load_pillar_config, load_config
 from core.llm_client import call_llm
 from datetime import datetime
+from core.utils import extract_json_from_response
 
 # ------------------------------
 # Configurable Prompt Paths
@@ -42,16 +43,7 @@ def read_json(path):
     return None
 
 def extract_json_block(text):
-    """
-    Extract the first JSON block enclosed in triple backticks or starting with '{'
-    """
-    code_block = re.search(r"```json\\s*(\\{.*?\\})\\s*```", text, re.DOTALL)
-    if code_block:
-        return code_block.group(1)
-    bracket_index = text.find('{')
-    if bracket_index != -1:
-        return text[bracket_index:].strip()
-    return text
+    return extract_json_from_response(text)
 
 # ------------------------------
 # Metadata Generation Logic
@@ -83,8 +75,7 @@ def generate_pillar_metadata(pillar_slug, cluster_data, config, force=False):
     logging.debug(f"🔍 Raw LLM response for pillar '{pillar_slug}': {repr(response)}")
 
     try:
-        cleaned = extract_json_block(response)
-        data = json.loads(cleaned)
+        data = extract_json_block(response)
         data["prompt_version"] = "pillar-v2.1"
         write_json(pillar_json_path, data)
         logging.info(f"✅ Saved: {pillar_json_path}")
@@ -121,8 +112,7 @@ def generate_spoke_metadata(spoke_slug, pillar_slug, cluster_data, config, force
     logging.debug(f"🔍 Raw LLM response for spoke '{spoke_slug}': {repr(response)}")
 
     try:
-        cleaned = extract_json_block(response)
-        data = json.loads(cleaned)
+        data = extract_json_block(response)
         data["prompt_version"] = "spoke-v3.1"
         write_json(spoke_path, data)
         logging.info(f"✅ Saved: {spoke_path}")
