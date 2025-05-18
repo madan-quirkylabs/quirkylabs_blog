@@ -109,14 +109,26 @@ def get_llm_client(config):
 def call_llm(messages, section=None, provider=None, model=None, temperature=None, section_config=None):
     config = section_config or {}
 
-    provider = provider or config.get("provider", "openai")
-    model = model or config.get("model")
-    temperature = temperature if temperature is not None else config.get("temperature")
+    provider = provider or config.get("llm_provider", "openai")
+    provider_cfg = config.get(provider, {})
+
+    model = model or provider_cfg.get("model")
+    temperature = temperature if temperature is not None else provider_cfg.get("temperature", 0.7)
 
     if provider == "openai":
-        client = OpenAIClient({"model": model, "temperature": temperature})
+        client = OpenAIClient({
+            "model": model,
+            "temperature": temperature,
+            "max_retries": provider_cfg.get("max_retries", 3),
+            "request_timeout": provider_cfg.get("request_timeout", 30),
+            "max_token_size": provider_cfg.get("max_token_size", 2048)
+        })
     elif provider == "gemini":
-        client = GeminiClient({"model": model, "temperature": temperature})
+        client = GeminiClient({
+            "model": model,
+            "temperature": temperature,
+            "location": provider_cfg.get("location", "us-central1")
+        })
     else:
         raise ValueError(f"Unsupported provider: {provider}")
 

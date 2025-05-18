@@ -3,3 +3,16 @@ generation:
   max_tokens_per_section: 800
   validate_output: false
   validate_readability: false
+
+llm_provider: "gemini" # or "gemini"
+openai:
+  model: "gpt-4o" # or "gpt-4-turbo"
+  temperature: 0.7
+  max_retries: 3
+  request_timeout: 30
+  max_token_size: 2048
+
+gemini:
+  model: "gemini-2.0-flash"
+  temperature: 0.7
+  location: "us-central1"

@@ -19,6 +19,12 @@
 - **Conversion hypnosis** (brain-region-specific CTAs)  
 - **Authority napalm** (study grenades in alt-text)  
 
+**Output Requirements**
+- Generate the full Neuro-SEO output for the cluster: {{pillar_title}}. Include all sections from the framework: tiered titles, killer hook, search intent targets, conversion nuke (lead magnet + CTA hypnosis), and SERP warfare tactics (PAA + video targets).
+- Use the 2024 fMRI studies and Reddit-speak keywords as specified in the prompt."  
+- 🎯 Use the template provided below, and NEVER deviate from it.
+- 🎯 Do not add any additional text other than the actual json structure required.
+
 ---
 
 ### **🧠 NEURO-SEO CORE FRAMEWORK (FINAL)**  
