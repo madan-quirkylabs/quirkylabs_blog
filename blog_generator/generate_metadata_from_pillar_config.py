@@ -13,6 +13,7 @@ from core.utils import extract_json_from_response, convert_sets_to_lists
 # ------------------------------
 PILLAR_PROMPT_PATH = "config/prompts/pillar_config_prompting_for_pillar.md"
 SPOKE_PROMPT_PATH = "config/prompts/pillar_config_prompting_for_spoke.md"
+PILLAR_STUDIES_DATABASE_PATH = "config/prompts/pillar_studies_for_pillars.json"
 
 # ------------------------------
 # Output Directory
@@ -52,6 +53,13 @@ def extract_json_block(text):
 # ------------------------------
 # Metadata Generation Logic
 # ------------------------------
+
+def load_pillar_studies():
+    path = PILLAR_STUDIES_DATABASE_PATH
+    if os.path.exists(path):
+        with open(path, "r", encoding="utf-8") as f:
+            return json.load(f)
+    return []
 
 def extract_studies(pillar_data):
     """Pull real studies from pillar content"""
@@ -181,7 +189,7 @@ def generate_pillar_metadata(pillar_slug, cluster_data, config, force=False):
         logging.error(f"❌ Failed to parse LLM response for pillar '{pillar_slug}': {e} (raw saved to {error_path})")
 
 
-def generate_spoke_metadata(spoke_slug, pillar_metadata, section_config, force=False):
+def generate_spoke_metadata(spoke_slug, pillar_metadata, pillar_studies, section_config, force=False):
     pillar_slug = pillar_metadata["cluster_name"]
     spoke_inputs = extract_spoke_inputs(spoke_slug, pillar_metadata)
 
@@ -212,7 +220,8 @@ def generate_spoke_metadata(spoke_slug, pillar_metadata, section_config, force=F
     try:
         data = extract_json_block(response)
         data["prompt_version"] = "spoke-v3.1"
-        data["spoke_metadat_inputs"] = convert_sets_to_lists(spoke_inputs)
+        data["spoke_metadata_inputs"] = convert_sets_to_lists(spoke_inputs)
+        data["real_study_citation_inputs"] = convert_sets_to_lists(pillar_studies)
         write_json(spoke_path, data)
         logging.info(f"✅ Saved: {spoke_path}")
     except Exception as e:
@@ -233,6 +242,9 @@ def main(force=False, pillar_only=False, spoke_only=False, target_pillar=None):
 
     logging.info(f"🌐 Using LLM provider: {config.get('llm_provider')} model: {config.get(config['llm_provider'], {}).get('model')}")
 
+    pillar_studies_all = load_pillar_studies()
+    pillar_study_map = {p['pillar_slug']: p for p in pillar_studies_all}
+
     for pillar_slug, cluster_data in pillar_config.items():
         if target_pillar and pillar_slug != target_pillar:
             continue
@@ -243,7 +255,8 @@ def main(force=False, pillar_only=False, spoke_only=False, target_pillar=None):
         if not pillar_only:
             pillar_metadata = load_pillar_metadata(pillar_slug)
             for spoke_slug in cluster_data.get("spokes", []):
-                generate_spoke_metadata(spoke_slug, pillar_metadata, config, force=force)
+                pillar_studies = pillar_study_map.get(pillar_slug, {}).get("key_studies", [])
+                generate_spoke_metadata(spoke_slug, pillar_metadata, pillar_studies, config, force=force)
 
     logging.info("🏁 All metadata generation completed.")
 

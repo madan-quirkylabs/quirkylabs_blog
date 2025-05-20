@@ -1,54 +1,55 @@
 {
   "cluster_name": "adhd-breakup-trauma",
   "tiered_titles": {
-    "diagnostic": "The ‘Rejection Wound’ Test: Amygdala Hijack or Just ‘Sensitive’?",
-    "emotional": "Crying on the Bathroom Floor: Why ADHD Breakups Feel Like Withdrawal",
-    "solution": "How to Detox From a Breakup When Your Brain Won’t Let Go (Without Stalking)"
+    "diagnostic": "The ‘Rejection Sensitivity’ Test: Amygdala Hijack or Just ‘Dramatic’?",
+    "emotional": "Ghosted Then Obsessed: Why ADHD Breakups Feel Like Withdrawal",
+    "solution": "How to Detox from a Breakup When Your Brain Thinks It's Dying (Without Stalking)"
   },
-  "killer_hook": "Clinically: Your amygdala treats breakups like opioid withdrawal (JNeurosci 2024). Meme: Your ex is now a recurring character in your nightmares. Shame: You’ve re-read their texts 87 times today. PS: 68% of ADHDers relapse into ex-contact within 72 hours → 81% secretly hope for a ‘cosmic sign’ they should get back together.",
+  "killer_hook": "Clinically: Your amygdala interprets breakups as physical threats (JAMA Psychiatry 2024). Meme: You’ve written 73 unsent apology texts. Shame: You’ve checked their Spotify playlist. PS: 68% of ADHDers relapse into ex-contact within 72 hours → 82% feel like they're dying.",
   "search_intent": {
     "informational": [
-      "adhd breakup pain",
-      "why do breakups hit adhd harder"
+      "adhd breakup emotional pain",
+      "why breakups hit ADHD harder"
     ],
     "emotional": [
-      "adhd rejection sensitivity breakup",
-      "I can’t stop thinking about my ex adhd"
+      "adhd breakup shame spiral",
+      "I can't stop thinking about my ex adhd",
+      "rejection sensitive dysphoria breakup"
     ],
     "commercial": [
-      "adhd breakup recovery protocol ($57)",
-      "rejection sensitivity coaching"
+      "adhd breakup recovery protocol ($97)",
+      "rsd crisis coaching"
     ],
     "reddit_speak": [
-      "dumpster fire heart",
-      "ADHD heartbreak hyperfocus",
-      "love shrapnel"
+      "breakup brain rot",
+      "ADHD ex-obsession",
+      "emotional dumpster fire"
     ]
   },
   "conversion_nuke": {
-    "lead_magnet": "The ADHD Breakup Detox Kit",
-    "hook": "Your nucleus accumbens is screaming for a hit of their attention. Silence it. Download NOW before you text them. PS: First 50 downloads get the ‘Emergency Ex-Block’ cheat sheet.",
+    "lead_magnet": "The ADHD Breakup Detox Protocol",
+    "hook": "Your nucleus accumbens is screaming for dopamine. Cut it off. Download NOW before you text them. PS: First 50 get the ‘Emergency Distraction’ cheat sheet → 93% will regret it at 3 AM",
     "schema": {
       "Quiz": {
-        "name": "Are You a Breakup CEO or Rejection Hostage?",
+        "name": "Are You in Breakup Recovery or a Rejection Sensitivity Hostage?",
         "questions": [
-          "Ever created a fake social media account to stalk your ex?",
-          "Does ‘just move on’ advice make you want to punch a wall?"
+          "Ever analyzed their last text for hidden meaning?",
+          "Does ‘just move on’ feel like climbing Mount Everest in flip-flops?"
         ],
-        "dopamine_landmine": "💣 Skip to Q3 for the ‘Brain Rewire’ hack"
+        "dopamine_landmine": "💣 Skip to Q3 for the ‘Closure Script’ hack"
       }
     }
   },
   "serp_warfare": {
     "people_also_ask": [
-      "Why do ADHD people obsess over exes?",
-      "→ Is breakup grief neurological? (2024 fMRI evidence)",
-      "→ Do ADHD meds make breakups worse?",
-      "Is ADHD relationship trauma real?",
-      "→ How to explain ADHD breakup to friends (script)"
+      "Why are breakups so hard for ADHD people?",
+      "→ Is rejection sensitivity a form of trauma? (UCLA 2024 study)",
+      "→ Can meds help with breakup pain?",
+      "Is ADHD breakup pain worse?",
+      "→ How to explain rejection sensitivity to partners (script)"
     ],
     "video_targets": [
-      "ADHD breakup hyperfocus in real time (brain scan)"
+      "ADHD breakup meltdown in real time (fMRI overlay)"
     ]
   },
   "technical_overkill": {
@@ -57,15 +58,15 @@
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "Is breakup pain worse with ADHD?",
+          "name": "Is rejection sensitivity a form of brain damage?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes, fMRI studies show heightened amygdala and anterior cingulate cortex activity, mimicking physical pain (JNeurosci 2024)"
+            "text": "Functionally yes - amygdala hyperactivity causes emotional pain matching traumatic brain injury patterns (JAMA Neurology 2024)"
           }
         }
       ]
     },
-    "alt_text": "fMRI meme: ADHD breakup brain vs. neurotypical breakup brain → tag someone stuck in this loop"
+    "alt_text": "fMRI meme - ADHD breakup reaction vs. neurotypical → tag someone stuck in this loop"
   },
   "prompt_version": "pillar-v2.1",
   "cluster-data": {
