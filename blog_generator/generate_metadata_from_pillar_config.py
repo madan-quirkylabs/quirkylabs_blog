@@ -6,7 +6,7 @@ import logging
 from core.config import load_pillar_config, load_config
 from core.llm_client import call_llm
 from datetime import datetime
-from core.utils import extract_json_from_response
+from core.utils import extract_json_from_response, convert_sets_to_lists
 
 # ------------------------------
 # Configurable Prompt Paths
@@ -65,7 +65,10 @@ def extract_studies(pillar_data):
             journal, year = match.groups()
             if journal not in journal_blacklist:  # Skip duplicates
                 journal_blacklist.add(journal)
-                studies.append({ ... })
+                studies.append({
+                    "journal": journal,
+                    "year": year
+                })
     return studies[:2]  # Return top 2 most relevant
 
 def generate_voice_queries(pain_point):
@@ -82,24 +85,21 @@ def extract_reddit_slang(pillar_data):
     return list(set(slang))  # Remove duplicates
 
 def extract_pillar_keywords(pillar_data):
-    """Pull keywords from pillar's search_intent"""
     keywords = set()
-    emotional_boosters = ["shame", "guilt", "overwhelm", "failure"]  # ADHD-specific
-    
+    emotional_boosters = ["shame", "guilt", "overwhelm", "failure"]  # list
+    commercial_boosters = ["coaching", "system", "protocol"]         # now also a list
+
     for intent_type in ["informational", "emotional", "commercial", "reddit_speak"]:
         for phrase in pillar_data.get("search_intent", {}).get(intent_type, []):
             keywords.update(phrase.split())
-    
-    stopwords = {"adhd", "why", "how", "the", "do", "for", "me", "canâ€™t"} 
-    commercial_boosters = {"coaching", "system", "protocol"}
-    keywords = [
-        kw for kw in keywords 
-        if (kw.lower() not in stopwords) 
-        and not kw.startswith("($")  # Remove prices
-    ]
-    keywords.extend(emotional_boosters)  # Inject ADHD emotional triggers
-    keywords.extend(commercial_boosters)
-    return keywords[:12]  # Slightly more keywords
+
+    stopwords = {"adhd", "why", "how", "the", "do", "for", "me", "can’t"}
+    keywords = {kw for kw in keywords if kw.lower() not in stopwords and not kw.startswith("($")}
+
+    keywords.update(emotional_boosters)
+    keywords.update(commercial_boosters)
+
+    return list(keywords)[:12]
 
 def extract_spoke_inputs(spoke_slug, pillar_metadata):
     """
@@ -181,11 +181,9 @@ def generate_pillar_metadata(pillar_slug, cluster_data, config, force=False):
         logging.error(f"❌ Failed to parse LLM response for pillar '{pillar_slug}': {e} (raw saved to {error_path})")
 
 
-def generate_spoke_metadata(spoke_slug, pillar_metadata, force=False):
+def generate_spoke_metadata(spoke_slug, pillar_metadata, section_config, force=False):
     pillar_slug = pillar_metadata["cluster_name"]
     spoke_inputs = extract_spoke_inputs(spoke_slug, pillar_metadata)
-    data = spoke_inputs
-    response = data
 
     folder_path = os.path.join(PILLAR_OUTPUT_DIR, pillar_slug)
     ensure_folder(folder_path)
@@ -195,25 +193,26 @@ def generate_spoke_metadata(spoke_slug, pillar_metadata, force=False):
         logging.info(f"✅ Skipping spoke '{spoke_slug}' (already exists)")
         return
 
-    # prompt_template = load_prompt(SPOKE_PROMPT_PATH)
-    # pillar_title = cluster_data.get("pillar_title", pillar_slug.replace("-", " "))
+    prompt_template = load_prompt(SPOKE_PROMPT_PATH)
+    pillar_title = spoke_inputs.get("pillar_title", pillar_slug.replace("-", " "))
 
     # # Fill in prompt
-    # prompt = prompt_template.replace("{{spoke_slug}}", spoke_slug)
-    # prompt = prompt.replace("{{pillar_slug}}", pillar_slug)
-    # prompt = prompt.replace("{{pillar_title}}", pillar_title)
+    prompt = prompt_template.replace("{{spoke_slug}}", spoke_slug)
+    prompt = prompt.replace("{{pillar_slug}}", pillar_slug)
+    prompt = prompt.replace("{{pillar_title}}", pillar_title)
 
     # logging.info(f"🧠 Generating metadata for spoke '{spoke_slug}'...")
-    # messages = [
-    #     {"role": "system", "content": "You are a metadata-generating SEO agent for ADHD blogs."},
-    #     {"role": "user", "content": prompt}
-    # ]
-    # response = call_llm(messages, section="spoke_metadata", section_config=config)
+    messages = [
+        {"role": "system", "content": "You are a metadata-generating SEO agent for ADHD blogs."},
+        {"role": "user", "content": prompt}
+    ]
+    response = call_llm(messages, section="spoke_metadata", section_config=section_config)
     # logging.debug(f"🔍 Raw LLM response for spoke '{spoke_slug}': {repr(response)}")
 
     try:
-        # data = extract_json_block(response)
-        # data["prompt_version"] = "spoke-v3.1"
+        data = extract_json_block(response)
+        data["prompt_version"] = "spoke-v3.1"
+        data["spoke_metadat_inputs"] = convert_sets_to_lists(spoke_inputs)
         write_json(spoke_path, data)
         logging.info(f"✅ Saved: {spoke_path}")
     except Exception as e:
@@ -244,7 +243,7 @@ def main(force=False, pillar_only=False, spoke_only=False, target_pillar=None):
         if not pillar_only:
             pillar_metadata = load_pillar_metadata(pillar_slug)
             for spoke_slug in cluster_data.get("spokes", []):
-                generate_spoke_metadata(spoke_slug, pillar_metadata, force=force)
+                generate_spoke_metadata(spoke_slug, pillar_metadata, config, force=force)
 
     logging.info("🏁 All metadata generation completed.")
 

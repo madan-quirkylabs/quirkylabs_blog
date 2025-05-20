@@ -59,15 +59,28 @@ def ensure_directories(paths: dict):
 
 def extract_json_from_response(response: str) -> dict:
     """
-    Cleans and extracts a valid JSON object from a raw LLM response string.
-    Strips triple backticks, language tags, and isolates the main JSON block.
+    Extract a valid JSON object from raw LLM response.
+    Handles markdown formatting and triple backtick fences.
     """
-    # Remove markdown formatting
+    # Remove triple backticks and optional `json` label
     cleaned = re.sub(r"^```(?:json)?|```$", "", response.strip(), flags=re.MULTILINE)
 
-    # Extract the JSON portion
+    # Match the JSON block using a greedy matcher
     json_match = re.search(r"{.*}", cleaned, flags=re.DOTALL)
     if not json_match:
         raise ValueError("No valid JSON object found in response.")
 
     return json.loads(json_match.group(0))
+
+def convert_sets_to_lists(obj):
+    """Recursively convert sets to lists and handle ellipsis for JSON serialization."""
+    if isinstance(obj, dict):
+        return {k: convert_sets_to_lists(v) for k, v in obj.items()}
+    elif isinstance(obj, list):
+        return [convert_sets_to_lists(item) for item in obj]
+    elif isinstance(obj, set):
+        return list(obj)
+    elif obj is ...:
+        return "..."  # or None or "Ellipsis"
+    else:
+        return obj

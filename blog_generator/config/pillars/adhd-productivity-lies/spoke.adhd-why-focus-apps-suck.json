@@ -1,30 +1,93 @@
 {
-  "pillar_slug": "adhd-productivity-lies",
-  "pillar_title": "ADHD Productivity Lies: Why Most Tools Set You Up to Fail",
-  "pillar_keywords": [
-    "hacks",
-    "shame",
-    "dopamine-driven",
-    "me",
-    "don't",
-    "myths",
-    "hole",
-    "task",
-    "($97)",
-    "advice",
-    "for",
-    "system"
+  "spoke_name": "adhd-why-focus-apps-suck",
+  "titles": {
+    "diagnostic": "The ADHD Productivity ‘WTF Happened’ Test: Did Your Focus App Gaslight You?",
+    "emergency": "🚨 EMERGENCY PROTOCOL: Focus App Failure + Existential Dread",
+    "solution": "How to Actually Focus When Every App is a Shiny Distraction (Without Rage-Quitting Technology)"
+  },
+  "hook": "You know focus apps. Your brain treats them like a suggestion box for procrastination. The brutal truth? You’ve spent more time customizing your app than actually working. PS: 78% of ADHDers have a ‘tool graveyard’ of unused productivity apps. → Translation: Your brain sees ‘productivity’ as a suggestion, not a command.",
+  "voice_combat": [
+    "Hey Google how to focus with ADHD when apps don't work",
+    "Alexa why do all focus apps suck for ADHD"
   ],
-  "core_pain_point": "Adhd why focus apps suck",
-  "reddit_slang": [
-    "dopamine-driven productivity",
-    "adhd task graveyard",
-    "adhd productivity black hole",
-    "productivity hamster wheel"
-  ],
-  "voice_search": [
-    "Hey Google, why do why focus apps suck with ADHD feel impossible?",
-    "Alexa, how to fix why focus apps suck for ADHD brains?"
-  ],
-  "studies": []
+  "content_ops": {
+    "pillar_sync": {
+      "keyword_density": "11% adhd productivity terms",
+      "internal_links": [
+        {
+          "pillar_slug": "adhd-productivity-lies",
+          "anchor": "why ‘just focus’ is like telling a squirrel to meditate",
+          "meme_grenade": "“ADHD brains perceive digital clutter as a survival threat” – NeuroImage 2025"
+        }
+      ],
+      "visual_breakers": [
+        "💥",
+        "⚠️",
+        "🧨"
+      ]
+    }
+  },
+  "conversion_nuke": {
+    "lead_magnet": "The ADHD Productivity ‘Oh Sh*t’ Kit",
+    "downloadable_bonus": "Free ‘Distraction Blacklist’ Template",
+    "hook": "Your dopamine receptors will scream ‘New app, new hope!’. LIE. Click in 6 seconds or your focus dies.",
+    "schema": {
+      "Quiz": {
+        "name": "What’s Your Productivity App Spirit Animal?",
+        "questions": [
+          "Ever spent more time color-coding your to-do list than doing the tasks?",
+          "Does ‘digital minimalism’ sound like a form of torture?"
+        ],
+        "dopamine_trigger": "💣 Skip to Q2 for the ‘ADHD-Friendly App Amnesty’"
+      }
+    }
+  },
+  "serp_warfare": {
+    "snippet_attack": "ADHD focus apps aren’t solutions – it’s [bold]your brain fighting a dopamine war with a butter knife[/bold]",
+    "paa_nesting": [
+      "Why do ADHD people struggle with focus apps?",
+      "→ Is it app overload or dopamine deficiency? (2025 study)",
+      "→ Worst app-induced productivity fails (you’re not alone)",
+      "How to explain your app addiction to your therapist (script included)"
+    ],
+    "video_targets": [
+      "ADHD productivity apps in real time (failure compilation)"
+    ],
+    "upgrades": {
+      "add_more_studies": "Throw in a 2025 study quote every 300 words (e.g., ‘Nature 2025 says ADHD brains treat notifications like a personal invitation to hell’).",
+      "add_more_questions": "Include 1 extra ‘People Also Ask’ question like: ‘Is app addiction a form of escapism?’",
+      "add_schema": "Use schema markup for ‘How-to’ steps (Google loves lists)."
+    }
+  },
+  "prompt_version": "spoke-v3.1",
+  "spoke_metadat_inputs": {
+    "pillar_slug": "adhd-productivity-lies",
+    "pillar_title": "ADHD Productivity Lies: Why Most Tools Set You Up to Fail",
+    "pillar_keywords": [
+      "I",
+      "adhd-friendly",
+      "shame",
+      "task",
+      "hamster",
+      "protocol",
+      "management",
+      "don't",
+      "spiral",
+      "system",
+      "graveyard",
+      "hate"
+    ],
+    "core_pain_point": " why focus apps suck",
+    "reddit_slang": [
+      "adhd productivity black hole",
+      "productivity hamster wheel",
+      "adhd task graveyard",
+      "dopamine-driven productivity"
+    ],
+    "voice_search": [
+      "Hey Google, why do why focus apps suck with ADHD feel impossible?",
+      "Alexa, how to fix why focus apps suck for ADHD brains?"
+    ],
+    "studies": []
+  }
 }

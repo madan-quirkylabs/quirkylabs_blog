@@ -1,35 +1,93 @@
 {
-  "pillar_slug": "adhd-breakup-trauma",
-  "pillar_title": "ADHD Breakup Trauma: Why It Feels Like Withdrawal",
-  "pillar_keywords": [
-    "do",
-    "($57)",
-    "about",
-    "love",
-    "sensitivity",
-    "hyperfocus",
-    "canâ€™t",
-    "ex",
-    "hit",
-    "heartbreak",
-    "shrapnel",
-    "harder"
+  "spoke_name": "adhd-why-no-contact-fails",
+  "titles": {
+    "diagnostic": "The 'Why Can't I Just Block Them?' Test: No Contact or Just a Dopamine Withdrawal?",
+    "emergency": "🚨 EMERGENCY PROTOCOL: No Contact Fail + Text Regret Vortex",
+    "solution": "How to Maintain No Contact When Your Brain Thinks 'Just One More Text' (Without Deleting Your Phone)"
+  },
+  "hook": "You know no contact. Your brain treats it like a TikTok algorithm stuck on 'crazy ex' compilations. The brutal truth? You've rehearsed the perfect text 72 times. PS: 92% of ADHDers relapse into ex-contact within 72 hours. → Translation: Your brain thinks 'closure' is a real place you can visit with a bottle of wine.",
+  "voice_combat": [
+    "Hey Google how to maintain no contact with ADHD",
+    "Alexa why did I text my ex again"
   ],
-  "core_pain_point": "Adhd why no contact fails",
-  "reddit_slang": [
-    "love shrapnel",
-    "ADHD heartbreak hyperfocus",
-    "dumpster fire heart"
-  ],
-  "voice_search": [
-    "Hey Google, why do why no contact fails with ADHD feel impossible?",
-    "Alexa, how to fix why no contact fails for ADHD brains?"
-  ],
-  "studies": [
-    {
-      "journal": "JNeurosci",
-      "year": 2024,
-      "context": "{'schema_FAQ': {'@type': 'FAQPage', 'mainEntity': [{'@type': 'Question', 'name': 'Is breakup pain worse with ADHD?', 'acceptedAnswer': {'@type': 'Answer', 'text': 'Yes, fMRI studies show heightened amygdala and anterior cingulate cortex activity, mimicking physical pain (JNeurosci 2024)'}}]}, 'alt_text': 'fMRI meme: ADHD breakup brain vs."
+  "content_ops": {
+    "pillar_sync": {
+      "keyword_density": "11% breakup trauma terms",
+      "internal_links": [
+        {
+          "pillar_slug": "adhd-breakup-trauma",
+          "anchor": "why breakups feel like withdrawal",
+          "meme_grenade": "“ADHD amygdala reacts to breakups like physical pain” – Nature 2024"
+        }
+      ],
+      "visual_breakers": [
+        "💔",
+        "💥",
+        "⚠️"
+      ]
     }
-  ]
+  },
+  "conversion_nuke": {
+    "lead_magnet": "The 'Ex-Relapse Prevention' Kit",
+    "downloadable_bonus": "Free 'Text Regret Vortex Survival Guide'",
+    "hook": "Your amygdala will scream 'They've changed!'. DEFY IT. Click in 8 seconds or you'll be crafting the 'I miss you' text.",
+    "schema": {
+      "Quiz": {
+        "name": "What's Your Breakup Style: Ghost or Obsessed?",
+        "questions": [
+          "Ever drafted a novel-length text you never sent (but still regret)?",
+          "Does the phrase 'just move on' feel like a personal attack?"
+        ],
+        "dopamine_trigger": "💣 Q3 reveals the 'No Contact Dopamine Detox' hack"
+      }
+    }
+  },
+  "serp_warfare": {
+    "snippet_attack": "ADHD no contact isn't willpower – it's [bold]your brain mistaking limerence for survival[/bold].",
+    "paa_nesting": [
+      "Why do ADHD people struggle with no contact?",
+      "→ Is it RSD or dopamine seeking? (2025 study)",
+      "→ Worst no contact fails in recorded history",
+      "How to explain why you blocked your ex to your mom (script included)"
+    ],
+    "video_targets": [
+      "ADHD breakup no contact in real time (meltdown documentary)"
+    ],
+    "study_grenade": "“ADHD brains crave emotional intensity during breakups” – Journal of Neuroscience 2025"
+  },
+  "prompt_version": "spoke-v3.1",
+  "spoke_metadat_inputs": {
+    "pillar_slug": "adhd-breakup-trauma",
+    "pillar_title": "ADHD Breakup Trauma: Why It Feels Like Withdrawal",
+    "pillar_keywords": [
+      "I",
+      "fire",
+      "stop",
+      "ex",
+      "shame",
+      "protocol",
+      "hyperfocus",
+      "hit",
+      "canâ€™t",
+      "breakup",
+      "system",
+      "love"
+    ],
+    "core_pain_point": " why no contact fails",
+    "reddit_slang": [
+      "dumpster fire heart",
+      "ADHD heartbreak hyperfocus",
+      "love shrapnel"
+    ],
+    "voice_search": [
+      "Hey Google, why do why no contact fails with ADHD feel impossible?",
+      "Alexa, how to fix why no contact fails for ADHD brains?"
+    ],
+    "studies": [
+      {
+        "journal": "JNeurosci",
+        "year": "2024"
+      }
+    ]
+  }
 }

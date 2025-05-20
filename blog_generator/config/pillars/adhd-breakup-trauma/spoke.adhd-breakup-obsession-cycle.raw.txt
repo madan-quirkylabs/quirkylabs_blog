@@ -1,0 +1,66 @@
+```json
+{
+  "spoke_name": "adhd-breakup-obsession-cycle",
+  "titles": {
+    "diagnostic": "The ‘Why Can't I Stop Stalking My Ex?’ Test: RSD or Just a Glitch in the Matrix?",
+    "emergency": "🚨 EMERGENCY PROTOCOL: Breakup Obsession + Social Media Stalking",
+    "solution": "How to Break the ADHD Breakup Obsession Cycle (Without Throwing Your Phone in the Ocean)"
+  },
+  "hook": "You know the breakup obsession cycle. Your brain treats no-contact like a TikTok algorithm stuck on ‘crazy ex’ compilations. The brutal truth? You’ve refreshed their Instagram 47 times in the last hour. PS: 92% of ADHDers relapse into ex-contact within 72 hours. → Translation: Your brain thinks ‘I'm over it’ is a suggestion, not a command.",
+  "voice_combat": [
+    "Hey Google how to stop obsessing over my ex with ADHD",
+    "Alexa why can’t I stop stalking my ex after a breakup"
+  ],
+  "content_ops": {
+    "pillar_sync": {
+      "keyword_density": "11% breakup trauma terms",
+      "internal_links": [
+        {
+          "pillar_slug": "adhd-breakup-trauma",
+          "anchor": "why ‘just move on’ feels like climbing Mount Everest barefoot",
+          "meme_grenade": "“ADHD amygdala reacts to breakups like physical pain” – Nature 2024"
+        }
+      ],
+      "visual_breakers": [
+        "💔",
+        "⚠️",
+        "🤯"
+      ]
+    }
+  },
+  "conversion_nuke": {
+    "lead_magnet": "The Breakup ‘Obsession Detox’ Kit",
+    "downloadable_bonus": "Free ‘Ex-Contact Emergency Script’",
+    "hook": "Your hippocampus will whisper ‘just one more peek’. FIGHT IT. Click in 8 seconds or you’ll be sending ‘u up?’ texts.",
+    "schema": {
+      "HowTo": {
+        "name": "How to Survive the Breakup Obsession Cycle",
+        "step1": "Step 1: Delete their number (yes, really).",
+        "step2": "Step 2: Block them on social media (temporary pain, long-term gain)."
+      }
+    },
+    "Quiz": {
+      "name": "What's Your Breakup Coping Style?",
+      "questions": [
+        "Have you ever created a fake social media account to stalk your ex?",
+        "Does ‘just forget about them’ sound like a personal insult?"
+      ],
+      "dopamine_trigger": "💣 Q3 reveals the ‘No-Contact Ninja Technique’"
+    }
+  },
+  "serp_warfare": {
+    "snippet_attack": "ADHD breakup obsession isn’t weakness – it’s [bold]your brain mistaking heartbreak for a life-threatening emergency[/bold].",
+    "paa_nesting": [
+      "Why do ADHD people obsess over exes?",
+      "→ Is it RSD or just plain loneliness? (2025 study)",
+      "→ Worst breakup obsession fails (you’re definitely not alone)",
+      "How to explain your breakup obsession to your therapist (script included)",
+      "Is RSD like PTSD? → (2025 study debate)"
+    ],
+    "video_targets": [
+      "ADHD breakup obsession in real time (documentary cringe)"
+    ],
+    "study_grenade": "“ADHD brains struggle to regulate emotional intensity after breakups” – Journal of Neuroscience 2025"
+  }
+}
+```

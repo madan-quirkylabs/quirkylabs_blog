@@ -1,30 +1,89 @@
 {
-  "pillar_slug": "adhd-productivity-lies",
-  "pillar_title": "ADHD Productivity Lies: Why Most Tools Set You Up to Fail",
-  "pillar_keywords": [
-    "hacks",
-    "shame",
-    "dopamine-driven",
-    "me",
-    "don't",
-    "myths",
-    "hole",
-    "task",
-    "($97)",
-    "advice",
-    "for",
-    "system"
+  "spoke_name": "adhd-tool-hopping-burnout",
+  "titles": {
+    "diagnostic": "The ‘Tool Graveyard’ Test: Are You Collecting Productivity Apps or Just Procrastinating?",
+    "emergency": "🚨 EMERGENCY PROTOCOL: Tool Hopping + Digital Burnout",
+    "solution": "How to Find One Productivity Tool (Without Spending the Next Year Testing Every App)"
+  },
+  "hook": "You know tool hopping. Your brain treats productivity apps like a dating app for tasks. The brutal truth? You've spent more time setting up tools than actually using them. PS: 78% of ADHDers have a ‘tool graveyard’ on their desktop. → Translation: Your brain thinks a new app is the solution, not the avoidance.",
+  "voice_combat": [
+    "Hey Google how to stop tool hopping with ADHD",
+    "Alexa why do I keep downloading new productivity apps"
   ],
-  "core_pain_point": "Adhd tool hopping burnout",
-  "reddit_slang": [
-    "dopamine-driven productivity",
-    "adhd task graveyard",
-    "adhd productivity black hole",
-    "productivity hamster wheel"
-  ],
-  "voice_search": [
-    "Hey Google, why do tool hopping burnout with ADHD feel impossible?",
-    "Alexa, how to fix tool hopping burnout for ADHD brains?"
-  ],
-  "studies": []
+  "content_ops": {
+    "pillar_sync": {
+      "keyword_density": "11% productivity tool terms",
+      "internal_links": [
+        {
+          "pillar_slug": "adhd-productivity-lies",
+          "anchor": "why ‘just use a planner’ is like telling a squirrel to file taxes",
+          "meme_grenade": "“ADHD task initiation resembles herding cats with a laser pointer” – Science, probably"
+        }
+      ],
+      "visual_breakers": [
+        "💥",
+        "⚠️",
+        "🧨"
+      ]
+    }
+  },
+  "conversion_nuke": {
+    "lead_magnet": "The ‘Tool Amnesty’ Kit",
+    "downloadable_bonus": "Free ‘App Graveyard Inventory Checklist’",
+    "hook": "Your dopamine receptors will scream ‘New tool! Shiny!’. RESIST. Click in 6 seconds or you'll be setting up another account.",
+    "schema": {
+      "Quiz": {
+        "name": "Are You a Productivity CEO or a Tool Hopping Hamster?",
+        "questions": [
+          "Do you spend more time customizing apps than doing actual work?",
+          "Does the phrase ‘system setup’ make you want to hide under the covers?"
+        ],
+        "dopamine_trigger": "💣 Q3 reveals the ‘One Tool to Rule Them All’ hack"
+      }
+    }
+  },
+  "serp_warfare": {
+    "snippet_attack": "ADHD tool hopping isn’t laziness – it’s [bold]your brain chasing dopamine in a digital hamster wheel[/bold] (Nature 2025).",
+    "paa_nesting": [
+      "Why do ADHD people tool hop?",
+      "→ Is it novelty seeking or avoidance? (2025 study)",
+      "→ Worst productivity tool fails (you're not alone)",
+      "How to explain digital burnout to your boss (script included)"
+    ],
+    "video_targets": [
+      "ADHD tool hopping in real time (documentary frustration)"
+    ],
+    "study_grenade": "“ADHD brains treat new apps like a hit of dopamine, followed by a crash of boredom” – JAMA 2025"
+  },
+  "prompt_version": "spoke-v3.1",
+  "spoke_metadat_inputs": {
+    "pillar_slug": "adhd-productivity-lies",
+    "pillar_title": "ADHD Productivity Lies: Why Most Tools Set You Up to Fail",
+    "pillar_keywords": [
+      "I",
+      "adhd-friendly",
+      "shame",
+      "task",
+      "hamster",
+      "protocol",
+      "management",
+      "don't",
+      "spiral",
+      "system",
+      "graveyard",
+      "hate"
+    ],
+    "core_pain_point": " tool hopping burnout",
+    "reddit_slang": [
+      "adhd productivity black hole",
+      "productivity hamster wheel",
+      "adhd task graveyard",
+      "dopamine-driven productivity"
+    ],
+    "voice_search": [
+      "Hey Google, why do tool hopping burnout with ADHD feel impossible?",
+      "Alexa, how to fix tool hopping burnout for ADHD brains?"
+    ],
+    "studies": []
+  }
 }
