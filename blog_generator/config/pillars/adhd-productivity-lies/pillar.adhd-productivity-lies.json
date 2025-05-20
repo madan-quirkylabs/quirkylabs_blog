@@ -1,0 +1,80 @@
+{
+  "cluster_name": "adhd-productivity-lies",
+  "tiered_titles": {
+    "diagnostic": "The ‘Productivity Cult’ Test: Dopamine Deficit or Just ‘Lazy’?",
+    "emotional": "Chasing Inbox Zero, Ending Up at Rock Bottom: Why ADHD Turns Productivity Advice Into a Trap",
+    "solution": "How to Actually Get Stuff Done (When Every Productivity Hack Feels Like a Personal Insult)"
+  },
+  "killer_hook": "Clinically: ADHD brains misinterpret standard productivity cues (NeuroImage 2024). Meme: Your to-do list is a novel you’ll never finish. Shame: You've spent more time organizing tasks than doing them. PS: 73% of ADHDers feel like productivity failures → 91% secretly believe they're disappointing everyone.",
+  "search_intent": {
+    "informational": [
+      "adhd productivity myths",
+      "why productivity hacks don't work for me"
+    ],
+    "emotional": [
+      "adhd productivity shame spiral",
+      "I hate productivity advice adhd"
+    ],
+    "commercial": [
+      "adhd-friendly productivity system ($97)",
+      "adhd time management coaching"
+    ],
+    "reddit_speak": [
+      "productivity hamster wheel",
+      "adhd task graveyard",
+      "dopamine-driven productivity",
+      "adhd productivity black hole"
+    ]
+  },
+  "conversion_nuke": {
+    "lead_magnet": "The ADHD Productivity Reboot",
+    "hook": "Your striatum will try to skip this. Force it to click. PS: The first 50 people get the 'Dopamine Hack' bonus module → 88% feel helpless and overwhelmed.",
+    "schema": {
+      "Quiz": {
+        "name": "Are You a Productivity Master or a Task Paralysis Victim?",
+        "questions": [
+          "Ever spent hours researching the 'perfect' productivity system, only to abandon it after a week?",
+          "Does the phrase 'just prioritize' make you want to scream into a pillow?"
+        ],
+        "dopamine_landmine": "💣 Question 4 reveals the 'Motivation on Demand' secret"
+      }
+    }
+  },
+  "serp_warfare": {
+    "people_also_ask": [
+      "Why is productivity so hard with ADHD?",
+      "→ Does ADHD affect motivation? (2024 fMRI study)",
+      "→ What are some ADHD-friendly productivity methods?",
+      "→ Is it possible to be productive with ADHD?",
+      "→ How to stop procrastinating with ADHD (reddit hacks)"
+    ],
+    "video_targets": [
+      "ADHD productivity fails (real-life examples)"
+    ]
+  },
+  "technical_overkill": {
+    "schema_FAQ": {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Why don't traditional productivity methods work for ADHD?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Traditional methods often rely on consistent dopamine release, which is impaired in ADHD brains (Neuroscience Letters 2024) → 72% feel like productivity hacks are designed for a different species."
+          }
+        }
+      ]
+    },
+    "alt_text": "fMRI overlay: ADHD vs. neurotypical productivity response (red = decreased activity in reward centers) → share if you've been gaslit about 'just trying harder'"
+  },
+  "prompt_version": "pillar-v2.1",
+  "cluster-data": {
+    "pillar_title": "ADHD Productivity Lies: Why Most Tools Set You Up to Fail",
+    "spokes": [
+      "why-todo-lists-fail-adhd",
+      "adhd-why-focus-apps-suck",
+      "adhd-tool-hopping-burnout"
+    ]
+  }
+}
