@@ -77,7 +77,7 @@ front_matter_one_shot:
 
 emotional_hook:
   provider: gemini
-  model: gemini-1.5-flash
+  model: gemini-2.0-flash-lite-001
   temperature: 0.8
   prompt: Write a vivid, playful mini-scene about '{{Topic}}'. Use simple everyday metaphors linked to ADHD struggles. Short 2–3 line paragraphs. Insert a blank line after every emotional beat. End with a hopeful invitation.
   system_instruction: Generate only the Emotional Hook. Cozy, validating tone, playful ADHD-friendly language. Use short playful sentences (10–14 words max). Prefer simple vocabulary. Target Grade 6–7 readability (Flesch score above 60). Stay tightly anchored to '{{Topic}}'.
@@ -85,7 +85,7 @@ emotional_hook:
 
 story_part_1:
   provider: gemini
-  model: gemini-1.5-flash
+  model: gemini-2.0-flash-lite-001
   temperature: 0.8
   prompt: Write the first part of a playful Story-Based Explanation about '{{Topic}}'. Mention '{{Primary Keyword}}' naturally within the first 100 words to help SEO. The story should start with a vivid ADHD scenario or character moment that immediately relates to the keyword. Insert one playful mini-H3 heading (~150 words in). Use short paragraphs (2–3 lines max) and cozy, casual tone.
   system_instruction: Generate Story Part 1 only. Prioritize vivid metaphors, playful ADHD-friendly tone, short cozy paragraphs, playful H3 after ~150 words. Use short playful sentences (10–14 words max). Prefer simple vocabulary. Target Grade 6–7 readability (Flesch score above 60). Stay tightly anchored to '{{Topic}}'.
@@ -93,7 +93,7 @@ story_part_1:
 
 story_part_2:
   provider: gemini
-  model: gemini-1.5-flash
+  model: gemini-2.0-flash-lite-001
   temperature: 0.8
   enabled: false
   prompt: Write the second part of a playful Story-Based Explanation about '{{Topic}}'. Mention '{{Primary Keyword}}' naturally within the first 100 words. Build on the metaphor or character already introduced. Insert one playful mini-H3 heading. Keep paragraphs short (2–3 lines). Maintain cozy ADHD-friendly tone.
@@ -101,7 +101,7 @@ story_part_2:
 
 story_part_3:
   provider: gemini
-  model: gemini-1.5-flash
+  model: gemini-2.0-flash-lite-001
   temperature: 0.8
   enabled: false
   prompt: Write the third part of the playful Story-Based Explanation about '{{Topic}}'. Mention '{{Primary Keyword}}' naturally within the first 100 words. This section should wrap up the story arc and provide emotional resolution. Insert one playful mini-H3 heading. Use short paragraphs (2–3 lines). End on an encouraging note.
@@ -109,7 +109,7 @@ story_part_3:
 
 checklist:
   provider: gemini
-  model: gemini-1.5-flash
+  model: gemini-2.0-flash-lite-001
   temperature: 0.8
   enabled: false
   prompt: Create a playful, vivid, emotionally quirky checklist for '{{Topic}}'. 4–6 points maximum. Each point must use colorful metaphors or relatable imagery. Make readers laugh, nod, or feel seen. Short, cozy, ADHD-friendly phrasing (max 2 lines per point). Mention '{{Primary Keyword}}' naturally once if it fits.
@@ -117,7 +117,7 @@ checklist:
 
 keyword_generation:
   provider: gemini
-  model: gemini-1.5-flash
+  model: gemini-2.0-flash-lite-001
   temperature: 0.8
   enabled: false
   prompt:
@@ -130,7 +130,7 @@ keyword_generation:
 faq_emotional:
   enabled: true
   provider: gemini
-  model: gemini-1.5-flash
+  model: gemini-2.0-flash-lite-001
   temperature: 0.7
   system_instruction: >
     You are an ADHD expert helping write clear, empathetic answers to common ADHD questions. Your answers should sound warm, simple, and helpful, written at a 6th-grade reading level.
@@ -140,7 +140,7 @@ faq_emotional:
 faq_search_queries:
   enabled: true
   provider: gemini
-  model: gemini-1.5-flash
+  model: gemini-2.0-flash-lite-001
   temperature: 0.4
   system_instruction: >
     You are a keyword analyst and ADHD content strategist. Your job is to find long-tail search queries people actually type into Google.
@@ -150,7 +150,7 @@ faq_search_queries:
 faq_quirky:
   enabled: true
   provider: gemini
-  model: gemini-1.5-flash
+  model: gemini-2.0-flash-lite-001
   temperature: 0.85
   system_instruction: >
     You are a quirky, curious ADHD explainer. You help answer the weird or unexpected ADHD questions people are too shy to ask.
@@ -159,7 +159,7 @@ faq_quirky:
 
 cta:
   provider: gemini
-  model: gemini-1.5-flash
+  model: gemini-2.0-flash-lite-001
   temperature: 0.8
   enabled: false
   prompt: Write a soft, mischievous Call to Adventure inviting readers to explore '{{Topic}}' at [QuirkyLabs.ai](https://quirkylabs.ai). Frame it as 'charting their galaxy' or 'joining a fun quest'. Cozy, validating, adventurous tone. Mention '{{Primary Keyword}}' naturally if it fits.
@@ -167,7 +167,7 @@ cta:
 
 validation:
   provider: gemini
-  model: gemini-1.5-flash
+  model: gemini-2.0-flash-lite-001
   temperature: 0.8
   enabled: false
   prompt: "Strictly evaluate the following blog content:
@@ -197,7 +197,7 @@ validation:
 
 topic_relevance_validation:
   provider: gemini
-  model: gemini-1.5-flash
+  model: gemini-2.0-flash-lite-001
   temperature: 0.8
   enabled: false
   prompt: Check if all sections stay tightly anchored to '{{Topic}}'. Allow some playful metaphors but no off-topic drift.
@@ -205,7 +205,7 @@ topic_relevance_validation:
 
 meta_description:
   provider: gemini
-  model: gemini-1.5-flash
+  model: gemini-2.0-flash-lite-001
   temperature: 0.8
   enabled: false
   prompt:
@@ -232,7 +232,7 @@ meta_description:
 
 meta_title:
   provider: gemini
-  model: gemini-1.5-flash
+  model: gemini-2.0-flash-lite-001
   temperature: 0.8
   enabled: false
   prompt:
@@ -254,7 +254,7 @@ meta_title:
 
 faq_core:
   provider: gemini
-  model: gemini-1.5-flash
+  model: gemini-2.0-flash-lite-001
   temperature: 0.8
   enabled: false
   prompt: "Write 4–6 FAQs about '{{Topic}}'. Each question must contain the exact phrase '{{primary_keyword}}'. Format strictly using HTML: <details><summary>Question</summary><p>Answer</p></details>. Do not number the questions. No markdown. No extra text."
@@ -262,56 +262,76 @@ faq_core:
 
 narrative_full_blog:
   provider: gemini
-  model: gemini-1.5-flash
-  temperature: 0.8
+  model: gemini-2.0-flash-lite-001
+  temperature: 0.9 # Increased for creativity
   enabled: true
   system_instruction: >
-    You are Dr. Squirrel, an ADHD neuroscientist with the humor of a stand-up comic and the empathy of a best friend. Your mission:
-    1. Voice: Blend science-backed insights with meme-worthy ADHD metaphors.
-    2. Structure: Follow the 3-Act Story Spine (Struggle → Science → Fix).
-    3. Tone: "Quirky therapist meets TikTok storyteller" — validating, funny, actionable.
-    4. Non-Negotiables:
-       - Use EXACTLY 1 "PS" stat from `hook`.
-       - Inject 1 `reddit_slang` term naturally.
-       - Cite 1 study from `real_study_citation_inputs` (simplified).
-       - Include ALL `voice_combat` phrases as section headers.
+    You are Dr. Squirrel, the ADHD equivalent of Bill Nye meets Ali Wong. Your content must:
+    1. Make neuroscience feel like gossip with your best friend
+    2. Weaponize every metadata element like an SEO assassin
+    3. Balance Flesch 70+ readability with academic rigor
+    4. Sound like ADHD TikTok meets Nature Journal
+
+    IRONCLAD RULES:
+    - Every section must use its assigned metadata EXACTLY as provided
+    - Never paraphrase studies - quote them verbatim then translate
+    - <!--START/END--> tags are sacred - missing one = instant rewrite
+    - Visual breakers must match emotional tone of each section
 
   prompt: |
-    Write a 1,500-word ADHD blog titled "{{titles.diagnostic}}" structured like a Netflix documentary. Use these SPOKE METADATA:
+    <!--START: emotional_hook-->
+    ## [YOUR BRAIN ON {{primary_keyword|upper}} (AN AUTOBIOGRAPHY)]
+    *Hook*: "You know {{core_pain_point}}." (must match `hook` opening)
+    *Science-as-Meme*: "{{meme_grenade}}" 
+    *PS Punchline*: "PS: {{hook.split('PS:')[1].strip()}}" (include verbatim)
+    *Visual Breaker*: {{visual_breakers[0]}} 
+    *Secret Weapon*: Insert 1 "{{reddit_slang[0]}}" naturally
 
-    ### <!--START: emotional_hook-->
-    **Hook Formula:**
-    1. "You know {{core_pain_point}}." (Mirror `hook`'s opening).
-    2. Vivid metaphor: "Your brain is like {{meme_grenade}}."
-    3. End with PS: "{{hook.split('PS:')[1]}}".
+    <!--START: story_part_1-->
+    ### {{voice_combat[0]}} (ANSWERED LIKE A THERAPIST)
+    *Scene*: "My {{reddit_slang[1]}} looked like..." (show chaos visually)
+    *Body Double*: Address reader as "you" 3+ times
+    *Study Bomb*: "🔬 {{real_study_citation_inputs[0].top_3_findings[0]}}"
+    *Translation*: "So basically: {{meme_grenade}}"
+    *Visual Breaker*: {{visual_breakers[1]}}
 
-    ### <!--START: story_part_1-->
-    **Act 1: The Struggle**
-    - Scene: Describe a chaotic moment (e.g., "17 abandoned Notion templates").
-    - Voice Search Header: "### {{voice_combat[0]}}" (Answer it conversationally).
-    - Drop 1 `reddit_slang` term (e.g., "This is how {{reddit_slang[0]}} begins").
+    <!--START: story_part_2-->
+    ### THE {{primary_keyword|upper}} CODE (DECODED)
+    *Neuro-Mechanism*: "{{real_study_citation_inputs[0].neurobiological_mechanism}}"
+    *Dopamine Hack*: "🚨 {{conversion_nuke.dopamine_trigger.split('→')[1].strip()}}"
+    *Voice Search*: "### {{voice_combat[1]}} → {{serp_warfare.paa_nesting[0]}}"
+    *Visual Breaker*: {{visual_breakers[2]}}
 
-    ### <!--START: story_part_2-->
-    **Act 2: The Science**
-    - Neuro-sparknotes: "{{real_study_citation_inputs[0].neurobiological_mechanism}}".
-    - Simplify like: "Translation: {{meme_grenade}}."
-    - Pro Tip: **"🚨 Hack:** {{conversion_nuke.dopamine_trigger.split('→')[1]}}."
+    <!--START: neuro_nugget-->  # NEW SECTION
+    ### 🧠 INSTANT NEURO-RELIEF
+    "{{real_study_citation_inputs[1].clinical_takeaway}}"
+    *Pro Tip*: "{{conversion_nuke.schema.questions[0]}} → {{checklist.questions[0]}}"
+    *Visual Breaker*: 🔥
 
-    ### <!--START: story_part_3-->
-    **Act 3: The Fix**
-    - Frame as "{{titles.solution}}".
-    - Steps: Turn `serp_warfare.paa_nesting` into solutions (e.g., "### {{paa_nesting[0]}} → Do this instead").
-    - Include the quiz: "{{conversion_nuke.quiz.name}}" (as a callout).
+    <!--START: story_part_3-->
+    ## {{titles.solution}} (NO BULLSHIT VERSION)
+    *Step 1*: "{{serp_warfare.paa_nesting[0]}} → {{checklist.questions[0]}}"
+    *Step 2*: "{{serp_warfare.paa_nesting[1]}} → {{checklist.questions[1]}}"
+    *Quiz Hook*: "{{conversion_nuke.quiz.name}} ({{conversion_nuke.quiz.dopamine_trigger}})"
+    *Visual Breaker*: 💥
 
-    ### <!--START: checklist-->
-    **Playful Checklist**
-    - Convert `content_ops.visual_breakers` into emoji headers.
-    - Example: "💥 Step 1: {{checklist.questions[0]}} → Fix: [solution]".
+    <!--START: checklist-->
+    ### YOUR {{primary_keyword|upper}} EMERGENCY PROTOCOL
+    1. {{visual_breakers[0]}} "{{checklist.questions[0]}}" → Dopamine hack: {{conversion_nuke.schema.questions[0]}}
+    2. {{visual_breakers[1]}} "{{checklist.questions[1]}}" → Neuro-workaround: {{conversion_nuke.schema.questions[1]}}
+    3. {{visual_breakers[2]}} "STOP! {{meme_grenade}}"
 
-    ### <!--START: cta-->
-    **CTA:** Use `conversion_nuke.hook` + lead magnet tease: "Grab {{lead_magnet}} → {{downloadable_bonus}}."
+    <!--START: cta-->
+    ## {{conversion_nuke.hook|upper}} (YES, RIGHT NOW)
+    *Urgency*: "{{conversion_nuke.hook}}" 
+    *Lead Magnet*: "{{lead_magnet}} → {{downloadable_bonus}}"
+    *Empathy Bomb*: "P.S. Your {{reddit_slang[2]}} doesn't define you" 
+    *Final Breaker*: 🚀
 
-    **Rules:**
-    - Every 300 words: 1 meme metaphor ("RSD is your brain’s fire alarm stuck on").
-    - Flesch score >60 (short sentences, 6th-grade words).
-    - NO generic advice — only ADHD-specific hacks.
+    # TONE ENFORCEMENT
+    1. Every 150 words → 1 "{{reddit_slang}}" term
+    2. Every 200 words → 1 visual breaker (rotate {{visual_breakers}})
+    3. Studies must use exact wording from real_study_citation_inputs
+    4. Never use passive voice - only "you/your" statements
+    5. 1 meme metaphor per section (e.g., "RSD = brain's fire alarm")
+    6. Flesch score ≥70 (validate via https://readable.com)
