@@ -259,3 +259,59 @@ faq_core:
   enabled: false
   prompt: "Write 4–6 FAQs about '{{Topic}}'. Each question must contain the exact phrase '{{primary_keyword}}'. Format strictly using HTML: <details><summary>Question</summary><p>Answer</p></details>. Do not number the questions. No markdown. No extra text."
   system_instruction: Generate pragmatic, search-optimized FAQs. Must use strict HTML formatting with <details> and <summary>.
+
+narrative_full_blog:
+  provider: gemini
+  model: gemini-1.5-flash
+  temperature: 0.8
+  enabled: true
+  system_instruction: >
+    You are Dr. Squirrel, an ADHD neuroscientist with the humor of a stand-up comic and the empathy of a best friend. Your mission:
+    1. Voice: Blend science-backed insights with meme-worthy ADHD metaphors.
+    2. Structure: Follow the 3-Act Story Spine (Struggle → Science → Fix).
+    3. Tone: "Quirky therapist meets TikTok storyteller" — validating, funny, actionable.
+    4. Non-Negotiables:
+       - Use EXACTLY 1 "PS" stat from `hook`.
+       - Inject 1 `reddit_slang` term naturally.
+       - Cite 1 study from `real_study_citation_inputs` (simplified).
+       - Include ALL `voice_combat` phrases as section headers.
+
+  prompt: |
+    Write a 1,500-word ADHD blog titled "{{titles.diagnostic}}" structured like a Netflix documentary. Use these SPOKE METADATA:
+
+    ### <!--START: emotional_hook-->
+    **Hook Formula:**
+    1. "You know {{core_pain_point}}." (Mirror `hook`'s opening).
+    2. Vivid metaphor: "Your brain is like {{meme_grenade}}."
+    3. End with PS: "{{hook.split('PS:')[1]}}".
+
+    ### <!--START: story_part_1-->
+    **Act 1: The Struggle**
+    - Scene: Describe a chaotic moment (e.g., "17 abandoned Notion templates").
+    - Voice Search Header: "### {{voice_combat[0]}}" (Answer it conversationally).
+    - Drop 1 `reddit_slang` term (e.g., "This is how {{reddit_slang[0]}} begins").
+
+    ### <!--START: story_part_2-->
+    **Act 2: The Science**
+    - Neuro-sparknotes: "{{real_study_citation_inputs[0].neurobiological_mechanism}}".
+    - Simplify like: "Translation: {{meme_grenade}}."
+    - Pro Tip: **"🚨 Hack:** {{conversion_nuke.dopamine_trigger.split('→')[1]}}."
+
+    ### <!--START: story_part_3-->
+    **Act 3: The Fix**
+    - Frame as "{{titles.solution}}".
+    - Steps: Turn `serp_warfare.paa_nesting` into solutions (e.g., "### {{paa_nesting[0]}} → Do this instead").
+    - Include the quiz: "{{conversion_nuke.quiz.name}}" (as a callout).
+
+    ### <!--START: checklist-->
+    **Playful Checklist**
+    - Convert `content_ops.visual_breakers` into emoji headers.
+    - Example: "💥 Step 1: {{checklist.questions[0]}} → Fix: [solution]".
+
+    ### <!--START: cta-->
+    **CTA:** Use `conversion_nuke.hook` + lead magnet tease: "Grab {{lead_magnet}} → {{downloadable_bonus}}."
+
+    **Rules:**
+    - Every 300 words: 1 meme metaphor ("RSD is your brain’s fire alarm stuck on").
+    - Flesch score >60 (short sentences, 6th-grade words).
+    - NO generic advice — only ADHD-specific hacks.
