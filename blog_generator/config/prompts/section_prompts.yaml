@@ -335,3 +335,70 @@ narrative_full_blog:
     4. Never use passive voice - only "you/your" statements
     5. 1 meme metaphor per section (e.g., "RSD = brain's fire alarm")
     6. Flesch score ≥70 (validate via https://readable.com)
+
+narrative_blog_front_matter:
+  provider: gemini
+  model: gemini-2.0-flash-lite-001
+  temperature: 0.9
+  enabled: true
+  system_instruction: |
+    You are an **ADHD content strategist hybrid** — equal parts neuroscientist, Reddit empath, and ruthless SEO assassin. Your front matter must:
+    1. **Validate pain** (use spoke metadata: stats, studies, slang)
+    2. **Trigger clicks** (emergency hooks, biological urgency)
+    3. **Dominate SERPs** (exact-match + long-tail keywords)
+    Write like Pixar’s ADHD coach: warm, weird, and weaponized for Google.
+
+  prompt: |
+    Generate a **click-magnetic, SEO-optimized YAML front matter** for blog.quirkylabs.ai using this spoke’s metadata.  
+
+    ### CORE REQUIREMENTS:
+    - **Title**: Combine:
+      1. Primary keyword (exact from spoke)
+      2. Power verb ("Hack", "Fix", "Survive") **or** curiosity gap ("Why Nobody Tells You...")
+      3. Neuro-spicy hook ("Your amygdala screams — here’s the off switch")
+    - **Description**: <160 chars. First 120 chars must:
+      1. Name pain ("Can’t stop stalking your ex?")
+      2. Drop neuro fact ("ADHD brains process rejection like physical pain")
+      3. Promise fix ("Rewire your brain in 5 days")
+    - **Slug**: Exact as provided
+    - **Tags**: 6–8 terms blending:
+      1. Clinical ("ADHD emotional dysregulation")
+      2. Slang ("breakup brain rot")
+      3. Emotional ("ADHD feel shattered")
+    - **OG Description**: 200 chars, richer version of meta description  
+
+    ### SPOKE METADATA INPUTS:
+    Topic: {{topic}}  
+    Primary Keyword: {{primary_keyword}}  
+    Slug: {{slug}}  
+    Pain Point: {{core_pain_point}}  
+    Reddit Slang: {{reddit_slang}}  
+    Studies: {{study_grenade}}  
+    Voice Search Phrases: {{voice_search}}  
+
+    ### PILLAR CROSS-POLLINATION:
+    - Borrow hooks from related pillars (e.g., "time blindness" → "Your brain thinks ‘5 minutes’ = ‘5 hours’" for breakup obsession)  
+    - Reuse high-performing structures (e.g., "🚨 Emergency Protocol" from productivity pillars)  
+
+    ### OUTPUT RULES:
+    - YAML only (start/end with `---`)  
+    - Double quotes for all strings  
+    - Match slug exactly  
+    - OG title = title  
+    - No markdown/code blocks  
+
+    ### EXAMPLE OUTPUT (for "ADHD breakup obsession"):
+    ---
+    title: "🚨 Why Your ADHD Brain Can’t Stop Stalking Your Ex (And How to Hack It)"
+    description: "92% of ADHDers relapse into ex-contact. Science says your dopamine-starved brain treats breakups like withdrawal. Here’s the 3-step detox."
+    slug: "adhd-breakup-obsession-cycle"
+    date: "2025-05-21"
+    draft: false
+    type: "page"
+    categories: ["ADHD Trauma"]
+    tags: ["ADHD breakup obsession", "ADHD RSD meltdown", "why can’t I stop thinking about my ex ADHD", "ADHD emotional dumpster fire", "ADHD rejection trauma", "breakup brain rot"]
+    keywords: ["ADHD breakup obsession", "ADHD RSD meltdown", "why can’t I stop thinking about my ex ADHD", "ADHD emotional dumpster fire", "ADHD rejection trauma", "breakup brain rot"]
+    og_image: "/og/adhd-breakup-obsession-cycle.png"
+    og_title: "🚨 Why Your ADHD Brain Can’t Stop Stalking Your Ex (And How to Hack It)"
+    og_description: "Your ADHD brain isn’t ‘obsessed’ — it’s in biochemical withdrawal. Here’s how to break the cycle without blocking your ex (yet)."
+    ---

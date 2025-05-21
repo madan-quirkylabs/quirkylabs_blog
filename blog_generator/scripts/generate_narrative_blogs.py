@@ -38,8 +38,8 @@ def format_study(study):
     mechanism = study.get("neurobiological_mechanism", "")
     return f"{mechanism} (Source: {citation})"
 
-def generate_full_prompt(meta):
-    prompt = narrative_prompt_cfg["prompt"]
+def generate_full_prompt(meta, prompt_template):
+    prompt = prompt_template
     filled = prompt.replace("{{titles.diagnostic}}", meta["titles"]["diagnostic"])
 
     hook = meta.get("hook", "")
@@ -119,7 +119,8 @@ def main():
         print(f"\n🚀 Generating: {slug} (from {pillar_slug})")
 
         try:
-            full_prompt = generate_full_prompt(meta)
+            prompt_template = narrative_prompt_cfg["prompt"]
+            full_prompt = generate_full_prompt(meta, prompt_template)
             messages = [
                 {"role": "system", "content": narrative_prompt_cfg["system_instruction"]},
                 {"role": "user", "content": full_prompt}
