@@ -160,6 +160,45 @@ def extract_sections(text):
     matches = re.findall(pattern, text, re.DOTALL)
     return {section.strip(): content.strip() for section, content in matches}
 
+def generate_narrative_blog(meta):
+    slug = meta["spoke_name"]
+    prompt_template = narrative_prompt_cfg["prompt"]
+    full_prompt = generate_full_prompt(meta, prompt_template)
+    messages = [
+        {"role": "system", "content": narrative_prompt_cfg["system_instruction"]},
+        {"role": "user", "content": full_prompt}
+    ]
+
+    if not narrative_prompt_cfg.get("enabled", True):
+        print(f"⚠️ Skipping generation for '{slug}' because it is disabled in section_prompts.yaml")
+        return
+
+    provider = narrative_prompt_cfg.get("provider", "openai")
+    model = narrative_prompt_cfg.get("model")
+    temperature = narrative_prompt_cfg.get("temperature")
+
+    response = call_llm(
+        messages,
+        section="narrative_full_blog",
+        section_config=narrative_prompt_cfg,
+        provider=provider,
+        model=model,
+        temperature=temperature
+    )
+
+    sections = extract_sections(response)
+
+    for name, content in sections.items():
+        save_section(slug, name, content)
+
+    narrative_path = os.path.join(SUCCESS_DIR, slug, "narrative_blog.md")
+    os.makedirs(os.path.dirname(narrative_path), exist_ok=True)
+    with open(narrative_path, "w", encoding="utf-8") as f:
+        f.write(response)
+
+    print(f"✅ Blog '{slug}' saved with {len(sections)} sections.")
+
+
 def main():
     ensure_directories({"output": SUCCESS_DIR, "logs": LOGS_DIR})
     os.makedirs(SUCCESS_DIR, exist_ok=True)
@@ -186,45 +225,9 @@ def main():
             print(f"❌ Front matter generation failed for {slug}: {e}")
 
         try:
-            prompt_template = narrative_prompt_cfg["prompt"]
-            full_prompt = generate_full_prompt(meta, prompt_template)
-            messages = [
-                {"role": "system", "content": narrative_prompt_cfg["system_instruction"]},
-                {"role": "user", "content": full_prompt}
-            ]
-
-            if not narrative_prompt_cfg.get("enabled", True):
-                print(f"⚠️ Skipping generation for '{slug}' because it is disabled in section_prompts.yaml")
-                continue
-
-            provider = narrative_prompt_cfg.get("provider", "openai")
-            model = narrative_prompt_cfg.get("model")
-            temperature = narrative_prompt_cfg.get("temperature")
-
-            response = call_llm(
-                messages,
-                section="narrative_full_blog",
-                section_config=narrative_prompt_cfg,
-                provider=provider,
-                model=model,
-                temperature=temperature
-            )
-
-            sections = extract_sections(response)
-
-            for name, content in sections.items():
-                save_section(slug, name, content)
-
-            # Save full response for debug
-            log_path = os.path.join(LOGS_DIR, f"{slug}.full.md")
-            os.makedirs(os.path.dirname(log_path), exist_ok=True)
-            with open(log_path, "w", encoding="utf-8") as f:
-                f.write(response)
-
-            print(f"✅ Blog '{slug}' saved with {len(sections)} sections.")
-
+            generate_narrative_blog(meta)
         except Exception as e:
-            print(f"❌ Error processing {slug}: {e}")
+            print(f"❌ Error processing narrative blog {slug}: {e}")
 
 if __name__ == "__main__":
     main()

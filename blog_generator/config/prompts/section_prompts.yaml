@@ -302,7 +302,7 @@ narrative_full_blog:
     *Voice Search*: "### {{voice_combat[1]}} → {{serp_warfare.paa_nesting[0]}}"
     *Visual Breaker*: {{visual_breakers[2]}}
 
-    <!--START: neuro_nugget-->  # NEW SECTION
+    <!--START: neuro_nugget-->
     ### 🧠 INSTANT NEURO-RELIEF
     "{{real_study_citation_inputs[1].clinical_takeaway}}"
     *Pro Tip*: "{{conversion_nuke.schema.questions[0]}} → {{checklist.questions[0]}}"
