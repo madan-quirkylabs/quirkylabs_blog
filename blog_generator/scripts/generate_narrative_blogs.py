@@ -12,7 +12,7 @@ import textstat
 import pandas as pd
 from datetime import datetime
 from core.config import INPUT_DIR, SUCCESS_DIR, LOGS_DIR, SECTION_PROMPTS_PATH
-from core.utils import save_section, ensure_directories, extract_yaml_from_response
+from core.utils import save_section, ensure_directories, extract_yaml_from_response, extract_json_from_response
 from core.llm_client import call_llm
 
 # Load prompts
@@ -21,6 +21,8 @@ with open(SECTION_PROMPTS_PATH, "r", encoding="utf-8") as f:
 
 narrative_prompt_cfg = prompts_dict["narrative_full_blog"]
 front_matter_prompt_cfg = prompts_dict["narrative_blog_front_matter"]
+narrative_seo_heading_cfg = prompts_dict["narrative_seo_headings"]
+narrative_faq_section_cfg = prompts_dict["narrative_faq_section"]
 
 # Load generation targets from sample_input.csv
 def load_generation_targets():
@@ -198,6 +200,79 @@ def generate_narrative_blog(meta):
 
     print(f"✅ Blog '{slug}' saved with {len(sections)} sections.")
 
+def generate_seo_headings(meta):
+    slug = meta["spoke_name"]
+    prompt_template = narrative_seo_heading_cfg["prompt"]
+    full_prompt = generate_full_prompt(meta, prompt_template)
+    
+    messages = [
+        {"role": "system", "content": narrative_seo_heading_cfg["system_instruction"]},
+        {"role": "user", "content": full_prompt}
+    ]
+
+    if not narrative_seo_heading_cfg.get("enabled", True):
+        print(f"⚠️ Skipping generation of seo_headings for '{slug}' because it is disabled in section_prompts.yaml")
+        return
+    
+    response = call_llm(
+        messages,
+        section="narrative_seo_headings",
+        section_config=narrative_seo_heading_cfg,
+        provider=narrative_seo_heading_cfg.get("provider"),
+        model=narrative_seo_heading_cfg.get("model"),
+        temperature=narrative_seo_heading_cfg.get("temperature")
+    )
+    
+    headings_path = os.path.join(SUCCESS_DIR, slug, "narrative_seo_headings.md")
+    with open(headings_path, "w", encoding="utf-8") as f:
+        f.write(response)
+    
+    return response
+
+def generate_faq_section(meta):
+    slug = meta["spoke_name"]
+    prompt_template = narrative_faq_section_cfg["prompt"]
+
+    if not narrative_faq_section_cfg.get("enabled", True):
+        print(f"⚠️ Skipping generation of FAQ for '{slug}' because it is disabled in section_prompts.yaml")
+        return
+    
+    # Format studies for prompt
+    studies_text = "\n".join([
+        f"- {s['citation']}: {s['top_3_findings'][0]}"
+        for s in meta.get("real_study_citation_inputs", [])[:3]
+    ])
+    
+    full_prompt = prompt_template\
+        .replace("{{topic}}", meta["spoke_metadata_inputs"].get("core_pain_point", ""))\
+        .replace("{{primary_keyword}}", next(
+            (kw for kw in meta["spoke_metadata_inputs"]["pillar_keywords"] 
+             if kw not in ["can't", "my", "overwhelm", "stop"]),
+            meta["spoke_metadata_inputs"]["pillar_keywords"][0]
+        ))\
+        .replace("{{real_study_citation_inputs}}", studies_text)
+    
+    messages = [
+        {"role": "system", "content": narrative_faq_section_cfg["system_instruction"]},
+        {"role": "user", "content": full_prompt}
+    ]
+    
+    response = call_llm(
+        messages,
+        section="narrative_faq_section",
+        section_config=narrative_faq_section_cfg,
+        provider=narrative_faq_section_cfg.get("provider"),
+        model=narrative_faq_section_cfg.get("model"),
+        temperature=narrative_faq_section_cfg.get("temperature")
+    )
+
+    json_result = extract_json_from_response(response)
+    
+    faq_path = os.path.join(SUCCESS_DIR, slug, "narrative_faq_section.json")
+    with open(faq_path, "w", encoding="utf-8") as f:
+        f.write(json.dumps(json_result, indent=2))
+    
+    return json_result
 
 def main():
     ensure_directories({"output": SUCCESS_DIR, "logs": LOGS_DIR})
@@ -226,6 +301,16 @@ def main():
 
         try:
             generate_narrative_blog(meta)
+        except Exception as e:
+            print(f"❌ Error processing narrative blog {slug}: {e}")
+
+        try:
+            generate_seo_headings(meta)
+        except Exception as e:
+            print(f"❌ Error processing narrative blog {slug}: {e}")
+
+        try:
+            generate_faq_section(meta)
         except Exception as e:
             print(f"❌ Error processing narrative blog {slug}: {e}")
 
