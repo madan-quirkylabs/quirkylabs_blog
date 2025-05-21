@@ -72,6 +72,18 @@ def extract_json_from_response(response: str) -> dict:
 
     return json.loads(json_match.group(0))
 
+def extract_yaml_from_response(response: str) -> str:
+    """
+    Extracts a valid YAML block from an LLM response enclosed in triple backticks.
+    """
+    # Try to find a ```yaml ... ``` fenced block
+    match = re.search(r"```yaml(.*?)```", response, flags=re.DOTALL | re.IGNORECASE)
+    if not match:
+        raise ValueError("No YAML block found in response.")
+
+    yaml_block = match.group(1).strip()
+    return yaml_block
+
 def convert_sets_to_lists(obj):
     """Recursively convert sets to lists and handle ellipsis for JSON serialization."""
     if isinstance(obj, dict):

@@ -348,17 +348,28 @@ narrative_blog_front_matter:
     3. **Dominate SERPs** (exact-match + long-tail keywords)
     Write like Pixar’s ADHD coach: warm, weird, and weaponized for Google.
 
+    - **PAIN POINT ISOLATION**:  
+      1. If spoke contains "RSD," focus on *physiological pain metaphors* ("amygdala screams," "400% limbic fire").  
+      2. If spoke contains "obsession," use *dopamine metaphors* ("hyperfocus loops," "brain stuck on replay").  
+    - **STUDY DEPLOYMENT**:  
+      1. For RSD: Always cite {{study_grenade}} in the meta description.  
+      2. For obsession: Use {{voice_search}} phrases as PAA questions.  
+    - **SLANG HIERARCHY**: Prioritize Reddit slang ({{reddit_slang}}) over clinical terms in tags.  
+    - **OG DIFFERENTIATION**: OG descriptions must include either:  
+      1. A shocking stat (e.g., "92% of ADHDers relapse"), OR  
+      2. A paradoxical hook (e.g., "How to stalk your ex *less* without unfollowing").
+
   prompt: |
     Generate a **click-magnetic, SEO-optimized YAML front matter** for blog.quirkylabs.ai using this spoke’s metadata.  
 
     ### CORE REQUIREMENTS:
     - **Title**: Combine:
-      1. Primary keyword (exact from spoke)
-      2. Power verb ("Hack", "Fix", "Survive") **or** curiosity gap ("Why Nobody Tells You...")
+      1. {{primary_keyword}}
+      2. Power verb ("Hack", "Fix", "Survive", "Defuse") **or** curiosity gap ("Why Nobody Tells You...")
       3. Neuro-spicy hook ("Your amygdala screams — here’s the off switch")
     - **Description**: <160 chars. First 120 chars must:
-      1. Name pain ("Can’t stop stalking your ex?")
-      2. Drop neuro fact ("ADHD brains process rejection like physical pain")
+      1. "Can’t stop {{core_pain_point}}?" 
+      2. "{{study_grenade}}"
       3. Promise fix ("Rewire your brain in 5 days")
     - **Slug**: Exact as provided
     - **Tags**: 6–8 terms blending:
@@ -368,7 +379,7 @@ narrative_blog_front_matter:
     - **OG Description**: 200 chars, richer version of meta description  
 
     ### SPOKE METADATA INPUTS:
-    Topic: {{topic}}  
+    Topic: {{titles.diagnostic}}  
     Primary Keyword: {{primary_keyword}}  
     Slug: {{slug}}  
     Pain Point: {{core_pain_point}}  

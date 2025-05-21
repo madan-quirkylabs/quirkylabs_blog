@@ -12,7 +12,7 @@ import textstat
 import pandas as pd
 from datetime import datetime
 from core.config import INPUT_DIR, SUCCESS_DIR, LOGS_DIR, SECTION_PROMPTS_PATH
-from core.utils import save_section, ensure_directories
+from core.utils import save_section, ensure_directories, extract_yaml_from_response
 from core.llm_client import call_llm
 
 # Load prompts
@@ -20,6 +20,7 @@ with open(SECTION_PROMPTS_PATH, "r", encoding="utf-8") as f:
     prompts_dict = yaml.safe_load(f)
 
 narrative_prompt_cfg = prompts_dict["narrative_full_blog"]
+front_matter_prompt_cfg = prompts_dict["narrative_blog_front_matter"]
 
 # Load generation targets from sample_input.csv
 def load_generation_targets():
@@ -43,25 +44,41 @@ def generate_full_prompt(meta, prompt_template):
     filled = prompt.replace("{{titles.diagnostic}}", meta["titles"]["diagnostic"])
 
     hook = meta.get("hook", "")
-    core_pain_point = meta.get("core_pain_point", "")
+    core_pain_point = meta["spoke_metadata_inputs"].get("core_pain_point", "").strip().capitalize()
     filled = filled.replace("{{core_pain_point}}", core_pain_point)
-    filled = filled.replace("{{hook.split('PS:')[1]}}", hook.split("PS:")[-1].strip())
+    filled = filled.replace("{{hook.split('PS:')[1]}}", meta["hook"].split("PS:")[1].split("→")[0].strip())
+
+    primary_keyword = next(
+            (kw for kw in meta["spoke_metadata_inputs"]["pillar_keywords"] 
+             if kw not in ["can't", "my", "overwhelm", "stop"]),
+            meta["spoke_metadata_inputs"]["pillar_keywords"][0]
+        )
+    filled = filled.replace("{{primary_keyword}}", primary_keyword)
+    filled = filled.replace("{{slug}}", meta["spoke_name"])
+
 
     # Fill simple metadata values
     filled = filled.replace("{{titles.solution}}", meta["titles"].get("solution", "Fix your ADHD brain"))
     conversion = meta.get("conversion_nuke", {})
     filled = filled.replace("{{conversion_nuke.hook}}", conversion.get("hook", "Click now or the moment is gone."))
-    filled = filled.replace("{{conversion_nuke.quiz.name}}", conversion.get("quiz", {}).get("name", "What's your ADHD breakup style?"))
+    filled = filled.replace("{{conversion_nuke.quiz.name}}", f"{meta['conversion_nuke']['schema']['Quiz']['name']} ({meta['conversion_nuke']['schema']['Quiz']['dopamine_trigger']})")
     filled = filled.replace("{{lead_magnet}}", conversion.get("lead_magnet", "Breakup Survival Kit"))
     filled = filled.replace("{{downloadable_bonus}}", conversion.get("downloadable_bonus", "Cheat Sheet PDF"))
     filled = filled.replace("{{conversion_nuke.dopamine_trigger.split('→')[1]}}", conversion.get("dopamine_trigger", "→ Reward loop hack").split("→")[-1].strip())
+
+    voice_search = next(
+            (vs for vs in meta["spoke_metadata_inputs"]["voice_search"] 
+            if vs.startswith(("why", "how", "what"))),
+            meta["spoke_metadata_inputs"]["voice_search"][0]
+        ).replace("Hey Google, ", "")
+    filled = filled.replace("{{voice_search}}", voice_search)
 
     # Insert meme_grenade
     meme_grenade = meta["content_ops"]["pillar_sync"]["internal_links"][0].get("meme_grenade", "your brain is just a drama queen")
     filled = filled.replace("{{meme_grenade}}", meme_grenade)
 
     # Insert study_grenade and neuro_nugget
-    study_grenade = meta["serp_warfare"].get("study_grenade", "ADHD brains confuse love withdrawal with physical pain.")
+    study_grenade = meta["serp_warfare"]["study_grenade"].replace("“", "").replace("”", "").split("–")[0].strip()
     filled = filled.replace("{{study_grenade}}", study_grenade)
     studies = meta.get("real_study_citation_inputs", [])
     if len(studies) > 1:
@@ -79,13 +96,15 @@ def generate_full_prompt(meta, prompt_template):
     for i, v in enumerate(meta.get("voice_combat", [])):
         filled = filled.replace(f"{{{{voice_combat[{i}]}}}}", v)
 
-    for i, r in enumerate(meta.get("reddit_slang", [])):
+    reddit_slang_list = json.dumps(meta["spoke_metadata_inputs"].get("reddit_slang", []), indent=2)
+    filled.replace("{{reddit_slang}}", reddit_slang_list)
+    for i, r in enumerate(meta["spoke_metadata_inputs"].get("reddit_slang", [])):
         filled = filled.replace(f"{{{{reddit_slang[{i}]}}}}", r)
 
     for i, p in enumerate(meta.get("serp_warfare", {}).get("paa_nesting", [])):
         filled = filled.replace(f"{{{{paa_nesting[{i}]}}}}", p)
 
-    for i, vb in enumerate(meta["content_ops"].get("visual_breakers", [])):
+    for i, vb in enumerate(meta["content_ops"]["pillar_sync"].get("visual_breakers", [])):
         filled = filled.replace(f"{{{{visual_breakers[{i}]}}}}", vb)
 
     for i, s in enumerate(meta.get("real_study_citation_inputs", [])):
@@ -93,6 +112,48 @@ def generate_full_prompt(meta, prompt_template):
         filled = filled.replace(f"{{{{real_study_citation_inputs[{i}].neurobiological_mechanism}}}}", format_study(s))
 
     return filled
+
+def generate_front_matter(meta):
+    slug = meta["spoke_name"]
+    prompt_template = front_matter_prompt_cfg["prompt"]
+    full_prompt = generate_full_prompt(meta, prompt_template)
+    system_instruction = front_matter_prompt_cfg["system_instruction"]
+    messages = [
+        {"role": "system", "content": system_instruction},
+        {"role": "user", "content": full_prompt}
+    ]
+    if not front_matter_prompt_cfg.get("enabled", True):
+        print(f"⚠️ Skipping generation of front-matter for '{slug}' because it is disabled in section_prompts.yaml")
+        return
+
+    provider = front_matter_prompt_cfg.get("provider", "openai")
+    model = front_matter_prompt_cfg.get("model")
+    temperature = front_matter_prompt_cfg.get("temperature")
+    front_matter = call_llm(
+        messages,
+        section="narrative_blog_front_matter",
+        section_config=front_matter_prompt_cfg,
+        provider=provider,
+        model=model,
+        temperature=temperature
+    )
+
+    front_matter = extract_yaml_from_response(front_matter)
+
+    try:
+        if front_matter:
+            front_matter_path = os.path.join(SUCCESS_DIR, slug, "front_matter.yaml")
+            os.makedirs(os.path.dirname(front_matter_path), exist_ok=True)
+            with open(front_matter_path, "w", encoding="utf-8") as f:
+                f.write(front_matter.strip() + "\n")
+            print(f"✅ Front matter saved to {front_matter_path}")
+        else:
+            print(f"⚠️ No front matter returned for {slug}")
+    except Exception as e:
+        print(f"❌ Failed to generate/save front matter for {slug}: {e}")
+
+
+    return front_matter
 
 def extract_sections(text):
     pattern = r"<!--START: (.*?)-->\n(.*?)<!--END: \\1-->"
@@ -117,6 +178,12 @@ def main():
 
         slug = meta["spoke_name"]
         print(f"\n🚀 Generating: {slug} (from {pillar_slug})")
+
+        # ✅ Call front matter generator
+        try:
+            generate_front_matter(meta)
+        except Exception as e:
+            print(f"❌ Front matter generation failed for {slug}: {e}")
 
         try:
             prompt_template = narrative_prompt_cfg["prompt"]
