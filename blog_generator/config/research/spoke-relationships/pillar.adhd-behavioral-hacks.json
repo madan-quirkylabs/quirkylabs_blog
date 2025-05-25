@@ -1,0 +1,561 @@
+{
+    "pillar_id": "adhd-behavioral-hacks",
+    "pillar_title": "ADHD Behavioral Hacks: The Science of Getting Sh*t Done",
+    "spokes": [
+        {
+            "id": "adhd-dopamine-chunking",
+            "connections": [
+                {
+                    "id": "adhd-ai-copilot-benefits",
+                    "ECB 2.0": 0.5,
+                    "Neurobiological Networks": 0.4,
+                    "Failure/Recovery Arcs": 0.5,
+                    "Dynamic Personas": 0.5,
+                    "Search Intent Graphs": 0.4,
+                    "Narrative DNA": 0.4,
+                    "Format Affinities": 0.5,
+                    "Behavioral Triggers": 0.5,
+                    "Conflict Pairs": 0.3,
+                    "Memetic Hooks": 0.6
+                },
+                {
+                    "id": "adhd-gamification-saved-my-job",
+                    "ECB 2.0": 0.6,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.7,
+                    "Dynamic Personas": 0.5,
+                    "Search Intent Graphs": 0.6,
+                    "Narrative DNA": 0.6,
+                    "Format Affinities": 0.5,
+                    "Behavioral Triggers": 0.6,
+                    "Conflict Pairs": 0.2,
+                    "Memetic Hooks": 0.7
+                },
+                {
+                    "id": "adhd-loss-aversion-tricks",
+                    "ECB 2.0": 0.2,
+                    "Neurobiological Networks": 0.3,
+                    "Failure/Recovery Arcs": 0.4,
+                    "Dynamic Personas": 0.3,
+                    "Search Intent Graphs": 0.2,
+                    "Narrative DNA": 0.3,
+                    "Format Affinities": 0.5,
+                    "Behavioral Triggers": 0.3,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.5
+                },
+                {
+                    "id": "adhd-micro-commitments-win",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.6,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.7,
+                    "Search Intent Graphs": 0.7,
+                    "Narrative DNA": 0.6,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.7,
+                    "Conflict Pairs": 0.2,
+                    "Memetic Hooks": 0.6
+                },
+                {
+                    "id": "adhd-social-accountability-hack",
+                    "ECB 2.0": 0.6,
+                    "Neurobiological Networks": 0.4,
+                    "Failure/Recovery Arcs": 0.7,
+                    "Dynamic Personas": 0.5,
+                    "Search Intent Graphs": 0.4,
+                    "Narrative DNA": 0.5,
+                    "Format Affinities": 0.6,
+                    "Behavioral Triggers": 0.4,
+                    "Conflict Pairs": 0.3,
+                    "Memetic Hooks": 0.5
+                },
+                {
+                    "id": "adhd-why-points-work",
+                    "ECB 2.0": 0.7,
+                    "Neurobiological Networks": 0.8,
+                    "Failure/Recovery Arcs": 0.7,
+                    "Dynamic Personas": 0.6,
+                    "Search Intent Graphs": 0.5,
+                    "Narrative DNA": 0.6,
+                    "Format Affinities": 0.6,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.2,
+                    "Memetic Hooks": 0.6
+                }
+            ]
+        },
+        {
+            "id": "adhd-loss-aversion-tricks",
+            "connections": [
+                {
+                    "id": "adhd-ai-copilot-benefits",
+                    "ECB 2.0": 0.4,
+                    "Neurobiological Networks": 0.3,
+                    "Failure/Recovery Arcs": 0.5,
+                    "Dynamic Personas": 0.4,
+                    "Search Intent Graphs": 0.3,
+                    "Narrative DNA": 0.3,
+                    "Format Affinities": 0.5,
+                    "Behavioral Triggers": 0.3,
+                    "Conflict Pairs": 0.2,
+                    "Memetic Hooks": 0.5
+                },
+                {
+                    "id": "adhd-dopamine-chunking",
+                    "ECB 2.0": 0.2,
+                    "Neurobiological Networks": 0.3,
+                    "Failure/Recovery Arcs": 0.4,
+                    "Dynamic Personas": 0.3,
+                    "Search Intent Graphs": 0.2,
+                    "Narrative DNA": 0.3,
+                    "Format Affinities": 0.5,
+                    "Behavioral Triggers": 0.3,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.5
+                },
+                {
+                    "id": "adhd-gamification-saved-my-job",
+                    "ECB 2.0": 0.3,
+                    "Neurobiological Networks": 0.3,
+                    "Failure/Recovery Arcs": 0.4,
+                    "Dynamic Personas": 0.4,
+                    "Search Intent Graphs": 0.4,
+                    "Narrative DNA": 0.4,
+                    "Format Affinities": 0.5,
+                    "Behavioral Triggers": 0.4,
+                    "Conflict Pairs": 0.6,
+                    "Memetic Hooks": 0.5
+                },
+                {
+                    "id": "adhd-micro-commitments-win",
+                    "ECB 2.0": 0.3,
+                    "Neurobiological Networks": 0.3,
+                    "Failure/Recovery Arcs": 0.5,
+                    "Dynamic Personas": 0.3,
+                    "Search Intent Graphs": 0.3,
+                    "Narrative DNA": 0.3,
+                    "Format Affinities": 0.5,
+                    "Behavioral Triggers": 0.4,
+                    "Conflict Pairs": 0.7,
+                    "Memetic Hooks": 0.4
+                },
+                {
+                    "id": "adhd-social-accountability-hack",
+                    "ECB 2.0": 0.4,
+                    "Neurobiological Networks": 0.4,
+                    "Failure/Recovery Arcs": 0.6,
+                    "Dynamic Personas": 0.4,
+                    "Search Intent Graphs": 0.3,
+                    "Narrative DNA": 0.4,
+                    "Format Affinities": 0.5,
+                    "Behavioral Triggers": 0.5,
+                    "Conflict Pairs": 0.3,
+                    "Memetic Hooks": 0.5
+                },
+                {
+                    "id": "adhd-why-points-work",
+                    "ECB 2.0": 0.3,
+                    "Neurobiological Networks": 0.3,
+                    "Failure/Recovery Arcs": 0.4,
+                    "Dynamic Personas": 0.3,
+                    "Search Intent Graphs": 0.2,
+                    "Narrative DNA": 0.3,
+                    "Format Affinities": 0.5,
+                    "Behavioral Triggers": 0.3,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.5
+                }
+            ]
+        },
+        {
+            "id": "adhd-why-points-work",
+            "connections": [
+                {
+                    "id": "adhd-ai-copilot-benefits",
+                    "ECB 2.0": 0.5,
+                    "Neurobiological Networks": 0.5,
+                    "Failure/Recovery Arcs": 0.5,
+                    "Dynamic Personas": 0.5,
+                    "Search Intent Graphs": 0.4,
+                    "Narrative DNA": 0.4,
+                    "Format Affinities": 0.5,
+                    "Behavioral Triggers": 0.5,
+                    "Conflict Pairs": 0.3,
+                    "Memetic Hooks": 0.6
+                },
+                {
+                    "id": "adhd-dopamine-chunking",
+                    "ECB 2.0": 0.7,
+                    "Neurobiological Networks": 0.8,
+                    "Failure/Recovery Arcs": 0.7,
+                    "Dynamic Personas": 0.6,
+                    "Search Intent Graphs": 0.5,
+                    "Narrative DNA": 0.6,
+                    "Format Affinities": 0.6,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.2,
+                    "Memetic Hooks": 0.6
+                },
+                {
+                    "id": "adhd-gamification-saved-my-job",
+                    "ECB 2.0": 0.7,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.7,
+                    "Dynamic Personas": 0.6,
+                    "Search Intent Graphs": 0.6,
+                    "Narrative DNA": 0.5,
+                    "Format Affinities": 0.5,
+                    "Behavioral Triggers": 0.5,
+                    "Conflict Pairs": 0.2,
+                    "Memetic Hooks": 0.8
+                },
+                {
+                    "id": "adhd-loss-aversion-tricks",
+                    "ECB 2.0": 0.3,
+                    "Neurobiological Networks": 0.3,
+                    "Failure/Recovery Arcs": 0.4,
+                    "Dynamic Personas": 0.3,
+                    "Search Intent Graphs": 0.2,
+                    "Narrative DNA": 0.3,
+                    "Format Affinities": 0.5,
+                    "Behavioral Triggers": 0.3,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.5
+                },
+                {
+                    "id": "adhd-micro-commitments-win",
+                    "ECB 2.0": 0.6,
+                    "Neurobiological Networks": 0.6,
+                    "Failure/Recovery Arcs": 0.6,
+                    "Dynamic Personas": 0.6,
+                    "Search Intent Graphs": 0.5,
+                    "Narrative DNA": 0.5,
+                    "Format Affinities": 0.6,
+                    "Behavioral Triggers": 0.7,
+                    "Conflict Pairs": 0.2,
+                    "Memetic Hooks": 0.6
+                },
+                {
+                    "id": "adhd-social-accountability-hack",
+                    "ECB 2.0": 0.6,
+                    "Neurobiological Networks": 0.5,
+                    "Failure/Recovery Arcs": 0.6,
+                    "Dynamic Personas": 0.6,
+                    "Search Intent Graphs": 0.5,
+                    "Narrative DNA": 0.6,
+                    "Format Affinities": 0.6,
+                    "Behavioral Triggers": 0.6,
+                    "Conflict Pairs": 0.2,
+                    "Memetic Hooks": 0.7
+                }
+            ]
+        },
+        {
+            "id": "adhd-gamification-saved-my-job",
+            "connections": [
+                {
+                    "id": "adhd-ai-copilot-benefits",
+                    "ECB 2.0": 0.5,
+                    "Neurobiological Networks": 0.5,
+                    "Failure/Recovery Arcs": 0.6,
+                    "Dynamic Personas": 0.5,
+                    "Search Intent Graphs": 0.4,
+                    "Narrative DNA": 0.5,
+                    "Format Affinities": 0.4,
+                    "Behavioral Triggers": 0.5,
+                    "Conflict Pairs": 0.3,
+                    "Memetic Hooks": 0.6
+                },
+                {
+                    "id": "adhd-dopamine-chunking",
+                    "ECB 2.0": 0.6,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.7,
+                    "Dynamic Personas": 0.5,
+                    "Search Intent Graphs": 0.6,
+                    "Narrative DNA": 0.6,
+                    "Format Affinities": 0.5,
+                    "Behavioral Triggers": 0.6,
+                    "Conflict Pairs": 0.2,
+                    "Memetic Hooks": 0.7
+                },
+                {
+                    "id": "adhd-loss-aversion-tricks",
+                    "ECB 2.0": 0.3,
+                    "Neurobiological Networks": 0.3,
+                    "Failure/Recovery Arcs": 0.4,
+                    "Dynamic Personas": 0.4,
+                    "Search Intent Graphs": 0.4,
+                    "Narrative DNA": 0.4,
+                    "Format Affinities": 0.5,
+                    "Behavioral Triggers": 0.4,
+                    "Conflict Pairs": 0.6,
+                    "Memetic Hooks": 0.5
+                },
+                {
+                    "id": "adhd-micro-commitments-win",
+                    "ECB 2.0": 0.6,
+                    "Neurobiological Networks": 0.5,
+                    "Failure/Recovery Arcs": 0.6,
+                    "Dynamic Personas": 0.5,
+                    "Search Intent Graphs": 0.4,
+                    "Narrative DNA": 0.5,
+                    "Format Affinities": 0.4,
+                    "Behavioral Triggers": 0.5,
+                    "Conflict Pairs": 0.3,
+                    "Memetic Hooks": 0.6
+                },
+                {
+                    "id": "adhd-social-accountability-hack",
+                    "ECB 2.0": 0.6,
+                    "Neurobiological Networks": 0.5,
+                    "Failure/Recovery Arcs": 0.6,
+                    "Dynamic Personas": 0.5,
+                    "Search Intent Graphs": 0.4,
+                    "Narrative DNA": 0.6,
+                    "Format Affinities": 0.5,
+                    "Behavioral Triggers": 0.6,
+                    "Conflict Pairs": 0.2,
+                    "Memetic Hooks": 0.7
+                },
+                {
+                    "id": "adhd-why-points-work",
+                    "ECB 2.0": 0.7,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.7,
+                    "Dynamic Personas": 0.6,
+                    "Search Intent Graphs": 0.6,
+                    "Narrative DNA": 0.5,
+                    "Format Affinities": 0.5,
+                    "Behavioral Triggers": 0.5,
+                    "Conflict Pairs": 0.2,
+                    "Memetic Hooks": 0.8
+                }
+            ]
+        },
+        {
+            "id": "adhd-ai-copilot-benefits",
+            "connections": [
+                {
+                    "id": "adhd-dopamine-chunking",
+                    "ECB 2.0": 0.5,
+                    "Neurobiological Networks": 0.4,
+                    "Failure/Recovery Arcs": 0.5,
+                    "Dynamic Personas": 0.5,
+                    "Search Intent Graphs": 0.4,
+                    "Narrative DNA": 0.4,
+                    "Format Affinities": 0.5,
+                    "Behavioral Triggers": 0.5,
+                    "Conflict Pairs": 0.3,
+                    "Memetic Hooks": 0.6
+                },
+                {
+                    "id": "adhd-loss-aversion-tricks",
+                    "ECB 2.0": 0.4,
+                    "Neurobiological Networks": 0.3,
+                    "Failure/Recovery Arcs": 0.5,
+                    "Dynamic Personas": 0.4,
+                    "Search Intent Graphs": 0.3,
+                    "Narrative DNA": 0.3,
+                    "Format Affinities": 0.5,
+                    "Behavioral Triggers": 0.3,
+                    "Conflict Pairs": 0.2,
+                    "Memetic Hooks": 0.5
+                },
+                {
+                    "id": "adhd-gamification-saved-my-job",
+                    "ECB 2.0": 0.5,
+                    "Neurobiological Networks": 0.5,
+                    "Failure/Recovery Arcs": 0.6,
+                    "Dynamic Personas": 0.5,
+                    "Search Intent Graphs": 0.4,
+                    "Narrative DNA": 0.5,
+                    "Format Affinities": 0.4,
+                    "Behavioral Triggers": 0.5,
+                    "Conflict Pairs": 0.3,
+                    "Memetic Hooks": 0.6
+                },
+                {
+                    "id": "adhd-micro-commitments-win",
+                    "ECB 2.0": 0.5,
+                    "Neurobiological Networks": 0.5,
+                    "Failure/Recovery Arcs": 0.7,
+                    "Dynamic Personas": 0.5,
+                    "Search Intent Graphs": 0.4,
+                    "Narrative DNA": 0.4,
+                    "Format Affinities": 0.5,
+                    "Behavioral Triggers": 0.6,
+                    "Conflict Pairs": 0.2,
+                    "Memetic Hooks": 0.5
+                },
+                {
+                    "id": "adhd-social-accountability-hack",
+                    "ECB 2.0": 0.6,
+                    "Neurobiological Networks": 0.4,
+                    "Failure/Recovery Arcs": 0.7,
+                    "Dynamic Personas": 0.5,
+                    "Search Intent Graphs": 0.4,
+                    "Narrative DNA": 0.5,
+                    "Format Affinities": 0.5,
+                    "Behavioral Triggers": 0.5,
+                    "Conflict Pairs": 0.3,
+                    "Memetic Hooks": 0.6
+                },
+                {
+                    "id": "adhd-why-points-work",
+                    "ECB 2.0": 0.5,
+                    "Neurobiological Networks": 0.5,
+                    "Failure/Recovery Arcs": 0.5,
+                    "Dynamic Personas": 0.5,
+                    "Search Intent Graphs": 0.4,
+                    "Narrative DNA": 0.4,
+                    "Format Affinities": 0.5,
+                    "Behavioral Triggers": 0.5,
+                    "Conflict Pairs": 0.3,
+                    "Memetic Hooks": 0.6
+                }
+            ]
+        },
+        {
+            "id": "adhd-micro-commitments-win",
+            "connections": [
+                {
+                    "id": "adhd-dopamine-chunking",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.6,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.7,
+                    "Search Intent Graphs": 0.7,
+                    "Narrative DNA": 0.6,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.7,
+                    "Conflict Pairs": 0.2,
+                    "Memetic Hooks": 0.6
+                },
+                {
+                    "id": "adhd-loss-aversion-tricks",
+                    "ECB 2.0": 0.3,
+                    "Neurobiological Networks": 0.3,
+                    "Failure/Recovery Arcs": 0.5,
+                    "Dynamic Personas": 0.3,
+                    "Search Intent Graphs": 0.3,
+                    "Narrative DNA": 0.3,
+                    "Format Affinities": 0.5,
+                    "Behavioral Triggers": 0.4,
+                    "Conflict Pairs": 0.7,
+                    "Memetic Hooks": 0.4
+                },
+                {
+                    "id": "adhd-gamification-saved-my-job",
+                    "ECB 2.0": 0.6,
+                    "Neurobiological Networks": 0.5,
+                    "Failure/Recovery Arcs": 0.6,
+                    "Dynamic Personas": 0.5,
+                    "Search Intent Graphs": 0.4,
+                    "Narrative DNA": 0.5,
+                    "Format Affinities": 0.4,
+                    "Behavioral Triggers": 0.5,
+                    "Conflict Pairs": 0.3,
+                    "Memetic Hooks": 0.6
+                },
+                {
+                    "id": "adhd-social-accountability-hack",
+                    "ECB 2.0": 0.7,
+                    "Neurobiological Networks": 0.5,
+                    "Failure/Recovery Arcs": 0.7,
+                    "Dynamic Personas": 0.6,
+                    "Search Intent Graphs": 0.4,
+                    "Narrative DNA": 0.5,
+                    "Format Affinities": 0.6,
+                    "Behavioral Triggers": 0.6,
+                    "Conflict Pairs": 0.2,
+                    "Memetic Hooks": 0.6
+                },
+                {
+                    "id": "adhd-why-points-work",
+                    "ECB 2.0": 0.6,
+                    "Neurobiological Networks": 0.6,
+                    "Failure/Recovery Arcs": 0.6,
+                    "Dynamic Personas": 0.6,
+                    "Search Intent Graphs": 0.5,
+                    "Narrative DNA": 0.5,
+                    "Format Affinities": 0.6,
+                    "Behavioral Triggers": 0.7,
+                    "Conflict Pairs": 0.2,
+                    "Memetic Hooks": 0.6
+                }
+            ]
+        },
+        {
+            "id": "adhd-social-accountability-hack",
+            "connections": [
+                {
+                    "id": "adhd-dopamine-chunking",
+                    "ECB 2.0": 0.6,
+                    "Neurobiological Networks": 0.4,
+                    "Failure/Recovery Arcs": 0.7,
+                    "Dynamic Personas": 0.5,
+                    "Search Intent Graphs": 0.4,
+                    "Narrative DNA": 0.5,
+                    "Format Affinities": 0.6,
+                    "Behavioral Triggers": 0.4,
+                    "Conflict Pairs": 0.3,
+                    "Memetic Hooks": 0.5
+                },
+                {
+                    "id": "adhd-loss-aversion-tricks",
+                    "ECB 2.0": 0.4,
+                    "Neurobiological Networks": 0.4,
+                    "Failure/Recovery Arcs": 0.6,
+                    "Dynamic Personas": 0.4,
+                    "Search Intent Graphs": 0.3,
+                    "Narrative DNA": 0.4,
+                    "Format Affinities": 0.5,
+                    "Behavioral Triggers": 0.5,
+                    "Conflict Pairs": 0.3,
+                    "Memetic Hooks": 0.5
+                },
+                {
+                    "id": "adhd-gamification-saved-my-job",
+                    "ECB 2.0": 0.6,
+                    "Neurobiological Networks": 0.5,
+                    "Failure/Recovery Arcs": 0.6,
+                    "Dynamic Personas": 0.5,
+                    "Search Intent Graphs": 0.4,
+                    "Narrative DNA": 0.6,
+                    "Format Affinities": 0.5,
+                    "Behavioral Triggers": 0.6,
+                    "Conflict Pairs": 0.2,
+                    "Memetic Hooks": 0.7
+                },
+                {
+                    "id": "adhd-ai-copilot-benefits",
+                    "ECB 2.0": 0.6,
+                    "Neurobiological Networks": 0.4,
+                    "Failure/Recovery Arcs": 0.7,
+                    "Dynamic Personas": 0.5,
+                    "Search Intent Graphs": 0.4,
+                    "Narrative DNA": 0.5,
+                    "Format Affinities": 0.5,
+                    "Behavioral Triggers": 0.5,
+                    "Conflict Pairs": 0.3,
+                    "Memetic Hooks": 0.6
+                },
+                {
+                    "id": "adhd-why-points-work",
+                    "ECB 2.0": 0.6,
+                    "Neurobiological Networks": 0.5,
+                    "Failure/Recovery Arcs": 0.6,
+                    "Dynamic Personas": 0.6,
+                    "Search Intent Graphs": 0.5,
+                    "Narrative DNA": 0.6,
+                    "Format Affinities": 0.6,
+                    "Behavioral Triggers": 0.6,
+                    "Conflict Pairs": 0.2,
+                    "Memetic Hooks": 0.7
+                }
+            ]
+        }
+    ]
+}

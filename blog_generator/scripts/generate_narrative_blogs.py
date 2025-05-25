@@ -41,6 +41,62 @@ def format_study(study):
     mechanism = study.get("neurobiological_mechanism", "")
     return f"{mechanism} (Source: {citation})"
 
+import json
+
+def generate_json_ld_faq(faq_list):
+    return {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+                "@type": "Question",
+                "name": item["question"],
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": item["answer"]
+                }
+            }
+            for item in faq_list
+        ]
+    }
+
+def generate_json_ld_breadcrumb(slug, title):
+    return {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://blog.quirkylabs.ai/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": title,
+                "item": f"https://blog.quirkylabs.ai/{slug}"
+            }
+        ]
+    }
+
+def generate_json_ld_article(title, description, slug):
+    return {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": title,
+        "description": description,
+        "url": f"https://blog.quirkylabs.ai/{slug}",
+        "publisher": {
+            "@type": "Organization",
+            "name": "QuirkyLabs",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://blog.quirkylabs.ai/logo.png"
+            }
+        }
+    }
+
 def generate_full_prompt(meta, prompt_template):
     prompt = prompt_template
     filled = prompt.replace("{{titles.diagnostic}}", meta["titles"]["diagnostic"])
@@ -231,7 +287,7 @@ def generate_seo_headings(meta):
 
 def generate_faq_section(meta):
     slug = meta["spoke_name"]
-    prompt_template = narrative_faq_section_cfg["prompt"]
+    prompt_template = generate_full_prompt(meta, narrative_faq_section_cfg["prompt"])
 
     if not narrative_faq_section_cfg.get("enabled", True):
         print(f"⚠️ Skipping generation of FAQ for '{slug}' because it is disabled in section_prompts.yaml")
@@ -267,11 +323,35 @@ def generate_faq_section(meta):
     )
 
     json_result = extract_json_from_response(response)
+
+    md_lines = ["## Frequently Asked Questions\n"]
+    for item in json_result["faq"]:
+        md_lines.append(f"### {item['question']}\n")
+        md_lines.append(f"{item['answer']}\n")
     
-    faq_path = os.path.join(SUCCESS_DIR, slug, "narrative_faq_section.json")
+    md_content = "\n".join(md_lines)
+    faq_jsonld = generate_json_ld_faq(json_result["faq"])
+
+    title = meta["titles"].get("solution", "Fix your ADHD brain")
+    description = meta["hook"]
+    breadcrumb_jsonld = generate_json_ld_breadcrumb(slug, title)
+    article_jsonld = generate_json_ld_article(title, description, slug)
+
+    faq_path = os.path.join(SUCCESS_DIR, slug, "narrative_faq_section.md")
+
     with open(faq_path, "w", encoding="utf-8") as f:
-        f.write(json.dumps(json_result, indent=2))
-    
+        f.write(md_content + "\n\n")
+        f.write('<script type="application/ld+json">\n')
+        f.write(json.dumps(faq_jsonld, indent=2))
+        f.write('\n</script>\n\n')
+
+        f.write('<script type="application/ld+json">\n')
+        f.write(json.dumps(breadcrumb_jsonld, indent=2))
+        f.write('\n</script>\n\n')
+
+        f.write('<script type="application/ld+json">\n')
+        f.write(json.dumps(article_jsonld, indent=2))
+        f.write('\n</script>\n')
     return json_result
 
 def main():
