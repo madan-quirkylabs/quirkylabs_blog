@@ -888,87 +888,123 @@
         ]
     },
     "adhd-breakup-trauma": {
+        "pillar_slug": "adhd-breakup-trauma",
+        "pillar_title": "ADHD Breakup Trauma: Why It Feels Like Withdrawal",
         "studies": [
             {
-                "citation": "Inanc, L., et al. (2022). Marital conflict and divorce rates were higher in couples where one partner had ADHD, suggesting ADHD contributes to relationship breakdown.",
-                "year": "2022",
-                "design": "cohort (couples)",
+                "citation": "Dodson, W. (n.d.). How Rejection Sensitivity Dysphoria Amplifies Breakups. ADDitude Magazine.",
+                "year": "N/A",
+                "design": "expert commentary / conceptual article",
                 "top_3_findings": [
-                    "Marital conflict and divorce rates were higher in couples where one partner had ADHD, suggesting ADHD contributes to relationship breakdown.",
-                    "Spouses often cited erratic behaviors (impulsivity, emotional outbursts) and poor follow-through by the ADHD partner as sources of chronic strain.",
-                    "In ADHD-affected divorces, individuals commonly experienced intense grief and self-blame, indicating they internalized the breakup as personal failure."
+                    "Rejection Sensitive Dysphoria (RSD) causes extreme, unbearable emotional pain following perceived rejection, making breakups exceptionally difficult (Spoke: adhd-rsd-breakup-meltdowns).",
+                    "The pain can feel physical and lead to 'meltdowns' or complete withdrawal.",
+                    "Individuals may develop intense fear of future rejection, impacting subsequent relationships and prolonging healing (Spoke: adhd-breakup-healing-timeline)."
                 ],
-                "neurobiological_mechanism": "Emotionally impulsive reactions and poor self-regulation in ADHD can escalate conflicts beyond repair, and the subsequent loss may hyperactivate limbic pain circuits similarly to physical trauma.",
-                "clinical_takeaway": "Couples counseling that addresses ADHD-specific issues (communication, task-sharing) may prevent relationship dissolution. For those already struggling post-breakup, therapy should target maladaptive guilt and promote resilience."
+                "neurobiological_mechanism": "Hypothesized link to hyperactive limbic (amygdala) response and underactive prefrontal regulation, potentially involving altered opioid/catecholamine pathways, magnifying the pain of social bond disruption.",
+                "clinical_takeaway": "Validate the extreme pain of RSD in breakups; consider alpha-agonists and therapy (DBT/ACT) to manage emotional intensity and build resilience.",
+                "doi": null,
+                "source_link": "https://www.additudemag.com/rejection-sensitive-dysphoria-and-adhd/"
             },
             {
-                "citation": "Wymbs, B. T., et al. (2021). By early adulthood, 41% of individuals with childhood ADHD had experienced a romantic breakup in the past year, compared to 17% of controls.",
-                "year": "2021",
-                "design": "longitudinal (MTA study)",
+                "citation": "Schrevel, S. J. C., et al. (2016). Emotional Regulation and Rumination as Correlates of Depressive Symptoms in Adults With ADHD. Journal of Attention Disorders, 20(1), 58–67.",
+                "year": "2016",
+                "design": "cross-sectional study (n=120)",
                 "top_3_findings": [
-                    "By early adulthood, 41% of individuals with childhood ADHD had experienced a romantic breakup in the past year, compared to 17% of controls.",
-                    "ADHD-related emotional dysregulation was a strong predictor of romantic instability – those with higher anger/tearfulness scores had more breakups.",
-                    "Individuals with ADHD who underwent intensive behavioral treatment in youth had somewhat more stable young-adult relationships, hinting early intervention might buffer later breakup risk."
+                    "Adults with ADHD show significant deficits in emotional regulation strategies.",
+                    "These deficits are strongly linked to increased rumination (obsessive negative thinking), particularly relevant after a breakup (Spoke: adhd-breakup-obsession-cycle).",
+                    "Both poor emotional regulation and rumination are significant predictors of depressive symptoms, exacerbating breakup distress."
                 ],
-                "neurobiological_mechanism": "ADHD’s impact on emotional control (due to fronto-limbic circuit inefficiencies) can yield volatile relationships, and repeated interpersonal failure can sensitize stress-response systems (like heightened cortisol) akin to trauma responses.",
-                "clinical_takeaway": "Relationship skills are an often overlooked need in ADHD. Include modules on conflict resolution and emotion regulation in adolescent ADHD programs to promote healthier adult relationships and lessen the cascade of breakup trauma."
+                "neurobiological_mechanism": "Deficits in fronto-limbic networks impair the ability to disengage from negative thoughts (rumination) and regulate intense emotions following relationship dissolution.",
+                "clinical_takeaway": "Target rumination and emotional regulation skills (via CBT/DBT/Mindfulness) to mitigate depressive symptoms and break obsessive cycles after a breakup.",
+                "doi": "10.1177/1087054713479632",
+                "source_link": "https://doi.org/10.1177/1087054713479632"
             },
             {
-                "citation": "Friedrichs, J., et al. (2019). Adult ADHD was significantly associated with higher rates of intimate partner violence (both as victims and as perpetrators).",
-                "year": "2019",
-                "design": "cross-sectional",
+                "citation": "Kross, E., et al. (2011). Social rejection shares somatosensory representations with physical pain. Proceedings of the National Academy of Sciences, 108(15), 6270-6275.",
+                "year": "2011",
+                "design": "fMRI study",
                 "top_3_findings": [
-                    "Adult ADHD was significantly associated with higher rates of intimate partner violence (both as victims and as perpetrators).",
-                    "ADHD individuals who experienced partner violence had markedly elevated PTSD symptoms, suggesting breakups in this context can be genuinely traumatic.",
-                    "Depression often co-occurred, indicating a need to treat mood disorders in ADHD patients dealing with the aftermath of abusive or chaotic breakups."
+                    "Intense social rejection (like a recent unwanted breakup) activates brain regions associated with physical pain (secondary somatosensory cortex, dorsal posterior insula).",
+                    "This provides a neurobiological basis for why breakups can 'physically hurt', especially when amplified by ADHD/RSD (Spoke: adhd-rsd-breakup-meltdowns).",
+                    "The overlap suggests shared mechanisms for processing physical and social-emotional pain, explaining the intensity of breakup 'trauma'."
                 ],
-                "neurobiological_mechanism": "ADHD impulsivity and emotional lability may contribute to toxic dynamics, and actual traumatic events (like abuse) will imprint via heightened amygdala and hippocampal activation, fulfilling criteria for PTSD.",
-                "clinical_takeaway": "Assess safety and trauma in relationships of adults with ADHD. Multidisciplinary support (therapy, possibly trauma-focused CBT or EMDR) is crucial for those emerging from abusive relationships."
+                "neurobiological_mechanism": "Shared neural pathways for physical and social pain mean that the emotional distress of a breakup can trigger genuine physical-like pain sensations, validating the 'trauma' and 'withdrawal' feelings.",
+                "clinical_takeaway": "Acknowledge the physical reality of emotional pain in patients; use body-based therapies (somatic experiencing, yoga) alongside talk therapy to address breakup trauma.",
+                "doi": "10.1073/pnas.1102693108",
+                "source_link": "https://doi.org/10.1073/pnas.1102693108"
             },
             {
-                "citation": "Addis, A., & Pow, J. (2020). Adults with ADHD described breakups as “extra devastating,” often tied to feelings of inadequacy from lifelong ADHD struggles (e.g., job loss contributing to divorce).",
-                "year": "2020",
-                "design": "qualitative",
+                "citation": "ADDitude Editors. (n.d.). How to Get Over a Breakup: Broken ADHD Hearts. ADDitude Magazine.",
+                "year": "N/A",
+                "design": "expert / community insights article",
                 "top_3_findings": [
-                    "Adults with ADHD described breakups as “extra devastating,” often tied to feelings of inadequacy from lifelong ADHD struggles (e.g., job loss contributing to divorce).",
-                    "Many reported impulsive decisions during breakup crises (quitting jobs, substance binges) reflecting poor coping and executive overload.",
-                    "Peer support from others with ADHD who had similar experiences was cited as a key factor in eventually recovering from breakup-related trauma."
+                    "ADHD prolongs and intensifies breakup pain due to RSD, rumination, and emotional dysregulation (Spoke: adhd-breakup-healing-timeline, adhd-breakup-obsession-cycle).",
+                    "Impulsivity can lead to actions like immediately jumping on dating apps or repeatedly breaking 'no contact' (Spoke: adhd-why-no-contact-fails, adhd-dating-app-regret).",
+                    "Recommends structured grieving, journaling, social support, and avoiding impulsive rebounds as coping strategies."
                 ],
-                "neurobiological_mechanism": "Stacked stressors in ADHD (job, finances, relationship all interlinked) can overwhelm prefrontal capacity, causing a collapse in coping (executive shutdown), akin to an acute stress response.",
-                "clinical_takeaway": "Encourage involvement in ADHD support communities. Shared understanding can mitigate isolation and help model constructive coping after heartbreak, guiding patients from trauma toward growth."
+                "neurobiological_mechanism": "Dopamine dysregulation can drive impulsive actions (seeking novelty/soothing via apps/contact), while executive function deficits (working memory, inhibition) make 'no contact' and thought-stopping difficult.",
+                "clinical_takeaway": "Provide structured coping mechanisms, help clients establish external boundaries (blocking numbers, deleting apps), and focus on dopamine-boosting, healthy activities.",
+                "doi": null,
+                "source_link": "https://www.additudemag.com/how-to-get-over-a-breakup-adhd/"
             },
             {
-                "citation": "Michielsson, F., et al. (2018). Young women with ADHD reported higher rates of “toxic” relationships and serial breakups, often tied to seeking partners who provided structure but then feeling controlled.",
-                "year": "2018",
-                "design": "survey (women)",
+                "citation": "ADHD Specialist. (2025). ADHD and Phone Addiction: 11 Ways to Beat Distraction. ADHD Specialist Blog.",
+                "year": "2025",
+                "design": "expert article / clinical insights",
                 "top_3_findings": [
-                    "Young women with ADHD reported higher rates of “toxic” relationships and serial breakups, often tied to seeking partners who provided structure but then feeling controlled.",
-                    "Breakups frequently triggered severe emotional crises in these women, with 32% reporting self-harm or suicidal ideation post-separation.",
-                    "Psychoeducation helped some participants realize how ADHD traits (impulsivity, rapid attachment) influenced their partner choices, empowering them to break unhealthy patterns."
+                    "Individuals with ADHD are highly vulnerable to phone/internet addiction due to dopamine dysregulation and executive function deficits.",
+                    "Smartphones provide instant gratification and variable rewards (like texts/notifications), making checking highly addictive (Spoke: adhd-why-text-checking-addictive).",
+                    "This addiction can fuel obsessive checking of an ex's social media or waiting for texts, hindering 'no contact' and healing (Spoke: adhd-why-no-contact-fails)."
                 ],
-                "neurobiological_mechanism": "ADHD in women often coexists with rejection sensitivity; the end of a relationship can provoke intense dysphoric mood swings (possibly involving rapid drops in dopamine/norepinephrine that mimic withdrawal).",
-                "clinical_takeaway": "Be vigilant for self-harm risk in ADHD patients after breakups, especially females. Therapy should link ADHD traits to relationship patterns, helping patients create healthier boundaries and self-worth beyond partner validation."
+                "neurobiological_mechanism": "The 'ping' of a notification or the 'maybe' of a message triggers dopamine hits on a variable reinforcement schedule, the most addictive kind, overriding impaired impulse control circuits in ADHD.",
+                "clinical_takeaway": "Implement digital hygiene strategies: turn off non-essential notifications, set phone-free times/zones, use blocker apps, and find alternative dopamine sources.",
+                "doi": null,
+                "source_link": "https://adhdspecialist.com/post/adhd-and-phone-addiction"
             },
             {
-                "citation": "Surman, O. S., et al. (2017). Adults with ADHD undergoing CBT reported improved relationship satisfaction alongside ADHD symptom improvement (d≈0.4 on marital satisfaction scores).",
-                "year": "2017",
-                "design": "treatment cohort",
+                "citation": "Orlov, M. (2010). The ADHD Effect on Marriage. Specialty Press Inc.",
+                "year": "2010",
+                "design": "expert book / clinical insights",
                 "top_3_findings": [
-                    "Adults with ADHD undergoing CBT reported improved relationship satisfaction alongside ADHD symptom improvement (d≈0.4 on marital satisfaction scores).",
-                    "Therapy specifically addressed communication issues (like interrupting, forgetting plans), which patients said had contributed to past breakups.",
-                    "Patients who completed CBT were significantly less likely to separate from their current partner over 12-month follow-up (8%) compared to those who dropped out of therapy (25%)."
+                    "ADHD symptoms often lead to negative relationship patterns (partner feeling ignored/parentified, ADHD partner feeling criticized) which can contribute to self-sabotage (Spoke: adhd-sabotaged-relationship-confessions).",
+                    "Understanding these patterns is key to explaining ADHD's impact to partners and seeking appropriate support (Spoke: adhd-how-to-explain-to-partners).",
+                    "Highlights the need for external support, structure, and potentially a 'copilot' approach to manage daily life and reduce relationship strain (Spoke: adhd-relationship-copilot-need)."
                 ],
-                "neurobiological_mechanism": "Improving executive function via therapy likely reduces behaviors that strain relationships (missed obligations, emotional outbursts), thereby stabilizing attachment circuits and reducing extreme stress reactions.",
-                "clinical_takeaway": "Effective ADHD treatment can salvage relationships. Include interpersonal skills training in ADHD CBT – it not only helps symptoms but may prevent the spiral of breakup-driven trauma."
+                "neurobiological_mechanism": "Executive function deficits (planning, organization, emotional regulation) create the foundation for these negative cycles; psychoeducation helps reframe these as neurobiological, not intentional.",
+                "clinical_takeaway": "Encourage psychoeducation for both partners; utilize couple's therapy/coaching focused on ADHD strategies, communication, and shared systems/support.",
+                "doi": null,
+                "source_link": "https://www.amazon.com/ADHD-Effect-Marriage-Understand-Relationship/dp/1886941971"
+            },
+            {
+                "citation": "Magdi, M., et al. (2025). Sex Differences in the Comorbidity between Attention Deficit-Hyperactivity Disorder and Posttraumatic Stress Disorder. medRxiv [Preprint].",
+                "year": "2025",
+                "design": "systematic review & meta-analysis",
+                "top_3_findings": [
+                    "Confirms high comorbidity between ADHD and PTSD, suggesting a vulnerability to trauma.",
+                    "The heightened emotional reactivity and memory processing issues in ADHD may cause individuals to experience severe breakups as traumatic events.",
+                    "This supports the 'breakup trauma' concept and the intensity of the 'withdrawal' feeling."
+                ],
+                "neurobiological_mechanism": "Overlapping vulnerabilities in neurobiology (amygdala reactivity, PFC dysfunction, HPA axis dysregulation) predispose individuals with ADHD to develop PTSD-like symptoms after severe stressors like breakups.",
+                "clinical_takeaway": "Screen for trauma symptoms in ADHD clients post-breakup; consider trauma-informed approaches (EMDR, TF-CBT) alongside standard ADHD treatment.",
+                "doi": "10.1101/2025.01.10.25320323",
+                "source_link": "https://doi.org/10.1101/2025.01.10.25320323"
             }
         ],
         "common_comorbidities": [
-            "Post-traumatic stress disorder (PTSD)",
-            "Intimate partner conflict"
+            "Depression",
+            "Anxiety Disorders",
+            "Rejection Sensitive Dysphoria (RSD)",
+            "PTSD / Complex PTSD",
+            "Substance Use Disorders",
+            "Behavioral Addictions (e.g., internet, gaming)"
         ],
         "validated_scales": [
             "Rejection Sensitivity Questionnaire (RSQ)",
-            "Dyadic Adjustment Scale (relationship satisfaction)"
+            "Adult ADHD Self-Report Scale (ASRS)",
+            "PTSD Checklist for DSM-5 (PCL-5)",
+            "Difficulties in Emotion Regulation Scale (DERS)",
+            "Ruminative Response Scale (RRS)",
+            "Internet Addiction Test (IAT) / Smartphone Addiction Scale (SAS)"
         ]
     }
 }

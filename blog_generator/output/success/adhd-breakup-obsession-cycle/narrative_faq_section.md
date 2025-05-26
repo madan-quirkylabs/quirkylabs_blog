@@ -1,64 +1,48 @@
 ## Frequently Asked Questions
 
-### Why does sensitive feel so intense after a breakup when you have ADHD?
+### Why does a breakup feel like the end of the world when you're sensitive?
 
-Okay, first off, it's totally valid to feel like your heart's been ripped out! ADHD brains are wired to experience emotions BIGLY. Rejection, like a breakup, activates the same pain pathways as physical injury. The amygdala, your brain's emotional center, goes into overdrive. It's not you; it's your brain! Try deep breathing exercises when the wave hits. 
+Hey, it's rough, right? Your brain's reward system (dopamine, hello!) gets a massive hit during a relationship. Breakups? Sudden dopamine desert. For sensitive folks, this crash is amplified. You're not overreacting; it's your brain trying to recalibrate. Pro tip: Schedule small, dopamine-boosting activities like listening to your favorite song.
 
-**Pro tip:** Name five things you can see, hear, and touch to ground yourself.
+### Is it normal to replay the breakup over and over in my head?
 
-### Is it normal to be completely obsessed with my ex after a breakup if I have ADHD?
+Absolutely normal, sensitive soul! Your brain is in 're-run' mode, trying to make sense of things. It's like a faulty record skipping. This is especially true if you have ADHD, where overthinking is a superpower. Be kind to yourself. Pro tip: Set a 'worry window' - 15 minutes a day to process it, then move on.
 
-Absolutely! It's like your brain is stuck on replay, replaying every moment. ADHD can make it harder to regulate emotions, and the loss of a relationship can feel like a major disruption to your routine and dopamine supply. You're not alone; it's a common struggle. Give yourself some grace. 
+### Why can't I stop checking their social media after a breakup?
 
-**Pro tip:** Set a timer for 15 minutes of obsessive thoughts, then redirect your focus to something else.
+Ugh, the social media spiral. This is your brain's attempt to gather information and feel a sense of control. For sensitive people, it's like picking at a scab. The brain craves a sense of 'knowing', even if it's painful. Pro tip: Block them, mute them, or install a website blocker app. Out of sight, out of mind (eventually!).
 
-### How can I stop constantly checking my ex's social media after a breakup?
+### How can I stop feeling so sensitive about what my ex said?
 
-Ugh, the social media scroll is a classic! It's like a siren song for your brain. Try a social media detox! Delete the apps, or use website blockers. Studies show that limiting access can significantly decrease anxiety. It's about creating distance. You’ve got this! 
+I feel you. The words sting, especially when you're sensitive. Your brain’s built-in negativity bias is working overtime, focusing on the hurtful things. Try this: write down those words, then reframe them with compassion. Maybe they were hurting too. Pro tip: Practice self-compassion. Treat yourself like you'd treat a friend.
 
-**Pro tip:** Replace social media time with a distracting activity like listening to a podcast or playing a game.
+### Is it just me, or does a breakup completely derail my routine?
 
-### Why does my brain keep replaying the breakup over and over? Is this normal?
+Nope, not just you! Breakups mess with your executive function, especially if you're sensitive. ADHD brains thrive on routine, and a breakup throws that out the window. This disruption can make it harder to focus, plan, and get things done. Pro tip: Rebuild your routine, even if it's just one small thing each day, like making your bed.
 
-Yep, it's super normal, and it's your brain's attempt to make sense of things. ADHD brains can get stuck on loops, especially when dealing with emotional pain. You're not broken! It's your brain trying to process the loss and find closure. Think of it like your brain is a broken record. 
+### Why do I feel like I'm going through withdrawal after a breakup?
 
-**Pro tip:** Journaling can help you process those thoughts and feelings, so you can get out of your own head!
+That's your brain's reward system in action! Relationships trigger dopamine and oxytocin release, creating a bond. When that ends, you experience a 'chemical' withdrawal, similar to substance withdrawal. Sensitive folks feel it more intensely. Pro tip: Replace the 'relationship fix' with healthy alternatives, like exercise or a hobby.
 
-### I'm feeling super sensitive after my breakup. How can I cope?
+### How can I deal with the breakup feels when I'm sensitive and have ADHD?
 
-First, big hugs! It's completely understandable to be a sensitive mess right now. Breakups are hard, and ADHD can amplify those feelings. Acknowledge your emotions, and don't try to push them away. Practice self-compassion. Lean on your support system. It’s a tough spot to be in, but you can get through it. 
+Combine forces! ADHD can make the pain feel amplified. Focus on small steps. Break things down. Try this: make a list of 3 things you appreciate about yourself. Then, do one small, fun activity. You got this! Pro tip: Get your body moving. Exercise releases endorphins and helps regulate your nervous system.
 
-**Pro tip:** Schedule some time for activities that bring you joy, even if it's just for 15 minutes a day.
+### Is it true ADHD can make breakups more likely?
 
-### Is it true that ADHD makes relationships harder and breakups more common?
+Sadly, yeah. Studies suggest ADHD can increase the likelihood of breakups. Inanc et al. found higher marital conflict and divorce rates in ADHD couples. Wymbs et al. showed individuals with ADHD had more breakups by early adulthood. It's not a guarantee, but it's a risk factor. Pro tip: Work on communication skills and seek relationship coaching.
 
-Sadly, yes. Studies show that individuals with ADHD may experience higher rates of relationship conflict and breakup. Inanc et al. found that marital conflict and divorce rates were higher in couples where one partner had ADHD. It’s not a death sentence, but it means you might need extra support and strategies. 
+### Why does my brain feel like a broken record after the breakup?
 
-**Pro tip:** Consider couples or individual therapy with a therapist who specializes in ADHD.
+Your brain's trying to make sense of a chaotic situation. This is especially true if you're sensitive and have ADHD. The emotional pain gets stuck on repeat. It's your brain's way of trying to find closure. Pro tip: Use a 'thought journal'. Write down your repetitive thoughts to help you process them, then let them go.
 
-### How do I stop feeling like I'll never find love again? I'm spiraling!
+### I'm feeling so sensitive and can't stop the breakup thoughts. Any tips?
 
-Girl, I feel you! That spiral is a tough place to be. But it's a total myth that this is the end of the road. Remember, your brain is playing tricks on you. Focus on self-care and building yourself up. It's time to build a better relationship with yourself. 
+Girl, I feel ya! It's rough. When the thoughts start, try to distract yourself gently. Go for a walk, listen to music, or call a friend. Don't beat yourself up for feeling, just try to redirect your focus. Pro tip: Practice mindfulness. Even 5 minutes of meditation can help ground you.
 
-**Pro tip:** Write down 3 things you like about yourself every day, and then go treat yourself!
+### Is it a red flag if I'm still obsessed with my ex, like, months later?
 
-### Why am I so triggered by everything after my breakup? Is this RSD?
-
-It could be! Rejection Sensitive Dysphoria (RSD) is a common experience for ADHD folks. It's that intense emotional pain triggered by perceived rejection or criticism. Breakups are a major trigger. Studies haven’t directly linked ADHD to breakups, but the emotional intensity experienced is part of the disorder. It's rough, but you're not alone. 
-
-**Pro tip:** Learn some coping skills for managing RSD triggers, like mindfulness or thought challenging.
-
-### Is it a red flag if I'm constantly texting my ex? Should I just ghost them?
-
-Look, ghosting is usually not the move. Constant texting is often a sign of feeling intense emotions and is part of the process. Try to be mindful of your communication habits and how they affect you. Set boundaries with your ex (and yourself!). Maybe it's time to take a break from contact. 
-
-**Pro tip:** If you need to communicate with your ex, try to arrange this to be done with a third party.
-
-### How do I stop idealizing my ex? I'm stuck in the 'grass is greener' mindset!
-
-That 'grass is greener' feeling is a classic post-breakup symptom. Our brains often focus on the good memories and ignore the bad. Try to remember the reasons the relationship ended. Write down the negative aspects of the relationship to balance your perspective. It's about seeing the full picture. 
-
-**Pro tip:** List the things you didn't like about the relationship to balance your thoughts.
+Not necessarily a red flag, but it's a sign you might need support. If you're sensitive, and have ADHD, it can take longer to process. But, if it's impacting your daily life, it's time to seek help. Pro tip: Talk to a therapist or coach. They can provide tools to help you heal and move forward.
 
 
 <script type="application/ld+json">
@@ -68,82 +52,90 @@ That 'grass is greener' feeling is a classic post-breakup symptom. Our brains of
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Why does sensitive feel so intense after a breakup when you have ADHD?",
+      "name": "Why does a breakup feel like the end of the world when you're sensitive?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Okay, first off, it's totally valid to feel like your heart's been ripped out! ADHD brains are wired to experience emotions BIGLY. Rejection, like a breakup, activates the same pain pathways as physical injury. The amygdala, your brain's emotional center, goes into overdrive. It's not you; it's your brain! Try deep breathing exercises when the wave hits. \n\n**Pro tip:** Name five things you can see, hear, and touch to ground yourself."
+        "text": "Hey, it's rough, right? Your brain's reward system (dopamine, hello!) gets a massive hit during a relationship. Breakups? Sudden dopamine desert. For sensitive folks, this crash is amplified. You're not overreacting; it's your brain trying to recalibrate. Pro tip: Schedule small, dopamine-boosting activities like listening to your favorite song."
       }
     },
     {
       "@type": "Question",
-      "name": "Is it normal to be completely obsessed with my ex after a breakup if I have ADHD?",
+      "name": "Is it normal to replay the breakup over and over in my head?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Absolutely! It's like your brain is stuck on replay, replaying every moment. ADHD can make it harder to regulate emotions, and the loss of a relationship can feel like a major disruption to your routine and dopamine supply. You're not alone; it's a common struggle. Give yourself some grace. \n\n**Pro tip:** Set a timer for 15 minutes of obsessive thoughts, then redirect your focus to something else."
+        "text": "Absolutely normal, sensitive soul! Your brain is in 're-run' mode, trying to make sense of things. It's like a faulty record skipping. This is especially true if you have ADHD, where overthinking is a superpower. Be kind to yourself. Pro tip: Set a 'worry window' - 15 minutes a day to process it, then move on."
       }
     },
     {
       "@type": "Question",
-      "name": "How can I stop constantly checking my ex's social media after a breakup?",
+      "name": "Why can't I stop checking their social media after a breakup?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Ugh, the social media scroll is a classic! It's like a siren song for your brain. Try a social media detox! Delete the apps, or use website blockers. Studies show that limiting access can significantly decrease anxiety. It's about creating distance. You\u2019ve got this! \n\n**Pro tip:** Replace social media time with a distracting activity like listening to a podcast or playing a game."
+        "text": "Ugh, the social media spiral. This is your brain's attempt to gather information and feel a sense of control. For sensitive people, it's like picking at a scab. The brain craves a sense of 'knowing', even if it's painful. Pro tip: Block them, mute them, or install a website blocker app. Out of sight, out of mind (eventually!)."
       }
     },
     {
       "@type": "Question",
-      "name": "Why does my brain keep replaying the breakup over and over? Is this normal?",
+      "name": "How can I stop feeling so sensitive about what my ex said?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yep, it's super normal, and it's your brain's attempt to make sense of things. ADHD brains can get stuck on loops, especially when dealing with emotional pain. You're not broken! It's your brain trying to process the loss and find closure. Think of it like your brain is a broken record. \n\n**Pro tip:** Journaling can help you process those thoughts and feelings, so you can get out of your own head!"
+        "text": "I feel you. The words sting, especially when you're sensitive. Your brain\u2019s built-in negativity bias is working overtime, focusing on the hurtful things. Try this: write down those words, then reframe them with compassion. Maybe they were hurting too. Pro tip: Practice self-compassion. Treat yourself like you'd treat a friend."
       }
     },
     {
       "@type": "Question",
-      "name": "I'm feeling super sensitive after my breakup. How can I cope?",
+      "name": "Is it just me, or does a breakup completely derail my routine?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "First, big hugs! It's completely understandable to be a sensitive mess right now. Breakups are hard, and ADHD can amplify those feelings. Acknowledge your emotions, and don't try to push them away. Practice self-compassion. Lean on your support system. It\u2019s a tough spot to be in, but you can get through it. \n\n**Pro tip:** Schedule some time for activities that bring you joy, even if it's just for 15 minutes a day."
+        "text": "Nope, not just you! Breakups mess with your executive function, especially if you're sensitive. ADHD brains thrive on routine, and a breakup throws that out the window. This disruption can make it harder to focus, plan, and get things done. Pro tip: Rebuild your routine, even if it's just one small thing each day, like making your bed."
       }
     },
     {
       "@type": "Question",
-      "name": "Is it true that ADHD makes relationships harder and breakups more common?",
+      "name": "Why do I feel like I'm going through withdrawal after a breakup?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Sadly, yes. Studies show that individuals with ADHD may experience higher rates of relationship conflict and breakup. Inanc et al. found that marital conflict and divorce rates were higher in couples where one partner had ADHD. It\u2019s not a death sentence, but it means you might need extra support and strategies. \n\n**Pro tip:** Consider couples or individual therapy with a therapist who specializes in ADHD."
+        "text": "That's your brain's reward system in action! Relationships trigger dopamine and oxytocin release, creating a bond. When that ends, you experience a 'chemical' withdrawal, similar to substance withdrawal. Sensitive folks feel it more intensely. Pro tip: Replace the 'relationship fix' with healthy alternatives, like exercise or a hobby."
       }
     },
     {
       "@type": "Question",
-      "name": "How do I stop feeling like I'll never find love again? I'm spiraling!",
+      "name": "How can I deal with the breakup feels when I'm sensitive and have ADHD?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Girl, I feel you! That spiral is a tough place to be. But it's a total myth that this is the end of the road. Remember, your brain is playing tricks on you. Focus on self-care and building yourself up. It's time to build a better relationship with yourself. \n\n**Pro tip:** Write down 3 things you like about yourself every day, and then go treat yourself!"
+        "text": "Combine forces! ADHD can make the pain feel amplified. Focus on small steps. Break things down. Try this: make a list of 3 things you appreciate about yourself. Then, do one small, fun activity. You got this! Pro tip: Get your body moving. Exercise releases endorphins and helps regulate your nervous system."
       }
     },
     {
       "@type": "Question",
-      "name": "Why am I so triggered by everything after my breakup? Is this RSD?",
+      "name": "Is it true ADHD can make breakups more likely?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "It could be! Rejection Sensitive Dysphoria (RSD) is a common experience for ADHD folks. It's that intense emotional pain triggered by perceived rejection or criticism. Breakups are a major trigger. Studies haven\u2019t directly linked ADHD to breakups, but the emotional intensity experienced is part of the disorder. It's rough, but you're not alone. \n\n**Pro tip:** Learn some coping skills for managing RSD triggers, like mindfulness or thought challenging."
+        "text": "Sadly, yeah. Studies suggest ADHD can increase the likelihood of breakups. Inanc et al. found higher marital conflict and divorce rates in ADHD couples. Wymbs et al. showed individuals with ADHD had more breakups by early adulthood. It's not a guarantee, but it's a risk factor. Pro tip: Work on communication skills and seek relationship coaching."
       }
     },
     {
       "@type": "Question",
-      "name": "Is it a red flag if I'm constantly texting my ex? Should I just ghost them?",
+      "name": "Why does my brain feel like a broken record after the breakup?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Look, ghosting is usually not the move. Constant texting is often a sign of feeling intense emotions and is part of the process. Try to be mindful of your communication habits and how they affect you. Set boundaries with your ex (and yourself!). Maybe it's time to take a break from contact. \n\n**Pro tip:** If you need to communicate with your ex, try to arrange this to be done with a third party."
+        "text": "Your brain's trying to make sense of a chaotic situation. This is especially true if you're sensitive and have ADHD. The emotional pain gets stuck on repeat. It's your brain's way of trying to find closure. Pro tip: Use a 'thought journal'. Write down your repetitive thoughts to help you process them, then let them go."
       }
     },
     {
       "@type": "Question",
-      "name": "How do I stop idealizing my ex? I'm stuck in the 'grass is greener' mindset!",
+      "name": "I'm feeling so sensitive and can't stop the breakup thoughts. Any tips?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "That 'grass is greener' feeling is a classic post-breakup symptom. Our brains often focus on the good memories and ignore the bad. Try to remember the reasons the relationship ended. Write down the negative aspects of the relationship to balance your perspective. It's about seeing the full picture. \n\n**Pro tip:** List the things you didn't like about the relationship to balance your thoughts."
+        "text": "Girl, I feel ya! It's rough. When the thoughts start, try to distract yourself gently. Go for a walk, listen to music, or call a friend. Don't beat yourself up for feeling, just try to redirect your focus. Pro tip: Practice mindfulness. Even 5 minutes of meditation can help ground you."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is it a red flag if I'm still obsessed with my ex, like, months later?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Not necessarily a red flag, but it's a sign you might need support. If you're sensitive, and have ADHD, it can take longer to process. But, if it's impacting your daily life, it's time to seek help. Pro tip: Talk to a therapist or coach. They can provide tools to help you heal and move forward."
       }
     }
   ]

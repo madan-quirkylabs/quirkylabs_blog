@@ -1,0 +1,808 @@
+{
+    "pillar_slug": "adhd-loneliness",
+    "pillar_title": "The Loneliness of the ADHD Mind",
+    "spokes": [
+        {
+            "id": "adhd-feel-alone",
+            "connections": [
+                {
+                    "id": "adhd-no-one-understands-me",
+                    "ECB_2_0": 0.9,
+                    "Neurobiological_Networks": 0.7,
+                    "Failure_Recovery_Arcs": 0.8,
+                    "Dynamic_Personas": 0.7,
+                    "Search_Intent_Graphs": 0.8,
+                    "Narrative_DNA": 0.9,
+                    "Format_Affinities": 0.8,
+                    "Behavioral_Triggers": 0.7,
+                    "Conflict_Pairs": 0.9,
+                    "Memetic_Hooks": 0.9
+                },
+                {
+                    "id": "adhd-rejection-sensitivity",
+                    "ECB_2_0": 0.9,
+                    "Neurobiological_Networks": 0.8,
+                    "Failure_Recovery_Arcs": 0.9,
+                    "Dynamic_Personas": 0.8,
+                    "Search_Intent_Graphs": 0.8,
+                    "Narrative_DNA": 0.9,
+                    "Format_Affinities": 0.8,
+                    "Behavioral_Triggers": 0.9,
+                    "Conflict_Pairs": 0.9,
+                    "Memetic_Hooks": 0.9
+                },
+                {
+                    "id": "adhd-isolation-as-adult",
+                    "ECB_2_0": 0.9,
+                    "Neurobiological_Networks": 0.7,
+                    "Failure_Recovery_Arcs": 0.8,
+                    "Dynamic_Personas": 0.8,
+                    "Search_Intent_Graphs": 0.8,
+                    "Narrative_DNA": 0.9,
+                    "Format_Affinities": 0.8,
+                    "Behavioral_Triggers": 0.8,
+                    "Conflict_Pairs": 0.8,
+                    "Memetic_Hooks": 0.8
+                }
+            ]
+        },
+        {
+            "id": "adhd-no-one-understands-me",
+            "connections": [
+                {
+                    "id": "adhd-cant-explain-yourself",
+                    "ECB_2_0": 0.9,
+                    "Neurobiological_Networks": 0.8,
+                    "Failure_Recovery_Arcs": 0.8,
+                    "Dynamic_Personas": 0.7,
+                    "Search_Intent_Graphs": 0.9,
+                    "Narrative_DNA": 0.9,
+                    "Format_Affinities": 0.8,
+                    "Behavioral_Triggers": 0.7,
+                    "Conflict_Pairs": 0.9,
+                    "Memetic_Hooks": 0.9
+                },
+                {
+                    "id": "adhd-dont-fit-in",
+                    "ECB_2_0": 0.9,
+                    "Neurobiological_Networks": 0.7,
+                    "Failure_Recovery_Arcs": 0.8,
+                    "Dynamic_Personas": 0.8,
+                    "Search_Intent_Graphs": 0.8,
+                    "Narrative_DNA": 0.9,
+                    "Format_Affinities": 0.8,
+                    "Behavioral_Triggers": 0.8,
+                    "Conflict_Pairs": 0.9,
+                    "Memetic_Hooks": 0.9
+                },
+                {
+                    "id": "adhd-longing-for-understanding",
+                    "ECB_2_0": 0.9,
+                    "Neurobiological_Networks": 0.7,
+                    "Failure_Recovery_Arcs": 0.8,
+                    "Dynamic_Personas": 0.8,
+                    "Search_Intent_Graphs": 0.9,
+                    "Narrative_DNA": 0.9,
+                    "Format_Affinities": 0.8,
+                    "Behavioral_Triggers": 0.7,
+                    "Conflict_Pairs": 0.9,
+                    "Memetic_Hooks": 0.9
+                }
+            ]
+        },
+        {
+            "id": "adhd-loneliness-in-relationships",
+            "connections": [
+                {
+                    "id": "adhd-rejection-sensitivity",
+                    "ECB_2_0": 0.9,
+                    "Neurobiological_Networks": 0.8,
+                    "Failure_Recovery_Arcs": 0.9,
+                    "Dynamic_Personas": 0.9,
+                    "Search_Intent_Graphs": 0.8,
+                    "Narrative_DNA": 0.9,
+                    "Format_Affinities": 0.8,
+                    "Behavioral_Triggers": 0.9,
+                    "Conflict_Pairs": 0.9,
+                    "Memetic_Hooks": 0.9
+                },
+                {
+                    "id": "adhd-intense-emotions-alone",
+                    "ECB_2_0": 0.9,
+                    "Neurobiological_Networks": 0.8,
+                    "Failure_Recovery_Arcs": 0.8,
+                    "Dynamic_Personas": 0.9,
+                    "Search_Intent_Graphs": 0.7,
+                    "Narrative_DNA": 0.8,
+                    "Format_Affinities": 0.7,
+                    "Behavioral_Triggers": 0.9,
+                    "Conflict_Pairs": 0.9,
+                    "Memetic_Hooks": 0.8
+                },
+                {
+                    "id": "adhd-fear-of-disconnection",
+                    "ECB_2_0": 0.9,
+                    "Neurobiological_Networks": 0.7,
+                    "Failure_Recovery_Arcs": 0.9,
+                    "Dynamic_Personas": 0.9,
+                    "Search_Intent_Graphs": 0.8,
+                    "Narrative_DNA": 0.9,
+                    "Format_Affinities": 0.8,
+                    "Behavioral_Triggers": 0.9,
+                    "Conflict_Pairs": 0.9,
+                    "Memetic_Hooks": 0.9
+                }
+            ]
+        },
+        {
+            "id": "adhd-rejection-sensitivity",
+            "connections": [
+                {
+                    "id": "adhd-fear-of-being-too-much",
+                    "ECB_2_0": 0.9,
+                    "Neurobiological_Networks": 0.8,
+                    "Failure_Recovery_Arcs": 0.9,
+                    "Dynamic_Personas": 0.9,
+                    "Search_Intent_Graphs": 0.9,
+                    "Narrative_DNA": 0.9,
+                    "Format_Affinities": 0.8,
+                    "Behavioral_Triggers": 0.9,
+                    "Conflict_Pairs": 0.9,
+                    "Memetic_Hooks": 0.9
+                },
+                {
+                    "id": "adhd-hiding-true-self",
+                    "ECB_2_0": 0.9,
+                    "Neurobiological_Networks": 0.7,
+                    "Failure_Recovery_Arcs": 0.9,
+                    "Dynamic_Personas": 0.9,
+                    "Search_Intent_Graphs": 0.8,
+                    "Narrative_DNA": 0.9,
+                    "Format_Affinities": 0.8,
+                    "Behavioral_Triggers": 0.9,
+                    "Conflict_Pairs": 0.9,
+                    "Memetic_Hooks": 0.9
+                },
+                {
+                    "id": "adhd-social-anxiety-layer",
+                    "ECB_2_0": 0.9,
+                    "Neurobiological_Networks": 0.8,
+                    "Failure_Recovery_Arcs": 0.9,
+                    "Dynamic_Personas": 0.9,
+                    "Search_Intent_Graphs": 0.9,
+                    "Narrative_DNA": 0.9,
+                    "Format_Affinities": 0.8,
+                    "Behavioral_Triggers": 0.9,
+                    "Conflict_Pairs": 0.9,
+                    "Memetic_Hooks": 0.9
+                }
+            ]
+        },
+        {
+            "id": "adhd-need-for-connection",
+            "connections": [
+                {
+                    "id": "adhd-lonely-despite-being-social",
+                    "ECB_2_0": 0.8,
+                    "Neurobiological_Networks": 0.6,
+                    "Failure_Recovery_Arcs": 0.7,
+                    "Dynamic_Personas": 0.7,
+                    "Search_Intent_Graphs": 0.8,
+                    "Narrative_DNA": 0.8,
+                    "Format_Affinities": 0.7,
+                    "Behavioral_Triggers": 0.7,
+                    "Conflict_Pairs": 0.8,
+                    "Memetic_Hooks": 0.8
+                },
+                {
+                    "id": "adhd-longing-for-understanding",
+                    "ECB_2_0": 0.9,
+                    "Neurobiological_Networks": 0.7,
+                    "Failure_Recovery_Arcs": 0.8,
+                    "Dynamic_Personas": 0.8,
+                    "Search_Intent_Graphs": 0.9,
+                    "Narrative_DNA": 0.9,
+                    "Format_Affinities": 0.8,
+                    "Behavioral_Triggers": 0.7,
+                    "Conflict_Pairs": 0.9,
+                    "Memetic_Hooks": 0.9
+                }
+            ]
+        },
+        {
+            "id": "adhd-fear-of-being-too-much",
+            "connections": [
+                {
+                    "id": "adhd-too-weird-to-be-loved",
+                    "ECB_2_0": 0.9,
+                    "Neurobiological_Networks": 0.7,
+                    "Failure_Recovery_Arcs": 0.9,
+                    "Dynamic_Personas": 0.9,
+                    "Search_Intent_Graphs": 0.9,
+                    "Narrative_DNA": 0.9,
+                    "Format_Affinities": 0.8,
+                    "Behavioral_Triggers": 0.9,
+                    "Conflict_Pairs": 0.9,
+                    "Memetic_Hooks": 0.9
+                },
+                {
+                    "id": "adhd-hiding-true-self",
+                    "ECB_2_0": 0.9,
+                    "Neurobiological_Networks": 0.7,
+                    "Failure_Recovery_Arcs": 0.9,
+                    "Dynamic_Personas": 0.9,
+                    "Search_Intent_Graphs": 0.8,
+                    "Narrative_DNA": 0.9,
+                    "Format_Affinities": 0.8,
+                    "Behavioral_Triggers": 0.9,
+                    "Conflict_Pairs": 0.9,
+                    "Memetic_Hooks": 0.9
+                },
+                {
+                    "id": "adhd-social-anxiety-layer",
+                    "ECB_2_0": 0.9,
+                    "Neurobiological_Networks": 0.8,
+                    "Failure_Recovery_Arcs": 0.9,
+                    "Dynamic_Personas": 0.9,
+                    "Search_Intent_Graphs": 0.9,
+                    "Narrative_DNA": 0.9,
+                    "Format_Affinities": 0.8,
+                    "Behavioral_Triggers": 0.9,
+                    "Conflict_Pairs": 0.9,
+                    "Memetic_Hooks": 0.9
+                }
+            ]
+        },
+        {
+            "id": "adhd-dont-fit-in",
+            "connections": [
+                {
+                    "id": "adhd-nobody-gets-my-brain",
+                    "ECB_2_0": 0.9,
+                    "Neurobiological_Networks": 0.8,
+                    "Failure_Recovery_Arcs": 0.8,
+                    "Dynamic_Personas": 0.8,
+                    "Search_Intent_Graphs": 0.9,
+                    "Narrative_DNA": 0.9,
+                    "Format_Affinities": 0.8,
+                    "Behavioral_Triggers": 0.8,
+                    "Conflict_Pairs": 0.9,
+                    "Memetic_Hooks": 0.9
+                },
+                {
+                    "id": "adhd-hiding-true-self",
+                    "ECB_2_0": 0.9,
+                    "Neurobiological_Networks": 0.7,
+                    "Failure_Recovery_Arcs": 0.9,
+                    "Dynamic_Personas": 0.9,
+                    "Search_Intent_Graphs": 0.8,
+                    "Narrative_DNA": 0.9,
+                    "Format_Affinities": 0.8,
+                    "Behavioral_Triggers": 0.9,
+                    "Conflict_Pairs": 0.9,
+                    "Memetic_Hooks": 0.9
+                }
+            ]
+        },
+        {
+            "id": "adhd-isolation-as-adult",
+            "connections": [
+                {
+                    "id": "adhd-feel-alone",
+                    "ECB_2_0": 0.9,
+                    "Neurobiological_Networks": 0.7,
+                    "Failure_Recovery_Arcs": 0.8,
+                    "Dynamic_Personas": 0.8,
+                    "Search_Intent_Graphs": 0.8,
+                    "Narrative_DNA": 0.9,
+                    "Format_Affinities": 0.8,
+                    "Behavioral_Triggers": 0.8,
+                    "Conflict_Pairs": 0.8,
+                    "Memetic_Hooks": 0.8
+                },
+                {
+                    "id": "adhd-loneliness-in-relationships",
+                    "ECB_2_0": 0.9,
+                    "Neurobiological_Networks": 0.8,
+                    "Failure_Recovery_Arcs": 0.9,
+                    "Dynamic_Personas": 0.9,
+                    "Search_Intent_Graphs": 0.8,
+                    "Narrative_DNA": 0.9,
+                    "Format_Affinities": 0.8,
+                    "Behavioral_Triggers": 0.9,
+                    "Conflict_Pairs": 0.9,
+                    "Memetic_Hooks": 0.9
+                }
+            ]
+        },
+        {
+            "id": "adhd-lonely-despite-being-social",
+            "connections": [
+                {
+                    "id": "adhd-hiding-true-self",
+                    "ECB_2_0": 0.9,
+                    "Neurobiological_Networks": 0.7,
+                    "Failure_Recovery_Arcs": 0.9,
+                    "Dynamic_Personas": 0.9,
+                    "Search_Intent_Graphs": 0.8,
+                    "Narrative_DNA": 0.9,
+                    "Format_Affinities": 0.8,
+                    "Behavioral_Triggers": 0.9,
+                    "Conflict_Pairs": 0.9,
+                    "Memetic_Hooks": 0.9
+                },
+                {
+                    "id": "adhd-connection-overwhelm",
+                    "ECB_2_0": 0.8,
+                    "Neurobiological_Networks": 0.7,
+                    "Failure_Recovery_Arcs": 0.8,
+                    "Dynamic_Personas": 0.8,
+                    "Search_Intent_Graphs": 0.7,
+                    "Narrative_DNA": 0.8,
+                    "Format_Affinities": 0.7,
+                    "Behavioral_Triggers": 0.9,
+                    "Conflict_Pairs": 0.8,
+                    "Memetic_Hooks": 0.8
+                },
+                {
+                    "id": "adhd-social-burnout",
+                    "ECB_2_0": 0.9,
+                    "Neurobiological_Networks": 0.8,
+                    "Failure_Recovery_Arcs": 0.9,
+                    "Dynamic_Personas": 0.9,
+                    "Search_Intent_Graphs": 0.8,
+                    "Narrative_DNA": 0.9,
+                    "Format_Affinities": 0.8,
+                    "Behavioral_Triggers": 0.9,
+                    "Conflict_Pairs": 0.9,
+                    "Memetic_Hooks": 0.9
+                }
+            ]
+        },
+        {
+            "id": "adhd-intense-emotions-alone",
+            "connections": [
+                {
+                    "id": "adhd-rejection-sensitivity",
+                    "ECB_2_0": 0.9,
+                    "Neurobiological_Networks": 0.9,
+                    "Failure_Recovery_Arcs": 0.9,
+                    "Dynamic_Personas": 0.9,
+                    "Search_Intent_Graphs": 0.8,
+                    "Narrative_DNA": 0.9,
+                    "Format_Affinities": 0.8,
+                    "Behavioral_Triggers": 0.9,
+                    "Conflict_Pairs": 0.9,
+                    "Memetic_Hooks": 0.9
+                },
+                {
+                    "id": "adhd-fear-of-disconnection",
+                    "ECB_2_0": 0.9,
+                    "Neurobiological_Networks": 0.8,
+                    "Failure_Recovery_Arcs": 0.9,
+                    "Dynamic_Personas": 0.9,
+                    "Search_Intent_Graphs": 0.8,
+                    "Narrative_DNA": 0.9,
+                    "Format_Affinities": 0.8,
+                    "Behavioral_Triggers": 0.9,
+                    "Conflict_Pairs": 0.9,
+                    "Memetic_Hooks": 0.9
+                },
+                {
+                    "id": "adhd-constant-overthinking",
+                    "ECB_2_0": 0.8,
+                    "Neurobiological_Networks": 0.7,
+                    "Failure_Recovery_Arcs": 0.8,
+                    "Dynamic_Personas": 0.8,
+                    "Search_Intent_Graphs": 0.8,
+                    "Narrative_DNA": 0.8,
+                    "Format_Affinities": 0.7,
+                    "Behavioral_Triggers": 0.8,
+                    "Conflict_Pairs": 0.8,
+                    "Memetic_Hooks": 0.7
+                }
+            ]
+        },
+        {
+            "id": "adhd-cant-explain-yourself",
+            "connections": [
+                {
+                    "id": "adhd-no-one-understands-me",
+                    "ECB_2_0": 0.9,
+                    "Neurobiological_Networks": 0.8,
+                    "Failure_Recovery_Arcs": 0.8,
+                    "Dynamic_Personas": 0.7,
+                    "Search_Intent_Graphs": 0.9,
+                    "Narrative_DNA": 0.9,
+                    "Format_Affinities": 0.8,
+                    "Behavioral_Triggers": 0.7,
+                    "Conflict_Pairs": 0.9,
+                    "Memetic_Hooks": 0.9
+                },
+                {
+                    "id": "adhd-longing-for-understanding",
+                    "ECB_2_0": 0.9,
+                    "Neurobiological_Networks": 0.7,
+                    "Failure_Recovery_Arcs": 0.8,
+                    "Dynamic_Personas": 0.8,
+                    "Search_Intent_Graphs": 0.9,
+                    "Narrative_DNA": 0.9,
+                    "Format_Affinities": 0.8,
+                    "Behavioral_Triggers": 0.7,
+                    "Conflict_Pairs": 0.9,
+                    "Memetic_Hooks": 0.9
+                }
+            ]
+        },
+        {
+            "id": "adhd-too-weird-to-be-loved",
+            "connections": [
+                {
+                    "id": "adhd-fear-of-being-too-much",
+                    "ECB_2_0": 0.9,
+                    "Neurobiological_Networks": 0.7,
+                    "Failure_Recovery_Arcs": 0.9,
+                    "Dynamic_Personas": 0.9,
+                    "Search_Intent_Graphs": 0.9,
+                    "Narrative_DNA": 0.9,
+                    "Format_Affinities": 0.8,
+                    "Behavioral_Triggers": 0.9,
+                    "Conflict_Pairs": 0.9,
+                    "Memetic_Hooks": 0.9
+                },
+                {
+                    "id": "adhd-hiding-true-self",
+                    "ECB_2_0": 0.9,
+                    "Neurobiological_Networks": 0.7,
+                    "Failure_Recovery_Arcs": 0.9,
+                    "Dynamic_Personas": 0.9,
+                    "Search_Intent_Graphs": 0.8,
+                    "Narrative_DNA": 0.9,
+                    "Format_Affinities": 0.8,
+                    "Behavioral_Triggers": 0.9,
+                    "Conflict_Pairs": 0.9,
+                    "Memetic_Hooks": 0.9
+                },
+                {
+                    "id": "adhd-dont-fit-in",
+                    "ECB_2_0": 0.9,
+                    "Neurobiological_Networks": 0.7,
+                    "Failure_Recovery_Arcs": 0.8,
+                    "Dynamic_Personas": 0.8,
+                    "Search_Intent_Graphs": 0.8,
+                    "Narrative_DNA": 0.9,
+                    "Format_Affinities": 0.8,
+                    "Behavioral_Triggers": 0.8,
+                    "Conflict_Pairs": 0.9,
+                    "Memetic_Hooks": 0.9
+                }
+            ]
+        },
+        {
+            "id": "adhd-social-burnout",
+            "connections": [
+                {
+                    "id": "adhd-connection-overwhelm",
+                    "ECB_2_0": 0.9,
+                    "Neurobiological_Networks": 0.8,
+                    "Failure_Recovery_Arcs": 0.9,
+                    "Dynamic_Personas": 0.9,
+                    "Search_Intent_Graphs": 0.8,
+                    "Narrative_DNA": 0.9,
+                    "Format_Affinities": 0.8,
+                    "Behavioral_Triggers": 0.9,
+                    "Conflict_Pairs": 0.9,
+                    "Memetic_Hooks": 0.9
+                },
+                {
+                    "id": "adhd-lonely-despite-being-social",
+                    "ECB_2_0": 0.9,
+                    "Neurobiological_Networks": 0.8,
+                    "Failure_Recovery_Arcs": 0.9,
+                    "Dynamic_Personas": 0.9,
+                    "Search_Intent_Graphs": 0.8,
+                    "Narrative_DNA": 0.9,
+                    "Format_Affinities": 0.8,
+                    "Behavioral_Triggers": 0.9,
+                    "Conflict_Pairs": 0.9,
+                    "Memetic_Hooks": 0.9
+                },
+                {
+                    "id": "adhd-intense-emotions-alone",
+                    "ECB_2_0": 0.8,
+                    "Neurobiological_Networks": 0.7,
+                    "Failure_Recovery_Arcs": 0.8,
+                    "Dynamic_Personas": 0.8,
+                    "Search_Intent_Graphs": 0.7,
+                    "Narrative_DNA": 0.8,
+                    "Format_Affinities": 0.7,
+                    "Behavioral_Triggers": 0.8,
+                    "Conflict_Pairs": 0.8,
+                    "Memetic_Hooks": 0.7
+                }
+            ]
+        },
+        {
+            "id": "adhd-connection-overwhelm",
+            "connections": [
+                {
+                    "id": "adhd-social-burnout",
+                    "ECB_2_0": 0.9,
+                    "Neurobiological_Networks": 0.8,
+                    "Failure_Recovery_Arcs": 0.9,
+                    "Dynamic_Personas": 0.9,
+                    "Search_Intent_Graphs": 0.8,
+                    "Narrative_DNA": 0.9,
+                    "Format_Affinities": 0.8,
+                    "Behavioral_Triggers": 0.9,
+                    "Conflict_Pairs": 0.9,
+                    "Memetic_Hooks": 0.9
+                },
+                {
+                    "id": "adhd-lonely-despite-being-social",
+                    "ECB_2_0": 0.8,
+                    "Neurobiological_Networks": 0.7,
+                    "Failure_Recovery_Arcs": 0.8,
+                    "Dynamic_Personas": 0.8,
+                    "Search_Intent_Graphs": 0.7,
+                    "Narrative_DNA": 0.8,
+                    "Format_Affinities": 0.7,
+                    "Behavioral_Triggers": 0.9,
+                    "Conflict_Pairs": 0.8,
+                    "Memetic_Hooks": 0.8
+                }
+            ]
+        },
+        {
+            "id": "adhd-longing-for-understanding",
+            "connections": [
+                {
+                    "id": "adhd-no-one-understands-me",
+                    "ECB_2_0": 0.9,
+                    "Neurobiological_Networks": 0.7,
+                    "Failure_Recovery_Arcs": 0.8,
+                    "Dynamic_Personas": 0.7,
+                    "Search_Intent_Graphs": 0.9,
+                    "Narrative_DNA": 0.9,
+                    "Format_Affinities": 0.8,
+                    "Behavioral_Triggers": 0.7,
+                    "Conflict_Pairs": 0.9,
+                    "Memetic_Hooks": 0.9
+                },
+                {
+                    "id": "adhd-nobody-gets-my-brain",
+                    "ECB_2_0": 0.9,
+                    "Neurobiological_Networks": 0.8,
+                    "Failure_Recovery_Arcs": 0.8,
+                    "Dynamic_Personas": 0.8,
+                    "Search_Intent_Graphs": 0.9,
+                    "Narrative_DNA": 0.9,
+                    "Format_Affinities": 0.8,
+                    "Behavioral_Triggers": 0.8,
+                    "Conflict_Pairs": 0.9,
+                    "Memetic_Hooks": 0.9
+                },
+                {
+                    "id": "adhd-cant-explain-yourself",
+                    "ECB_2_0": 0.9,
+                    "Neurobiological_Networks": 0.8,
+                    "Failure_Recovery_Arcs": 0.8,
+                    "Dynamic_Personas": 0.7,
+                    "Search_Intent_Graphs": 0.9,
+                    "Narrative_DNA": 0.9,
+                    "Format_Affinities": 0.8,
+                    "Behavioral_Triggers": 0.7,
+                    "Conflict_Pairs": 0.9,
+                    "Memetic_Hooks": 0.9
+                }
+            ]
+        },
+        {
+            "id": "adhd-nobody-gets-my-brain",
+            "connections": [
+                {
+                    "id": "adhd-dont-fit-in",
+                    "ECB_2_0": 0.9,
+                    "Neurobiological_Networks": 0.8,
+                    "Failure_Recovery_Arcs": 0.8,
+                    "Dynamic_Personas": 0.8,
+                    "Search_Intent_Graphs": 0.8,
+                    "Narrative_DNA": 0.9,
+                    "Format_Affinities": 0.8,
+                    "Behavioral_Triggers": 0.8,
+                    "Conflict_Pairs": 0.9,
+                    "Memetic_Hooks": 0.9
+                },
+                {
+                    "id": "adhd-longing-for-understanding",
+                    "ECB_2_0": 0.9,
+                    "Neurobiological_Networks": 0.7,
+                    "Failure_Recovery_Arcs": 0.8,
+                    "Dynamic_Personas": 0.8,
+                    "Search_Intent_Graphs": 0.9,
+                    "Narrative_DNA": 0.9,
+                    "Format_Affinities": 0.8,
+                    "Behavioral_Triggers": 0.7,
+                    "Conflict_Pairs": 0.9,
+                    "Memetic_Hooks": 0.9
+                }
+            ]
+        },
+        {
+            "id": "adhd-hiding-true-self",
+            "connections": [
+                {
+                    "id": "adhd-fear-of-being-too-much",
+                    "ECB_2_0": 0.9,
+                    "Neurobiological_Networks": 0.7,
+                    "Failure_Recovery_Arcs": 0.9,
+                    "Dynamic_Personas": 0.9,
+                    "Search_Intent_Graphs": 0.9,
+                    "Narrative_DNA": 0.9,
+                    "Format_Affinities": 0.8,
+                    "Behavioral_Triggers": 0.9,
+                    "Conflict_Pairs": 0.9,
+                    "Memetic_Hooks": 0.9
+                },
+                {
+                    "id": "adhd-rejection-sensitivity",
+                    "ECB_2_0": 0.9,
+                    "Neurobiological_Networks": 0.8,
+                    "Failure_Recovery_Arcs": 0.9,
+                    "Dynamic_Personas": 0.8,
+                    "Search_Intent_Graphs": 0.8,
+                    "Narrative_DNA": 0.9,
+                    "Format_Affinities": 0.8,
+                    "Behavioral_Triggers": 0.9,
+                    "Conflict_Pairs": 0.9,
+                    "Memetic_Hooks": 0.9
+                },
+                {
+                    "id": "adhd-social-anxiety-layer",
+                    "ECB_2_0": 0.9,
+                    "Neurobiological_Networks": 0.8,
+                    "Failure_Recovery_Arcs": 0.9,
+                    "Dynamic_Personas": 0.9,
+                    "Search_Intent_Graphs": 0.9,
+                    "Narrative_DNA": 0.9,
+                    "Format_Affinities": 0.8,
+                    "Behavioral_Triggers": 0.9,
+                    "Conflict_Pairs": 0.9,
+                    "Memetic_Hooks": 0.9
+                }
+            ]
+        },
+        {
+            "id": "adhd-social-anxiety-layer",
+            "connections": [
+                {
+                    "id": "adhd-rejection-sensitivity",
+                    "ECB_2_0": 0.9,
+                    "Neurobiological_Networks": 0.8,
+                    "Failure_Recovery_Arcs": 0.9,
+                    "Dynamic_Personas": 0.9,
+                    "Search_Intent_Graphs": 0.9,
+                    "Narrative_DNA": 0.9,
+                    "Format_Affinities": 0.8,
+                    "Behavioral_Triggers": 0.9,
+                    "Conflict_Pairs": 0.9,
+                    "Memetic_Hooks": 0.9
+                },
+                {
+                    "id": "adhd-fear-of-being-too-much",
+                    "ECB_2_0": 0.9,
+                    "Neurobiological_Networks": 0.7,
+                    "Failure_Recovery_Arcs": 0.9,
+                    "Dynamic_Personas": 0.9,
+                    "Search_Intent_Graphs": 0.9,
+                    "Narrative_DNA": 0.9,
+                    "Format_Affinities": 0.8,
+                    "Behavioral_Triggers": 0.9,
+                    "Conflict_Pairs": 0.9,
+                    "Memetic_Hooks": 0.9
+                },
+                {
+                    "id": "adhd-hiding-true-self",
+                    "ECB_2_0": 0.9,
+                    "Neurobiological_Networks": 0.7,
+                    "Failure_Recovery_Arcs": 0.9,
+                    "Dynamic_Personas": 0.9,
+                    "Search_Intent_Graphs": 0.8,
+                    "Narrative_DNA": 0.9,
+                    "Format_Affinities": 0.8,
+                    "Behavioral_Triggers": 0.9,
+                    "Conflict_Pairs": 0.9,
+                    "Memetic_Hooks": 0.9
+                },
+                {
+                    "id": "adhd-constant-overthinking",
+                    "ECB_2_0": 0.8,
+                    "Neurobiological_Networks": 0.7,
+                    "Failure_Recovery_Arcs": 0.8,
+                    "Dynamic_Personas": 0.8,
+                    "Search_Intent_Graphs": 0.8,
+                    "Narrative_DNA": 0.8,
+                    "Format_Affinities": 0.7,
+                    "Behavioral_Triggers": 0.8,
+                    "Conflict_Pairs": 0.8,
+                    "Memetic_Hooks": 0.7
+                }
+            ]
+        },
+        {
+            "id": "adhd-fear-of-disconnection",
+            "connections": [
+                {
+                    "id": "adhd-rejection-sensitivity",
+                    "ECB_2_0": 0.9,
+                    "Neurobiological_Networks": 0.8,
+                    "Failure_Recovery_Arcs": 0.9,
+                    "Dynamic_Personas": 0.9,
+                    "Search_Intent_Graphs": 0.8,
+                    "Narrative_DNA": 0.9,
+                    "Format_Affinities": 0.8,
+                    "Behavioral_Triggers": 0.9,
+                    "Conflict_Pairs": 0.9,
+                    "Memetic_Hooks": 0.9
+                },
+                {
+                    "id": "adhd-loneliness-in-relationships",
+                    "ECB_2_0": 0.9,
+                    "Neurobiological_Networks": 0.8,
+                    "Failure_Recovery_Arcs": 0.9,
+                    "Dynamic_Personas": 0.9,
+                    "Search_Intent_Graphs": 0.8,
+                    "Narrative_DNA": 0.9,
+                    "Format_Affinities": 0.8,
+                    "Behavioral_Triggers": 0.9,
+                    "Conflict_Pairs": 0.9,
+                    "Memetic_Hooks": 0.9
+                },
+                {
+                    "id": "adhd-intense-emotions-alone",
+                    "ECB_2_0": 0.9,
+                    "Neurobiological_Networks": 0.8,
+                    "Failure_Recovery_Arcs": 0.8,
+                    "Dynamic_Personas": 0.9,
+                    "Search_Intent_Graphs": 0.7,
+                    "Narrative_DNA": 0.8,
+                    "Format_Affinities": 0.7,
+                    "Behavioral_Triggers": 0.9,
+                    "Conflict_Pairs": 0.9,
+                    "Memetic_Hooks": 0.8
+                }
+            ]
+        },
+        {
+            "id": "adhd-constant-overthinking",
+            "connections": [
+                {
+                    "id": "adhd-intense-emotions-alone",
+                    "ECB_2_0": 0.8,
+                    "Neurobiological_Networks": 0.7,
+                    "Failure_Recovery_Arcs": 0.8,
+                    "Dynamic_Personas": 0.8,
+                    "Search_Intent_Graphs": 0.7,
+                    "Narrative_DNA": 0.8,
+                    "Format_Affinities": 0.7,
+                    "Behavioral_Triggers": 0.8,
+                    "Conflict_Pairs": 0.8,
+                    "Memetic_Hooks": 0.7
+                },
+                {
+                    "id": "adhd-social-anxiety-layer",
+                    "ECB_2_0": 0.8,
+                    "Neurobiological_Networks": 0.7,
+                    "Failure_Recovery_Arcs": 0.8,
+                    "Dynamic_Personas": 0.8,
+                    "Search_Intent_Graphs": 0.8,
+                    "Narrative_DNA": 0.8,
+                    "Format_Affinities": 0.7,
+                    "Behavioral_Triggers": 0.8,
+                    "Conflict_Pairs": 0.8,
+                    "Memetic_Hooks": 0.7
+                }
+            ]
+        }
+    ]
+}

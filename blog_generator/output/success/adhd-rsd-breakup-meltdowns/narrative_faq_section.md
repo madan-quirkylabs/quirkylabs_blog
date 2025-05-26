@@ -1,48 +1,44 @@
 ## Frequently Asked Questions
 
-### Why does sensitive feel like the world is ending after a breakup?
+### Why does a breakup feel like the end of the world when you're sensitive and have ADHD?
 
-Dude, RSD (Rejection Sensitive Dysphoria) is a real thing. Your ADHD brain's reward system goes haywire when you feel rejected. It's like your brain is screaming, 'Error! Error!' and you're left feeling totally raw. It's not you, it's your brain. Pro tip: Journal your feelings – even the messy ones – to get them out of your head.
+Your brain's reward system goes haywire after a breakup, especially with ADHD. You're wired to crave connection, and rejection hits like a physical blow. The amygdala, your emotional processing center, goes into overdrive. It's like a super-sized emotional meltdown. Breathe, fam. You're not alone, and it's not your fault. Action tip: Try a comforting routine like a warm bath and your fave music.
 
-### Is it normal to feel completely devastated after a breakup with ADHD?
+### Is it normal to feel utterly devastated after a breakup with RSD?
 
-Absolutely, fam! Breakups are hard for everyone, but with ADHD and RSD, it's like a super-sized dose of heartbreak. You're not alone if you feel like you're drowning in a sea of feels. Remember, your feelings are valid, even if they feel overwhelming. It's okay to cry, scream into a pillow, and eat all the ice cream. Pro tip: Give yourself permission to grieve – no shame in the game.
+Absolutely. It's not just 'normal'; it's practically expected, especially if you're sensitive and have ADHD. Studies show folks with ADHD experience more breakups. Wymbs et al. (J Fam Psychol) found a higher rate of breakups in young adults with ADHD. You're not being dramatic; your brain is just extra sensitive to perceived rejection. Give yourself some grace, friend. Pro tip: Journal your feelings without judgment.
 
-### How can I survive the RSD meltdowns after a breakup?
+### How can I manage RSD meltdowns after a breakup when I'm super sensitive?
 
-First, breathe. Then, try to identify your triggers. Is it seeing their stuff? Hearing a certain song? Avoid those like the plague (at least for now). Focus on self-care. Think: walks, fave snacks, or a good cry. Remember, it's a marathon, not a sprint. Pro tip: Create a 'calm down' kit with things that soothe you – a blanket, essential oils, a comforting book.
+First, validate your feelings. Then, create a 'calm down' toolkit. This could include deep breathing exercises, a comforting playlist, or a safe person to vent to. Remember, it's okay to feel the feels. Research suggests that ADHD can contribute to relationship issues (Inanc et al., Int J Psychiatry Clin Pract). Action tip: Schedule short, frequent breaks during the day to check in with yourself.
 
-### Why does sensitive make me feel like I'm losing my mind after a breakup?
+### Why does RSD make me feel like I'm going to die after a breakup?
 
-Your brain's dopamine pathways are all messed up right now. Rejection hits the same brain areas as physical pain. Plus, Inanc et al. showed ADHD can lead to more relationship issues. Your brain is likely stuck in a fight-or-flight mode, so it's totally normal to feel anxious, confused, and like you're spiraling. Pro tip: Try a body scan meditation to bring you back to the present moment.
+Your brain perceives rejection as a threat, activating the same pain pathways as physical injury. With ADHD, this is amplified. You might experience intense emotional and even physical symptoms. It’s your body's way of saying, 'Danger!' It's a primal response. Remember, you're not actually dying. Action tip: Focus on small, manageable tasks to regain a sense of control.
 
-### Is it just me, or does sensitive make breakups feel like a personal failure?
+### Is it just me, or does every little thing feel like a HUGE deal after a breakup with RSD?
 
-Nope, it's not just you, friend! RSD can make you internalize the breakup as a reflection of your worth. You might beat yourself up over every perceived flaw. Remember, breakups happen for all sorts of reasons, and it's rarely all on you. You are worthy, even if it doesn't feel like it. Pro tip: Write down all your positive qualities to combat those negative thoughts.
+Nope, not just you! Your brain is on high alert, making every perceived slight feel monumental. Your sensitivity is heightened. You're not being 'too much'; your brain is just working overtime. Remember, Friedrichs et al. (J Affect Disord) found that ADHD is linked to relationship issues. Action tip: Try to zoom out and look at the bigger picture.
 
-### How do I stop the 'what ifs' and rumination after a breakup?
+### How can I stop spiraling into a RSD meltdown after a breakup?
 
-Ugh, the rumination monster! It's tough, but try to catch those thoughts. When you start replaying the breakup in your head, gently redirect your focus. Try a distracting activity, like a puzzle or a video game, or chat with a friend. It's a skill, and it takes practice. Pro tip: Set a 'worry time' – 15 minutes a day where you allow yourself to overthink, then move on.
+Grounding techniques are your best friend. When you feel the spiral starting, focus on your senses: What do you see, hear, smell, taste, and touch? Name five things you can see. Name four things you can touch. It interrupts the runaway train of thoughts. Action tip: Create a safe space where you feel secure and can retreat to when you need to decompress.
 
-### What's the deal with RSD and breakups? Is it always this intense?
+### Is it true that ADHD and breakups always lead to chaos and drama?
 
-Sadly, yes, breakups can be super intense with RSD. Wymbs et al. found that people with ADHD have more breakups. It’s because RSD makes you extra sensitive to perceived rejection. It's like your brain is on high alert for threats, and a breakup feels like a massive threat to your safety. Pro tip: Remember to treat yourself with compassion, and seek professional support if it's too much.
+Absolutely not! While ADHD can present challenges in relationships, it doesn't automatically doom you to drama. Research suggests that ADHD can contribute to relationship difficulties (Inanc et al.). Recognizing your triggers and developing coping mechanisms is key. You're not a failure; you're learning. Action tip: Focus on self-compassion and celebrate your progress, no matter how small.
 
-### Can I just un-see their profile on social media after a breakup?
+### What's the deal with the 'dumped and ghosted' feels after a breakup with RSD?
 
-Okay, real talk: unfollowing and muting is a superpower! Seeing their posts can trigger those RSD feels and make you spiral. It's not about being petty; it's about protecting your mental health. It's like ripping off a band-aid, but for your brain. You got this! Pro tip: Schedule social media breaks to avoid the temptation.
+Ghosting hits hard, especially if you're sensitive and have ADHD! It’s the ultimate rejection, triggering those RSD feels. Your brain craves closure and validation, and ghosting denies you that. It's a confusing and painful experience. Remember, their actions reflect on them, not you. Action tip: Remind yourself of your worth and avoid the urge to reach out.
 
-### Is ghosting like, the ultimate RSD trigger?
+### Why does my ADHD make me hyper-fixate on the breakup and overanalyze everything?
 
-OMG, YES! Ghosting is a total RSD nightmare. It's the ultimate rejection, and your brain doesn't get closure, leaving you to fill in the blanks with worst-case scenarios. Friedrichs et al. found that ADHD can be linked to relationship troubles. It's like a double whammy of pain. Pro tip: If you've been ghosted, remind yourself that their behavior says more about them than you.
+ADHD brains love to hyper-focus, and a breakup provides endless material. You're stuck in a loop, replaying conversations and searching for answers. It's your brain's way of trying to make sense of the chaos. This can be extra hard for sensitive folks. Know that this is a common trait. Action tip: Set time limits for ruminating and then engage in a distracting activity.
 
-### I'm feeling super sensitive, is it okay to reach out to my ex?
+### Okay, real talk: How do I 'get over it' after a breakup when I'm sensitive and have RSD?
 
-Whoa, hold up! While it’s tempting, reaching out might not be the best move right now, as it can delay your healing. It's like scratching a mosquito bite – it feels good for a sec, but then the itch comes back worse. Focus on yourself first and foremost. Pro tip: Write a letter to your ex (that you don't send) to get your feelings out.
-
-### Is it true that sensitive can make me act 'crazy' after a breakup?
-
-Unfortunately, yes, RSD can make you feel like you're losing it. You might say or do things you later regret because your emotions are on overdrive. It's not your fault; your brain is in survival mode. Remember, it's okay to apologize later when you are feeling better. Pro tip: Before reacting, take a deep breath and ask yourself if this is the hill you want to die on.
+There's no magic formula, but here's the tea: acknowledge your feelings, allow yourself to grieve, and practice self-care. This isn't a sprint; it's a marathon. Focus on building your own life and find healthy coping mechanisms. Remember, you're a work in progress! Action tip: Seek support from friends, family, or a therapist who understands ADHD and RSD.
 
 
 <script type="application/ld+json">
@@ -52,90 +48,82 @@ Unfortunately, yes, RSD can make you feel like you're losing it. You might say o
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Why does sensitive feel like the world is ending after a breakup?",
+      "name": "Why does a breakup feel like the end of the world when you're sensitive and have ADHD?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Dude, RSD (Rejection Sensitive Dysphoria) is a real thing. Your ADHD brain's reward system goes haywire when you feel rejected. It's like your brain is screaming, 'Error! Error!' and you're left feeling totally raw. It's not you, it's your brain. Pro tip: Journal your feelings \u2013 even the messy ones \u2013 to get them out of your head."
+        "text": "Your brain's reward system goes haywire after a breakup, especially with ADHD. You're wired to crave connection, and rejection hits like a physical blow. The amygdala, your emotional processing center, goes into overdrive. It's like a super-sized emotional meltdown. Breathe, fam. You're not alone, and it's not your fault. Action tip: Try a comforting routine like a warm bath and your fave music."
       }
     },
     {
       "@type": "Question",
-      "name": "Is it normal to feel completely devastated after a breakup with ADHD?",
+      "name": "Is it normal to feel utterly devastated after a breakup with RSD?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Absolutely, fam! Breakups are hard for everyone, but with ADHD and RSD, it's like a super-sized dose of heartbreak. You're not alone if you feel like you're drowning in a sea of feels. Remember, your feelings are valid, even if they feel overwhelming. It's okay to cry, scream into a pillow, and eat all the ice cream. Pro tip: Give yourself permission to grieve \u2013 no shame in the game."
+        "text": "Absolutely. It's not just 'normal'; it's practically expected, especially if you're sensitive and have ADHD. Studies show folks with ADHD experience more breakups. Wymbs et al. (J Fam Psychol) found a higher rate of breakups in young adults with ADHD. You're not being dramatic; your brain is just extra sensitive to perceived rejection. Give yourself some grace, friend. Pro tip: Journal your feelings without judgment."
       }
     },
     {
       "@type": "Question",
-      "name": "How can I survive the RSD meltdowns after a breakup?",
+      "name": "How can I manage RSD meltdowns after a breakup when I'm super sensitive?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "First, breathe. Then, try to identify your triggers. Is it seeing their stuff? Hearing a certain song? Avoid those like the plague (at least for now). Focus on self-care. Think: walks, fave snacks, or a good cry. Remember, it's a marathon, not a sprint. Pro tip: Create a 'calm down' kit with things that soothe you \u2013 a blanket, essential oils, a comforting book."
+        "text": "First, validate your feelings. Then, create a 'calm down' toolkit. This could include deep breathing exercises, a comforting playlist, or a safe person to vent to. Remember, it's okay to feel the feels. Research suggests that ADHD can contribute to relationship issues (Inanc et al., Int J Psychiatry Clin Pract). Action tip: Schedule short, frequent breaks during the day to check in with yourself."
       }
     },
     {
       "@type": "Question",
-      "name": "Why does sensitive make me feel like I'm losing my mind after a breakup?",
+      "name": "Why does RSD make me feel like I'm going to die after a breakup?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Your brain's dopamine pathways are all messed up right now. Rejection hits the same brain areas as physical pain. Plus, Inanc et al. showed ADHD can lead to more relationship issues. Your brain is likely stuck in a fight-or-flight mode, so it's totally normal to feel anxious, confused, and like you're spiraling. Pro tip: Try a body scan meditation to bring you back to the present moment."
+        "text": "Your brain perceives rejection as a threat, activating the same pain pathways as physical injury. With ADHD, this is amplified. You might experience intense emotional and even physical symptoms. It\u2019s your body's way of saying, 'Danger!' It's a primal response. Remember, you're not actually dying. Action tip: Focus on small, manageable tasks to regain a sense of control."
       }
     },
     {
       "@type": "Question",
-      "name": "Is it just me, or does sensitive make breakups feel like a personal failure?",
+      "name": "Is it just me, or does every little thing feel like a HUGE deal after a breakup with RSD?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Nope, it's not just you, friend! RSD can make you internalize the breakup as a reflection of your worth. You might beat yourself up over every perceived flaw. Remember, breakups happen for all sorts of reasons, and it's rarely all on you. You are worthy, even if it doesn't feel like it. Pro tip: Write down all your positive qualities to combat those negative thoughts."
+        "text": "Nope, not just you! Your brain is on high alert, making every perceived slight feel monumental. Your sensitivity is heightened. You're not being 'too much'; your brain is just working overtime. Remember, Friedrichs et al. (J Affect Disord) found that ADHD is linked to relationship issues. Action tip: Try to zoom out and look at the bigger picture."
       }
     },
     {
       "@type": "Question",
-      "name": "How do I stop the 'what ifs' and rumination after a breakup?",
+      "name": "How can I stop spiraling into a RSD meltdown after a breakup?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Ugh, the rumination monster! It's tough, but try to catch those thoughts. When you start replaying the breakup in your head, gently redirect your focus. Try a distracting activity, like a puzzle or a video game, or chat with a friend. It's a skill, and it takes practice. Pro tip: Set a 'worry time' \u2013 15 minutes a day where you allow yourself to overthink, then move on."
+        "text": "Grounding techniques are your best friend. When you feel the spiral starting, focus on your senses: What do you see, hear, smell, taste, and touch? Name five things you can see. Name four things you can touch. It interrupts the runaway train of thoughts. Action tip: Create a safe space where you feel secure and can retreat to when you need to decompress."
       }
     },
     {
       "@type": "Question",
-      "name": "What's the deal with RSD and breakups? Is it always this intense?",
+      "name": "Is it true that ADHD and breakups always lead to chaos and drama?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Sadly, yes, breakups can be super intense with RSD. Wymbs et al. found that people with ADHD have more breakups. It\u2019s because RSD makes you extra sensitive to perceived rejection. It's like your brain is on high alert for threats, and a breakup feels like a massive threat to your safety. Pro tip: Remember to treat yourself with compassion, and seek professional support if it's too much."
+        "text": "Absolutely not! While ADHD can present challenges in relationships, it doesn't automatically doom you to drama. Research suggests that ADHD can contribute to relationship difficulties (Inanc et al.). Recognizing your triggers and developing coping mechanisms is key. You're not a failure; you're learning. Action tip: Focus on self-compassion and celebrate your progress, no matter how small."
       }
     },
     {
       "@type": "Question",
-      "name": "Can I just un-see their profile on social media after a breakup?",
+      "name": "What's the deal with the 'dumped and ghosted' feels after a breakup with RSD?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Okay, real talk: unfollowing and muting is a superpower! Seeing their posts can trigger those RSD feels and make you spiral. It's not about being petty; it's about protecting your mental health. It's like ripping off a band-aid, but for your brain. You got this! Pro tip: Schedule social media breaks to avoid the temptation."
+        "text": "Ghosting hits hard, especially if you're sensitive and have ADHD! It\u2019s the ultimate rejection, triggering those RSD feels. Your brain craves closure and validation, and ghosting denies you that. It's a confusing and painful experience. Remember, their actions reflect on them, not you. Action tip: Remind yourself of your worth and avoid the urge to reach out."
       }
     },
     {
       "@type": "Question",
-      "name": "Is ghosting like, the ultimate RSD trigger?",
+      "name": "Why does my ADHD make me hyper-fixate on the breakup and overanalyze everything?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "OMG, YES! Ghosting is a total RSD nightmare. It's the ultimate rejection, and your brain doesn't get closure, leaving you to fill in the blanks with worst-case scenarios. Friedrichs et al. found that ADHD can be linked to relationship troubles. It's like a double whammy of pain. Pro tip: If you've been ghosted, remind yourself that their behavior says more about them than you."
+        "text": "ADHD brains love to hyper-focus, and a breakup provides endless material. You're stuck in a loop, replaying conversations and searching for answers. It's your brain's way of trying to make sense of the chaos. This can be extra hard for sensitive folks. Know that this is a common trait. Action tip: Set time limits for ruminating and then engage in a distracting activity."
       }
     },
     {
       "@type": "Question",
-      "name": "I'm feeling super sensitive, is it okay to reach out to my ex?",
+      "name": "Okay, real talk: How do I 'get over it' after a breakup when I'm sensitive and have RSD?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Whoa, hold up! While it\u2019s tempting, reaching out might not be the best move right now, as it can delay your healing. It's like scratching a mosquito bite \u2013 it feels good for a sec, but then the itch comes back worse. Focus on yourself first and foremost. Pro tip: Write a letter to your ex (that you don't send) to get your feelings out."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is it true that sensitive can make me act 'crazy' after a breakup?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Unfortunately, yes, RSD can make you feel like you're losing it. You might say or do things you later regret because your emotions are on overdrive. It's not your fault; your brain is in survival mode. Remember, it's okay to apologize later when you are feeling better. Pro tip: Before reacting, take a deep breath and ask yourself if this is the hill you want to die on."
+        "text": "There's no magic formula, but here's the tea: acknowledge your feelings, allow yourself to grieve, and practice self-care. This isn't a sprint; it's a marathon. Focus on building your own life and find healthy coping mechanisms. Remember, you're a work in progress! Action tip: Seek support from friends, family, or a therapist who understands ADHD and RSD."
       }
     }
   ]

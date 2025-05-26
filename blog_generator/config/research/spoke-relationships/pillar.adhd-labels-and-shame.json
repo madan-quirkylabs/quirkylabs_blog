@@ -1,0 +1,2654 @@
+{
+    "pillar_slug": "adhd-labels-and-shame",
+    "pillar_title": "Living Under the Label: Stupid, Lazy, or Just ADHD?",
+    "spokes": [
+        {
+            "id": "adhd-feel-dumb",
+            "title": "Why ADHD Makes You Feel Dumb, Even When You're Not",
+            "description": "Explores the deep-seated feelings of inadequacy, low confidence, and self-doubt that arise from ADHD challenges, often leading to harsh self-criticism and identity issues.",
+            "manifestations": [
+                "Self-criticism and fixation on perceived mistakes",
+                "Feeling inadequate and low confidence",
+                "Struggles with emotional regulation, impulsivity, and social interactions leading to self-doubt",
+                "Withdrawing or isolating due to shame",
+                "Difficulty saying 'no' due to a desire to please"
+            ],
+            "psychological_underpinnings": [
+                "Emotional dysregulation and impulsivity",
+                "Executive function deficits making it difficult to meet expectations",
+                "Rejection sensitivity, leading to perceived inadequacy",
+                "Constant comparison to neurotypical peers"
+            ],
+            "neurobiological_mechanisms": [
+                "Dysregulation of dopaminergic signaling impacting emotional regulation and reward processing",
+                "Differences in prefrontal cortex affecting executive functioning and self-regulation",
+                "Atypical functioning in amygdala and prefrontal cortex for emotional regulation"
+            ],
+            "connections": [
+                {
+                    "id": "adhd-feel-lazy",
+                    "ECB 2.0": 0.7,
+                    "Neurobiological Networks": 0.6,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.7,
+                    "Search Intent Graphs": 0.7,
+                    "Narrative DNA": 0.6,
+                    "Format Affinities": 0.5,
+                    "Behavioral Triggers": 0.7,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.7
+                },
+                {
+                    "id": "adhd-people-think-im-stupid",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.5,
+                    "Failure/Recovery Arcs": 0.7,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.8,
+                    "Narrative DNA": 0.7,
+                    "Format Affinities": 0.6,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.9,
+                    "Memetic Hooks": 0.8
+                },
+                {
+                    "id": "adhd-low-self-worth",
+                    "ECB 2.0": 0.9,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.9,
+                    "Dynamic Personas": 0.9,
+                    "Search Intent Graphs": 0.9,
+                    "Narrative DNA": 0.9,
+                    "Format Affinities": 0.8,
+                    "Behavioral Triggers": 0.9,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.9
+                },
+                {
+                    "id": "adhd-constant-self-doubt",
+                    "ECB 2.0": 0.9,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.9,
+                    "Dynamic Personas": 0.9,
+                    "Search Intent Graphs": 0.9,
+                    "Narrative DNA": 0.9,
+                    "Format Affinities": 0.8,
+                    "Behavioral Triggers": 0.9,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.9
+                },
+                {
+                    "id": "adhd-fear-of-looking-dumb",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.6,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.9,
+                    "Narrative DNA": 0.8,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.9,
+                    "Conflict Pairs": 0.9,
+                    "Memetic Hooks": 0.8
+                }
+            ]
+        },
+        {
+            "id": "adhd-feel-lazy",
+            "title": "The 'Lazy' Label: When It's Really Just ADHD",
+            "description": "Explores how challenges with motivation, organization, and task completion are misinterpreted as laziness, leading to profound guilt, shame, and a negative self-view.",
+            "manifestations": [
+                "Difficulty with motivation for routine tasks",
+                "Challenges meeting deadlines, staying organized, finishing tasks",
+                "Perceived failure and social challenges (e.g., interrupting)",
+                "Self-criticism and negative self-talk"
+            ],
+            "psychological_underpinnings": [
+                "Executive dysfunction (motivation, organization)",
+                "Chronic sense of underachievement despite efforts",
+                "Internalized guilt and shame from external criticism"
+            ],
+            "neurobiological_mechanisms": [
+                "Dysregulation of dopaminergic signaling impacting motivation and reward pathways",
+                "Differences in prefrontal cortex affecting task initiation and sustained effort",
+                "Time-blindness affecting ability to estimate and manage task completion"
+            ],
+            "connections": [
+                {
+                    "id": "adhd-feel-dumb",
+                    "ECB 2.0": 0.7,
+                    "Neurobiological Networks": 0.6,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.7,
+                    "Search Intent Graphs": 0.7,
+                    "Narrative DNA": 0.6,
+                    "Format Affinities": 0.5,
+                    "Behavioral Triggers": 0.7,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.7
+                },
+                {
+                    "id": "adhd-people-think-im-stupid",
+                    "ECB 2.0": 0.7,
+                    "Neurobiological Networks": 0.5,
+                    "Failure/Recovery Arcs": 0.6,
+                    "Dynamic Personas": 0.7,
+                    "Search Intent Graphs": 0.7,
+                    "Narrative DNA": 0.6,
+                    "Format Affinities": 0.5,
+                    "Behavioral Triggers": 0.7,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.7
+                },
+                {
+                    "id": "adhd-low-self-worth",
+                    "ECB 2.0": 0.9,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.9,
+                    "Dynamic Personas": 0.9,
+                    "Search Intent Graphs": 0.9,
+                    "Narrative DNA": 0.9,
+                    "Format Affinities": 0.8,
+                    "Behavioral Triggers": 0.9,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.9
+                },
+                {
+                    "id": "adhd-constant-self-doubt",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.6,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.8,
+                    "Narrative DNA": 0.7,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.7,
+                    "Memetic Hooks": 0.8
+                },
+                {
+                    "id": "adhd-failure-identity",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.6,
+                    "Failure/Recovery Arcs": 0.9,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.7,
+                    "Narrative DNA": 0.8,
+                    "Format Affinities": 0.6,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.7,
+                    "Memetic Hooks": 0.7
+                }
+            ]
+        },
+        {
+            "id": "adhd-people-think-im-stupid",
+            "title": "When Others Think You're Stupid: Navigating ADHD and External Judgment",
+            "description": "Addresses the intense emotional pain and self-perception issues arising from the belief that others view individuals with ADHD as unintelligent or incompetent, often amplified by rejection sensitivity.",
+            "manifestations": [
+                "Anticipating frustration or disappointment from others",
+                "Believing self-statements like 'I am clumsy, stupid, lazy'",
+                "Difficulty trusting others due to past judgment"
+            ],
+            "psychological_underpinnings": [
+                "Rejection Sensitivity Dysphoria (RSD)",
+                "Cognitive distortions (e.g., catastrophizing, all-or-nothing thinking)",
+                "Internalization of years of feeling judged and dismissed"
+            ],
+            "neurobiological_mechanisms": [
+                "Overreaction of the HPA axis to perceived rejection",
+                "Lower dopamine levels impacting emotional balance and increasing sensitivity to negative feedback",
+                "Less filtering in the brain's communication center, leading to quicker, heightened emotional reactions"
+            ],
+            "connections": [
+                {
+                    "id": "adhd-feel-dumb",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.5,
+                    "Failure/Recovery Arcs": 0.7,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.8,
+                    "Narrative DNA": 0.7,
+                    "Format Affinities": 0.6,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.9,
+                    "Memetic Hooks": 0.8
+                },
+                {
+                    "id": "adhd-fear-of-judgment",
+                    "ECB 2.0": 0.9,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.9,
+                    "Search Intent Graphs": 0.9,
+                    "Narrative DNA": 0.8,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.9,
+                    "Conflict Pairs": 0.9,
+                    "Memetic Hooks": 0.9
+                },
+                {
+                    "id": "adhd-fear-of-looking-dumb",
+                    "ECB 2.0": 0.9,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.9,
+                    "Dynamic Personas": 0.9,
+                    "Search Intent Graphs": 0.9,
+                    "Narrative DNA": 0.9,
+                    "Format Affinities": 0.8,
+                    "Behavioral Triggers": 0.9,
+                    "Conflict Pairs": 0.9,
+                    "Memetic Hooks": 0.9
+                },
+                {
+                    "id": "adhd-low-self-worth",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.6,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.8,
+                    "Narrative DNA": 0.7,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.8
+                },
+                {
+                    "id": "adhd-internalized-ableism",
+                    "ECB 2.0": 0.7,
+                    "Neurobiological Networks": 0.6,
+                    "Failure/Recovery Arcs": 0.7,
+                    "Dynamic Personas": 0.7,
+                    "Search Intent Graphs": 0.6,
+                    "Narrative DNA": 0.7,
+                    "Format Affinities": 0.6,
+                    "Behavioral Triggers": 0.7,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.7
+                }
+            ]
+        },
+        {
+            "id": "adhd-internalized-ableism",
+            "title": "The Invisible Chains: Unpacking ADHD Internalized Ableism",
+            "description": "Examines how societal biases and expectations lead individuals with ADHD to internalize negative beliefs about their own neurotype, resulting in self-doubt, shame, and a tendency to hide their struggles.",
+            "manifestations": [
+                "Self-doubt and confusion about capabilities",
+                "Believing damaging labels ('lazy,' 'stupid,' 'too much')",
+                "Hiding struggles out of shame",
+                "Perfectionism and people-pleasing as overcompensation",
+                "Resistance to seeking help ('I should figure it out alone')"
+            ],
+            "psychological_underpinnings": [
+                "Internalization of societal biases and expectations",
+                "The 'ADHD Shadow' – a painful internal narrative formed before diagnosis",
+                "Mistaking societal expectations for one's own capabilities"
+            ],
+            "neurobiological_mechanisms": [
+                "Impact of chronic stress (from masking/hiding) on brain function",
+                "Potential for neuroplastic changes reinforcing negative self-beliefs",
+                "HPA axis dysregulation from continuous perceived threat/judgment"
+            ],
+            "connections": [
+                {
+                    "id": "adhd-low-self-worth",
+                    "ECB 2.0": 0.9,
+                    "Neurobiological Networks": 0.8,
+                    "Failure/Recovery Arcs": 0.9,
+                    "Dynamic Personas": 0.9,
+                    "Search Intent Graphs": 0.9,
+                    "Narrative DNA": 0.9,
+                    "Format Affinities": 0.8,
+                    "Behavioral Triggers": 0.9,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.9
+                },
+                {
+                    "id": "adhd-fear-of-being-seen",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.7,
+                    "Narrative DNA": 0.8,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.9,
+                    "Memetic Hooks": 0.8
+                },
+                {
+                    "id": "adhd-constant-self-doubt",
+                    "ECB 2.0": 0.9,
+                    "Neurobiological Networks": 0.8,
+                    "Failure/Recovery Arcs": 0.9,
+                    "Dynamic Personas": 0.9,
+                    "Search Intent Graphs": 0.9,
+                    "Narrative DNA": 0.9,
+                    "Format Affinities": 0.8,
+                    "Behavioral Triggers": 0.9,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.9
+                },
+                {
+                    "id": "adhd-working-to-prove-worth",
+                    "ECB 2.0": 0.7,
+                    "Neurobiological Networks": 0.6,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.7,
+                    "Search Intent Graphs": 0.6,
+                    "Narrative DNA": 0.7,
+                    "Format Affinities": 0.6,
+                    "Behavioral Triggers": 0.7,
+                    "Conflict Pairs": 0.7,
+                    "Memetic Hooks": 0.7
+                },
+                {
+                    "id": "adhd-failure-identity",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.9,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.7,
+                    "Narrative DNA": 0.8,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.8
+                }
+            ]
+        },
+        {
+            "id": "adhd-childhood-labels",
+            "title": "The Echo of Childhood: Unpacking ADHD Labels That Stick",
+            "description": "Examines how early negative labels ('lazy,' 'disruptive') influence self-perception, contribute to low self-esteem, and foster an internalized sense of being fundamentally flawed in individuals with ADHD.",
+            "manifestations": [
+                "Being labeled 'lazy,' 'disruptive,' 'underachieving' at school",
+                "Being labeled 'forgetful,' 'unmotivated,' 'disorganized' at home",
+                "Internalizing negative messages and seeing oneself as flawed",
+                "Developing perfectionism or self-criticism as a coping mechanism"
+            ],
+            "psychological_underpinnings": [
+                "Misunderstanding of ADHD symptoms leading to frequent negative feedback",
+                "Learned helplessness from repeated perceived failures",
+                "Rejection Sensitivity Dysphoria amplifying impact of criticism"
+            ],
+            "neurobiological_mechanisms": [
+                "Chronic stress from negative feedback impacting developing brain (HPA axis)",
+                "Reinforcement of negative neural pathways related to self-perception",
+                "Heightened amygdala activity in response to social threats"
+            ],
+            "connections": [
+                {
+                    "id": "adhd-carrying-school-shame",
+                    "ECB 2.0": 0.9,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.9,
+                    "Dynamic Personas": 0.9,
+                    "Search Intent Graphs": 0.9,
+                    "Narrative DNA": 0.9,
+                    "Format Affinities": 0.8,
+                    "Behavioral Triggers": 0.9,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.9
+                },
+                {
+                    "id": "adhd-low-self-worth",
+                    "ECB 2.0": 0.9,
+                    "Neurobiological Networks": 0.8,
+                    "Failure/Recovery Arcs": 0.9,
+                    "Dynamic Personas": 0.9,
+                    "Search Intent Graphs": 0.9,
+                    "Narrative DNA": 0.9,
+                    "Format Affinities": 0.8,
+                    "Behavioral Triggers": 0.9,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.9
+                },
+                {
+                    "id": "adhd-bad-kid-label",
+                    "ECB 2.0": 0.9,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.9,
+                    "Search Intent Graphs": 0.9,
+                    "Narrative DNA": 0.8,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.9,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.9
+                },
+                {
+                    "id": "adhd-trauma-from-teachers",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.7,
+                    "Narrative DNA": 0.8,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.8
+                },
+                {
+                    "id": "adhd-always-in-trouble",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.6,
+                    "Failure/Recovery Arcs": 0.7,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.7,
+                    "Narrative DNA": 0.7,
+                    "Format Affinities": 0.6,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.7,
+                    "Memetic Hooks": 0.8
+                }
+            ]
+        },
+        {
+            "id": "adhd-carrying-school-shame",
+            "title": "The Backpack of Shame: ADHD and the Legacy of School Struggles",
+            "description": "Focuses on the lasting impact of shame experienced in academic settings due to ADHD, contributing to internalized failure, avoidance behaviors, and emotional distress.",
+            "manifestations": [
+                "Avoidance of challenging tasks and social interactions",
+                "Disruptive behaviors as defense mechanisms",
+                "Disengagement from learning",
+                "Heightened stress and anxiety in academic settings"
+            ],
+            "psychological_underpinnings": [
+                "Internalization of failure due to nonconformity and negative feedback",
+                "Rejection sensitivity amplifying impact of teacher/peer reactions",
+                "Fear of judgment and anticipated negative reactions"
+            ],
+            "neurobiological_mechanisms": [
+                "Chronic activation of stress response (HPA axis) in school environment",
+                "Impact on executive functions (e.g., working memory, inhibition) due to anxiety",
+                "Sensory overwhelm in classroom setting leading to dysregulation"
+            ],
+            "connections": [
+                {
+                    "id": "adhd-childhood-labels",
+                    "ECB 2.0": 0.9,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.9,
+                    "Dynamic Personas": 0.9,
+                    "Search Intent Graphs": 0.9,
+                    "Narrative DNA": 0.9,
+                    "Format Affinities": 0.8,
+                    "Behavioral Triggers": 0.9,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.9
+                },
+                {
+                    "id": "adhd-low-self-worth",
+                    "ECB 2.0": 0.9,
+                    "Neurobiological Networks": 0.8,
+                    "Failure/Recovery Arcs": 0.9,
+                    "Dynamic Personas": 0.9,
+                    "Search Intent Graphs": 0.9,
+                    "Narrative DNA": 0.9,
+                    "Format Affinities": 0.8,
+                    "Behavioral Triggers": 0.9,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.9
+                },
+                {
+                    "id": "adhd-trauma-from-teachers",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.7,
+                    "Narrative DNA": 0.8,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.8
+                },
+                {
+                    "id": "adhd-fear-of-judgment",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.8,
+                    "Narrative DNA": 0.7,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.8
+                },
+                {
+                    "id": "adhd-silent-struggles",
+                    "ECB 2.0": 0.7,
+                    "Neurobiological Networks": 0.6,
+                    "Failure/Recovery Arcs": 0.7,
+                    "Dynamic Personas": 0.7,
+                    "Search Intent Graphs": 0.6,
+                    "Narrative DNA": 0.6,
+                    "Format Affinities": 0.6,
+                    "Behavioral Triggers": 0.7,
+                    "Conflict Pairs": 0.7,
+                    "Memetic Hooks": 0.6
+                }
+            ]
+        },
+        {
+            "id": "adhd-low-self-worth",
+            "title": "Undoing the Damage: Rebuilding Self-Worth with ADHD",
+            "description": "Explores the profound impact of ADHD on self-worth, leading to persistent feelings of inadequacy, self-criticism, and a diminished sense of value, often stemming from lifelong struggles and criticism.",
+            "manifestations": [
+                "Self-blame, poor self-esteem, feelings of inadequacy",
+                "Self-criticism and perfectionistic tendencies",
+                "Difficulty saying 'no' and withdrawing/isolating",
+                "Negative self-image and feeling like a fraud"
+            ],
+            "psychological_underpinnings": [
+                "Frequent criticism and invalidating environments",
+                "Challenges with memory, organization, concentration, time-blindness",
+                "Interpersonal struggles and emotional dysregulation",
+                "Rejection sensitivity"
+            ],
+            "neurobiological_mechanisms": [
+                "Dysregulation of the brain's reward system (dopamine) impacting sense of accomplishment",
+                "Chronic stress and HPA axis dysregulation impacting mood and self-perception",
+                "Neuroplastic changes reinforcing negative self-beliefs over time"
+            ],
+            "connections": [
+                {
+                    "id": "adhd-feel-dumb",
+                    "ECB 2.0": 0.9,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.9,
+                    "Dynamic Personas": 0.9,
+                    "Search Intent Graphs": 0.9,
+                    "Narrative DNA": 0.9,
+                    "Format Affinities": 0.8,
+                    "Behavioral Triggers": 0.9,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.9
+                },
+                {
+                    "id": "adhd-feel-lazy",
+                    "ECB 2.0": 0.9,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.9,
+                    "Dynamic Personas": 0.9,
+                    "Search Intent Graphs": 0.9,
+                    "Narrative DNA": 0.9,
+                    "Format Affinities": 0.8,
+                    "Behavioral Triggers": 0.9,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.9
+                },
+                {
+                    "id": "adhd-internalized-ableism",
+                    "ECB 2.0": 0.9,
+                    "Neurobiological Networks": 0.8,
+                    "Failure/Recovery Arcs": 0.9,
+                    "Dynamic Personas": 0.9,
+                    "Search Intent Graphs": 0.9,
+                    "Narrative DNA": 0.9,
+                    "Format Affinities": 0.8,
+                    "Behavioral Triggers": 0.9,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.9
+                },
+                {
+                    "id": "adhd-constant-self-doubt",
+                    "ECB 2.0": 0.9,
+                    "Neurobiological Networks": 0.8,
+                    "Failure/Recovery Arcs": 0.9,
+                    "Dynamic Personas": 0.9,
+                    "Search Intent Graphs": 0.9,
+                    "Narrative DNA": 0.9,
+                    "Format Affinities": 0.8,
+                    "Behavioral Triggers": 0.9,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.9
+                },
+                {
+                    "id": "adhd-failure-identity",
+                    "ECB 2.0": 0.9,
+                    "Neurobiological Networks": 0.8,
+                    "Failure/Recovery Arcs": 0.9,
+                    "Dynamic Personas": 0.9,
+                    "Search Intent Graphs": 0.9,
+                    "Narrative DNA": 0.9,
+                    "Format Affinities": 0.8,
+                    "Behavioral Triggers": 0.9,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.9
+                },
+                {
+                    "id": "adhd-never-good-enough",
+                    "ECB 2.0": 0.9,
+                    "Neurobiological Networks": 0.8,
+                    "Failure/Recovery Arcs": 0.9,
+                    "Dynamic Personas": 0.9,
+                    "Search Intent Graphs": 0.9,
+                    "Narrative DNA": 0.9,
+                    "Format Affinities": 0.8,
+                    "Behavioral Triggers": 0.9,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.9
+                }
+            ]
+        },
+        {
+            "id": "adhd-always-in-trouble",
+            "title": "The 'Always in Trouble' Trap: How ADHD Leads to Constant Criticism",
+            "description": "Investigates how ADHD symptoms lead to frequent negative feedback and consequences, fostering a deep sense of embarrassment, unworthiness, and a belief in inherent flaw despite intentions.",
+            "manifestations": [
+                "Repeated failures or difficulties in various aspects of life",
+                "Social withdrawal and procrastination",
+                "Decreased motivation and relationship strain",
+                "Avoidance behaviors to cope with anticipated negative outcomes"
+            ],
+            "psychological_underpinnings": [
+                "ADHD symptoms leading to actions that break social expectations (e.g., interrupting)",
+                "Frequent criticism and internalizing struggles as personal failures",
+                "Emotional dysregulation and rejection sensitivity"
+            ],
+            "neurobiological_mechanisms": [
+                "Dysfunction in impulse control and emotional regulation pathways",
+                "Lower dopamine activity affecting reward processing and motivation, leading to risk-taking or withdrawal",
+                "Chronic stress response (HPA axis) due to repeated negative experiences"
+            ],
+            "connections": [
+                {
+                    "id": "adhd-childhood-labels",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.6,
+                    "Failure/Recovery Arcs": 0.7,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.7,
+                    "Narrative DNA": 0.7,
+                    "Format Affinities": 0.6,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.7,
+                    "Memetic Hooks": 0.8
+                },
+                {
+                    "id": "adhd-labeled-as-disruptive",
+                    "ECB 2.0": 0.9,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.9,
+                    "Search Intent Graphs": 0.8,
+                    "Narrative DNA": 0.8,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.9,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.9
+                },
+                {
+                    "id": "adhd-fear-of-judgment",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.8,
+                    "Narrative DNA": 0.7,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.8
+                },
+                {
+                    "id": "adhd-low-self-worth",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.6,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.8,
+                    "Narrative DNA": 0.7,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.8
+                },
+                {
+                    "id": "adhd-bad-kid-label",
+                    "ECB 2.0": 0.9,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.9,
+                    "Search Intent Graphs": 0.9,
+                    "Narrative DNA": 0.8,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.9,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.9
+                }
+            ]
+        },
+        {
+            "id": "adhd-never-good-enough",
+            "title": "The 'Never Good Enough' Syndrome: ADHD and the Pursuit of Perfection",
+            "description": "Delves into the relentless feeling of inadequacy despite accomplishments, often driven by imposter syndrome, perfectionism, and a deep-seated belief of fundamental deficiency.",
+            "manifestations": [
+                "Working twice as hard, making more mistakes",
+                "Hiding struggles and imposter syndrome",
+                "Constant self-doubt and endlessly working on overdrive",
+                "Rejecting praise and depending on others for validation"
+            ],
+            "psychological_underpinnings": [
+                "Belief that successes are due to external factors (luck)",
+                "Fear of being 'found out as a fraud'",
+                "Underlying guilt and shame, core belief of deficiency",
+                "Sensitivity to criticism (RSD) and all-or-nothing thinking"
+            ],
+            "neurobiological_mechanisms": [
+                "Dysregulated reward pathways (dopamine) making internal validation difficult",
+                "Differences in cognitive flexibility impacting ability to adjust self-perception",
+                "Chronic stress and anxiety impacting self-worth neural circuits"
+            ],
+            "connections": [
+                {
+                    "id": "adhd-low-self-worth",
+                    "ECB 2.0": 0.9,
+                    "Neurobiological Networks": 0.8,
+                    "Failure/Recovery Arcs": 0.9,
+                    "Dynamic Personas": 0.9,
+                    "Search Intent Graphs": 0.9,
+                    "Narrative DNA": 0.9,
+                    "Format Affinities": 0.8,
+                    "Behavioral Triggers": 0.9,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.9
+                },
+                {
+                    "id": "adhd-working-to-prove-worth",
+                    "ECB 2.0": 0.9,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.9,
+                    "Dynamic Personas": 0.9,
+                    "Search Intent Graphs": 0.8,
+                    "Narrative DNA": 0.8,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.9,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.9
+                },
+                {
+                    "id": "adhd-constant-self-doubt",
+                    "ECB 2.0": 0.9,
+                    "Neurobiological Networks": 0.8,
+                    "Failure/Recovery Arcs": 0.9,
+                    "Dynamic Personas": 0.9,
+                    "Search Intent Graphs": 0.9,
+                    "Narrative DNA": 0.9,
+                    "Format Affinities": 0.8,
+                    "Behavioral Triggers": 0.9,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.9
+                },
+                {
+                    "id": "adhd-imposter-syndrome",
+                    "ECB 2.0": 0.9,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.9,
+                    "Dynamic Personas": 0.9,
+                    "Search Intent Graphs": 0.8,
+                    "Narrative DNA": 0.8,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.9,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.9
+                },
+                {
+                    "id": "adhd-perfectionism",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.9,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.8,
+                    "Narrative DNA": 0.7,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.9,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.8
+                }
+            ]
+        },
+        {
+            "id": "adhd-failure-identity",
+            "title": "Breaking the Mold: Escaping an ADHD Failure Identity",
+            "description": "Explores how repeated experiences of failure and external criticism can lead to a deeply ingrained sense of self as a 'failure,' fostering shame, self-hatred, and a disconnect from one's authentic self.",
+            "manifestations": [
+                "Deeply ingrained shame and self-hatred",
+                "Belief that something is fundamentally wrong with them",
+                "Feeling alienated/disconnected from true selves",
+                "Resistance to self-compassion/self-acceptance"
+            ],
+            "psychological_underpinnings": [
+                "Repeated experiences of failure/criticism",
+                "External judgment morphing into internalized shame",
+                "Constant struggle to meet external expectations ('I am broken' belief)"
+            ],
+            "neurobiological_mechanisms": [
+                "Chronic stress responses leading to amygdala sensitization and heightened emotional reactivity",
+                "Impaired self-perception due to altered neural pathways related to self-referential processing",
+                "Dysfunction in reward pathways hindering development of positive self-reinforcement"
+            ],
+            "connections": [
+                {
+                    "id": "adhd-low-self-worth",
+                    "ECB 2.0": 0.9,
+                    "Neurobiological Networks": 0.8,
+                    "Failure/Recovery Arcs": 0.9,
+                    "Dynamic Personas": 0.9,
+                    "Search Intent Graphs": 0.9,
+                    "Narrative DNA": 0.9,
+                    "Format Affinities": 0.8,
+                    "Behavioral Triggers": 0.9,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.9
+                },
+                {
+                    "id": "adhd-internalized-ableism",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.9,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.7,
+                    "Narrative DNA": 0.8,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.8
+                },
+                {
+                    "id": "adhd-constant-self-doubt",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.9,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.8,
+                    "Narrative DNA": 0.8,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.8
+                },
+                {
+                    "id": "adhd-shame-spiral",
+                    "ECB 2.0": 0.9,
+                    "Neurobiological Networks": 0.8,
+                    "Failure/Recovery Arcs": 0.9,
+                    "Dynamic Personas": 0.9,
+                    "Search Intent Graphs": 0.8,
+                    "Narrative DNA": 0.9,
+                    "Format Affinities": 0.8,
+                    "Behavioral Triggers": 0.9,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.9
+                },
+                {
+                    "id": "adhd-toxic-shame",
+                    "ECB 2.0": 0.9,
+                    "Neurobiological Networks": 0.8,
+                    "Failure/Recovery Arcs": 0.9,
+                    "Dynamic Personas": 0.9,
+                    "Search Intent Graphs": 0.8,
+                    "Narrative DNA": 0.9,
+                    "Format Affinities": 0.8,
+                    "Behavioral Triggers": 0.9,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.9
+                }
+            ]
+        },
+        {
+            "id": "adhd-trauma-from-teachers",
+            "title": "Teacher Trauma: Healing from Educational Wounds with ADHD",
+            "description": "Explores how negative experiences with teachers, often due to misunderstanding ADHD symptoms, can lead to a sense of shame, self-loathing, defectiveness, and hypervigilance in individuals with ADHD.",
+            "manifestations": [
+                "Difficulty concentrating, poor memory, emotional dysregulation (overlapping with ADHD symptoms)",
+                "Hypervigilance and frantic learning systems to prevent criticism",
+                "Anxiety/adrenaline for task focus",
+                "Being labeled 'dramatic' or 'overly-sensitive'"
+            ],
+            "psychological_underpinnings": [
+                "Higher frequency of traumatic experiences in ADHDers",
+                "Caregivers/teachers misunderstanding ADHD differences",
+                "Deep sense of shame, self-loathing, and defectiveness"
+            ],
+            "neurobiological_mechanisms": [
+                "Chronic activation of the HPA axis due to ongoing stress/criticism",
+                "Impact on developing brain regions responsible for emotional regulation and executive functions",
+                "Heightened amygdala response to perceived threats, leading to hypervigilance"
+            ],
+            "connections": [
+                {
+                    "id": "adhd-childhood-labels",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.7,
+                    "Narrative DNA": 0.8,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.8
+                },
+                {
+                    "id": "adhd-carrying-school-shame",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.7,
+                    "Narrative DNA": 0.8,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.8
+                },
+                {
+                    "id": "adhd-low-self-worth",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.7,
+                    "Narrative DNA": 0.8,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.8
+                },
+                {
+                    "id": "adhd-fear-of-judgment",
+                    "ECB 2.0": 0.7,
+                    "Neurobiological Networks": 0.6,
+                    "Failure/Recovery Arcs": 0.7,
+                    "Dynamic Personas": 0.7,
+                    "Search Intent Graphs": 0.7,
+                    "Narrative DNA": 0.6,
+                    "Format Affinities": 0.6,
+                    "Behavioral Triggers": 0.7,
+                    "Conflict Pairs": 0.7,
+                    "Memetic Hooks": 0.7
+                },
+                {
+                    "id": "adhd-silent-struggles",
+                    "ECB 2.0": 0.7,
+                    "Neurobiological Networks": 0.6,
+                    "Failure/Recovery Arcs": 0.7,
+                    "Dynamic Personas": 0.7,
+                    "Search Intent Graphs": 0.6,
+                    "Narrative DNA": 0.6,
+                    "Format Affinities": 0.6,
+                    "Behavioral Triggers": 0.7,
+                    "Conflict Pairs": 0.7,
+                    "Memetic Hooks": 0.6
+                }
+            ]
+        },
+        {
+            "id": "adhd-silent-struggles",
+            "title": "The Unspoken Burden: Living with ADHD's Silent Struggles",
+            "description": "Addresses the hidden challenges and internal battles faced by individuals with ADHD, often manifesting as shyness, social anxiety, and avoidance due to past negative experiences and fear of judgment.",
+            "manifestations": [
+                "Shyness, social anxiety, avoiding drawing attention",
+                "Keeping quiet, difficulty with social cues, struggling to find words",
+                "Masking symptoms and avoiding social interactions to protect self-esteem"
+            ],
+            "psychological_underpinnings": [
+                "Past experiences of misunderstanding and negative social interactions",
+                "Constant struggle to focus/attend, leading to embarrassment",
+                "Self-consciousness and fear of making mistakes/judgment"
+            ],
+            "neurobiological_mechanisms": [
+                "Overactive fear response pathways (amygdala) in social situations",
+                "Impaired social cognition due to executive dysfunction (e.g., working memory for social cues)",
+                "Dopamine dysregulation impacting social motivation and reward"
+            ],
+            "connections": [
+                {
+                    "id": "adhd-fear-of-judgment",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.8,
+                    "Narrative DNA": 0.7,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.8
+                },
+                {
+                    "id": "adhd-afraid-of-being-seen",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.7,
+                    "Narrative DNA": 0.8,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.9,
+                    "Memetic Hooks": 0.8
+                },
+                {
+                    "id": "adhd-low-self-worth",
+                    "ECB 2.0": 0.7,
+                    "Neurobiological Networks": 0.6,
+                    "Failure/Recovery Arcs": 0.7,
+                    "Dynamic Personas": 0.7,
+                    "Search Intent Graphs": 0.7,
+                    "Narrative DNA": 0.6,
+                    "Format Affinities": 0.6,
+                    "Behavioral Triggers": 0.7,
+                    "Conflict Pairs": 0.7,
+                    "Memetic Hooks": 0.7
+                },
+                {
+                    "id": "adhd-constant-self-doubt",
+                    "ECB 2.0": 0.7,
+                    "Neurobiological Networks": 0.6,
+                    "Failure/Recovery Arcs": 0.7,
+                    "Dynamic Personas": 0.7,
+                    "Search Intent Graphs": 0.7,
+                    "Narrative DNA": 0.6,
+                    "Format Affinities": 0.6,
+                    "Behavioral Triggers": 0.7,
+                    "Conflict Pairs": 0.7,
+                    "Memetic Hooks": 0.7
+                }
+            ]
+        },
+        {
+            "id": "adhd-labeled-as-disruptive",
+            "title": "Beyond 'Disruptive': Understanding the ADHD Experience Behind the Label",
+            "description": "Explores how individuals, particularly women with ADHD, are often mislabeled as disruptive or inadequate due to internalized symptoms and emotional sensitivity, leading to self-blame and low self-esteem.",
+            "manifestations": [
+                "Internalized sense of impairment, hiding differences",
+                "Reluctance to ask for help, second-guessing oneself",
+                "Anticipating criticism/rejection, censoring self",
+                "Frustration leading to outbursts at home",
+                "Rigid perfectionism and self-monitoring"
+            ],
+            "psychological_underpinnings": [
+                "Restrictive gender roles and societal expectations (for women)",
+                "Chronic underlying feelings of inadequacy and shame",
+                "Masking and imposter syndrome",
+                "Emotional reactivity and perceived failures in self-regulation"
+            ],
+            "neurobiological_mechanisms": [
+                "Gender differences in ADHD presentation impacting diagnosis and support",
+                "Atypical functioning in emotional regulation circuits contributing to 'outbursts'",
+                "Impact of chronic stress from masking on executive functions"
+            ],
+            "connections": [
+                {
+                    "id": "adhd-always-in-trouble",
+                    "ECB 2.0": 0.9,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.9,
+                    "Search Intent Graphs": 0.8,
+                    "Narrative DNA": 0.8,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.9,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.9
+                },
+                {
+                    "id": "adhd-low-self-worth",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.7,
+                    "Narrative DNA": 0.8,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.8
+                },
+                {
+                    "id": "adhd-internalized-ableism",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.7,
+                    "Narrative DNA": 0.8,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.8
+                },
+                {
+                    "id": "adhd-fear-of-judgment",
+                    "ECB 2.0": 0.7,
+                    "Neurobiological Networks": 0.6,
+                    "Failure/Recovery Arcs": 0.7,
+                    "Dynamic Personas": 0.7,
+                    "Search Intent Graphs": 0.7,
+                    "Narrative DNA": 0.6,
+                    "Format Affinities": 0.6,
+                    "Behavioral Triggers": 0.7,
+                    "Conflict Pairs": 0.7,
+                    "Memetic Hooks": 0.7
+                },
+                {
+                    "id": "adhd-shame-spiral",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.7,
+                    "Narrative DNA": 0.8,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.8
+                }
+            ]
+        },
+        {
+            "id": "adhd-fear-of-judgment",
+            "title": "The Shadow of Scrutiny: ADHD and the Fear of Judgment",
+            "description": "Explores how ADHD amplifies the fear of being judged or criticized, often due to Rejection Sensitivity Dysphoria, leading to social withdrawal, people-pleasing, and rumination.",
+            "manifestations": [
+                "Social withdrawal and overthinking interactions",
+                "Persistent fear of failure and people-pleasing",
+                "Suppressing needs/boundaries to gain acceptance",
+                "Rejecting others first (outbursts, anger, defiance)",
+                "Ruminating over perceived slights"
+            ],
+            "psychological_underpinnings": [
+                "Rejection Sensitivity Dysphoria (RSD)",
+                "Heightened emotional sensitivity and social conditioning (frequent reprimands)",
+                "Low self-esteem and emotional dysregulation"
+            ],
+            "neurobiological_mechanisms": [
+                "Neurological differences affecting emotional regulation and impulse control",
+                "Lower dopamine levels impacting emotional balance and increasing sensitivity to rejection",
+                "Overactive amygdala response to perceived social threats"
+            ],
+            "connections": [
+                {
+                    "id": "adhd-rejection-sensitive-dysphoria",
+                    "ECB 2.0": 0.9,
+                    "Neurobiological Networks": 0.9,
+                    "Failure/Recovery Arcs": 0.9,
+                    "Dynamic Personas": 0.9,
+                    "Search Intent Graphs": 0.9,
+                    "Narrative DNA": 0.9,
+                    "Format Affinities": 0.8,
+                    "Behavioral Triggers": 0.9,
+                    "Conflict Pairs": 0.9,
+                    "Memetic Hooks": 0.9
+                },
+                {
+                    "id": "adhd-fear-of-looking-dumb",
+                    "ECB 2.0": 0.9,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.9,
+                    "Search Intent Graphs": 0.9,
+                    "Narrative DNA": 0.8,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.9,
+                    "Conflict Pairs": 0.9,
+                    "Memetic Hooks": 0.9
+                },
+                {
+                    "id": "adhd-afraid-of-being-seen",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.7,
+                    "Narrative DNA": 0.8,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.9,
+                    "Memetic Hooks": 0.8
+                },
+                {
+                    "id": "adhd-silent-struggles",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.8,
+                    "Narrative DNA": 0.7,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.8
+                },
+                {
+                    "id": "adhd-constant-self-doubt",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.8,
+                    "Narrative DNA": 0.7,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.8
+                }
+            ]
+        },
+        {
+            "id": "adhd-fear-of-looking-dumb",
+            "title": "The Fear of Fumbling: ADHD and the Anxiety of Appearing Unintelligent",
+            "description": "Explores how toxic shame and an ingrained belief of inadequacy drive a pervasive fear of appearing unintelligent or uninformed, leading to self-sabotage and avoidance of essential questions.",
+            "manifestations": [
+                "Avoiding asking questions ('I should know this')",
+                "Thinking 'everyone else knows,' 'I should figure this out'",
+                "Constant hiding and second-guessing",
+                "Difficulty processing information (reading/re-reading)"
+            ],
+            "psychological_underpinnings": [
+                "Toxic shame response",
+                "Underlying assumption that everyone else knows something you don't",
+                "Fear of revealing lack of knowledge due to past negative experiences ('Are you stupid?')"
+            ],
+            "neurobiological_mechanisms": [
+                "Heightened activity in brain regions associated with social anxiety and fear",
+                "Dysfunction in executive functions impacting ability to seek clarification",
+                "Chronic stress impacting working memory and information processing"
+            ],
+            "connections": [
+                {
+                    "id": "adhd-fear-of-judgment",
+                    "ECB 2.0": 0.9,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.9,
+                    "Search Intent Graphs": 0.9,
+                    "Narrative DNA": 0.8,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.9,
+                    "Conflict Pairs": 0.9,
+                    "Memetic Hooks": 0.9
+                },
+                {
+                    "id": "adhd-feel-dumb",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.6,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.9,
+                    "Narrative DNA": 0.8,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.9,
+                    "Conflict Pairs": 0.9,
+                    "Memetic Hooks": 0.8
+                },
+                {
+                    "id": "adhd-constant-self-doubt",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.8,
+                    "Narrative DNA": 0.7,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.8
+                },
+                {
+                    "id": "adhd-afraid-of-being-seen",
+                    "ECB 2.0": 0.7,
+                    "Neurobiological Networks": 0.6,
+                    "Failure/Recovery Arcs": 0.7,
+                    "Dynamic Personas": 0.7,
+                    "Search Intent Graphs": 0.7,
+                    "Narrative DNA": 0.7,
+                    "Format Affinities": 0.6,
+                    "Behavioral Triggers": 0.7,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.7
+                },
+                {
+                    "id": "adhd-internalized-ableism",
+                    "ECB 2.0": 0.7,
+                    "Neurobiological Networks": 0.6,
+                    "Failure/Recovery Arcs": 0.7,
+                    "Dynamic Personas": 0.7,
+                    "Search Intent Graphs": 0.6,
+                    "Narrative DNA": 0.7,
+                    "Format Affinities": 0.6,
+                    "Behavioral Triggers": 0.7,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.7
+                }
+            ]
+        },
+        {
+            "id": "adhd-constant-self-doubt",
+            "title": "The Echo Chamber: Living with Constant Self-Doubt and ADHD",
+            "description": "Examines the pervasive self-doubt that plagues individuals with ADHD, stemming from low confidence, internalized criticism, and the imposter phenomenon, leading to hesitation and avoidance.",
+            "manifestations": [
+                "Questioning capabilities and hesitation to contribute ideas",
+                "Difficulty trusting oneself and overthinking",
+                "Anticipating failure and inability to accept praise",
+                "Feeling like a fraud and comparing oneself to others"
+            ],
+            "psychological_underpinnings": [
+                "Low confidence and low self-esteem",
+                "Internalized criticism and rejection sensitivity",
+                "Imposter syndrome and negative self-talk",
+                "Chronic underachievement reinforcing self-doubt"
+            ],
+            "neurobiological_mechanisms": [
+                "Dysregulated dopamine affecting self-reward and internal validation",
+                "Altered prefrontal cortex function impacting decision-making and self-monitoring",
+                "Heightened stress response (HPA axis) due to chronic anxiety"
+            ],
+            "connections": [
+                {
+                    "id": "adhd-low-self-worth",
+                    "ECB 2.0": 0.9,
+                    "Neurobiological Networks": 0.8,
+                    "Failure/Recovery Arcs": 0.9,
+                    "Dynamic Personas": 0.9,
+                    "Search Intent Graphs": 0.9,
+                    "Narrative DNA": 0.9,
+                    "Format Affinities": 0.8,
+                    "Behavioral Triggers": 0.9,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.9
+                },
+                {
+                    "id": "adhd-feel-dumb",
+                    "ECB 2.0": 0.9,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.9,
+                    "Dynamic Personas": 0.9,
+                    "Search Intent Graphs": 0.9,
+                    "Narrative DNA": 0.9,
+                    "Format Affinities": 0.8,
+                    "Behavioral Triggers": 0.9,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.9
+                },
+                {
+                    "id": "adhd-never-good-enough",
+                    "ECB 2.0": 0.9,
+                    "Neurobiological Networks": 0.8,
+                    "Failure/Recovery Arcs": 0.9,
+                    "Dynamic Personas": 0.9,
+                    "Search Intent Graphs": 0.9,
+                    "Narrative DNA": 0.9,
+                    "Format Affinities": 0.8,
+                    "Behavioral Triggers": 0.9,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.9
+                },
+                {
+                    "id": "adhd-imposter-syndrome",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.8,
+                    "Narrative DNA": 0.7,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.8
+                },
+                {
+                    "id": "adhd-fear-of-judgment",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.8,
+                    "Narrative DNA": 0.7,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.8
+                }
+            ]
+        },
+        {
+            "id": "adhd-working-to-prove-worth",
+            "title": "The ADHD Overdrive: Always Working to Prove Your Worth",
+            "description": "Examines the compulsive drive to overperform and overcompensate due to ADHD, driven by fear of judgment and imposter syndrome, ultimately leading to exhaustion and deeper feelings of inadequacy.",
+            "manifestations": [
+                "Overperforming, overachieving, overcompensating",
+                "Setting very high standards and perfectionism",
+                "Presenting a seamless façade and relentless self-monitoring",
+                "Staying up late for preparations"
+            ],
+            "psychological_underpinnings": [
+                "Frequent criticism and breaking social expectations",
+                "Stigmatization of ADHD and low self-compassion",
+                "Fear of judgment and imposter syndrome"
+            ],
+            "neurobiological_mechanisms": [
+                "Dysregulated reward pathways leading to external validation seeking",
+                "Chronic activation of stress response due to constant pressure",
+                "Impaired self-regulation (executive functions) driving overcompensation"
+            ],
+            "connections": [
+                {
+                    "id": "adhd-never-good-enough",
+                    "ECB 2.0": 0.9,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.9,
+                    "Dynamic Personas": 0.9,
+                    "Search Intent Graphs": 0.8,
+                    "Narrative DNA": 0.8,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.9,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.9
+                },
+                {
+                    "id": "adhd-internalized-ableism",
+                    "ECB 2.0": 0.7,
+                    "Neurobiological Networks": 0.6,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.7,
+                    "Search Intent Graphs": 0.6,
+                    "Narrative DNA": 0.7,
+                    "Format Affinities": 0.6,
+                    "Behavioral Triggers": 0.7,
+                    "Conflict Pairs": 0.7,
+                    "Memetic Hooks": 0.7
+                },
+                {
+                    "id": "adhd-imposter-syndrome",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.7,
+                    "Narrative DNA": 0.8,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.8
+                },
+                {
+                    "id": "adhd-perfectionism",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.9,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.8,
+                    "Narrative DNA": 0.7,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.9,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.8
+                },
+                {
+                    "id": "adhd-expectation-vs-reality",
+                    "ECB 2.0": 0.7,
+                    "Neurobiological Networks": 0.6,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.7,
+                    "Search Intent Graphs": 0.6,
+                    "Narrative DNA": 0.7,
+                    "Format Affinities": 0.6,
+                    "Behavioral Triggers": 0.7,
+                    "Conflict Pairs": 0.7,
+                    "Memetic Hooks": 0.7
+                }
+            ]
+        },
+        {
+            "id": "adhd-afraid-of-being-seen",
+            "title": "Hiding in Plain Sight: The ADHD Fear of Being Seen",
+            "description": "Addresses the deep-seated fear of revealing one's authentic self due to ADHD, driven by internalized ableism, societal expectations, and the emotional cost of masking.",
+            "manifestations": [
+                "Hyperawareness of how viewed by others",
+                "Masking symptoms and emotional exhaustion",
+                "Suppression of unique traits/interests and identity loss",
+                "Anxiety/panic attacks and avoiding social situations"
+            ],
+            "psychological_underpinnings": [
+                "Societal expectations to conform to neurotypical norms",
+                "Internalized ableism and fear of judgment/confrontation",
+                "Worry about appearing unreliable/deficient/wrong"
+            ],
+            "neurobiological_mechanisms": [
+                "Chronic activation of stress pathways due to constant masking",
+                "Impact on self-representation and social cognition networks",
+                "Dopamine dysregulation affecting social reward and motivation"
+            ],
+            "connections": [
+                {
+                    "id": "adhd-internalized-ableism",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.7,
+                    "Narrative DNA": 0.8,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.9,
+                    "Memetic Hooks": 0.8
+                },
+                {
+                    "id": "adhd-fear-of-judgment",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.7,
+                    "Narrative DNA": 0.8,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.9,
+                    "Memetic Hooks": 0.8
+                },
+                {
+                    "id": "adhd-silent-struggles",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.7,
+                    "Narrative DNA": 0.8,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.8
+                },
+                {
+                    "id": "adhd-masking",
+                    "ECB 2.0": 0.9,
+                    "Neurobiological Networks": 0.8,
+                    "Failure/Recovery Arcs": 0.9,
+                    "Dynamic Personas": 0.9,
+                    "Search Intent Graphs": 0.9,
+                    "Narrative DNA": 0.9,
+                    "Format Affinities": 0.8,
+                    "Behavioral Triggers": 0.9,
+                    "Conflict Pairs": 0.9,
+                    "Memetic Hooks": 0.9
+                },
+                {
+                    "id": "adhd-expectation-vs-reality",
+                    "ECB 2.0": 0.7,
+                    "Neurobiological Networks": 0.6,
+                    "Failure/Recovery Arcs": 0.7,
+                    "Dynamic Personas": 0.7,
+                    "Search Intent Graphs": 0.6,
+                    "Narrative DNA": 0.7,
+                    "Format Affinities": 0.6,
+                    "Behavioral Triggers": 0.7,
+                    "Conflict Pairs": 0.7,
+                    "Memetic Hooks": 0.7
+                }
+            ]
+        },
+        {
+            "id": "adhd-bad-kid-label",
+            "title": "From 'Bad Kid' to ADHD: Reclaiming Your Narrative",
+            "description": "Addresses the impact of being labeled as a 'bad kid' due to ADHD symptoms, leading to internalized flaws, low self-esteem, self-blame, and emotional shutdowns.",
+            "manifestations": [
+                "Being seen as disobedient, problematic, difficult",
+                "Impulsive behaviors leading to negative consequences",
+                "Internalizing negative labels and feeling inherently flawed",
+                "Low self-esteem, self-blame, anxiety, social isolation"
+            ],
+            "psychological_underpinnings": [
+                "Misunderstanding of ADHD symptoms (impulsivity, emotional dysregulation)",
+                "Frequent negative feedback and criticism",
+                "Rejection Sensitivity Dysphoria (RSD)"
+            ],
+            "neurobiological_mechanisms": [
+                "Dysregulation of impulse control and emotional regulation systems",
+                "Impact of early negative experiences on developing self-concept neural networks",
+                "Chronic stress and HPA axis activation leading to emotional shutdowns"
+            ],
+            "connections": [
+                {
+                    "id": "adhd-childhood-labels",
+                    "ECB 2.0": 0.9,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.9,
+                    "Search Intent Graphs": 0.9,
+                    "Narrative DNA": 0.8,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.9,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.9
+                },
+                {
+                    "id": "adhd-always-in-trouble",
+                    "ECB 2.0": 0.9,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.9,
+                    "Search Intent Graphs": 0.9,
+                    "Narrative DNA": 0.8,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.9,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.9
+                },
+                {
+                    "id": "adhd-low-self-worth",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.8,
+                    "Narrative DNA": 0.7,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.8
+                },
+                {
+                    "id": "adhd-failure-identity",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.9,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.7,
+                    "Narrative DNA": 0.8,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.8
+                },
+                {
+                    "id": "adhd-toxic-shame",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.9,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.7,
+                    "Narrative DNA": 0.8,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.8
+                }
+            ]
+        },
+        {
+            "id": "adhd-expectation-vs-reality",
+            "title": "The Reality Gap: ADHD and the Struggle Between Expectation and Performance",
+            "description": "Examines the internal and external conflicts arising from the mismatch between personal and societal expectations and the reality of ADHD symptoms, leading to masking, imposter syndrome, and self-doubt.",
+            "manifestations": [
+                "Overpromising and doing extra work",
+                "Magnifying challenges and dismissing victories",
+                "Overcompensating and perfectionism",
+                "Intolerance for others' tardiness (due to own past struggles)"
+            ],
+            "psychological_underpinnings": [
+                "Masking ADHD symptoms",
+                "Feelings of inadequacy and low self-worth",
+                "Imposter syndrome and unrealistic expectations",
+                "Sensitivity to perceived faults"
+            ],
+            "neurobiological_mechanisms": [
+                "Executive dysfunction impacting planning and task execution",
+                "Dysregulated reward pathways leading to external validation seeking",
+                "Chronic anxiety and stress impacting cognitive function"
+            ],
+            "connections": [
+                {
+                    "id": "adhd-masking",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.7,
+                    "Narrative DNA": 0.8,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.8
+                },
+                {
+                    "id": "adhd-imposter-syndrome",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.7,
+                    "Narrative DNA": 0.8,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.8
+                },
+                {
+                    "id": "adhd-perfectionism",
+                    "ECB 2.0": 0.7,
+                    "Neurobiological Networks": 0.6,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.7,
+                    "Search Intent Graphs": 0.7,
+                    "Narrative DNA": 0.6,
+                    "Format Affinities": 0.6,
+                    "Behavioral Triggers": 0.7,
+                    "Conflict Pairs": 0.7,
+                    "Memetic Hooks": 0.7
+                },
+                {
+                    "id": "adhd-low-self-worth",
+                    "ECB 2.0": 0.7,
+                    "Neurobiological Networks": 0.6,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.7,
+                    "Search Intent Graphs": 0.7,
+                    "Narrative DNA": 0.7,
+                    "Format Affinities": 0.6,
+                    "Behavioral Triggers": 0.7,
+                    "Conflict Pairs": 0.7,
+                    "Memetic Hooks": 0.7
+                },
+                {
+                    "id": "adhd-working-to-prove-worth",
+                    "ECB 2.0": 0.7,
+                    "Neurobiological Networks": 0.6,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.7,
+                    "Search Intent Graphs": 0.6,
+                    "Narrative DNA": 0.7,
+                    "Format Affinities": 0.6,
+                    "Behavioral Triggers": 0.7,
+                    "Conflict Pairs": 0.7,
+                    "Memetic Hooks": 0.7
+                }
+            ]
+        },
+        {
+            "id": "adhd-rejection-sensitive-dysphoria",
+            "title": "RSD: The Secret Pain Behind ADHD's Fear of Judgment",
+            "description": "A foundational concept explaining extreme emotional pain from perceived rejection, criticism, or failure, underpinning many of the shame-related experiences in ADHD.",
+            "manifestations": [
+                "Intense emotional pain to perceived rejection/criticism",
+                "Anticipating frustration/disappointment even when not present",
+                "Catastrophizing negative social interactions",
+                "Emotional outbursts or withdrawal as coping mechanisms"
+            ],
+            "psychological_underpinnings": [
+                "Heightened emotional sensitivity",
+                "Social conditioning from frequent reprimands",
+                "Low self-esteem",
+                "Childhood emotional invalidation and shaming"
+            ],
+            "neurobiological_mechanisms": [
+                "Overreaction of the HPA axis (stress response system)",
+                "Lower dopamine levels impacting emotional balance and increasing sensitivity to rejection",
+                "Impaired executive functioning making it difficult to pause and re-evaluate reactions",
+                "Overactive amygdala response to social threats"
+            ],
+            "connections": [
+                {
+                    "id": "adhd-fear-of-judgment",
+                    "ECB 2.0": 0.9,
+                    "Neurobiological Networks": 0.9,
+                    "Failure/Recovery Arcs": 0.9,
+                    "Dynamic Personas": 0.9,
+                    "Search Intent Graphs": 0.9,
+                    "Narrative DNA": 0.9,
+                    "Format Affinities": 0.8,
+                    "Behavioral Triggers": 0.9,
+                    "Conflict Pairs": 0.9,
+                    "Memetic Hooks": 0.9
+                },
+                {
+                    "id": "adhd-low-self-worth",
+                    "ECB 2.0": 0.9,
+                    "Neurobiological Networks": 0.8,
+                    "Failure/Recovery Arcs": 0.9,
+                    "Dynamic Personas": 0.9,
+                    "Search Intent Graphs": 0.9,
+                    "Narrative DNA": 0.9,
+                    "Format Affinities": 0.8,
+                    "Behavioral Triggers": 0.9,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.9
+                },
+                {
+                    "id": "adhd-shame-spiral",
+                    "ECB 2.0": 0.9,
+                    "Neurobiological Networks": 0.8,
+                    "Failure/Recovery Arcs": 0.9,
+                    "Dynamic Personas": 0.9,
+                    "Search Intent Graphs": 0.9,
+                    "Narrative DNA": 0.9,
+                    "Format Affinities": 0.8,
+                    "Behavioral Triggers": 0.9,
+                    "Conflict Pairs": 0.9,
+                    "Memetic Hooks": 0.9
+                },
+                {
+                    "id": "adhd-people-think-im-stupid",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.8,
+                    "Narrative DNA": 0.7,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.8
+                },
+                {
+                    "id": "adhd-constant-self-doubt",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.8,
+                    "Narrative DNA": 0.7,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.8
+                }
+            ]
+        },
+        {
+            "id": "adhd-imposter-syndrome",
+            "title": "The Imposter Within: ADHD and the Fear of Being 'Found Out'",
+            "description": "Examines how individuals with ADHD often feel like frauds despite accomplishments, driven by core beliefs of inadequacy, fear of exposure, and a tendency to attribute success to luck rather than effort.",
+            "manifestations": [
+                "Feeling like a 'fraud' despite accomplishments",
+                "Attributing success to external factors (luck)",
+                "Fear of being 'found out' as incompetent",
+                "Difficulty accepting praise and rejecting compliments"
+            ],
+            "psychological_underpinnings": [
+                "Underlying guilt and shame",
+                "Core belief of deficiency",
+                "Perfectionism and overcompensation",
+                "Sensitivity to criticism (RSD)"
+            ],
+            "neurobiological_mechanisms": [
+                "Dysregulated reward pathways (dopamine) making internal validation difficult",
+                "Differences in cognitive flexibility impacting self-perception adjustment",
+                "Chronic stress and anxiety impacting self-worth neural circuits"
+            ],
+            "connections": [
+                {
+                    "id": "adhd-never-good-enough",
+                    "ECB 2.0": 0.9,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.9,
+                    "Dynamic Personas": 0.9,
+                    "Search Intent Graphs": 0.8,
+                    "Narrative DNA": 0.8,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.9,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.9
+                },
+                {
+                    "id": "adhd-working-to-prove-worth",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.7,
+                    "Narrative DNA": 0.8,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.8
+                },
+                {
+                    "id": "adhd-constant-self-doubt",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.8,
+                    "Narrative DNA": 0.7,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.8
+                },
+                {
+                    "id": "adhd-masking",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.8,
+                    "Narrative DNA": 0.8,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.8
+                },
+                {
+                    "id": "adhd-expectation-vs-reality",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.7,
+                    "Narrative DNA": 0.8,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.8
+                }
+            ]
+        },
+        {
+            "id": "adhd-masking",
+            "title": "The Master of Disguise: ADHD Masking and its Hidden Costs",
+            "description": "Explores the psychological and emotional toll of suppressing ADHD symptoms to appear neurotypical, driven by imposter syndrome and perfectionism, leading to identity loss, burnout, and increased anxiety.",
+            "manifestations": [
+                "Hiding ADHD symptoms to blend in",
+                "Emotional exhaustion from maintaining a facade",
+                "Suppression of unique traits and identity loss",
+                "Unrealistic expectations and self-monitoring",
+                "Exacerbated anxiety and self-criticism"
+            ],
+            "psychological_underpinnings": [
+                "Internalized ableism and societal pressure to conform",
+                "Fear of judgment, confrontation, or appearing deficient",
+                "Imposter syndrome and perfectionism driving the need to hide",
+                "Lack of authenticity and disconnection from true self"
+            ],
+            "neurobiological_mechanisms": [
+                "Chronic activation of the stress response due to constant effort",
+                "Impact on self-representation networks in the brain",
+                "Depletion of cognitive resources from continuous self-regulation"
+            ],
+            "connections": [
+                {
+                    "id": "adhd-afraid-of-being-seen",
+                    "ECB 2.0": 0.9,
+                    "Neurobiological Networks": 0.8,
+                    "Failure/Recovery Arcs": 0.9,
+                    "Dynamic Personas": 0.9,
+                    "Search Intent Graphs": 0.9,
+                    "Narrative DNA": 0.9,
+                    "Format Affinities": 0.8,
+                    "Behavioral Triggers": 0.9,
+                    "Conflict Pairs": 0.9,
+                    "Memetic Hooks": 0.9
+                },
+                {
+                    "id": "adhd-internalized-ableism",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.7,
+                    "Narrative DNA": 0.8,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.9,
+                    "Memetic Hooks": 0.8
+                },
+                {
+                    "id": "adhd-imposter-syndrome",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.7,
+                    "Narrative DNA": 0.8,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.8
+                },
+                {
+                    "id": "adhd-perfectionism",
+                    "ECB 2.0": 0.7,
+                    "Neurobiological Networks": 0.6,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.7,
+                    "Search Intent Graphs": 0.7,
+                    "Narrative DNA": 0.6,
+                    "Format Affinities": 0.6,
+                    "Behavioral Triggers": 0.7,
+                    "Conflict Pairs": 0.7,
+                    "Memetic Hooks": 0.7
+                },
+                {
+                    "id": "adhd-expectation-vs-reality",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.7,
+                    "Narrative DNA": 0.8,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.8
+                }
+            ]
+        },
+        {
+            "id": "adhd-perfectionism",
+            "title": "The Paradox of Perfection: ADHD and the Pursuit of Flawlessness",
+            "description": "Explores how ADHD individuals often strive for unattainable perfection, driven by fear of failure and intense sensitivity to criticism, exacerbating feelings of 'never good enough' and negative self-talk.",
+            "manifestations": [
+                "Setting unrealistic or impossible standards",
+                "Excessive self-criticism for minor mistakes",
+                "Constant comparison to neurotypical peers",
+                "Procrastination due to fear of failure",
+                "Intensified Rejection Sensitivity Dysphoria"
+            ],
+            "psychological_underpinnings": [
+                "Fear of failure and discomfort",
+                "Sensitivity to criticism (RSD)",
+                "All-or-nothing thinking ('if not perfect, it's a complete failure')",
+                "Overcompensation for perceived past errors"
+            ],
+            "neurobiological_mechanisms": [
+                "Dysregulated reward system leading to seeking flawless outcomes for validation",
+                "Impact on executive functions (e.g., inhibition, planning) causing procrastination loop",
+                "Chronic anxiety affecting cognitive flexibility and self-correction"
+            ],
+            "connections": [
+                {
+                    "id": "adhd-never-good-enough",
+                    "ECB 2.0": 0.9,
+                    "Neurobiological Networks": 0.8,
+                    "Failure/Recovery Arcs": 0.9,
+                    "Dynamic Personas": 0.9,
+                    "Search Intent Graphs": 0.9,
+                    "Narrative DNA": 0.9,
+                    "Format Affinities": 0.8,
+                    "Behavioral Triggers": 0.9,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.9
+                },
+                {
+                    "id": "adhd-working-to-prove-worth",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.9,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.8,
+                    "Narrative DNA": 0.7,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.9,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.8
+                },
+                {
+                    "id": "adhd-imposter-syndrome",
+                    "ECB 2.0": 0.7,
+                    "Neurobiological Networks": 0.6,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.7,
+                    "Search Intent Graphs": 0.7,
+                    "Narrative DNA": 0.6,
+                    "Format Affinities": 0.6,
+                    "Behavioral Triggers": 0.7,
+                    "Conflict Pairs": 0.7,
+                    "Memetic Hooks": 0.7
+                },
+                {
+                    "id": "adhd-masking",
+                    "ECB 2.0": 0.7,
+                    "Neurobiological Networks": 0.6,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.7,
+                    "Search Intent Graphs": 0.7,
+                    "Narrative DNA": 0.6,
+                    "Format Affinities": 0.6,
+                    "Behavioral Triggers": 0.7,
+                    "Conflict Pairs": 0.7,
+                    "Memetic Hooks": 0.7
+                },
+                {
+                    "id": "adhd-fear-of-judgment",
+                    "ECB 2.0": 0.7,
+                    "Neurobiological Networks": 0.6,
+                    "Failure/Recovery Arcs": 0.7,
+                    "Dynamic Personas": 0.7,
+                    "Search Intent Graphs": 0.7,
+                    "Narrative DNA": 0.6,
+                    "Format Affinities": 0.6,
+                    "Behavioral Triggers": 0.7,
+                    "Conflict Pairs": 0.7,
+                    "Memetic Hooks": 0.7
+                }
+            ]
+        },
+        {
+            "id": "adhd-shame-spiral",
+            "title": "Caught in the Loop: Breaking the ADHD Shame Spiral",
+            "description": "Explores the vicious cycle where emotional dysregulation, rejection sensitivity, and ADHD traits lead to overwhelming shame, social withdrawal, depression, and self-criticism, reinforcing negative beliefs.",
+            "manifestations": [
+                "Negative self-talk, self-loathing, avoidance behaviors",
+                "Intense feelings of anxiety, anger, and frustration escalating into shame",
+                "Social withdrawal, depression, and suicidal thoughts",
+                "Higher volume of negative messages received by age 10"
+            ],
+            "psychological_underpinnings": [
+                "Emotional dysregulation",
+                "Rejection sensitivity (RSD)",
+                "Impulsive behaviors leading to mistakes and guilt",
+                "Inattention leading to missed deadlines and self-criticism"
+            ],
+            "neurobiological_mechanisms": [
+                "Dysregulation in amygdala and prefrontal cortex contributing to emotional outbursts",
+                "Lower dopamine levels exacerbating sensitivity to rejection and perceived failures",
+                "Chronic stress and HPA axis dysregulation impacting mood and self-perception"
+            ],
+            "connections": [
+                {
+                    "id": "adhd-low-self-worth",
+                    "ECB 2.0": 0.9,
+                    "Neurobiological Networks": 0.8,
+                    "Failure/Recovery Arcs": 0.9,
+                    "Dynamic Personas": 0.9,
+                    "Search Intent Graphs": 0.9,
+                    "Narrative DNA": 0.9,
+                    "Format Affinities": 0.8,
+                    "Behavioral Triggers": 0.9,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.9
+                },
+                {
+                    "id": "adhd-failure-identity",
+                    "ECB 2.0": 0.9,
+                    "Neurobiological Networks": 0.8,
+                    "Failure/Recovery Arcs": 0.9,
+                    "Dynamic Personas": 0.9,
+                    "Search Intent Graphs": 0.8,
+                    "Narrative DNA": 0.9,
+                    "Format Affinities": 0.8,
+                    "Behavioral Triggers": 0.9,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.9
+                },
+                {
+                    "id": "adhd-rejection-sensitive-dysphoria",
+                    "ECB 2.0": 0.9,
+                    "Neurobiological Networks": 0.9,
+                    "Failure/Recovery Arcs": 0.9,
+                    "Dynamic Personas": 0.9,
+                    "Search Intent Graphs": 0.9,
+                    "Narrative DNA": 0.9,
+                    "Format Affinities": 0.8,
+                    "Behavioral Triggers": 0.9,
+                    "Conflict Pairs": 0.9,
+                    "Memetic Hooks": 0.9
+                },
+                {
+                    "id": "adhd-toxic-shame",
+                    "ECB 2.0": 0.9,
+                    "Neurobiological Networks": 0.8,
+                    "Failure/Recovery Arcs": 0.9,
+                    "Dynamic Personas": 0.9,
+                    "Search Intent Graphs": 0.8,
+                    "Narrative DNA": 0.9,
+                    "Format Affinities": 0.8,
+                    "Behavioral Triggers": 0.9,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.9
+                },
+                {
+                    "id": "adhd-emotional-dysregulation",
+                    "ECB 2.0": 0.9,
+                    "Neurobiological Networks": 0.8,
+                    "Failure/Recovery Arcs": 0.9,
+                    "Dynamic Personas": 0.9,
+                    "Search Intent Graphs": 0.8,
+                    "Narrative DNA": 0.9,
+                    "Format Affinities": 0.8,
+                    "Behavioral Triggers": 0.9,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.9
+                }
+            ]
+        },
+        {
+            "id": "adhd-toxic-shame",
+            "title": "The Weight of Worthlessness: Overcoming ADHD Toxic Shame",
+            "description": "Examines the profound, internalized belief of being fundamentally flawed and unworthy, often stemming from repeated negative experiences and societal judgment, leading to self-hatred and self-destructive tendencies.",
+            "manifestations": [
+                "Deeply ingrained shame and self-hatred",
+                "Belief of being inherently flawed or unworthy",
+                "Inability to accept affection or trust others' positive regard",
+                "Self-destructive tendencies (e.g., self-harm, substance abuse)",
+                "Distorted self-perception ('either great or the worst')"
+            ],
+            "psychological_underpinnings": [
+                "Repeated failures and external criticism leading to internalized shame",
+                "Demand avoidance contributing to feelings of overwhelm and failure",
+                "Neurobiological basis (low dopamine) contributing to seeking intense sensory input or self-medication",
+                "Societal judgment and negative labels ('lazy,' 'not trying hard enough')"
+            ],
+            "neurobiological_mechanisms": [
+                "Dysregulated dopamine in reward pathways, making intrinsic motivation and self-worth difficult",
+                "Impact on prefrontal cortex and amygdala activity, leading to distorted self-perception and emotional intensity",
+                "Chronic HPA axis activation due to ongoing internal conflict and external criticism"
+            ],
+            "connections": [
+                {
+                    "id": "adhd-low-self-worth",
+                    "ECB 2.0": 0.9,
+                    "Neurobiological Networks": 0.8,
+                    "Failure/Recovery Arcs": 0.9,
+                    "Dynamic Personas": 0.9,
+                    "Search Intent Graphs": 0.9,
+                    "Narrative DNA": 0.9,
+                    "Format Affinities": 0.8,
+                    "Behavioral Triggers": 0.9,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.9
+                },
+                {
+                    "id": "adhd-failure-identity",
+                    "ECB 2.0": 0.9,
+                    "Neurobiological Networks": 0.8,
+                    "Failure/Recovery Arcs": 0.9,
+                    "Dynamic Personas": 0.9,
+                    "Search Intent Graphs": 0.8,
+                    "Narrative DNA": 0.9,
+                    "Format Affinities": 0.8,
+                    "Behavioral Triggers": 0.9,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.9
+                },
+                {
+                    "id": "adhd-shame-spiral",
+                    "ECB 2.0": 0.9,
+                    "Neurobiological Networks": 0.8,
+                    "Failure/Recovery Arcs": 0.9,
+                    "Dynamic Personas": 0.9,
+                    "Search Intent Graphs": 0.8,
+                    "Narrative DNA": 0.9,
+                    "Format Affinities": 0.8,
+                    "Behavioral Triggers": 0.9,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.9
+                },
+                {
+                    "id": "adhd-internalized-ableism",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.9,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.7,
+                    "Narrative DNA": 0.8,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.8
+                },
+                {
+                    "id": "adhd-self-destructive-tendencies",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.9,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.7,
+                    "Narrative DNA": 0.8,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.8
+                }
+            ]
+        },
+        {
+            "id": "adhd-self-destructive-tendencies",
+            "title": "Self-Sabotage Cycles: Understanding ADHD's Destructive Patterns",
+            "description": "Explores how poor impulse control, demand avoidance, and toxic shame can manifest in self-destructive behaviors, further eroding self-esteem and perpetuating negative cycles.",
+            "manifestations": [
+                "Impulsive self-harm (e.g., running into walls, self-injury)",
+                "Eating disorders and suicidal ideation",
+                "Procrastination and demand avoidance leading to overwhelm",
+                "Inability to accept positive regard from others"
+            ],
+            "psychological_underpinnings": [
+                "Poor impulse control",
+                "Demand avoidance (can create feelings of failure)",
+                "Toxic shame (belief of being inherently flawed/unworthy)",
+                "Seeking intense sensory input or self-medication for low dopamine"
+            ],
+            "neurobiological_mechanisms": [
+                "Dysregulation of the prefrontal cortex affecting impulse control and consequence assessment",
+                "Lower dopamine levels contributing to sensation-seeking or emotional dysregulation",
+                "Impact of chronic stress and shame on neural circuits related to self-worth and self-preservation"
+            ],
+            "connections": [
+                {
+                    "id": "adhd-toxic-shame",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.9,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.7,
+                    "Narrative DNA": 0.8,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.8
+                },
+                {
+                    "id": "adhd-low-self-worth",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.9,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.7,
+                    "Narrative DNA": 0.8,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.8
+                },
+                {
+                    "id": "adhd-emotional-dysregulation",
+                    "ECB 2.0": 0.7,
+                    "Neurobiological Networks": 0.6,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.7,
+                    "Search Intent Graphs": 0.7,
+                    "Narrative DNA": 0.7,
+                    "Format Affinities": 0.6,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.7,
+                    "Memetic Hooks": 0.7
+                },
+                {
+                    "id": "adhd-impulsivity",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.8,
+                    "Failure/Recovery Arcs": 0.9,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.7,
+                    "Narrative DNA": 0.8,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.9,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.8
+                }
+            ]
+        },
+        {
+            "id": "adhd-executive-dysfunction",
+            "title": "The Brain's Architect: How Executive Dysfunction Shapes ADHD Shame",
+            "description": "A fundamental aspect of ADHD, describing difficulties with planning, time management, organization, and other cognitive processes that contribute to perceived failures, stress, and low self-esteem.",
+            "manifestations": [
+                "Difficulty with organization, time management, planning",
+                "Challenges with task initiation and completion",
+                "Inconsistent performance and academic/career struggles",
+                "Procrastination and missed deadlines"
+            ],
+            "psychological_underpinnings": [
+                "Feelings of frustration, inadequacy, and stress",
+                "Internalized criticism and self-blame",
+                "Lower self-esteem due to chronic struggles",
+                "Anxiety and depression from perceived failures"
+            ],
+            "neurobiological_mechanisms": [
+                "Dysregulation of dopamine and norepinephrine in prefrontal cortex",
+                "Impaired connectivity within executive function networks (e.g., fronto-parietal, cingulo-opercular networks)",
+                "Structural and functional differences in brain regions like the dorsolateral prefrontal cortex"
+            ],
+            "connections": [
+                {
+                    "id": "adhd-feel-dumb",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.9,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.7,
+                    "Narrative DNA": 0.7,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.8
+                },
+                {
+                    "id": "adhd-feel-lazy",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.9,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.7,
+                    "Narrative DNA": 0.7,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.8
+                },
+                {
+                    "id": "adhd-low-self-worth",
+                    "ECB 2.0": 0.9,
+                    "Neurobiological Networks": 0.8,
+                    "Failure/Recovery Arcs": 0.9,
+                    "Dynamic Personas": 0.9,
+                    "Search Intent Graphs": 0.9,
+                    "Narrative DNA": 0.9,
+                    "Format Affinities": 0.8,
+                    "Behavioral Triggers": 0.9,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.9
+                },
+                {
+                    "id": "adhd-constant-self-doubt",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.8,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.7,
+                    "Narrative DNA": 0.7,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.8
+                },
+                {
+                    "id": "adhd-expectation-vs-reality",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.8,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.7,
+                    "Narrative DNA": 0.7,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.8
+                }
+            ]
+        },
+        {
+            "id": "adhd-emotional-dysregulation",
+            "title": "The Emotional Rollercoaster: How ADHD Fuels Intense Feelings and Shame",
+            "description": "A core ADHD characteristic describing difficulties in managing and expressing emotions, leading to intense feelings, low frustration tolerance, and a predisposition to shame and guilt spirals.",
+            "manifestations": [
+                "Intense feelings of anxiety, anger, and frustration",
+                "Low frustration tolerance, feeling overwhelmed/defeated by minor challenges",
+                "Impulsively blurting out hurtful comments, overreacting",
+                "Difficulty calming down or moving on after stressful events"
+            ],
+            "psychological_underpinnings": [
+                "Difficulty coping with stress and overreacting to situations",
+                "Perceived failures in self-regulation",
+                "Triggers like sensory overload, negative feedback, transitions"
+            ],
+            "neurobiological_mechanisms": [
+                "Dysregulation of the amygdala and prefrontal cortex",
+                "Impaired connectivity between emotional processing and regulatory brain regions",
+                "Atypical dopamine signaling impacting emotional stability",
+                "Physiological symptoms (rapid heart rate, muscle tension) amplifying emotional state"
+            ],
+            "connections": [
+                {
+                    "id": "adhd-shame-spiral",
+                    "ECB 2.0": 0.9,
+                    "Neurobiological Networks": 0.8,
+                    "Failure/Recovery Arcs": 0.9,
+                    "Dynamic Personas": 0.9,
+                    "Search Intent Graphs": 0.8,
+                    "Narrative DNA": 0.9,
+                    "Format Affinities": 0.8,
+                    "Behavioral Triggers": 0.9,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.9
+                },
+                {
+                    "id": "adhd-rejection-sensitive-dysphoria",
+                    "ECB 2.0": 0.9,
+                    "Neurobiological Networks": 0.8,
+                    "Failure/Recovery Arcs": 0.9,
+                    "Dynamic Personas": 0.9,
+                    "Search Intent Graphs": 0.9,
+                    "Narrative DNA": 0.9,
+                    "Format Affinities": 0.8,
+                    "Behavioral Triggers": 0.9,
+                    "Conflict Pairs": 0.9,
+                    "Memetic Hooks": 0.9
+                },
+                {
+                    "id": "adhd-always-in-trouble",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.7,
+                    "Narrative DNA": 0.7,
+                    "Format Affinities": 0.6,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.7,
+                    "Memetic Hooks": 0.8
+                },
+                {
+                    "id": "adhd-self-destructive-tendencies",
+                    "ECB 2.0": 0.7,
+                    "Neurobiological Networks": 0.6,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.7,
+                    "Search Intent Graphs": 0.7,
+                    "Narrative DNA": 0.7,
+                    "Format Affinities": 0.6,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.7,
+                    "Memetic Hooks": 0.7
+                },
+                {
+                    "id": "adhd-impulsivity",
+                    "ECB 2.0": 0.9,
+                    "Neurobiological Networks": 0.9,
+                    "Failure/Recovery Arcs": 0.9,
+                    "Dynamic Personas": 0.9,
+                    "Search Intent Graphs": 0.8,
+                    "Narrative DNA": 0.9,
+                    "Format Affinities": 0.8,
+                    "Behavioral Triggers": 0.9,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.9
+                }
+            ]
+        },
+        {
+            "id": "adhd-impulsivity",
+            "title": "Impulse Control: The ADHD Brain's Fast Lane and Its Consequences",
+            "description": "A core ADHD symptom characterized by acting on urges without forethought, leading to social errors, regretted actions, and contributing to feelings of guilt, shame, and being 'always in trouble'.",
+            "manifestations": [
+                "Frequent interrupting or asking intrusive questions",
+                "Accidentally saying things intended to keep to oneself",
+                "Acting without pausing to re-evaluate reactions",
+                "Blurting out hurtful comments or overreacting"
+            ],
+            "psychological_underpinnings": [
+                "Difficulty reading nonverbal cues leading to social misunderstandings",
+                "Lack of emotional regulation tools",
+                "Vicious cycle of shame and guilt from impulsive errors"
+            ],
+            "neurobiological_mechanisms": [
+                "Dysregulation of dopamine and norepinephrine in frontal-striatal circuits",
+                "Underactive prefrontal cortex involvement in behavioral inhibition",
+                "Less efficient reward pathways leading to sensation-seeking behavior"
+            ],
+            "connections": [
+                {
+                    "id": "adhd-always-in-trouble",
+                    "ECB 2.0": 0.9,
+                    "Neurobiological Networks": 0.8,
+                    "Failure/Recovery Arcs": 0.9,
+                    "Dynamic Personas": 0.9,
+                    "Search Intent Graphs": 0.8,
+                    "Narrative DNA": 0.9,
+                    "Format Affinities": 0.8,
+                    "Behavioral Triggers": 0.9,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.9
+                },
+                {
+                    "id": "adhd-emotional-dysregulation",
+                    "ECB 2.0": 0.9,
+                    "Neurobiological Networks": 0.9,
+                    "Failure/Recovery Arcs": 0.9,
+                    "Dynamic Personas": 0.9,
+                    "Search Intent Graphs": 0.8,
+                    "Narrative DNA": 0.9,
+                    "Format Affinities": 0.8,
+                    "Behavioral Triggers": 0.9,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.9
+                },
+                {
+                    "id": "adhd-rejection-sensitive-dysphoria",
+                    "ECB 2.0": 0.9,
+                    "Neurobiological Networks": 0.9,
+                    "Failure/Recovery Arcs": 0.9,
+                    "Dynamic Personas": 0.9,
+                    "Search Intent Graphs": 0.9,
+                    "Narrative DNA": 0.9,
+                    "Format Affinities": 0.8,
+                    "Behavioral Triggers": 0.9,
+                    "Conflict Pairs": 0.9,
+                    "Memetic Hooks": 0.9
+                },
+                {
+                    "id": "adhd-self-destructive-tendencies",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.9,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.7,
+                    "Narrative DNA": 0.8,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.8
+                },
+                {
+                    "id": "adhd-feel-lazy",
+                    "ECB 2.0": 0.7,
+                    "Neurobiological Networks": 0.6,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.7,
+                    "Search Intent Graphs": 0.7,
+                    "Narrative DNA": 0.6,
+                    "Format Affinities": 0.5,
+                    "Behavioral Triggers": 0.7,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.7
+                }
+            ]
+        }
+    ]
+}

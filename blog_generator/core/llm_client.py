@@ -2,6 +2,10 @@
 
 import os
 import time
+import sys
+
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+
 import logging
 from abc import ABC, abstractmethod
 from typing import List, Dict

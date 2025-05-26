@@ -12,10 +12,10 @@ import requests
 import random  # ensure this is already at the top
 import yaml
 
-from core.llm_client import call_llm  # 🔄 updated to use call_llm
-
 # Setup project path
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+
+from core.llm_client import call_llm  # 🔄 updated to use call_llm
 
 # Load internal modules
 from core.config import INPUT_DIR, SUCCESS_DIR, FAILURE_DIR, LOGS_DIR, SECTION_PROMPTS_PATH, RETRIES_DIR

@@ -1,0 +1,571 @@
+{
+    "pillar_slug": "adhd-breakup-trauma",
+    "pillar_title": "ADHD Breakup Trauma: Why It Feels Like Withdrawal",
+    "spokes": [
+        {
+            "id": "adhd-breakup-obsession-cycle",
+            "connections": [
+                {
+                    "id": "adhd-why-no-contact-fails",
+                    "ECB 2.0": 0.9,
+                    "Neurobiological Networks": 0.8,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.7,
+                    "Search Intent Graphs": 0.7,
+                    "Narrative DNA": 0.8,
+                    "Format Affinities": 0.6,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.6,
+                    "Memetic Hooks": 0.7
+                },
+                {
+                    "id": "adhd-rsd-breakup-meltdowns",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.7,
+                    "Dynamic Personas": 0.7,
+                    "Search Intent Graphs": 0.6,
+                    "Narrative DNA": 0.7,
+                    "Format Affinities": 0.5,
+                    "Behavioral Triggers": 0.7,
+                    "Conflict Pairs": 0.5,
+                    "Memetic Hooks": 0.6
+                },
+                {
+                    "id": "adhd-breakup-healing-timeline",
+                    "ECB 2.0": 0.9,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.9,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.8,
+                    "Narrative DNA": 0.9,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.9,
+                    "Conflict Pairs": 0.7,
+                    "Memetic Hooks": 0.8
+                },
+                {
+                    "id": "adhd-why-text-checking-addictive",
+                    "ECB 2.0": 0.9,
+                    "Neurobiological Networks": 0.9,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.8,
+                    "Narrative DNA": 0.9,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.9,
+                    "Conflict Pairs": 0.7,
+                    "Memetic Hooks": 0.9
+                },
+                {
+                    "id": "adhd-dating-app-regret",
+                    "ECB 2.0": 0.7,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.6,
+                    "Dynamic Personas": 0.6,
+                    "Search Intent Graphs": 0.6,
+                    "Narrative DNA": 0.6,
+                    "Format Affinities": 0.5,
+                    "Behavioral Triggers": 0.7,
+                    "Conflict Pairs": 0.5,
+                    "Memetic Hooks": 0.6
+                }
+            ]
+        },
+        {
+            "id": "adhd-why-no-contact-fails",
+            "connections": [
+                {
+                    "id": "adhd-breakup-obsession-cycle",
+                    "ECB 2.0": 0.9,
+                    "Neurobiological Networks": 0.8,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.7,
+                    "Search Intent Graphs": 0.7,
+                    "Narrative DNA": 0.8,
+                    "Format Affinities": 0.6,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.6,
+                    "Memetic Hooks": 0.7
+                },
+                {
+                    "id": "adhd-rsd-breakup-meltdowns",
+                    "ECB 2.0": 0.7,
+                    "Neurobiological Networks": 0.6,
+                    "Failure/Recovery Arcs": 0.6,
+                    "Dynamic Personas": 0.7,
+                    "Search Intent Graphs": 0.5,
+                    "Narrative DNA": 0.6,
+                    "Format Affinities": 0.5,
+                    "Behavioral Triggers": 0.6,
+                    "Conflict Pairs": 0.6,
+                    "Memetic Hooks": 0.5
+                },
+                {
+                    "id": "adhd-sabotaged-relationship-confessions",
+                    "ECB 2.0": 0.6,
+                    "Neurobiological Networks": 0.5,
+                    "Failure/Recovery Arcs": 0.6,
+                    "Dynamic Personas": 0.6,
+                    "Search Intent Graphs": 0.5,
+                    "Narrative DNA": 0.5,
+                    "Format Affinities": 0.4,
+                    "Behavioral Triggers": 0.6,
+                    "Conflict Pairs": 0.7,
+                    "Memetic Hooks": 0.5
+                },
+                {
+                    "id": "adhd-breakup-healing-timeline",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.9,
+                    "Dynamic Personas": 0.7,
+                    "Search Intent Graphs": 0.7,
+                    "Narrative DNA": 0.8,
+                    "Format Affinities": 0.6,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.7,
+                    "Memetic Hooks": 0.7
+                },
+                {
+                    "id": "adhd-why-text-checking-addictive",
+                    "ECB 2.0": 0.9,
+                    "Neurobiological Networks": 0.9,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.8,
+                    "Narrative DNA": 0.9,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.9,
+                    "Conflict Pairs": 0.7,
+                    "Memetic Hooks": 0.9
+                }
+            ]
+        },
+        {
+            "id": "adhd-rsd-breakup-meltdowns",
+            "connections": [
+                {
+                    "id": "adhd-breakup-obsession-cycle",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.7,
+                    "Dynamic Personas": 0.7,
+                    "Search Intent Graphs": 0.6,
+                    "Narrative DNA": 0.7,
+                    "Format Affinities": 0.5,
+                    "Behavioral Triggers": 0.7,
+                    "Conflict Pairs": 0.5,
+                    "Memetic Hooks": 0.6
+                },
+                {
+                    "id": "adhd-why-no-contact-fails",
+                    "ECB 2.0": 0.7,
+                    "Neurobiological Networks": 0.6,
+                    "Failure/Recovery Arcs": 0.6,
+                    "Dynamic Personas": 0.7,
+                    "Search Intent Graphs": 0.5,
+                    "Narrative DNA": 0.6,
+                    "Format Affinities": 0.5,
+                    "Behavioral Triggers": 0.6,
+                    "Conflict Pairs": 0.6,
+                    "Memetic Hooks": 0.5
+                },
+                {
+                    "id": "adhd-sabotaged-relationship-confessions",
+                    "ECB 2.0": 0.9,
+                    "Neurobiological Networks": 0.8,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.9,
+                    "Search Intent Graphs": 0.7,
+                    "Narrative DNA": 0.8,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.9,
+                    "Memetic Hooks": 0.8
+                },
+                {
+                    "id": "adhd-breakup-healing-timeline",
+                    "ECB 2.0": 0.9,
+                    "Neurobiological Networks": 0.8,
+                    "Failure/Recovery Arcs": 0.9,
+                    "Dynamic Personas": 0.9,
+                    "Search Intent Graphs": 0.8,
+                    "Narrative DNA": 0.9,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.9,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.9
+                },
+                {
+                    "id": "adhd-how-to-explain-to-partners",
+                    "ECB 2.0": 0.7,
+                    "Neurobiological Networks": 0.6,
+                    "Failure/Recovery Arcs": 0.6,
+                    "Dynamic Personas": 0.7,
+                    "Search Intent Graphs": 0.6,
+                    "Narrative DNA": 0.7,
+                    "Format Affinities": 0.6,
+                    "Behavioral Triggers": 0.7,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.7
+                }
+            ]
+        },
+        {
+            "id": "adhd-sabotaged-relationship-confessions",
+            "connections": [
+                {
+                    "id": "adhd-rsd-breakup-meltdowns",
+                    "ECB 2.0": 0.9,
+                    "Neurobiological Networks": 0.8,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.9,
+                    "Search Intent Graphs": 0.7,
+                    "Narrative DNA": 0.8,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.9,
+                    "Memetic Hooks": 0.8
+                },
+                {
+                    "id": "adhd-breakup-obsession-cycle",
+                    "ECB 2.0": 0.7,
+                    "Neurobiological Networks": 0.6,
+                    "Failure/Recovery Arcs": 0.7,
+                    "Dynamic Personas": 0.6,
+                    "Search Intent Graphs": 0.6,
+                    "Narrative DNA": 0.7,
+                    "Format Affinities": 0.5,
+                    "Behavioral Triggers": 0.7,
+                    "Conflict Pairs": 0.6,
+                    "Memetic Hooks": 0.6
+                },
+                {
+                    "id": "adhd-how-to-explain-to-partners",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.7,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.7,
+                    "Narrative DNA": 0.8,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.9,
+                    "Memetic Hooks": 0.8
+                },
+                {
+                    "id": "adhd-relationship-copilot-need",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.7,
+                    "Narrative DNA": 0.8,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.9,
+                    "Memetic Hooks": 0.8
+                },
+                {
+                    "id": "adhd-breakup-healing-timeline",
+                    "ECB 2.0": 0.7,
+                    "Neurobiological Networks": 0.6,
+                    "Failure/Recovery Arcs": 0.7,
+                    "Dynamic Personas": 0.6,
+                    "Search Intent Graphs": 0.6,
+                    "Narrative DNA": 0.7,
+                    "Format Affinities": 0.5,
+                    "Behavioral Triggers": 0.7,
+                    "Conflict Pairs": 0.6,
+                    "Memetic Hooks": 0.6
+                }
+            ]
+        },
+        {
+            "id": "adhd-breakup-healing-timeline",
+            "connections": [
+                {
+                    "id": "adhd-breakup-obsession-cycle",
+                    "ECB 2.0": 0.9,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.9,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.8,
+                    "Narrative DNA": 0.9,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.9,
+                    "Conflict Pairs": 0.7,
+                    "Memetic Hooks": 0.8
+                },
+                {
+                    "id": "adhd-rsd-breakup-meltdowns",
+                    "ECB 2.0": 0.9,
+                    "Neurobiological Networks": 0.8,
+                    "Failure/Recovery Arcs": 0.9,
+                    "Dynamic Personas": 0.9,
+                    "Search Intent Graphs": 0.8,
+                    "Narrative DNA": 0.9,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.9,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.9
+                },
+                {
+                    "id": "adhd-dating-app-regret",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.9,
+                    "Dynamic Personas": 0.7,
+                    "Search Intent Graphs": 0.8,
+                    "Narrative DNA": 0.8,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.7,
+                    "Memetic Hooks": 0.7
+                },
+                {
+                    "id": "adhd-why-no-contact-fails",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.9,
+                    "Dynamic Personas": 0.7,
+                    "Search Intent Graphs": 0.7,
+                    "Narrative DNA": 0.8,
+                    "Format Affinities": 0.6,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.7,
+                    "Memetic Hooks": 0.7
+                },
+                {
+                    "id": "adhd-why-text-checking-addictive",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.8,
+                    "Failure/Recovery Arcs": 0.9,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.8,
+                    "Narrative DNA": 0.8,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.7,
+                    "Memetic Hooks": 0.8
+                }
+            ]
+        },
+        {
+            "id": "adhd-dating-app-regret",
+            "connections": [
+                {
+                    "id": "adhd-breakup-healing-timeline",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.9,
+                    "Dynamic Personas": 0.7,
+                    "Search Intent Graphs": 0.8,
+                    "Narrative DNA": 0.8,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.7,
+                    "Memetic Hooks": 0.7
+                },
+                {
+                    "id": "adhd-why-text-checking-addictive",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.8,
+                    "Failure/Recovery Arcs": 0.7,
+                    "Dynamic Personas": 0.7,
+                    "Search Intent Graphs": 0.7,
+                    "Narrative DNA": 0.7,
+                    "Format Affinities": 0.6,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.7,
+                    "Memetic Hooks": 0.7
+                },
+                {
+                    "id": "adhd-sabotaged-relationship-confessions",
+                    "ECB 2.0": 0.7,
+                    "Neurobiological Networks": 0.6,
+                    "Failure/Recovery Arcs": 0.7,
+                    "Dynamic Personas": 0.7,
+                    "Search Intent Graphs": 0.6,
+                    "Narrative DNA": 0.6,
+                    "Format Affinities": 0.5,
+                    "Behavioral Triggers": 0.7,
+                    "Conflict Pairs": 0.6,
+                    "Memetic Hooks": 0.6
+                },
+                {
+                    "id": "adhd-breakup-obsession-cycle",
+                    "ECB 2.0": 0.7,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.6,
+                    "Dynamic Personas": 0.6,
+                    "Search Intent Graphs": 0.6,
+                    "Narrative DNA": 0.6,
+                    "Format Affinities": 0.5,
+                    "Behavioral Triggers": 0.7,
+                    "Conflict Pairs": 0.5,
+                    "Memetic Hooks": 0.6
+                }
+            ]
+        },
+        {
+            "id": "adhd-how-to-explain-to-partners",
+            "connections": [
+                {
+                    "id": "adhd-sabotaged-relationship-confessions",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.7,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.7,
+                    "Narrative DNA": 0.8,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.9,
+                    "Memetic Hooks": 0.8
+                },
+                {
+                    "id": "adhd-relationship-copilot-need",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.7,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.7,
+                    "Narrative DNA": 0.8,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.9,
+                    "Memetic Hooks": 0.8
+                },
+                {
+                    "id": "adhd-rsd-breakup-meltdowns",
+                    "ECB 2.0": 0.7,
+                    "Neurobiological Networks": 0.6,
+                    "Failure/Recovery Arcs": 0.6,
+                    "Dynamic Personas": 0.7,
+                    "Search Intent Graphs": 0.6,
+                    "Narrative DNA": 0.7,
+                    "Format Affinities": 0.6,
+                    "Behavioral Triggers": 0.7,
+                    "Conflict Pairs": 0.8,
+                    "Memetic Hooks": 0.7
+                }
+            ]
+        },
+        {
+            "id": "adhd-relationship-copilot-need",
+            "connections": [
+                {
+                    "id": "adhd-sabotaged-relationship-confessions",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.7,
+                    "Narrative DNA": 0.8,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.9,
+                    "Memetic Hooks": 0.8
+                },
+                {
+                    "id": "adhd-how-to-explain-to-partners",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.7,
+                    "Failure/Recovery Arcs": 0.7,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.7,
+                    "Narrative DNA": 0.8,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.9,
+                    "Memetic Hooks": 0.8
+                },
+                {
+                    "id": "adhd-why-no-contact-fails",
+                    "ECB 2.0": 0.7,
+                    "Neurobiological Networks": 0.6,
+                    "Failure/Recovery Arcs": 0.7,
+                    "Dynamic Personas": 0.7,
+                    "Search Intent Graphs": 0.6,
+                    "Narrative DNA": 0.7,
+                    "Format Affinities": 0.6,
+                    "Behavioral Triggers": 0.7,
+                    "Conflict Pairs": 0.6,
+                    "Memetic Hooks": 0.6
+                },
+                {
+                    "id": "adhd-breakup-healing-timeline",
+                    "ECB 2.0": 0.7,
+                    "Neurobiological Networks": 0.6,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.7,
+                    "Search Intent Graphs": 0.7,
+                    "Narrative DNA": 0.7,
+                    "Format Affinities": 0.6,
+                    "Behavioral Triggers": 0.7,
+                    "Conflict Pairs": 0.7,
+                    "Memetic Hooks": 0.7
+                }
+            ]
+        },
+        {
+            "id": "adhd-why-text-checking-addictive",
+            "connections": [
+                {
+                    "id": "adhd-breakup-obsession-cycle",
+                    "ECB 2.0": 0.9,
+                    "Neurobiological Networks": 0.9,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.8,
+                    "Narrative DNA": 0.9,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.9,
+                    "Conflict Pairs": 0.7,
+                    "Memetic Hooks": 0.9
+                },
+                {
+                    "id": "adhd-why-no-contact-fails",
+                    "ECB 2.0": 0.9,
+                    "Neurobiological Networks": 0.9,
+                    "Failure/Recovery Arcs": 0.8,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.8,
+                    "Narrative DNA": 0.9,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.9,
+                    "Conflict Pairs": 0.7,
+                    "Memetic Hooks": 0.9
+                },
+                {
+                    "id": "adhd-breakup-healing-timeline",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.8,
+                    "Failure/Recovery Arcs": 0.9,
+                    "Dynamic Personas": 0.8,
+                    "Search Intent Graphs": 0.8,
+                    "Narrative DNA": 0.8,
+                    "Format Affinities": 0.7,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.7,
+                    "Memetic Hooks": 0.8
+                },
+                {
+                    "id": "adhd-dating-app-regret",
+                    "ECB 2.0": 0.8,
+                    "Neurobiological Networks": 0.8,
+                    "Failure/Recovery Arcs": 0.7,
+                    "Dynamic Personas": 0.7,
+                    "Search Intent Graphs": 0.7,
+                    "Narrative DNA": 0.7,
+                    "Format Affinities": 0.6,
+                    "Behavioral Triggers": 0.8,
+                    "Conflict Pairs": 0.7,
+                    "Memetic Hooks": 0.7
+                }
+            ]
+        }
+    ]
+}
