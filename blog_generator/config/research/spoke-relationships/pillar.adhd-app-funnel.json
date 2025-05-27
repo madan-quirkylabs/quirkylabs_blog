@@ -1,534 +1,330 @@
 {
-    "adhd-why-most-apps-fail-you": {
-        "connections": {
-            "adhd-ai-copilot-case-study": {
-                "ecb_2_0": 0.3,
-                "neurobiological_networks": 0.7,
-                "failure_recovery_arcs": 0.6,
-                "dynamic_personas": 0.4,
-                "search_intent_graphs": 0.2,
-                "narrative_dna": 0.5,
-                "format_affinities": 0.3,
-                "behavioral_triggers": 0.2,
-                "conflict_pairs": 0.5,
-                "memetic_hooks": 0.4
-            },
-            "adhd-how-gamification-changed-me": {
-                "ecb_2_0": 0.3,
-                "neurobiological_networks": 0.6,
-                "failure_recovery_arcs": 0.5,
-                "dynamic_personas": 0.4,
-                "search_intent_graphs": 0.2,
-                "narrative_dna": 0.5,
-                "format_affinities": 0.3,
-                "behavioral_triggers": 0.5,
-                "conflict_pairs": 0.6,
-                "memetic_hooks": 0.5
-            },
-            "adhd-why-you-need-a-productivity-coach": {
-                "ecb_2_0": 0.4,
-                "neurobiological_networks": 0.6,
-                "failure_recovery_arcs": 0.6,
-                "dynamic_personas": 0.5,
-                "search_intent_graphs": 0.2,
-                "narrative_dna": 0.6,
-                "format_affinities": 0.3,
-                "behavioral_triggers": 0.5,
-                "conflict_pairs": 0.2,
-                "memetic_hooks": 0.3
-            },
-            "adhd-task-initiation-holy-grail": {
-                "ecb_2_0": 0.5,
-                "neurobiological_networks": 0.6,
-                "failure_recovery_arcs": 0.7,
-                "dynamic_personas": 0.5,
-                "search_intent_graphs": 0.2,
-                "narrative_dna": 0.5,
-                "format_affinities": 0.4,
-                "behavioral_triggers": 0.5,
-                "conflict_pairs": 0.1,
-                "memetic_hooks": 0.3
-            },
-            "adhd-why-accountability-works": {
-                "ecb_2_0": 0.4,
-                "neurobiological_networks": 0.6,
-                "failure_recovery_arcs": 0.6,
-                "dynamic_personas": 0.5,
-                "search_intent_graphs": 0.2,
-                "narrative_dna": 0.6,
-                "format_affinities": 0.3,
-                "behavioral_triggers": 0.5,
-                "conflict_pairs": 0.3,
-                "memetic_hooks": 0.3
-            },
-            "adhd-the-future-of-adhd-tools": {
-                "ecb_2_0": 0.3,
-                "neurobiological_networks": 0.6,
-                "failure_recovery_arcs": 0.5,
-                "dynamic_personas": 0.4,
-                "search_intent_graphs": 0.2,
-                "narrative_dna": 0.6,
-                "format_affinities": 0.3,
-                "behavioral_triggers": 0.3,
-                "conflict_pairs": 0.2,
-                "memetic_hooks": 0.5
-            }
+    "pillar_id": "adhd-app-funnel",
+    "pillar_title": "ADHD Productivity Tools That Actually Work",
+    "spokes": [
+        {
+            "id": "adhd-why-most-apps-fail-you",
+            "connections": [
+                {
+                    "id": "adhd-ai-copilot-case-study",
+                    "ECB 2.0": 1.0,
+                    "Neurobiological Networks": 1.0,
+                    "Failure/Recovery Arcs": 1.0,
+                    "Dynamic Personas": 1.0,
+                    "Search Intent Graphs": 1.0,
+                    "Narrative DNA": 1.0,
+                    "Format Affinities": 0.67,
+                    "Behavioral Triggers": 1.0,
+                    "Conflict Pairs": 1.0,
+                    "Memetic Hooks": 1.0,
+                    "total_score": 9.67
+                },
+                {
+                    "id": "adhd-how-gamification-changed-me",
+                    "ECB 2.0": 1.0,
+                    "Neurobiological Networks": 1.0,
+                    "Failure/Recovery Arcs": 1.0,
+                    "Dynamic Personas": 1.0,
+                    "Search Intent Graphs": 1.0,
+                    "Narrative DNA": 1.0,
+                    "Format Affinities": 0.67,
+                    "Behavioral Triggers": 1.0,
+                    "Conflict Pairs": 1.0,
+                    "Memetic Hooks": 1.0,
+                    "total_score": 9.67
+                },
+                {
+                    "id": "adhd-why-you-need-a-productivity-coach",
+                    "ECB 2.0": 1.0,
+                    "Neurobiological Networks": 1.0,
+                    "Failure/Recovery Arcs": 1.0,
+                    "Dynamic Personas": 1.0,
+                    "Search Intent Graphs": 1.0,
+                    "Narrative DNA": 1.0,
+                    "Format Affinities": 0.67,
+                    "Behavioral Triggers": 1.0,
+                    "Conflict Pairs": 1.0,
+                    "Memetic Hooks": 1.0,
+                    "total_score": 9.67
+                },
+                {
+                    "id": "adhd-task-initiation-holy-grail",
+                    "ECB 2.0": 1.0,
+                    "Neurobiological Networks": 1.0,
+                    "Failure/Recovery Arcs": 1.0,
+                    "Dynamic Personas": 1.0,
+                    "Search Intent Graphs": 1.0,
+                    "Narrative DNA": 1.0,
+                    "Format Affinities": 0.67,
+                    "Behavioral Triggers": 1.0,
+                    "Conflict Pairs": 1.0,
+                    "Memetic Hooks": 1.0,
+                    "total_score": 9.67
+                },
+                {
+                    "id": "adhd-why-accountability-works",
+                    "ECB 2.0": 1.0,
+                    "Neurobiological Networks": 1.0,
+                    "Failure/Recovery Arcs": 1.0,
+                    "Dynamic Personas": 1.0,
+                    "Search Intent Graphs": 1.0,
+                    "Narrative DNA": 1.0,
+                    "Format Affinities": 0.67,
+                    "Behavioral Triggers": 1.0,
+                    "Conflict Pairs": 1.0,
+                    "Memetic Hooks": 1.0,
+                    "total_score": 9.67
+                },
+                {
+                    "id": "adhd-the-future-of-adhd-tools",
+                    "ECB 2.0": 1.0,
+                    "Neurobiological Networks": 1.0,
+                    "Failure/Recovery Arcs": 1.0,
+                    "Dynamic Personas": 1.0,
+                    "Search Intent Graphs": 1.0,
+                    "Narrative DNA": 1.0,
+                    "Format Affinities": 0.67,
+                    "Behavioral Triggers": 0.67,
+                    "Conflict Pairs": 1.0,
+                    "Memetic Hooks": 1.0,
+                    "total_score": 9.34
+                }
+            ]
+        },
+        {
+            "id": "adhd-ai-copilot-case-study",
+            "connections": [
+                {
+                    "id": "adhd-how-gamification-changed-me",
+                    "ECB 2.0": 1.0,
+                    "Neurobiological Networks": 1.0,
+                    "Failure/Recovery Arcs": 1.0,
+                    "Dynamic Personas": 1.0,
+                    "Search Intent Graphs": 1.0,
+                    "Narrative DNA": 1.0,
+                    "Format Affinities": 1.0,
+                    "Behavioral Triggers": 1.0,
+                    "Conflict Pairs": 1.0,
+                    "Memetic Hooks": 1.0,
+                    "total_score": 10.0
+                },
+                {
+                    "id": "adhd-why-you-need-a-productivity-coach",
+                    "ECB 2.0": 1.0,
+                    "Neurobiological Networks": 1.0,
+                    "Failure/Recovery Arcs": 1.0,
+                    "Dynamic Personas": 1.0,
+                    "Search Intent Graphs": 1.0,
+                    "Narrative DNA": 1.0,
+                    "Format Affinities": 0.67,
+                    "Behavioral Triggers": 1.0,
+                    "Conflict Pairs": 1.0,
+                    "Memetic Hooks": 1.0,
+                    "total_score": 9.67
+                },
+                {
+                    "id": "adhd-task-initiation-holy-grail",
+                    "ECB 2.0": 1.0,
+                    "Neurobiological Networks": 1.0,
+                    "Failure/Recovery Arcs": 1.0,
+                    "Dynamic Personas": 1.0,
+                    "Search Intent Graphs": 1.0,
+                    "Narrative DNA": 1.0,
+                    "Format Affinities": 0.67,
+                    "Behavioral Triggers": 1.0,
+                    "Conflict Pairs": 1.0,
+                    "Memetic Hooks": 1.0,
+                    "total_score": 9.67
+                },
+                {
+                    "id": "adhd-why-accountability-works",
+                    "ECB 2.0": 1.0,
+                    "Neurobiological Networks": 1.0,
+                    "Failure/Recovery Arcs": 1.0,
+                    "Dynamic Personas": 1.0,
+                    "Search Intent Graphs": 1.0,
+                    "Narrative DNA": 1.0,
+                    "Format Affinities": 0.67,
+                    "Behavioral Triggers": 1.0,
+                    "Conflict Pairs": 1.0,
+                    "Memetic Hooks": 1.0,
+                    "total_score": 9.67
+                },
+                {
+                    "id": "adhd-the-future-of-adhd-tools",
+                    "ECB 2.0": 1.0,
+                    "Neurobiological Networks": 1.0,
+                    "Failure/Recovery Arcs": 1.0,
+                    "Dynamic Personas": 1.0,
+                    "Search Intent Graphs": 1.0,
+                    "Narrative DNA": 1.0,
+                    "Format Affinities": 1.0,
+                    "Behavioral Triggers": 1.0,
+                    "Conflict Pairs": 1.0,
+                    "Memetic Hooks": 1.0,
+                    "total_score": 10.0
+                }
+            ]
+        },
+        {
+            "id": "adhd-how-gamification-changed-me",
+            "connections": [
+                {
+                    "id": "adhd-why-you-need-a-productivity-coach",
+                    "ECB 2.0": 1.0,
+                    "Neurobiological Networks": 0.67,
+                    "Failure/Recovery Arcs": 1.0,
+                    "Dynamic Personas": 0.67,
+                    "Search Intent Graphs": 0.67,
+                    "Narrative DNA": 1.0,
+                    "Format Affinities": 0.67,
+                    "Behavioral Triggers": 1.0,
+                    "Conflict Pairs": 0.67,
+                    "Memetic Hooks": 1.0,
+                    "total_score": 8.35
+                },
+                {
+                    "id": "adhd-task-initiation-holy-grail",
+                    "ECB 2.0": 1.0,
+                    "Neurobiological Networks": 1.0,
+                    "Failure/Recovery Arcs": 1.0,
+                    "Dynamic Personas": 1.0,
+                    "Search Intent Graphs": 1.0,
+                    "Narrative DNA": 1.0,
+                    "Format Affinities": 0.67,
+                    "Behavioral Triggers": 1.0,
+                    "Conflict Pairs": 1.0,
+                    "Memetic Hooks": 1.0,
+                    "total_score": 9.67
+                },
+                {
+                    "id": "adhd-why-accountability-works",
+                    "ECB 2.0": 1.0,
+                    "Neurobiological Networks": 0.67,
+                    "Failure/Recovery Arcs": 1.0,
+                    "Dynamic Personas": 0.67,
+                    "Search Intent Graphs": 0.67,
+                    "Narrative DNA": 1.0,
+                    "Format Affinities": 0.67,
+                    "Behavioral Triggers": 1.0,
+                    "Conflict Pairs": 0.67,
+                    "Memetic Hooks": 1.0,
+                    "total_score": 8.35
+                },
+                {
+                    "id": "adhd-the-future-of-adhd-tools",
+                    "ECB 2.0": 1.0,
+                    "Neurobiological Networks": 1.0,
+                    "Failure/Recovery Arcs": 1.0,
+                    "Dynamic Personas": 1.0,
+                    "Search Intent Graphs": 1.0,
+                    "Narrative DNA": 1.0,
+                    "Format Affinities": 1.0,
+                    "Behavioral Triggers": 1.0,
+                    "Conflict Pairs": 1.0,
+                    "Memetic Hooks": 1.0,
+                    "total_score": 10.0
+                }
+            ]
+        },
+        {
+            "id": "adhd-why-you-need-a-productivity-coach",
+            "connections": [
+                {
+                    "id": "adhd-task-initiation-holy-grail",
+                    "ECB 2.0": 1.0,
+                    "Neurobiological Networks": 1.0,
+                    "Failure/Recovery Arcs": 1.0,
+                    "Dynamic Personas": 1.0,
+                    "Search Intent Graphs": 1.0,
+                    "Narrative DNA": 1.0,
+                    "Format Affinities": 0.67,
+                    "Behavioral Triggers": 1.0,
+                    "Conflict Pairs": 1.0,
+                    "Memetic Hooks": 1.0,
+                    "total_score": 9.67
+                },
+                {
+                    "id": "adhd-why-accountability-works",
+                    "ECB 2.0": 1.0,
+                    "Neurobiological Networks": 1.0,
+                    "Failure/Recovery Arcs": 1.0,
+                    "Dynamic Personas": 1.0,
+                    "Search Intent Graphs": 1.0,
+                    "Narrative DNA": 1.0,
+                    "Format Affinities": 0.67,
+                    "Behavioral Triggers": 1.0,
+                    "Conflict Pairs": 1.0,
+                    "Memetic Hooks": 1.0,
+                    "total_score": 9.67
+                },
+                {
+                    "id": "adhd-the-future-of-adhd-tools",
+                    "ECB 2.0": 0.67,
+                    "Neurobiological Networks": 0.67,
+                    "Failure/Recovery Arcs": 0.67,
+                    "Dynamic Personas": 0.67,
+                    "Search Intent Graphs": 0.67,
+                    "Narrative DNA": 0.67,
+                    "Format Affinities": 0.67,
+                    "Behavioral Triggers": 0.67,
+                    "Conflict Pairs": 0.33,
+                    "Memetic Hooks": 0.67,
+                    "total_score": 6.66
+                }
+            ]
+        },
+        {
+            "id": "adhd-task-initiation-holy-grail",
+            "connections": [
+                {
+                    "id": "adhd-why-accountability-works",
+                    "ECB 2.0": 1.0,
+                    "Neurobiological Networks": 1.0,
+                    "Failure/Recovery Arcs": 1.0,
+                    "Dynamic Personas": 1.0,
+                    "Search Intent Graphs": 1.0,
+                    "Narrative DNA": 1.0,
+                    "Format Affinities": 0.67,
+                    "Behavioral Triggers": 1.0,
+                    "Conflict Pairs": 1.0,
+                    "Memetic Hooks": 1.0,
+                    "total_score": 9.67
+                },
+                {
+                    "id": "adhd-the-future-of-adhd-tools",
+                    "ECB 2.0": 0.67,
+                    "Neurobiological Networks": 0.67,
+                    "Failure/Recovery Arcs": 0.67,
+                    "Dynamic Personas": 0.67,
+                    "Search Intent Graphs": 0.67,
+                    "Narrative DNA": 0.67,
+                    "Format Affinities": 0.67,
+                    "Behavioral Triggers": 0.67,
+                    "Conflict Pairs": 0.33,
+                    "Memetic Hooks": 0.67,
+                    "total_score": 6.66
+                }
+            ]
+        },
+        {
+            "id": "adhd-why-accountability-works",
+            "connections": [
+                {
+                    "id": "adhd-the-future-of-adhd-tools",
+                    "ECB 2.0": 0.67,
+                    "Neurobiological Networks": 0.67,
+                    "Failure/Recovery Arcs": 0.67,
+                    "Dynamic Personas": 0.67,
+                    "Search Intent Graphs": 0.67,
+                    "Narrative DNA": 0.67,
+                    "Format Affinities": 0.67,
+                    "Behavioral Triggers": 0.67,
+                    "Conflict Pairs": 0.33,
+                    "Memetic Hooks": 0.67,
+                    "total_score": 6.66
+                }
+            ]
         }
-    },
-    "adhd-ai-copilot-case-study": {
-        "connections": {
-            "adhd-why-most-apps-fail-you": {
-                "ecb_2_0": 0.3,
-                "neurobiological_networks": 0.7,
-                "failure_recovery_arcs": 0.6,
-                "dynamic_personas": 0.4,
-                "search_intent_graphs": 0.2,
-                "narrative_dna": 0.5,
-                "format_affinities": 0.3,
-                "behavioral_triggers": 0.2,
-                "conflict_pairs": 0.5,
-                "memetic_hooks": 0.4
-            },
-            "adhd-how-gamification-changed-me": {
-                "ecb_2_0": 0.6,
-                "neurobiological_networks": 0.6,
-                "failure_recovery_arcs": 0.6,
-                "dynamic_personas": 0.6,
-                "search_intent_graphs": 0.3,
-                "narrative_dna": 0.6,
-                "format_affinities": 0.4,
-                "behavioral_triggers": 0.6,
-                "conflict_pairs": 0.2,
-                "memetic_hooks": 0.7
-            },
-            "adhd-why-you-need-a-productivity-coach": {
-                "ecb_2_0": 0.5,
-                "neurobiological_networks": 0.6,
-                "failure_recovery_arcs": 0.5,
-                "dynamic_personas": 0.5,
-                "search_intent_graphs": 0.2,
-                "narrative_dna": 0.5,
-                "format_affinities": 0.3,
-                "behavioral_triggers": 0.5,
-                "conflict_pairs": 0.4,
-                "memetic_hooks": 0.6
-            },
-            "adhd-task-initiation-holy-grail": {
-                "ecb_2_0": 0.6,
-                "neurobiological_networks": 0.6,
-                "failure_recovery_arcs": 0.5,
-                "dynamic_personas": 0.5,
-                "search_intent_graphs": 0.2,
-                "narrative_dna": 0.6,
-                "format_affinities": 0.3,
-                "behavioral_triggers": 0.6,
-                "conflict_pairs": 0.1,
-                "memetic_hooks": 0.6
-            },
-            "adhd-why-accountability-works": {
-                "ecb_2_0": 0.5,
-                "neurobiological_networks": 0.6,
-                "failure_recovery_arcs": 0.5,
-                "dynamic_personas": 0.5,
-                "search_intent_graphs": 0.2,
-                "narrative_dna": 0.5,
-                "format_affinities": 0.3,
-                "behavioral_triggers": 0.5,
-                "conflict_pairs": 0.4,
-                "memetic_hooks": 0.6
-            },
-            "adhd-the-future-of-adhd-tools": {
-                "ecb_2_0": 0.7,
-                "neurobiological_networks": 0.6,
-                "failure_recovery_arcs": 0.4,
-                "dynamic_personas": 0.7,
-                "search_intent_graphs": 0.5,
-                "narrative_dna": 0.5,
-                "format_affinities": 0.3,
-                "behavioral_triggers": 0.3,
-                "conflict_pairs": 0.1,
-                "memetic_hooks": 0.7
-            }
-        }
-    },
-    "adhd-how-gamification-changed-me": {
-        "connections": {
-            "adhd-why-most-apps-fail-you": {
-                "ecb_2_0": 0.3,
-                "neurobiological_networks": 0.6,
-                "failure_recovery_arcs": 0.5,
-                "dynamic_personas": 0.4,
-                "search_intent_graphs": 0.2,
-                "narrative_dna": 0.5,
-                "format_affinities": 0.3,
-                "behavioral_triggers": 0.5,
-                "conflict_pairs": 0.6,
-                "memetic_hooks": 0.5
-            },
-            "adhd-ai-copilot-case-study": {
-                "ecb_2_0": 0.6,
-                "neurobiological_networks": 0.6,
-                "failure_recovery_arcs": 0.6,
-                "dynamic_personas": 0.6,
-                "search_intent_graphs": 0.3,
-                "narrative_dna": 0.6,
-                "format_affinities": 0.4,
-                "behavioral_triggers": 0.6,
-                "conflict_pairs": 0.2,
-                "memetic_hooks": 0.7
-            },
-            "adhd-why-you-need-a-productivity-coach": {
-                "ecb_2_0": 0.6,
-                "neurobiological_networks": 0.6,
-                "failure_recovery_arcs": 0.5,
-                "dynamic_personas": 0.5,
-                "search_intent_graphs": 0.2,
-                "narrative_dna": 0.5,
-                "format_affinities": 0.3,
-                "behavioral_triggers": 0.6,
-                "conflict_pairs": 0.1,
-                "memetic_hooks": 0.5
-            },
-            "adhd-task-initiation-holy-grail": {
-                "ecb_2_0": 0.7,
-                "neurobiological_networks": 0.6,
-                "failure_recovery_arcs": 0.6,
-                "dynamic_personas": 0.6,
-                "search_intent_graphs": 0.2,
-                "narrative_dna": 0.6,
-                "format_affinities": 0.4,
-                "behavioral_triggers": 0.7,
-                "conflict_pairs": 0.1,
-                "memetic_hooks": 0.6
-            },
-            "adhd-why-accountability-works": {
-                "ecb_2_0": 0.6,
-                "neurobiological_networks": 0.6,
-                "failure_recovery_arcs": 0.5,
-                "dynamic_personas": 0.5,
-                "search_intent_graphs": 0.2,
-                "narrative_dna": 0.5,
-                "format_affinities": 0.3,
-                "behavioral_triggers": 0.6,
-                "conflict_pairs": 0.1,
-                "memetic_hooks": 0.5
-            },
-            "adhd-the-future-of-adhd-tools": {
-                "ecb_2_0": 0.6,
-                "neurobiological_networks": 0.6,
-                "failure_recovery_arcs": 0.5,
-                "dynamic_personas": 0.5,
-                "search_intent_graphs": 0.2,
-                "narrative_dna": 0.5,
-                "format_affinities": 0.3,
-                "behavioral_triggers": 0.5,
-                "conflict_pairs": 0.1,
-                "memetic_hooks": 0.7
-            }
-        }
-    },
-    "adhd-why-you-need-a-productivity-coach": {
-        "connections": {
-            "adhd-why-most-apps-fail-you": {
-                "ecb_2_0": 0.4,
-                "neurobiological_networks": 0.6,
-                "failure_recovery_arcs": 0.6,
-                "dynamic_personas": 0.5,
-                "search_intent_graphs": 0.2,
-                "narrative_dna": 0.6,
-                "format_affinities": 0.3,
-                "behavioral_triggers": 0.5,
-                "conflict_pairs": 0.2,
-                "memetic_hooks": 0.3
-            },
-            "adhd-ai-copilot-case-study": {
-                "ecb_2_0": 0.5,
-                "neurobiological_networks": 0.6,
-                "failure_recovery_arcs": 0.5,
-                "dynamic_personas": 0.5,
-                "search_intent_graphs": 0.2,
-                "narrative_dna": 0.5,
-                "format_affinities": 0.3,
-                "behavioral_triggers": 0.5,
-                "conflict_pairs": 0.4,
-                "memetic_hooks": 0.6
-            },
-            "adhd-how-gamification-changed-me": {
-                "ecb_2_0": 0.6,
-                "neurobiological_networks": 0.6,
-                "failure_recovery_arcs": 0.5,
-                "dynamic_personas": 0.5,
-                "search_intent_graphs": 0.2,
-                "narrative_dna": 0.5,
-                "format_affinities": 0.3,
-                "behavioral_triggers": 0.6,
-                "conflict_pairs": 0.1,
-                "memetic_hooks": 0.5
-            },
-            "adhd-task-initiation-holy-grail": {
-                "ecb_2_0": 0.5,
-                "neurobiological_networks": 0.6,
-                "failure_recovery_arcs": 0.6,
-                "dynamic_personas": 0.5,
-                "search_intent_graphs": 0.2,
-                "narrative_dna": 0.5,
-                "format_affinities": 0.4,
-                "behavioral_triggers": 0.6,
-                "conflict_pairs": 0.1,
-                "memetic_hooks": 0.4
-            },
-            "adhd-why-accountability-works": {
-                "ecb_2_0": 0.6,
-                "neurobiological_networks": 0.6,
-                "failure_recovery_arcs": 0.6,
-                "dynamic_personas": 0.6,
-                "search_intent_graphs": 0.2,
-                "narrative_dna": 0.5,
-                "format_affinities": 0.3,
-                "behavioral_triggers": 0.7,
-                "conflict_pairs": 0.1,
-                "memetic_hooks": 0.4
-            },
-            "adhd-the-future-of-adhd-tools": {
-                "ecb_2_0": 0.5,
-                "neurobiological_networks": 0.6,
-                "failure_recovery_arcs": 0.5,
-                "dynamic_personas": 0.5,
-                "search_intent_graphs": 0.2,
-                "narrative_dna": 0.5,
-                "format_affinities": 0.3,
-                "behavioral_triggers": 0.4,
-                "conflict_pairs": 0.3,
-                "memetic_hooks": 0.6
-            }
-        }
-    },
-    "adhd-task-initiation-holy-grail": {
-        "connections": {
-            "adhd-why-most-apps-fail-you": {
-                "ecb_2_0": 0.5,
-                "neurobiological_networks": 0.6,
-                "failure_recovery_arcs": 0.7,
-                "dynamic_personas": 0.5,
-                "search_intent_graphs": 0.2,
-                "narrative_dna": 0.5,
-                "format_affinities": 0.4,
-                "behavioral_triggers": 0.5,
-                "conflict_pairs": 0.1,
-                "memetic_hooks": 0.3
-            },
-            "adhd-ai-copilot-case-study": {
-                "ecb_2_0": 0.6,
-                "neurobiological_networks": 0.6,
-                "failure_recovery_arcs": 0.5,
-                "dynamic_personas": 0.5,
-                "search_intent_graphs": 0.2,
-                "narrative_dna": 0.6,
-                "format_affinities": 0.3,
-                "behavioral_triggers": 0.6,
-                "conflict_pairs": 0.1,
-                "memetic_hooks": 0.6
-            },
-            "adhd-how-gamification-changed-me": {
-                "ecb_2_0": 0.7,
-                "neurobiological_networks": 0.6,
-                "failure_recovery_arcs": 0.6,
-                "dynamic_personas": 0.6,
-                "search_intent_graphs": 0.2,
-                "narrative_dna": 0.6,
-                "format_affinities": 0.4,
-                "behavioral_triggers": 0.7,
-                "conflict_pairs": 0.1,
-                "memetic_hooks": 0.6
-            },
-            "adhd-why-you-need-a-productivity-coach": {
-                "ecb_2_0": 0.5,
-                "neurobiological_networks": 0.6,
-                "failure_recovery_arcs": 0.6,
-                "dynamic_personas": 0.5,
-                "search_intent_graphs": 0.2,
-                "narrative_dna": 0.5,
-                "format_affinities": 0.4,
-                "behavioral_triggers": 0.6,
-                "conflict_pairs": 0.1,
-                "memetic_hooks": 0.4
-            },
-            "adhd-why-accountability-works": {
-                "ecb_2_0": 0.6,
-                "neurobiological_networks": 0.6,
-                "failure_recovery_arcs": 0.6,
-                "dynamic_personas": 0.5,
-                "search_intent_graphs": 0.2,
-                "narrative_dna": 0.5,
-                "format_affinities": 0.4,
-                "behavioral_triggers": 0.7,
-                "conflict_pairs": 0.1,
-                "memetic_hooks": 0.4
-            },
-            "adhd-the-future-of-adhd-tools": {
-                "ecb_2_0": 0.5,
-                "neurobiological_networks": 0.6,
-                "failure_recovery_arcs": 0.5,
-                "dynamic_personas": 0.5,
-                "search_intent_graphs": 0.2,
-                "narrative_dna": 0.5,
-                "format_affinities": 0.3,
-                "behavioral_triggers": 0.5,
-                "conflict_pairs": 0.1,
-                "memetic_hooks": 0.5
-            }
-        }
-    },
-    "adhd-why-accountability-works": {
-        "connections": {
-            "adhd-why-most-apps-fail-you": {
-                "ecb_2_0": 0.4,
-                "neurobiological_networks": 0.6,
-                "failure_recovery_arcs": 0.6,
-                "dynamic_personas": 0.5,
-                "search_intent_graphs": 0.2,
-                "narrative_dna": 0.6,
-                "format_affinities": 0.3,
-                "behavioral_triggers": 0.5,
-                "conflict_pairs": 0.3,
-                "memetic_hooks": 0.3
-            },
-            "adhd-ai-copilot-case-study": {
-                "ecb_2_0": 0.5,
-                "neurobiological_networks": 0.6,
-                "failure_recovery_arcs": 0.5,
-                "dynamic_personas": 0.5,
-                "search_intent_graphs": 0.2,
-                "narrative_dna": 0.5,
-                "format_affinities": 0.3,
-                "behavioral_triggers": 0.5,
-                "conflict_pairs": 0.4,
-                "memetic_hooks": 0.6
-            },
-            "adhd-how-gamification-changed-me": {
-                "ecb_2_0": 0.6,
-                "neurobiological_networks": 0.6,
-                "failure_recovery_arcs": 0.5,
-                "dynamic_personas": 0.5,
-                "search_intent_graphs": 0.2,
-                "narrative_dna": 0.5,
-                "format_affinities": 0.3,
-                "behavioral_triggers": 0.6,
-                "conflict_pairs": 0.1,
-                "memetic_hooks": 0.5
-            },
-            "adhd-why-you-need-a-productivity-coach": {
-                "ecb_2_0": 0.6,
-                "neurobiological_networks": 0.6,
-                "failure_recovery_arcs": 0.6,
-                "dynamic_personas": 0.6,
-                "search_intent_graphs": 0.2,
-                "narrative_dna": 0.5,
-                "format_affinities": 0.3,
-                "behavioral_triggers": 0.7,
-                "conflict_pairs": 0.1,
-                "memetic_hooks": 0.4
-            },
-            "adhd-task-initiation-holy-grail": {
-                "ecb_2_0": 0.6,
-                "neurobiological_networks": 0.6,
-                "failure_recovery_arcs": 0.6,
-                "dynamic_personas": 0.5,
-                "search_intent_graphs": 0.2,
-                "narrative_dna": 0.5,
-                "format_affinities": 0.4,
-                "behavioral_triggers": 0.7,
-                "conflict_pairs": 0.1,
-                "memetic_hooks": 0.4
-            },
-            "adhd-the-future-of-adhd-tools": {
-                "ecb_2_0": 0.5,
-                "neurobiological_networks": 0.6,
-                "failure_recovery_arcs": 0.5,
-                "dynamic_personas": 0.5,
-                "search_intent_graphs": 0.2,
-                "narrative_dna": 0.4,
-                "format_affinities": 0.3,
-                "behavioral_triggers": 0.5,
-                "conflict_pairs": 0.3,
-                "memetic_hooks": 0.5
-            }
-        }
-    },
-    "adhd-the-future-of-adhd-tools": {
-        "connections": {
-            "adhd-why-most-apps-fail-you": {
-                "ecb_2_0": 0.3,
-                "neurobiological_networks": 0.6,
-                "failure_recovery_arcs": 0.5,
-                "dynamic_personas": 0.4,
-                "search_intent_graphs": 0.2,
-                "narrative_dna": 0.6,
-                "format_affinities": 0.3,
-                "behavioral_triggers": 0.3,
-                "conflict_pairs": 0.2,
-                "memetic_hooks": 0.5
-            },
-            "adhd-ai-copilot-case-study": {
-                "ecb_2_0": 0.7,
-                "neurobiological_networks": 0.6,
-                "failure_recovery_arcs": 0.4,
-                "dynamic_personas": 0.7,
-                "search_intent_graphs": 0.5,
-                "narrative_dna": 0.5,
-                "format_affinities": 0.3,
-                "behavioral_triggers": 0.3,
-                "conflict_pairs": 0.1,
-                "memetic_hooks": 0.7
-            },
-            "adhd-how-gamification-changed-me": {
-                "ecb_2_0": 0.6,
-                "neurobiological_networks": 0.6,
-                "failure_recovery_arcs": 0.5,
-                "dynamic_personas": 0.5,
-                "search_intent_graphs": 0.2,
-                "narrative_dna": 0.5,
-                "format_affinities": 0.3,
-                "behavioral_triggers": 0.5,
-                "conflict_pairs": 0.1,
-                "memetic_hooks": 0.7
-            },
-            "adhd-why-you-need-a-productivity-coach": {
-                "ecb_2_0": 0.5,
-                "neurobiological_networks": 0.6,
-                "failure_recovery_arcs": 0.5,
-                "dynamic_personas": 0.5,
-                "search_intent_graphs": 0.2,
-                "narrative_dna": 0.5,
-                "format_affinities": 0.3,
-                "behavioral_triggers": 0.4,
-                "conflict_pairs": 0.3,
-                "memetic_hooks": 0.6
-            },
-            "adhd-task-initiation-holy-grail": {
-                "ecb_2_0": 0.5,
-                "neurobiological_networks": 0.6,
-                "failure_recovery_arcs": 0.5,
-                "dynamic_personas": 0.5,
-                "search_intent_graphs": 0.2,
-                "narrative_dna": 0.5,
-                "format_affinities": 0.3,
-                "behavioral_triggers": 0.5,
-                "conflict_pairs": 0.1,
-                "memetic_hooks": 0.5
-            },
-            "adhd-why-accountability-works": {
-                "ecb_2_0": 0.5,
-                "neurobiological_networks": 0.6,
-                "failure_recovery_arcs": 0.5,
-                "dynamic_personas": 0.5,
-                "search_intent_graphs": 0.2,
-                "narrative_dna": 0.4,
-                "format_affinities": 0.3,
-                "behavioral_triggers": 0.5,
-                "conflict_pairs": 0.3,
-                "memetic_hooks": 0.5
-            }
-        }
-    }
+    ]
 }
