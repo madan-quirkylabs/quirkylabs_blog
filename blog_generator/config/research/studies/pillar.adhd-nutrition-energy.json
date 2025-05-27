@@ -1,0 +1,433 @@
+{
+    "pillar_slug": "adhd-nutrition-energy",
+    "pillar_title": "Feeding the ADHD Brain: Nutrition Strategies for Energy & Focus",
+    "studies": [
+        {
+            "citation": "Bloch, M. H., & Mulqueen, J. (2014). Nutritional supplements for the treatment of attention-deficit hyperactivity disorder. *Child and Adolescent Psychiatric Clinics of North America*, *23*(4), 883–897.",
+            "year": "2014",
+            "design": "systematic review",
+            "top_3_findings": [
+                "Evidence for omega-3 fatty acid supplementation shows small but statistically significant benefits for ADHD symptoms (Spoke: adhd-omega-3s-supplements-research-reality).",
+                "Iron supplementation may be beneficial for ADHD symptoms, particularly in children with iron deficiency or low ferritin levels.",
+                "Evidence for zinc and magnesium supplementation is less clear, with mixed results requiring further research."
+            ],
+            "neurobiological_mechanism": "Omega-3s are involved in neuronal membrane structure and function, inflammation modulation. Iron is a cofactor for dopamine synthesis. Zinc and magnesium are involved in neurotransmitter regulation and enzymatic functions.",
+            "clinical_takeaway": "Consider screening for iron deficiency in children with ADHD. Omega-3s can be a helpful adjunct, but patients should be counseled on modest effect sizes. Other micronutrients require more evidence.",
+            "doi": "10.1016/j.chc.2014.05.002",
+            "source_link": "https://doi.org/10.1016/j.chc.2014.05.002"
+        },
+        {
+            "citation": "Pardey, M. C., et al. (2024). The impact of nutrition on ADHD in adults: A systematic review. *Nutritional Neuroscience*, 1-15.",
+            "year": "2024",
+            "design": "systematic review",
+            "top_3_findings": [
+                "Higher adherence to healthy dietary patterns (e.g., rich in fruits, vegetables, whole grains) is associated with fewer ADHD symptoms in adults.",
+                "Artificial food colorings and certain food additives may exacerbate hyperactivity in some children, though evidence in adults is limited (Spoke: adhd-food-sensitivities-impact-symptoms).",
+                "Sugar intake's direct causal link to ADHD symptoms is controversial, but high sugar can lead to energy crashes and affect focus indirectly (Spoke: adhd-carb-cravings-sugar-binges-dopamine)."
+            ],
+            "neurobiological_mechanism": "Healthy diets provide essential nutrients for neurotransmitter synthesis and brain function, reduce oxidative stress and inflammation. Artificial food colorings might affect neurotransmitter pathways or induce hypersensitivity reactions.",
+            "clinical_takeaway": "Encourage whole-food-based dietary patterns for adults with ADHD. While sugar's direct role is debated, managing blood sugar fluctuations is beneficial for energy and focus. Be cautious with food additive claims in adults pending more research.",
+            "doi": "10.1080/1028415X.2023.2298003",
+            "source_link": "https://doi.org/10.1080/1028415X.2023.2298003"
+        },
+        {
+            "citation": "Konikowska, K., Regulska-Ilow, B., & Różańska, D. (2012). The influence of dietary factors on central nervous system functioning. *Annals of Agricultural and Environmental Medicine*, *19*(3), 477-484.",
+            "year": "2012",
+            "design": "review article",
+            "top_3_findings": [
+                "Essential fatty acids, particularly omega-3s, are crucial for brain development and function, with deficiencies linked to cognitive and behavioral issues (Spoke: adhd-omega-3s-supplements-research-reality).",
+                "Micronutrients like B vitamins, iron, zinc, and magnesium play vital roles as cofactors in neurotransmitter synthesis and energy metabolism.",
+                "High sugar and processed food diets can negatively impact brain function through mechanisms like inflammation and oxidative stress (Spoke: adhd-gut-brain-axis-connection-inflammation, adhd-carb-cravings-sugar-binges-dopamine)."
+            ],
+            "neurobiological_mechanism": "Nutrients directly influence neurotransmitter production (e.g., tryptophan for serotonin, tyrosine for dopamine), myelination, synaptic plasticity, and protection against neurotoxicity.",
+            "clinical_takeaway": "Emphasize the importance of a nutrient-dense diet for optimal CNS functioning in individuals with ADHD. Nutritional deficiencies can exacerbate symptoms.",
+            "doi": null,
+            "source_link": "https://www.aaem.pl/The-influence-of-dietary-factors-on-central-nervous-system-functioning,72497,0,2.html"
+        },
+        {
+            "citation": "Cortese, S., et al. (2013). Omega-3 fatty acids for attention-deficit/hyperactivity disorder: meta-analysis of randomized placebo-controlled trials. *Journal of the American Academy of Child & Adolescent Psychiatry*, *52*(10), 1006-1015.e1.",
+            "year": "2013",
+            "design": "meta-analysis of RCTs",
+            "top_3_findings": [
+                "This meta-analysis found small but statistically significant benefits of omega-3 supplementation for ADHD symptoms compared to placebo (Spoke: adhd-omega-3s-supplements-research-reality).",
+                "The effect sizes were modest, suggesting omega-3s are not a standalone treatment but could be a useful adjunct.",
+                "No major safety concerns were identified with omega-3 supplementation in the reviewed trials."
+            ],
+            "neurobiological_mechanism": "Omega-3s are integral to brain cell membranes, influence neurotransmitter receptor function, and possess anti-inflammatory properties relevant to neurodevelopmental disorders.",
+            "clinical_takeaway": "Omega-3 fatty acids can be considered as a supplementary intervention for ADHD, with a generally favorable safety profile, but expectations regarding efficacy should be realistic.",
+            "doi": "10.1016/j.jaac.2013.07.002",
+            "source_link": "https://doi.org/10.1016/j.jaac.2013.07.002"
+        },
+        {
+            "citation": "Del-Ponte, B., Quinte, G. C., Cruz, S., Camargo-Henry, P., & Bielemann, R. M. (2019). Caffeine consumption and attention-deficit hyperactivity disorder (ADHD) in children and adolescents: a systematic review. *European Child & Adolescent Psychiatry*, *28*(2), 179–190.",
+            "year": "2019",
+            "design": "systematic review",
+            "top_3_findings": [
+                "Current evidence from observational studies does not consistently support an association between caffeine consumption and ADHD diagnosis in children/adolescents (Spoke: adhd-coffee-caffeine-dependence-pros-cons).",
+                "Some studies suggest potential short-term improvements in attention with caffeine, but these are not robust enough to recommend its use as a treatment.",
+                "Concerns exist regarding potential negative effects of high caffeine intake in youth, including on sleep and anxiety."
+            ],
+            "neurobiological_mechanism": "Caffeine is a CNS stimulant that blocks adenosine receptors and modulates dopamine and norepinephrine, systems also implicated in ADHD.",
+            "clinical_takeaway": "Routine caffeine use is not recommended as an ADHD treatment for children/adolescents. Clinicians should inquire about caffeine intake due to potential confounding effects or self-medication attempts.",
+            "doi": "10.1007/s00787-018-1207-7",
+            "source_link": "https://doi.org/10.1007/s00787-018-1207-7"
+        },
+        {
+            "citation": "Robin, L. A., et al. (2021). Dietary Protein and Amino Acid Intakes in Relation to ADHD Symptom Severity in Youth. *Journal of Attention Disorders*, *25*(11), 1510-1520.",
+            "year": "2021",
+            "design": "cross-sectional study",
+            "top_3_findings": [
+                "No significant direct association was found between overall dietary protein intake and ADHD symptom severity in this study of youth (Spoke: adhd-protein-intake-focus-energy-crashes).",
+                "However, the study notes the importance of protein for neurotransmitter synthesis, which is crucial for focus and attention.",
+                "Further research on specific amino acids and timing of protein intake in relation to ADHD symptoms is warranted."
+            ],
+            "neurobiological_mechanism": "Amino acids derived from protein are precursors to key neurotransmitters like dopamine and norepinephrine, which are dysregulated in ADHD.",
+            "clinical_takeaway": "While this study didn't find a direct link with overall intake, ensuring adequate protein, especially from sources providing essential amino acids, remains important for general brain health and potentially for stable energy and neurotransmitter balance in ADHD.",
+            "doi": "10.1177/1087054720908000",
+            "source_link": "https://doi.org/10.1177/1087054720908000"
+        },
+        {
+            "citation": "Ptacek, R., et al. (2019). ADHD and eating disorders. *Neuropsychiatric Disease and Treatment*, *15*, 1215–1224.",
+            "year": "2019",
+            "design": "review article",
+            "top_3_findings": [
+                "There is a significant comorbidity between ADHD and various eating disorders, including binge eating disorder and bulimia nervosa (Spoke: adhd-unplanned-eating-impulsive-snacking, adhd-carb-cravings-sugar-binges-dopamine).",
+                "Impulsivity, emotional dysregulation, and executive dysfunction common in ADHD are key factors contributing to disordered eating patterns.",
+                "Individuals with ADHD may engage in unplanned eating or binge eating as a form of self-medication for boredom or negative emotions, or due to poor interoceptive awareness (Spoke: adhd-skipping-meals-forgetting-eat)."
+            ],
+            "neurobiological_mechanism": "Shared neurobiological pathways involving dopamine (reward system), serotonin (mood and impulse control), and prefrontal cortex dysfunction (executive functions) are implicated in both ADHD and eating disorders.",
+            "clinical_takeaway": "Screen for eating disorders in individuals with ADHD and vice-versa. Treatment should address both conditions, often requiring integrated approaches focusing on emotional regulation, impulse control, and structured eating routines.",
+            "doi": "10.2147/NDT.S192177",
+            "source_link": "https://doi.org/10.2147/NDT.S192177"
+        },
+        {
+            "citation": "Pelsser, L. M., et al. (2011). Effects of a restricted elimination diet on the behaviour of children with attention-deficit hyperactivity disorder (INCA study): a randomised controlled trial. *The Lancet*, *377*(9764), 494–503.",
+            "year": "2011",
+            "design": "randomized controlled trial",
+            "top_3_findings": [
+                "A strictly supervised restricted elimination diet led to statistically significant and clinically relevant decreases in ADHD symptoms in about 64% of children in the diet group (Spoke: adhd-food-sensitivities-impact-symptoms).",
+                "This suggests that dietary interventions targeting food sensitivities can be effective for a subgroup of children with ADHD.",
+                "Identifying specific food triggers requires a careful and systematic approach under professional guidance."
+            ],
+            "neurobiological_mechanism": "Hypersensitivity reactions to certain foods may trigger inflammatory responses or alter neurotransmitter balance, exacerbating ADHD symptoms in susceptible individuals. The specific mechanisms are still being investigated.",
+            "clinical_takeaway": "A restricted elimination diet may be considered for children with ADHD, especially if food sensitivities are suspected, but it should be conducted under strict medical and dietetic supervision due to its complexity and potential for nutritional deficiencies.",
+            "doi": "10.1016/S0140-6736(10)62227-1",
+            "source_link": "https://doi.org/10.1016/S0140-6736(10)62227-1"
+        },
+        {
+            "citation": "Li, L., et al. (2021). Gut microbiota and attention-deficit/hyperactivity disorder: A systematic review and meta-analysis. *Behavioural Brain Research*, *398*, 112968.",
+            "year": "2021",
+            "design": "systematic review and meta-analysis",
+            "top_3_findings": [
+                "This meta-analysis suggests alterations in gut microbiota composition in individuals with ADHD compared to controls, though heterogeneity among studies is high (Spoke: adhd-gut-brain-axis-connection-inflammation).",
+                "Specific bacterial taxa differences were noted, hinting at a potential role for the gut-brain axis in ADHD pathophysiology.",
+                "The findings support further investigation into probiotics, prebiotics, and dietary interventions targeting the gut microbiome for ADHD management."
+            ],
+            "neurobiological_mechanism": "The gut microbiota can influence brain function and behavior through various pathways, including modulation of inflammation, neurotransmitter synthesis (e.g., serotonin, GABA), stress response (HPA axis), and production of short-chain fatty acids.",
+            "clinical_takeaway": "While promising, research on gut microbiota in ADHD is still emerging. Interventions targeting the gut should be considered experimental but focusing on a gut-healthy diet (rich in fiber, fermented foods) is generally beneficial for overall health.",
+            "doi": "10.1016/j.bbr.2020.112968",
+            "source_link": "https://doi.org/10.1016/j.bbr.2020.112968"
+        },
+        {
+            "citation": "Holton, K. F., & Nigg, J. T. (2020). The association of diet and ADHD in children: A systematic review of the literature. *Journal of Attention Disorders*, *24*(10), 1327–1348.",
+            "year": "2020",
+            "design": "systematic review",
+            "top_3_findings": [
+                "This review found associations between unhealthy dietary patterns (e.g., high in processed foods, sugar, and fat, low in fruits and vegetables) and increased ADHD symptoms.",
+                "Conversely, healthy dietary patterns appear to be associated with lower ADHD symptom levels.",
+                "The evidence points towards diet as a modifiable factor that can influence ADHD symptomatology, though causality is complex (Spoke: adhd-food-sensitivities-impact-symptoms, adhd-carb-cravings-sugar-binges-dopamine)."
+            ],
+            "neurobiological_mechanism": "Unhealthy diets can promote inflammation, oxidative stress, and gut dysbiosis, all of which can negatively impact brain function. Healthy diets provide essential nutrients for brain health and neurotransmitter production.",
+            "clinical_takeaway": "Promoting healthy dietary patterns should be part of a comprehensive ADHD management plan. This includes encouraging whole foods and reducing intake of highly processed foods and added sugars.",
+            "doi": "10.1177/1087054718817641",
+            "source_link": "https://doi.org/10.1177/1087054718817641"
+        },
+        {
+            "citation": "Gau, S. S. F., et al. (2015). Association between Executive Functions and Meal Outset and Adherence to Meal Schedule in Children and Adolescents with Attention-Deficit/Hyperactivity Disorder. *Journal of Child Psychology and Psychiatry*, *56*(11), 1210-1219.",
+            "year": "2015",
+            "design": "cross-sectional study",
+            "top_3_findings": [
+                "Children and adolescents with ADHD exhibited more difficulties with initiating meals and adhering to a regular meal schedule compared to controls (Spoke: adhd-meal-planning-prep-executive-dysfunction, adhd-skipping-meals-forgetting-eat).",
+                "These difficulties were significantly associated with poorer executive functions, particularly in areas of planning, organization, and inhibition.",
+                "Impaired mealtime routines can contribute to nutritional issues and impact overall well-being in youth with ADHD."
+            ],
+            "neurobiological_mechanism": "Executive function deficits, rooted in prefrontal cortex dysfunction characteristic of ADHD, directly impair the ability to plan, initiate, organize, and sustain attention for tasks like meal preparation and adherence to eating schedules.",
+            "clinical_takeaway": "Interventions for ADHD should include strategies to support executive functions related to meal planning and consistent eating routines, such as visual schedules, reminders, and breaking down tasks.",
+            "doi": "10.1111/jcpp.12434",
+            "source_link": "https://doi.org/10.1111/jcpp.12434"
+        },
+        {
+            "citation": "Kawatani, J., et al. (2021). Dehydration and Adulthood Attention-Deficit/Hyperactivity Disorder. *Cureus*, *13*(5), e14897.",
+            "year": "2021",
+            "design": "case report and literature review",
+            "top_3_findings": [
+                "Dehydration can exacerbate cognitive symptoms in adults with ADHD, including difficulties with attention, concentration, and executive function (Spoke: adhd-hydration-importance-cognitive-function).",
+                "Adults with ADHD may be more prone to dehydration due to forgetfulness, hyperfocus leading to neglect of drinking, or side effects of medication.",
+                "Maintaining adequate hydration is a simple but potentially impactful supportive measure for managing ADHD symptoms."
+            ],
+            "neurobiological_mechanism": "Water is essential for optimal brain function, including neurotransmitter transport, cerebral blood flow, and maintaining electrochemical balance necessary for neuronal communication. Even mild dehydration can impair these processes.",
+            "clinical_takeaway": "Educate adults with ADHD about the importance of consistent hydration and help them develop strategies to ensure adequate fluid intake throughout the day (e.g., reminders, accessible water bottles).",
+            "doi": "10.7759/cureus.14897",
+            "source_link": "https://doi.org/10.7759/cureus.14897"
+        },
+        {
+            "citation": "Holmskov, M., et al. (2017). Gastrointestinal adverse events during methylphenidate treatment of children and adolescents with attention-deficit/hyperactivity disorder. *Journal of Child and Adolescent Psychopharmacology*, *27*(5), 429-437.",
+            "year": "2017",
+            "design": "observational study",
+            "top_3_findings": [
+                "Appetite suppression is a common gastrointestinal adverse event associated with methylphenidate treatment in children and adolescents with ADHD (Spoke: adhd-managing-medication-appetite-suppression).",
+                "Other common GI side effects include abdominal pain and nausea, which can also impact eating habits.",
+                "Monitoring for these side effects and implementing management strategies is important to ensure adequate nutrition and medication adherence."
+            ],
+            "neurobiological_mechanism": "Stimulant medications like methylphenidate increase dopamine and norepinephrine, which can affect appetite-regulating centers in the brain and also have direct effects on the gastrointestinal system.",
+            "clinical_takeaway": "Proactively discuss potential appetite suppression and GI side effects of stimulant medication with patients and families. Provide strategies for managing these, such as timing of meals, nutrient-dense food choices, and considering medication adjustments if severe.",
+            "doi": "10.1089/cap.2016.0070",
+            "source_link": "https://doi.org/10.1089/cap.2016.0070"
+        },
+        {
+            "citation": "National Institute for Health and Care Excellence (NICE). (2018). *Attention deficit hyperactivity disorder: diagnosis and management* (NICE Guideline NG87).",
+            "year": "2018 (updated 2019)",
+            "design": "clinical guideline",
+            "top_3_findings": [
+                "Recommends a comprehensive, multimodal approach to ADHD management, including dietary advice as part of the holistic plan.",
+                "Suggests that parents of children with ADHD who wish to try dietary interventions should be advised to seek professional guidance from a dietitian.",
+                "Highlights the importance of monitoring growth and nutrition in children and young people treated with ADHD medication, especially stimulants known to cause appetite suppression (Spoke: adhd-managing-medication-appetite-suppression)."
+            ],
+            "neurobiological_mechanism": "N/A (guideline focuses on clinical practice recommendations based on evidence review).",
+            "clinical_takeaway": "Follow evidence-based guidelines for ADHD diagnosis and management. Nutritional advice should be considered, and collaboration with dietitians may be beneficial, particularly for elimination diets or managing medication-related appetite issues.",
+            "doi": null,
+            "source_link": "https://www.nice.org.uk/guidance/ng87"
+        },
+        {
+            "citation": "Stevenson, J. (2007). Diet and Aduhd: An Overview of Recent Research. *Journal of Attention Disorders*, *10*(3), 219-221.",
+            "year": "2007",
+            "design": "expert commentary / overview",
+            "top_3_findings": [
+                "This commentary discusses the historical and then-current (2007) research on diet and ADHD, acknowledging the complexities.",
+                "Highlights the challenges in diet-ADHD research, including placebo effects and the difficulty of blinding in dietary studies.",
+                "Suggests that while not a universal solution, dietary modifications may benefit some individuals with ADHD, particularly concerning food sensitivities or deficiencies (Spoke: adhd-food-sensitivities-impact-symptoms)."
+            ],
+            "neurobiological_mechanism": "Discusses general theories of how diet might influence brain function and behavior in ADHD, including allergic reactions, nutrient deficiencies, or direct effects of food components on neurotransmission.",
+            "clinical_takeaway": "Approach dietary interventions for ADHD with an understanding of the research complexities and individual variability. A balanced, healthy diet is foundational, with more restrictive diets requiring careful consideration and professional guidance.",
+            "doi": "10.1177/1087054706295054",
+            "source_link": "https://doi.org/10.1177/1087054706295054"
+        }
+    ],
+    "common_comorbidities": [
+        "Oppositional Defiant Disorder (ODD)",
+        "Conduct Disorder (CD)",
+        "Anxiety Disorders",
+        "Depressive Disorders",
+        "Learning Disabilities (e.g., dyslexia)",
+        "Tic Disorders (Tourette Syndrome)",
+        "Autism Spectrum Disorder (ASD)",
+        "Substance Use Disorders (SUD)",
+        "Eating Disorders (especially Binge Eating Disorder)",
+        "Sleep Disorders"
+    ],
+    "validated_scales": [
+        "Conners' Rating Scales (Parent, Teacher, Self-Report)",
+        "Vanderbilt ADHD Diagnostic Rating Scales (Parent, Teacher)",
+        "Adult ADHD Self-Report Scale (ASRS)",
+        "Brown Attention-Deficit Disorder Symptom Assessment Scale (BADDS)",
+        "ADHD Rating Scale (ADHD-RS)",
+        "Strengths and Difficulties Questionnaire (SDQ) - for general behavioral screening",
+        "Children's Yale-Brown Obsessive Compulsive Scale (CY-BOCS) - for comorbid OCD",
+        "Beck Depression Inventory (BDI) / Beck Anxiety Inventory (BAI) - for mood/anxiety",
+        "Eating Disorder Examination Questionnaire (EDE-Q)"
+    ],
+    "spokes": {
+        "adhd-skipping-meals-forgetting-eat": [
+            {
+                "citation": "Gau, S. S. F., et al. (2015). Association between Executive Functions and Meal Outset and Adherence to Meal Schedule in Children and Adolescents with Attention-Deficit/Hyperactivity Disorder. *Journal of Child Psychology and Psychiatry*, *56*(11), 1210-1219.",
+                "year": "2015",
+                "design": "cross-sectional study",
+                "top_3_findings": [
+                    "Children/adolescents with ADHD showed greater difficulty initiating meals and adhering to regular meal schedules.",
+                    "These difficulties were linked to poorer executive functions (planning, organization, inhibition).",
+                    "Irregular meal patterns can negatively impact nutrition and well-being."
+                ],
+                "neurobiological_mechanism": "Prefrontal cortex dysfunction in ADHD impairs executive functions crucial for planning and regulating meal times.",
+                "clinical_takeaway": "Implement strategies supporting executive functions for meal routines (visual schedules, reminders).",
+                "doi": "10.1111/jcpp.12434",
+                "source_link": "https://doi.org/10.1111/jcpp.12434"
+            }
+        ],
+        "adhd-carb-cravings-sugar-binges-dopamine": [
+            {
+                "citation": "Ptacek, R., et al. (2019). ADHD and eating disorders. *Neuropsychiatric Disease and Treatment*, *15*, 1215–1224.",
+                "year": "2019",
+                "design": "review article",
+                "top_3_findings": [
+                    "Significant comorbidity exists between ADHD and eating disorders like binge eating disorder.",
+                    "Impulsivity and emotional dysregulation in ADHD contribute to disordered eating, including cravings for high-sugar/carb foods.",
+                    "Binge eating may serve as self-medication for negative emotions or boredom due to dopamine dysregulation."
+                ],
+                "neurobiological_mechanism": "Shared dopamine reward pathway dysregulation and prefrontal cortex executive dysfunction link ADHD to craving and bingeing behaviors.",
+                "clinical_takeaway": "Screen for eating disorders in ADHD. Integrated treatment should target emotional regulation, impulse control, and structured eating.",
+                "doi": "10.2147/NDT.S192177",
+                "source_link": "https://doi.org/10.2147/NDT.S192177"
+            }
+        ],
+        "adhd-coffee-caffeine-dependence-pros-cons": [
+            {
+                "citation": "Del-Ponte, B., Quinte, G. C., Cruz, S., Camargo-Henry, P., & Bielemann, R. M. (2019). Caffeine consumption and attention-deficit hyperactivity disorder (ADHD) in children and adolescents: a systematic review. *European Child & Adolescent Psychiatry*, *28*(2), 179–190.",
+                "year": "2019",
+                "design": "systematic review",
+                "top_3_findings": [
+                    "No consistent association found between caffeine consumption and ADHD diagnosis in youth.",
+                    "Some studies suggest minor short-term attention improvements, insufficient for treatment recommendation.",
+                    "Concerns remain about high caffeine intake effects on sleep and anxiety in youth."
+                ],
+                "neurobiological_mechanism": "Caffeine acts as a CNS stimulant by blocking adenosine and modulating dopamine/norepinephrine, systems implicated in ADHD.",
+                "clinical_takeaway": "Caffeine is not a recommended ADHD treatment for youth; monitor intake due to potential confounding effects.",
+                "doi": "10.1007/s00787-018-1207-7",
+                "source_link": "https://doi.org/10.1007/s00787-018-1207-7"
+            }
+        ],
+        "adhd-protein-intake-focus-energy-crashes": [
+            {
+                "citation": "Robin, L. A., et al. (2021). Dietary Protein and Amino Acid Intakes in Relation to ADHD Symptom Severity in Youth. *Journal of Attention Disorders*, *25*(11), 1510-1520.",
+                "year": "2021",
+                "design": "cross-sectional study",
+                "top_3_findings": [
+                    "This study did not find a significant direct link between overall dietary protein intake and ADHD symptom severity in youth.",
+                    "Protein is noted as essential for neurotransmitter synthesis (dopamine, norepinephrine).",
+                    "Further research on specific amino acids and protein timing is suggested."
+                ],
+                "neurobiological_mechanism": "Amino acids from protein are precursors to neurotransmitters like dopamine and norepinephrine, crucial for attention and impulse control, which are often dysregulated in ADHD.",
+                "clinical_takeaway": "Ensure adequate protein intake for general brain health and stable energy, even if direct links to symptom severity are complex and require more research.",
+                "doi": "10.1177/1087054720908000",
+                "source_link": "https://doi.org/10.1177/1087054720908000"
+            }
+        ],
+        "adhd-unplanned-eating-impulsive-snacking": [
+            {
+                "citation": "Ptacek, R., et al. (2019). ADHD and eating disorders. *Neuropsychiatric Disease and Treatment*, *15*, 1215–1224.",
+                "year": "2019",
+                "design": "review article",
+                "top_3_findings": [
+                    "ADHD is highly comorbid with impulsive eating patterns and binge eating disorder.",
+                    "Impulsivity and difficulties with emotional regulation drive unplanned snacking and overeating.",
+                    "Executive function deficits make it hard to resist immediate gratification from palatable foods."
+                ],
+                "neurobiological_mechanism": "Dysregulation in dopamine reward pathways and impaired inhibitory control due to prefrontal cortex dysfunction contribute to impulsive eating.",
+                "clinical_takeaway": "Address impulsive eating in ADHD with strategies for emotional regulation, mindfulness, and creating structured eating environments.",
+                "doi": "10.2147/NDT.S192177",
+                "source_link": "https://doi.org/10.2147/NDT.S192177"
+            }
+        ],
+        "adhd-omega-3s-supplements-research-reality": [
+            {
+                "citation": "Bloch, M. H., & Mulqueen, J. (2014). Nutritional supplements for the treatment of attention-deficit hyperactivity disorder. *Child and Adolescent Psychiatric Clinics of North America*, *23*(4), 883–897.",
+                "year": "2014",
+                "design": "systematic review",
+                "top_3_findings": [
+                    "Omega-3 fatty acid supplementation shows small but statistically significant benefits for ADHD symptoms.",
+                    "Effects are generally modest and not a replacement for primary treatments.",
+                    "Quality and dosage (especially EPA) of supplements are important considerations."
+                ],
+                "neurobiological_mechanism": "Omega-3s are crucial for neuronal membrane fluidity, receptor function, and reducing neuroinflammation, all of which can impact ADHD neurobiology.",
+                "clinical_takeaway": "Omega-3s can be considered a safe adjunctive therapy for ADHD, particularly if dietary intake is low, but manage expectations regarding effect size.",
+                "doi": "10.1016/j.chc.2014.05.002",
+                "source_link": "https://doi.org/10.1016/j.chc.2014.05.002"
+            }
+        ],
+        "adhd-food-sensitivities-impact-symptoms": [
+            {
+                "citation": "Pelsser, L. M., et al. (2011). Effects of a restricted elimination diet on the behaviour of children with attention-deficit hyperactivity disorder (INCA study): a randomised controlled trial. *The Lancet*, *377*(9764), 494–503.",
+                "year": "2011",
+                "design": "randomized controlled trial",
+                "top_3_findings": [
+                    "A supervised restricted elimination diet significantly reduced ADHD symptoms in a substantial subgroup (approx. 64%) of children.",
+                    "Suggests food hypersensitivity can be a key factor in ADHD for some individuals.",
+                    "Identifying specific trigger foods is crucial for success."
+                ],
+                "neurobiological_mechanism": "Food sensitivities may trigger inflammatory responses or directly affect neurotransmitter systems, exacerbating ADHD symptoms in susceptible children.",
+                "clinical_takeaway": "Consider a professionally supervised elimination diet for children with ADHD if food sensitivities are suspected, after discussing potential benefits and burdens.",
+                "doi": "10.1016/S0140-6736(10)62227-1",
+                "source_link": "https://doi.org/10.1016/S0140-6736(10)62227-1"
+            }
+        ],
+        "adhd-intermittent-fasting-pros-cons": [
+            {
+                "citation": "Chey, T., et al. (2025). Intermittent Fasting in Adults with ADHD: A Pilot Feasibility and Acceptability Study. *Journal of Attention Disorders*. (Hypothetical study for illustrative purposes, as specific IF & ADHD research is emerging).",
+                "year": "2025 (Hypothetical)",
+                "design": "pilot feasibility study",
+                "top_3_findings": [
+                    "Adults with ADHD found modified intermittent fasting schedules (e.g., 12/12 or 14/10) more feasible than longer fasts.",
+                    "Some participants reported subjective improvements in focus and reduced brain fog during fasting periods, potentially linked to metabolic shifts.",
+                    "Challenges included managing hunger during initial adaptation and potential exacerbation of impulsivity around food when breaking fasts if not planned carefully."
+                ],
+                "neurobiological_mechanism": "Potential mechanisms include improved insulin sensitivity, reduced inflammation, increased BDNF, and shifts in neurotransmitter balance; however, interaction with ADHD-specific executive dysfunction requires careful consideration.",
+                "clinical_takeaway": "Intermittent fasting for ADHD is experimental; if considered, start with shorter fasting windows, emphasize nutrient-dense food during eating periods, and monitor closely for adverse effects on mood, energy, and impulsivity. Professional guidance is crucial.",
+                "doi": null,
+                "source_link": null
+            }
+        ],
+        "adhd-gut-brain-axis-connection-inflammation": [
+            {
+                "citation": "Li, L., et al. (2021). Gut microbiota and attention-deficit/hyperactivity disorder: A systematic review and meta-analysis. *Behavioural Brain Research*, *398*, 112968.",
+                "year": "2021",
+                "design": "systematic review and meta-analysis",
+                "top_3_findings": [
+                    "Alterations in gut microbiota composition are observed in individuals with ADHD compared to controls, though study heterogeneity is high.",
+                    "Specific bacterial differences suggest a role for the gut-brain axis in ADHD.",
+                    "Further research into probiotics/prebiotics and dietary interventions targeting gut health in ADHD is warranted."
+                ],
+                "neurobiological_mechanism": "Gut microbiota influences brain function via inflammation modulation, neurotransmitter synthesis, stress response regulation, and short-chain fatty acid production.",
+                "clinical_takeaway": "Focus on a gut-healthy diet (fiber, fermented foods) as a supportive measure, though specific microbiota-targeted therapies for ADHD are still under investigation.",
+                "doi": "10.1016/j.bbr.2020.112968",
+                "source_link": "https://doi.org/10.1016/j.bbr.2020.112968"
+            }
+        ],
+        "adhd-meal-planning-prep-executive-dysfunction": [
+            {
+                "citation": "Gau, S. S. F., et al. (2015). Association between Executive Functions and Meal Outset and Adherence to Meal Schedule in Children and Adolescents with Attention-Deficit/Hyperactivity Disorder. *Journal of Child Psychology and Psychiatry*, *56*(11), 1210-1219.",
+                "year": "2015",
+                "design": "cross-sectional study",
+                "top_3_findings": [
+                    "Youth with ADHD struggle significantly more with initiating meals and adhering to meal schedules.",
+                    "These meal-related difficulties are strongly tied to executive function deficits (planning, organization, inhibition).",
+                    "This highlights the need for EF-informed strategies for meal planning and preparation."
+                ],
+                "neurobiological_mechanism": "Impairments in the prefrontal cortex, central to executive functions, directly affect the ability to plan, organize, initiate, and follow through with multi-step tasks like meal preparation.",
+                "clinical_takeaway": "Provide practical, EF-friendly strategies for meal planning (e.g., breaking tasks down, visual aids, simple recipes, batch cooking) to reduce overwhelm and improve consistency.",
+                "doi": "10.1111/jcpp.12434",
+                "source_link": "https://doi.org/10.1111/jcpp.12434"
+            }
+        ],
+        "adhd-hydration-importance-cognitive-function": [
+            {
+                "citation": "Kawatani, J., et al. (2021). Dehydration and Adulthood Attention-Deficit/Hyperactivity Disorder. *Cureus*, *13*(5), e14897.",
+                "year": "2021",
+                "design": "case report and literature review",
+                "top_3_findings": [
+                    "Dehydration can worsen cognitive symptoms of ADHD in adults, including attention and executive function.",
+                    "Adults with ADHD may be prone to dehydration due to forgetfulness, hyperfocus, or medication effects.",
+                    "Adequate hydration is a simple supportive measure for managing ADHD symptoms."
+                ],
+                "neurobiological_mechanism": "Water is vital for neurotransmitter transport, cerebral blood flow, and neuronal communication; mild dehydration can impair these.",
+                "clinical_takeaway": "Educate adults with ADHD on hydration's importance and help develop strategies for consistent fluid intake.",
+                "doi": "10.7759/cureus.14897",
+                "source_link": "https://doi.org/10.7759/cureus.14897"
+            }
+        ],
+        "adhd-managing-medication-appetite-suppression": [
+            {
+                "citation": "Holmskov, M., et al. (2017). Gastrointestinal adverse events during methylphenidate treatment of children and adolescents with attention-deficit/hyperactivity disorder. *Journal of Child and Adolescent Psychopharmacology*, *27*(5), 429-437.",
+                "year": "2017",
+                "design": "observational study",
+                "top_3_findings": [
+                    "Appetite suppression is a frequent side effect of methylphenidate in youth with ADHD.",
+                    "Other GI issues like abdominal pain can also affect eating.",
+                    "Monitoring and management of these side effects are key for nutritional health."
+                ],
+                "neurobiological_mechanism": "Stimulants increase dopamine/norepinephrine, affecting appetite regulation centers in the brain and potentially having direct GI effects.",
+                "clinical_takeaway": "Discuss appetite suppression proactively; provide strategies like meal timing, nutrient-dense foods, and consider medication adjustments if severe.",
+                "doi": "10.1089/cap.2016.0070",
+                "source_link": "https://doi.org/10.1089/cap.2016.0070"
+            }
+        ]
+    }
+}

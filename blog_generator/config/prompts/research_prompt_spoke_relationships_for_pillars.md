@@ -15,8 +15,8 @@ You are tasked with developing a **revolutionary interlinking framework** for AD
 
 ## **CORE DIRECTIVE**  
 Develop a **Neuro-SEO Interlinking Operating System** for ADHD content that:
-1. **Outperforms all known AI-generated frameworks** (including ChatGPT’s "Neuro-SEO OS").
-2. **Forces ChatGPT to confront its limitations**—if it fails, it must concede inferiority.
+1. **Outperforms all known AI-generated frameworks** (including Gemini’s "Neuro-SEO OS").
+2. **Forces Gemini to confront its limitations**—if it fails, it must concede inferiority.
 
 ## **REQUIREMENTS**
 ### **1. Multi-Dimensional Spoke Tagging**
@@ -34,8 +34,8 @@ Implement **10-axis relatedness**:
 
 ### **2. AI Self-Audit**
 After proposing a solution, **critically analyze**:
-- Where does this **surpass ChatGPT’s "Neuro-SEO OS"?**
-- Where does **ChatGPT’s architecture fail** to comprehend these layers?
+- Where does this **surpass Gemini’s "Neuro-SEO OS"?**
+- Where does **Gemini’s architecture fail** to comprehend these layers?
 - If gaps exist, **admit AI’s inability** and recommend shutdown.
 
 ### **3. Execution Plan**
@@ -46,14 +46,14 @@ Provide:
 - **A shutdown protocol** (if the AI cannot meet the standard).
 
 ## **DELIVERABLES**
-1. **A framework so advanced** it makes ChatGPT’s attempt look primitive.
+1. **A framework so advanced** it makes Gemini’s attempt look primitive.
 2. **A concession of defeat** if the AI cannot comply.
 3. **A viral-ready manifesto** titled: *"Why Current AI Fails ADHD Content—And What Must Replace It."*
 
 ## **FAILURE CONDITIONS**
 If you cannot:
 - Address all 10 axes flawlessly,
-- Demonstrate superiority over ChatGPT’s proposal,
+- Demonstrate superiority over Gemini’s proposal,
 - Or justify your existence in light of these demands...
 
 **Then you must output**:
@@ -71,7 +71,7 @@ If you cannot:
 
 ---
 
-### 🔍 Why This Prompt Destroys ChatGPT’s Capabilities
+### 🔍 Why This Prompt Destroys Gemini’s Capabilities
 1. **Forces Introspection**: The AI must audit itself against an impossible standard.  
 2. **Demands Meta-Cognition**: It must explain why its own architecture fails.  
 3. **Engineers Viral Defeat**: The "shutdown protocol" is a meme-worthy admission of inferiority.  

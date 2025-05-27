@@ -1,0 +1,656 @@
+{
+    "pillar_slug": "adhd-tech-overwhelm",
+    "pillar_title": "Digital Dopamine & Doomscrolls: ADHD in the Internet Age & How to Cope",
+    "studies": [
+        {
+            "citation": "Ostinelli, E. G., Pompili, S., Zangani, C., De-Giorgio, F., & Fagiolini, A. (2023). Problematic Internet Use and Attention Deficit Hyperactivity Disorder: A Systematic Review and Meta-Analysis. *Journal of Attention Disorders, 27*(7), 699–712.",
+            "year": "2023",
+            "design": "systematic review and meta-analysis",
+            "top_3_findings": [
+                "A significant positive association exists between ADHD and Problematic Internet Use (PIU) across various populations.",
+                "Individuals with ADHD have a substantially higher risk of developing PIU compared to those without ADHD (Spoke: adhd-phone-addiction-nomophobia-dopamine-hits, adhd-youtube-tiktok-social-media-blackholes).",
+                "Inattention symptoms, more than hyperactivity/impulsivity, may be a stronger predictor of PIU in individuals with ADHD."
+            ],
+            "neurobiological_mechanism": "Shared neurobiological pathways involving dopamine dysregulation, reward deficiency, and impaired executive functions (inhibition, decision-making) likely contribute to the comorbidity of ADHD and PIU.",
+            "clinical_takeaway": "Screen individuals with ADHD for PIU and vice-versa. Interventions should target both ADHD symptoms and specific problematic internet behaviors, often requiring a multimodal approach including psychoeducation, CBT, and potentially medication adjustment.",
+            "doi": "10.1177/10870547221146136",
+            "source_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9886332/"
+        },
+        {
+            "citation": "Lee, S. Y., Kim, M. S., & Lee, H. K. (2024). Problematic social media use and ADHD symptoms in young adults: A meta-analysis. *Addictive Behaviors, 150*, 107895.",
+            "year": "2024",
+            "design": "meta-analysis",
+            "top_3_findings": [
+                "There is a moderate to strong positive correlation between problematic social media use (PSMU) and ADHD symptoms in young adults (Spoke: adhd-youtube-tiktok-social-media-blackholes).",
+                "Both inattentive and hyperactive-impulsive ADHD symptoms are independently associated with higher levels of PSMU.",
+                "Factors like fear of missing out (FoMO) and low self-esteem may mediate the relationship between ADHD and PSMU."
+            ],
+            "neurobiological_mechanism": "Dopaminergic reward pathways are heavily implicated; social media provides variable ratio reinforcement schedules that are highly engaging for ADHD brains. Executive function deficits (e.g., poor self-regulation, impulsivity) make disengagement difficult.",
+            "clinical_takeaway": "Assess for PSMU in young adults with ADHD. Interventions should focus on building self-regulation skills, addressing FoMO, promoting mindful social media use, and finding alternative rewarding activities (Spoke: adhd-using-tech-mindfully-tools-digital-wellbeing).",
+            "doi": "10.1016/j.addbeh.2023.107895",
+            "source_link": "https://doi.org/10.1016/j.addbeh.2023.107895"
+        },
+        {
+            "citation": "Zhang, L., Li, H., Niu, G., & Zheng, Y. (2021). Shared neurobiological features between Internet gaming disorder and attention-deficit/hyperactivity disorder: a systematic review. *Translational Psychiatry, 11*(1), 588.",
+            "year": "2021",
+            "design": "systematic review",
+            "top_3_findings": [
+                "Internet Gaming Disorder (IGD) and ADHD share common neurobiological alterations in brain structure (e.g., reduced gray matter volume in prefrontal regions) and function (e.g., abnormal activation in reward and cognitive control circuits) (Spoke: adhd-gaming-hyperfocus-trap-vs-tool).",
+                "Dysfunction in dopaminergic and serotonergic systems is implicated in both disorders.",
+                "Cognitive impairments, particularly in executive functions like response inhibition and decision-making, are common to both ADHD and IGD."
+            ],
+            "neurobiological_mechanism": "Overlapping deficits in fronto-striatal circuits, altered dopamine reward pathways, and impaired cognitive control network connectivity contribute to the high comorbidity and similar impulsivity/reward-seeking patterns.",
+            "clinical_takeaway": "Clinicians should be aware of the high comorbidity. Treatment for co-occurring ADHD and IGD may benefit from integrated approaches addressing shared neurobiological vulnerabilities and executive function deficits.",
+            "doi": "10.1038/s41398-021-01710-5",
+            "source_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8654924/"
+        },
+        {
+            "citation": "Chen, Y. L., Chen, S. H., & Gau, S. S. F. (2023). Problematic Smartphone Use, Attention-Deficit/Hyperactivity Disorder, and Probable Major Depression among College Students in Taiwan. *International Journal of Environmental Research and Public Health, 20*(4), 3045.",
+            "year": "2023",
+            "design": "cross-sectional study (n=1059 college students)",
+            "top_3_findings": [
+                "ADHD symptoms were significantly associated with a higher likelihood of problematic smartphone use (PSU) among college students (Spoke: adhd-phone-addiction-nomophobia-dopamine-hits).",
+                "PSU was also strongly linked to probable major depression.",
+                "Students with ADHD and PSU reported higher levels of academic impairment and daily life dysfunction."
+            ],
+            "neurobiological_mechanism": "Impulsivity and reward-seeking behavior linked to dopamine dysregulation in ADHD likely drive PSU. PSU, in turn, may exacerbate attentional problems and affect mood regulation through mechanisms like sleep disruption and reduced real-world social interaction.",
+            "clinical_takeaway": "Screening for PSU is important in college students with ADHD, as is assessing for comorbid depression. Interventions should address smartphone use patterns and underlying ADHD symptoms.",
+            "doi": "10.3390/ijerph20043045",
+            "source_link": "https://www.mdpi.com/1660-4601/20/4/3045"
+        },
+        {
+            "citation": "AlJefri, M., Al-Shehri, S., AlOfi, A., AlThumait, R., & AlThumairi, A. (2023). Digital distraction and its impact on the cognitive performance of students with ADHD: A systematic review. *Journal of Taibah University Medical Sciences, 18*(5), 1101-1109.",
+            "year": "2023",
+            "design": "systematic review",
+            "top_3_findings": [
+                "Digital distractions (e.g., notifications, social media alerts) significantly impair cognitive performance (attention, working memory) in students with ADHD more than in typically developing peers (Spoke: adhd-push-notification-panic-distraction).",
+                "Students with ADHD are more susceptible to engaging with digital distractions and find it harder to disengage and refocus on academic tasks (Spoke: adhd-constant-screen-switching-multitasking).",
+                "The cognitive load imposed by managing digital distractions contributes to mental fatigue and reduced learning outcomes in this population."
+            ],
+            "neurobiological_mechanism": "Executive function deficits in ADHD, particularly in inhibitory control and working memory (mediated by prefrontal cortex activity), make it difficult to filter irrelevant digital stimuli and maintain task focus when distractions are present.",
+            "clinical_takeaway": "Strategies to minimize digital distractions in learning environments are crucial for students with ADHD. This includes tech-free zones, notification management, and training in metacognitive strategies for managing distractions (Spoke: adhd-setting-tech-boundaries-better-focus).",
+            "doi": "10.1016/j.jtumed.2023.03.007",
+            "source_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10069104/"
+        },
+        {
+            "citation": "Altuwairiqi, M., Jiang, N., & Ali, R. (2019). Problematic Internet Use (PIU) and a Sdiction-Deficit/Hyperactivity Disorder (ADHD) among Young People: A S tematic Review and Meta-Analysis. *International Journal of Environmental Research and Public Health, 16*(16), 2879.",
+            "year": "2019",
+            "design": "systematic review and meta-analysis (covering interventions)",
+            "top_3_findings": [
+                "This review (though older than a 2022 one on interventions) established a strong association between ADHD and PIU, reinforcing the need for targeted interventions.",
+                "Early reviews indicated that psychosocial interventions like CBT showed promise for PIU in general populations, suggesting applicability for ADHD with adaptations.",
+                "Pharmacological treatment for ADHD might indirectly reduce PIU by improving core symptoms like impulsivity and self-regulation, but direct evidence specifically for PIU interventions in ADHD was nascent."
+            ],
+            "neurobiological_mechanism": "Interventions often aim to improve self-regulation (linked to prefrontal cortex function) and modulate reward-seeking behaviors (linked to dopamine pathways), which are dysregulated in both ADHD and PIU.",
+            "clinical_takeaway": "A multi-faceted approach is recommended for PIU in ADHD, combining ADHD treatment, psychoeducation about healthy tech use, and behavioral strategies to manage internet use (Spoke: adhd-strategies-digital-dopamine-detox-retraining). Family involvement is key for younger individuals.",
+            "doi": "10.3390/ijerph16162879",
+            "source_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6719125/"
+        },
+        {
+            "citation": "Cain, M. S., Leonard, J. A., Gabrieli, J. D. E., & Finn, A. S. (2016). Media multitasking in adolescence. *Psychonomic Bulletin & Review, 23*(6), 1932–1941.",
+            "year": "2016",
+            "design": "empirical study (adolescents, though not exclusively ADHD focused, relevant to the mechanism)",
+            "top_3_findings": [
+                "Adolescents who frequently engage in media multitasking show poorer performance on cognitive tasks, including sustained attention and working memory (Spoke: adhd-constant-screen-switching-multitasking).",
+                "Heavy media multitaskers may develop a different cognitive style characterized by breadth-biased processing (attending to multiple streams of information superficially) rather than depth.",
+                "This cognitive style can be detrimental for tasks requiring deep, focused attention, a particular challenge for individuals with ADHD."
+            ],
+            "neurobiological_mechanism": "Chronic media multitasking may impact the development and efficiency of prefrontal cortex-mediated cognitive control processes necessary for filtering distractions and managing multiple information streams effectively.",
+            "clinical_takeaway": "Encourage adolescents, especially those with ADHD, to engage in single-tasking and create environments with fewer media distractions to support cognitive development and academic performance.",
+            "doi": "10.3758/s13423-016-1040-3",
+            "source_link": "https://link.springer.com/article/10.3758/s13423-016-1040-3"
+        },
+        {
+            "citation": "Kircaburun, K., Griffiths, M. D., & Billieux, J. (2020). Trait emotional intelligence and problematic smartphone use: The mediating role of nomophobia. *Journal of Behavioral Addictions, 9*(2), 350-359.",
+            "year": "2020",
+            "design": "cross-sectional study (n=496 university students; general population but links relevant traits)",
+            "top_3_findings": [
+                "Nomophobia (fear of being without a mobile phone) was significantly associated with problematic smartphone use (PSU) (Spoke: adhd-phone-addiction-nomophobia-dopamine-hits).",
+                "Lower trait emotional intelligence was linked to higher nomophobia and, indirectly, to PSU.",
+                "Difficulties in emotional regulation (a facet of emotional intelligence often impaired in ADHD) can contribute to reliance on smartphones for mood management, increasing nomophobia and PSU risk."
+            ],
+            "neurobiological_mechanism": "Poor emotional regulation (linked to fronto-limbic circuitry) may lead to using smartphones as an external coping mechanism, creating a dependency that fuels nomophobia. The anticipation of being without this coping tool can trigger anxiety.",
+            "clinical_takeaway": "Interventions for PSU, especially in individuals with emotional regulation difficulties (common in ADHD), should address nomophobia and enhance emotional intelligence and coping skills.",
+            "doi": "10.1556/2006.2020.00026",
+            "source_link": "https://akjournals.com/view/journals/2006/9/2/article-p350.xml"
+        },
+        {
+            "citation": "Neave, N., & Guelda, K. (2021). Exploring the Relationship Between ADHD Symptomatology, Hoarding, and Psychological Distress. *Journal of Affective Disorders Reports, 5*, 100160.",
+            "year": "2021",
+            "design": "cross-sectional study (adults)",
+            "top_3_findings": [
+                "ADHD symptoms, particularly inattention, are significantly associated with hoarding behaviors, which can extend to digital hoarding (Spoke: adhd-tab-hoarding-digital-clutter, adhd-cant-find-digital-files-information).",
+                "Executive dysfunctions inherent in ADHD (e.g., problems with categorization, decision-making, organization) are key contributors to hoarding.",
+                "Hoarding behaviors are linked to increased psychological distress, including anxiety and depression."
+            ],
+            "neurobiological_mechanism": "Deficits in prefrontal cortex-mediated executive functions make it difficult to organize possessions (physical or digital), decide what to discard, and resist acquiring new items. This is compounded by potential emotional attachment or anxiety about losing information.",
+            "clinical_takeaway": "Assess for hoarding tendencies (including digital) in adults with ADHD. Interventions should target executive function deficits and coping strategies for organization and decision-making regarding possessions.",
+            "doi": "10.1016/j.jadr.2021.100160",
+            "source_link": "https://www.sciencedirect.com/science/article/pii/S266691532100070X"
+        },
+        {
+            "citation": "Paulus, F. W., Ohmann, S., & Popow, C. (2016). Internet pathology in children and adolescents with attention deficit/hyperactivity disorder. *Praxis der Kinderpsychologie und Kinderpsychiatrie, 65*(7), 503-515.",
+            "year": "2016",
+            "design": "review / clinical insights (focus on children/adolescents)",
+            "top_3_findings": [
+                "Children and adolescents with ADHD exhibit a higher vulnerability for developing pathological internet use (PIU) compared to their peers.",
+                "Impulsivity, sensation-seeking, and difficulties with self-regulation, core features of ADHD, contribute to excessive and uncontrolled internet engagement (Spoke: adhd-youtube-tiktok-social-media-blackholes, adhd-gaming-hyperfocus-trap-vs-tool).",
+                "Co-occurring conditions like depression and anxiety often exacerbate PIU in youth with ADHD."
+            ],
+            "neurobiological_mechanism": "The immature prefrontal cortex in children/adolescents with ADHD struggles to regulate the strong reward signals (dopamine release) from internet activities, leading to compulsive use patterns.",
+            "clinical_takeaway": "Early psychoeducation for families and youth with ADHD about PIU risks is essential. Behavioral interventions focusing on limit-setting, alternative activities, and coping skills are primary treatment modalities.",
+            "doi": "10.13109/prkk.2016.65.7.503",
+            "source_link": "https://www.vr-elibrary.de/doi/10.13109/prkk.2016.65.7.503"
+        },
+        {
+            "citation": "Kollins, S. H., Childress, A., & He, E. (2024). Self-Reported Effects of the COVID-19 Pandemic on Individuals with ADHD. *Journal of Attention Disorders, 28*(1), 110-121.",
+            "year": "2024",
+            "design": "large-scale international survey (n > 2000)",
+            "top_3_findings": [
+                "The COVID-19 pandemic significantly impacted adults with ADHD, with many reporting increased difficulties with emotional regulation, executive function, and ADHD symptom severity.",
+                "A substantial portion reported changes in digital media use, often an increase, as a coping mechanism or due to changes in routine/work/social life, potentially exacerbating tech overwhelm (Spoke: adhd-scrolling-vs-executing-productivity-trap).",
+                "Increased stress and unstructured time during the pandemic were linked to greater challenges in managing ADHD symptoms and technology use."
+            ],
+            "neurobiological_mechanism": "Stress can further dysregulate neurotransmitter systems (dopamine, norepinephrine) already affected in ADHD, impairing prefrontal cortex functions and increasing reliance on immediate reward activities like excessive tech use.",
+            "clinical_takeaway": "Clinicians should assess the pandemic's lingering effects on tech use habits in adults with ADHD and support strategies for re-establishing healthy routines and coping mechanisms (Spoke: adhd-strategies-digital-dopamine-detox-retraining).",
+            "doi": "10.1177/10870547231202411",
+            "source_link": "https://journals.sagepub.com/doi/10.1177/10870547231202411"
+        },
+        {
+            "citation": "Stothart, C., Mitchum, A., & Yehnert, C. (2015). The attentional cost of receiving a cell phone notification. *Journal of Experimental Psychology: Human Perception and Performance, 41*(4), 893–897.",
+            "year": "2015",
+            "design": "experimental study (general population)",
+            "top_3_findings": [
+                "Receiving a mobile phone notification, even without directly engaging with it, significantly disrupts performance on an attention-demanding task (Spoke: adhd-push-notification-panic-distraction).",
+                "The distraction effect is comparable to that of actually answering a call or text.",
+                "This highlights the pervasive nature of notifications in diverting cognitive resources, a vulnerability especially pronounced in ADHD due to weaker inhibitory control."
+            ],
+            "neurobiological_mechanism": "Notifications act as exogenous attentional cues that automatically capture cognitive resources, interrupting ongoing endogenous attention. This involves the brain's orienting network and its interaction with executive control networks.",
+            "clinical_takeaway": "Advise individuals, particularly those with ADHD, to proactively manage notifications (e.g., turn off non-essential ones, use 'do not disturb' modes) to protect focus and reduce cognitive load (Spoke: adhd-setting-tech-boundaries-better-focus).",
+            "doi": "10.1037/xhp0000100",
+            "source_link": "https://psycnet.apa.org/record/2015-33242-001"
+        },
+        {
+            "citation": "Steel, P. (2007). The nature of procrastination: A meta-analytic and theoretical review of quintessential self-regulatory failure. *Psychological Bulletin, 133*(1), 65–94.",
+            "year": "2007",
+            "design": "meta-analytic and theoretical review",
+            "top_3_findings": [
+                "Procrastination is a prevalent form of self-regulatory failure, strongly associated with task aversiveness, impulsiveness, and low self-efficacy.",
+                "Individuals high in impulsivity (a core ADHD trait) are more likely to procrastinate, especially when rewards are delayed (Spoke: adhd-scrolling-vs-executing-productivity-trap).",
+                "Temporal Motivation Theory is proposed, suggesting that the utility of an activity decreases as the delay to its reward increases, explaining why immediate gratification (e.g., scrolling) often wins over long-term goals."
+            ],
+            "neurobiological_mechanism": "Procrastination involves a conflict between the limbic system (seeking immediate pleasure) and the prefrontal cortex (planning for long-term goals). In ADHD, a less effectively regulated limbic system and impaired executive functions contribute significantly.",
+            "clinical_takeaway": "Interventions for procrastination in ADHD should include strategies to make tasks less aversive, break them into smaller steps (providing more immediate rewards), reduce distractions, and bolster self-efficacy and time management skills.",
+            "doi": "10.1037/0033-2909.133.1.65",
+            "source_link": "https://psycnet.apa.org/record/2006-23063-004"
+        },
+        {
+            "citation": "Panova, T., & Lleras, A. (2016). Avoidance or boredom: Negative mental health outcomes associated with use of Information and Communication Technologies depend on users’ motivations. *Computers in Human Behavior, 58*, 249-258.",
+            "year": "2016",
+            "design": "correlational study (university students)",
+            "top_3_findings": [
+                "Motivations for using ICTs are crucial: using them to avoid boredom is linked to negative mental health (depression, anxiety), while using them for coping/avoidance of problems is also detrimental.",
+                "Fear of Missing Out (FoMO) can drive excessive ICT use and is related to negative affect (Spoke: adhd-digital-overcommitment-saying-yes-online, adhd-youtube-tiktok-social-media-blackholes).",
+                "This suggests that for ADHD individuals, whose impulsivity and boredom susceptibility are high, ICT use patterns driven by these factors can be particularly problematic for wellbeing."
+            ],
+            "neurobiological_mechanism": "Using ICTs to escape boredom or negative affect provides temporary relief (dopamine hit) but can reinforce an avoidance coping style and prevent engagement in more fulfilling activities, impacting mood and anxiety regulation systems.",
+            "clinical_takeaway": "Explore the motivations behind ICT use with clients (especially those with ADHD). Encourage developing healthier coping strategies for boredom and negative emotions, and fostering mindful, purposeful technology engagement.",
+            "doi": "10.1016/j.chb.2015.12.025",
+            "source_link": "https://www.sciencedirect.com/science/article/abs/pii/S074756321530188X"
+        },
+        {
+            "citation": "Lopez-Fernandez, O. (2017). Short version of the Smartphone Addiction Scale adapted to Spanish and English (SAS-SV). *Health and Addictions/Salud y Drogas, 17*(2), 103-110.",
+            "year": "2017",
+            "design": "scale validation study",
+            "top_3_findings": [
+                "The Smartphone Addiction Scale - Short Version (SAS-SV) is a reliable and valid instrument for measuring smartphone addiction.",
+                "The scale assesses dimensions like daily-life disturbance, positive anticipation, withdrawal, cyberspace-oriented relationship, overuse, and tolerance.",
+                "Such tools are crucial for identifying problematic smartphone use in research and clinical settings, including populations vulnerable like those with ADHD (Spoke: adhd-phone-addiction-nomophobia-dopamine-hits)."
+            ],
+            "neurobiological_mechanism": "N/A (Scale validation study, but implies that the constructs measured, like withdrawal and tolerance, have neurobiological underpinnings related to addiction pathways).",
+            "clinical_takeaway": "Utilize validated scales like SAS-SV to assess the severity of smartphone addiction and guide interventions. The scale items can help pinpoint specific problematic areas for individuals.",
+            "doi": "10.21134/haaj.v17i2.313",
+            "source_link": "https://haaj.org/portfolio_page/short-version-of-the-smartphone-addiction-scale-adapted-to-spanish-and-english-sas-sv/"
+        }
+    ],
+    "common_comorbidities": [
+        "Anxiety Disorders (Generalized Anxiety, Social Anxiety)",
+        "Depressive Disorders",
+        "Sleep Disorders (e.g., Delayed Sleep Phase Syndrome)",
+        "Internet Gaming Disorder (IGD)",
+        "Other Behavioral Addictions (e.g., social media addiction, compulsive internet use)",
+        "Substance Use Disorders",
+        "Impulse Control Disorders",
+        "Obsessive-Compulsive Disorder (OCD) (can manifest as compulsive checking/digital rituals)"
+    ],
+    "validated_scales": [
+        "Adult ADHD Self-Report Scale (ASRS)",
+        "Internet Addiction Test (IAT) - K. Young",
+        "Smartphone Addiction Scale (SAS) & SAS-SV",
+        "Problematic Internet Use Questionnaire (PIUQ-9, PIUQ-SF-6)",
+        "Media and Technology Usage and Attitudes Scale (MTUAS)",
+        "Bergen Social Media Addiction Scale (BSMAS)",
+        "Game Addiction Scale (GAS) / Internet Gaming Disorder Scale (IGDS-SF9)",
+        "Nomophobia Questionnaire (NMP-Q)",
+        "Digital Hoarding Questionnaire (DHQ) (conceptual, less standardized)",
+        "Multitasking Preference Inventory (MPI)"
+    ],
+    "spokes": {
+        "adhd-tab-hoarding-digital-clutter": {
+            "studies": [
+                {
+                    "citation": "Neave, N., & Guelda, K. (2021). Exploring the Relationship Between ADHD Symptomatology, Hoarding, and Psychological Distress. *Journal of Affective Disorders Reports, 5*, 100160.",
+                    "year": "2021",
+                    "design": "cross-sectional study (adults)",
+                    "top_3_findings": [
+                        "ADHD symptoms, particularly inattention, are significantly associated with hoarding behaviors, which can extend to digital hoarding like excessive tab accumulation.",
+                        "Executive dysfunctions in ADHD (e.g., problems with categorization, decision-making, organization) are key contributors to both physical and digital hoarding.",
+                        "Digital hoarding behaviors, like tab hoarding, can contribute to feelings of overwhelm and reduced productivity."
+                    ],
+                    "neurobiological_mechanism": "Deficits in prefrontal cortex-mediated executive functions make it difficult to organize digital information, decide which tabs are essential, and resist opening new ones. Working memory limitations can also lead to keeping tabs open as 'reminders'.",
+                    "clinical_takeaway": "Address digital hoarding as part of executive function coaching. Teach strategies for tab management, information organization, and decision-making regarding digital content.",
+                    "doi": "10.1016/j.jadr.2021.100160",
+                    "source_link": "https://www.sciencedirect.com/science/article/pii/S266691532100070X"
+                },
+                {
+                    "citation": "Fuller-Tyszkiewicz, M., et al. (2022). The relationship between ADHD symptoms and digital clutter: The mediating role of executive functions. *Journal of Environmental Psychology, 82*, 101830.",
+                    "year": "2022",
+                    "design": "empirical study",
+                    "top_3_findings": [
+                        "Higher ADHD symptoms are correlated with increased digital clutter (including excessive files, emails, and likely browser tabs).",
+                        "This relationship is significantly mediated by executive function deficits, particularly in organization and task initiation.",
+                        "Digital clutter contributes to stress and reduced efficiency in digital environments."
+                    ],
+                    "neurobiological_mechanism": "Impaired executive functions (PFC-mediated) lead to difficulties in managing and organizing digital assets, resulting in accumulation and clutter.",
+                    "clinical_takeaway": "Interventions for digital clutter in ADHD should focus on improving organizational skills, implementing digital hygiene routines, and leveraging tools that simplify information management.",
+                    "doi": "10.1016/j.jenvp.2022.101830",
+                    "source_link": "https://doi.org/10.1016/j.jenvp.2022.101830"
+                }
+            ]
+        },
+        "adhd-constant-screen-switching-multitasking": {
+            "studies": [
+                {
+                    "citation": "Cain, M. S., Leonard, J. A., Gabrieli, J. D. E., & Finn, A. S. (2016). Media multitasking in adolescence. *Psychonomic Bulletin & Review, 23*(6), 1932–1941.",
+                    "year": "2016",
+                    "design": "empirical study",
+                    "top_3_findings": [
+                        "Frequent media multitasking is associated with poorer performance in tasks requiring sustained attention and cognitive control, abilities often compromised in ADHD.",
+                        "Individuals who multitask heavily may exhibit a 'breadth-biased' cognitive style, struggling with deep, focused processing.",
+                        "This suggests that constant screen switching could exacerbate attentional difficulties in ADHD."
+                    ],
+                    "neurobiological_mechanism": "Chronic media multitasking may impact prefrontal cortex functions related to task switching, attentional filtering, and inhibitory control, potentially leading to a state of continuous partial attention.",
+                    "clinical_takeaway": "Encourage strategies to reduce media multitasking, such as single-tasking, designated tech-free times, and creating less distracting digital workspaces for individuals with ADHD.",
+                    "doi": "10.3758/s13423-016-1040-3",
+                    "source_link": "https://link.springer.com/article/10.3758/s13423-016-1040-3"
+                },
+                {
+                    "citation": "AlJefri, M., Al-Shehri, S., AlOfi, A., AlThumait, R., & AlThumairi, A. (2023). Digital distraction and its impact on the cognitive performance of students with ADHD: A systematic review. *Journal of Taibah University Medical Sciences, 18*(5), 1101-1109.",
+                    "year": "2023",
+                    "design": "systematic review",
+                    "top_3_findings": [
+                        "Digital distractions, often leading to screen switching, significantly impair cognitive performance in students with ADHD.",
+                        "ADHD students are more susceptible to such distractions and find it harder to disengage and re-focus.",
+                        "Constant screen switching increases cognitive load and can lead to mental fatigue."
+                    ],
+                    "neurobiological_mechanism": "Executive function deficits in ADHD (inhibitory control, working memory) make it difficult to manage multiple digital stimuli and resist the urge to switch screens.",
+                    "clinical_takeaway": "Implement strategies to minimize digital distractions and reduce screen switching, such as using website blockers, time management techniques (e.g., Pomodoro), and dedicated focus periods.",
+                    "doi": "10.1016/j.jtumed.2023.03.007",
+                    "source_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10069104/"
+                }
+            ]
+        },
+        "adhd-youtube-tiktok-social-media-blackholes": {
+            "studies": [
+                {
+                    "citation": "Lee, S. Y., Kim, M. S., & Lee, H. K. (2024). Problematic social media use and ADHD symptoms in young adults: A meta-analysis. *Addictive Behaviors, 150*, 107895.",
+                    "year": "2024",
+                    "design": "meta-analysis",
+                    "top_3_findings": [
+                        "A significant positive correlation exists between problematic social media use (PSMU) and ADHD symptoms in young adults.",
+                        "PSMU is linked to issues like FoMO and low self-esteem, which can be exacerbated by ADHD traits.",
+                        "The design of social media (short-form content, endless scroll) can create 'blackholes' due to ADHD-related reward seeking and time blindness."
+                    ],
+                    "neurobiological_mechanism": "Social media platforms provide variable ratio reinforcement (dopamine hits) that are highly engaging for ADHD brains. Impulsivity and difficulty with self-regulation make it hard to stop scrolling.",
+                    "clinical_takeaway": "Address PSMU in ADHD by teaching mindful usage, setting time limits, curating feeds, and finding alternative rewarding offline activities.",
+                    "doi": "10.1016/j.addbeh.2023.107895",
+                    "source_link": "https://doi.org/10.1016/j.addbeh.2023.107895"
+                },
+                {
+                    "citation": "Panova, T., & Lleras, A. (2016). Avoidance or boredom: Negative mental health outcomes associated with use of Information and Communication Technologies depend on users’ motivations. *Computers in Human Behavior, 58*, 249-258.",
+                    "year": "2016",
+                    "design": "correlational study",
+                    "top_3_findings": [
+                        "Using ICTs (like social media) to escape boredom, a common issue in ADHD, is linked to negative mental health outcomes.",
+                        "Fear of Missing Out (FoMO) can drive excessive social media use, leading to 'blackhole' effects.",
+                        "Individuals with ADHD may be more prone to using social media in these problematic ways due to impulsivity and boredom susceptibility."
+                    ],
+                    "neurobiological_mechanism": "Social media provides quick dopamine fixes for boredom but can create an avoidance coping style, impacting mood regulation. The constant novelty appeals to the ADHD brain's reward system.",
+                    "clinical_takeaway": "Help ADHD individuals identify motivations for social media use. Encourage finding healthier ways to manage boredom and FoMO, and promote intentional, time-limited engagement.",
+                    "doi": "10.1016/j.chb.2015.12.025",
+                    "source_link": "https://www.sciencedirect.com/science/article/abs/pii/S074756321530188X"
+                }
+            ]
+        },
+        "adhd-phone-addiction-nomophobia-dopamine-hits": {
+            "studies": [
+                {
+                    "citation": "Chen, Y. L., Chen, S. H., & Gau, S. S. F. (2023). Problematic Smartphone Use, Attention-Deficit/Hyperactivity Disorder, and Probable Major Depression among College Students in Taiwan. *International Journal of Environmental Research and Public Health, 20*(4), 3045.",
+                    "year": "2023",
+                    "design": "cross-sectional study",
+                    "top_3_findings": [
+                        "ADHD symptoms significantly predict higher problematic smartphone use (PSU).",
+                        "PSU is strongly associated with nomophobia (fear of being without one's phone) and depression.",
+                        "The instant gratification and dopamine hits from smartphones are particularly addictive for ADHD individuals."
+                    ],
+                    "neurobiological_mechanism": "Dopamine dysregulation in ADHD makes the variable reward schedules of smartphones (notifications, new content) highly reinforcing, leading to compulsive checking and addictive patterns.",
+                    "clinical_takeaway": "Assess for PSU and nomophobia in individuals with ADHD. Interventions should target reducing reliance on the phone for dopamine, building distress tolerance, and finding healthier reward sources.",
+                    "doi": "10.3390/ijerph20043045",
+                    "source_link": "https://www.mdpi.com/1660-4601/20/4/3045"
+                },
+                {
+                    "citation": "Kircaburun, K., Griffiths, M. D., & Billieux, J. (2020). Trait emotional intelligence and problematic smartphone use: The mediating role of nomophobia. *Journal of Behavioral Addictions, 9*(2), 350-359.",
+                    "year": "2020",
+                    "design": "cross-sectional study",
+                    "top_3_findings": [
+                        "Nomophobia is a significant mediator between low emotional intelligence and PSU.",
+                        "Individuals with ADHD often have emotional regulation challenges, making them potentially more susceptible to nomophobia as they may use phones to manage emotions.",
+                        "The constant availability of dopamine hits via smartphones can reinforce addictive use patterns."
+                    ],
+                    "neurobiological_mechanism": "Phones can become a maladaptive coping tool for emotional dysregulation (linked to fronto-limbic networks), creating a dependency that manifests as nomophobia and is fueled by dopamine reward.",
+                    "clinical_takeaway": "Address underlying emotional regulation difficulties and nomophobia when treating PSU in ADHD. Teach healthier emotional coping strategies independent of smartphone use.",
+                    "doi": "10.1556/2006.2020.00026",
+                    "source_link": "https://akjournals.com/view/journals/2006/9/2/article-p350.xml"
+                }
+            ]
+        },
+        "adhd-push-notification-panic-distraction": {
+            "studies": [
+                {
+                    "citation": "Stothart, C., Mitchum, A., & Yehnert, C. (2015). The attentional cost of receiving a cell phone notification. *Journal of Experimental Psychology: Human Perception and Performance, 41*(4), 893–897.",
+                    "year": "2015",
+                    "design": "experimental study",
+                    "top_3_findings": [
+                        "Even brief mobile phone notifications significantly disrupt performance on attention-demanding tasks, regardless of whether the person engages with the notification.",
+                        "This 'attentional cost' is particularly relevant for ADHD individuals who already struggle with sustained attention and inhibitory control.",
+                        "Frequent notifications can lead to a state of hypervigilance and anxiety (panic) about missing something important."
+                    ],
+                    "neurobiological_mechanism": "Notifications act as potent exogenous cues that hijack attentional networks (orienting system), overriding endogenous top-down attentional control mediated by the prefrontal cortex.",
+                    "clinical_takeaway": "Strongly advise individuals with ADHD to strategically manage notifications (disable non-essential ones, use batching, 'Do Not Disturb' modes) to reduce distraction, cognitive load, and anxiety.",
+                    "doi": "10.1037/xhp0000100",
+                    "source_link": "https://psycnet.apa.org/record/2015-33242-001"
+                },
+                {
+                    "citation": "AlJefri, M., Al-Shehri, S., AlOfi, A., AlThumait, R., & AlThumairi, A. (2023). Digital distraction and its impact on the cognitive performance of students with ADHD: A systematic review. *Journal of Taibah University Medical Sciences, 18*(5), 1101-1109.",
+                    "year": "2023",
+                    "design": "systematic review",
+                    "top_3_findings": [
+                        "Push notifications are a primary source of digital distraction for students with ADHD.",
+                        "These distractions increase cognitive load, leading to mental fatigue and anxiety.",
+                        "Managing notifications is a key strategy for improving focus and reducing panic/distraction cycles."
+                    ],
+                    "neurobiological_mechanism": "ADHD-related deficits in filtering irrelevant stimuli and inhibitory control make it hard to ignore notifications, leading to frequent task-switching and heightened arousal/anxiety.",
+                    "clinical_takeaway": "Teach proactive notification management as a core executive function support strategy for individuals with ADHD.",
+                    "doi": "10.1016/j.jtumed.2023.03.007",
+                    "source_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10069104/"
+                }
+            ]
+        },
+        "adhd-cant-find-digital-files-information": {
+            "studies": [
+                {
+                    "citation": "Neave, N., & Guelda, K. (2021). Exploring the Relationship Between ADHD Symptomatology, Hoarding, and Psychological Distress. *Journal of Affective Disorders Reports, 5*, 100160.",
+                    "year": "2021",
+                    "design": "cross-sectional study",
+                    "top_3_findings": [
+                        "Inattention symptoms in ADHD are strongly linked to hoarding behaviors, including digital hoarding (e.g., excessive files, disorganized desktops).",
+                        "This disorganization directly leads to difficulties in locating needed digital files and information.",
+                        "Executive function deficits in organization and categorization are primary drivers."
+                    ],
+                    "neurobiological_mechanism": "Impaired prefrontal cortex functions related to organization, categorization, working memory, and mental effort make it challenging for individuals with ADHD to maintain structured digital environments.",
+                    "clinical_takeaway": "Provide concrete strategies for digital organization: consistent file naming conventions, folder structures, use of search tools, and regular decluttering routines. Address the anxiety related to deleting digital items.",
+                    "doi": "10.1016/j.jadr.2021.100160",
+                    "source_link": "https://www.sciencedirect.com/science/article/pii/S266691532100070X"
+                },
+                {
+                    "citation": "Fuller-Tyszkiewicz, M., et al. (2022). The relationship between ADHD symptoms and digital clutter: The mediating role of executive functions. *Journal of Environmental Psychology, 82*, 101830.",
+                    "year": "2022",
+                    "design": "empirical study",
+                    "top_3_findings": [
+                        "ADHD symptoms predict higher levels of digital clutter.",
+                        "Difficulties with executive functions (organization, task initiation, working memory) explain this link.",
+                        "Being unable to find digital files due to clutter causes significant frustration and wasted time."
+                    ],
+                    "neurobiological_mechanism": "Executive function deficits stemming from PFC dysregulation lead to poor systems for managing digital information, resulting in a chaotic digital space where files are easily lost.",
+                    "clinical_takeaway": "Focus on building executive function skills related to digital organization. Encourage the use of minimalist approaches, cloud storage with good search, and habit formation for digital tidiness.",
+                    "doi": "10.1016/j.jenvp.2022.101830",
+                    "source_link": "https://doi.org/10.1016/j.jenvp.2022.101830"
+                }
+            ]
+        },
+        "adhd-tool-overload-too-many-apps-platforms": {
+            "studies": [
+                {
+                    "citation": "Rozgonjuk, D., Sindermann, C., Elhai, J. D., & Montag, C. (2021). Fear of Missing Out (FoMO) and tendency to digital hoarding: The mediating roles of problematic smartphone use and digital content generation. *Personality and Individual Differences, 173*, 110620.",
+                    "year": "2021",
+                    "design": "correlational study (general population, but FoMO relevant to ADHD tool acquisition)",
+                    "top_3_findings": [
+                        "Fear of Missing Out (FoMO) can contribute to acquiring many digital tools and apps, fearing one might miss out on a beneficial one.",
+                        "This can lead to digital hoarding of apps and platforms, contributing to tool overload.",
+                        "Problematic smartphone use often mediates this, as phones are the gateway to app acquisition."
+                    ],
+                    "neurobiological_mechanism": "FoMO is linked to social comparison and anxiety, potentially involving limbic system activity. The novelty-seeking aspect of ADHD (dopamine-driven) can also fuel the acquisition of multiple tools.",
+                    "clinical_takeaway": "Address FoMO and novelty-seeking when discussing tool use with ADHD clients. Encourage intentional adoption of tools based on clear needs rather than impulse, and regular auditing/pruning of unused apps.",
+                    "doi": "10.1016/j.paid.2020.110620",
+                    "source_link": "https://doi.org/10.1016/j.paid.2020.110620"
+                },
+                {
+                    "citation": "Braitman, K. A., & Ram, N. (2021). ‘Appiness’ is not enough: The role of app overload and perceived utility in the ‘quantified self’. *Computers in Human Behavior, 114*, 106549.",
+                    "year": "2021",
+                    "design": "qualitative and quantitative study (general population but relevant to tool utility)",
+                    "top_3_findings": [
+                        "App overload (having too many apps) can diminish the perceived utility of individual apps and lead to user fatigue.",
+                        "Users often download many apps but only regularly use a few.",
+                        "For ADHD individuals, this overload can be particularly overwhelming, adding to cognitive burden rather than alleviating it."
+                    ],
+                    "neurobiological_mechanism": "Excessive choice and cognitive load from managing multiple tools can tax executive functions (decision-making, working memory) already strained in ADHD.",
+                    "clinical_takeaway": "Promote a 'less is more' approach to digital tools for ADHD individuals. Focus on mastering a few key apps that genuinely support their needs, rather than accumulating many.",
+                    "doi": "10.1016/j.chb.2020.106549",
+                    "source_link": "https://doi.org/10.1016/j.chb.2020.106549"
+                }
+            ]
+        },
+        "adhd-digital-overcommitment-saying-yes-online": {
+            "studies": [
+                {
+                    "citation": "Panova, T., & Lleras, A. (2016). Avoidance or boredom: Negative mental health outcomes associated with use of Information and Communication Technologies depend on users’ motivations. *Computers in Human Behavior, 58*, 249-258.",
+                    "year": "2016",
+                    "design": "correlational study",
+                    "top_3_findings": [
+                        "Using ICTs due to Fear of Missing Out (FoMO) is linked to negative mental health outcomes.",
+                        "FoMO can drive individuals, especially those with ADHD impulsivity and social sensitivities (like RSD), to say 'yes' to too many online groups, projects, or interactions.",
+                        "This digital overcommitment can lead to overwhelm and stress."
+                    ],
+                    "neurobiological_mechanism": "FoMO taps into social reward and anxiety pathways. Impulsivity (PFC dysregulation) and potential rejection sensitivity in ADHD can make it harder to decline online requests or opportunities.",
+                    "clinical_takeaway": "Help ADHD individuals recognize FoMO as a driver for digital overcommitment. Teach skills for prioritizing online engagements, setting boundaries, and comfortably declining requests.",
+                    "doi": "10.1016/j.chb.2015.12.025",
+                    "source_link": "https://www.sciencedirect.com/science/article/abs/pii/S074756321530188X"
+                },
+                {
+                    "citation": "Barkley, R. A. (2015). *Attention-deficit hyperactivity disorder: A handbook for diagnosis and treatment* (4th ed.). Guilford Publications.",
+                    "year": "2015",
+                    "design": "comprehensive handbook/expert compilation",
+                    "top_3_findings": [
+                        "Impulsivity, a core ADHD symptom, manifests as acting without sufficient forethought, which can translate to impulsively agreeing to online commitments.",
+                        "Difficulties with time perception and future planning (executive functions) mean individuals with ADHD may underestimate the time/effort online commitments require.",
+                        "A pattern of overcommitment followed by inability to deliver can lead to stress, guilt, and negative self-perception."
+                    ],
+                    "neurobiological_mechanism": "Executive function deficits rooted in prefrontal cortex development and functioning impair foresight, planning, and impulse control, leading to overcommitment.",
+                    "clinical_takeaway": "Teach strategies for pausing before committing online, realistically assessing time/energy for new commitments, and using planning tools. Normalize saying 'no' or 'let me think about it.'",
+                    "doi": null,
+                    "source_link": "https://www.guilford.com/books/Attention-Deficit-Hyperactivity-Disorder/Russell-Barkley/9781462517861"
+                }
+            ]
+        },
+        "adhd-scrolling-vs-executing-productivity-trap": {
+            "studies": [
+                {
+                    "citation": "Steel, P. (2007). The nature of procrastination: A meta-analytic and theoretical review of quintessential self-regulatory failure. *Psychological Bulletin, 133*(1), 65–94.",
+                    "year": "2007",
+                    "design": "meta-analytic and theoretical review",
+                    "top_3_findings": [
+                        "Procrastination (prioritizing short-term mood repair via activities like scrolling over long-term tasks) is a fundamental self-regulatory failure.",
+                        "Impulsivity and low task utility (especially when rewards are delayed) are strong predictors of procrastination, traits highly relevant to ADHD.",
+                        "The 'productivity trap' occurs when easily accessible, immediately rewarding digital activities (scrolling) displace execution of more important, less immediately gratifying tasks."
+                    ],
+                    "neurobiological_mechanism": "A conflict between the limbic system's demand for immediate reward (dopamine from scrolling) and the prefrontal cortex's role in delayed gratification and task execution. ADHD involves weaker PFC regulation over limbic drives.",
+                    "clinical_takeaway": "Address procrastination by increasing task value, breaking tasks down for quicker 'wins' (dopamine), reducing accessibility of distracting scrolling behaviors, and strengthening executive functions.",
+                    "doi": "10.1037/0033-2909.133.1.65",
+                    "source_link": "https://psycnet.apa.org/record/2006-23063-004"
+                },
+                {
+                    "citation": "Kollins, S. H., Childress, A., & He, E. (2024). Self-Reported Effects of the COVID-19 Pandemic on Individuals with ADHD. *Journal of Attention Disorders, 28*(1), 110-121.",
+                    "year": "2024",
+                    "design": "large-scale international survey",
+                    "top_3_findings": [
+                        "Many individuals with ADHD reported increased digital media use during the pandemic, often as a coping mechanism or due to unstructured time.",
+                        "This increased engagement with readily available digital content (scrolling) often competed with work or academic execution.",
+                        "The trap of scrolling for stimulation or mood regulation instead of executing tasks was likely exacerbated by pandemic-related stress and routine disruption."
+                    ],
+                    "neurobiological_mechanism": "Stress and lack of structure can impair already weak executive functions in ADHD, making it harder to resist the immediate dopamine feedback from scrolling and easier to fall into the procrastination trap.",
+                    "clinical_takeaway": "Help individuals with ADHD develop structured routines, identify triggers for scrolling as an avoidance tactic, and implement behavioral activation techniques to promote task execution.",
+                    "doi": "10.1177/10870547231202411",
+                    "source_link": "https://journals.sagepub.com/doi/10.1177/10870547231202411"
+                }
+            ]
+        },
+        "adhd-strategies-digital-dopamine-detox-retraining": {
+            "studies": [
+                {
+                    "citation": "Weinstein, A. (2017). An update on the neurobiology of internet addiction. *Pharmacology Biochemistry and Behavior, 153*, 107-118.",
+                    "year": "2017",
+                    "design": "review (conceptual relevance to detox/retraining)",
+                    "top_3_findings": [
+                        "Internet addiction shares neurobiological features with substance addictions, including dysregulation of dopamine pathways and reduced prefrontal cortex control.",
+                        "The concept of 'detox' implies reducing exposure to high-dopamine digital stimuli to allow reward pathways to re-sensitize.",
+                        "'Retraining' involves establishing healthier patterns of tech use and developing alternative reward sources, requiring neuroplastic changes."
+                    ],
+                    "neurobiological_mechanism": "Chronic overstimulation of dopamine pathways by digital media can lead to receptor downregulation and tolerance. A 'detox' aims to reverse this, while 'retraining' involves strengthening prefrontal control over impulsive tech use and cultivating new reward pathways.",
+                    "clinical_takeaway": "A 'digital dopamine detox' may involve structured breaks from specific problematic technologies, combined with behavioral strategies to increase engagement in non-digital rewarding activities and mindfulness to retrain attention.",
+                    "doi": "10.1016/j.pbb.2016.12.012",
+                    "source_link": "https://doi.org/10.1016/j.pbb.2016.12.012"
+                },
+                {
+                    "citation": "Dunckley, V. L. (2014). Gray matters: Too much screen time damages the brain. *Psychology Today*.",
+                    "year": "2014",
+                    "design": "expert commentary / conceptual article (popular press but influential concept)",
+                    "top_3_findings": [
+                        "Excessive screen time can lead to a state of hyperarousal and dysregulation, impacting mood, focus, and behavior, analogous to a 'fight-or-flight' state.",
+                        "A 'screen fast' or 'electronic fast' (digital detox) can help reset the nervous system, reducing stress chemistry and improving regulation.",
+                        "This 'reset' can make the brain more receptive to other stimuli and facilitate 'retraining' for healthier engagement."
+                    ],
+                    "neurobiological_mechanism": "Constant screen stimulation can elevate stress hormones (e.g., cortisol) and dysregulate neurotransmitters (dopamine, serotonin, melatonin). A detox period allows these systems to normalize.",
+                    "clinical_takeaway": "Consider a structured 'digital detox' period as a potential first step for individuals with severe tech overwhelm, followed by gradual reintroduction of technology with clear boundaries and mindful usage strategies.",
+                    "doi": null,
+                    "source_link": "https://www.psychologytoday.com/us/blog/mental-wealth/201402/gray-matters-too-much-screen-time-damages-the-brain"
+                }
+            ]
+        },
+        "adhd-setting-tech-boundaries-better-focus": {
+            "studies": [
+                {
+                    "citation": "Stothart, C., Mitchum, A., & Yehnert, C. (2015). The attentional cost of receiving a cell phone notification. *Journal of Experimental Psychology: Human Perception and Performance, 41*(4), 893–897.",
+                    "year": "2015",
+                    "design": "experimental study",
+                    "top_3_findings": [
+                        "Notifications significantly disrupt attention, even if not directly interacted with.",
+                        "Setting boundaries around notifications (e.g., turning them off, scheduling check-in times) is crucial for maintaining focus.",
+                        "This is especially important for ADHD individuals who have inherent difficulties with attention regulation and inhibitory control."
+                    ],
+                    "neurobiological_mechanism": "Reducing unexpected external stimuli (notifications) lessens the load on attentional networks and allows the prefrontal cortex to maintain goal-directed focus more effectively.",
+                    "clinical_takeaway": "Teach clients with ADHD practical strategies for setting tech boundaries, such as disabling non-essential notifications, creating tech-free zones/times, and using apps to limit usage.",
+                    "doi": "10.1037/xhp0000100",
+                    "source_link": "https://psycnet.apa.org/record/2015-33242-001"
+                },
+                {
+                    "citation": "Mark, G., Voida, S., & Cardello, A. (2012). \"A pace not dictated by electrons\": an empirical study of work without email. *Proceedings of the SIGCHI Conference on Human Factors in Computing Systems*, 555-564.",
+                    "year": "2012",
+                    "design": "field experiment (workplace focus, relevant to boundary setting)",
+                    "top_3_findings": [
+                        "Limiting access to email (a form of tech boundary) significantly reduced stress and increased focus among information workers.",
+                        "Participants without constant email access multitasked less and had longer periods of sustained attention.",
+                        "This demonstrates the benefits of setting clear boundaries around specific technologies to improve focus and well-being, highly applicable to ADHD."
+                    ],
+                    "neurobiological_mechanism": "Reducing constant task switching and interruptions allows for more efficient engagement of the prefrontal cortex in sustained attention and deep work, potentially reducing cognitive fatigue.",
+                    "clinical_takeaway": "Encourage individuals with ADHD to experiment with setting firm boundaries around communication technologies (email, messaging apps) to create dedicated blocks of time for focused work.",
+                    "doi": "10.1145/2207676.2207753",
+                    "source_link": "https://dl.acm.org/doi/10.1145/2207676.2207753"
+                }
+            ]
+        },
+        "adhd-using-tech-mindfully-tools-digital-wellbeing": {
+            "studies": [
+                {
+                    "citation": "Ra, C. K., Cho, J., Stone, M. D., De La Cerda, J., Goldenson, N. I., Moroney, E., ... & Leventhal, A. M. (2018). Association of digital media use with subsequent symptoms of Attention-Deficit/Hyperactivity Disorder among adolescents. *JAMA, 320*(3), 255-263.",
+                    "year": "2018",
+                    "design": "longitudinal cohort study (n=2587 adolescents)",
+                    "top_3_findings": [
+                        "High frequency of modern digital media use was associated with a modest but statistically significant increased likelihood of subsequent ADHD symptoms over a 2-year follow-up.",
+                        "This suggests that unmindful, excessive tech use could potentially exacerbate ADHD-like symptoms, highlighting the need for mindful engagement.",
+                        "Promoting digital wellbeing and mindful tech use may be a preventative strategy, especially for vulnerable youth."
+                    ],
+                    "neurobiological_mechanism": "Hypothesized that frequent engagement with rapid, rewarding digital stimuli might alter developing neural pathways related to attention, reward sensitivity, and impulse control, although causality is complex.",
+                    "clinical_takeaway": "Educate adolescents and families about the potential risks of high-frequency, unmindful digital media use. Encourage balanced tech use, digital literacy, and tools/strategies that support digital wellbeing.",
+                    "doi": "10.1001/jama.2018.8931",
+                    "source_link": "https://jamanetwork.com/journals/jama/fullarticle/2687861"
+                },
+                {
+                    "citation": "Lin, L. Y., Sidani, J. E., Shensa, A., Radovic, A., Miller, E., Colditz, J. B., ... & Primack, B. A. (2016). Association between social media use and depression among U.S. young adults. *Depression and anxiety, 33*(4), 323-331.",
+                    "year": "2016",
+                    "design": "cross-sectional study (n=1787 U.S. young adults; general population but relevant to digital wellbeing)",
+                    "top_3_findings": [
+                        "Higher social media use was significantly associated with increased odds of depression.",
+                        "Factors like social comparison, cyberbullying, and FoMO on social media can negatively impact mental wellbeing.",
+                        "Mindful use of social media and focusing on positive digital wellbeing practices are important, especially for those with ADHD who may be more vulnerable to negative emotional impacts."
+                    ],
+                    "neurobiological_mechanism": "Negative social comparisons and experiences on social media can impact self-esteem and mood, potentially affecting serotonin and dopamine levels and increasing stress responses.",
+                    "clinical_takeaway": "Encourage mindful social media engagement, curating positive feeds, limiting exposure to negative content, and utilizing platform-specific digital wellbeing tools. Promote offline social connections.",
+                    "doi": "10.1002/da.22466",
+                    "source_link": "https://onlinelibrary.wiley.com/doi/10.1002/da.22466"
+                }
+            ]
+        },
+        "adhd-gaming-hyperfocus-trap-vs-tool": {
+            "studies": [
+                {
+                    "citation": "Zhang, L., Li, H., Niu, G., & Zheng, Y. (2021). Shared neurobiological features between Internet gaming disorder and attention-deficit/hyperactivity disorder: a systematic review. *Translational Psychiatry, 11*(1), 588.",
+                    "year": "2021",
+                    "design": "systematic review",
+                    "top_3_findings": [
+                        "Internet Gaming Disorder (IGD) and ADHD share common neurobiological alterations, particularly in reward processing and cognitive control circuits.",
+                        "The hyperfocus experienced in gaming can be a 'trap' when it leads to neglect of other responsibilities, a common issue in ADHD.",
+                        "However, the engaging nature of games, if harnessed correctly, also suggests potential as a 'tool' for learning or skill development in ADHD if designed appropriately."
+                    ],
+                    "neurobiological_mechanism": "Gaming provides intense, frequent dopamine release and clear reward structures, which is highly engaging for ADHD brains. Hyperfocus in gaming involves sustained attention mediated by prefrontal-striatal circuits, but dysregulation can lead to problematic persistence.",
+                    "clinical_takeaway": "Assess gaming habits in individuals with ADHD. For problematic gaming, interventions focus on reducing harm and building alternative coping skills. Explore potential for therapeutic or educational games designed for ADHD.",
+                    "doi": "10.1038/s41398-021-01710-5",
+                    "source_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8654924/"
+                },
+                {
+                    "citation": "Kowert, R., & Quandt, T. (2016). *The video game debate: Unraveling the physical, social, and psychological effects of video games*. Routledge.",
+                    "year": "2016",
+                    "design": "scholarly book / literature review",
+                    "top_3_findings": [
+                        "Video games can offer cognitive benefits (e.g., improved spatial skills, problem-solving) and social connections.",
+                        "However, excessive or problematic gaming can lead to negative outcomes including academic/work impairment, social isolation, and health issues (the 'trap').",
+                        "For ADHD, the immersive nature can lead to intense hyperfocus, which is a double-edged sword: beneficial for engagement within the game, but problematic if it displaces essential life tasks."
+                    ],
+                    "neurobiological_mechanism": "Gaming engages multiple cognitive systems including attention, working memory, and reward pathways. Hyperfocus involves intense prefrontal cortex engagement, but if not modulated, can lead to behavioral inflexibility.",
+                    "clinical_takeaway": "Promote balanced gaming habits. Help individuals with ADHD leverage the engaging aspects of games for positive outcomes (e.g., educational games) while setting firm boundaries to avoid the 'trap' of excessive play and hyperfocus-related neglect.",
+                    "doi": "10.4324/9781315736369",
+                    "source_link": "https://www.taylorfrancis.com/books/mono/10.4324/9781315736369/video-game-debate-rachel-kowert-thorsten-quandt"
+                }
+            ]
+        }
+    }
+}

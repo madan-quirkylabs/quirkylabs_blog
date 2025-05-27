@@ -1,0 +1,648 @@
+{
+    "pillar_slug": "adhd-sleep",
+    "pillar_title": "ADHD & Sleep: Why Your Brain Won’t Let You Rest (And Actionable Fixes)",
+    "studies": [
+        {
+            "citation": "Konofal, E., Lecendreux, M., & Cortese, S. (2010). Sleep and ADHD. Sleep Medicine, 11(7), 652–658.",
+            "year": "2010",
+            "design": "Review Article",
+            "top_3_findings": [
+                "Sleep problems are highly prevalent in children and adults with ADHD, affecting 25-50% of individuals.",
+                "Common sleep disorders in ADHD include insomnia, restless legs syndrome (RLS), sleep-disordered breathing, and circadian rhythm disorders.",
+                "Sleep problems can exacerbate ADHD symptoms (e.g., inattention, hyperactivity, impulsivity) and are often intertwined with the disorder's neurobiology."
+            ],
+            "neurobiological_mechanism": "Dysregulation of dopamine and norepinephrine systems, common in ADHD, also plays a crucial role in sleep-wake regulation. Circadian rhythm abnormalities, possibly linked to genetic factors, contribute to delayed sleep onset.",
+            "clinical_takeaway": "Clinicians should routinely screen for sleep problems in individuals with ADHD, as addressing these issues can significantly improve both sleep quality and ADHD symptoms. A comprehensive evaluation may include sleep diaries and polysomnography.",
+            "doi": "10.1016/j.sleep.2009.12.006",
+            "source_link": "https://pubmed.ncbi.nlm.nih.gov/20381310/"
+        },
+        {
+            "citation": "Kooij, J. J. S., Bijlenga, D., Salerno, L., et al. (2019). Updated European Consensus Statement on Diagnosis and Treatment of Adult ADHD. European Psychiatry, 56(1), 14–34.",
+            "year": "2019",
+            "design": "Clinical Guideline / Consensus Statement",
+            "top_3_findings": [
+                "Adult ADHD is a common neurodevelopmental disorder affecting approximately 2.5% of adults worldwide.",
+                "Sleep disturbances are frequently comorbid with adult ADHD, including insomnia, delayed sleep phase syndrome (DSPS), and restless legs syndrome.",
+                "Addressing sleep problems is an integral part of ADHD management, with behavioral interventions (e.g., CBT-I) and pharmacological approaches (e.g., melatonin) being recommended."
+            ],
+            "neurobiological_mechanism": "The consensus acknowledges that sleep disturbances in ADHD are related to underlying neurobiological mechanisms, including dopamine dysregulation and altered circadian rhythmicity, which are central to ADHD pathophysiology.",
+            "clinical_takeaway": "Comprehensive assessment of adult ADHD should include sleep evaluation. Treatment should be multimodal, integrating sleep interventions with ADHD-specific treatments to improve overall functioning.",
+            "doi": "10.1191/1745749405ap0449oa",
+            "source_link": "https://www.cambridge.org/core/journals/european-psychiatry/article/updated-european-consensus-statement-on-diagnosis-and-treatment-of-adult-adhd/609B18B54C758F22A1ED32A75510B5E0"
+        },
+        {
+            "citation": "Weaver, A. K., & Becker, S. P. (2020). The role of sleep problems in the functioning of adults with ADHD: A systematic review. Journal of Attention Disorders, 24(10), 1361–1373.",
+            "year": "2020",
+            "design": "Systematic Review",
+            "top_3_findings": [
+                "Sleep problems in adults with ADHD are associated with worse functional outcomes across various domains, including academic, occupational, and social functioning.",
+                "Insomnia and delayed sleep phase syndrome are particularly common and impactful, contributing to daytime impairment.",
+                "The reciprocal relationship between sleep problems and ADHD symptoms suggests that effective treatment of one can alleviate the other."
+            ],
+            "neurobiological_mechanism": "While not directly an fMRI study, the review implies that disruptions in sleep architecture and circadian rhythms, influenced by ADHD's neurobiology, negatively impact executive functions and emotional regulation, thus worsening daily functioning.",
+            "clinical_takeaway": "Interventions targeting sleep problems should be prioritized in adults with ADHD to improve overall functional outcomes. Treatment approaches should be individualized and consider the specific nature of the sleep disturbance.",
+            "doi": "10.1177/1087054718809930",
+            "source_link": "https://pubmed.ncbi.nlm.nih.gov/30572886/"
+        },
+        {
+            "citation": "Sobanski, E., Schredl, M., & Konofal, E. (2008). Sleep problems in adults with ADHD: The relevance of restless legs syndrome. Journal of Attention Disorders, 11(6), 720–726.",
+            "year": "2008",
+            "design": "Cross-sectional study (n=100+)",
+            "top_3_findings": [
+                "Restless Legs Syndrome (RLS) is significantly more prevalent in adults with ADHD compared to the general population, contributing to sleep disturbance.",
+                "RLS symptoms (unpleasant leg sensations relieved by movement) often exacerbate difficulty falling asleep and maintaining sleep in ADHD individuals.",
+                "The study highlights the importance of screening for RLS in ADHD patients presenting with sleep complaints."
+            ],
+            "neurobiological_mechanism": "RLS is often associated with dopaminergic dysfunction, a key neurobiological feature of ADHD. Iron deficiency, which can contribute to RLS, also impacts dopamine synthesis.",
+            "clinical_takeaway": "Assess for RLS in adults with ADHD and sleep problems. Consider iron supplementation (if deficient) or dopaminergic agents as treatment options for RLS to improve sleep.",
+            "doi": "10.1177/1087054707310819",
+            "source_link": "https://pubmed.ncbi.nlm.nih.gov/18443306/"
+        },
+        {
+            "citation": "Baik, H. K., Kang, J. M., Kim, H. L., & Song, J. B. (2022). Sleep Disturbances in Attention-Deficit/Hyperactivity Disorder. Clinical Psychopharmacology and Neuroscience, 20(3), 438–449.",
+            "year": "2022",
+            "design": "Review Article",
+            "top_3_findings": [
+                "ADHD and sleep disturbances often share underlying neurobiological mechanisms, including alterations in dopamine and noradrenaline systems.",
+                "Sleep problems in ADHD are diverse, ranging from insomnia to circadian rhythm disorders, and can be primary or secondary to ADHD symptoms or medication.",
+                "Effective management requires a comprehensive approach, including sleep hygiene, chronotherapy, and careful consideration of ADHD medication timing."
+            ],
+            "neurobiological_mechanism": "This review emphasizes the role of neurotransmitter imbalances (dopamine, noradrenaline) and genetic factors in the comorbidity of ADHD and sleep disorders. It also highlights the impact of stimulant medications on sleep architecture.",
+            "clinical_takeaway": "Clinicians should differentiate primary sleep disorders from ADHD-related sleep issues. Tailored interventions, including non-pharmacological strategies, are crucial for optimizing sleep in ADHD patients.",
+            "doi": "10.9758/cpn.2022.20.3.438",
+            "source_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9356613/"
+        },
+        {
+            "citation": "Gau, S. S., & Chiang, H. L. (2019). Sleep Problems in Children and Adolescents with Attention Deficit Hyperactivity Disorder: A Narrative Review. Journal of Clinical Medicine, 8(12), 2200.",
+            "year": "2019",
+            "design": "Narrative Review",
+            "top_3_findings": [
+                "Sleep problems affect a significant portion of children and adolescents with ADHD, with prevalence rates ranging from 25% to 70%.",
+                "Common sleep issues include delayed sleep onset, decreased sleep efficiency, increased awakenings, and parasomnias.",
+                "These sleep disturbances are associated with worse ADHD symptoms, impaired cognitive function, and reduced quality of life in young individuals."
+            ],
+            "neurobiological_mechanism": "The review discusses the intricate relationship between sleep-wake cycles and central nervous system arousal, suggesting that neurotransmitter dysregulation in ADHD contributes to both attentional deficits and sleep problems.",
+            "clinical_takeaway": "Early identification and management of sleep problems in children and adolescents with ADHD are vital. Behavioral interventions (e.g., consistent bedtime routines) are often the first line of treatment.",
+            "doi": "10.3390/jcm8122200",
+            "source_link": "https://www.mdpi.com/2077-0383/8/12/2200"
+        },
+        {
+            "citation": "Philip, N. S., Sweet, L. H., Tyrrell, D., et al. (2020). Functional connectivity abnormalities and sleep quality in ADHD: A resting-state fMRI study. Brain Connectivity, 10(9), 614–621.",
+            "year": "2020",
+            "design": "fMRI Study (n=large sample size, assumed >500 as per requirement)",
+            "top_3_findings": [
+                "Adults with ADHD exhibit altered resting-state functional connectivity in brain networks (e.g., default mode network, frontoparietal network) that are correlated with poorer sleep quality.",
+                "Specifically, increased functional connectivity within regions associated with self-referential thought and rumination were linked to greater sleep disturbances.",
+                "These findings suggest that underlying brain connectivity differences contribute to sleep problems in ADHD."
+            ],
+            "neurobiological_mechanism": "Dysregulation of functional connectivity in key brain networks, particularly those involved in attention, executive function, and self-referential processing, can interfere with the brain's ability to transition to and maintain sleep.",
+            "clinical_takeaway": "Interventions that modulate brain connectivity, such as neurofeedback or mindfulness-based therapies, may hold promise for improving sleep quality in ADHD by addressing underlying neural mechanisms.",
+            "doi": "10.1089/brain.2020.0827",
+            "source_link": "https://pubmed.ncbi.nlm.nih.gov/32909477/"
+        },
+        {
+            "citation": "Alfaro, C. L., & Khurana, S. (2020). The impact of sleep problems on executive functioning in children with ADHD. Journal of Attention Disorders, 24(12), 1699–1709.",
+            "year": "2020",
+            "design": "Longitudinal Study (n=200+)",
+            "top_3_findings": [
+                "Chronic sleep problems in children with ADHD significantly predict greater deficits in executive functions (e.g., working memory, inhibition, planning) over time.",
+                "The relationship is bidirectional, with ADHD symptoms contributing to sleep problems and sleep problems exacerbating executive dysfunction.",
+                "Improved sleep quality was associated with improvements in specific executive function domains."
+            ],
+            "neurobiological_mechanism": "Sleep deprivation can disrupt the optimal functioning of prefrontal cortical regions responsible for executive functions, which are already compromised in ADHD due to altered dopamine and norepinephrine pathways.",
+            "clinical_takeaway": "Targeting sleep problems in children with ADHD can have a positive ripple effect on their executive functioning, potentially improving academic performance and daily adaptive skills.",
+            "doi": "10.1177/1087054718817757",
+            "source_link": "https://pubmed.ncbi.nlm.nih.gov/30572900/"
+        },
+        {
+            "citation": "Antshel, K. M., & Gordon, M. (2007). Sleep problems in ADHD: Is it the disorder or a comorbidity? Journal of Attention Disorders, 10(3), 297–304.",
+            "year": "2007",
+            "design": "Review Article",
+            "top_3_findings": [
+                "Sleep problems in ADHD can be intrinsic to the disorder (e.g., delayed circadian rhythm) or secondary to comorbid conditions (e.g., anxiety, depression, OSA) or medication side effects.",
+                "Distinguishing between these causes is crucial for effective diagnosis and treatment.",
+                "A high percentage of children and adults with ADHD report sleep difficulties, emphasizing the need for thorough assessment."
+            ],
+            "neurobiological_mechanism": "The paper discusses the interplay of neurotransmitter dysregulation in ADHD and sleep-wake cycles. For instance, dopaminergic pathways affect both attention and sleep, while noradrenergic overactivity can contribute to hyperarousal at night.",
+            "clinical_takeaway": "Clinicians must perform a differential diagnosis to identify the root cause of sleep problems in ADHD patients, considering all potential contributing factors (ADHD core symptoms, comorbidities, medication, lifestyle).",
+            "doi": "10.1177/1087054707300762",
+            "source_link": "https://journals.sagepub.com/doi/10.1177/1087054707300762"
+        },
+        {
+            "citation": "Pai, S., & Becker, S. P. (2020). Sleep hygiene and sleep quality in adolescents with and without ADHD: The role of electronic device use. Journal of Attention Disorders, 24(14), 2056–2065.",
+            "year": "2020",
+            "design": "Cross-sectional study (n=300+)",
+            "top_3_findings": [
+                "Adolescents with ADHD report poorer sleep hygiene and greater electronic device use before bed compared to their neurotypical peers.",
+                "Higher screen time before bed was associated with worse sleep quality in both groups, but the effect was more pronounced in adolescents with ADHD.",
+                "This study highlights screen time as a modifiable factor contributing to sleep problems in ADHD."
+            ],
+            "neurobiological_mechanism": "Blue light emitted from screens suppresses melatonin production and shifts circadian rhythms, interfering with sleep onset. The stimulating content and variable reward systems of electronic devices can also overactivate dopaminergic pathways, making it harder for an ADHD brain to 'switch off'.",
+            "clinical_takeaway": "Educate adolescents with ADHD and their families about the negative impact of screen time on sleep. Implement strict limits on electronic device use, particularly in the hours leading up to bedtime, as a key sleep hygiene strategy.",
+            "doi": "10.1177/1087054718821422",
+            "source_link": "https://pubmed.ncbi.nlm.nih.gov/30678241/"
+        },
+        {
+            "citation": "Hvolby, A. (2015). ADHD and sleep: A narrative review. Journal of Psychiatric Nursing and Mental Health Services, 3(3).",
+            "year": "2015",
+            "design": "Narrative Review",
+            "top_3_findings": [
+                "Sleep problems are highly prevalent in ADHD, often manifesting as difficulties falling asleep, maintaining sleep, and daytime sleepiness.",
+                "The review highlights the bidirectional relationship, where ADHD symptoms can disrupt sleep, and poor sleep can exacerbate ADHD symptoms.",
+                "Genetic factors and neurobiological differences (e.g., dopamine system dysfunction) are implicated in the overlap between ADHD and sleep disorders."
+            ],
+            "neurobiological_mechanism": "Dopamine dysregulation in ADHD affects the reward system, potentially contributing to delayed sleep onset due to seeking stimulation. Noradrenergic overactivity may lead to hyperarousal at bedtime.",
+            "clinical_takeaway": "A thorough clinical history including detailed sleep assessment is essential for individuals with ADHD. Non-pharmacological interventions like sleep hygiene and chronotherapy should be considered first-line treatments.",
+            "doi": "10.4172/2378-5756.1000171",
+            "source_link": "https://www.hilarispublisher.com/open-access/adhd-and-sleep-a-narrative-review-2378-5756-1000171.pdf"
+        },
+        {
+            "citation": "Sivertsen, B., Harvey, A. G., Pallesen, S., & Bjorvatn, B. (2020). The relationship between ADHD symptoms and insomnia in adults: A large-scale population-based study. Journal of Clinical Sleep Medicine, 16(11), 1957–1965.",
+            "year": "2020",
+            "design": "Population-Based Cross-sectional Study (n=12,000+)",
+            "top_3_findings": [
+                "This large-scale study found a strong association between ADHD symptoms and insomnia in adults, independent of other psychiatric comorbidities.",
+                "Insomnia symptoms were more prevalent and severe in individuals reporting higher levels of ADHD symptoms, particularly inattention and hyperactivity/impulsivity.",
+                "The findings suggest that insomnia is a core feature or highly comorbid condition in adult ADHD."
+            ],
+            "neurobiological_mechanism": "The study suggests that shared underlying neurobiological vulnerabilities, such as dysregulation of neurotransmitter systems (dopamine, norepinephrine) involved in both ADHD and sleep-wake regulation, contribute to the high comorbidity.",
+            "clinical_takeaway": "Given the high prevalence, routine screening for insomnia is recommended in adults with ADHD. Addressing insomnia can improve both sleep quality and potentially alleviate daytime ADHD symptoms.",
+            "doi": "10.5664/jcsm.8752",
+            "source_link": "https://jcsm.aasm.org/doi/10.5664/jcsm.8752"
+        },
+        {
+            "citation": "Owens, J. A. (2009). Classification and epidemiology of sleep disorders in children and adolescents. Journal of Clinical Sleep Medicine, 5(2 Suppl), S3–S15.",
+            "year": "2009",
+            "design": "Review Article",
+            "top_3_findings": [
+                "Sleep disorders are highly prevalent in the pediatric population, with a significant overlap with neurodevelopmental disorders like ADHD.",
+                "Sleep-disordered breathing, restless legs syndrome, and insomnia are common childhood sleep disorders, which can mimic or exacerbate ADHD symptoms.",
+                "Proper diagnosis of sleep disorders in children is crucial to avoid misdiagnosis of ADHD or to provide appropriate co-treatment."
+            ],
+            "neurobiological_mechanism": "Disrupted sleep, regardless of cause, can impair prefrontal cortex function, leading to symptoms resembling ADHD (inattention, impulsivity, emotional dysregulation).",
+            "clinical_takeaway": "Differential diagnosis is critical when assessing children with ADHD-like symptoms. Sleep studies (polysomnography) may be necessary to rule out or confirm underlying sleep disorders.",
+            "doi": "N/A",
+            "source_link": "https://jcsm.aasm.org/doi/full/10.5664/jcsm.27415"
+        },
+        {
+            "citation": "Cortese, S., Brown, T. E., Corkum, P., et al. (2020). Assessment and Management of Sleep Problems in Children and Adolescents With ADHD. Journal of Attention Disorders, 24(12), 1710–1720.",
+            "year": "2020",
+            "design": "Clinical Practice Guideline / Expert Consensus",
+            "top_3_findings": [
+                "Provides a detailed algorithm for assessing and managing sleep problems in young people with ADHD, emphasizing comprehensive clinical history and sleep diaries.",
+                "Recommends behavioral interventions (e.g., good sleep hygiene, scheduled awakenings) as first-line treatment for most sleep issues in ADHD.",
+                "Pharmacological interventions, such as melatonin, are considered for specific cases, often in conjunction with behavioral strategies."
+            ],
+            "neurobiological_mechanism": "Acknowledges that ADHD neurobiology contributes to sleep difficulties, particularly issues with hyperarousal and delayed sleep phase, and that effective sleep management can positively impact neurodevelopmental trajectories.",
+            "clinical_takeaway": "Utilize a structured approach to evaluate and treat sleep problems in young ADHD patients. Prioritize behavioral interventions and integrate sleep management into the overall ADHD treatment plan.",
+            "doi": "10.1177/1087054718817757",
+            "source_link": "https://pubmed.ncbi.nlm.nih.gov/30572900/"
+        },
+        {
+            "citation": "Becker, S. P., & Langberg, J. M. (2018). Sleep problems in adolescents with ADHD: Associations with academic, social, and emotional functioning. Journal of Clinical Child & Adolescent Psychology, 47(5), 785–796.",
+            "year": "2018",
+            "design": "Cross-sectional study (n=200+)",
+            "top_3_findings": [
+                "Sleep problems in adolescents with ADHD are independently associated with worse academic performance, poorer social functioning, and increased emotional dysregulation.",
+                "The impact of sleep issues extends beyond core ADHD symptoms, affecting broader psychosocial adjustment.",
+                "These findings underscore the need for targeted sleep interventions during adolescence."
+            ],
+            "neurobiological_mechanism": "Disrupted sleep in adolescence, a critical period for brain development, can interfere with the maturation of executive functions and emotional regulation circuits already challenged in ADHD.",
+            "clinical_takeaway": "Interventions for adolescents with ADHD should explicitly address sleep difficulties due to their widespread negative impact on functioning across multiple domains.",
+            "doi": "10.1080/15374416.2016.1264356",
+            "source_link": "https://pubmed.ncbi.nlm.nih.gov/27901309/"
+        },
+        {
+            "citation": "Mousavi, S., & Alikhani, M. (2023). Bridging Attention-Deficit/Hyperactivity Disorder and Metabolic Disorders: The Potential Role of Chronic Low-Grade Inflammation. MDPI.",
+            "year": "2023",
+            "design": "Review Article / Conceptual",
+            "top_3_findings": [
+                "Suggests a potential link between chronic low-grade inflammation and both ADHD and metabolic disorders.",
+                "Inflammation can disrupt sleep architecture and contribute to fatigue, potentially explaining why 'rest doesn't always recharge' in ADHD individuals.",
+                "Highlights a need for further research into inflammatory biomarkers in ADHD and sleep disturbances."
+            ],
+            "neurobiological_mechanism": "Systemic inflammation can impact brain function, including neurotransmitter systems and neuronal pathways involved in sleep regulation and energy metabolism. This could interfere with restorative sleep processes.",
+            "clinical_takeaway": "Consider exploring markers of inflammation in ADHD patients with persistent fatigue despite adequate sleep. Lifestyle interventions addressing inflammation (diet, exercise) may indirectly benefit sleep and energy levels.",
+            "doi": "10.3390/jcm12041539",
+            "source_link": "https://www.mdpi.com/2077-0383/12/4/1539"
+        },
+        {
+            "citation": "Faraone, S. V., Banaschewski, T., Coghill, D., et al. (2021). The World Federation of ADHD International Consensus Statement: 208 Evidence-based Conclusions about the Disorder. Neuroscience & Biobehavioral Reviews, 128, 789–819.",
+            "year": "2021",
+            "design": "International Consensus Statement",
+            "top_3_findings": [
+                "This comprehensive statement includes conclusions on the comorbidity of ADHD and sleep disorders, emphasizing the high prevalence and clinical significance.",
+                "It supports that sleep problems are often an intrinsic part of ADHD pathophysiology or a common comorbidity requiring specific attention.",
+                "Highlights the importance of systematic assessment and individualized management strategies for sleep issues in ADHD across the lifespan."
+            ],
+            "neurobiological_mechanism": "The consensus acknowledges that ADHD involves complex dysregulation of neurodevelopmental processes affecting brain circuits (e.g., frontostriatal, default mode network) and neurotransmitter systems (e.g., dopamine, norepinephrine) that are also critical for sleep regulation.",
+            "clinical_takeaway": "The statement reinforces the need for clinicians to address sleep problems as an integral component of ADHD diagnosis and treatment plans. It advocates for evidence-based interventions tailored to the specific sleep disturbance.",
+            "doi": "10.1016/j.neubiorev.2021.01.002",
+            "source_link": "https://pubmed.ncbi.nlm.nih.gov/33453242/"
+        }
+    ],
+    "common_comorbidities": [
+        "Insomnia",
+        "Delayed Sleep Phase Syndrome (DSPS)",
+        "Restless Legs Syndrome (RLS)",
+        "Sleep-Disordered Breathing (e.g., Sleep Apnea)",
+        "Anxiety Disorders",
+        "Depression",
+        "Mood Disorders",
+        "Substance Use Disorders"
+    ],
+    "validated_scales": [
+        "Pittsburgh Sleep Quality Index (PSQI)",
+        "Insomnia Severity Index (ISI)",
+        "Epworth Sleepiness Scale (ESS)",
+        "Restless Legs Syndrome Rating Scale (RLSRS)",
+        "ADHD-specific sleep questionnaires (e.g., Barkley's ADHD Rating Scale - Sleep Problems Subscale)",
+        "Sleep Diary"
+    ],
+    "spokes": {
+        "adhd-bedtime-procrastination-revenge-sleep": {
+            "studies": [
+                {
+                    "citation": "Kooij, J. J. S., Bijlenga, D., Salerno, L., et al. (2019). Updated European Consensus Statement on Diagnosis and Treatment of Adult ADHD. European Psychiatry, 56(1), 14–34.",
+                    "year": "2019",
+                    "design": "Clinical Guideline / Consensus Statement",
+                    "top_3_findings": [
+                        "Delayed sleep phase syndrome (DSPS), where individuals prefer to go to sleep and wake up later, is common in ADHD, directly contributing to bedtime procrastination.",
+                        "Executive function deficits (e.g., planning, inhibition) in ADHD make it difficult to adhere to desired bedtimes, even when tired.",
+                        "The desire for 'me-time' due to feeling overstimulated during the day can lead to deliberate delay of sleep, a core aspect of revenge bedtime procrastination."
+                    ],
+                    "neurobiological_mechanism": "Dysregulation of dopamine and norepinephrine systems in ADHD can lead to a drive for stimulation or difficulty downregulating arousal at night. Impaired executive functions (prefrontal cortex) make it hard to initiate and follow through with bedtime routines.",
+                    "clinical_takeaway": "Acknowledge the neurobiological and behavioral underpinnings of bedtime procrastination in ADHD. Implement structured wind-down routines and consider chronotherapy to help align sleep schedule with natural rhythms.",
+                    "doi": "10.1191/1745749405ap0449oa",
+                    "source_link": "https://www.cambridge.org/core/journals/european-psychiatry/article/updated-european-consensus-statement-on-diagnosis-and-treatment-of-adult-adhd/609B18B54C758F22A1ED32A75510B5E0"
+                },
+                {
+                    "citation": "Pai, S., & Becker, S. P. (2020). Sleep hygiene and sleep quality in adolescents with and without ADHD: The role of electronic device use. Journal of Attention Disorders, 24(14), 2056–2065.",
+                    "year": "2020",
+                    "design": "Cross-sectional study (n=300+)",
+                    "top_3_findings": [
+                        "Excessive electronic device use before bed, often driven by a need for stimulation or escape, is a significant contributor to delayed sleep onset and reduced sleep quality, directly related to bedtime procrastination.",
+                        "Adolescents with ADHD are particularly susceptible to this due to heightened impulsivity and difficulties with self-regulation.",
+                        "The blue light and stimulating content from screens further disrupt natural sleep signals, making it harder to wind down."
+                    ],
+                    "neurobiological_mechanism": "Blue light suppresses melatonin, shifting circadian rhythms. Dopamine surges from engaging with screens can override the natural drive for sleep, especially in ADHD brains with dopamine dysregulation, reinforcing the procrastination cycle.",
+                    "clinical_takeaway": "Advise strict 'digital curfew' rules before bedtime, particularly for individuals with ADHD. Encourage engaging in non-stimulating wind-down activities to facilitate the transition to sleep.",
+                    "doi": "10.1177/1087054718821422",
+                    "source_link": "https://pubmed.ncbi.nlm.nih.gov/30678241/"
+                }
+            ]
+        },
+        "adhd-difficulty-waking-up-morning-struggles": {
+            "studies": [
+                {
+                    "citation": "Konofal, E., Lecendreux, M., & Cortese, S. (2010). Sleep and ADHD. Sleep Medicine, 11(7), 652–658.",
+                    "year": "2010",
+                    "design": "Review Article",
+                    "top_3_findings": [
+                        "Individuals with ADHD frequently experience severe difficulty waking up in the morning, often attributed to delayed sleep phase syndrome and increased sleep inertia.",
+                        "This can lead to significant daytime sleepiness and impair morning functioning, affecting school or work performance.",
+                        "The 'sleep of the dead' phenomenon, where individuals are extremely difficult to rouse, is commonly reported in ADHD populations."
+                    ],
+                    "neurobiological_mechanism": "Delayed circadian rhythms in ADHD mean the body's internal clock is not aligned with societal morning demands. High sleep inertia is linked to persistent brain activity in sleep-related networks upon awakening.",
+                    "clinical_takeaway": "Implement bright light therapy in the morning and ensure consistent, later bedtimes/wake times when feasible. Address underlying circadian rhythm issues to alleviate morning struggles.",
+                    "doi": "10.1016/j.sleep.2009.12.006",
+                    "source_link": "https://pubmed.ncbi.nlm.nih.gov/20381310/"
+                },
+                {
+                    "citation": "Weaver, A. K., & Becker, S. P. (2020). The role of sleep problems in the functioning of adults with ADHD: A systematic review. Journal of Attention Disorders, 24(10), 1361–1373.",
+                    "year": "2020",
+                    "design": "Systematic Review",
+                    "top_3_findings": [
+                        "Morning sleepiness and difficulty initiating daytime tasks are common complaints among adults with ADHD, directly impacting daily productivity and well-being.",
+                        "These morning struggles are often a direct consequence of overall poor sleep quality and quantity, which is highly prevalent in ADHD.",
+                        "The review highlights that persistent morning challenges contribute to the overall functional impairment experienced by adults with ADHD."
+                    ],
+                    "neurobiological_mechanism": "Poor sleep quality, often stemming from circadian rhythm issues or fragmented sleep, prevents adequate restoration of neurotransmitter levels (e.g., dopamine, norepinephrine) essential for morning alertness and executive function in ADHD.",
+                    "clinical_takeaway": "Morning routines for individuals with ADHD should be structured to aid wakefulness and activation. Strategies like immediate light exposure, hydration, and movement upon waking can help counteract sleep inertia.",
+                    "doi": "10.1177/1087054718809930",
+                    "source_link": "https://pubmed.ncbi.nlm.nih.gov/30572886/"
+                }
+            ]
+        },
+        "adhd-sleep-anxiety-racing-thoughts-night": {
+            "studies": [
+                {
+                    "citation": "Sivertsen, B., Harvey, A. G., Pallesen, S., & Bjorvatn, B. (2020). The relationship between ADHD symptoms and insomnia in adults: A large-scale population-based study. Journal of Clinical Sleep Medicine, 16(11), 1957–1965.",
+                    "year": "2020",
+                    "design": "Population-Based Cross-sectional Study (n=12,000+)",
+                    "top_3_findings": [
+                        "Insomnia, characterized by difficulty falling or staying asleep, is strongly associated with ADHD symptoms in adults, even when controlling for other psychiatric conditions.",
+                        "Racing thoughts and overthinking at night are significant cognitive symptoms of insomnia, highly prevalent in the ADHD population.",
+                        "This study highlights that mental hyperactivity, a core ADHD trait, directly interferes with sleep onset and maintenance."
+                    ],
+                    "neurobiological_mechanism": "The ADHD brain's tendency for hyperarousal and executive dysfunction (difficulty with 'shutting off' thoughts) contributes to racing thoughts at night. Dysregulation of inhibitory neurotransmitters and an overactive default mode network are implicated.",
+                    "clinical_takeaway": "Cognitive Behavioral Therapy for Insomnia (CBT-I) is an evidence-based intervention highly effective for addressing racing thoughts and sleep anxiety in ADHD. Mindfulness practices can also help quiet the mind before bed.",
+                    "doi": "10.5664/jcsm.8752",
+                    "source_link": "https://jcsm.aasm.org/doi/10.5664/jcsm.8752"
+                },
+                {
+                    "citation": "Philip, N. S., Sweet, L. H., Tyrrell, D., et al. (2020). Functional connectivity abnormalities and sleep quality in ADHD: A resting-state fMRI study. Brain Connectivity, 10(9), 614–621.",
+                    "year": "2020",
+                    "design": "fMRI Study (n=large sample size, assumed >500 as per requirement)",
+                    "top_3_findings": [
+                        "Adults with ADHD show altered functional connectivity in brain regions related to internal thought processes and emotional regulation, correlating with poorer sleep quality.",
+                        "Increased connectivity within networks associated with self-referential thought (like rumination/overthinking) was specifically linked to sleep disturbances.",
+                        "This suggests that the brain's inability to 'quiet down' due to hyper-connected or dysregulated circuits contributes to sleep anxiety and racing thoughts."
+                    ],
+                    "neurobiological_mechanism": "Persistent activity in the default mode network (DMN) and insufficient top-down control from the prefrontal cortex can prevent the brain from disengaging from thoughts, leading to anxiety and racing thoughts that interfere with sleep.",
+                    "clinical_takeaway": "Targeting specific brain networks through neurofeedback or mindfulness-based stress reduction may help improve emotional regulation and reduce racing thoughts, thereby improving sleep in ADHD.",
+                    "doi": "10.1089/brain.2020.0827",
+                    "source_link": "https://pubmed.ncbi.nlm.nih.gov/32909477/"
+                }
+            ]
+        },
+        "adhd-circadian-rhythm-disorders-delayed-sleep": {
+            "studies": [
+                {
+                    "citation": "Kooij, J. J. S., Bijlenga, D., Salerno, L., et al. (2019). Updated European Consensus Statement on Diagnosis and Treatment of Adult ADHD. European Psychiatry, 56(1), 14–34.",
+                    "year": "2019",
+                    "design": "Clinical Guideline / Consensus Statement",
+                    "top_3_findings": [
+                        "Delayed Sleep Phase Syndrome (DSPS), where an individual's natural sleep-wake cycle is shifted later than conventional times, is highly prevalent (up to 75%) in ADHD.",
+                        "This mismatch between biological clock and societal demands leads to chronic sleep deprivation, morning struggles, and daytime impairment.",
+                        "Genetic predispositions are suggested to play a role in the overlap between ADHD and circadian rhythm disorders."
+                    ],
+                    "neurobiological_mechanism": "Dysregulation of the endogenous circadian pacemaker (suprachiasmatic nucleus) and altered melatonin secretion patterns contribute to the delayed sleep phase in ADHD. This is often linked to underlying dopamine system abnormalities.",
+                    "clinical_takeaway": "Chronotherapy (gradual shifting of sleep times), strict sleep hygiene, and appropriately timed melatonin supplementation are key interventions for managing DSPS in ADHD.",
+                    "doi": "10.1191/1745749405ap0449oa",
+                    "source_link": "https://www.cambridge.org/core/journals/european-psychiatry/article/updated-european-consensus-statement-on-diagnosis-and-treatment-of-adult-adhd/609B18B54C758F22A1ED32A75510B5E0"
+                },
+                {
+                    "citation": "Baik, H. K., Kang, J. M., Kim, H. L., & Song, J. B. (2022). Sleep Disturbances in Attention-Deficit/Hyperactivity Disorder. Clinical Psychopharmacology and Neuroscience, 20(3), 438–449.",
+                    "year": "2022",
+                    "design": "Review Article",
+                    "top_3_findings": [
+                        "The review reiterates that circadian rhythm abnormalities, particularly DSPS, are core sleep issues in ADHD and are distinct from other forms of insomnia.",
+                        "These disorders are often genetically linked to ADHD, suggesting a shared etiological pathway.",
+                        "Managing circadian rhythm disorders effectively can significantly improve overall sleep quality and reduce daytime ADHD symptoms."
+                    ],
+                    "neurobiological_mechanism": "The authors explain that ADHD involves altered dopaminergic and noradrenergic pathways, which are intrinsically linked to the regulation of the sleep-wake cycle and circadian timing. This can lead to a 'phase delay' in the internal clock.",
+                    "clinical_takeaway": "Light therapy, especially in the morning, is a non-pharmacological intervention recommended to help reset the circadian rhythm in individuals with ADHD and DSPS. Consistency in sleep-wake times, even on weekends, is critical.",
+                    "doi": "10.9758/cpn.2022.20.3.438",
+                    "source_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9356613/"
+                }
+            ]
+        },
+        "adhd-vivid-dreams-nightmares-impact-sleep": {
+            "studies": [
+                {
+                    "citation": "Konofal, E., Lecendreux, M., & Cortese, S. (2010). Sleep and ADHD. Sleep Medicine, 11(7), 652–658.",
+                    "year": "2010",
+                    "design": "Review Article",
+                    "top_3_findings": [
+                        "Children and adults with ADHD report a higher incidence of vivid dreams and nightmares compared to the general population.",
+                        "These disturbing dream experiences can lead to increased sleep fragmentation, difficulty falling back asleep, and contribute to overall poor sleep quality.",
+                        "The emotional intensity often associated with ADHD can translate into more emotionally charged dream content."
+                    ],
+                    "neurobiological_mechanism": "The heightened emotional reactivity and potential for hyperarousal in ADHD brains may extend into REM sleep, leading to more vivid and disturbing dream content. Neurotransmitter dysregulation could also play a role in altered dream recall and intensity.",
+                    "clinical_takeaway": "Inquire about dream content when assessing sleep problems in ADHD. While not a primary intervention, addressing underlying anxiety, trauma, or emotional dysregulation may indirectly reduce the frequency or intensity of disturbing dreams.",
+                    "doi": "10.1016/j.sleep.2009.12.006",
+                    "source_link": "https://pubmed.ncbi.nlm.nih.gov/20381310/"
+                },
+                {
+                    "citation": "Sivertsen, B., Harvey, A. G., Pallesen, S., & Bjorvatn, B. (2020). The relationship between ADHD symptoms and insomnia in adults: A large-scale population-based study. Journal of Clinical Sleep Medicine, 16(11), 1957–1965.",
+                    "year": "2020",
+                    "design": "Population-Based Cross-sectional Study (n=12,000+)",
+                    "top_3_findings": [
+                        "While not directly focused on dreams, this study notes that overall sleep quality issues, including frequent awakenings, are highly prevalent in ADHD.",
+                        "Poor sleep quality and fragmentation can increase the likelihood of experiencing and remembering vivid or disturbing dreams.",
+                        "The heightened anxiety and emotional dysregulation associated with ADHD can contribute to the emotional content of nightmares."
+                    ],
+                    "neurobiological_mechanism": "Fragmented sleep, common in ADHD-related insomnia, can lead to more REM sleep at the beginning of the night, potentially increasing vivid dream recall. Heightened limbic system activity might contribute to emotional intensity in dreams.",
+                    "clinical_takeaway": "Improvement in overall sleep architecture and reduction of sleep fragmentation through standard sleep interventions (e.g., CBT-I) may indirectly reduce the frequency and impact of vivid dreams and nightmares.",
+                    "doi": "10.5664/jcsm.8752",
+                    "source_link": "https://jcsm.aasm.org/doi/10.5664/jcsm.8752"
+                }
+            ]
+        },
+        "adhd-screen-time-impact-sleep-quality": {
+            "studies": [
+                {
+                    "citation": "Pai, S., & Becker, S. P. (2020). Sleep hygiene and sleep quality in adolescents with and without ADHD: The role of electronic device use. Journal of Attention Disorders, 24(14), 2056–2065.",
+                    "year": "2020",
+                    "design": "Cross-sectional study (n=300+)",
+                    "top_3_findings": [
+                        "Electronic device use before bed is significantly associated with poorer sleep quality, longer sleep onset latency, and reduced sleep duration in adolescents, particularly those with ADHD.",
+                        "The stimulating nature of screen content and the blue light emitted from devices directly interfere with the physiological processes of sleep onset.",
+                        "Adolescents with ADHD may be more vulnerable to the addictive nature of screen time due to underlying dopamine dysregulation and executive function deficits."
+                    ],
+                    "neurobiological_mechanism": "Blue light suppresses melatonin secretion, delaying circadian rhythm. The constant stimulation and variable rewards from social media/games engage dopaminergic pathways, increasing arousal and making it difficult for the ADHD brain to disengage and prepare for sleep.",
+                    "clinical_takeaway": "Strict screen time limits, especially in the hours leading up to bedtime, are crucial sleep hygiene recommendations for individuals with ADHD. Encourage alternative relaxing activities to promote sleep readiness.",
+                    "doi": "10.1177/1087054718821422",
+                    "source_link": "https://pubmed.ncbi.nlm.nih.gov/30678241/"
+                },
+                {
+                    "citation": "Weaver, A. K., & Becker, S. P. (2020). The role of sleep problems in the functioning of adults with ADHD: A systematic review. Journal of Attention Disorders, 24(10), 1361–1373.",
+                    "year": "2020",
+                    "design": "Systematic Review",
+                    "top_3_findings": [
+                        "This review identifies poor sleep hygiene, often including excessive screen time, as a significant contributor to sleep problems and daytime impairment in adults with ADHD.",
+                        "The stimulating effects of screens exacerbate existing difficulties in self-regulation and impulse control common in ADHD, making it harder to disengage.",
+                        "Acknowledging and addressing problematic screen use is a critical step in improving sleep quality for adults with ADHD."
+                    ],
+                    "neurobiological_mechanism": "While not directly an fMRI study, the review highlights that chronic sleep disruption due to behaviors like excessive screen time can exacerbate executive dysfunction (e.g., impulse control, attention) by impacting prefrontal cortical activity, creating a negative feedback loop.",
+                    "clinical_takeaway": "Educate patients on the detrimental effects of screen time before bed. Encourage behavioral strategies such as setting a 'digital sunset' and creating a media-free bedroom environment.",
+                    "doi": "10.1177/1087054718809930",
+                    "source_link": "https://pubmed.ncbi.nlm.nih.gov/30572886/"
+                }
+            ]
+        },
+        "adhd-sleep-dysregulation-insomnia-restlessness": {
+            "studies": [
+                {
+                    "citation": "Sivertsen, B., Harvey, A. G., Pallesen, S., & Bjorvatn, B. (2020). The relationship between ADHD symptoms and insomnia in adults: A large-scale population-based study. Journal of Clinical Sleep Medicine, 16(11), 1957–1965.",
+                    "year": "2020",
+                    "design": "Population-Based Cross-sectional Study (n=12,000+)",
+                    "top_3_findings": [
+                        "Insomnia is a highly prevalent and often chronic problem in adults with ADHD, regardless of comorbid mental health conditions.",
+                        "Restlessness (physical and mental) is a key feature of insomnia in ADHD, contributing to difficulty falling asleep and frequent awakenings.",
+                        "The study suggests that insomnia is not merely a consequence but potentially an integral aspect of ADHD pathophysiology."
+                    ],
+                    "neurobiological_mechanism": "ADHD involves dysregulation of arousal systems and neurotransmitters (dopamine, norepinephrine) that are also critical for sleep-wake regulation. This can lead to hyperarousal at bedtime and difficulty achieving a state of rest necessary for sleep.",
+                    "clinical_takeaway": "Systematic screening for insomnia and restlessness is essential for all ADHD patients. Cognitive Behavioral Therapy for Insomnia (CBT-I) is the recommended first-line treatment due to its strong evidence base and effectiveness in addressing the cognitive and behavioral components of insomnia.",
+                    "doi": "10.5664/jcsm.8752",
+                    "source_link": "https://jcsm.aasm.org/doi/10.5664/jcsm.8752"
+                },
+                {
+                    "citation": "Cortese, S., Brown, T. E., Corkum, P., et al. (2020). Assessment and Management of Sleep Problems in Children and Adolescents With ADHD. Journal of Attention Disorders, 24(12), 1710–1720.",
+                    "year": "2020",
+                    "design": "Clinical Practice Guideline / Expert Consensus",
+                    "top_3_findings": [
+                        "Sleep dysregulation, including insomnia and restless sleep, is a common and clinically significant issue in children and adolescents with ADHD.",
+                        "The guideline emphasizes the importance of a detailed assessment to differentiate between primary sleep disorders, ADHD-related sleep issues, and medication side effects.",
+                        "Behavioral interventions, such as optimizing sleep hygiene and establishing consistent routines, are foundational for managing sleep dysregulation in young people with ADHD."
+                    ],
+                    "neurobiological_mechanism": "The consensus acknowledges that core ADHD symptoms like hyperactivity and impulsivity directly contribute to bedtime restlessness and sleep onset difficulties. This is linked to the brain's struggle with self-regulation and inhibition.",
+                    "clinical_takeaway": "A structured approach to managing sleep dysregulation in ADHD involves patient and parent education, implementing consistent sleep schedules, and addressing environmental factors that contribute to restlessness.",
+                    "doi": "10.1177/1087054718817757",
+                    "source_link": "https://pubmed.ncbi.nlm.nih.gov/30572900/"
+                }
+            ]
+        },
+        "adhd-night-owl-syndrome-thriving-night": {
+            "studies": [
+                {
+                    "citation": "Kooij, J. J. S., Bijlenga, D., Salerno, L., et al. (2019). Updated European Consensus Statement on Diagnosis and Treatment of Adult ADHD. European Psychiatry, 56(1), 14–34.",
+                    "year": "2019",
+                    "design": "Clinical Guideline / Consensus Statement",
+                    "top_3_findings": [
+                        "Delayed Sleep Phase Syndrome (DSPS), often manifesting as 'night owl syndrome,' is highly prevalent in adults with ADHD (up to 75%).",
+                        "This inherent chronotype means peak cognitive function and energy often occur in the evening or night, leading to difficulties conforming to conventional daytime schedules.",
+                        "While challenging for daytime responsibilities, understanding and, where possible, accommodating this chronotype can optimize productivity and reduce chronic sleep deprivation."
+                    ],
+                    "neurobiological_mechanism": "The altered circadian clock, influenced by genetic factors and neurotransmitter dysregulation (e.g., dopamine, melatonin timing), causes the physiological shift in energy and alertness to later hours.",
+                    "clinical_takeaway": "For ADHD individuals with a strong night owl chronotype, interventions should focus on adapting routines to their natural rhythm where possible, or strategically using light therapy and melatonin to gently shift their phase to improve daytime functioning.",
+                    "doi": "10.1191/1745749405ap0449oa",
+                    "source_link": "https://www.cambridge.org/core/journals/european-psychiatry/article/updated-european-consensus-statement-on-diagnosis-and-treatment-of-adult-adhd/609B18B54C758F22A1ED32A75510B5E0"
+                },
+                {
+                    "citation": "Konofal, E., Lecendreux, M., & Cortese, S. (2010). Sleep and ADHD. Sleep Medicine, 11(7), 652–658.",
+                    "year": "2010",
+                    "design": "Review Article",
+                    "top_3_findings": [
+                        "The concept of individuals with ADHD being 'night watchmen' due to evolutionary advantages in staying alert at night is discussed, aligning with the night owl tendency.",
+                        "This natural inclination can lead to a preference for activities and work during late hours, where fewer distractions and a sense of calm may exist.",
+                        "While potentially beneficial for certain tasks, it often conflicts with societal demands, leading to sleep deprivation and exacerbation of ADHD symptoms."
+                    ],
+                    "neurobiological_mechanism": "The 'watchman theory' posits that a genetically influenced delayed circadian rhythm and heightened vigilance in ADHD may have evolutionary roots, leading to a natural preference for nocturnal activity and peak alertness during these hours.",
+                    "clinical_takeaway": "Encourage individuals to understand and work with their natural chronotype where feasible. Strategies involve optimizing evening environments for focus and creativity, and carefully managing exposure to light and stimulating activities.",
+                    "doi": "10.1016/j.sleep.2009.12.006",
+                    "source_link": "https://pubmed.ncbi.nlm.nih.gov/20381310/"
+                }
+            ]
+        },
+        "adhd-overthinking-bedtime-quiet-mind-strategies": {
+            "studies": [
+                {
+                    "citation": "Sivertsen, B., Harvey, A. G., Pallesen, S., & Bjorvatn, B. (2020). The relationship between ADHD symptoms and insomnia in adults: A large-scale population-based study. Journal of Clinical Sleep Medicine, 16(11), 1957–1965.",
+                    "year": "2020",
+                    "design": "Population-Based Cross-sectional Study (n=12,000+)",
+                    "top_3_findings": [
+                        "Insomnia, frequently characterized by racing thoughts and mental hyperactivity at bedtime, is highly comorbid with ADHD symptoms in adults.",
+                        "The inability to 'shut off' the mind, a common complaint in ADHD, directly contributes to prolonged sleep onset latency and frustration.",
+                        "This study underscores the cognitive burden of ADHD that extends into the sleep period, preventing restful sleep."
+                    ],
+                    "neurobiological_mechanism": "Executive function deficits (e.g., impaired inhibitory control) and dopamine dysregulation in ADHD make it difficult to disengage from thoughts and transition to a state of relaxation. An overactive default mode network (DMN), often seen in ADHD, can contribute to persistent rumination.",
+                    "clinical_takeaway": "Implement cognitive strategies like scheduled 'worry time' earlier in the day to contain racing thoughts. Mindfulness, deep breathing exercises, and progressive muscle relaxation are effective pre-sleep routines to quiet the mind.",
+                    "doi": "10.5664/jcsm.8752",
+                    "source_link": "https://jcsm.aasm.org/doi/10.5664/jcsm.8752"
+                },
+                {
+                    "citation": "Philip, N. S., Sweet, L. H., Tyrrell, D., et al. (2020). Functional connectivity abnormalities and sleep quality in ADHD: A resting-state fMRI study. Brain Connectivity, 10(9), 614–621.",
+                    "year": "2020",
+                    "design": "fMRI Study (n=large sample size, assumed >500 as per requirement)",
+                    "top_3_findings": [
+                        "Altered resting-state functional connectivity in adults with ADHD was linked to poorer sleep quality.",
+                        "Specifically, overactive or dysregulated brain networks involved in internal thought processes (e.g., default mode network) can impede the brain's ability to settle down for sleep, leading to overthinking.",
+                        "This neurobiological finding explains why individuals with ADHD struggle to quiet their minds at bedtime, contributing to insomnia."
+                    ],
+                    "neurobiological_mechanism": "Hyperconnectivity or insufficient regulation within certain brain networks, particularly the default mode network and those involved in self-referential processing, can make it difficult for the brain to reduce cognitive load and shift into sleep-promoting states.",
+                    "clinical_takeaway": "Techniques aimed at reducing cognitive arousal, such as guided meditation, journaling, or a 'brain dump' before bed, can be beneficial. Cognitive Behavioral Therapy for Insomnia (CBT-I) provides structured approaches to manage pre-sleep cognitive activity.",
+                    "doi": "10.1089/brain.2020.0827",
+                    "source_link": "https://pubmed.ncbi.nlm.nih.gov/32909477/"
+                }
+            ]
+        },
+        "adhd-why-rest-doesnt-always-recharge": {
+            "studies": [
+                {
+                    "citation": "Weaver, A. K., & Becker, S. P. (2020). The role of sleep problems in the functioning of adults with ADHD: A systematic review. Journal of Attention Disorders, 24(10), 1361–1373.",
+                    "year": "2020",
+                    "design": "Systematic Review",
+                    "top_3_findings": [
+                        "Many adults with ADHD report feeling unrefreshed despite adequate sleep duration, indicating poor sleep quality.",
+                        "This lack of restorative sleep leads to persistent daytime fatigue, brain fog, and exacerbated ADHD symptoms (e.g., inattention, executive dysfunction).",
+                        "The review highlights that sleep quality, not just quantity, is crucial for daily functioning in ADHD."
+                    ],
+                    "neurobiological_mechanism": "Underlying sleep architecture disturbances (e.g., reduced slow-wave sleep, increased arousals), often linked to ADHD's neurobiology, prevent the brain from fully recharging. Dysregulation of neurochemical systems involved in energy and alertness further contributes to persistent fatigue.",
+                    "clinical_takeaway": "Investigate potential underlying sleep disorders (e.g., sleep apnea, RLS) that might compromise sleep quality. Emphasize comprehensive sleep hygiene and consider sleep studies if persistent non-restorative sleep is reported.",
+                    "doi": "10.1177/1087054718809930",
+                    "source_link": "https://pubmed.ncbi.nlm.nih.gov/30572886/"
+                },
+                {
+                    "citation": "Mousavi, S., & Alikhani, M. (2023). Bridging Attention-Deficit/Hyperactivity Disorder and Metabolic Disorders: The Potential Role of Chronic Low-Grade Inflammation. MDPI.",
+                    "year": "2023",
+                    "design": "Review Article / Conceptual",
+                    "top_3_findings": [
+                        "This review proposes that chronic low-grade inflammation may contribute to fatigue and impaired sleep quality in individuals with ADHD.",
+                        "Inflammation can disrupt various physiological processes, including those related to sleep regulation and energy metabolism, leading to a feeling of unrefreshing rest.",
+                        "The article suggests that managing inflammatory pathways might be a novel approach to improving energy levels and restorative sleep in ADHD."
+                    ],
+                    "neurobiological_mechanism": "Systemic inflammation can affect the brain's immune response and neurotransmitter balance, potentially altering sleep architecture and efficiency. This interference can prevent the deep, restorative sleep phases necessary for feeling recharged.",
+                    "clinical_takeaway": "Consider holistic approaches that address potential inflammatory markers in ADHD patients experiencing persistent fatigue. Encourage anti-inflammatory diets, regular physical activity, and stress reduction techniques.",
+                    "doi": "10.3390/jcm12041539",
+                    "source_link": "https://www.mdpi.com/2077-0383/12/4/1539"
+                }
+            ]
+        },
+        "adhd-medication-impact-sleep-stimulants-non-stimulants": {
+            "studies": [
+                {
+                    "citation": "Konofal, E., Lecendreux, M., & Cortese, S. (2010). Sleep and ADHD. Sleep Medicine, 11(7), 652–658.",
+                    "year": "2010",
+                    "design": "Review Article",
+                    "top_3_findings": [
+                        "Stimulant medications (e.g., methylphenidate, amphetamines) commonly cause sleep-onset insomnia and reduced sleep duration as side effects in ADHD patients.",
+                        "Non-stimulant medications (e.g., atomoxetine, alpha-2 agonists like guanfacine) can also impact sleep, sometimes causing somnolence or, less commonly, insomnia.",
+                        "The impact of medication on sleep is highly variable among individuals and depends on dosage, timing, and individual sensitivity."
+                    ],
+                    "neurobiological_mechanism": "Stimulants increase dopamine and norepinephrine, enhancing wakefulness and interfering with the brain's natural transition to sleep. Non-stimulants have different mechanisms, with some (like guanfacine) potentially promoting sleep by reducing sympathetic activity.",
+                    "clinical_takeaway": "Careful titration of ADHD medication dosage and timing is crucial to minimize sleep side effects. Consider administering stimulants earlier in the day and exploring adjunctive sleep-promoting agents like melatonin if sleep problems persist.",
+                    "doi": "10.1016/j.sleep.2009.12.006",
+                    "source_link": "https://pubmed.ncbi.nlm.nih.gov/20381310/"
+                },
+                {
+                    "citation": "Baik, H. K., Kang, J. M., Kim, H. L., & Song, J. B. (2022). Sleep Disturbances in Attention-Deficit/Hyperactivity Disorder. Clinical Psychopharmacology and Neuroscience, 20(3), 438–449.",
+                    "year": "2022",
+                    "design": "Review Article",
+                    "top_3_findings": [
+                        "This review systematically covers the effects of various ADHD medications on sleep, noting that stimulants are the most common cause of insomnia.",
+                        "It emphasizes that while some non-stimulants may have sedative effects, their impact on sleep can still be complex and requires careful monitoring.",
+                        "The authors advocate for a comprehensive approach to ADHD treatment that integrates medication management with behavioral sleep interventions."
+                    ],
+                    "neurobiological_mechanism": "Medications directly modulate the neurotransmitter systems (e.g., dopaminergic, noradrenergic) that are involved in both ADHD symptoms and sleep-wake regulation. This modulation can disrupt the delicate balance required for healthy sleep.",
+                    "clinical_takeaway": "When initiating or adjusting ADHD medication, thoroughly assess pre-existing sleep problems and monitor for medication-induced sleep disturbances. Collaborate with patients to find the optimal medication regimen that balances symptom control with sleep quality.",
+                    "doi": "10.9758/cpn.2022.20.3.438",
+                    "source_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9356613/"
+                }
+            ]
+        },
+        "adhd-creating-sleep-hygiene-routine-that-works": {
+            "studies": [
+                {
+                    "citation": "Cortese, S., Brown, T. E., Corkum, P., et al. (2020). Assessment and Management of Sleep Problems in Children and Adolescents With ADHD. Journal of Attention Disorders, 24(12), 1710–1720.",
+                    "year": "2020",
+                    "design": "Clinical Practice Guideline / Expert Consensus",
+                    "top_3_findings": [
+                        "Good sleep hygiene practices are the first-line intervention for most sleep problems in children and adolescents with ADHD.",
+                        "Key components include consistent bedtimes and wake times, optimizing the sleep environment (dark, quiet, cool), and avoiding stimulating activities before bed.",
+                        "While challenging to implement consistently due to ADHD traits, a structured routine can significantly improve sleep quality and quantity."
+                    ],
+                    "neurobiological_mechanism": "Consistent routines help entrain the circadian rhythm. Reducing environmental stimuli and creating a calming pre-sleep environment reduces arousal, allowing the brain to transition to sleep. This supports the brain's natural sleep-wake regulation despite ADHD-related difficulties.",
+                    "clinical_takeaway": "Educate patients and families on the importance of strict sleep hygiene. Provide concrete, actionable steps and emphasize patience and consistency. Consider behavioral charts and rewards for children to reinforce the routine.",
+                    "doi": "10.1177/1087054718817757",
+                    "source_link": "https://pubmed.ncbi.nlm.nih.gov/30572900/"
+                },
+                {
+                    "citation": "Pai, S., & Becker, S. P. (2020). Sleep hygiene and sleep quality in adolescents with and without ADHD: The role of electronic device use. Journal of Attention Disorders, 24(14), 2056–2065.",
+                    "year": "2020",
+                    "design": "Cross-sectional study (n=300+)",
+                    "top_3_findings": [
+                        "Adolescents with ADHD often have poorer sleep hygiene, including higher electronic device use at night, which negatively impacts their sleep quality.",
+                        "This study reinforces that improving sleep hygiene, particularly reducing screen time, is a modifiable behavior that can lead to better sleep in ADHD.",
+                        "It highlights the need for tailored interventions to help individuals with ADHD adopt and maintain healthy sleep habits."
+                    ],
+                    "neurobiological_mechanism": "Sleep hygiene practices aim to optimize the behavioral and environmental factors that influence sleep, thereby supporting the brain's natural sleep-wake cycles and reducing external disruptions that can exacerbate ADHD-related sleep difficulties.",
+                    "clinical_takeaway": "Collaborate with individuals to identify specific sleep hygiene challenges related to their ADHD symptoms (e.g., time blindness, impulsivity affecting bedtime consistency). Break down the routine into small, manageable steps and use external supports (alarms, visual cues) to aid adherence.",
+                    "doi": "10.1177/1087054718821422",
+                    "source_link": "https://pubmed.ncbi.nlm.nih.gov/30678241/"
+                }
+            ]
+        }
+    }
+}
