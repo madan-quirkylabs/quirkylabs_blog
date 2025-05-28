@@ -1,1850 +1,1782 @@
 {
-  "adhd-impostor-syndrome": [
-    {
-      "target": "adhd-hide-your-struggles",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.77,
-        "Neurobiological Networks": 0.72,
-        "Failure/Recovery Arcs": 0.15,
-        "Dynamic Personas": 0.37,
-        "Search Intent Graphs": 0.74,
-        "Narrative DNA": 0.42,
-        "Format Affinities": 0.24,
-        "Behavioral Triggers": 0.34,
-        "Conflict Pairs": 0.8,
-        "Memetic Hooks": 0.34
-      }
-    },
-    {
-      "target": "adhd-people-pleasing",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.62,
-        "Neurobiological Networks": 0.95,
-        "Failure/Recovery Arcs": 0.28,
-        "Dynamic Personas": 0.2,
-        "Search Intent Graphs": 0.46,
-        "Narrative DNA": 0.86,
-        "Format Affinities": 0.53,
-        "Behavioral Triggers": 0.77,
-        "Conflict Pairs": 0.5,
-        "Memetic Hooks": 0.85
-      }
-    },
-    {
-      "target": "adhd-doing-too-much",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.19,
-        "Neurobiological Networks": 0.73,
-        "Failure/Recovery Arcs": 0.22,
-        "Dynamic Personas": 0.39,
-        "Search Intent Graphs": 0.9,
-        "Narrative DNA": 0.69,
-        "Format Affinities": 0.62,
-        "Behavioral Triggers": 0.8,
-        "Conflict Pairs": 0.35,
-        "Memetic Hooks": 1.0
-      }
-    },
-    {
-      "target": "adhd-faking-competence-at-work",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.44,
-        "Neurobiological Networks": 0.64,
-        "Failure/Recovery Arcs": 0.83,
-        "Dynamic Personas": 0.64,
-        "Search Intent Graphs": 0.51,
-        "Narrative DNA": 0.36,
-        "Format Affinities": 0.68,
-        "Behavioral Triggers": 0.6,
-        "Conflict Pairs": 0.77,
-        "Memetic Hooks": 0.39
-      }
-    },
-    {
-      "target": "adhd-ghosting-success",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.74,
-        "Neurobiological Networks": 0.81,
-        "Failure/Recovery Arcs": 0.32,
-        "Dynamic Personas": 0.74,
-        "Search Intent Graphs": 0.58,
-        "Narrative DNA": 0.92,
-        "Format Affinities": 0.99,
-        "Behavioral Triggers": 0.97,
-        "Conflict Pairs": 0.36,
-        "Memetic Hooks": 0.49
-      }
-    }
-  ],
-  "adhd-feel-like-a-fraud": [
-    {
-      "target": "adhd-performative-productivity",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.93,
-        "Neurobiological Networks": 0.48,
-        "Failure/Recovery Arcs": 0.28,
-        "Dynamic Personas": 0.84,
-        "Search Intent Graphs": 0.34,
-        "Narrative DNA": 0.99,
-        "Format Affinities": 0.62,
-        "Behavioral Triggers": 0.75,
-        "Conflict Pairs": 0.38,
-        "Memetic Hooks": 0.56
-      }
-    },
-    {
-      "target": "adhd-compliment-doubt",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.47,
-        "Neurobiological Networks": 0.62,
-        "Failure/Recovery Arcs": 0.1,
-        "Dynamic Personas": 0.9,
-        "Search Intent Graphs": 0.58,
-        "Narrative DNA": 0.54,
-        "Format Affinities": 0.84,
-        "Behavioral Triggers": 0.37,
-        "Conflict Pairs": 0.51,
-        "Memetic Hooks": 0.62
-      }
-    },
-    {
-      "target": "adhd-overcompensating",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.73,
-        "Neurobiological Networks": 0.94,
-        "Failure/Recovery Arcs": 0.35,
-        "Dynamic Personas": 0.54,
-        "Search Intent Graphs": 0.79,
-        "Narrative DNA": 0.14,
-        "Format Affinities": 0.87,
-        "Behavioral Triggers": 0.31,
-        "Conflict Pairs": 0.99,
-        "Memetic Hooks": 0.15
-      }
-    },
-    {
-      "target": "adhd-working-hard-to-fit-in",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.63,
-        "Neurobiological Networks": 0.41,
-        "Failure/Recovery Arcs": 0.7,
-        "Dynamic Personas": 0.9,
-        "Search Intent Graphs": 0.16,
-        "Narrative DNA": 0.45,
-        "Format Affinities": 0.5,
-        "Behavioral Triggers": 0.73,
-        "Conflict Pairs": 0.21,
-        "Memetic Hooks": 0.93
-      }
-    },
-    {
-      "target": "adhd-why-praise-feels-like-a-trap",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.96,
-        "Neurobiological Networks": 0.69,
-        "Failure/Recovery Arcs": 0.69,
-        "Dynamic Personas": 0.85,
-        "Search Intent Graphs": 0.21,
-        "Narrative DNA": 0.99,
-        "Format Affinities": 0.65,
-        "Behavioral Triggers": 0.83,
-        "Conflict Pairs": 0.17,
-        "Memetic Hooks": 0.8
-      }
-    }
-  ],
-  "adhd-masking-at-work": [
-    {
-      "target": "adhd-why-praise-feels-like-a-trap",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.98,
-        "Neurobiological Networks": 0.98,
-        "Failure/Recovery Arcs": 0.56,
-        "Dynamic Personas": 0.9,
-        "Search Intent Graphs": 0.49,
-        "Narrative DNA": 0.32,
-        "Format Affinities": 0.56,
-        "Behavioral Triggers": 0.36,
-        "Conflict Pairs": 0.28,
-        "Memetic Hooks": 0.38
-      }
-    },
-    {
-      "target": "adhd-overcompensating",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.7,
-        "Neurobiological Networks": 0.5,
-        "Failure/Recovery Arcs": 0.59,
-        "Dynamic Personas": 0.68,
-        "Search Intent Graphs": 0.97,
-        "Narrative DNA": 0.36,
-        "Format Affinities": 0.22,
-        "Behavioral Triggers": 0.14,
-        "Conflict Pairs": 0.38,
-        "Memetic Hooks": 0.28
-      }
-    },
-    {
-      "target": "adhd-validation-hunger",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.36,
-        "Neurobiological Networks": 0.71,
-        "Failure/Recovery Arcs": 0.29,
-        "Dynamic Personas": 0.62,
-        "Search Intent Graphs": 0.41,
-        "Narrative DNA": 0.12,
-        "Format Affinities": 0.56,
-        "Behavioral Triggers": 0.91,
-        "Conflict Pairs": 0.45,
-        "Memetic Hooks": 0.94
-      }
-    },
-    {
-      "target": "adhd-compliment-doubt",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.21,
-        "Neurobiological Networks": 0.63,
-        "Failure/Recovery Arcs": 0.52,
-        "Dynamic Personas": 0.45,
-        "Search Intent Graphs": 0.63,
-        "Narrative DNA": 0.13,
-        "Format Affinities": 0.66,
-        "Behavioral Triggers": 0.83,
-        "Conflict Pairs": 0.64,
-        "Memetic Hooks": 0.43
-      }
-    },
-    {
-      "target": "adhd-working-hard-to-fit-in",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.58,
-        "Neurobiological Networks": 0.79,
-        "Failure/Recovery Arcs": 0.61,
-        "Dynamic Personas": 0.98,
-        "Search Intent Graphs": 0.67,
-        "Narrative DNA": 0.88,
-        "Format Affinities": 0.93,
-        "Behavioral Triggers": 0.47,
-        "Conflict Pairs": 0.14,
-        "Memetic Hooks": 0.62
-      }
-    }
-  ],
-  "adhd-fake-success": [
-    {
-      "target": "adhd-why-praise-feels-like-a-trap",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.89,
-        "Neurobiological Networks": 0.86,
-        "Failure/Recovery Arcs": 0.4,
-        "Dynamic Personas": 0.41,
-        "Search Intent Graphs": 0.65,
-        "Narrative DNA": 0.95,
-        "Format Affinities": 0.97,
-        "Behavioral Triggers": 0.3,
-        "Conflict Pairs": 0.78,
-        "Memetic Hooks": 0.88
-      }
-    },
-    {
-      "target": "adhd-why-success-feels-fake",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.69,
-        "Neurobiological Networks": 0.64,
-        "Failure/Recovery Arcs": 0.74,
-        "Dynamic Personas": 0.94,
-        "Search Intent Graphs": 0.66,
-        "Narrative DNA": 0.74,
-        "Format Affinities": 0.32,
-        "Behavioral Triggers": 0.7,
-        "Conflict Pairs": 0.73,
-        "Memetic Hooks": 0.45
-      }
-    },
-    {
-      "target": "adhd-masking-at-work",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.92,
-        "Neurobiological Networks": 0.46,
-        "Failure/Recovery Arcs": 0.86,
-        "Dynamic Personas": 0.56,
-        "Search Intent Graphs": 0.19,
-        "Narrative DNA": 0.2,
-        "Format Affinities": 0.37,
-        "Behavioral Triggers": 0.42,
-        "Conflict Pairs": 0.4,
-        "Memetic Hooks": 0.28
-      }
-    },
-    {
-      "target": "adhd-high-functioning-struggles",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.9,
-        "Neurobiological Networks": 0.62,
-        "Failure/Recovery Arcs": 1.0,
-        "Dynamic Personas": 0.29,
-        "Search Intent Graphs": 0.54,
-        "Narrative DNA": 0.6,
-        "Format Affinities": 0.32,
-        "Behavioral Triggers": 0.74,
-        "Conflict Pairs": 1.0,
-        "Memetic Hooks": 0.31
-      }
-    },
-    {
-      "target": "adhd-validation-hunger",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.13,
-        "Neurobiological Networks": 0.6,
-        "Failure/Recovery Arcs": 0.39,
-        "Dynamic Personas": 0.8,
-        "Search Intent Graphs": 0.54,
-        "Narrative DNA": 0.64,
-        "Format Affinities": 0.78,
-        "Behavioral Triggers": 0.6,
-        "Conflict Pairs": 0.44,
-        "Memetic Hooks": 0.49
-      }
-    }
-  ],
-  "adhd-compliment-doubt": [
-    {
-      "target": "adhd-overexplaining-yourself",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.51,
-        "Neurobiological Networks": 0.19,
-        "Failure/Recovery Arcs": 0.88,
-        "Dynamic Personas": 0.9,
-        "Search Intent Graphs": 0.53,
-        "Narrative DNA": 0.67,
-        "Format Affinities": 0.77,
-        "Behavioral Triggers": 0.66,
-        "Conflict Pairs": 0.77,
-        "Memetic Hooks": 0.3
-      }
-    },
-    {
-      "target": "adhd-secret-anxiety",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.91,
-        "Neurobiological Networks": 0.23,
-        "Failure/Recovery Arcs": 0.47,
-        "Dynamic Personas": 0.31,
-        "Search Intent Graphs": 0.24,
-        "Narrative DNA": 0.58,
-        "Format Affinities": 0.89,
-        "Behavioral Triggers": 0.44,
-        "Conflict Pairs": 0.45,
-        "Memetic Hooks": 0.46
-      }
-    },
-    {
-      "target": "adhd-validation-hunger",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.78,
-        "Neurobiological Networks": 0.98,
-        "Failure/Recovery Arcs": 0.5,
-        "Dynamic Personas": 0.64,
-        "Search Intent Graphs": 0.15,
-        "Narrative DNA": 0.9,
-        "Format Affinities": 0.82,
-        "Behavioral Triggers": 0.67,
-        "Conflict Pairs": 0.95,
-        "Memetic Hooks": 0.52
-      }
-    },
-    {
-      "target": "adhd-feel-like-a-fraud",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.72,
-        "Neurobiological Networks": 0.41,
-        "Failure/Recovery Arcs": 0.84,
-        "Dynamic Personas": 0.85,
-        "Search Intent Graphs": 0.79,
-        "Narrative DNA": 0.21,
-        "Format Affinities": 0.46,
-        "Behavioral Triggers": 0.51,
-        "Conflict Pairs": 0.45,
-        "Memetic Hooks": 0.8
-      }
-    },
-    {
-      "target": "adhd-overcompensating",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.76,
-        "Neurobiological Networks": 0.77,
-        "Failure/Recovery Arcs": 0.42,
-        "Dynamic Personas": 0.73,
-        "Search Intent Graphs": 0.74,
-        "Narrative DNA": 0.59,
-        "Format Affinities": 0.62,
-        "Behavioral Triggers": 0.35,
-        "Conflict Pairs": 0.66,
-        "Memetic Hooks": 0.83
-      }
-    }
-  ],
-  "adhd-perfectionism": [
-    {
-      "target": "adhd-feel-like-a-fraud",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.36,
-        "Neurobiological Networks": 0.95,
-        "Failure/Recovery Arcs": 0.38,
-        "Dynamic Personas": 0.81,
-        "Search Intent Graphs": 0.73,
-        "Narrative DNA": 0.75,
-        "Format Affinities": 0.29,
-        "Behavioral Triggers": 0.76,
-        "Conflict Pairs": 0.47,
-        "Memetic Hooks": 0.61
-      }
-    },
-    {
-      "target": "adhd-impostor-syndrome",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.79,
-        "Neurobiological Networks": 0.29,
-        "Failure/Recovery Arcs": 0.8,
-        "Dynamic Personas": 0.68,
-        "Search Intent Graphs": 0.22,
-        "Narrative DNA": 0.14,
-        "Format Affinities": 0.38,
-        "Behavioral Triggers": 0.69,
-        "Conflict Pairs": 0.39,
-        "Memetic Hooks": 0.87
-      }
-    },
-    {
-      "target": "adhd-overcompensating",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.11,
-        "Neurobiological Networks": 0.71,
-        "Failure/Recovery Arcs": 0.97,
-        "Dynamic Personas": 0.73,
-        "Search Intent Graphs": 0.34,
-        "Narrative DNA": 0.18,
-        "Format Affinities": 0.88,
-        "Behavioral Triggers": 0.45,
-        "Conflict Pairs": 0.57,
-        "Memetic Hooks": 0.6
-      }
-    },
-    {
-      "target": "adhd-doing-too-much",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.14,
-        "Neurobiological Networks": 0.38,
-        "Failure/Recovery Arcs": 0.22,
-        "Dynamic Personas": 0.87,
-        "Search Intent Graphs": 0.76,
-        "Narrative DNA": 0.65,
-        "Format Affinities": 0.72,
-        "Behavioral Triggers": 0.73,
-        "Conflict Pairs": 0.43,
-        "Memetic Hooks": 0.93
-      }
-    },
-    {
-      "target": "adhd-people-pleasing",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.95,
-        "Neurobiological Networks": 0.8,
-        "Failure/Recovery Arcs": 0.94,
-        "Dynamic Personas": 0.69,
-        "Search Intent Graphs": 0.19,
-        "Narrative DNA": 0.51,
-        "Format Affinities": 0.13,
-        "Behavioral Triggers": 0.9,
-        "Conflict Pairs": 0.85,
-        "Memetic Hooks": 0.53
-      }
-    }
-  ],
-  "adhd-people-pleasing": [
-    {
-      "target": "adhd-ghosting-success",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.75,
-        "Neurobiological Networks": 0.18,
-        "Failure/Recovery Arcs": 0.23,
-        "Dynamic Personas": 0.85,
-        "Search Intent Graphs": 0.22,
-        "Narrative DNA": 0.28,
-        "Format Affinities": 0.99,
-        "Behavioral Triggers": 0.88,
-        "Conflict Pairs": 0.79,
-        "Memetic Hooks": 0.69
-      }
-    },
-    {
-      "target": "adhd-high-functioning-struggles",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.46,
-        "Neurobiological Networks": 0.77,
-        "Failure/Recovery Arcs": 0.92,
-        "Dynamic Personas": 0.75,
-        "Search Intent Graphs": 0.13,
-        "Narrative DNA": 0.82,
-        "Format Affinities": 0.73,
-        "Behavioral Triggers": 0.4,
-        "Conflict Pairs": 0.78,
-        "Memetic Hooks": 0.83
-      }
-    },
-    {
-      "target": "adhd-overexplaining-yourself",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.77,
-        "Neurobiological Networks": 0.76,
-        "Failure/Recovery Arcs": 0.12,
-        "Dynamic Personas": 0.6,
-        "Search Intent Graphs": 0.78,
-        "Narrative DNA": 0.88,
-        "Format Affinities": 0.7,
-        "Behavioral Triggers": 0.75,
-        "Conflict Pairs": 0.68,
-        "Memetic Hooks": 0.82
-      }
-    },
-    {
-      "target": "adhd-masking-at-work",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.92,
-        "Neurobiological Networks": 0.18,
-        "Failure/Recovery Arcs": 0.51,
-        "Dynamic Personas": 0.4,
-        "Search Intent Graphs": 0.23,
-        "Narrative DNA": 0.28,
-        "Format Affinities": 0.71,
-        "Behavioral Triggers": 1.0,
-        "Conflict Pairs": 0.39,
-        "Memetic Hooks": 0.4
-      }
-    },
-    {
-      "target": "adhd-doing-too-much",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.6,
-        "Neurobiological Networks": 0.3,
-        "Failure/Recovery Arcs": 0.56,
-        "Dynamic Personas": 0.87,
-        "Search Intent Graphs": 0.43,
-        "Narrative DNA": 0.62,
-        "Format Affinities": 0.69,
-        "Behavioral Triggers": 0.65,
-        "Conflict Pairs": 0.87,
-        "Memetic Hooks": 0.76
-      }
-    }
-  ],
-  "adhd-overcompensating": [
-    {
-      "target": "adhd-why-success-feels-fake",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.64,
-        "Neurobiological Networks": 0.91,
-        "Failure/Recovery Arcs": 0.93,
-        "Dynamic Personas": 0.94,
-        "Search Intent Graphs": 0.36,
-        "Narrative DNA": 0.9,
-        "Format Affinities": 0.95,
-        "Behavioral Triggers": 0.81,
-        "Conflict Pairs": 0.26,
-        "Memetic Hooks": 0.97
-      }
-    },
-    {
-      "target": "adhd-high-functioning-struggles",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.27,
-        "Neurobiological Networks": 0.81,
-        "Failure/Recovery Arcs": 0.59,
-        "Dynamic Personas": 0.36,
-        "Search Intent Graphs": 0.85,
-        "Narrative DNA": 0.34,
-        "Format Affinities": 0.3,
-        "Behavioral Triggers": 0.36,
-        "Conflict Pairs": 0.55,
-        "Memetic Hooks": 0.47
-      }
-    },
-    {
-      "target": "adhd-hide-your-struggles",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.85,
-        "Neurobiological Networks": 0.21,
-        "Failure/Recovery Arcs": 0.75,
-        "Dynamic Personas": 0.67,
-        "Search Intent Graphs": 0.66,
-        "Narrative DNA": 0.11,
-        "Format Affinities": 0.31,
-        "Behavioral Triggers": 0.45,
-        "Conflict Pairs": 0.49,
-        "Memetic Hooks": 0.47
-      }
-    },
-    {
-      "target": "adhd-fear-of-being-found-out",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.95,
-        "Neurobiological Networks": 0.61,
-        "Failure/Recovery Arcs": 0.46,
-        "Dynamic Personas": 0.19,
-        "Search Intent Graphs": 1.0,
-        "Narrative DNA": 0.86,
-        "Format Affinities": 0.13,
-        "Behavioral Triggers": 0.57,
-        "Conflict Pairs": 0.93,
-        "Memetic Hooks": 0.57
-      }
-    },
-    {
-      "target": "adhd-performative-productivity",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.56,
-        "Neurobiological Networks": 0.66,
-        "Failure/Recovery Arcs": 0.71,
-        "Dynamic Personas": 0.71,
-        "Search Intent Graphs": 0.15,
-        "Narrative DNA": 0.64,
-        "Format Affinities": 0.21,
-        "Behavioral Triggers": 0.11,
-        "Conflict Pairs": 0.41,
-        "Memetic Hooks": 0.37
-      }
-    }
-  ],
-  "adhd-self-sabotage": [
-    {
-      "target": "adhd-emotional-collapse",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.11,
-        "Neurobiological Networks": 0.34,
-        "Failure/Recovery Arcs": 0.72,
-        "Dynamic Personas": 0.16,
-        "Search Intent Graphs": 0.77,
-        "Narrative DNA": 0.54,
-        "Format Affinities": 0.56,
-        "Behavioral Triggers": 0.1,
-        "Conflict Pairs": 0.64,
-        "Memetic Hooks": 0.35
-      }
-    },
-    {
-      "target": "adhd-ghosting-success",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.94,
-        "Neurobiological Networks": 0.23,
-        "Failure/Recovery Arcs": 0.12,
-        "Dynamic Personas": 0.85,
-        "Search Intent Graphs": 0.96,
-        "Narrative DNA": 0.46,
-        "Format Affinities": 0.74,
-        "Behavioral Triggers": 0.1,
-        "Conflict Pairs": 0.82,
-        "Memetic Hooks": 0.54
-      }
-    },
-    {
-      "target": "adhd-why-success-feels-fake",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.33,
-        "Neurobiological Networks": 0.67,
-        "Failure/Recovery Arcs": 0.67,
-        "Dynamic Personas": 0.42,
-        "Search Intent Graphs": 0.33,
-        "Narrative DNA": 0.11,
-        "Format Affinities": 0.15,
-        "Behavioral Triggers": 0.28,
-        "Conflict Pairs": 0.5,
-        "Memetic Hooks": 0.79
-      }
-    },
-    {
-      "target": "adhd-high-functioning-struggles",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.82,
-        "Neurobiological Networks": 0.72,
-        "Failure/Recovery Arcs": 0.79,
-        "Dynamic Personas": 0.42,
-        "Search Intent Graphs": 0.21,
-        "Narrative DNA": 0.13,
-        "Format Affinities": 0.63,
-        "Behavioral Triggers": 0.75,
-        "Conflict Pairs": 0.21,
-        "Memetic Hooks": 0.64
-      }
-    },
-    {
-      "target": "adhd-performative-productivity",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.52,
-        "Neurobiological Networks": 0.5,
-        "Failure/Recovery Arcs": 0.43,
-        "Dynamic Personas": 0.14,
-        "Search Intent Graphs": 0.7,
-        "Narrative DNA": 0.67,
-        "Format Affinities": 0.12,
-        "Behavioral Triggers": 0.68,
-        "Conflict Pairs": 0.25,
-        "Memetic Hooks": 0.1
-      }
-    }
-  ],
-  "adhd-high-functioning-struggles": [
-    {
-      "target": "adhd-why-praise-feels-like-a-trap",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.25,
-        "Neurobiological Networks": 0.42,
-        "Failure/Recovery Arcs": 0.57,
-        "Dynamic Personas": 0.68,
-        "Search Intent Graphs": 0.65,
-        "Narrative DNA": 0.74,
-        "Format Affinities": 0.34,
-        "Behavioral Triggers": 0.53,
-        "Conflict Pairs": 0.99,
-        "Memetic Hooks": 0.17
-      }
-    },
-    {
-      "target": "adhd-overcompensating",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.74,
-        "Neurobiological Networks": 0.82,
-        "Failure/Recovery Arcs": 0.78,
-        "Dynamic Personas": 0.21,
-        "Search Intent Graphs": 0.64,
-        "Narrative DNA": 0.75,
-        "Format Affinities": 0.31,
-        "Behavioral Triggers": 0.29,
-        "Conflict Pairs": 0.3,
-        "Memetic Hooks": 0.88
-      }
-    },
-    {
-      "target": "adhd-doing-too-much",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.48,
-        "Neurobiological Networks": 0.58,
-        "Failure/Recovery Arcs": 0.15,
-        "Dynamic Personas": 0.84,
-        "Search Intent Graphs": 0.16,
-        "Narrative DNA": 0.41,
-        "Format Affinities": 0.97,
-        "Behavioral Triggers": 0.37,
-        "Conflict Pairs": 0.56,
-        "Memetic Hooks": 0.66
-      }
-    },
-    {
-      "target": "adhd-hide-your-struggles",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.73,
-        "Neurobiological Networks": 0.59,
-        "Failure/Recovery Arcs": 0.25,
-        "Dynamic Personas": 0.47,
-        "Search Intent Graphs": 0.46,
-        "Narrative DNA": 0.2,
-        "Format Affinities": 0.62,
-        "Behavioral Triggers": 0.41,
-        "Conflict Pairs": 0.16,
-        "Memetic Hooks": 0.82
-      }
-    },
-    {
-      "target": "adhd-ghosting-success",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.13,
-        "Neurobiological Networks": 0.86,
-        "Failure/Recovery Arcs": 0.95,
-        "Dynamic Personas": 0.68,
-        "Search Intent Graphs": 0.27,
-        "Narrative DNA": 0.86,
-        "Format Affinities": 0.45,
-        "Behavioral Triggers": 0.54,
-        "Conflict Pairs": 0.99,
-        "Memetic Hooks": 0.55
-      }
-    }
-  ],
-  "adhd-performative-productivity": [
-    {
-      "target": "adhd-high-functioning-struggles",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.39,
-        "Neurobiological Networks": 0.91,
-        "Failure/Recovery Arcs": 0.12,
-        "Dynamic Personas": 0.47,
-        "Search Intent Graphs": 0.39,
-        "Narrative DNA": 0.93,
-        "Format Affinities": 0.8,
-        "Behavioral Triggers": 0.87,
-        "Conflict Pairs": 0.15,
-        "Memetic Hooks": 0.47
-      }
-    },
-    {
-      "target": "adhd-fear-of-being-found-out",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.72,
-        "Neurobiological Networks": 0.95,
-        "Failure/Recovery Arcs": 0.45,
-        "Dynamic Personas": 0.8,
-        "Search Intent Graphs": 0.33,
-        "Narrative DNA": 0.12,
-        "Format Affinities": 0.16,
-        "Behavioral Triggers": 0.11,
-        "Conflict Pairs": 0.51,
-        "Memetic Hooks": 0.55
-      }
-    },
-    {
-      "target": "adhd-masking-at-work",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.98,
-        "Neurobiological Networks": 0.87,
-        "Failure/Recovery Arcs": 0.28,
-        "Dynamic Personas": 0.25,
-        "Search Intent Graphs": 0.32,
-        "Narrative DNA": 0.69,
-        "Format Affinities": 0.98,
-        "Behavioral Triggers": 0.28,
-        "Conflict Pairs": 0.45,
-        "Memetic Hooks": 0.78
-      }
-    },
-    {
-      "target": "adhd-faking-competence-at-work",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.47,
-        "Neurobiological Networks": 0.96,
-        "Failure/Recovery Arcs": 0.32,
-        "Dynamic Personas": 0.44,
-        "Search Intent Graphs": 0.7,
-        "Narrative DNA": 0.18,
-        "Format Affinities": 0.71,
-        "Behavioral Triggers": 0.17,
-        "Conflict Pairs": 0.74,
-        "Memetic Hooks": 0.64
-      }
-    },
-    {
-      "target": "adhd-people-pleasing",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.39,
-        "Neurobiological Networks": 0.52,
-        "Failure/Recovery Arcs": 0.17,
-        "Dynamic Personas": 0.23,
-        "Search Intent Graphs": 0.18,
-        "Narrative DNA": 0.23,
-        "Format Affinities": 0.7,
-        "Behavioral Triggers": 0.29,
-        "Conflict Pairs": 0.83,
-        "Memetic Hooks": 0.53
-      }
-    }
-  ],
-  "adhd-emotional-collapse": [
-    {
-      "target": "adhd-overcompensating",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.34,
-        "Neurobiological Networks": 0.38,
-        "Failure/Recovery Arcs": 0.16,
-        "Dynamic Personas": 0.86,
-        "Search Intent Graphs": 0.34,
-        "Narrative DNA": 0.46,
-        "Format Affinities": 0.56,
-        "Behavioral Triggers": 0.53,
-        "Conflict Pairs": 0.34,
-        "Memetic Hooks": 0.35
-      }
-    },
-    {
-      "target": "adhd-working-hard-to-fit-in",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.27,
-        "Neurobiological Networks": 0.4,
-        "Failure/Recovery Arcs": 0.14,
-        "Dynamic Personas": 0.78,
-        "Search Intent Graphs": 0.94,
-        "Narrative DNA": 0.44,
-        "Format Affinities": 0.48,
-        "Behavioral Triggers": 0.2,
-        "Conflict Pairs": 0.91,
-        "Memetic Hooks": 0.92
-      }
-    },
-    {
-      "target": "adhd-masking-at-work",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.71,
-        "Neurobiological Networks": 0.23,
-        "Failure/Recovery Arcs": 0.84,
-        "Dynamic Personas": 0.15,
-        "Search Intent Graphs": 0.76,
-        "Narrative DNA": 0.38,
-        "Format Affinities": 0.34,
-        "Behavioral Triggers": 0.42,
-        "Conflict Pairs": 0.64,
-        "Memetic Hooks": 0.27
-      }
-    },
-    {
-      "target": "adhd-fake-success",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.5,
-        "Neurobiological Networks": 0.79,
-        "Failure/Recovery Arcs": 0.84,
-        "Dynamic Personas": 0.27,
-        "Search Intent Graphs": 0.95,
-        "Narrative DNA": 0.57,
-        "Format Affinities": 0.37,
-        "Behavioral Triggers": 0.97,
-        "Conflict Pairs": 0.81,
-        "Memetic Hooks": 0.36
-      }
-    },
-    {
-      "target": "adhd-impostor-syndrome",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.81,
-        "Neurobiological Networks": 0.35,
-        "Failure/Recovery Arcs": 0.79,
-        "Dynamic Personas": 0.6,
-        "Search Intent Graphs": 0.52,
-        "Narrative DNA": 0.66,
-        "Format Affinities": 0.88,
-        "Behavioral Triggers": 0.63,
-        "Conflict Pairs": 0.54,
-        "Memetic Hooks": 0.65
-      }
-    }
-  ],
-  "adhd-why-success-feels-fake": [
-    {
-      "target": "adhd-overexplaining-yourself",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.68,
-        "Neurobiological Networks": 0.45,
-        "Failure/Recovery Arcs": 0.41,
-        "Dynamic Personas": 0.19,
-        "Search Intent Graphs": 0.15,
-        "Narrative DNA": 0.11,
-        "Format Affinities": 0.64,
-        "Behavioral Triggers": 0.51,
-        "Conflict Pairs": 0.2,
-        "Memetic Hooks": 0.52
-      }
-    },
-    {
-      "target": "adhd-masking-at-work",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.97,
-        "Neurobiological Networks": 0.18,
-        "Failure/Recovery Arcs": 0.55,
-        "Dynamic Personas": 0.66,
-        "Search Intent Graphs": 0.51,
-        "Narrative DNA": 0.9,
-        "Format Affinities": 0.88,
-        "Behavioral Triggers": 0.44,
-        "Conflict Pairs": 0.17,
-        "Memetic Hooks": 0.14
-      }
-    },
-    {
-      "target": "adhd-performative-productivity",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.48,
-        "Neurobiological Networks": 0.41,
-        "Failure/Recovery Arcs": 0.39,
-        "Dynamic Personas": 0.61,
-        "Search Intent Graphs": 0.45,
-        "Narrative DNA": 0.44,
-        "Format Affinities": 0.51,
-        "Behavioral Triggers": 0.29,
-        "Conflict Pairs": 0.99,
-        "Memetic Hooks": 0.32
-      }
-    },
-    {
-      "target": "adhd-impostor-syndrome",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.41,
-        "Neurobiological Networks": 0.4,
-        "Failure/Recovery Arcs": 0.75,
-        "Dynamic Personas": 0.38,
-        "Search Intent Graphs": 0.79,
-        "Narrative DNA": 0.83,
-        "Format Affinities": 0.25,
-        "Behavioral Triggers": 0.87,
-        "Conflict Pairs": 0.61,
-        "Memetic Hooks": 0.94
-      }
-    },
-    {
-      "target": "adhd-ghosting-success",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.62,
-        "Neurobiological Networks": 0.91,
-        "Failure/Recovery Arcs": 0.49,
-        "Dynamic Personas": 0.81,
-        "Search Intent Graphs": 0.99,
-        "Narrative DNA": 0.41,
-        "Format Affinities": 0.81,
-        "Behavioral Triggers": 0.39,
-        "Conflict Pairs": 0.83,
-        "Memetic Hooks": 0.21
-      }
-    }
-  ],
-  "adhd-hide-your-struggles": [
-    {
-      "target": "adhd-high-functioning-struggles",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.67,
-        "Neurobiological Networks": 0.5,
-        "Failure/Recovery Arcs": 0.87,
-        "Dynamic Personas": 0.96,
-        "Search Intent Graphs": 0.89,
-        "Narrative DNA": 0.48,
-        "Format Affinities": 0.13,
-        "Behavioral Triggers": 0.22,
-        "Conflict Pairs": 0.19,
-        "Memetic Hooks": 0.35
-      }
-    },
-    {
-      "target": "adhd-compliment-doubt",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.25,
-        "Neurobiological Networks": 0.63,
-        "Failure/Recovery Arcs": 0.56,
-        "Dynamic Personas": 0.68,
-        "Search Intent Graphs": 0.46,
-        "Narrative DNA": 0.44,
-        "Format Affinities": 0.1,
-        "Behavioral Triggers": 0.42,
-        "Conflict Pairs": 0.79,
-        "Memetic Hooks": 0.96
-      }
-    },
-    {
-      "target": "adhd-overcompensating",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.45,
-        "Neurobiological Networks": 0.14,
-        "Failure/Recovery Arcs": 0.13,
-        "Dynamic Personas": 0.67,
-        "Search Intent Graphs": 0.74,
-        "Narrative DNA": 0.56,
-        "Format Affinities": 0.56,
-        "Behavioral Triggers": 0.33,
-        "Conflict Pairs": 0.68,
-        "Memetic Hooks": 0.89
-      }
-    },
-    {
-      "target": "adhd-self-sabotage",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.77,
-        "Neurobiological Networks": 0.92,
-        "Failure/Recovery Arcs": 0.17,
-        "Dynamic Personas": 0.61,
-        "Search Intent Graphs": 0.76,
-        "Narrative DNA": 0.94,
-        "Format Affinities": 0.99,
-        "Behavioral Triggers": 0.15,
-        "Conflict Pairs": 0.74,
-        "Memetic Hooks": 0.77
-      }
-    },
-    {
-      "target": "adhd-emotional-collapse",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.36,
-        "Neurobiological Networks": 0.45,
-        "Failure/Recovery Arcs": 0.65,
-        "Dynamic Personas": 0.89,
-        "Search Intent Graphs": 0.64,
-        "Narrative DNA": 0.1,
-        "Format Affinities": 0.91,
-        "Behavioral Triggers": 0.52,
-        "Conflict Pairs": 0.81,
-        "Memetic Hooks": 0.26
-      }
-    }
-  ],
-  "adhd-working-hard-to-fit-in": [
-    {
-      "target": "adhd-doing-too-much",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.32,
-        "Neurobiological Networks": 0.21,
-        "Failure/Recovery Arcs": 0.18,
-        "Dynamic Personas": 0.58,
-        "Search Intent Graphs": 0.61,
-        "Narrative DNA": 0.23,
-        "Format Affinities": 0.64,
-        "Behavioral Triggers": 0.8,
-        "Conflict Pairs": 0.3,
-        "Memetic Hooks": 0.54
-      }
-    },
-    {
-      "target": "adhd-emotional-collapse",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.96,
-        "Neurobiological Networks": 0.35,
-        "Failure/Recovery Arcs": 0.67,
-        "Dynamic Personas": 0.94,
-        "Search Intent Graphs": 0.34,
-        "Narrative DNA": 1.0,
-        "Format Affinities": 0.36,
-        "Behavioral Triggers": 0.47,
-        "Conflict Pairs": 0.15,
-        "Memetic Hooks": 0.62
-      }
-    },
-    {
-      "target": "adhd-perfectionism",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.2,
-        "Neurobiological Networks": 0.13,
-        "Failure/Recovery Arcs": 0.89,
-        "Dynamic Personas": 0.57,
-        "Search Intent Graphs": 0.44,
-        "Narrative DNA": 0.22,
-        "Format Affinities": 0.7,
-        "Behavioral Triggers": 0.23,
-        "Conflict Pairs": 0.19,
-        "Memetic Hooks": 0.99
-      }
-    },
-    {
-      "target": "adhid-productivity-masks",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.85,
-        "Neurobiological Networks": 0.77,
-        "Failure/Recovery Arcs": 0.6,
-        "Dynamic Personas": 0.75,
-        "Search Intent Graphs": 0.39,
-        "Narrative DNA": 0.5,
-        "Format Affinities": 0.71,
-        "Behavioral Triggers": 0.21,
-        "Conflict Pairs": 0.16,
-        "Memetic Hooks": 0.86
-      }
-    },
-    {
-      "target": "adhd-why-praise-feels-like-a-trap",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.84,
-        "Neurobiological Networks": 0.35,
-        "Failure/Recovery Arcs": 0.71,
-        "Dynamic Personas": 0.64,
-        "Search Intent Graphs": 0.13,
-        "Narrative DNA": 0.6,
-        "Format Affinities": 0.7,
-        "Behavioral Triggers": 0.7,
-        "Conflict Pairs": 0.22,
-        "Memetic Hooks": 0.66
-      }
-    }
-  ],
-  "adhd-validation-hunger": [
-    {
-      "target": "adhd-secret-anxiety",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.44,
-        "Neurobiological Networks": 0.51,
-        "Failure/Recovery Arcs": 0.8,
-        "Dynamic Personas": 0.34,
-        "Search Intent Graphs": 0.12,
-        "Narrative DNA": 0.33,
-        "Format Affinities": 0.51,
-        "Behavioral Triggers": 0.12,
-        "Conflict Pairs": 0.16,
-        "Memetic Hooks": 0.54
-      }
-    },
-    {
-      "target": "adhd-masking-at-work",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.34,
-        "Neurobiological Networks": 0.85,
-        "Failure/Recovery Arcs": 0.63,
-        "Dynamic Personas": 0.56,
-        "Search Intent Graphs": 0.49,
-        "Narrative DNA": 0.56,
-        "Format Affinities": 0.27,
-        "Behavioral Triggers": 0.43,
-        "Conflict Pairs": 0.6,
-        "Memetic Hooks": 0.76
-      }
-    },
-    {
-      "target": "adhd-working-hard-to-fit-in",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.32,
-        "Neurobiological Networks": 0.23,
-        "Failure/Recovery Arcs": 0.93,
-        "Dynamic Personas": 0.36,
-        "Search Intent Graphs": 0.75,
-        "Narrative DNA": 0.5,
-        "Format Affinities": 0.19,
-        "Behavioral Triggers": 0.6,
-        "Conflict Pairs": 0.82,
-        "Memetic Hooks": 0.33
-      }
-    },
-    {
-      "target": "adhd-high-functioning-struggles",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.47,
-        "Neurobiological Networks": 0.62,
-        "Failure/Recovery Arcs": 0.54,
-        "Dynamic Personas": 0.38,
-        "Search Intent Graphs": 0.85,
-        "Narrative DNA": 0.11,
-        "Format Affinities": 0.2,
-        "Behavioral Triggers": 0.68,
-        "Conflict Pairs": 0.16,
-        "Memetic Hooks": 0.38
-      }
-    },
-    {
-      "target": "adhd-people-pleasing",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.75,
-        "Neurobiological Networks": 0.83,
-        "Failure/Recovery Arcs": 0.32,
-        "Dynamic Personas": 0.64,
-        "Search Intent Graphs": 0.55,
-        "Narrative DNA": 0.53,
-        "Format Affinities": 0.51,
-        "Behavioral Triggers": 0.85,
-        "Conflict Pairs": 0.36,
-        "Memetic Hooks": 0.79
-      }
-    }
-  ],
-  "adhd-doing-too-much": [
-    {
-      "target": "adhd-impostor-syndrome",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.99,
-        "Neurobiological Networks": 0.92,
-        "Failure/Recovery Arcs": 0.37,
-        "Dynamic Personas": 0.48,
-        "Search Intent Graphs": 0.79,
-        "Narrative DNA": 0.43,
-        "Format Affinities": 0.77,
-        "Behavioral Triggers": 0.78,
-        "Conflict Pairs": 0.9,
-        "Memetic Hooks": 0.29
-      }
-    },
-    {
-      "target": "adhd-why-praise-feels-like-a-trap",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.91,
-        "Neurobiological Networks": 0.44,
-        "Failure/Recovery Arcs": 0.47,
-        "Dynamic Personas": 0.96,
-        "Search Intent Graphs": 0.39,
-        "Narrative DNA": 0.67,
-        "Format Affinities": 0.14,
-        "Behavioral Triggers": 0.19,
-        "Conflict Pairs": 0.51,
-        "Memetic Hooks": 0.13
-      }
-    },
-    {
-      "target": "adhd-performative-productivity",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.7,
-        "Neurobiological Networks": 0.8,
-        "Failure/Recovery Arcs": 0.11,
-        "Dynamic Personas": 0.71,
-        "Search Intent Graphs": 0.77,
-        "Narrative DNA": 0.72,
-        "Format Affinities": 0.91,
-        "Behavioral Triggers": 0.34,
-        "Conflict Pairs": 1.0,
-        "Memetic Hooks": 0.17
-      }
-    },
-    {
-      "target": "adhd-high-functioning-struggles",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.27,
-        "Neurobiological Networks": 0.45,
-        "Failure/Recovery Arcs": 0.5,
-        "Dynamic Personas": 0.76,
-        "Search Intent Graphs": 0.32,
-        "Narrative DNA": 0.57,
-        "Format Affinities": 0.78,
-        "Behavioral Triggers": 0.17,
-        "Conflict Pairs": 0.66,
-        "Memetic Hooks": 0.6
-      }
-    },
-    {
-      "target": "adhd-working-hard-to-fit-in",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.65,
-        "Neurobiological Networks": 0.38,
-        "Failure/Recovery Arcs": 0.6,
-        "Dynamic Personas": 0.88,
-        "Search Intent Graphs": 0.99,
-        "Narrative DNA": 0.33,
-        "Format Affinities": 0.78,
-        "Behavioral Triggers": 0.92,
-        "Conflict Pairs": 0.7,
-        "Memetic Hooks": 0.75
-      }
-    }
-  ],
-  "adhd-overexplaining-yourself": [
-    {
-      "target": "adhd-overcompensating",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.99,
-        "Neurobiological Networks": 0.64,
-        "Failure/Recovery Arcs": 0.79,
-        "Dynamic Personas": 0.52,
-        "Search Intent Graphs": 0.31,
-        "Narrative DNA": 0.33,
-        "Format Affinities": 0.8,
-        "Behavioral Triggers": 0.97,
-        "Conflict Pairs": 0.78,
-        "Memetic Hooks": 0.98
-      }
-    },
-    {
-      "target": "adhd-masking-at-work",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.72,
-        "Neurobiological Networks": 0.5,
-        "Failure/Recovery Arcs": 0.65,
-        "Dynamic Personas": 0.5,
-        "Search Intent Graphs": 0.37,
-        "Narrative DNA": 0.86,
-        "Format Affinities": 0.23,
-        "Behavioral Triggers": 0.89,
-        "Conflict Pairs": 0.79,
-        "Memetic Hooks": 0.86
-      }
-    },
-    {
-      "target": "adhd-feel-like-a-fraud",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.29,
-        "Neurobiological Networks": 0.33,
-        "Failure/Recovery Arcs": 0.17,
-        "Dynamic Personas": 0.2,
-        "Search Intent Graphs": 0.8,
-        "Narrative DNA": 0.57,
-        "Format Affinities": 0.18,
-        "Behavioral Triggers": 0.71,
-        "Conflict Pairs": 0.43,
-        "Memetic Hooks": 0.19
-      }
-    },
-    {
-      "target": "adhd-doing-too-much",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.24,
-        "Neurobiological Networks": 0.45,
-        "Failure/Recovery Arcs": 0.27,
-        "Dynamic Personas": 0.15,
-        "Search Intent Graphs": 1.0,
-        "Narrative DNA": 0.17,
-        "Format Affinities": 0.68,
-        "Behavioral Triggers": 0.8,
-        "Conflict Pairs": 0.98,
-        "Memetic Hooks": 0.57
-      }
-    },
-    {
-      "target": "adhd-perfectionism",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.13,
-        "Neurobiological Networks": 0.55,
-        "Failure/Recovery Arcs": 0.99,
-        "Dynamic Personas": 0.93,
-        "Search Intent Graphs": 0.97,
-        "Narrative DNA": 0.55,
-        "Format Affinities": 0.32,
-        "Behavioral Triggers": 0.54,
-        "Conflict Pairs": 0.42,
-        "Memetic Hooks": 0.41
-      }
-    }
-  ],
-  "adhd-secret-anxiety": [
-    {
-      "target": "adhd-high-functioning-struggles",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.54,
-        "Neurobiological Networks": 0.32,
-        "Failure/Recovery Arcs": 0.7,
-        "Dynamic Personas": 0.92,
-        "Search Intent Graphs": 0.6,
-        "Narrative DNA": 0.87,
-        "Format Affinities": 0.39,
-        "Behavioral Triggers": 0.77,
-        "Conflict Pairs": 0.77,
-        "Memetic Hooks": 0.82
-      }
-    },
-    {
-      "target": "adhd-ghosting-success",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.16,
-        "Neurobiological Networks": 0.55,
-        "Failure/Recovery Arcs": 0.22,
-        "Dynamic Personas": 0.99,
-        "Search Intent Graphs": 0.77,
-        "Narrative DNA": 0.36,
-        "Format Affinities": 0.39,
-        "Behavioral Triggers": 0.48,
-        "Conflict Pairs": 0.26,
-        "Memetic Hooks": 0.7
-      }
-    },
-    {
-      "target": "adhd-faking-competence-at-work",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.29,
-        "Neurobiological Networks": 0.12,
-        "Failure/Recovery Arcs": 0.87,
-        "Dynamic Personas": 0.17,
-        "Search Intent Graphs": 0.51,
-        "Narrative DNA": 0.68,
-        "Format Affinities": 0.48,
-        "Behavioral Triggers": 0.78,
-        "Conflict Pairs": 0.62,
-        "Memetic Hooks": 0.86
-      }
-    },
-    {
-      "target": "adhd-why-success-feels-fake",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.99,
-        "Neurobiological Networks": 0.17,
-        "Failure/Recovery Arcs": 0.19,
-        "Dynamic Personas": 0.26,
-        "Search Intent Graphs": 0.23,
-        "Narrative DNA": 0.5,
-        "Format Affinities": 0.33,
-        "Behavioral Triggers": 1.0,
-        "Conflict Pairs": 0.29,
-        "Memetic Hooks": 0.75
-      }
-    },
-    {
-      "target": "adhid-productivity-masks",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.41,
-        "Neurobiological Networks": 0.49,
-        "Failure/Recovery Arcs": 0.87,
-        "Dynamic Personas": 0.83,
-        "Search Intent Graphs": 0.41,
-        "Narrative DNA": 0.93,
-        "Format Affinities": 0.78,
-        "Behavioral Triggers": 0.65,
-        "Conflict Pairs": 0.34,
-        "Memetic Hooks": 0.54
-      }
-    }
-  ],
-  "adhd-fear-of-being-found-out": [
-    {
-      "target": "adhd-masking-at-work",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.12,
-        "Neurobiological Networks": 0.4,
-        "Failure/Recovery Arcs": 0.57,
-        "Dynamic Personas": 0.59,
-        "Search Intent Graphs": 0.16,
-        "Narrative DNA": 0.11,
-        "Format Affinities": 0.83,
-        "Behavioral Triggers": 0.37,
-        "Conflict Pairs": 1.0,
-        "Memetic Hooks": 0.67
-      }
-    },
-    {
-      "target": "adhd-perfectionism",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.18,
-        "Neurobiological Networks": 0.26,
-        "Failure/Recovery Arcs": 0.79,
-        "Dynamic Personas": 0.9,
-        "Search Intent Graphs": 0.59,
-        "Narrative DNA": 0.27,
-        "Format Affinities": 0.48,
-        "Behavioral Triggers": 0.61,
-        "Conflict Pairs": 0.42,
-        "Memetic Hooks": 0.79
-      }
-    },
-    {
-      "target": "adhd-why-success-feels-fake",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.59,
-        "Neurobiological Networks": 0.78,
-        "Failure/Recovery Arcs": 0.98,
-        "Dynamic Personas": 0.47,
-        "Search Intent Graphs": 0.37,
-        "Narrative DNA": 0.71,
-        "Format Affinities": 0.64,
-        "Behavioral Triggers": 0.68,
-        "Conflict Pairs": 0.66,
-        "Memetic Hooks": 0.19
-      }
-    },
-    {
-      "target": "adhd-doing-too-much",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.66,
-        "Neurobiological Networks": 0.51,
-        "Failure/Recovery Arcs": 0.31,
-        "Dynamic Personas": 0.48,
-        "Search Intent Graphs": 0.98,
-        "Narrative DNA": 0.56,
-        "Format Affinities": 0.58,
-        "Behavioral Triggers": 0.66,
-        "Conflict Pairs": 0.52,
-        "Memetic Hooks": 0.83
-      }
-    },
-    {
-      "target": "adhd-faking-competence-at-work",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 1.0,
-        "Neurobiological Networks": 0.72,
-        "Failure/Recovery Arcs": 0.24,
-        "Dynamic Personas": 0.25,
-        "Search Intent Graphs": 0.46,
-        "Narrative DNA": 0.86,
-        "Format Affinities": 0.41,
-        "Behavioral Triggers": 0.42,
-        "Conflict Pairs": 0.75,
-        "Memetic Hooks": 0.59
-      }
-    }
-  ],
-  "adhd-ghosting-success": [
-    {
-      "target": "adhd-feel-like-a-fraud",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.43,
-        "Neurobiological Networks": 0.76,
-        "Failure/Recovery Arcs": 0.2,
-        "Dynamic Personas": 0.75,
-        "Search Intent Graphs": 0.62,
-        "Narrative DNA": 0.87,
-        "Format Affinities": 0.73,
-        "Behavioral Triggers": 0.1,
-        "Conflict Pairs": 0.43,
-        "Memetic Hooks": 0.35
-      }
-    },
-    {
-      "target": "adhd-overcompensating",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.98,
-        "Neurobiological Networks": 0.39,
-        "Failure/Recovery Arcs": 0.55,
-        "Dynamic Personas": 0.12,
-        "Search Intent Graphs": 0.1,
-        "Narrative DNA": 0.75,
-        "Format Affinities": 0.71,
-        "Behavioral Triggers": 0.81,
-        "Conflict Pairs": 0.21,
-        "Memetic Hooks": 0.63
-      }
-    },
-    {
-      "target": "adhd-emotional-collapse",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.88,
-        "Neurobiological Networks": 0.38,
-        "Failure/Recovery Arcs": 0.38,
-        "Dynamic Personas": 0.78,
-        "Search Intent Graphs": 0.86,
-        "Narrative DNA": 0.58,
-        "Format Affinities": 0.26,
-        "Behavioral Triggers": 0.54,
-        "Conflict Pairs": 0.5,
-        "Memetic Hooks": 0.94
-      }
-    },
-    {
-      "target": "adhd-validation-hunger",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.49,
-        "Neurobiological Networks": 0.9,
-        "Failure/Recovery Arcs": 0.46,
-        "Dynamic Personas": 0.89,
-        "Search Intent Graphs": 0.19,
-        "Narrative DNA": 0.16,
-        "Format Affinities": 0.91,
-        "Behavioral Triggers": 0.47,
-        "Conflict Pairs": 0.44,
-        "Memetic Hooks": 0.52
-      }
-    },
-    {
-      "target": "adhd-high-functioning-struggles",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.8,
-        "Neurobiological Networks": 0.99,
-        "Failure/Recovery Arcs": 0.17,
-        "Dynamic Personas": 0.4,
-        "Search Intent Graphs": 0.7,
-        "Narrative DNA": 0.39,
-        "Format Affinities": 0.51,
-        "Behavioral Triggers": 0.12,
-        "Conflict Pairs": 0.33,
-        "Memetic Hooks": 0.78
-      }
-    }
-  ],
-  "adhd-faking-competence-at-work": [
-    {
-      "target": "adhd-feel-like-a-fraud",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 1.0,
-        "Neurobiological Networks": 0.59,
-        "Failure/Recovery Arcs": 0.51,
-        "Dynamic Personas": 0.79,
-        "Search Intent Graphs": 0.42,
-        "Narrative DNA": 0.8,
-        "Format Affinities": 0.6,
-        "Behavioral Triggers": 0.31,
-        "Conflict Pairs": 0.23,
-        "Memetic Hooks": 0.8
-      }
-    },
-    {
-      "target": "adhd-validation-hunger",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.24,
-        "Neurobiological Networks": 0.19,
-        "Failure/Recovery Arcs": 0.4,
-        "Dynamic Personas": 0.71,
-        "Search Intent Graphs": 0.48,
-        "Narrative DNA": 0.13,
-        "Format Affinities": 0.84,
-        "Behavioral Triggers": 0.73,
-        "Conflict Pairs": 0.15,
-        "Memetic Hooks": 0.89
-      }
-    },
-    {
-      "target": "adhd-working-hard-to-fit-in",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.9,
-        "Neurobiological Networks": 0.21,
-        "Failure/Recovery Arcs": 0.83,
-        "Dynamic Personas": 0.52,
-        "Search Intent Graphs": 0.85,
-        "Narrative DNA": 0.99,
-        "Format Affinities": 0.3,
-        "Behavioral Triggers": 0.84,
-        "Conflict Pairs": 0.12,
-        "Memetic Hooks": 0.64
-      }
-    },
-    {
-      "target": "adhd-fear-of-being-found-out",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.69,
-        "Neurobiological Networks": 0.68,
-        "Failure/Recovery Arcs": 0.39,
-        "Dynamic Personas": 0.99,
-        "Search Intent Graphs": 0.56,
-        "Narrative DNA": 0.69,
-        "Format Affinities": 0.7,
-        "Behavioral Triggers": 0.44,
-        "Conflict Pairs": 0.96,
-        "Memetic Hooks": 0.93
-      }
-    },
-    {
-      "target": "adhd-ghosting-success",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.49,
-        "Neurobiological Networks": 0.71,
-        "Failure/Recovery Arcs": 0.98,
-        "Dynamic Personas": 0.79,
-        "Search Intent Graphs": 0.78,
-        "Narrative DNA": 0.95,
-        "Format Affinities": 0.99,
-        "Behavioral Triggers": 0.53,
-        "Conflict Pairs": 0.46,
-        "Memetic Hooks": 0.43
-      }
-    }
-  ],
-  "adhd-why-praise-feels-like-a-trap": [
-    {
-      "target": "adhd-why-success-feels-fake",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.81,
-        "Neurobiological Networks": 0.45,
-        "Failure/Recovery Arcs": 0.79,
-        "Dynamic Personas": 0.11,
-        "Search Intent Graphs": 0.91,
-        "Narrative DNA": 0.82,
-        "Format Affinities": 0.9,
-        "Behavioral Triggers": 0.35,
-        "Conflict Pairs": 0.54,
-        "Memetic Hooks": 0.66
-      }
-    },
-    {
-      "target": "adhd-emotional-collapse",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.85,
-        "Neurobiological Networks": 0.91,
-        "Failure/Recovery Arcs": 0.75,
-        "Dynamic Personas": 0.48,
-        "Search Intent Graphs": 0.75,
-        "Narrative DNA": 0.48,
-        "Format Affinities": 0.82,
-        "Behavioral Triggers": 0.74,
-        "Conflict Pairs": 0.22,
-        "Memetic Hooks": 0.73
-      }
-    },
-    {
-      "target": "adhd-feel-like-a-fraud",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.95,
-        "Neurobiological Networks": 0.12,
-        "Failure/Recovery Arcs": 0.97,
-        "Dynamic Personas": 0.36,
-        "Search Intent Graphs": 0.71,
-        "Narrative DNA": 0.39,
-        "Format Affinities": 0.7,
-        "Behavioral Triggers": 0.13,
-        "Conflict Pairs": 0.83,
-        "Memetic Hooks": 0.83
-      }
-    },
-    {
-      "target": "adhd-performative-productivity",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.81,
-        "Neurobiological Networks": 0.44,
-        "Failure/Recovery Arcs": 0.1,
-        "Dynamic Personas": 0.12,
-        "Search Intent Graphs": 0.87,
-        "Narrative DNA": 0.28,
-        "Format Affinities": 0.17,
-        "Behavioral Triggers": 0.75,
-        "Conflict Pairs": 0.79,
-        "Memetic Hooks": 0.87
-      }
-    },
-    {
-      "target": "adhd-self-sabotage",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.55,
-        "Neurobiological Networks": 0.91,
-        "Failure/Recovery Arcs": 0.68,
-        "Dynamic Personas": 0.43,
-        "Search Intent Graphs": 0.93,
-        "Narrative DNA": 0.67,
-        "Format Affinities": 0.39,
-        "Behavioral Triggers": 0.24,
-        "Conflict Pairs": 0.95,
-        "Memetic Hooks": 0.92
-      }
-    }
-  ],
-  "adhid-productivity-masks": [
-    {
-      "target": "adhd-overexplaining-yourself",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.29,
-        "Neurobiological Networks": 0.23,
-        "Failure/Recovery Arcs": 0.29,
-        "Dynamic Personas": 0.79,
-        "Search Intent Graphs": 0.81,
-        "Narrative DNA": 0.92,
-        "Format Affinities": 0.14,
-        "Behavioral Triggers": 0.46,
-        "Conflict Pairs": 0.68,
-        "Memetic Hooks": 0.69
-      }
-    },
-    {
-      "target": "adhd-people-pleasing",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.6,
-        "Neurobiological Networks": 0.67,
-        "Failure/Recovery Arcs": 0.97,
-        "Dynamic Personas": 0.57,
-        "Search Intent Graphs": 0.97,
-        "Narrative DNA": 0.61,
-        "Format Affinities": 0.66,
-        "Behavioral Triggers": 0.76,
-        "Conflict Pairs": 0.67,
-        "Memetic Hooks": 0.43
-      }
-    },
-    {
-      "target": "adhd-validation-hunger",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.1,
-        "Neurobiological Networks": 0.91,
-        "Failure/Recovery Arcs": 0.95,
-        "Dynamic Personas": 0.84,
-        "Search Intent Graphs": 0.52,
-        "Narrative DNA": 0.66,
-        "Format Affinities": 0.55,
-        "Behavioral Triggers": 0.38,
-        "Conflict Pairs": 0.5,
-        "Memetic Hooks": 0.77
-      }
-    },
-    {
-      "target": "adhd-ghosting-success",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.12,
-        "Neurobiological Networks": 0.43,
-        "Failure/Recovery Arcs": 0.54,
-        "Dynamic Personas": 0.71,
-        "Search Intent Graphs": 0.8,
-        "Narrative DNA": 0.59,
-        "Format Affinities": 0.25,
-        "Behavioral Triggers": 0.55,
-        "Conflict Pairs": 0.41,
-        "Memetic Hooks": 0.36
-      }
-    },
-    {
-      "target": "adhd-why-success-feels-fake",
-      "axes": {
-        "Emotional-Cognitive-Behavioral": 0.4,
-        "Neurobiological Networks": 0.71,
-        "Failure/Recovery Arcs": 0.39,
-        "Dynamic Personas": 0.37,
-        "Search Intent Graphs": 0.29,
-        "Narrative DNA": 0.58,
-        "Format Affinities": 0.83,
-        "Behavioral Triggers": 0.99,
-        "Conflict Pairs": 0.73,
-        "Memetic Hooks": 0.12
-      }
+  "pillar_id": "adhd-time-rebellion",
+  "pillar_title": "ADHD Time Blindness & Rebellion: Why ‘Later’ is Often a Lie",
+  "spokes_relatedness_scores": [
+    {
+      "id": "adhd-understanding-time-blindness-not-laziness",
+      "connections": [
+        {
+          "id": "adhd-chronic-lateness-shame-solutions",
+          "ECB 2.0": 0.85,
+          "Neurobiological Networks": 0.7,
+          "Failure/Recovery Arcs": 0.8,
+          "Dynamic Personas": 0.7,
+          "Search Intent Graphs": 0.8,
+          "Narrative DNA": 0.9,
+          "Format Affinities": 0.8,
+          "Behavioral Triggers": 0.75,
+          "Conflict Pairs": 0.9,
+          "Memetic Hooks": 0.85
+        },
+        {
+          "id": "adhd-planning-fallacy-traps-misjudging-time",
+          "ECB 2.0": 0.7,
+          "Neurobiological Networks": 0.65,
+          "Failure/Recovery Arcs": 0.7,
+          "Dynamic Personas": 0.6,
+          "Search Intent Graphs": 0.75,
+          "Narrative DNA": 0.7,
+          "Format Affinities": 0.7,
+          "Behavioral Triggers": 0.65,
+          "Conflict Pairs": 0.8,
+          "Memetic Hooks": 0.7
+        },
+        {
+          "id": "adhd-deadlines-feel-fake-last-minute-panic",
+          "ECB 2.0": 0.8,
+          "Neurobiological Networks": 0.75,
+          "Failure/Recovery Arcs": 0.8,
+          "Dynamic Personas": 0.85,
+          "Search Intent Graphs": 0.7,
+          "Narrative DNA": 0.8,
+          "Format Affinities": 0.75,
+          "Behavioral Triggers": 0.8,
+          "Conflict Pairs": 0.85,
+          "Memetic Hooks": 0.8
+        },
+        {
+          "id": "adhd-why-5-minutes-becomes-hour",
+          "ECB 2.0": 0.8,
+          "Neurobiological Networks": 0.8,
+          "Failure/Recovery Arcs": 0.7,
+          "Dynamic Personas": 0.75,
+          "Search Intent Graphs": 0.8,
+          "Narrative DNA": 0.85,
+          "Format Affinities": 0.7,
+          "Behavioral Triggers": 0.75,
+          "Conflict Pairs": 0.8,
+          "Memetic Hooks": 0.9
+        },
+        {
+          "id": "adhd-lie-ill-do-it-later-procrastination",
+          "ECB 2.0": 0.85,
+          "Neurobiological Networks": 0.75,
+          "Failure/Recovery Arcs": 0.85,
+          "Dynamic Personas": 0.8,
+          "Search Intent Graphs": 0.8,
+          "Narrative DNA": 0.85,
+          "Format Affinities": 0.8,
+          "Behavioral Triggers": 0.85,
+          "Conflict Pairs": 0.8,
+          "Memetic Hooks": 0.85
+        },
+        {
+          "id": "adhd-clocks-calendars-dont-always-work",
+          "ECB 2.0": 0.7,
+          "Neurobiological Networks": 0.6,
+          "Failure/Recovery Arcs": 0.75,
+          "Dynamic Personas": 0.65,
+          "Search Intent Graphs": 0.7,
+          "Narrative DNA": 0.7,
+          "Format Affinities": 0.8,
+          "Behavioral Triggers": 0.7,
+          "Conflict Pairs": 0.75,
+          "Memetic Hooks": 0.75
+        },
+        {
+          "id": "adhd-2-minute-rule-science-application",
+          "ECB 2.0": 0.6,
+          "Neurobiological Networks": 0.5,
+          "Failure/Recovery Arcs": 0.65,
+          "Dynamic Personas": 0.6,
+          "Search Intent Graphs": 0.6,
+          "Narrative DNA": 0.55,
+          "Format Affinities": 0.7,
+          "Behavioral Triggers": 0.7,
+          "Conflict Pairs": 0.5,
+          "Memetic Hooks": 0.65
+        },
+        {
+          "id": "adhd-time-crime-confessions-relatable-stories",
+          "ECB 2.0": 0.8,
+          "Neurobiological Networks": 0.6,
+          "Failure/Recovery Arcs": 0.75,
+          "Dynamic Personas": 0.7,
+          "Search Intent Graphs": 0.7,
+          "Narrative DNA": 0.9,
+          "Format Affinities": 0.9,
+          "Behavioral Triggers": 0.7,
+          "Conflict Pairs": 0.8,
+          "Memetic Hooks": 0.85
+        },
+        {
+          "id": "adhd-strategies-better-time-estimation",
+          "ECB 2.0": 0.75,
+          "Neurobiological Networks": 0.7,
+          "Failure/Recovery Arcs": 0.85,
+          "Dynamic Personas": 0.75,
+          "Search Intent Graphs": 0.8,
+          "Narrative DNA": 0.75,
+          "Format Affinities": 0.8,
+          "Behavioral Triggers": 0.8,
+          "Conflict Pairs": 0.7,
+          "Memetic Hooks": 0.75
+        },
+        {
+          "id": "adhd-visual-timers-make-time-tangible",
+          "ECB 2.0": 0.7,
+          "Neurobiological Networks": 0.75,
+          "Failure/Recovery Arcs": 0.7,
+          "Dynamic Personas": 0.65,
+          "Search Intent Graphs": 0.7,
+          "Narrative DNA": 0.65,
+          "Format Affinities": 0.85,
+          "Behavioral Triggers": 0.75,
+          "Conflict Pairs": 0.6,
+          "Memetic Hooks": 0.7
+        },
+        {
+          "id": "adhd-waiting-mode-paralysis-before-appointments",
+          "ECB 2.0": 0.8,
+          "Neurobiological Networks": 0.7,
+          "Failure/Recovery Arcs": 0.75,
+          "Dynamic Personas": 0.85,
+          "Search Intent Graphs": 0.75,
+          "Narrative DNA": 0.75,
+          "Format Affinities": 0.7,
+          "Behavioral Triggers": 0.8,
+          "Conflict Pairs": 0.8,
+          "Memetic Hooks": 0.75
+        }
+      ]
+    },
+    {
+      "id": "adhd-chronic-lateness-shame-solutions",
+      "connections": [
+        {
+          "id": "adhd-understanding-time-blindness-not-laziness",
+          "ECB 2.0": 0.85,
+          "Neurobiological Networks": 0.7,
+          "Failure/Recovery Arcs": 0.8,
+          "Dynamic Personas": 0.7,
+          "Search Intent Graphs": 0.8,
+          "Narrative DNA": 0.9,
+          "Format Affinities": 0.8,
+          "Behavioral Triggers": 0.75,
+          "Conflict Pairs": 0.9,
+          "Memetic Hooks": 0.85
+        },
+        {
+          "id": "adhd-planning-fallacy-traps-misjudging-time",
+          "ECB 2.0": 0.75,
+          "Neurobiological Networks": 0.6,
+          "Failure/Recovery Arcs": 0.7,
+          "Dynamic Personas": 0.65,
+          "Search Intent Graphs": 0.7,
+          "Narrative DNA": 0.7,
+          "Format Affinities": 0.7,
+          "Behavioral Triggers": 0.7,
+          "Conflict Pairs": 0.8,
+          "Memetic Hooks": 0.7
+        },
+        {
+          "id": "adhd-deadlines-feel-fake-last-minute-panic",
+          "ECB 2.0": 0.8,
+          "Neurobiological Networks": 0.7,
+          "Failure/Recovery Arcs": 0.8,
+          "Dynamic Personas": 0.8,
+          "Search Intent Graphs": 0.7,
+          "Narrative DNA": 0.75,
+          "Format Affinities": 0.75,
+          "Behavioral Triggers": 0.8,
+          "Conflict Pairs": 0.8,
+          "Memetic Hooks": 0.8
+        },
+        {
+          "id": "adhd-why-5-minutes-becomes-hour",
+          "ECB 2.0": 0.75,
+          "Neurobiological Networks": 0.75,
+          "Failure/Recovery Arcs": 0.7,
+          "Dynamic Personas": 0.7,
+          "Search Intent Graphs": 0.75,
+          "Narrative DNA": 0.8,
+          "Format Affinities": 0.7,
+          "Behavioral Triggers": 0.7,
+          "Conflict Pairs": 0.75,
+          "Memetic Hooks": 0.8
+        },
+        {
+          "id": "adhd-lie-ill-do-it-later-procrastination",
+          "ECB 2.0": 0.8,
+          "Neurobiological Networks": 0.7,
+          "Failure/Recovery Arcs": 0.8,
+          "Dynamic Personas": 0.75,
+          "Search Intent Graphs": 0.75,
+          "Narrative DNA": 0.8,
+          "Format Affinities": 0.75,
+          "Behavioral Triggers": 0.8,
+          "Conflict Pairs": 0.75,
+          "Memetic Hooks": 0.8
+        },
+        {
+          "id": "adhd-clocks-calendars-dont-always-work",
+          "ECB 2.0": 0.75,
+          "Neurobiological Networks": 0.65,
+          "Failure/Recovery Arcs": 0.8,
+          "Dynamic Personas": 0.7,
+          "Search Intent Graphs": 0.75,
+          "Narrative DNA": 0.75,
+          "Format Affinities": 0.8,
+          "Behavioral Triggers": 0.75,
+          "Conflict Pairs": 0.8,
+          "Memetic Hooks": 0.8
+        },
+        {
+          "id": "adhd-2-minute-rule-science-application",
+          "ECB 2.0": 0.6,
+          "Neurobiological Networks": 0.5,
+          "Failure/Recovery Arcs": 0.7,
+          "Dynamic Personas": 0.6,
+          "Search Intent Graphs": 0.6,
+          "Narrative DNA": 0.55,
+          "Format Affinities": 0.7,
+          "Behavioral Triggers": 0.7,
+          "Conflict Pairs": 0.5,
+          "Memetic Hooks": 0.6
+        },
+        {
+          "id": "adhd-time-crime-confessions-relatable-stories",
+          "ECB 2.0": 0.85,
+          "Neurobiological Networks": 0.65,
+          "Failure/Recovery Arcs": 0.8,
+          "Dynamic Personas": 0.75,
+          "Search Intent Graphs": 0.75,
+          "Narrative DNA": 0.9,
+          "Format Affinities": 0.9,
+          "Behavioral Triggers": 0.75,
+          "Conflict Pairs": 0.85,
+          "Memetic Hooks": 0.9
+        },
+        {
+          "id": "adhd-strategies-better-time-estimation",
+          "ECB 2.0": 0.8,
+          "Neurobiological Networks": 0.7,
+          "Failure/Recovery Arcs": 0.85,
+          "Dynamic Personas": 0.75,
+          "Search Intent Graphs": 0.8,
+          "Narrative DNA": 0.8,
+          "Format Affinities": 0.8,
+          "Behavioral Triggers": 0.85,
+          "Conflict Pairs": 0.75,
+          "Memetic Hooks": 0.8
+        },
+        {
+          "id": "adhd-visual-timers-make-time-tangible",
+          "ECB 2.0": 0.7,
+          "Neurobiological Networks": 0.75,
+          "Failure/Recovery Arcs": 0.7,
+          "Dynamic Personas": 0.65,
+          "Search Intent Graphs": 0.7,
+          "Narrative DNA": 0.65,
+          "Format Affinities": 0.85,
+          "Behavioral Triggers": 0.75,
+          "Conflict Pairs": 0.6,
+          "Memetic Hooks": 0.7
+        },
+        {
+          "id": "adhd-waiting-mode-paralysis-before-appointments",
+          "ECB 2.0": 0.75,
+          "Neurobiological Networks": 0.65,
+          "Failure/Recovery Arcs": 0.7,
+          "Dynamic Personas": 0.8,
+          "Search Intent Graphs": 0.7,
+          "Narrative DNA": 0.7,
+          "Format Affinities": 0.7,
+          "Behavioral Triggers": 0.75,
+          "Conflict Pairs": 0.75,
+          "Memetic Hooks": 0.7
+        }
+      ]
+    },
+    {
+      "id": "adhd-planning-fallacy-traps-misjudging-time",
+      "connections": [
+        {
+          "id": "adhd-understanding-time-blindness-not-laziness",
+          "ECB 2.0": 0.7,
+          "Neurobiological Networks": 0.65,
+          "Failure/Recovery Arcs": 0.7,
+          "Dynamic Personas": 0.6,
+          "Search Intent Graphs": 0.75,
+          "Narrative DNA": 0.7,
+          "Format Affinities": 0.7,
+          "Behavioral Triggers": 0.65,
+          "Conflict Pairs": 0.8,
+          "Memetic Hooks": 0.7
+        },
+        {
+          "id": "adhd-chronic-lateness-shame-solutions",
+          "ECB 2.0": 0.75,
+          "Neurobiological Networks": 0.6,
+          "Failure/Recovery Arcs": 0.7,
+          "Dynamic Personas": 0.65,
+          "Search Intent Graphs": 0.7,
+          "Narrative DNA": 0.7,
+          "Format Affinities": 0.7,
+          "Behavioral Triggers": 0.7,
+          "Conflict Pairs": 0.8,
+          "Memetic Hooks": 0.7
+        },
+        {
+          "id": "adhd-deadlines-feel-fake-last-minute-panic",
+          "ECB 2.0": 0.8,
+          "Neurobiological Networks": 0.7,
+          "Failure/Recovery Arcs": 0.75,
+          "Dynamic Personas": 0.75,
+          "Search Intent Graphs": 0.75,
+          "Narrative DNA": 0.7,
+          "Format Affinities": 0.7,
+          "Behavioral Triggers": 0.8,
+          "Conflict Pairs": 0.75,
+          "Memetic Hooks": 0.75
+        },
+        {
+          "id": "adhd-why-5-minutes-becomes-hour",
+          "ECB 2.0": 0.75,
+          "Neurobiological Networks": 0.7,
+          "Failure/Recovery Arcs": 0.65,
+          "Dynamic Personas": 0.7,
+          "Search Intent Graphs": 0.75,
+          "Narrative DNA": 0.75,
+          "Format Affinities": 0.65,
+          "Behavioral Triggers": 0.7,
+          "Conflict Pairs": 0.75,
+          "Memetic Hooks": 0.75
+        },
+        {
+          "id": "adhd-lie-ill-do-it-later-procrastination",
+          "ECB 2.0": 0.8,
+          "Neurobiological Networks": 0.7,
+          "Failure/Recovery Arcs": 0.8,
+          "Dynamic Personas": 0.75,
+          "Search Intent Graphs": 0.75,
+          "Narrative DNA": 0.75,
+          "Format Affinities": 0.75,
+          "Behavioral Triggers": 0.8,
+          "Conflict Pairs": 0.75,
+          "Memetic Hooks": 0.75
+        },
+        {
+          "id": "adhd-clocks-calendars-dont-always-work",
+          "ECB 2.0": 0.7,
+          "Neurobiological Networks": 0.6,
+          "Failure/Recovery Arcs": 0.7,
+          "Dynamic Personas": 0.65,
+          "Search Intent Graphs": 0.7,
+          "Narrative DNA": 0.7,
+          "Format Affinities": 0.75,
+          "Behavioral Triggers": 0.7,
+          "Conflict Pairs": 0.7,
+          "Memetic Hooks": 0.7
+        },
+        {
+          "id": "adhd-2-minute-rule-science-application",
+          "ECB 2.0": 0.6,
+          "Neurobiological Networks": 0.5,
+          "Failure/Recovery Arcs": 0.65,
+          "Dynamic Personas": 0.6,
+          "Search Intent Graphs": 0.6,
+          "Narrative DNA": 0.55,
+          "Format Affinities": 0.7,
+          "Behavioral Triggers": 0.7,
+          "Conflict Pairs": 0.5,
+          "Memetic Hooks": 0.65
+        },
+        {
+          "id": "adhd-time-crime-confessions-relatable-stories",
+          "ECB 2.0": 0.75,
+          "Neurobiological Networks": 0.6,
+          "Failure/Recovery Arcs": 0.7,
+          "Dynamic Personas": 0.65,
+          "Search Intent Graphs": 0.7,
+          "Narrative DNA": 0.8,
+          "Format Affinities": 0.8,
+          "Behavioral Triggers": 0.65,
+          "Conflict Pairs": 0.75,
+          "Memetic Hooks": 0.8
+        },
+        {
+          "id": "adhd-strategies-better-time-estimation",
+          "ECB 2.0": 0.8,
+          "Neurobiological Networks": 0.7,
+          "Failure/Recovery Arcs": 0.85,
+          "Dynamic Personas": 0.75,
+          "Search Intent Graphs": 0.8,
+          "Narrative DNA": 0.75,
+          "Format Affinities": 0.8,
+          "Behavioral Triggers": 0.8,
+          "Conflict Pairs": 0.7,
+          "Memetic Hooks": 0.75
+        },
+        {
+          "id": "adhd-visual-timers-make-time-tangible",
+          "ECB 2.0": 0.7,
+          "Neurobiological Networks": 0.7,
+          "Failure/Recovery Arcs": 0.65,
+          "Dynamic Personas": 0.6,
+          "Search Intent Graphs": 0.65,
+          "Narrative DNA": 0.6,
+          "Format Affinities": 0.8,
+          "Behavioral Triggers": 0.7,
+          "Conflict Pairs": 0.6,
+          "Memetic Hooks": 0.65
+        },
+        {
+          "id": "adhd-waiting-mode-paralysis-before-appointments",
+          "ECB 2.0": 0.75,
+          "Neurobiological Networks": 0.65,
+          "Failure/Recovery Arcs": 0.7,
+          "Dynamic Personas": 0.8,
+          "Search Intent Graphs": 0.7,
+          "Narrative DNA": 0.7,
+          "Format Affinities": 0.65,
+          "Behavioral Triggers": 0.75,
+          "Conflict Pairs": 0.75,
+          "Memetic Hooks": 0.7
+        }
+      ]
+    },
+    {
+      "id": "adhd-deadlines-feel-fake-last-minute-panic",
+      "connections": [
+        {
+          "id": "adhd-understanding-time-blindness-not-laziness",
+          "ECB 2.0": 0.8,
+          "Neurobiological Networks": 0.75,
+          "Failure/Recovery Arcs": 0.8,
+          "Dynamic Personas": 0.85,
+          "Search Intent Graphs": 0.7,
+          "Narrative DNA": 0.8,
+          "Format Affinities": 0.75,
+          "Behavioral Triggers": 0.8,
+          "Conflict Pairs": 0.85,
+          "Memetic Hooks": 0.8
+        },
+        {
+          "id": "adhd-chronic-lateness-shame-solutions",
+          "ECB 2.0": 0.8,
+          "Neurobiological Networks": 0.7,
+          "Failure/Recovery Arcs": 0.8,
+          "Dynamic Personas": 0.8,
+          "Search Intent Graphs": 0.7,
+          "Narrative DNA": 0.75,
+          "Format Affinities": 0.75,
+          "Behavioral Triggers": 0.8,
+          "Conflict Pairs": 0.8,
+          "Memetic Hooks": 0.8
+        },
+        {
+          "id": "adhd-planning-fallacy-traps-misjudging-time",
+          "ECB 2.0": 0.8,
+          "Neurobiological Networks": 0.7,
+          "Failure/Recovery Arcs": 0.75,
+          "Dynamic Personas": 0.75,
+          "Search Intent Graphs": 0.75,
+          "Narrative DNA": 0.7,
+          "Format Affinities": 0.7,
+          "Behavioral Triggers": 0.8,
+          "Conflict Pairs": 0.75,
+          "Memetic Hooks": 0.75
+        },
+        {
+          "id": "adhd-why-5-minutes-becomes-hour",
+          "ECB 2.0": 0.85,
+          "Neurobiological Networks": 0.8,
+          "Failure/Recovery Arcs": 0.75,
+          "Dynamic Personas": 0.8,
+          "Search Intent Graphs": 0.8,
+          "Narrative DNA": 0.8,
+          "Format Affinities": 0.75,
+          "Behavioral Triggers": 0.85,
+          "Conflict Pairs": 0.8,
+          "Memetic Hooks": 0.85
+        },
+        {
+          "id": "adhd-lie-ill-do-it-later-procrastination",
+          "ECB 2.0": 0.85,
+          "Neurobiological Networks": 0.75,
+          "Failure/Recovery Arcs": 0.85,
+          "Dynamic Personas": 0.8,
+          "Search Intent Graphs": 0.8,
+          "Narrative DNA": 0.8,
+          "Format Affinities": 0.8,
+          "Behavioral Triggers": 0.85,
+          "Conflict Pairs": 0.8,
+          "Memetic Hooks": 0.85
+        },
+        {
+          "id": "adhd-clocks-calendars-dont-always-work",
+          "ECB 2.0": 0.75,
+          "Neurobiological Networks": 0.65,
+          "Failure/Recovery Arcs": 0.8,
+          "Dynamic Personas": 0.75,
+          "Search Intent Graphs": 0.75,
+          "Narrative DNA": 0.75,
+          "Format Affinities": 0.8,
+          "Behavioral Triggers": 0.75,
+          "Conflict Pairs": 0.8,
+          "Memetic Hooks": 0.8
+        },
+        {
+          "id": "adhd-2-minute-rule-science-application",
+          "ECB 2.0": 0.65,
+          "Neurobiological Networks": 0.55,
+          "Failure/Recovery Arcs": 0.7,
+          "Dynamic Personas": 0.65,
+          "Search Intent Graphs": 0.6,
+          "Narrative DNA": 0.6,
+          "Format Affinities": 0.7,
+          "Behavioral Triggers": 0.75,
+          "Conflict Pairs": 0.55,
+          "Memetic Hooks": 0.65
+        },
+        {
+          "id": "adhd-time-crime-confessions-relatable-stories",
+          "ECB 2.0": 0.85,
+          "Neurobiological Networks": 0.7,
+          "Failure/Recovery Arcs": 0.8,
+          "Dynamic Personas": 0.8,
+          "Search Intent Graphs": 0.75,
+          "Narrative DNA": 0.85,
+          "Format Affinities": 0.85,
+          "Behavioral Triggers": 0.8,
+          "Conflict Pairs": 0.85,
+          "Memetic Hooks": 0.9
+        },
+        {
+          "id": "adhd-strategies-better-time-estimation",
+          "ECB 2.0": 0.8,
+          "Neurobiological Networks": 0.75,
+          "Failure/Recovery Arcs": 0.85,
+          "Dynamic Personas": 0.8,
+          "Search Intent Graphs": 0.85,
+          "Narrative DNA": 0.8,
+          "Format Affinities": 0.8,
+          "Behavioral Triggers": 0.85,
+          "Conflict Pairs": 0.75,
+          "Memetic Hooks": 0.8
+        },
+        {
+          "id": "adhd-visual-timers-make-time-tangible",
+          "ECB 2.0": 0.75,
+          "Neurobiological Networks": 0.8,
+          "Failure/Recovery Arcs": 0.75,
+          "Dynamic Personas": 0.7,
+          "Search Intent Graphs": 0.75,
+          "Narrative DNA": 0.7,
+          "Format Affinities": 0.85,
+          "Behavioral Triggers": 0.8,
+          "Conflict Pairs": 0.65,
+          "Memetic Hooks": 0.75
+        },
+        {
+          "id": "adhd-waiting-mode-paralysis-before-appointments",
+          "ECB 2.0": 0.8,
+          "Neurobiological Networks": 0.7,
+          "Failure/Recovery Arcs": 0.75,
+          "Dynamic Personas": 0.85,
+          "Search Intent Graphs": 0.75,
+          "Narrative DNA": 0.75,
+          "Format Affinities": 0.7,
+          "Behavioral Triggers": 0.8,
+          "Conflict Pairs": 0.8,
+          "Memetic Hooks": 0.75
+        }
+      ]
+    },
+    {
+      "id": "adhd-why-5-minutes-becomes-hour",
+      "connections": [
+        {
+          "id": "adhd-understanding-time-blindness-not-laziness",
+          "ECB 2.0": 0.8,
+          "Neurobiological Networks": 0.8,
+          "Failure/Recovery Arcs": 0.7,
+          "Dynamic Personas": 0.75,
+          "Search Intent Graphs": 0.8,
+          "Narrative DNA": 0.85,
+          "Format Affinities": 0.7,
+          "Behavioral Triggers": 0.75,
+          "Conflict Pairs": 0.8,
+          "Memetic Hooks": 0.9
+        },
+        {
+          "id": "adhd-chronic-lateness-shame-solutions",
+          "ECB 2.0": 0.75,
+          "Neurobiological Networks": 0.75,
+          "Failure/Recovery Arcs": 0.7,
+          "Dynamic Personas": 0.7,
+          "Search Intent Graphs": 0.75,
+          "Narrative DNA": 0.8,
+          "Format Affinities": 0.7,
+          "Behavioral Triggers": 0.7,
+          "Conflict Pairs": 0.75,
+          "Memetic Hooks": 0.8
+        },
+        {
+          "id": "adhd-planning-fallacy-traps-misjudging-time",
+          "ECB 2.0": 0.75,
+          "Neurobiological Networks": 0.7,
+          "Failure/Recovery Arcs": 0.65,
+          "Dynamic Personas": 0.7,
+          "Search Intent Graphs": 0.75,
+          "Narrative DNA": 0.75,
+          "Format Affinities": 0.65,
+          "Behavioral Triggers": 0.7,
+          "Conflict Pairs": 0.75,
+          "Memetic Hooks": 0.75
+        },
+        {
+          "id": "adhd-deadlines-feel-fake-last-minute-panic",
+          "ECB 2.0": 0.85,
+          "Neurobiological Networks": 0.8,
+          "Failure/Recovery Arcs": 0.75,
+          "Dynamic Personas": 0.8,
+          "Search Intent Graphs": 0.8,
+          "Narrative DNA": 0.8,
+          "Format Affinities": 0.75,
+          "Behavioral Triggers": 0.85,
+          "Conflict Pairs": 0.8,
+          "Memetic Hooks": 0.85
+        },
+        {
+          "id": "adhd-lie-ill-do-it-later-procrastination",
+          "ECB 2.0": 0.8,
+          "Neurobiological Networks": 0.75,
+          "Failure/Recovery Arcs": 0.75,
+          "Dynamic Personas": 0.75,
+          "Search Intent Graphs": 0.8,
+          "Narrative DNA": 0.8,
+          "Format Affinities": 0.75,
+          "Behavioral Triggers": 0.8,
+          "Conflict Pairs": 0.75,
+          "Memetic Hooks": 0.8
+        },
+        {
+          "id": "adhd-clocks-calendars-dont-always-work",
+          "ECB 2.0": 0.75,
+          "Neurobiological Networks": 0.7,
+          "Failure/Recovery Arcs": 0.75,
+          "Dynamic Personas": 0.7,
+          "Search Intent Graphs": 0.75,
+          "Narrative DNA": 0.75,
+          "Format Affinities": 0.8,
+          "Behavioral Triggers": 0.75,
+          "Conflict Pairs": 0.75,
+          "Memetic Hooks": 0.8
+        },
+        {
+          "id": "adhd-2-minute-rule-science-application",
+          "ECB 2.0": 0.6,
+          "Neurobiological Networks": 0.55,
+          "Failure/Recovery Arcs": 0.65,
+          "Dynamic Personas": 0.6,
+          "Search Intent Graphs": 0.6,
+          "Narrative DNA": 0.6,
+          "Format Affinities": 0.7,
+          "Behavioral Triggers": 0.7,
+          "Conflict Pairs": 0.55,
+          "Memetic Hooks": 0.65
+        },
+        {
+          "id": "adhd-time-crime-confessions-relatable-stories",
+          "ECB 2.0": 0.8,
+          "Neurobiological Networks": 0.7,
+          "Failure/Recovery Arcs": 0.75,
+          "Dynamic Personas": 0.75,
+          "Search Intent Graphs": 0.75,
+          "Narrative DNA": 0.85,
+          "Format Affinities": 0.85,
+          "Behavioral Triggers": 0.75,
+          "Conflict Pairs": 0.8,
+          "Memetic Hooks": 0.9
+        },
+        {
+          "id": "adhd-strategies-better-time-estimation",
+          "ECB 2.0": 0.85,
+          "Neurobiological Networks": 0.8,
+          "Failure/Recovery Arcs": 0.8,
+          "Dynamic Personas": 0.8,
+          "Search Intent Graphs": 0.85,
+          "Narrative DNA": 0.8,
+          "Format Affinities": 0.8,
+          "Behavioral Triggers": 0.85,
+          "Conflict Pairs": 0.75,
+          "Memetic Hooks": 0.8
+        },
+        {
+          "id": "adhd-visual-timers-make-time-tangible",
+          "ECB 2.0": 0.75,
+          "Neurobiological Networks": 0.8,
+          "Failure/Recovery Arcs": 0.75,
+          "Dynamic Personas": 0.7,
+          "Search Intent Graphs": 0.75,
+          "Narrative DNA": 0.7,
+          "Format Affinities": 0.85,
+          "Behavioral Triggers": 0.8,
+          "Conflict Pairs": 0.65,
+          "Memetic Hooks": 0.75
+        },
+        {
+          "id": "adhd-waiting-mode-paralysis-before-appointments",
+          "ECB 2.0": 0.75,
+          "Neurobiological Networks": 0.65,
+          "Failure/Recovery Arcs": 0.7,
+          "Dynamic Personas": 0.8,
+          "Search Intent Graphs": 0.7,
+          "Narrative DNA": 0.7,
+          "Format Affinities": 0.65,
+          "Behavioral Triggers": 0.75,
+          "Conflict Pairs": 0.75,
+          "Memetic Hooks": 0.7
+        }
+      ]
+    },
+    {
+      "id": "adhd-lie-ill-do-it-later-procrastination",
+      "connections": [
+        {
+          "id": "adhd-understanding-time-blindness-not-laziness",
+          "ECB 2.0": 0.85,
+          "Neurobiological Networks": 0.75,
+          "Failure/Recovery Arcs": 0.85,
+          "Dynamic Personas": 0.8,
+          "Search Intent Graphs": 0.8,
+          "Narrative DNA": 0.85,
+          "Format Affinities": 0.8,
+          "Behavioral Triggers": 0.85,
+          "Conflict Pairs": 0.8,
+          "Memetic Hooks": 0.85
+        },
+        {
+          "id": "adhd-chronic-lateness-shame-solutions",
+          "ECB 2.0": 0.8,
+          "Neurobiological Networks": 0.7,
+          "Failure/Recovery Arcs": 0.8,
+          "Dynamic Personas": 0.75,
+          "Search Intent Graphs": 0.75,
+          "Narrative DNA": 0.8,
+          "Format Affinities": 0.75,
+          "Behavioral Triggers": 0.8,
+          "Conflict Pairs": 0.75,
+          "Memetic Hooks": 0.8
+        },
+        {
+          "id": "adhd-planning-fallacy-traps-misjudging-time",
+          "ECB 2.0": 0.8,
+          "Neurobiological Networks": 0.7,
+          "Failure/Recovery Arcs": 0.8,
+          "Dynamic Personas": 0.75,
+          "Search Intent Graphs": 0.75,
+          "Narrative DNA": 0.75,
+          "Format Affinities": 0.75,
+          "Behavioral Triggers": 0.8,
+          "Conflict Pairs": 0.75,
+          "Memetic Hooks": 0.75
+        },
+        {
+          "id": "adhd-deadlines-feel-fake-last-minute-panic",
+          "ECB 2.0": 0.85,
+          "Neurobiological Networks": 0.75,
+          "Failure/Recovery Arcs": 0.85,
+          "Dynamic Personas": 0.8,
+          "Search Intent Graphs": 0.8,
+          "Narrative DNA": 0.8,
+          "Format Affinities": 0.8,
+          "Behavioral Triggers": 0.85,
+          "Conflict Pairs": 0.8,
+          "Memetic Hooks": 0.85
+        },
+        {
+          "id": "adhd-why-5-minutes-becomes-hour",
+          "ECB 2.0": 0.8,
+          "Neurobiological Networks": 0.75,
+          "Failure/Recovery Arcs": 0.75,
+          "Dynamic Personas": 0.75,
+          "Search Intent Graphs": 0.8,
+          "Narrative DNA": 0.8,
+          "Format Affinities": 0.75,
+          "Behavioral Triggers": 0.8,
+          "Conflict Pairs": 0.75,
+          "Memetic Hooks": 0.8
+        },
+        {
+          "id": "adhd-clocks-calendars-dont-always-work",
+          "ECB 2.0": 0.75,
+          "Neurobiological Networks": 0.65,
+          "Failure/Recovery Arcs": 0.8,
+          "Dynamic Personas": 0.7,
+          "Search Intent Graphs": 0.75,
+          "Narrative DNA": 0.75,
+          "Format Affinities": 0.8,
+          "Behavioral Triggers": 0.75,
+          "Conflict Pairs": 0.8,
+          "Memetic Hooks": 0.8
+        },
+        {
+          "id": "adhd-2-minute-rule-science-application",
+          "ECB 2.0": 0.7,
+          "Neurobiological Networks": 0.6,
+          "Failure/Recovery Arcs": 0.75,
+          "Dynamic Personas": 0.7,
+          "Search Intent Graphs": 0.7,
+          "Narrative DNA": 0.65,
+          "Format Affinities": 0.75,
+          "Behavioral Triggers": 0.8,
+          "Conflict Pairs": 0.6,
+          "Memetic Hooks": 0.7
+        },
+        {
+          "id": "adhd-time-crime-confessions-relatable-stories",
+          "ECB 2.0": 0.85,
+          "Neurobiological Networks": 0.7,
+          "Failure/Recovery Arcs": 0.8,
+          "Dynamic Personas": 0.8,
+          "Search Intent Graphs": 0.8,
+          "Narrative DNA": 0.9,
+          "Format Affinities": 0.9,
+          "Behavioral Triggers": 0.8,
+          "Conflict Pairs": 0.85,
+          "Memetic Hooks": 0.9
+        },
+        {
+          "id": "adhd-strategies-better-time-estimation",
+          "ECB 2.0": 0.85,
+          "Neurobiological Networks": 0.75,
+          "Failure/Recovery Arcs": 0.9,
+          "Dynamic Personas": 0.8,
+          "Search Intent Graphs": 0.85,
+          "Narrative DNA": 0.85,
+          "Format Affinities": 0.85,
+          "Behavioral Triggers": 0.9,
+          "Conflict Pairs": 0.8,
+          "Memetic Hooks": 0.85
+        },
+        {
+          "id": "adhd-visual-timers-make-time-tangible",
+          "ECB 2.0": 0.75,
+          "Neurobiological Networks": 0.75,
+          "Failure/Recovery Arcs": 0.75,
+          "Dynamic Personas": 0.7,
+          "Search Intent Graphs": 0.75,
+          "Narrative DNA": 0.7,
+          "Format Affinities": 0.85,
+          "Behavioral Triggers": 0.8,
+          "Conflict Pairs": 0.65,
+          "Memetic Hooks": 0.75
+        },
+        {
+          "id": "adhd-waiting-mode-paralysis-before-appointments",
+          "ECB 2.0": 0.85,
+          "Neurobiological Networks": 0.75,
+          "Failure/Recovery Arcs": 0.8,
+          "Dynamic Personas": 0.9,
+          "Search Intent Graphs": 0.8,
+          "Narrative DNA": 0.8,
+          "Format Affinities": 0.75,
+          "Behavioral Triggers": 0.85,
+          "Conflict Pairs": 0.85,
+          "Memetic Hooks": 0.8
+        }
+      ]
+    },
+    {
+      "id": "adhd-clocks-calendars-dont-always-work",
+      "connections": [
+        {
+          "id": "adhd-understanding-time-blindness-not-laziness",
+          "ECB 2.0": 0.7,
+          "Neurobiological Networks": 0.6,
+          "Failure/Recovery Arcs": 0.75,
+          "Dynamic Personas": 0.65,
+          "Search Intent Graphs": 0.7,
+          "Narrative DNA": 0.7,
+          "Format Affinities": 0.8,
+          "Behavioral Triggers": 0.7,
+          "Conflict Pairs": 0.75,
+          "Memetic Hooks": 0.75
+        },
+        {
+          "id": "adhd-chronic-lateness-shame-solutions",
+          "ECB 2.0": 0.75,
+          "Neurobiological Networks": 0.65,
+          "Failure/Recovery Arcs": 0.8,
+          "Dynamic Personas": 0.7,
+          "Search Intent Graphs": 0.75,
+          "Narrative DNA": 0.75,
+          "Format Affinities": 0.8,
+          "Behavioral Triggers": 0.75,
+          "Conflict Pairs": 0.8,
+          "Memetic Hooks": 0.8
+        },
+        {
+          "id": "adhd-planning-fallacy-traps-misjudging-time",
+          "ECB 2.0": 0.7,
+          "Neurobiological Networks": 0.6,
+          "Failure/Recovery Arcs": 0.7,
+          "Dynamic Personas": 0.65,
+          "Search Intent Graphs": 0.7,
+          "Narrative DNA": 0.7,
+          "Format Affinities": 0.75,
+          "Behavioral Triggers": 0.7,
+          "Conflict Pairs": 0.7,
+          "Memetic Hooks": 0.7
+        },
+        {
+          "id": "adhd-deadlines-feel-fake-last-minute-panic",
+          "ECB 2.0": 0.75,
+          "Neurobiological Networks": 0.65,
+          "Failure/Recovery Arcs": 0.8,
+          "Dynamic Personas": 0.75,
+          "Search Intent Graphs": 0.75,
+          "Narrative DNA": 0.75,
+          "Format Affinities": 0.8,
+          "Behavioral Triggers": 0.75,
+          "Conflict Pairs": 0.8,
+          "Memetic Hooks": 0.8
+        },
+        {
+          "id": "adhd-why-5-minutes-becomes-hour",
+          "ECB 2.0": 0.75,
+          "Neurobiological Networks": 0.7,
+          "Failure/Recovery Arcs": 0.75,
+          "Dynamic Personas": 0.7,
+          "Search Intent Graphs": 0.75,
+          "Narrative DNA": 0.75,
+          "Format Affinities": 0.8,
+          "Behavioral Triggers": 0.75,
+          "Conflict Pairs": 0.75,
+          "Memetic Hooks": 0.8
+        },
+        {
+          "id": "adhd-lie-ill-do-it-later-procrastination",
+          "ECB 2.0": 0.75,
+          "Neurobiological Networks": 0.65,
+          "Failure/Recovery Arcs": 0.8,
+          "Dynamic Personas": 0.7,
+          "Search Intent Graphs": 0.75,
+          "Narrative DNA": 0.75,
+          "Format Affinities": 0.8,
+          "Behavioral Triggers": 0.75,
+          "Conflict Pairs": 0.8,
+          "Memetic Hooks": 0.8
+        },
+        {
+          "id": "adhd-2-minute-rule-science-application",
+          "ECB 2.0": 0.6,
+          "Neurobiological Networks": 0.5,
+          "Failure/Recovery Arcs": 0.65,
+          "Dynamic Personas": 0.6,
+          "Search Intent Graphs": 0.6,
+          "Narrative DNA": 0.55,
+          "Format Affinities": 0.7,
+          "Behavioral Triggers": 0.7,
+          "Conflict Pairs": 0.5,
+          "Memetic Hooks": 0.65
+        },
+        {
+          "id": "adhd-time-crime-confessions-relatable-stories",
+          "ECB 2.0": 0.8,
+          "Neurobiological Networks": 0.65,
+          "Failure/Recovery Arcs": 0.75,
+          "Dynamic Personas": 0.7,
+          "Search Intent Graphs": 0.75,
+          "Narrative DNA": 0.85,
+          "Format Affinities": 0.9,
+          "Behavioral Triggers": 0.75,
+          "Conflict Pairs": 0.8,
+          "Memetic Hooks": 0.85
+        },
+        {
+          "id": "adhd-strategies-better-time-estimation",
+          "ECB 2.0": 0.75,
+          "Neurobiological Networks": 0.7,
+          "Failure/Recovery Arcs": 0.8,
+          "Dynamic Personas": 0.75,
+          "Search Intent Graphs": 0.8,
+          "Narrative DNA": 0.75,
+          "Format Affinities": 0.8,
+          "Behavioral Triggers": 0.8,
+          "Conflict Pairs": 0.75,
+          "Memetic Hooks": 0.75
+        },
+        {
+          "id": "adhd-visual-timers-make-time-tangible",
+          "ECB 2.0": 0.75,
+          "Neurobiological Networks": 0.8,
+          "Failure/Recovery Arcs": 0.75,
+          "Dynamic Personas": 0.7,
+          "Search Intent Graphs": 0.75,
+          "Narrative DNA": 0.7,
+          "Format Affinities": 0.9,
+          "Behavioral Triggers": 0.8,
+          "Conflict Pairs": 0.7,
+          "Memetic Hooks": 0.8
+        },
+        {
+          "id": "adhd-waiting-mode-paralysis-before-appointments",
+          "ECB 2.0": 0.7,
+          "Neurobiological Networks": 0.6,
+          "Failure/Recovery Arcs": 0.65,
+          "Dynamic Personas": 0.75,
+          "Search Intent Graphs": 0.7,
+          "Narrative DNA": 0.7,
+          "Format Affinities": 0.65,
+          "Behavioral Triggers": 0.7,
+          "Conflict Pairs": 0.7,
+          "Memetic Hooks": 0.65
+        }
+      ]
+    },
+    {
+      "id": "adhd-2-minute-rule-science-application",
+      "connections": [
+        {
+          "id": "adhd-understanding-time-blindness-not-laziness",
+          "ECB 2.0": 0.6,
+          "Neurobiological Networks": 0.5,
+          "Failure/Recovery Arcs": 0.65,
+          "Dynamic Personas": 0.6,
+          "Search Intent Graphs": 0.6,
+          "Narrative DNA": 0.55,
+          "Format Affinities": 0.7,
+          "Behavioral Triggers": 0.7,
+          "Conflict Pairs": 0.5,
+          "Memetic Hooks": 0.65
+        },
+        {
+          "id": "adhd-chronic-lateness-shame-solutions",
+          "ECB 2.0": 0.6,
+          "Neurobiological Networks": 0.5,
+          "Failure/Recovery Arcs": 0.7,
+          "Dynamic Personas": 0.6,
+          "Search Intent Graphs": 0.6,
+          "Narrative DNA": 0.55,
+          "Format Affinities": 0.7,
+          "Behavioral Triggers": 0.7,
+          "Conflict Pairs": 0.5,
+          "Memetic Hooks": 0.6
+        },
+        {
+          "id": "adhd-planning-fallacy-traps-misjudging-time",
+          "ECB 2.0": 0.6,
+          "Neurobiological Networks": 0.5,
+          "Failure/Recovery Arcs": 0.65,
+          "Dynamic Personas": 0.6,
+          "Search Intent Graphs": 0.6,
+          "Narrative DNA": 0.55,
+          "Format Affinities": 0.7,
+          "Behavioral Triggers": 0.7,
+          "Conflict Pairs": 0.5,
+          "Memetic Hooks": 0.65
+        },
+        {
+          "id": "adhd-deadlines-feel-fake-last-minute-panic",
+          "ECB 2.0": 0.65,
+          "Neurobiological Networks": 0.55,
+          "Failure/Recovery Arcs": 0.7,
+          "Dynamic Personas": 0.65,
+          "Search Intent Graphs": 0.6,
+          "Narrative DNA": 0.6,
+          "Format Affinities": 0.7,
+          "Behavioral Triggers": 0.75,
+          "Conflict Pairs": 0.55,
+          "Memetic Hooks": 0.65
+        },
+        {
+          "id": "adhd-why-5-minutes-becomes-hour",
+          "ECB 2.0": 0.6,
+          "Neurobiological Networks": 0.55,
+          "Failure/Recovery Arcs": 0.65,
+          "Dynamic Personas": 0.6,
+          "Search Intent Graphs": 0.6,
+          "Narrative DNA": 0.6,
+          "Format Affinities": 0.7,
+          "Behavioral Triggers": 0.7,
+          "Conflict Pairs": 0.55,
+          "Memetic Hooks": 0.65
+        },
+        {
+          "id": "adhd-lie-ill-do-it-later-procrastination",
+          "ECB 2.0": 0.7,
+          "Neurobiological Networks": 0.6,
+          "Failure/Recovery Arcs": 0.75,
+          "Dynamic Personas": 0.7,
+          "Search Intent Graphs": 0.7,
+          "Narrative DNA": 0.65,
+          "Format Affinities": 0.75,
+          "Behavioral Triggers": 0.8,
+          "Conflict Pairs": 0.6,
+          "Memetic Hooks": 0.7
+        },
+        {
+          "id": "adhd-clocks-calendars-dont-always-work",
+          "ECB 2.0": 0.6,
+          "Neurobiological Networks": 0.5,
+          "Failure/Recovery Arcs": 0.65,
+          "Dynamic Personas": 0.6,
+          "Search Intent Graphs": 0.6,
+          "Narrative DNA": 0.55,
+          "Format Affinities": 0.7,
+          "Behavioral Triggers": 0.7,
+          "Conflict Pairs": 0.5,
+          "Memetic Hooks": 0.65
+        },
+        {
+          "id": "adhd-time-crime-confessions-relatable-stories",
+          "ECB 2.0": 0.65,
+          "Neurobiological Networks": 0.55,
+          "Failure/Recovery Arcs": 0.7,
+          "Dynamic Personas": 0.65,
+          "Search Intent Graphs": 0.6,
+          "Narrative DNA": 0.7,
+          "Format Affinities": 0.7,
+          "Behavioral Triggers": 0.7,
+          "Conflict Pairs": 0.6,
+          "Memetic Hooks": 0.75
+        },
+        {
+          "id": "adhd-strategies-better-time-estimation",
+          "ECB 2.0": 0.7,
+          "Neurobiological Networks": 0.6,
+          "Failure/Recovery Arcs": 0.75,
+          "Dynamic Personas": 0.7,
+          "Search Intent Graphs": 0.7,
+          "Narrative DNA": 0.65,
+          "Format Affinities": 0.75,
+          "Behavioral Triggers": 0.8,
+          "Conflict Pairs": 0.6,
+          "Memetic Hooks": 0.7
+        },
+        {
+          "id": "adhd-visual-timers-make-time-tangible",
+          "ECB 2.0": 0.65,
+          "Neurobiological Networks": 0.65,
+          "Failure/Recovery Arcs": 0.65,
+          "Dynamic Personas": 0.6,
+          "Search Intent Graphs": 0.6,
+          "Narrative DNA": 0.55,
+          "Format Affinities": 0.8,
+          "Behavioral Triggers": 0.7,
+          "Conflict Pairs": 0.55,
+          "Memetic Hooks": 0.65
+        },
+        {
+          "id": "adhd-waiting-mode-paralysis-before-appointments",
+          "ECB 2.0": 0.6,
+          "Neurobiological Networks": 0.5,
+          "Failure/Recovery Arcs": 0.65,
+          "Dynamic Personas": 0.7,
+          "Search Intent Graphs": 0.6,
+          "Narrative DNA": 0.6,
+          "Format Affinities": 0.6,
+          "Behavioral Triggers": 0.65,
+          "Conflict Pairs": 0.6,
+          "Memetic Hooks": 0.6
+        }
+      ]
+    },
+    {
+      "id": "adhd-time-crime-confessions-relatable-stories",
+      "connections": [
+        {
+          "id": "adhd-understanding-time-blindness-not-laziness",
+          "ECB 2.0": 0.8,
+          "Neurobiological Networks": 0.6,
+          "Failure/Recovery Arcs": 0.75,
+          "Dynamic Personas": 0.7,
+          "Search Intent Graphs": 0.7,
+          "Narrative DNA": 0.9,
+          "Format Affinities": 0.9,
+          "Behavioral Triggers": 0.7,
+          "Conflict Pairs": 0.8,
+          "Memetic Hooks": 0.85
+        },
+        {
+          "id": "adhd-chronic-lateness-shame-solutions",
+          "ECB 2.0": 0.85,
+          "Neurobiological Networks": 0.65,
+          "Failure/Recovery Arcs": 0.8,
+          "Dynamic Personas": 0.75,
+          "Search Intent Graphs": 0.75,
+          "Narrative DNA": 0.9,
+          "Format Affinities": 0.9,
+          "Behavioral Triggers": 0.75,
+          "Conflict Pairs": 0.85,
+          "Memetic Hooks": 0.9
+        },
+        {
+          "id": "adhd-planning-fallacy-traps-misjudging-time",
+          "ECB 2.0": 0.75,
+          "Neurobiological Networks": 0.6,
+          "Failure/Recovery Arcs": 0.7,
+          "Dynamic Personas": 0.65,
+          "Search Intent Graphs": 0.7,
+          "Narrative DNA": 0.8,
+          "Format Affinities": 0.8,
+          "Behavioral Triggers": 0.65,
+          "Conflict Pairs": 0.75,
+          "Memetic Hooks": 0.8
+        },
+        {
+          "id": "adhd-deadlines-feel-fake-last-minute-panic",
+          "ECB 2.0": 0.85,
+          "Neurobiological Networks": 0.7,
+          "Failure/Recovery Arcs": 0.8,
+          "Dynamic Personas": 0.8,
+          "Search Intent Graphs": 0.75,
+          "Narrative DNA": 0.85,
+          "Format Affinities": 0.85,
+          "Behavioral Triggers": 0.8,
+          "Conflict Pairs": 0.85,
+          "Memetic Hooks": 0.9
+        },
+        {
+          "id": "adhd-why-5-minutes-becomes-hour",
+          "ECB 2.0": 0.8,
+          "Neurobiological Networks": 0.7,
+          "Failure/Recovery Arcs": 0.75,
+          "Dynamic Personas": 0.75,
+          "Search Intent Graphs": 0.75,
+          "Narrative DNA": 0.85,
+          "Format Affinities": 0.85,
+          "Behavioral Triggers": 0.75,
+          "Conflict Pairs": 0.8,
+          "Memetic Hooks": 0.9
+        },
+        {
+          "id": "adhd-lie-ill-do-it-later-procrastination",
+          "ECB 2.0": 0.85,
+          "Neurobiological Networks": 0.7,
+          "Failure/Recovery Arcs": 0.8,
+          "Dynamic Personas": 0.8,
+          "Search Intent Graphs": 0.8,
+          "Narrative DNA": 0.9,
+          "Format Affinities": 0.9,
+          "Behavioral Triggers": 0.8,
+          "Conflict Pairs": 0.85,
+          "Memetic Hooks": 0.9
+        },
+        {
+          "id": "adhd-clocks-calendars-dont-always-work",
+          "ECB 2.0": 0.8,
+          "Neurobiological Networks": 0.65,
+          "Failure/Recovery Arcs": 0.75,
+          "Dynamic Personas": 0.7,
+          "Search Intent Graphs": 0.75,
+          "Narrative DNA": 0.85,
+          "Format Affinities": 0.9,
+          "Behavioral Triggers": 0.75,
+          "Conflict Pairs": 0.8,
+          "Memetic Hooks": 0.85
+        },
+        {
+          "id": "adhd-2-minute-rule-science-application",
+          "ECB 2.0": 0.65,
+          "Neurobiological Networks": 0.55,
+          "Failure/Recovery Arcs": 0.7,
+          "Dynamic Personas": 0.65,
+          "Search Intent Graphs": 0.6,
+          "Narrative DNA": 0.7,
+          "Format Affinities": 0.7,
+          "Behavioral Triggers": 0.7,
+          "Conflict Pairs": 0.6,
+          "Memetic Hooks": 0.75
+        },
+        {
+          "id": "adhd-strategies-better-time-estimation",
+          "ECB 2.0": 0.8,
+          "Neurobiological Networks": 0.7,
+          "Failure/Recovery Arcs": 0.85,
+          "Dynamic Personas": 0.75,
+          "Search Intent Graphs": 0.8,
+          "Narrative DNA": 0.85,
+          "Format Affinities": 0.85,
+          "Behavioral Triggers": 0.8,
+          "Conflict Pairs": 0.75,
+          "Memetic Hooks": 0.85
+        },
+        {
+          "id": "adhd-visual-timers-make-time-tangible",
+          "ECB 2.0": 0.75,
+          "Neurobiological Networks": 0.75,
+          "Failure/Recovery Arcs": 0.7,
+          "Dynamic Personas": 0.7,
+          "Search Intent Graphs": 0.7,
+          "Narrative DNA": 0.75,
+          "Format Affinities": 0.85,
+          "Behavioral Triggers": 0.75,
+          "Conflict Pairs": 0.65,
+          "Memetic Hooks": 0.8
+        },
+        {
+          "id": "adhd-waiting-mode-paralysis-before-appointments",
+          "ECB 2.0": 0.8,
+          "Neurobiological Networks": 0.7,
+          "Failure/Recovery Arcs": 0.75,
+          "Dynamic Personas": 0.8,
+          "Search Intent Graphs": 0.75,
+          "Narrative DNA": 0.8,
+          "Format Affinities": 0.75,
+          "Behavioral Triggers": 0.8,
+          "Conflict Pairs": 0.8,
+          "Memetic Hooks": 0.85
+        }
+      ]
+    },
+    {
+      "id": "adhd-strategies-better-time-estimation",
+      "connections": [
+        {
+          "id": "adhd-understanding-time-blindness-not-laziness",
+          "ECB 2.0": 0.75,
+          "Neurobiological Networks": 0.7,
+          "Failure/Recovery Arcs": 0.85,
+          "Dynamic Personas": 0.75,
+          "Search Intent Graphs": 0.8,
+          "Narrative DNA": 0.75,
+          "Format Affinities": 0.8,
+          "Behavioral Triggers": 0.8,
+          "Conflict Pairs": 0.7,
+          "Memetic Hooks": 0.75
+        },
+        {
+          "id": "adhd-chronic-lateness-shame-solutions",
+          "ECB 2.0": 0.8,
+          "Neurobiological Networks": 0.7,
+          "Failure/Recovery Arcs": 0.85,
+          "Dynamic Personas": 0.75,
+          "Search Intent Graphs": 0.8,
+          "Narrative DNA": 0.8,
+          "Format Affinities": 0.8,
+          "Behavioral Triggers": 0.85,
+          "Conflict Pairs": 0.75,
+          "Memetic Hooks": 0.8
+        },
+        {
+          "id": "adhd-planning-fallacy-traps-misjudging-time",
+          "ECB 2.0": 0.8,
+          "Neurobiological Networks": 0.7,
+          "Failure/Recovery Arcs": 0.85,
+          "Dynamic Personas": 0.75,
+          "Search Intent Graphs": 0.8,
+          "Narrative DNA": 0.75,
+          "Format Affinities": 0.8,
+          "Behavioral Triggers": 0.8,
+          "Conflict Pairs": 0.7,
+          "Memetic Hooks": 0.75
+        },
+        {
+          "id": "adhd-deadlines-feel-fake-last-minute-panic",
+          "ECB 2.0": 0.8,
+          "Neurobiological Networks": 0.75,
+          "Failure/Recovery Arcs": 0.85,
+          "Dynamic Personas": 0.8,
+          "Search Intent Graphs": 0.85,
+          "Narrative DNA": 0.8,
+          "Format Affinities": 0.8,
+          "Behavioral Triggers": 0.85,
+          "Conflict Pairs": 0.75,
+          "Memetic Hooks": 0.8
+        },
+        {
+          "id": "adhd-why-5-minutes-becomes-hour",
+          "ECB 2.0": 0.85,
+          "Neurobiological Networks": 0.8,
+          "Failure/Recovery Arcs": 0.8,
+          "Dynamic Personas": 0.8,
+          "Search Intent Graphs": 0.85,
+          "Narrative DNA": 0.8,
+          "Format Affinities": 0.8,
+          "Behavioral Triggers": 0.85,
+          "Conflict Pairs": 0.75,
+          "Memetic Hooks": 0.8
+        },
+        {
+          "id": "adhd-lie-ill-do-it-later-procrastination",
+          "ECB 2.0": 0.85,
+          "Neurobiological Networks": 0.75,
+          "Failure/Recovery Arcs": 0.9,
+          "Dynamic Personas": 0.8,
+          "Search Intent Graphs": 0.85,
+          "Narrative DNA": 0.85,
+          "Format Affinities": 0.85,
+          "Behavioral Triggers": 0.9,
+          "Conflict Pairs": 0.8,
+          "Memetic Hooks": 0.85
+        },
+        {
+          "id": "adhd-clocks-calendars-dont-always-work",
+          "ECB 2.0": 0.75,
+          "Neurobiological Networks": 0.7,
+          "Failure/Recovery Arcs": 0.8,
+          "Dynamic Personas": 0.75,
+          "Search Intent Graphs": 0.8,
+          "Narrative DNA": 0.75,
+          "Format Affinities": 0.8,
+          "Behavioral Triggers": 0.8,
+          "Conflict Pairs": 0.75,
+          "Memetic Hooks": 0.75
+        },
+        {
+          "id": "adhd-2-minute-rule-science-application",
+          "ECB 2.0": 0.7,
+          "Neurobiological Networks": 0.6,
+          "Failure/Recovery Arcs": 0.75,
+          "Dynamic Personas": 0.7,
+          "Search Intent Graphs": 0.7,
+          "Narrative DNA": 0.65,
+          "Format Affinities": 0.75,
+          "Behavioral Triggers": 0.8,
+          "Conflict Pairs": 0.6,
+          "Memetic Hooks": 0.7
+        },
+        {
+          "id": "adhd-time-crime-confessions-relatable-stories",
+          "ECB 2.0": 0.8,
+          "Neurobiological Networks": 0.7,
+          "Failure/Recovery Arcs": 0.85,
+          "Dynamic Personas": 0.75,
+          "Search Intent Graphs": 0.8,
+          "Narrative DNA": 0.85,
+          "Format Affinities": 0.85,
+          "Behavioral Triggers": 0.8,
+          "Conflict Pairs": 0.75,
+          "Memetic Hooks": 0.85
+        },
+        {
+          "id": "adhd-visual-timers-make-time-tangible",
+          "ECB 2.0": 0.75,
+          "Neurobiological Networks": 0.8,
+          "Failure/Recovery Arcs": 0.8,
+          "Dynamic Personas": 0.75,
+          "Search Intent Graphs": 0.8,
+          "Narrative DNA": 0.75,
+          "Format Affinities": 0.9,
+          "Behavioral Triggers": 0.85,
+          "Conflict Pairs": 0.7,
+          "Memetic Hooks": 0.8
+        },
+        {
+          "id": "adhd-waiting-mode-paralysis-before-appointments",
+          "ECB 2.0": 0.8,
+          "Neurobiological Networks": 0.7,
+          "Failure/Recovery Arcs": 0.8,
+          "Dynamic Personas": 0.85,
+          "Search Intent Graphs": 0.8,
+          "Narrative DNA": 0.8,
+          "Format Affinities": 0.75,
+          "Behavioral Triggers": 0.85,
+          "Conflict Pairs": 0.8,
+          "Memetic Hooks": 0.8
+        }
+      ]
+    },
+    {
+      "id": "adhd-visual-timers-make-time-tangible",
+      "connections": [
+        {
+          "id": "adhd-understanding-time-blindness-not-laziness",
+          "ECB 2.0": 0.7,
+          "Neurobiological Networks": 0.75,
+          "Failure/Recovery Arcs": 0.7,
+          "Dynamic Personas": 0.65,
+          "Search Intent Graphs": 0.7,
+          "Narrative DNA": 0.65,
+          "Format Affinities": 0.85,
+          "Behavioral Triggers": 0.75,
+          "Conflict Pairs": 0.6,
+          "Memetic Hooks": 0.7
+        },
+        {
+          "id": "adhd-chronic-lateness-shame-solutions",
+          "ECB 2.0": 0.7,
+          "Neurobiological Networks": 0.75,
+          "Failure/Recovery Arcs": 0.7,
+          "Dynamic Personas": 0.65,
+          "Search Intent Graphs": 0.7,
+          "Narrative DNA": 0.65,
+          "Format Affinities": 0.85,
+          "Behavioral Triggers": 0.75,
+          "Conflict Pairs": 0.6,
+          "Memetic Hooks": 0.7
+        },
+        {
+          "id": "adhd-planning-fallacy-traps-misjudging-time",
+          "ECB 2.0": 0.7,
+          "Neurobiological Networks": 0.7,
+          "Failure/Recovery Arcs": 0.65,
+          "Dynamic Personas": 0.6,
+          "Search Intent Graphs": 0.65,
+          "Narrative DNA": 0.6,
+          "Format Affinities": 0.8,
+          "Behavioral Triggers": 0.7,
+          "Conflict Pairs": 0.6,
+          "Memetic Hooks": 0.65
+        },
+        {
+          "id": "adhd-deadlines-feel-fake-last-minute-panic",
+          "ECB 2.0": 0.75,
+          "Neurobiological Networks": 0.8,
+          "Failure/Recovery Arcs": 0.75,
+          "Dynamic Personas": 0.7,
+          "Search Intent Graphs": 0.75,
+          "Narrative DNA": 0.7,
+          "Format Affinities": 0.85,
+          "Behavioral Triggers": 0.8,
+          "Conflict Pairs": 0.65,
+          "Memetic Hooks": 0.75
+        },
+        {
+          "id": "adhd-why-5-minutes-becomes-hour",
+          "ECB 2.0": 0.75,
+          "Neurobiological Networks": 0.8,
+          "Failure/Recovery Arcs": 0.75,
+          "Dynamic Personas": 0.7,
+          "Search Intent Graphs": 0.75,
+          "Narrative DNA": 0.7,
+          "Format Affinities": 0.85,
+          "Behavioral Triggers": 0.8,
+          "Conflict Pairs": 0.65,
+          "Memetic Hooks": 0.75
+        },
+        {
+          "id": "adhd-lie-ill-do-it-later-procrastination",
+          "ECB 2.0": 0.75,
+          "Neurobiological Networks": 0.75,
+          "Failure/Recovery Arcs": 0.75,
+          "Dynamic Personas": 0.7,
+          "Search Intent Graphs": 0.75,
+          "Narrative DNA": 0.7,
+          "Format Affinities": 0.85,
+          "Behavioral Triggers": 0.8,
+          "Conflict Pairs": 0.65,
+          "Memetic Hooks": 0.75
+        },
+        {
+          "id": "adhd-clocks-calendars-dont-always-work",
+          "ECB 2.0": 0.75,
+          "Neurobiological Networks": 0.8,
+          "Failure/Recovery Arcs": 0.75,
+          "Dynamic Personas": 0.7,
+          "Search Intent Graphs": 0.75,
+          "Narrative DNA": 0.7,
+          "Format Affinities": 0.9,
+          "Behavioral Triggers": 0.8,
+          "Conflict Pairs": 0.7,
+          "Memetic Hooks": 0.8
+        },
+        {
+          "id": "adhd-2-minute-rule-science-application",
+          "ECB 2.0": 0.65,
+          "Neurobiological Networks": 0.65,
+          "Failure/Recovery Arcs": 0.65,
+          "Dynamic Personas": 0.6,
+          "Search Intent Graphs": 0.6,
+          "Narrative DNA": 0.55,
+          "Format Affinities": 0.8,
+          "Behavioral Triggers": 0.7,
+          "Conflict Pairs": 0.55,
+          "Memetic Hooks": 0.65
+        },
+        {
+          "id": "adhd-time-crime-confessions-relatable-stories",
+          "ECB 2.0": 0.75,
+          "Neurobiological Networks": 0.75,
+          "Failure/Recovery Arcs": 0.7,
+          "Dynamic Personas": 0.7,
+          "Search Intent Graphs": 0.7,
+          "Narrative DNA": 0.75,
+          "Format Affinities": 0.85,
+          "Behavioral Triggers": 0.75,
+          "Conflict Pairs": 0.65,
+          "Memetic Hooks": 0.8
+        },
+        {
+          "id": "adhd-strategies-better-time-estimation",
+          "ECB 2.0": 0.75,
+          "Neurobiological Networks": 0.8,
+          "Failure/Recovery Arcs": 0.8,
+          "Dynamic Personas": 0.75,
+          "Search Intent Graphs": 0.8,
+          "Narrative DNA": 0.75,
+          "Format Affinities": 0.9,
+          "Behavioral Triggers": 0.85,
+          "Conflict Pairs": 0.7,
+          "Memetic Hooks": 0.8
+        },
+        {
+          "id": "adhd-waiting-mode-paralysis-before-appointments",
+          "ECB 2.0": 0.75,
+          "Neurobiological Networks": 0.7,
+          "Failure/Recovery Arcs": 0.7,
+          "Dynamic Personas": 0.75,
+          "Search Intent Graphs": 0.7,
+          "Narrative DNA": 0.7,
+          "Format Affinities": 0.8,
+          "Behavioral Triggers": 0.75,
+          "Conflict Pairs": 0.65,
+          "Memetic Hooks": 0.75
+        }
+      ]
+    },
+    {
+      "id": "adhd-waiting-mode-paralysis-before-appointments",
+      "connections": [
+        {
+          "id": "adhd-understanding-time-blindness-not-laziness",
+          "ECB 2.0": 0.8,
+          "Neurobiological Networks": 0.7,
+          "Failure/Recovery Arcs": 0.75,
+          "Dynamic Personas": 0.85,
+          "Search Intent Graphs": 0.75,
+          "Narrative DNA": 0.75,
+          "Format Affinities": 0.7,
+          "Behavioral Triggers": 0.8,
+          "Conflict Pairs": 0.8,
+          "Memetic Hooks": 0.75
+        },
+        {
+          "id": "adhd-chronic-lateness-shame-solutions",
+          "ECB 2.0": 0.75,
+          "Neurobiological Networks": 0.65,
+          "Failure/Recovery Arcs": 0.7,
+          "Dynamic Personas": 0.8,
+          "Search Intent Graphs": 0.7,
+          "Narrative DNA": 0.7,
+          "Format Affinities": 0.7,
+          "Behavioral Triggers": 0.75,
+          "Conflict Pairs": 0.75,
+          "Memetic Hooks": 0.7
+        },
+        {
+          "id": "adhd-planning-fallacy-traps-misjudging-time",
+          "ECB 2.0": 0.75,
+          "Neurobiological Networks": 0.65,
+          "Failure/Recovery Arcs": 0.7,
+          "Dynamic Personas": 0.8,
+          "Search Intent Graphs": 0.7,
+          "Narrative DNA": 0.7,
+          "Format Affinities": 0.65,
+          "Behavioral Triggers": 0.75,
+          "Conflict Pairs": 0.75,
+          "Memetic Hooks": 0.7
+        },
+        {
+          "id": "adhd-deadlines-feel-fake-last-minute-panic",
+          "ECB 2.0": 0.8,
+          "Neurobiological Networks": 0.7,
+          "Failure/Recovery Arcs": 0.75,
+          "Dynamic Personas": 0.85,
+          "Search Intent Graphs": 0.75,
+          "Narrative DNA": 0.75,
+          "Format Affinities": 0.7,
+          "Behavioral Triggers": 0.8,
+          "Conflict Pairs": 0.8,
+          "Memetic Hooks": 0.75
+        },
+        {
+          "id": "adhd-why-5-minutes-becomes-hour",
+          "ECB 2.0": 0.75,
+          "Neurobiological Networks": 0.65,
+          "Failure/Recovery Arcs": 0.7,
+          "Dynamic Personas": 0.8,
+          "Search Intent Graphs": 0.7,
+          "Narrative DNA": 0.7,
+          "Format Affinities": 0.65,
+          "Behavioral Triggers": 0.75,
+          "Conflict Pairs": 0.75,
+          "Memetic Hooks": 0.7
+        },
+        {
+          "id": "adhd-lie-ill-do-it-later-procrastination",
+          "ECB 2.0": 0.85,
+          "Neurobiological Networks": 0.75,
+          "Failure/Recovery Arcs": 0.8,
+          "Dynamic Personas": 0.9,
+          "Search Intent Graphs": 0.8,
+          "Narrative DNA": 0.8,
+          "Format Affinities": 0.75,
+          "Behavioral Triggers": 0.85,
+          "Conflict Pairs": 0.85,
+          "Memetic Hooks": 0.8
+        },
+        {
+          "id": "adhd-clocks-calendars-dont-always-work",
+          "ECB 2.0": 0.7,
+          "Neurobiological Networks": 0.6,
+          "Failure/Recovery Arcs": 0.65,
+          "Dynamic Personas": 0.75,
+          "Search Intent Graphs": 0.7,
+          "Narrative DNA": 0.7,
+          "Format Affinities": 0.65,
+          "Behavioral Triggers": 0.7,
+          "Conflict Pairs": 0.7,
+          "Memetic Hooks": 0.65
+        },
+        {
+          "id": "adhd-2-minute-rule-science-application",
+          "ECB 2.0": 0.6,
+          "Neurobiological Networks": 0.5,
+          "Failure/Recovery Arcs": 0.65,
+          "Dynamic Personas": 0.7,
+          "Search Intent Graphs": 0.6,
+          "Narrative DNA": 0.6,
+          "Format Affinities": 0.6,
+          "Behavioral Triggers": 0.65,
+          "Conflict Pairs": 0.6,
+          "Memetic Hooks": 0.6
+        },
+        {
+          "id": "adhd-time-crime-confessions-relatable-stories",
+          "ECB 2.0": 0.8,
+          "Neurobiological Networks": 0.7,
+          "Failure/Recovery Arcs": 0.75,
+          "Dynamic Personas": 0.8,
+          "Search Intent Graphs": 0.75,
+          "Narrative DNA": 0.8,
+          "Format Affinities": 0.75,
+          "Behavioral Triggers": 0.8,
+          "Conflict Pairs": 0.8,
+          "Memetic Hooks": 0.85
+        },
+        {
+          "id": "adhd-strategies-better-time-estimation",
+          "ECB 2.0": 0.8,
+          "Neurobiological Networks": 0.7,
+          "Failure/Recovery Arcs": 0.8,
+          "Dynamic Personas": 0.85,
+          "Search Intent Graphs": 0.8,
+          "Narrative DNA": 0.8,
+          "Format Affinities": 0.75,
+          "Behavioral Triggers": 0.85,
+          "Conflict Pairs": 0.8,
+          "Memetic Hooks": 0.8
+        },
+        {
+          "id": "adhd-visual-timers-make-time-tangible",
+          "ECB 2.0": 0.75,
+          "Neurobiological Networks": 0.7,
+          "Failure/Recovery Arcs": 0.7,
+          "Dynamic Personas": 0.75,
+          "Search Intent Graphs": 0.7,
+          "Narrative DNA": 0.7,
+          "Format Affinities": 0.8,
+          "Behavioral Triggers": 0.75,
+          "Conflict Pairs": 0.65,
+          "Memetic Hooks": 0.75
+        }
+      ]
     }
   ]
 }
