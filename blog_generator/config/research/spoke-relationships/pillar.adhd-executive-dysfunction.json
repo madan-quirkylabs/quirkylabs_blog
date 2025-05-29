@@ -1,9 +1,9 @@
 {
     "pillar_slug": "adhd-executive-dysfunction",
     "pillar_title": "Executive Dysfunction Deep Dive: It’s Not Laziness, It’s How the ADHD Brain is Wired",
-    "spoke_interlinking_scores": [
+    "spokes": [
         {
-            "source_spoke_slug": "adhd-what-is-executive-dysfunction-core-deficits",
+            "id": "adhd-what-is-executive-dysfunction-core-deficits",
             "connections": [
                 {
                     "id": "adhd-paralysis-task-initiation-executive-dysfunction",
@@ -203,7 +203,7 @@
             ]
         },
         {
-            "source_spoke_slug": "adhd-paralysis-task-initiation-executive-dysfunction",
+            "id": "adhd-paralysis-task-initiation-executive-dysfunction",
             "connections": [
                 {
                     "id": "adhd-wall-of-awful-emotional-barrier-tasks",
@@ -390,7 +390,7 @@
             ]
         },
         {
-            "source_spoke_slug": "adhd-wall-of-awful-emotional-barrier-tasks",
+            "id": "adhd-wall-of-awful-emotional-barrier-tasks",
             "connections": [
                 {
                     "id": "adhd-decision-fatigue-overwhelm-choices",
@@ -564,7 +564,7 @@
             ]
         },
         {
-            "source_spoke_slug": "adhd-decision-fatigue-overwhelm-choices",
+            "id": "adhd-decision-fatigue-overwhelm-choices",
             "connections": [
                 {
                     "id": "adhd-forgetting-mid-task-working-memory-lapses",
@@ -725,7 +725,7 @@
             ]
         },
         {
-            "source_spoke_slug": "adhd-forgetting-mid-task-working-memory-lapses",
+            "id": "adhd-forgetting-mid-task-working-memory-lapses",
             "connections": [
                 {
                     "id": "adhd-cognitive-fatigue-brain-tired",
@@ -873,7 +873,7 @@
             ]
         },
         {
-            "source_spoke_slug": "adhd-cognitive-fatigue-brain-tired",
+            "id": "adhd-cognitive-fatigue-brain-tired",
             "connections": [
                 {
                     "id": "adhd-clutter-blindness-not-seeing-mess",
@@ -1008,7 +1008,7 @@
             ]
         },
         {
-            "source_spoke_slug": "adhd-clutter-blindness-not-seeing-mess",
+            "id": "adhd-clutter-blindness-not-seeing-mess",
             "connections": [
                 {
                     "id": "adhd-losing-keys-phone-wallet-object-permanence",
@@ -1130,7 +1130,7 @@
             ]
         },
         {
-            "source_spoke_slug": "adhd-losing-keys-phone-wallet-object-permanence",
+            "id": "adhd-losing-keys-phone-wallet-object-permanence",
             "connections": [
                 {
                     "id": "adhd-working-memory-strategies-tools",
@@ -1239,7 +1239,7 @@
             ]
         },
         {
-            "source_spoke_slug": "adhd-working-memory-strategies-tools",
+            "id": "adhd-working-memory-strategies-tools",
             "connections": [
                 {
                     "id": "adhd-planning-vs-doing-execution-gap",
@@ -1335,7 +1335,7 @@
             ]
         },
         {
-            "source_spoke_slug": "adhd-planning-vs-doing-execution-gap",
+            "id": "adhd-planning-vs-doing-execution-gap",
             "connections": [
                 {
                     "id": "adhd-prioritization-struggles-everything-urgent",
@@ -1418,7 +1418,7 @@
             ]
         },
         {
-            "source_spoke_slug": "adhd-prioritization-struggles-everything-urgent",
+            "id": "adhd-prioritization-struggles-everything-urgent",
             "connections": [
                 {
                     "id": "adhd-deadline-panic-procrastination-cycle",
@@ -1488,7 +1488,7 @@
             ]
         },
         {
-            "source_spoke_slug": "adhd-deadline-panic-procrastination-cycle",
+            "id": "adhd-deadline-panic-procrastination-cycle",
             "connections": [
                 {
                     "id": "adhd-mental-switching-cost-difficulty-changing-tasks",
@@ -1545,7 +1545,7 @@
             ]
         },
         {
-            "source_spoke_slug": "adhd-mental-switching-cost-difficulty-changing-tasks",
+            "id": "adhd-mental-switching-cost-difficulty-changing-tasks",
             "connections": [
                 {
                     "id": "adhd-organization-systems-fail-executive-dysfunction",
@@ -1589,7 +1589,7 @@
             ]
         },
         {
-            "source_spoke_slug": "adhd-organization-systems-fail-executive-dysfunction",
+            "id": "adhd-organization-systems-fail-executive-dysfunction",
             "connections": [
                 {
                     "id": "adhd-time-perception-executive-function",
@@ -1620,7 +1620,7 @@
             ]
         },
         {
-            "source_spoke_slug": "adhd-time-perception-executive-function",
+            "id": "adhd-time-perception-executive-function",
             "connections": [
                 {
                     "id": "adhd-emotional-regulation-executive-function-link",

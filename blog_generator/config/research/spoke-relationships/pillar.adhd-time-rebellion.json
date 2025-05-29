@@ -1,7 +1,7 @@
 {
-    "pillar_id": "adhd-time-rebellion",
+    "pillar_slug": "adhd-time-rebellion",
     "pillar_title": "ADHD Time Blindness & Rebellion: Why ‘Later’ is Often a Lie",
-    "spokes_relatedness_scores": [
+    "spokes": [
         {
             "id": "adhd-understanding-time-blindness-not-laziness",
             "connections": [
