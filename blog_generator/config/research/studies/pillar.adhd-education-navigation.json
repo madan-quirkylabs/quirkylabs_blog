@@ -192,249 +192,225 @@
         "Behavior Rating Inventory of Executive Function (BRIEF)"
     ],
     "spokes": {
-        "adhd-lingering-impact-school-failure-memories": {
-            "studies": [
-                {
-                    "citation": "Rosello, R., Berenguer, C., Baixauli, I., & Miranda, A. (2020). Child and adolescent emotional and psychosocial functioning in attention-deficit/hyperactivity disorder and specific learning disorder. *Psicothema, 32*(2), 233-239.",
-                    "year": "2020",
-                    "design": "Comparative study (N=120 children/adolescents: ADHD, SLD, ADHD+SLD, Controls)",
-                    "top_3_findings": [
-                        "Children and adolescents with ADHD and/or Specific Learning Disorder (SLD) exhibit significantly poorer emotional and psychosocial functioning compared to controls.",
-                        "They report higher levels of anxiety, depression, somatic complaints, and social problems, often stemming from academic struggles and perceived failures.",
-                        "The comorbid presence of ADHD and SLD often results in more severe emotional and social difficulties, underscoring the compounded impact of these conditions on well-being."
-                    ],
-                    "neurobiological_mechanism": "Shared neurodevelopmental vulnerabilities and the chronic stress associated with academic difficulties can impact emotional regulation circuits (e.g., fronto-limbic pathways) and contribute to negative self-perception.",
-                    "clinical_takeaway": "Assess for and address emotional and psychosocial difficulties alongside academic interventions in students with ADHD and SLD. Foster a supportive environment to mitigate the impact of failure experiences.",
-                    "doi": "10.7334/psicothema2019.309",
-                    "source_link": "https://doi.org/10.7334/psicothema2019.309"
-                },
-                {
-                    "citation": "Weiner, B. (1985). An attributional theory of achievement motivation and emotion. *Psychological Review, 92*(4), 548–573.",
-                    "year": "1985",
-                    "design": "Theoretical review (Attribution Theory)",
-                    "top_3_findings": [
-                        "Individuals attribute causes to their successes and failures (e.g., ability, effort, task difficulty, luck). These attributions influence their emotions and future motivation.",
-                        "Attributing failure to stable, internal, and uncontrollable factors (e.g., 'I'm just not smart enough') leads to shame, hopelessness, and reduced persistence.",
-                        "Frequent school failures in ADHD, if attributed negatively, can establish a pattern of learned helplessness and negative self-concept, contributing to lingering traumatic memories."
-                    ],
-                    "neurobiological_mechanism": "Repeated experiences of failure and negative attributions can shape neural pathways related to motivation, self-efficacy, and emotional response to challenge, potentially involving alterations in dopamine reward systems and prefrontal cortex activity related to cognitive appraisal.",
-                    "clinical_takeaway": "Help students with ADHD develop more adaptive, effort-based attributions for their academic outcomes through cognitive restructuring and by ensuring they experience success with appropriate support.",
-                    "doi": "10.1037/0033-295X.92.4.548",
-                    "source_link": "https://doi.org/10.1037/0033-295X.92.4.548"
-                }
-            ]
-        },
-        "adhd-why-studying-groups-hard-or-helpful": {
-            "studies": [
-                {
-                    "citation": "Waschbusch, D. A., & Hill, G. P. (2003). Social and Group Functioning of Children with ADHD. In L. J. Pfiffner, K. L. McBurnett, & S. W. Evans (Eds.), *Organizational Issues in Clinical Child Psychology* (pp. 109-136). Routledge.",
-                    "year": "2003",
-                    "design": "Book chapter/Review (Conceptual)",
-                    "top_3_findings": [
-                        "Children with ADHD often experience difficulties in group settings due to core symptoms like inattention (missing instructions, off-task behavior), impulsivity (interrupting, difficulty waiting turns), and hyperactivity (restlessness, bothering others).",
-                        "These behaviors can lead to negative peer interactions and make collaborative learning in study groups challenging.",
-                        "However, structured and well-facilitated groups that provide clear expectations, immediate feedback, and opportunities for active participation can be beneficial, offering social learning and support."
-                    ],
-                    "neurobiological_mechanism": "Executive function deficits (inhibition, working memory, self-monitoring) make unstructured group dynamics difficult to navigate. Dopamine dysregulation can impact motivation and engagement in less stimulating group tasks.",
-                    "clinical_takeaway": "When recommending study groups for individuals with ADHD, emphasize the need for structure, clear roles, and potentially adult facilitation. Teach specific social and collaborative skills.",
-                    "doi": null,
-                    "source_link": "Specific book chapter link may vary; search for book title."
-                }
-            ]
-        },
-        "adhd-exam-paralysis-test-taking-anxiety": {
-            "studies": [
-                {
-                    "citation": "Advokat, C. D., & Martino, L. J. (2013). The Test-Taking Behaviors of College Students With and Without ADHD. *Journal of Attention Disorders, 17*(7), 596–604.",
-                    "year": "2013",
-                    "design": "Observational study (N=100 college students: 50 ADHD, 50 controls)",
-                    "top_3_findings": [
-                        "College students with ADHD exhibited more off-task behaviors (e.g., looking around, fidgeting) during simulated exams compared to controls, even when performance was similar.",
-                        "Students with ADHD reported higher levels of test anxiety and perceived tests as more threatening.",
-                        "Difficulties with sustained attention, working memory, and managing anxiety likely contribute to challenges like 'exam paralysis' or inefficient test-taking strategies."
-                    ],
-                    "neurobiological_mechanism": "Executive function deficits (sustained attention, working memory, emotional regulation) linked to fronto-striatal circuits are taxed heavily during high-stakes testing, leading to increased anxiety and potential performance decrements or 'freezing'.",
-                    "clinical_takeaway": "Address both cognitive (test-taking strategies, time management) and emotional (anxiety reduction techniques, mindfulness) aspects of test-taking for students with ADHD. Consider accommodations like reduced-distraction environments.",
-                    "doi": "10.1177/1087054711434223",
-                    "source_link": "https://doi.org/10.1177/1087054711434223"
-                }
-            ]
-        },
-        "adhd-grade-shame-performance-inconsistency": {
-            "studies": [
-                {
-                    "citation": "Owens, E. B., Hinshaw, S. P., Lee, S. S., & Lahey, B. B. (2009). Few Girls with ADHD Show Resilient Functioning: A Reanalysis of the MTA Study. *Journal of Attention Disorders, 12*(5), 416–427.",
-                    "year": "2009",
-                    "design": "Reanalysis of MTA study data focusing on girls (N=140 girls with ADHD from MTA)",
-                    "top_3_findings": [
-                        "Girls with ADHD, even when receiving treatment, were significantly more likely to experience academic underachievement and internalizing symptoms (anxiety, depression) compared to a community control group of girls.",
-                        "Performance inconsistency and associated feelings of shame or inadequacy can be particularly pronounced in girls who may mask other ADHD symptoms but still struggle academically.",
-                        "This suggests that 'resilient functioning' (i.e., functioning within normal range despite ADHD) was rare for girls in this large sample, highlighting the persistent impact on academic self-concept."
-                    ],
-                    "neurobiological_mechanism": "Girls with ADHD may exhibit different neurobiological profiles or face different societal expectations, potentially leading to more internalized distress (shame, anxiety) in response to academic performance inconsistencies related to executive dysfunction.",
-                    "clinical_takeaway": "Be particularly attentive to academic struggles and internalizing symptoms in girls with ADHD. Address self-esteem and feelings of shame related to performance, and ensure interventions are tailored to their specific presentation.",
-                    "doi": "10.1177/1087054708328344",
-                    "source_link": "https://doi.org/10.1177/1087054708328344"
-                }
-            ]
-        },
-        "adhd-bad-report-card-trauma-parental-pressure": {
-            "studies": [
-                {
-                    "citation": "Johnston, C., & Mash, E. J. (2001). Families of children with attention-deficit/hyperactivity disorder: Review and recommendations for future research. *Clinical Child and Family Psychology Review, 4*(3), 183–207.",
-                    "year": "2001",
-                    "design": "Review of family factors in ADHD",
-                    "top_3_findings": [
-                        "Parenting children with ADHD is associated with higher levels of parental stress, frustration, and negative parent-child interactions, particularly around academic performance and behavior.",
-                        "Parental reactions to poor academic performance (e.g., criticism, punishment, excessive pressure) can inadvertently exacerbate the child's stress, shame, and negative self-views, potentially creating traumatic associations with school reporting.",
-                        "Positive parenting practices, including realistic expectations, consistent support, and focus on effort over grades, are crucial for mitigating negative outcomes."
-                    ],
-                    "neurobiological_mechanism": "Children with ADHD may be more sensitive to negative feedback due to emotional dysregulation. High parental pressure can increase the child's stress (HPA axis activation), further impairing executive functions needed for academic success.",
-                    "clinical_takeaway": "Educate parents about ADHD and its impact on learning. Promote positive parenting strategies, effective communication, and collaborative problem-solving around academic issues to reduce pressure and prevent school-related trauma.",
-                    "doi": "10.1023/A:1017592030434",
-                    "source_link": "https://doi.org/10.1023/A:1017592030434"
-                }
-            ]
-        },
-        "adhd-hyperfocus-interesting-subjects-avoiding-others": {
-            "studies": [
-                {
-                    "citation": "Hupfeld, K. E., Abagis, T. R., & Shah, P. (2019). Living “in the zone”: hyperfocus in adult ADHD. *Attention Deficit and Hyperactivity Disorders, 11*(2), 191–208.",
-                    "year": "2019",
-                    "design": "Qualitative study and survey (N=38 adults with ADHD for interviews, N=502 for survey)",
-                    "top_3_findings": [
-                        "Adults with ADHD frequently report experiencing hyperfocus, described as an intense, sustained state of concentration on tasks they find highly interesting or engaging.",
-                        "While hyperfocus can lead to high productivity and mastery in specific areas, it is often accompanied by a neglect of other important tasks and responsibilities (e.g., less interesting schoolwork or chores).",
-                        "Hyperfocus is often triggered by interest, novelty, or urgency, and individuals report difficulty disengaging from it, highlighting challenges in attentional regulation and task-switching."
-                    ],
-                    "neurobiological_mechanism": "Hyperfocus may be related to dopamine dysregulation, where highly stimulating or rewarding activities excessively capture the brain's reward and attention systems, making it difficult for the prefrontal cortex to shift attentional resources to less intrinsically motivating tasks.",
-                    "clinical_takeaway": "Help individuals with ADHD understand their hyperfocus patterns. Develop strategies to leverage hyperfocus productively while also implementing systems (e.g., timers, structured breaks, external cues) to manage transitions and ensure attention to less preferred but necessary tasks.",
-                    "doi": "10.1007/s12402-018-0272-8",
-                    "source_link": "https://doi.org/10.1007/s12402-018-0272-8"
-                }
-            ]
-        },
-        "adhd-homework-battles-procrastination-resistance": {
-            "studies": [
-                {
-                    "citation": "Langberg, J. M., Epstein, J. N., Girio-Herrera, E., & Becker, S. P. (2011). The impact of disorganization and time management problems of adolescents with ADHD on academic and family functioning. *Journal of Emotional and Behavioral Disorders, 19*(3), 173-184.",
-                    "year": "2011",
-                    "design": "Study with adolescents with ADHD (N not specified in abstract, but focused on organizational skills)",
-                    "top_3_findings": [
-                        "Adolescents with ADHD experience significant difficulties with organization and time management (OTM), which are key executive functions.",
-                        "These OTM deficits are strongly linked to homework problems, including procrastination, resistance, incomplete assignments, and poor academic performance.",
-                        "OTM challenges also contribute to increased family conflict and parental stress surrounding homework."
-                    ],
-                    "neurobiological_mechanism": "Deficits in prefrontal cortex functioning impact executive skills like planning, prioritizing, task initiation, sustained attention, and time perception, all of which are crucial for successful homework completion.",
-                    "clinical_takeaway": "Interventions targeting organizational skills, time management, and task initiation are essential for addressing homework battles. Parent training in supportive homework strategies can also reduce conflict and improve outcomes.",
-                    "doi": "10.1177/1063426610372506",
-                    "source_link": "https://doi.org/10.1177/1063426610372506"
-                }
-            ]
-        },
-        "adhd-learning-style-clashes-traditional-education": {
-            "studies": [
-                {
-                    "citation": "Zentall, S. S. (1993). Research on the educational implications of attention deficit hyperactivity disorder. *Exceptional Children, 60*(2), 143-153.",
-                    "year": "1993",
-                    "design": "Review (older but foundational on learning styles)",
-                    "top_3_findings": [
-                        "Children with ADHD often exhibit learning characteristics that clash with traditional classroom environments, such as a need for novelty, varied stimulation, and activity.",
-                        "They may perform better with tasks that are brief, highly motivating, involve active responding, and provide immediate feedback.",
-                        "Traditional educational approaches relying heavily on sustained passive attention and rote memorization can be particularly challenging for students with ADHD, leading to underachievement if not adapted."
-                    ],
-                    "neurobiological_mechanism": "The ADHD brain's need for optimal stimulation levels (related to dopamine function) means that monotonous or low-stimulation learning environments can lead to underarousal, inattention, and restlessness. Executive function deficits make it hard to sustain effort on non-preferred tasks.",
-                    "clinical_takeaway": "Educators should incorporate ADHD-friendly teaching strategies: varying instructional methods, allowing movement, providing choices, breaking tasks into smaller chunks, using hands-on activities, and ensuring high interest levels. (Cultural limitation: Most research based on Western education models).",
-                    "doi": "10.1177/001440299306000205",
-                    "source_link": "https://doi.org/10.1177/001440299306000205"
-                }
-            ]
-        },
-        "adhd-negative-experiences-teachers-authority": {
-            "studies": [
-                {
-                    "citation": "Rogers, M. A., Wiener, J., Marton, I., & Tannock, R. (2009). The relations between parent and child-teacher agreement on reports of ADHD symptoms and concurrent child and family adjustment. *Journal of Abnormal Child Psychology, 37*(7), 1021-1033.",
-                    "year": "2009",
-                    "design": "Study on informant discrepancies (N=104 children with ADHD)",
-                    "top_3_findings": [
-                        "Discrepancies often exist between parent and teacher reports of ADHD symptoms, which can impact intervention planning and a child's experience in school.",
-                        "When teachers perceive more severe ADHD symptoms (even if parents don't), it can correlate with increased teacher stress and potentially more negative teacher-student interactions.",
-                        "Negative interactions with teachers, stemming from misunderstanding of ADHD behaviors or lack of appropriate support, can lead to students feeling singled out, criticized, and developing aversion to authority figures in school."
-                    ],
-                    "neurobiological_mechanism": "ADHD symptoms (impulsivity, inattention, hyperactivity) can be misinterpreted as defiance or lack of effort, leading to negative feedback loops. Emotional dysregulation in ADHD can also make students more sensitive to perceived criticism or unfairness from authority.",
-                    "clinical_takeaway": "Foster positive communication and collaboration between parents, teachers, and students. Provide teacher training on ADHD and effective classroom management strategies to create more supportive and understanding school environments, reducing negative experiences.",
-                    "doi": "10.1007/s10802-009-9330-y",
-                    "source_link": "https://doi.org/10.1007/s10802-009-9330-y"
-                }
-            ]
-        },
-        "adhd-navigating-higher-education-college": {
-            "studies": [
-                {
-                    "citation": "DuPaul, G. J., Weyandt, L. L., O'Dell, S. M., & Varejao, M. (2009). College students with ADHD: Current status and future directions. *Journal of Attention Disorders, 13*(3), 234-250.",
-                    "year": "2009",
-                    "design": "Review article",
-                    "top_3_findings": [
-                        "A significant number of college students experience impairing ADHD symptoms, facing challenges in academic performance, executive functioning (time management, organization), social adjustment, and emotional well-being.",
-                        "These students are at higher risk for lower GPAs, course incompletion, and longer time to graduation compared to peers without ADHD.",
-                        "Access to and utilization of support services (disability services, counseling, coaching) and appropriate accommodations are critical for success in higher education."
-                    ],
-                    "neurobiological_mechanism": "The increased demands for self-regulation, independent learning, and complex executive functions in college environments heavily tax the neurobiological vulnerabilities associated with ADHD, particularly in prefrontal cortex-mediated skills.",
-                    "clinical_takeaway": "Higher education institutions should provide robust support services for students with ADHD, including academic accommodations, coaching for executive function skills, and mental health support. Encourage students to proactively seek and utilize these resources.",
-                    "doi": "10.1177/1087054709340650",
-                    "source_link": "https://doi.org/10.1177/1087054709340650"
-                },
-                {
-                    "citation": "Gormley, M. J., Pinho, T. D., Gevert, D. T., & Canino, J. (2021). ADHD in College: A Systematic Review of the Literature. *Journal of Attention Disorders, 25*(13), 1839-1852.",
-                    "year": "2021",
-                    "design": "Systematic review",
-                    "top_3_findings": [
-                        "College students with ADHD continue to face substantial academic and psychosocial challenges, including lower grades, higher rates of academic probation, and more mental health concerns.",
-                        "Interventions focusing on academic skills, executive functioning, and medication management show promise, but more research is needed on effective psychosocial treatments specifically for this population.",
-                        "Co-occurring mental health conditions (anxiety, depression) are common and significantly impact functioning in college students with ADHD."
-                    ],
-                    "neurobiological_mechanism": "The transition to college involves significant environmental changes and increased executive demands, which can unmask or exacerbate ADHD-related neurobiological challenges in self-regulation and cognitive control.",
-                    "clinical_takeaway": "Adopt a comprehensive approach to supporting college students with ADHD, addressing academic skills, executive functions, medication management (if applicable), and comorbid mental health conditions. Promote self-advocacy and access to campus resources.",
-                    "doi": "10.1177/1087054720941820",
-                    "source_link": "https://doi.org/10.1177/1087054720941820"
-                }
-            ]
-        },
-        "adhd-adult-learning-strategies-upskilling-hobbies": {
-            "studies": [
-                {
-                    "citation": "Prevatt, F., & Yelland, S. (2015). An empirical evaluation of ADHD coaching in college students. *Journal of Attention Disorders, 19*(8), 661–671.",
-                    "year": "2015",
-                    "design": "Study on ADHD coaching for college students (N=88)",
-                    "top_3_findings": [
-                        "ADHD coaching, which often focuses on goal setting, planning, organization, and strategy implementation, can be an effective intervention for improving executive functioning and academic performance in college students with ADHD.",
-                        "This approach is applicable to adult learning in general, including upskilling or pursuing complex hobbies, where self-directed learning and sustained effort are required.",
-                        "Coaching helps adults with ADHD externalize executive function demands and develop personalized strategies to manage their learning processes."
-                    ],
-                    "neurobiological_mechanism": "Coaching provides external scaffolding for prefrontal cortex-mediated executive functions. By breaking down tasks, setting realistic goals, and providing accountability, it helps compensate for internal regulation difficulties associated with ADHD neurobiology.",
-                    "clinical_takeaway": "Consider ADHD coaching as a valuable support for adults with ADHD engaging in new learning endeavors (upskilling, hobbies, further education). Focus on practical strategies for planning, organization, time management, and maintaining motivation.",
-                    "doi": "10.1177/1087054713500023",
-                    "source_link": "https://doi.org/10.1177/1087054713500023"
-                }
-            ]
-        },
-        "adhd-advocating-accommodations-educational-settings": {
-            "studies": [
-                {
-                    "citation": "Harrison, A. G., Armstrong, I. T., & Parker, K. C. H. (2019). Self-Advocacy and Perceptions of Accommodations Among Postsecondary Students With ADHD. *Journal of Postsecondary Education and Disability, 32*(1), 21-37.",
-                    "year": "2019",
-                    "design": "Survey study (N=125 postsecondary students with ADHD)",
-                    "top_3_findings": [
-                        "Postsecondary students with ADHD who engage in greater self-advocacy behaviors (e.g., disclosing disability, requesting accommodations, communicating needs to professors) tend to have more positive perceptions of their accommodations.",
-                        "However, many students face barriers to self-advocacy, including stigma, lack of awareness of available supports, or uncertainty about how to request accommodations effectively.",
-                        "Effective self-advocacy is linked to better utilization of supports and potentially improved academic outcomes and well-being."
-                    ],
-                    "neurobiological_mechanism": "Self-advocacy requires executive functions such as planning, organization (of documentation), problem-solving, and effective communication, which can be challenging for individuals with ADHD. Successful advocacy can reduce stress and cognitive load, supporting overall brain function.",
-                    "clinical_takeaway": "Teach and support self-advocacy skills for individuals with ADHD across all educational levels. Provide clear information about rights and available accommodations. Foster an environment where students feel comfortable disclosing their needs.",
-                    "doi": null,
-                    "source_link": "https://files.eric.ed.gov/fulltext/EJ1218856.pdf"
-                }
-            ]
-        }
+        "adhd-lingering-impact-school-failure-memories": [
+            {
+                "citation": "Rosello, R., Berenguer, C., Baixauli, I., & Miranda, A. (2020). Child and adolescent emotional and psychosocial functioning in attention-deficit/hyperactivity disorder and specific learning disorder. *Psicothema, 32*(2), 233-239.",
+                "year": "2020",
+                "design": "Comparative study (N=120 children/adolescents: ADHD, SLD, ADHD+SLD, Controls)",
+                "top_3_findings": [
+                    "Children and adolescents with ADHD and/or Specific Learning Disorder (SLD) exhibit significantly poorer emotional and psychosocial functioning compared to controls.",
+                    "They report higher levels of anxiety, depression, somatic complaints, and social problems, often stemming from academic struggles and perceived failures.",
+                    "The comorbid presence of ADHD and SLD often results in more severe emotional and social difficulties, underscoring the compounded impact of these conditions on well-being."
+                ],
+                "neurobiological_mechanism": "Shared neurodevelopmental vulnerabilities and the chronic stress associated with academic difficulties can impact emotional regulation circuits (e.g., fronto-limbic pathways) and contribute to negative self-perception.",
+                "clinical_takeaway": "Assess for and address emotional and psychosocial difficulties alongside academic interventions in students with ADHD and SLD. Foster a supportive environment to mitigate the impact of failure experiences.",
+                "doi": "10.7334/psicothema2019.309",
+                "source_link": "https://doi.org/10.7334/psicothema2019.309"
+            },
+            {
+                "citation": "Weiner, B. (1985). An attributional theory of achievement motivation and emotion. *Psychological Review, 92*(4), 548–573.",
+                "year": "1985",
+                "design": "Theoretical review (Attribution Theory)",
+                "top_3_findings": [
+                    "Individuals attribute causes to their successes and failures (e.g., ability, effort, task difficulty, luck). These attributions influence their emotions and future motivation.",
+                    "Attributing failure to stable, internal, and uncontrollable factors (e.g., 'I'm just not smart enough') leads to shame, hopelessness, and reduced persistence.",
+                    "Frequent school failures in ADHD, if attributed negatively, can establish a pattern of learned helplessness and negative self-concept, contributing to lingering traumatic memories."
+                ],
+                "neurobiological_mechanism": "Repeated experiences of failure and negative attributions can shape neural pathways related to motivation, self-efficacy, and emotional response to challenge, potentially involving alterations in dopamine reward systems and prefrontal cortex activity related to cognitive appraisal.",
+                "clinical_takeaway": "Help students with ADHD develop more adaptive, effort-based attributions for their academic outcomes through cognitive restructuring and by ensuring they experience success with appropriate support.",
+                "doi": "10.1037/0033-295X.92.4.548",
+                "source_link": "https://doi.org/10.1037/0033-295X.92.4.548"
+            }
+        ],
+        "adhd-why-studying-groups-hard-or-helpful": [
+            {
+                "citation": "Waschbusch, D. A., & Hill, G. P. (2003). Social and Group Functioning of Children with ADHD. In L. J. Pfiffner, K. L. McBurnett, & S. W. Evans (Eds.), *Organizational Issues in Clinical Child Psychology* (pp. 109-136). Routledge.",
+                "year": "2003",
+                "design": "Book chapter/Review (Conceptual)",
+                "top_3_findings": [
+                    "Children with ADHD often experience difficulties in group settings due to core symptoms like inattention (missing instructions, off-task behavior), impulsivity (interrupting, difficulty waiting turns), and hyperactivity (restlessness, bothering others).",
+                    "These behaviors can lead to negative peer interactions and make collaborative learning in study groups challenging.",
+                    "However, structured and well-facilitated groups that provide clear expectations, immediate feedback, and opportunities for active participation can be beneficial, offering social learning and support."
+                ],
+                "neurobiological_mechanism": "Executive function deficits (inhibition, working memory, self-monitoring) make unstructured group dynamics difficult to navigate. Dopamine dysregulation can impact motivation and engagement in less stimulating group tasks.",
+                "clinical_takeaway": "When recommending study groups for individuals with ADHD, emphasize the need for structure, clear roles, and potentially adult facilitation. Teach specific social and collaborative skills.",
+                "doi": null,
+                "source_link": "Specific book chapter link may vary; search for book title."
+            }
+        ],
+        "adhd-exam-paralysis-test-taking-anxiety": [
+            {
+                "citation": "Advokat, C. D., & Martino, L. J. (2013). The Test-Taking Behaviors of College Students With and Without ADHD. *Journal of Attention Disorders, 17*(7), 596–604.",
+                "year": "2013",
+                "design": "Observational study (N=100 college students: 50 ADHD, 50 controls)",
+                "top_3_findings": [
+                    "College students with ADHD exhibited more off-task behaviors (e.g., looking around, fidgeting) during simulated exams compared to controls, even when performance was similar.",
+                    "Students with ADHD reported higher levels of test anxiety and perceived tests as more threatening.",
+                    "Difficulties with sustained attention, working memory, and managing anxiety likely contribute to challenges like 'exam paralysis' or inefficient test-taking strategies."
+                ],
+                "neurobiological_mechanism": "Executive function deficits (sustained attention, working memory, emotional regulation) linked to fronto-striatal circuits are taxed heavily during high-stakes testing, leading to increased anxiety and potential performance decrements or 'freezing'.",
+                "clinical_takeaway": "Address both cognitive (test-taking strategies, time management) and emotional (anxiety reduction techniques, mindfulness) aspects of test-taking for students with ADHD. Consider accommodations like reduced-distraction environments.",
+                "doi": "10.1177/1087054711434223",
+                "source_link": "https://doi.org/10.1177/1087054711434223"
+            }
+        ],
+        "adhd-grade-shame-performance-inconsistency": [
+            {
+                "citation": "Owens, E. B., Hinshaw, S. P., Lee, S. S., & Lahey, B. B. (2009). Few Girls with ADHD Show Resilient Functioning: A Reanalysis of the MTA Study. *Journal of Attention Disorders, 12*(5), 416–427.",
+                "year": "2009",
+                "design": "Reanalysis of MTA study data focusing on girls (N=140 girls with ADHD from MTA)",
+                "top_3_findings": [
+                    "Girls with ADHD, even when receiving treatment, were significantly more likely to experience academic underachievement and internalizing symptoms (anxiety, depression) compared to a community control group of girls.",
+                    "Performance inconsistency and associated feelings of shame or inadequacy can be particularly pronounced in girls who may mask other ADHD symptoms but still struggle academically.",
+                    "This suggests that 'resilient functioning' (i.e., functioning within normal range despite ADHD) was rare for girls in this large sample, highlighting the persistent impact on academic self-concept."
+                ],
+                "neurobiological_mechanism": "Girls with ADHD may exhibit different neurobiological profiles or face different societal expectations, potentially leading to more internalized distress (shame, anxiety) in response to academic performance inconsistencies related to executive dysfunction.",
+                "clinical_takeaway": "Be particularly attentive to academic struggles and internalizing symptoms in girls with ADHD. Address self-esteem and feelings of shame related to performance, and ensure interventions are tailored to their specific presentation.",
+                "doi": "10.1177/1087054708328344",
+                "source_link": "https://doi.org/10.1177/1087054708328344"
+            }
+        ],
+        "adhd-bad-report-card-trauma-parental-pressure": [
+            {
+                "citation": "Johnston, C., & Mash, E. J. (2001). Families of children with attention-deficit/hyperactivity disorder: Review and recommendations for future research. *Clinical Child and Family Psychology Review, 4*(3), 183–207.",
+                "year": "2001",
+                "design": "Review of family factors in ADHD",
+                "top_3_findings": [
+                    "Parenting children with ADHD is associated with higher levels of parental stress, frustration, and negative parent-child interactions, particularly around academic performance and behavior.",
+                    "Parental reactions to poor academic performance (e.g., criticism, punishment, excessive pressure) can inadvertently exacerbate the child's stress, shame, and negative self-views, potentially creating traumatic associations with school reporting.",
+                    "Positive parenting practices, including realistic expectations, consistent support, and focus on effort over grades, are crucial for mitigating negative outcomes."
+                ],
+                "neurobiological_mechanism": "Children with ADHD may be more sensitive to negative feedback due to emotional dysregulation. High parental pressure can increase the child's stress (HPA axis activation), further impairing executive functions needed for academic success.",
+                "clinical_takeaway": "Educate parents about ADHD and its impact on learning. Promote positive parenting strategies, effective communication, and collaborative problem-solving around academic issues to reduce pressure and prevent school-related trauma.",
+                "doi": "10.1023/A:1017592030434",
+                "source_link": "https://doi.org/10.1023/A:1017592030434"
+            }
+        ],
+        "adhd-hyperfocus-interesting-subjects-avoiding-others": [
+            {
+                "citation": "Hupfeld, K. E., Abagis, T. R., & Shah, P. (2019). Living “in the zone”: hyperfocus in adult ADHD. *Attention Deficit and Hyperactivity Disorders, 11*(2), 191–208.",
+                "year": "2019",
+                "design": "Qualitative study and survey (N=38 adults with ADHD for interviews, N=502 for survey)",
+                "top_3_findings": [
+                    "Adults with ADHD frequently report experiencing hyperfocus, described as an intense, sustained state of concentration on tasks they find highly interesting or engaging.",
+                    "While hyperfocus can lead to high productivity and mastery in specific areas, it is often accompanied by a neglect of other important tasks and responsibilities (e.g., less interesting schoolwork or chores).",
+                    "Hyperfocus is often triggered by interest, novelty, or urgency, and individuals report difficulty disengaging from it, highlighting challenges in attentional regulation and task-switching."
+                ],
+                "neurobiological_mechanism": "Hyperfocus may be related to dopamine dysregulation, where highly stimulating or rewarding activities excessively capture the brain's reward and attention systems, making it difficult for the prefrontal cortex to shift attentional resources to less intrinsically motivating tasks.",
+                "clinical_takeaway": "Help individuals with ADHD understand their hyperfocus patterns. Develop strategies to leverage hyperfocus productively while also implementing systems (e.g., timers, structured breaks, external cues) to manage transitions and ensure attention to less preferred but necessary tasks.",
+                "doi": "10.1007/s12402-018-0272-8",
+                "source_link": "https://doi.org/10.1007/s12402-018-0272-8"
+            }
+        ],
+        "adhd-homework-battles-procrastination-resistance": [
+            {
+                "citation": "Langberg, J. M., Epstein, J. N., Girio-Herrera, E., & Becker, S. P. (2011). The impact of disorganization and time management problems of adolescents with ADHD on academic and family functioning. *Journal of Emotional and Behavioral Disorders, 19*(3), 173-184.",
+                "year": "2011",
+                "design": "Study with adolescents with ADHD (N not specified in abstract, but focused on organizational skills)",
+                "top_3_findings": [
+                    "Adolescents with ADHD experience significant difficulties with organization and time management (OTM), which are key executive functions.",
+                    "These OTM deficits are strongly linked to homework problems, including procrastination, resistance, incomplete assignments, and poor academic performance.",
+                    "OTM challenges also contribute to increased family conflict and parental stress surrounding homework."
+                ],
+                "neurobiological_mechanism": "Deficits in prefrontal cortex functioning impact executive skills like planning, prioritizing, task initiation, sustained attention, and time perception, all of which are crucial for successful homework completion.",
+                "clinical_takeaway": "Interventions targeting organizational skills, time management, and task initiation are essential for addressing homework battles. Parent training in supportive homework strategies can also reduce conflict and improve outcomes.",
+                "doi": "10.1177/1063426610372506",
+                "source_link": "https://doi.org/10.1177/1063426610372506"
+            }
+        ],
+        "adhd-learning-style-clashes-traditional-education": [
+            {
+                "citation": "Zentall, S. S. (1993). Research on the educational implications of attention deficit hyperactivity disorder. *Exceptional Children, 60*(2), 143-153.",
+                "year": "1993",
+                "design": "Review (older but foundational on learning styles)",
+                "top_3_findings": [
+                    "Children with ADHD often exhibit learning characteristics that clash with traditional classroom environments, such as a need for novelty, varied stimulation, and activity.",
+                    "They may perform better with tasks that are brief, highly motivating, involve active responding, and provide immediate feedback.",
+                    "Traditional educational approaches relying heavily on sustained passive attention and rote memorization can be particularly challenging for students with ADHD, leading to underachievement if not adapted."
+                ],
+                "neurobiological_mechanism": "The ADHD brain's need for optimal stimulation levels (related to dopamine function) means that monotonous or low-stimulation learning environments can lead to underarousal, inattention, and restlessness. Executive function deficits make it hard to sustain effort on non-preferred tasks.",
+                "clinical_takeaway": "Educators should incorporate ADHD-friendly teaching strategies: varying instructional methods, allowing movement, providing choices, breaking tasks into smaller chunks, using hands-on activities, and ensuring high interest levels. (Cultural limitation: Most research based on Western education models).",
+                "doi": "10.1177/001440299306000205",
+                "source_link": "https://doi.org/10.1177/001440299306000205"
+            }
+        ],
+        "adhd-negative-experiences-teachers-authority": [
+            {
+                "citation": "Rogers, M. A., Wiener, J., Marton, I., & Tannock, R. (2009). The relations between parent and child-teacher agreement on reports of ADHD symptoms and concurrent child and family adjustment. *Journal of Abnormal Child Psychology, 37*(7), 1021-1033.",
+                "year": "2009",
+                "design": "Study on informant discrepancies (N=104 children with ADHD)",
+                "top_3_findings": [
+                    "Discrepancies often exist between parent and teacher reports of ADHD symptoms, which can impact intervention planning and a child's experience in school.",
+                    "When teachers perceive more severe ADHD symptoms (even if parents don't), it can correlate with increased teacher stress and potentially more negative teacher-student interactions.",
+                    "Negative interactions with teachers, stemming from misunderstanding of ADHD behaviors or lack of appropriate support, can lead to students feeling singled out, criticized, and developing aversion to authority figures in school."
+                ],
+                "neurobiological_mechanism": "ADHD symptoms (impulsivity, inattention, hyperactivity) can be misinterpreted as defiance or lack of effort, leading to negative feedback loops. Emotional dysregulation in ADHD can also make students more sensitive to perceived criticism or unfairness from authority.",
+                "clinical_takeaway": "Foster positive communication and collaboration between parents, teachers, and students. Provide teacher training on ADHD and effective classroom management strategies to create more supportive and understanding school environments, reducing negative experiences.",
+                "doi": "10.1007/s10802-009-9330-y",
+                "source_link": "https://doi.org/10.1007/s10802-009-9330-y"
+            }
+        ],
+        "adhd-navigating-higher-education-college": [
+            {
+                "citation": "DuPaul, G. J., Weyandt, L. L., O'Dell, S. M., & Varejao, M. (2009). College students with ADHD: Current status and future directions. *Journal of Attention Disorders, 13*(3), 234-250.",
+                "year": "2009",
+                "design": "Review article",
+                "top_3_findings": [
+                    "A significant number of college students experience impairing ADHD symptoms, facing challenges in academic performance, executive functioning (time management, organization), social adjustment, and emotional well-being.",
+                    "These students are at higher risk for lower GPAs, course incompletion, and longer time to graduation compared to peers without ADHD.",
+                    "Access to and utilization of support services (disability services, counseling, coaching) and appropriate accommodations are critical for success in higher education."
+                ],
+                "neurobiological_mechanism": "The increased demands for self-regulation, independent learning, and complex executive functions in college environments heavily tax the neurobiological vulnerabilities associated with ADHD, particularly in prefrontal cortex-mediated skills.",
+                "clinical_takeaway": "Higher education institutions should provide robust support services for students with ADHD, including academic accommodations, coaching for executive function skills, and mental health support. Encourage students to proactively seek and utilize these resources.",
+                "doi": "10.1177/1087054709340650",
+                "source_link": "https://doi.org/10.1177/1087054709340650"
+            },
+            {
+                "citation": "Gormley, M. J., Pinho, T. D., Gevert, D. T., & Canino, J. (2021). ADHD in College: A Systematic Review of the Literature. *Journal of Attention Disorders, 25*(13), 1839-1852.",
+                "year": "2021",
+                "design": "Systematic review",
+                "top_3_findings": [
+                    "College students with ADHD continue to face substantial academic and psychosocial challenges, including lower grades, higher rates of academic probation, and more mental health concerns.",
+                    "Interventions focusing on academic skills, executive functioning, and medication management show promise, but more research is needed on effective psychosocial treatments specifically for this population.",
+                    "Co-occurring mental health conditions (anxiety, depression) are common and significantly impact functioning in college students with ADHD."
+                ],
+                "neurobiological_mechanism": "The transition to college involves significant environmental changes and increased executive demands, which can unmask or exacerbate ADHD-related neurobiological challenges in self-regulation and cognitive control.",
+                "clinical_takeaway": "Adopt a comprehensive approach to supporting college students with ADHD, addressing academic skills, executive functions, medication management (if applicable), and comorbid mental health conditions. Promote self-advocacy and access to campus resources.",
+                "doi": "10.1177/1087054720941820",
+                "source_link": "https://doi.org/10.1177/1087054720941820"
+            }
+        ],
+        "adhd-adult-learning-strategies-upskilling-hobbies": [
+            {
+                "citation": "Prevatt, F., & Yelland, S. (2015). An empirical evaluation of ADHD coaching in college students. *Journal of Attention Disorders, 19*(8), 661–671.",
+                "year": "2015",
+                "design": "Study on ADHD coaching for college students (N=88)",
+                "top_3_findings": [
+                    "ADHD coaching, which often focuses on goal setting, planning, organization, and strategy implementation, can be an effective intervention for improving executive functioning and academic performance in college students with ADHD.",
+                    "This approach is applicable to adult learning in general, including upskilling or pursuing complex hobbies, where self-directed learning and sustained effort are required.",
+                    "Coaching helps adults with ADHD externalize executive function demands and develop personalized strategies to manage their learning processes."
+                ],
+                "neurobiological_mechanism": "Coaching provides external scaffolding for prefrontal cortex-mediated executive functions. By breaking down tasks, setting realistic goals, and providing accountability, it helps compensate for internal regulation difficulties associated with ADHD neurobiology.",
+                "clinical_takeaway": "Consider ADHD coaching as a valuable support for adults with ADHD engaging in new learning endeavors (upskilling, hobbies, further education). Focus on practical strategies for planning, organization, time management, and maintaining motivation.",
+                "doi": "10.1177/1087054713500023",
+                "source_link": "https://doi.org/10.1177/1087054713500023"
+            }
+        ],
+        "adhd-advocating-accommodations-educational-settings": [
+            {
+                "citation": "Harrison, A. G., Armstrong, I. T., & Parker, K. C. H. (2019). Self-Advocacy and Perceptions of Accommodations Among Postsecondary Students With ADHD. *Journal of Postsecondary Education and Disability, 32*(1), 21-37.",
+                "year": "2019",
+                "design": "Survey study (N=125 postsecondary students with ADHD)",
+                "top_3_findings": [
+                    "Postsecondary students with ADHD who engage in greater self-advocacy behaviors (e.g., disclosing disability, requesting accommodations, communicating needs to professors) tend to have more positive perceptions of their accommodations.",
+                    "However, many students face barriers to self-advocacy, including stigma, lack of awareness of available supports, or uncertainty about how to request accommodations effectively.",
+                    "Effective self-advocacy is linked to better utilization of supports and potentially improved academic outcomes and well-being."
+                ],
+                "neurobiological_mechanism": "Self-advocacy requires executive functions such as planning, organization (of documentation), problem-solving, and effective communication, which can be challenging for individuals with ADHD. Successful advocacy can reduce stress and cognitive load, supporting overall brain function.",
+                "clinical_takeaway": "Teach and support self-advocacy skills for individuals with ADHD across all educational levels. Provide clear information about rights and available accommodations. Foster an environment where students feel comfortable disclosing their needs.",
+                "doi": null,
+                "source_link": "https://files.eric.ed.gov/fulltext/EJ1218856.pdf"
+            }
+        ]
     }
 }

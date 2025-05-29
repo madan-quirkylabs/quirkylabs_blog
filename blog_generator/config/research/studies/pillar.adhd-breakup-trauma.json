@@ -4,7 +4,7 @@
     "studies": [
         {
             "citation": "Dodson, W. (n.d.). How Rejection Sensitivity Dysphoria Amplifies Breakups. ADDitude Magazine.",
-            "year": "N/A",
+            "year": null,
             "design": "expert commentary / conceptual article",
             "top_3_findings": [
                 "Rejection Sensitive Dysphoria (RSD) causes extreme, unbearable emotional pain following perceived rejection, making breakups exceptionally difficult.",
@@ -14,7 +14,8 @@
             "neurobiological_mechanism": "Hypothesized link to hyperactive limbic (amygdala) response and underactive prefrontal regulation, potentially involving altered opioid/catecholamine pathways, magnifying the pain of social bond disruption.",
             "clinical_takeaway": "Validate the extreme pain of RSD in breakups; consider alpha-agonists and therapy (DBT/ACT) to manage emotional intensity and build resilience.",
             "doi": null,
-            "source_link": "https://www.additudemag.com/rejection-sensitive-dysphoria-and-adhd/"
+            "source_link": "https://www.additudemag.com/rejection-sensitive-dysphoria-and-adhd/",
+            "relevance_to_adhd": null
         },
         {
             "citation": "Schrevel, S. J. C., et al. (2016). Emotional Regulation and Rumination as Correlates of Depressive Symptoms in Adults With ADHD. Journal of Attention Disorders, 20(1), 58–67.",
@@ -28,7 +29,8 @@
             "neurobiological_mechanism": "Deficits in fronto-limbic networks impair the ability to disengage from negative thoughts (rumination) and regulate intense emotions following relationship dissolution.",
             "clinical_takeaway": "Target rumination and emotional regulation skills (via CBT/DBT/Mindfulness) to mitigate depressive symptoms and break obsessive cycles after a breakup.",
             "doi": "10.1177/1087054713479632",
-            "source_link": "https://doi.org/10.1177/1087054713479632"
+            "source_link": "https://doi.org/10.1177/1087054713479632",
+            "relevance_to_adhd": null
         },
         {
             "citation": "Kross, E., et al. (2011). Social rejection shares somatosensory representations with physical pain. Proceedings of the National Academy of Sciences, 108(15), 6270-6275.",
@@ -42,11 +44,12 @@
             "neurobiological_mechanism": "Shared neural pathways for physical and social pain mean that the emotional distress of a breakup can trigger genuine physical-like pain sensations, validating the 'trauma' and 'withdrawal' feelings.",
             "clinical_takeaway": "Acknowledge the physical reality of emotional pain in patients; use body-based therapies (somatic experiencing, yoga) alongside talk therapy to address breakup trauma.",
             "doi": "10.1073/pnas.1102693108",
-            "source_link": "https://doi.org/10.1073/pnas.1102693108"
+            "source_link": "https://doi.org/10.1073/pnas.1102693108",
+            "relevance_to_adhd": null
         },
         {
             "citation": "ADDitude Editors. (n.d.). How to Get Over a Breakup: Broken ADHD Hearts. ADDitude Magazine.",
-            "year": "N/A",
+            "year": null,
             "design": "expert / community insights article",
             "top_3_findings": [
                 "ADHD prolongs and intensifies breakup pain due to RSD, rumination, and emotional dysregulation.",
@@ -56,7 +59,8 @@
             "neurobiological_mechanism": "Dopamine dysregulation can drive impulsive actions (seeking novelty/soothing via apps/contact), while executive function deficits (working memory, inhibition) make 'no contact' and thought-stopping difficult.",
             "clinical_takeaway": "Provide structured coping mechanisms, help clients establish external boundaries (blocking numbers, deleting apps), and focus on dopamine-boosting, healthy activities.",
             "doi": null,
-            "source_link": "https://www.additudemag.com/how-to-get-over-a-breakup-adhd/"
+            "source_link": "https://www.additudemag.com/how-to-get-over-a-breakup-adhd/",
+            "relevance_to_adhd": null
         },
         {
             "citation": "ADHD Specialist. (2025). ADHD and Phone Addiction: 11 Ways to Beat Distraction. ADHD Specialist Blog.",
@@ -70,7 +74,8 @@
             "neurobiological_mechanism": "The 'ping' of a notification or the 'maybe' of a message triggers dopamine hits on a variable reinforcement schedule, the most addictive kind, overriding impaired impulse control circuits in ADHD.",
             "clinical_takeaway": "Implement digital hygiene strategies: turn off non-essential notifications, set phone-free times/zones, use blocker apps, and find alternative dopamine sources.",
             "doi": null,
-            "source_link": "https://adhdspecialist.com/post/adhd-and-phone-addiction"
+            "source_link": "https://adhdspecialist.com/post/adhd-and-phone-addiction",
+            "relevance_to_adhd": null
         },
         {
             "citation": "Orlov, M. (2010). The ADHD Effect on Marriage. Specialty Press Inc.",
@@ -84,7 +89,8 @@
             "neurobiological_mechanism": "Executive function deficits (planning, organization, emotional regulation) create the foundation for these negative cycles; psychoeducation helps reframe these as neurobiological, not intentional.",
             "clinical_takeaway": "Encourage psychoeducation for both partners; utilize couple's therapy/coaching focused on ADHD strategies, communication, and shared systems/support.",
             "doi": null,
-            "source_link": "https://www.amazon.com/ADHD-Effect-Marriage-Understand-Relationship/dp/1886941971"
+            "source_link": "https://www.amazon.com/ADHD-Effect-Marriage-Understand-Relationship/dp/1886941971",
+            "relevance_to_adhd": null
         },
         {
             "citation": "Magdi, M., et al. (2025). Sex Differences in the Comorbidity between Attention Deficit-Hyperactivity Disorder and Posttraumatic Stress Disorder. medRxiv [Preprint].",
@@ -98,7 +104,8 @@
             "neurobiological_mechanism": "Overlapping vulnerabilities in neurobiology (amygdala reactivity, PFC dysfunction, HPA axis dysregulation) predispose individuals with ADHD to develop PTSD-like symptoms after severe stressors like breakups.",
             "clinical_takeaway": "Screen for trauma symptoms in ADHD clients post-breakup; consider trauma-informed approaches (EMDR, TF-CBT) alongside standard ADHD treatment.",
             "doi": "10.1101/2025.01.10.25320323",
-            "source_link": "https://doi.org/10.1101/2025.01.10.25320323"
+            "source_link": "https://doi.org/10.1101/2025.01.10.25320323",
+            "relevance_to_adhd": null
         },
         {
             "citation": "Knouse, L. E., Safren, S. A., & Sprich, S. E. (2015). CBT for adult ADHD. In S. G. Hofmann (Ed.), The Wiley handbook of cognitive behavioral therapy (Vol. 1, pp. 493–513). Wiley-Blackwell.",
@@ -112,7 +119,8 @@
             "neurobiological_mechanism": "CBT aims to retrain neural pathways, strengthening prefrontal cortex control over emotional and impulsive limbic responses. It helps individuals develop new cognitive and behavioral habits.",
             "clinical_takeaway": "CBT, especially adapted for ADHD, can be a cornerstone intervention for managing emotional and behavioral responses to breakup trauma, aiding in impulse control and fostering healthier thought patterns.",
             "doi": null,
-            "source_link": "https://www.wiley.com/en-us/The+Wiley+Handbook+of+Cognitive+Behavioral+Therapy,+2+Volume+Set-p-9781118501257"
+            "source_link": "https://www.wiley.com/en-us/The+Wiley+Handbook+of+Cognitive+Behavioral+Therapy,+2+Volume+Set-p-9781118501257",
+            "relevance_to_adhd": null
         },
         {
             "citation": "Groenman, A. P., Oosterlaan, J., & Rommelse, N. N. J. (2022). Sex differences in ADHD symptoms, diagnoses, and comorbidities: A systematic review and meta-analysis. Journal of Attention Disorders, 26(1), 3-19.",
@@ -126,7 +134,8 @@
             "neurobiological_mechanism": "Potential neurobiological differences in how ADHD manifests in males versus females, possibly related to hormonal influences or neural circuitry variations impacting emotional processing and executive functions.",
             "clinical_takeaway": "Be aware of gender differences in ADHD presentation; emotional support and coping strategies should be particularly emphasized for women with ADHD experiencing breakups, as they may face more internalizing distress.",
             "doi": "10.1177/10870547211029279",
-            "source_link": "https://doi.org/10.1177/10870547211029279"
+            "source_link": "https://doi.org/10.1177/10870547211029279",
+            "relevance_to_adhd": null
         },
         {
             "citation": "Veenstra, L., de Jong, P. J., & van den Hout, M. A. (2010). The effects of attentional training on rumination and executive control in dysphoria. Cognition and Emotion, 24(7), 1106-1116.",
@@ -140,7 +149,8 @@
             "neurobiological_mechanism": "Attentional training may enhance the efficiency of executive control networks (e.g., dorsal anterior cingulate cortex, prefrontal cortex), enabling more effective disengagement from limbic-driven negative thought loops.",
             "clinical_takeaway": "Incorporate mindfulness and attentional control exercises into therapy for individuals with ADHD struggling with post-breakup rumination and obsessive thinking.",
             "doi": "10.1080/02699930903330368",
-            "source_link": "https://doi.org/10.1080/02699930903330368"
+            "source_link": "https://doi.org/10.1080/02699930903330368",
+            "relevance_to_adhd": null
         },
         {
             "citation": "Shaw, J. (2018). Love and limerence: The neuroscience of obsessive love. Psychology Today.",
@@ -154,7 +164,8 @@
             "neurobiological_mechanism": "Activation of dopamine-rich reward pathways and deactivation of prefrontal regions (impulse control) contribute to the obsessive thoughts and craving for the former partner, mimicking substance withdrawal.",
             "clinical_takeaway": "Frame breakup obsession as a neurobiological 'withdrawal' for ADHD clients; implement strategies similar to addiction recovery (e.g., 'no contact' as abstinence, finding healthy dopamine sources).",
             "doi": null,
-            "source_link": "https://www.psychologytoday.com/us/blog/the-body-knows/201809/love-and-limerence-the-neuroscience-obsessive-love"
+            "source_link": "https://www.psychologytoday.com/us/blog/the-body-knows/201809/love-and-limerence-the-neuroscience-obsessive-love",
+            "relevance_to_adhd": null
         },
         {
             "citation": "Frank, H., & De Pasquale, L. (2020). The role of impulsivity in romantic relationship quality among young adults. Journal of Research in Personality, 85, 103904.",
@@ -168,7 +179,8 @@
             "neurobiological_mechanism": "Deficits in prefrontal cortex development and function, particularly in areas related to inhibitory control and future-oriented thinking, underpin impulsive behaviors in ADHD, leading to relationship difficulties and maladaptive breakup responses.",
             "clinical_takeaway": "Address impulsivity directly in therapy for ADHD clients in relationships; focus on delay gratification strategies, emotion regulation, and consequences-based decision-making to prevent sabotage and promote healthier post-breakup coping.",
             "doi": "10.1016/j.jrp.2020.103904",
-            "source_link": "https://doi.org/10.1016/j.jrp.2020.103904"
+            "source_link": "https://doi.org/10.1016/j.jrp.2020.103904",
+            "relevance_to_adhd": null
         },
         {
             "citation": "Eilam, A., et al. (2023). Social Media Addiction and ADHD: A Systematic Review. Journal of Clinical Psychology, 79(1), 101-118.",
@@ -182,7 +194,8 @@
             "neurobiological_mechanism": "The variable reward schedule of social media (notifications, likes, ex-partner updates) taps into the dopamine reward system, providing intense, albeit transient, stimulation that is particularly reinforcing for individuals with ADHD who have lower baseline dopamine levels.",
             "clinical_takeaway": "Educate clients on the addictive nature of social media post-breakup; implement digital detox strategies, app blockers, and encourage engagement in real-world activities to manage 'text-checking addiction' and promote healthy detachment.",
             "doi": "10.1002/jclp.23432",
-            "source_link": "https://doi.org/10.1002/jclp.23432"
+            "source_link": "https://doi.org/10.1002/jclp.23432",
+            "relevance_to_adhd": null
         },
         {
             "citation": "Hinshaw, S. P., & Scheffler, R. M. (2014). The ADHD explosion: Myths, medication, money, and today's children. Oxford University Press.",
@@ -196,7 +209,8 @@
             "neurobiological_mechanism": "While not directly neurobiological, the book addresses how the neurobiological differences in ADHD (e.g., executive function deficits, emotional dysregulation) manifest as behavioral patterns that can strain relationships, making transparent communication about these mechanisms crucial.",
             "clinical_takeaway": "Advocate for widespread psychoeducation about adult ADHD; encourage open and honest communication about ADHD's impact in relationships to foster empathy and prevent misunderstandings that lead to trauma or difficult breakups.",
             "doi": null,
-            "source_link": "https://global.oup.com/academic/product/the-adhd-explosion-9780199313233"
+            "source_link": "https://global.oup.com/academic/product/the-adhd-explosion-9780199313233",
+            "relevance_to_adhd": null
         },
         {
             "citation": "Lampe, H., & Eisenbeck, N. (2019). Self-esteem in adults with ADHD: A systematic review. Journal of Attention Disorders, 23(1), 3-15.",
@@ -210,7 +224,8 @@
             "neurobiological_mechanism": "Chronic experiences of failure and criticism (often linked to ADHD symptoms) can negatively impact brain circuits associated with self-perception and reward, leading to reduced self-esteem. Rebuilding it involves strengthening these circuits through positive experiences and cognitive reframing.",
             "clinical_takeaway": "Prioritize self-esteem building as a core component of post-breakup therapy for ADHD clients; utilize CBT, mindfulness, and behavioral activation to challenge negative self-talk and foster a more positive self-image.",
             "doi": "10.1177/1087054716654767",
-            "source_link": "https://doi.org/10.1177/1087054716654767"
+            "source_link": "https://doi.org/10.1177/1087054716654767",
+            "relevance_to_adhd": null
         },
         {
             "citation": "Philipsen, A. (2006). Psychotherapy for adults with ADHD: A review of current treatments. Attention Deficit and Hyperactivity Disorders, 6(1), 1-13.",
@@ -224,7 +239,8 @@
             "neurobiological_mechanism": "Psychotherapy aims to modulate the activity and connectivity of brain regions involved in emotion regulation (limbic system), impulse control (prefrontal cortex), and attention, helping individuals develop compensatory strategies and healthier neural pathways.",
             "clinical_takeaway": "Integrate evidence-based psychotherapeutic techniques (e.g., DBT, CBT, ACT) that specifically target emotional dysregulation, impulsivity, and self-esteem issues to support ADHD clients through breakup trauma.",
             "doi": null,
-            "source_link": "https://link.springer.com/article/10.1007/s12402-006-0001-4"
+            "source_link": "https://link.springer.com/article/10.1007/s12402-006-0001-4",
+            "relevance_to_adhd": null
         },
         {
             "citation": "Skinner, M. O., et al. (2020). Attachment insecurity and relationship problems in adults with ADHD. Journal of Attention Disorders, 24(1), 58-69.",
@@ -238,7 +254,8 @@
             "neurobiological_mechanism": "Attachment styles are shaped by early experiences that influence neural systems involved in social bonding and threat perception. ADHD symptoms can disrupt these early experiences, leading to insecure attachment and hyper-reactivity in relationships, affecting stress responses during breakups.",
             "clinical_takeaway": "Assess attachment styles in ADHD clients experiencing breakup trauma; integrate attachment-informed therapy to address core fears of abandonment and rejection, fostering more secure internal working models for healthier coping.",
             "doi": "10.1177/1087054716674681",
-            "source_link": "https://doi.org/10.1177/1087054716674681"
+            "source_link": "https://doi.org/10.1177/1087054716674681",
+            "relevance_to_adhd": null
         },
         {
             "citation": "Brailovskaia, J., & Margraf, J. (2018). The relationship between smartphone addiction, stress, and mental health in German university students. Psychosocial Medicine, 15, Doc10.",
@@ -252,7 +269,8 @@
             "neurobiological_mechanism": "Excessive smartphone use can disrupt dopamine reward pathways and impact sleep, leading to increased stress and emotional dysregulation. For ADHD individuals, this effect is amplified due to pre-existing dysregulation.",
             "clinical_takeaway": "Emphasize digital well-being strategies as part of post-breakup recovery plans; reducing smartphone addiction can directly alleviate anxiety and improve emotional regulation, fostering a more conducive environment for healing.",
             "doi": "10.3205/psm000155",
-            "source_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6013322/"
+            "source_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6013322/",
+            "relevance_to_adhd": null
         },
         {
             "citation": "Pan, M. H., & Yeh, Y. C. (2020). Self-compassion and mental health in college students with ADHD: The mediating role of emotion regulation. Journal of Attention Disorders, 24(11), 1605-1616.",
@@ -266,7 +284,8 @@
             "neurobiological_mechanism": "Self-compassion may activate neural circuits associated with self-soothing and positive emotional processing, counteracting the amygdala's hyper-reactivity and strengthening prefrontal regulation, leading to improved emotional regulation and resilience against rumination.",
             "clinical_takeaway": "Integrate self-compassion practices (e.g., mindful self-compassion exercises) into therapeutic interventions for ADHD individuals recovering from breakups to build resilience, improve self-esteem, and manage emotional pain.",
             "doi": "10.1177/1087054717750849",
-            "source_link": "https://doi.org/10.1177/1087054717750849"
+            "source_link": "https://doi.org/10.1177/1087054717750849",
+            "relevance_to_adhd": null
         }
     ],
     "common_comorbidities": [
@@ -303,7 +322,8 @@
                 "neurobiological_mechanism": "Deficits in fronto-limbic networks impair the ability to disengage from negative thoughts (rumination) and regulate intense emotions following relationship dissolution.",
                 "clinical_takeaway": "Target rumination and emotional regulation skills (via CBT/DBT/Mindfulness) to mitigate depressive symptoms and break obsessive cycles after a breakup.",
                 "doi": "10.1177/1087054713479632",
-                "source_link": "https://doi.org/10.1177/1087054713479632"
+                "source_link": "https://doi.org/10.1177/1087054713479632",
+                "relevance_to_adhd": null
             },
             {
                 "citation": "Shaw, J. (2018). Love and limerence: The neuroscience of obsessive love. Psychology Today.",
@@ -317,7 +337,8 @@
                 "neurobiological_mechanism": "Activation of dopamine-rich reward pathways and deactivation of prefrontal regions (impulse control) contribute to the obsessive thoughts and craving for the former partner, mimicking substance withdrawal.",
                 "clinical_takeaway": "Frame breakup obsession as a neurobiological 'withdrawal' for ADHD clients; implement strategies similar to addiction recovery (e.g., 'no contact' as abstinence, finding healthy dopamine sources).",
                 "doi": null,
-                "source_link": "https://www.psychologytoday.com/us/blog/the-body-knows/201809/love-and-limerence-the-neuroscience-obsessive-love"
+                "source_link": "https://www.psychologytoday.com/us/blog/the-body-knows/201809/love-and-limerence-the-neuroscience-obsessive-love",
+                "relevance_to_adhd": null
             },
             {
                 "citation": "Skinner, M. O., et al. (2020). Attachment insecurity and relationship problems in adults with ADHD. Journal of Attention Disorders, 24(1), 58-69.",
@@ -331,13 +352,14 @@
                 "neurobiological_mechanism": "Attachment styles are shaped by early experiences that influence neural systems involved in social bonding and threat perception. ADHD symptoms can disrupt these early experiences, leading to insecure attachment and hyper-reactivity in relationships, affecting stress responses during breakups.",
                 "clinical_takeaway": "Assess attachment styles in ADHD clients experiencing breakup trauma; integrate attachment-informed therapy to address core fears of abandonment and rejection, fostering more secure internal working models for healthier coping.",
                 "doi": "10.1177/1087054716674681",
-                "source_link": "https://doi.org/10.1177/1087054716674681"
+                "source_link": "https://doi.org/10.1177/1087054716674681",
+                "relevance_to_adhd": null
             }
         ],
         "adhd-why-no-contact-is-extra-hard": [
             {
                 "citation": "ADDitude Editors. (n.d.). How to Get Over a Breakup: Broken ADHD Hearts. ADDitude Magazine.",
-                "year": "N/A",
+                "year": null,
                 "design": "expert / community insights article",
                 "top_3_findings": [
                     "ADHD prolongs and intensifies breakup pain due to RSD, rumination, and emotional dysregulation.",
@@ -347,7 +369,8 @@
                 "neurobiological_mechanism": "Dopamine dysregulation can drive impulsive actions (seeking novelty/soothing via apps/contact), while executive function deficits (working memory, inhibition) make 'no contact' and thought-stopping difficult.",
                 "clinical_takeaway": "Provide structured coping mechanisms, help clients establish external boundaries (blocking numbers, deleting apps), and focus on dopamine-boosting, healthy activities.",
                 "doi": null,
-                "source_link": "https://www.additudemag.com/how-to-get-over-a-breakup-adhd/"
+                "source_link": "https://www.additudemag.com/how-to-get-over-a-breakup-adhd/",
+                "relevance_to_adhd": null
             },
             {
                 "citation": "ADHD Specialist. (2025). ADHD and Phone Addiction: 11 Ways to Beat Distraction. ADHD Specialist Blog.",
@@ -361,7 +384,8 @@
                 "neurobiological_mechanism": "The 'ping' of a notification or the 'maybe' of a message triggers dopamine hits on a variable reinforcement schedule, the most addictive kind, overriding impaired impulse control circuits in ADHD.",
                 "clinical_takeaway": "Implement digital hygiene strategies: turn off non-essential notifications, set phone-free times/zones, use blocker apps, and find alternative dopamine sources.",
                 "doi": null,
-                "source_link": "https://adhdspecialist.com/post/adhd-and-phone-addiction"
+                "source_link": "https://adhdspecialist.com/post/adhd-and-phone-addiction",
+                "relevance_to_adhd": null
             },
             {
                 "citation": "Skinner, M. O., et al. (2020). Attachment insecurity and relationship problems in adults with ADHD. Journal of Attention Disorders, 24(1), 58-69.",
@@ -375,13 +399,14 @@
                 "neurobiological_mechanism": "Attachment styles are shaped by early experiences that influence neural systems involved in social bonding and threat perception. ADHD symptoms can disrupt these early experiences, leading to insecure attachment and hyper-reactivity in relationships, affecting stress responses during breakups.",
                 "clinical_takeaway": "Assess attachment styles in ADHD clients experiencing breakup trauma; integrate attachment-informed therapy to address core fears of abandonment and rejection, fostering more secure internal working models for healthier coping.",
                 "doi": "10.1177/1087054716674681",
-                "source_link": "https://doi.org/10.1177/1087054716674681"
+                "source_link": "https://doi.org/10.1177/1087054716674681",
+                "relevance_to_adhd": null
             }
         ],
         "adhd-rsd-breakup-meltdowns-intense-pain": [
             {
                 "citation": "Dodson, W. (n.d.). How Rejection Sensitivity Dysphoria Amplifies Breakups. ADDitude Magazine.",
-                "year": "N/A",
+                "year": null,
                 "design": "expert commentary / conceptual article",
                 "top_3_findings": [
                     "Rejection Sensitive Dysphoria (RSD) causes extreme, unbearable emotional pain following perceived rejection, making breakups exceptionally difficult.",
@@ -391,7 +416,8 @@
                 "neurobiological_mechanism": "Hypothesized link to hyperactive limbic (amygdala) response and underactive prefrontal regulation, potentially involving altered opioid/catecholamine pathways, magnifying the pain of social bond disruption.",
                 "clinical_takeaway": "Validate the extreme pain of RSD in breakups; consider alpha-agonists and therapy (DBT/ACT) to manage emotional intensity and build resilience.",
                 "doi": null,
-                "source_link": "https://www.additudemag.com/rejection-sensitive-dysphoria-and-adhd/"
+                "source_link": "https://www.additudemag.com/rejection-sensitive-dysphoria-and-adhd/",
+                "relevance_to_adhd": null
             },
             {
                 "citation": "Kross, E., et al. (2011). Social rejection shares somatosensory representations with physical pain. Proceedings of the National Academy of Sciences, 108(15), 6270-6275.",
@@ -405,7 +431,8 @@
                 "neurobiological_mechanism": "Shared neural pathways for physical and social pain mean that the emotional distress of a breakup can trigger genuine physical-like pain sensations, validating the 'trauma' and 'withdrawal' feelings.",
                 "clinical_takeaway": "Acknowledge the physical reality of emotional pain in patients; use body-based therapies (somatic experiencing, yoga) alongside talk therapy to address breakup trauma.",
                 "doi": "10.1073/pnas.1102693108",
-                "source_link": "https://doi.org/10.1073/pnas.1102693108"
+                "source_link": "https://doi.org/10.1073/pnas.1102693108",
+                "relevance_to_adhd": null
             },
             {
                 "citation": "Magdi, M., et al. (2025). Sex Differences in the Comorbidity between Attention Deficit-Hyperactivity Disorder and Posttraumatic Stress Disorder. medRxiv [Preprint].",
@@ -419,7 +446,8 @@
                 "neurobiological_mechanism": "Overlapping vulnerabilities in neurobiology (amygdala reactivity, PFC dysfunction, HPA axis dysregulation) predispose individuals with ADHD to develop PTSD-like symptoms after severe stressors like breakups.",
                 "clinical_takeaway": "Screen for trauma symptoms in ADHD clients post-breakup; consider trauma-informed approaches (EMDR, TF-CBT) alongside standard ADHD treatment.",
                 "doi": "10.1101/2025.01.10.25320323",
-                "source_link": "https://doi.org/10.1101/2025.01.10.25320323"
+                "source_link": "https://doi.org/10.1101/2025.01.10.25320323",
+                "relevance_to_adhd": null
             }
         ],
         "adhd-relationship-sabotage-confessions-regret": [
@@ -435,7 +463,8 @@
                 "neurobiological_mechanism": "Executive function deficits (planning, organization, emotional regulation) create the foundation for these negative cycles; psychoeducation helps reframe these as neurobiological, not intentional.",
                 "clinical_takeaway": "Encourage psychoeducation for both partners; utilize couple's therapy/coaching focused on ADHD strategies, communication, and shared systems/support.",
                 "doi": null,
-                "source_link": "https://www.amazon.com/ADHD-Effect-Marriage-Understand-Relationship/dp/1886941971"
+                "source_link": "https://www.amazon.com/ADHD-Effect-Marriage-Understand-Relationship/dp/1886941971",
+                "relevance_to_adhd": null
             },
             {
                 "citation": "Frank, H., & De Pasquale, L. (2020). The role of impulsivity in romantic relationship quality among young adults. Journal of Research in Personality, 85, 103904.",
@@ -449,13 +478,14 @@
                 "neurobiological_mechanism": "Deficits in prefrontal cortex development and function, particularly in areas related to inhibitory control and future-oriented thinking, underpin impulsive behaviors in ADHD, leading to relationship difficulties and maladaptive breakup responses.",
                 "clinical_takeaway": "Address impulsivity directly in therapy for ADHD clients in relationships; focus on delay gratification strategies, emotion regulation, and consequences-based decision-making to prevent sabotage and promote healthier post-breakup coping.",
                 "doi": "10.1016/j.jrp.2020.103904",
-                "source_link": "https://doi.org/10.1016/j.jrp.2020.103904"
+                "source_link": "https://doi.org/10.1016/j.jrp.2020.103904",
+                "relevance_to_adhd": null
             }
         ],
         "adhd-breakup-healing-timeline-why-it-takes-longer": [
             {
                 "citation": "Dodson, W. (n.d.). How Rejection Sensitivity Dysphoria Amplifies Breakups. ADDitude Magazine.",
-                "year": "N/A",
+                "year": null,
                 "design": "expert commentary / conceptual article",
                 "top_3_findings": [
                     "Rejection Sensitive Dysphoria (RSD) causes extreme, unbearable emotional pain following perceived rejection, making breakups exceptionally difficult.",
@@ -465,11 +495,12 @@
                 "neurobiological_mechanism": "Hypothesized link to hyperactive limbic (amygdala) response and underactive prefrontal regulation, potentially involving altered opioid/catecholamine pathways, magnifying the pain of social bond disruption.",
                 "clinical_takeaway": "Validate the extreme pain of RSD in breakups; consider alpha-agonists and therapy (DBT/ACT) to manage emotional intensity and build resilience.",
                 "doi": null,
-                "source_link": "https://www.additudemag.com/rejection-sensitive-dysphoria-and-adhd/"
+                "source_link": "https://www.additudemag.com/rejection-sensitive-dysphoria-and-adhd/",
+                "relevance_to_adhd": null
             },
             {
                 "citation": "ADDitude Editors. (n.d.). How to Get Over a Breakup: Broken ADHD Hearts. ADDitude Magazine.",
-                "year": "N/A",
+                "year": null,
                 "design": "expert / community insights article",
                 "top_3_findings": [
                     "ADHD prolongs and intensifies breakup pain due to RSD, rumination, and emotional dysregulation.",
@@ -479,7 +510,8 @@
                 "neurobiological_mechanism": "Dopamine dysregulation can drive impulsive actions (seeking novelty/soothing via apps/contact), while executive function deficits (working memory, inhibition) make 'no contact' and thought-stopping difficult.",
                 "clinical_takeaway": "Provide structured coping mechanisms, help clients establish external boundaries (blocking numbers, deleting apps), and focus on dopamine-boosting, healthy activities.",
                 "doi": null,
-                "source_link": "https://www.additudemag.com/how-to-get-over-a-breakup-adhd/"
+                "source_link": "https://www.additudemag.com/how-to-get-over-a-breakup-adhd/",
+                "relevance_to_adhd": null
             },
             {
                 "citation": "Eilam, A., et al. (2023). Social Media Addiction and ADHD: A Systematic Review. Journal of Clinical Psychology, 79(1), 101-118.",
@@ -493,13 +525,14 @@
                 "neurobiological_mechanism": "The variable reward schedule of social media (notifications, likes, ex-partner updates) taps into the dopamine reward system, providing intense, albeit transient, stimulation that is particularly reinforcing for individuals with ADHD who have lower baseline dopamine levels.",
                 "clinical_takeaway": "Educate clients on the addictive nature of social media post-breakup; implement digital detox strategies, app blockers, and encourage engagement in real-world activities to manage 'text-checking addiction' and promote healthy detachment.",
                 "doi": "10.1002/jclp.23432",
-                "source_link": "https://doi.org/10.1002/jclp.23432"
+                "source_link": "https://doi.org/10.1002/jclp.23432",
+                "relevance_to_adhd": null
             }
         ],
         "adhd-dating-app-regret-impulsive-rebounding": [
             {
                 "citation": "ADDitude Editors. (n.d.). How to Get Over a Breakup: Broken ADHD Hearts. ADDitude Magazine.",
-                "year": "N/A",
+                "year": null,
                 "design": "expert / community insights article",
                 "top_3_findings": [
                     "ADHD prolongs and intensifies breakup pain due to RSD, rumination, and emotional dysregulation.",
@@ -509,7 +542,8 @@
                 "neurobiological_mechanism": "Dopamine dysregulation can drive impulsive actions (seeking novelty/soothing via apps/contact), while executive function deficits (working memory, inhibition) make 'no contact' and thought-stopping difficult.",
                 "clinical_takeaway": "Provide structured coping mechanisms, help clients establish external boundaries (blocking numbers, deleting apps), and focus on dopamine-boosting, healthy activities.",
                 "doi": null,
-                "source_link": "https://www.additudemag.com/how-to-get-over-a-breakup-adhd/"
+                "source_link": "https://www.additudemag.com/how-to-get-over-a-breakup-adhd/",
+                "relevance_to_adhd": null
             },
             {
                 "citation": "Frank, H., & De Pasquale, L. (2020). The role of impulsivity in romantic relationship quality among young adults. Journal of Research in Personality, 85, 103904.",
@@ -523,7 +557,8 @@
                 "neurobiological_mechanism": "Deficits in prefrontal cortex development and function, particularly in areas related to inhibitory control and future-oriented thinking, underpin impulsive behaviors in ADHD, leading to relationship difficulties and maladaptive breakup responses.",
                 "clinical_takeaway": "Address impulsivity directly in therapy for ADHD clients in relationships; focus on delay gratification strategies, emotion regulation, and consequences-based decision-making to prevent sabotage and promote healthier post-breakup coping.",
                 "doi": "10.1016/j.jrp.2020.103904",
-                "source_link": "https://doi.org/10.1016/j.jrp.2020.103904"
+                "source_link": "https://doi.org/10.1016/j.jrp.2020.103904",
+                "relevance_to_adhd": null
             },
             {
                 "citation": "Skinner, M. O., et al. (2020). Attachment insecurity and relationship problems in adults with ADHD. Journal of Attention Disorders, 24(1), 58-69.",
@@ -532,12 +567,13 @@
                 "top_3_findings": [
                     "Adults with ADHD exhibit higher levels of insecure attachment styles (anxious and avoidant) compared to neurotypical controls.",
                     "Insecure attachment, combined with ADHD symptoms, can exacerbate breakup trauma by intensifying abandonment fears, promoting obsessive thoughts, and complicating the ability to form healthy new relationships.",
-                    "This dynamic directly influences behaviors like 'no contact' struggles and 'impulsive rebounding'."
+                    "This dynamic directly_influences behaviors like 'no contact' struggles and 'impulsive rebounding'."
                 ],
                 "neurobiological_mechanism": "Attachment styles are shaped by early experiences that influence neural systems involved in social bonding and threat perception. ADHD symptoms can disrupt these early experiences, leading to insecure attachment and hyper-reactivity in relationships, affecting stress responses during breakups.",
                 "clinical_takeaway": "Assess attachment styles in ADHD clients experiencing breakup trauma; integrate attachment-informed therapy to address core fears of abandonment and rejection, fostering more secure internal working models for healthier coping.",
                 "doi": "10.1177/1087054716674681",
-                "source_link": "https://doi.org/10.1177/1087054716674681"
+                "source_link": "https://doi.org/10.1177/1087054716674681",
+                "relevance_to_adhd": null
             }
         ],
         "adhd-explaining-adhd-impact-ex-partners-new-ones": [
@@ -553,7 +589,8 @@
                 "neurobiological_mechanism": "Executive function deficits (planning, organization, emotional regulation) create the foundation for these negative cycles; psychoeducation helps reframe these as neurobiological, not intentional.",
                 "clinical_takeaway": "Encourage psychoeducation for both partners; utilize couple's therapy/coaching focused on ADHD strategies, communication, and shared systems/support.",
                 "doi": null,
-                "source_link": "https://www.amazon.com/ADHD-Effect-Marriage-Understand-Relationship/dp/1886941971"
+                "source_link": "https://www.amazon.com/ADHD-Effect-Marriage-Understand-Relationship/dp/1886941971",
+                "relevance_to_adhd": null
             },
             {
                 "citation": "Hinshaw, S. P., & Scheffler, R. M. (2014). The ADHD explosion: Myths, medication, money, and today's children. Oxford University Press.",
@@ -567,7 +604,8 @@
                 "neurobiological_mechanism": "While not directly neurobiological, the book addresses how the neurobiological differences in ADHD (e.g., executive function deficits, emotional dysregulation) manifest as behavioral patterns that can strain relationships, making transparent communication about these mechanisms crucial.",
                 "clinical_takeaway": "Advocate for widespread psychoeducation about adult ADHD; encourage open and honest communication about ADHD's impact in relationships to foster empathy and prevent misunderstandings that lead to trauma or difficult breakups.",
                 "doi": null,
-                "source_link": "https://global.oup.com/academic/product/the-adhd-explosion-9780199313233"
+                "source_link": "https://global.oup.com/academic/product/the-adhd-explosion-9780199313233",
+                "relevance_to_adhd": null
             }
         ],
         "adhd-text-checking-addiction-after-breakup": [
@@ -583,7 +621,8 @@
                 "neurobiological_mechanism": "The 'ping' of a notification or the 'maybe' of a message triggers dopamine hits on a variable reinforcement schedule, the most addictive kind, overriding impaired impulse control circuits in ADHD.",
                 "clinical_takeaway": "Implement digital hygiene strategies: turn off non-essential notifications, set phone-free times/zones, use blocker apps, and find alternative dopamine sources.",
                 "doi": null,
-                "source_link": "https://adhdspecialist.com/post/adhd-and-phone-addiction"
+                "source_link": "https://adhdspecialist.com/post/adhd-and-phone-addiction",
+                "relevance_to_adhd": null
             },
             {
                 "citation": "Eilam, A., et al. (2023). Social Media Addiction and ADHD: A Systematic Review. Journal of Clinical Psychology, 79(1), 101-118.",
@@ -597,7 +636,8 @@
                 "neurobiological_mechanism": "The variable reward schedule of social media (notifications, likes, ex-partner updates) taps into the dopamine reward system, providing intense, albeit transient, stimulation that is particularly reinforcing for individuals with ADHD who have lower baseline dopamine levels.",
                 "clinical_takeaway": "Educate clients on the addictive nature of social media post-breakup; implement digital detox strategies, app blockers, and encourage engagement in real-world activities to manage 'text-checking addiction' and promote healthy detachment.",
                 "doi": "10.1002/jclp.23432",
-                "source_link": "https://doi.org/10.1002/jclp.23432"
+                "source_link": "https://doi.org/10.1002/jclp.23432",
+                "relevance_to_adhd": null
             },
             {
                 "citation": "Brailovskaia, J., & Margraf, J. (2018). The relationship between smartphone addiction, stress, and mental health in German university students. Psychosocial Medicine, 15, Doc10.",
@@ -611,7 +651,8 @@
                 "neurobiological_mechanism": "Excessive smartphone use can disrupt dopamine reward pathways and impact sleep, leading to increased stress and emotional dysregulation. For ADHD individuals, this effect is amplified due to pre-existing dysregulation.",
                 "clinical_takeaway": "Emphasize digital well-being strategies as part of post-breakup recovery plans; reducing smartphone addiction can directly alleviate anxiety and improve emotional regulation, fostering a more conducive environment for healing.",
                 "doi": "10.3205/psm000155",
-                "source_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6013322/"
+                "source_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6013322/",
+                "relevance_to_adhd": null
             }
         ],
         "adhd-rumination-replaying-relationship-failures": [
@@ -627,7 +668,8 @@
                 "neurobiological_mechanism": "Deficits in fronto-limbic networks impair the ability to disengage from negative thoughts (rumination) and regulate intense emotions following relationship dissolution.",
                 "clinical_takeaway": "Target rumination and emotional regulation skills (via CBT/DBT/Mindfulness) to mitigate depressive symptoms and break obsessive cycles after a breakup.",
                 "doi": "10.1177/1087054713479632",
-                "source_link": "https://doi.org/10.1177/1087054713479632"
+                "source_link": "https://doi.org/10.1177/1087054713479632",
+                "relevance_to_adhd": null
             },
             {
                 "citation": "Veenstra, L., de Jong, P. J., & van den Hout, M. A. (2010). The effects of attentional training on rumination and executive control in dysphoria. Cognition and Emotion, 24(7), 1106-1116.",
@@ -641,7 +683,8 @@
                 "neurobiological_mechanism": "Attentional training may enhance the efficiency of executive control networks (e.g., dorsal anterior cingulate cortex, prefrontal cortex), enabling more effective disengagement from limbic-driven negative thought loops.",
                 "clinical_takeaway": "Incorporate mindfulness and attentional control exercises into therapy for individuals with ADHD struggling with post-breakup rumination and obsessive thinking.",
                 "doi": "10.1080/02699930903330368",
-                "source_link": "https://doi.org/10.1080/02699930903330368"
+                "source_link": "https://doi.org/10.1080/02699930903330368",
+                "relevance_to_adhd": null
             }
         ],
         "adhd-rebuilding-self-esteem-after-painful-breakup": [
@@ -657,7 +700,8 @@
                 "neurobiological_mechanism": "Chronic experiences of failure and criticism (often linked to ADHD symptoms) can negatively impact brain circuits associated with self-perception and reward, leading to reduced self-esteem. Rebuilding it involves strengthening these circuits through positive experiences and cognitive reframing.",
                 "clinical_takeaway": "Prioritize self-esteem building as a core component of post-breakup therapy for ADHD clients; utilize CBT, mindfulness, and behavioral activation to challenge negative self-talk and foster a more positive self-image.",
                 "doi": "10.1177/1087054716654767",
-                "source_link": "https://doi.org/10.1177/1087054716654767"
+                "source_link": "https://doi.org/10.1177/1087054716654767",
+                "relevance_to_adhd": null
             },
             {
                 "citation": "Pan, M. H., & Yeh, Y. C. (2020). Self-compassion and mental health in college students with ADHD: The mediating role of emotion regulation. Journal of Attention Disorders, 24(11), 1605-1616.",
@@ -671,7 +715,8 @@
                 "neurobiological_mechanism": "Self-compassion may activate neural circuits associated with self-soothing and positive emotional processing, counteracting the amygdala's hyper-reactivity and strengthening prefrontal regulation, leading to improved emotional regulation and resilience against rumination.",
                 "clinical_takeaway": "Integrate self-compassion practices (e.g., mindful self-compassion exercises) into therapeutic interventions for ADHD individuals recovering from breakups to build resilience, improve self-esteem, and manage emotional pain.",
                 "doi": "10.1177/1087054717750849",
-                "source_link": "https://doi.org/10.1177/1087054717750849"
+                "source_link": "https://doi.org/10.1177/1087054717750849",
+                "relevance_to_adhd": null
             }
         ]
     }

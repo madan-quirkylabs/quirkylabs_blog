@@ -368,473 +368,449 @@
         "**Sensory Responsiveness Questionnaire (SRQ):** Can be used to assess sensory over-responsivity."
     ],
     "spokes": {
-        "adhd-sensory-processing-disorder-spd-overview": {
-            "studies": [
-                {
-                    "citation": "Pera, G. (2014). Is It ADHD? Or Something Else? ADDitude Magazine. Retrieved from https://www.additudemag.com/sensory-processing-disorder-adhd-symptoms/",
-                    "year": "2014",
-                    "design": "Expert commentary / Conceptual article",
-                    "top_3_findings": [
-                        "Sensory Processing Disorder (SPD) is highly comorbid with ADHD, leading to challenges in filtering sensory input and regulating responses.",
-                        "Many ADHD symptoms, like distractibility and emotional dysregulation, are intensified by underlying sensory issues.",
-                        "Differentiating ADHD from sensory issues is crucial for effective treatment, as misinterpretation of behaviors (e.g., as defiance instead of overwhelm) can occur."
-                    ],
-                    "neurobiological_mechanism": "ADHD involves dopamine dysregulation and executive function deficits, which can impair the brain's ability to modulate sensory input and regulate emotional responses to overstimulation.",
-                    "clinical_takeaway": "Clinicians should screen for sensory processing challenges in ADHD patients. Integrating occupational therapy (sensory integration) with ADHD management can significantly improve functional outcomes.",
-                    "doi": null,
-                    "source_link": "https://www.additudemag.com/sensory-processing-disorder-adhd-symptoms/"
-                },
-                {
-                    "citation": "Ahn, R. R., Miller, L. J., Milberger, S., & McIntosh, D. N. (2004). Prevalence of sensory processing disorder among children with and without ADHD. Journal of Attention Disorders, 8(4), 176–181.",
-                    "year": "2004",
-                    "design": "Cross-sectional study (n=120 children)",
-                    "top_3_findings": [
-                        "A significantly higher prevalence of Sensory Processing Disorder (SPD) was found in children with ADHD (40.6%) compared to those without ADHD (8.3%).",
-                        "Children with ADHD and comorbid SPD exhibit more severe behavioral and developmental challenges than those with ADHD alone.",
-                        "This study highlights SPD as a common comorbidity that warrants specific assessment in children with ADHD."
-                    ],
-                    "neurobiological_mechanism": "Suggests shared neurodevelopmental pathways or overlapping neurological dysfunction, impacting the brain's ability to integrate sensory information and regulate attention and behavior.",
-                    "clinical_takeaway": "Routine screening for SPD is recommended for children diagnosed with ADHD. Interventions should be tailored to address both ADHD and co-occurring sensory processing difficulties.",
-                    "doi": "10.1177/10870547040080040101",
-                    "source_link": "https://doi.org/10.1177/10870547040080040101"
-                },
-                {
-                    "citation": "Mangeot, S. G., Miller, L. J., McIntosh, D. N., McGrath, S. K., & Teel, E. H. (2001). Sensory modulation dysfunction in children with attention-deficit-hyperactivity disorder. American Journal of Occupational Therapy, 55(5), 541–547.",
-                    "year": "2001",
-                    "design": "Comparative study (n=80 children)",
-                    "top_3_findings": [
-                        "Children with ADHD showed significantly more signs of sensory modulation dysfunction (problems responding to sensory input) than controls.",
-                        "Sensory modulation dysfunction was particularly evident in auditory, vestibular, and tactile systems in children with ADHD.",
-                        "This dysfunction is associated with behavioral problems and difficulties in daily functioning for children with ADHD."
-                    ],
-                    "neurobiological_mechanism": "Indicates atypical brain processes for regulating and organizing sensory input, impacting arousal levels and attention.",
-                    "clinical_takeaway": "Occupational therapists should be part of the multidisciplinary team for ADHD, providing sensory integration therapy to improve modulation and functional behaviors.",
-                    "doi": "10.5014/ajot.55.5.541",
-                    "source_link": "https://doi.org/10.5014/ajot.55.5.541"
-                },
-                {
-                    "citation": "Gajria, K., et al. (2020). Understanding the heterogeneity in sensory processing profiles of children with ADHD: A latent profile analysis. Journal of Attention Disorders, 24(12), 1774–1785.",
-                    "year": "2020",
-                    "design": "Latent Profile Analysis (n=600 children)",
-                    "top_3_findings": [
-                        "Identified distinct sensory processing profiles within the ADHD population (e.g., 'generally sensitive,' 'sensory seeking,' 'low registration'), suggesting heterogeneity in sensory experiences.",
-                        "These profiles were associated with different patterns of ADHD symptom severity and functional impairment.",
-                        "Tailoring interventions to specific sensory profiles, rather than a one-size-fits-all approach, may be more effective."
-                    ],
-                    "neurobiological_mechanism": "Suggests that variations in neural circuitry involved in sensory modulation (e.g., filtering, arousal regulation) contribute to different sensory profiles in ADHD.",
-                    "clinical_takeaway": "Comprehensive sensory assessment is vital to identify a child's specific sensory profile, guiding individualized and more effective treatment plans.",
-                    "doi": "10.1177/1087054716661132",
-                    "source_link": "https://doi.org/10.1177/1087054716661132"
-                },
-                {
-                    "citation": "Lane, A. E., et al. (2010). Sensory processing in children with ADHD: A systematic review. American Journal of Occupational Therapy, 64(4), 603–612.",
-                    "year": "2010",
-                    "design": "Systematic Review",
-                    "top_3_findings": [
-                        "Consistently found that children with ADHD demonstrate significant differences in sensory processing compared to typically developing children.",
-                        "Specific areas of difficulty include sensory over-responsivity (hypersensitivity) and sensory seeking behaviors.",
-                        "Highlights the need for further research using standardized measures and larger sample sizes to clarify the specific patterns and underlying mechanisms."
-                    ],
-                    "neurobiological_mechanism": "Points to dysregulation in the brain's ability to modulate sensory input, leading to either an exaggerated or diminished response, affecting attention and behavior.",
-                    "clinical_takeaway": "Occupational therapy interventions focused on sensory integration are valuable for children with ADHD, helping them to better regulate their responses to sensory stimuli.",
-                    "doi": "10.5014/ajot.2010.09088",
-                    "source_link": "https://doi.org/10.5014/ajot.2010.09088"
-                }
-            ]
-        },
-        "adhd-sensory-overload-explained-triggers-symptoms": {
-            "studies": [
-                {
-                    "citation": "Panagiotidi, M., Overton, P. G., & Stafford, T. (2018). The relationship between ADHD symptoms and sensory processing sensitivity. Journal of Attention Disorders, 22(10), 993–1003.",
-                    "year": "2018",
-                    "design": "Cross-sectional study (n=383 adults)",
-                    "top_3_findings": [
-                        "A significant positive correlation exists between ADHD symptoms (especially inattention) and sensory processing sensitivity in adults.",
-                        "This relationship is partially mediated by trait anxiety, suggesting that sensory sensitivity contributes to anxiety which then impacts ADHD symptoms.",
-                        "Sensory processing sensitivity can exacerbate difficulties in filtering irrelevant stimuli, intensifying distractibility for individuals with ADHD."
-                    ],
-                    "neurobiological_mechanism": "Proposed enhanced functional coupling between the hippocampus and inferior parietal lobule (IPL) may contribute to heightened sensory processing sensitivity in individuals with ADHD, leading to increased distractibility and anxiety.",
-                    "clinical_takeaway": "Addressing sensory processing sensitivity and comorbid anxiety can be important for managing ADHD symptoms effectively in adults. Interventions targeting sensory regulation may improve attention.",
-                    "doi": "10.1177/1087054716661132",
-                    "source_link": "https://doi.org/10.1177/1087054716661132"
-                },
-                {
-                    "citation": "Green, S. A., et al. (2016). Sensory over-responsivity is an indicator of anxiety and mood symptoms in children with autism spectrum disorder and ADHD. Journal of Autism and Developmental Disorders, 46(12), 3749–3758.",
-                    "year": "2016",
-                    "design": "Cross-sectional study (n=120 children with ASD/ADHD)",
-                    "top_3_findings": [
-                        "Sensory over-responsivity (hypersensitivity) is significantly associated with higher levels of anxiety and mood symptoms in children with ADHD and ASD.",
-                        "This suggests sensory over-responsivity may be a transdiagnostic marker for internalizing symptoms in neurodevelopmental disorders.",
-                        "Targeting sensory over-responsivity could be a valuable pathway for reducing anxiety and mood dysregulation in this population."
-                    ],
-                    "neurobiological_mechanism": "Hypothesized involvement of the amygdala and other limbic structures in processing sensory input, leading to exaggerated threat responses and anxiety in hypersensitive individuals.",
-                    "clinical_takeaway": "Assessment of sensory profiles is crucial for children with ADHD presenting with anxiety or mood symptoms. Interventions addressing sensory sensitivities may have a positive impact on emotional well-being.",
-                    "doi": "10.1007/s10803-016-2881-8",
-                    "source_link": "https://doi.org/10.1007/s10803-016-2881-8"
-                },
-                {
-                    "citation": "Togami, M., et al. (2021). The relationship between sensory over-responsivity and ADHD symptoms in adults. Psychiatry Research, 299, 113881.",
-                    "year": "2021",
-                    "design": "Cross-sectional study (n=200 adults)",
-                    "top_3_findings": [
-                        "Sensory over-responsivity is a significant predictor of ADHD symptom severity in adults, particularly for inattention and emotional dysregulation.",
-                        "Adults with ADHD frequently report difficulties with everyday sensory stimuli, leading to functional impairment.",
-                        "This study underscores the importance of assessing sensory profiles in adult ADHD populations for comprehensive management."
-                    ],
-                    "neurobiological_mechanism": "Indicates altered neurobiological filtering mechanisms in the ADHD brain, leading to an inability to habituate to non-salient sensory stimuli, resulting in cognitive overload and emotional distress.",
-                    "clinical_takeaway": "Assessment of sensory over-responsivity should be integrated into adult ADHD diagnostics. Strategies to manage sensory input (e.g., environmental modifications, sensory aids) can directly improve ADHD symptoms.",
-                    "doi": "10.1016/j.psychres.2021.113881",
-                    "source_link": "https://doi.org/10.1016/j.psychres.2021.113881"
-                }
-            ]
-        },
-        "adhd-noise-sensitivity-coping-strategies-misophonia": {
-            "studies": [
-                {
-                    "citation": "Rytky, S., et al. (2022). Auditory sensory processing in children with ADHD: A systematic review. Developmental Medicine & Child Neurology, 64(4), 450–457.",
-                    "year": "2022",
-                    "design": "Systematic Review",
-                    "top_3_findings": [
-                        "Children with ADHD often exhibit atypical auditory processing, including difficulties with auditory attention, sound localization, and filtering background noise.",
-                        "These auditory processing difficulties contribute to inattention and learning challenges in academic settings.",
-                        "There is heterogeneity in findings, indicating diverse auditory profiles within the ADHD population."
-                    ],
-                    "neurobiological_mechanism": "Atypical functional connectivity in auditory processing pathways and frontal-parietal attention networks can impair sound modulation and attention to auditory stimuli.",
-                    "clinical_takeaway": "Auditory processing assessments should be considered for children with ADHD struggling academically. Accommodations like noise-cancelling headphones and preferential seating can be effective.",
-                    "doi": "10.1111/dmcn.15112",
-                    "source_link": "https://doi.org/10.1111/dmcn.15112"
-                },
-                {
-                    "citation": "Jager, L. D., et al. (2020). Misophonia in individuals with attention-deficit/hyperactivity disorder: a systematic review. European Psychiatry, 63(1), e83.",
-                    "year": "2020",
-                    "design": "Systematic Review",
-                    "top_3_findings": [
-                        "A strong association exists between Misophonia (specific sound sensitivity with emotional reactions) and ADHD.",
-                        "Individuals with both conditions report significant distress and functional impairment.",
-                        "The co-occurrence suggests shared underlying vulnerabilities in emotional regulation and sensory gating mechanisms."
-                    ],
-                    "neurobiological_mechanism": "Misophonia involves hyperactivity of the anterior insular cortex (AIC) and abnormal functional connectivity between AIC and emotion regulation regions (e.g., vmPFC, PMC, amygdala, hippocampus). These mechanisms may overlap with ADHD's emotional dysregulation.",
-                    "clinical_takeaway": "Screening for misophonia in ADHD patients is important. Management strategies may include sound masking, environmental adjustments, and therapies like CBT or auditory distraction therapy.",
-                    "doi": "10.1192/j.eurpsy.2020.83",
-                    "source_link": "https://doi.org/10.1192/j.eurpsy.2020.83"
-                }
-            ]
-        },
-        "adhd-light-sensitivity-photophobia-visual-overwhelm": {
-            "studies": [
-                {
-                    "citation": "Mainwaring, L. M., et al. (2012). Prevalence of postconcussion symptoms in adolescents with ADHD. Journal of Head Trauma Rehabilitation, 27(1), E1-E9.",
-                    "year": "2012",
-                    "design": "Cross-sectional study (n=180 adolescents)",
-                    "top_3_findings": [
-                        "Adolescents with ADHD report significantly higher rates of post-concussion symptoms, including light sensitivity, compared to controls even without a recent concussion.",
-                        "This suggests an underlying neurological vulnerability to visual processing challenges in ADHD.",
-                        "Light sensitivity can exacerbate attention and cognitive symptoms in this population."
-                    ],
-                    "neurobiological_mechanism": "Suggests underlying differences in visual processing pathways and autonomic nervous system regulation in ADHD that may predispose individuals to photophobia.",
-                    "clinical_takeaway": "Clinicians should consider light sensitivity as a potential ongoing symptom in ADHD, not just after concussion, and recommend environmental accommodations.",
-                    "doi": "10.1097/HTR.0b013e3182283925",
-                    "source_link": "https://doi.org/10.1097/HTR.0b013e3182283925"
-                },
-                {
-                    "citation": "Shechter, A., et al. (2012). Blocking low-wavelength light promotes sleep in adolescents with insomnia. Sleep, 35(10), 1439–1444.",
-                    "year": "2012",
-                    "design": "Intervention study (n=10 adolescents)",
-                    "top_3_findings": [
-                        "Blocking low-wavelength (blue) light in the evening significantly improved sleep in adolescents with insomnia.",
-                        "While not ADHD-specific, the findings imply that light sensitivity, which can interfere with melatonin production and sleep, may be a relevant factor for sleep disturbances in ADHD.",
-                        "This offers a practical intervention for individuals experiencing light-induced sleep problems."
-                    ],
-                    "neurobiological_mechanism": "Low-wavelength light stimulates intrinsic photosensitive retinal ganglion cells (ipRGCs) that suppress melatonin, a hormone crucial for sleep. ADHD individuals may be more sensitive to this suppression.",
-                    "clinical_takeaway": "Recommend blue-light filtering glasses or reducing screen time in the evenings for ADHD patients with light sensitivity and sleep issues.",
-                    "doi": "10.5665/sleep.2100",
-                    "source_link": "https://doi.org/10.5665/sleep.2100"
-                }
-            ]
-        },
-        "adhd-texture-touch-sensitivities-clothing-food": {
-            "studies": [
-                {
-                    "citation": "Pang, C., et al. (2024). Association between tactile sensitivity and ADHD symptoms in adults: a study based on the sensory profile–2. BMC Psychiatry, 24, 258.",
-                    "year": "2024",
-                    "design": "Cross-sectional study (n=120 adults)",
-                    "top_3_findings": [
-                        "Adults with ADHD showed significantly higher tactile sensitivity compared to neurotypical controls.",
-                        "Tactile sensitivity was strongly associated with inattention symptoms in adult ADHD.",
-                        "This suggests that tactile sensory issues contribute to the core symptoms of ADHD in adults, highlighting a potential area for intervention."
-                    ],
-                    "neurobiological_mechanism": "Impaired somatosensory processing and cortical mechanisms in the ADHD brain may lead to difficulties in filtering and integrating tactile input, contributing to inattention and sensory overload.",
-                    "clinical_takeaway": "Occupational therapists should be involved in adult ADHD care to assess and intervene for tactile sensitivities. Simple environmental modifications and sensory aids can be highly beneficial.",
-                    "doi": "10.1186/s12888-024-05537-8",
-                    "source_link": "https://doi.org/10.1186/s12888-024-05537-8"
-                },
-                {
-                    "citation": "Schoen, S. A., et al. (2009). The Relationship Between Sensory Processing and Attention Problems. Journal of Attention Disorders, 12(6), 578–585.",
-                    "year": "2009",
-                    "design": "Cross-sectional study (n=150 children)",
-                    "top_3_findings": [
-                        "Significant correlations were found between tactile defensiveness and attention problems in children.",
-                        "This study provides evidence that sensory processing difficulties, including tactile sensitivity, are associated with difficulties in attention regulation.",
-                        "Highlights the need to consider sensory issues when evaluating and treating attention deficits."
-                    ],
-                    "neurobiological_mechanism": "Atypical processing of tactile input can overwhelm the sensory system, diverting cognitive resources away from attention-demanding tasks.",
-                    "clinical_takeaway": "For children with ADHD and attention problems, assessing for tactile sensitivities and implementing sensory integration strategies can be a valuable part of treatment.",
-                    "doi": "10.1177/1087054708320491",
-                    "source_link": "https://doi.org/10.1177/1087054708320491"
-                }
-            ]
-        },
-        "adhd-smell-taste-sensitivities-seeking": {
-            "studies": [
-                {
-                    "citation": "Konstantareas, M. M., et al. (2009). Olfactory sensitivity in children with ADHD: Replication and extension. Journal of Attention Disorders, 13(3), 263–272.",
-                    "year": "2009",
-                    "design": "Comparative study (n=60 children)",
-                    "top_3_findings": [
-                        "Children with ADHD showed heightened sensitivity to certain odors compared to controls.",
-                        "This olfactory hypersensitivity was particularly evident in medication-naïve ADHD children.",
-                        "Suggests that altered sensory processing, specifically olfactory, may be an inherent feature in a subgroup of children with ADHD."
-                    ],
-                    "neurobiological_mechanism": "Proposed link to dopaminergic dysregulation in ADHD affecting olfactory pathways, leading to increased odor perception.",
-                    "clinical_takeaway": "Consider olfactory sensitivities when managing ADHD symptoms. Environmental modifications (e.g., avoiding strong scents) may reduce distress.",
-                    "doi": "10.1177/1087054708326297",
-                    "source_link": "https://doi.org/10.1177/1087054708326297"
-                },
-                {
-                    "citation": "Dodd, S. J., et al. (2018). Sensory issues in children with ADHD and associated eating behaviours. Journal of Attention Disorders, 22(12), 1146–1155.",
-                    "year": "2018",
-                    "design": "Cross-sectional study (n=180 children)",
-                    "top_3_findings": [
-                        "Children with ADHD exhibited significantly more sensory sensitivities related to food (taste, smell, texture) compared to neurotypical children.",
-                        "These food-related sensory issues were associated with picky eating and a restricted dietary variety in ADHD.",
-                        "Highlights the importance of addressing sensory aspects of eating in nutritional interventions for children with ADHD."
-                    ],
-                    "neurobiological_mechanism": "Atypical sensory processing in gustatory and olfactory pathways, potentially combined with executive function difficulties, impacts food choices and eating behaviors.",
-                    "clinical_takeaway": "Dietitians and occupational therapists should collaborate to assess and manage food-related sensory sensitivities in ADHD children, focusing on gradual exposure and sensory-friendly food preparation.",
-                    "doi": "10.1177/1087054715622086",
-                    "source_link": "https://doi.org/10.1177/1087054715622086"
-                }
-            ]
-        },
-        "adhd-creating-sensory-friendly-home-work-spaces": {
-            "studies": [
-                {
-                    "citation": "Mostafa, M. (2014). An architecture for autism: Concepts of design for the sensory-sensitive. Design Studies, 35(3), 284–306.",
-                    "year": "2014",
-                    "design": "Conceptual / Architectural review",
-                    "top_3_findings": [
-                        "While primarily for autism, principles of sensory-sensitive design (e.g., control over stimuli, clear spatial organization) are highly beneficial for individuals with ADHD.",
-                        "Reducing sensory overload (e.g., through lighting, acoustics) and providing predictable environments can significantly improve comfort and function.",
-                        "Emphasizes the importance of individualized design solutions based on sensory profiles."
-                    ],
-                    "neurobiological_mechanism": "Supports the brain's ability to regulate attention and arousal by providing optimal sensory input, reducing the cognitive load from filtering irrelevant stimuli.",
-                    "clinical_takeaway": "Recommend clients to apply principles of sensory-sensitive design to their personal spaces, prioritizing light, sound, texture, and visual clutter based on their specific needs.",
-                    "doi": "10.1016/j.destud.2013.11.002",
-                    "source_link": "https://doi.org/10.1016/j.destud.2013.11.002"
-                },
-                {
-                    "citation": "Al-Ayash, A., et al. (2016). Impact of lighting on office workers’ mood and productivity. Journal of Environmental Psychology, 47, 94–102.",
-                    "year": "2016",
-                    "design": "Survey / Observational study (n=200 office workers)",
-                    "top_3_findings": [
-                        "Exposure to natural light and control over artificial lighting significantly impacts mood and perceived productivity in office environments.",
-                        "While not ADHD-specific, this indicates that lighting adjustments are crucial for optimizing workspace comfort and cognitive function, particularly for those with ADHD's visual sensitivities.",
-                        "Poor lighting conditions can lead to increased discomfort, eye strain, and reduced focus."
-                    ],
-                    "neurobiological_mechanism": "Light influences circadian rhythms and neurotransmitter production (e.g., serotonin). Optimal lighting supports alertness and mood, reducing cognitive fatigue for the ADHD brain.",
-                    "clinical_takeaway": "Advise ADHD clients to seek workplaces with natural light, use task lighting, and advocate for control over their lighting environment to improve focus and reduce sensory overwhelm.",
-                    "doi": "10.1016/j.jenvp.2016.05.003",
-                    "source_link": "https://doi.org/10.1016/j.jenvp.2016.05.003"
-                }
-            ]
-        },
-        "adhd-hyposensitivity-sensory-seeking-behaviors-stimming": {
-            "studies": [
-                {
-                    "citation": "Hashimoto, T., et al. (2020). Relationships between sensory processing patterns and attention problems in children with and without ADHD. Frontiers in Human Neuroscience, 14, 584102.",
-                    "year": "2020",
-                    "design": "Cross-sectional study (n=187 children)",
-                    "top_3_findings": [
-                        "Both 'sensory seeking' and 'sensory sensitivity' patterns were positively correlated with attention problems in children with ADHD.",
-                        "Children with ADHD showed distinct sensory processing patterns compared to typically developing children.",
-                        "This research highlights the complex interplay between different sensory processing styles and attention difficulties in ADHD."
-                    ],
-                    "neurobiological_mechanism": "Suggests that atypical modulation of sensory input (both under- and over-responsivity) can disrupt optimal arousal levels necessary for sustained attention.",
-                    "clinical_takeaway": "Individualized sensory interventions targeting both seeking and sensitivity patterns should be considered to improve attention and reduce challenging behaviors in children with ADHD.",
-                    "doi": "10.3389/fnhum.2020.584102",
-                    "source_link": "https://doi.org/10.3389/fnhum.2020.584102"
-                },
-                {
-                    "citation": "Holtmann, M., et al. (2013). Repetitive behaviors in children with attention-deficit/hyperactivity disorder (ADHD): prevalence and association with ADHD symptoms and comorbid disorders. Journal of Neural Transmission, 120(1), 89–98.",
-                    "year": "2013",
-                    "design": "Cross-sectional study (n=200 children)",
-                    "top_3_findings": [
-                        "Repetitive behaviors (stimming) are common in children with ADHD, often serving a self-regulatory function.",
-                        "These behaviors are associated with core ADHD symptoms, particularly hyperactivity and inattention.",
-                        "Distinguishing stimming from compulsions (e.g., in OCD) is important for differential diagnosis and intervention strategies."
-                    ],
-                    "neurobiological_mechanism": "May involve dysregulation in fronto-striatal circuits, where repetitive movements provide self-stimulation to modulate arousal or compensate for executive function deficits.",
-                    "clinical_takeaway": "Recognize stimming in ADHD as a potential coping mechanism. Instead of suppressing, offer alternative, functional sensory outlets to meet underlying needs.",
-                    "doi": "10.1007/s00702-012-0857-4",
-                    "source_link": "https://doi.org/10.1007/s00702-012-0857-4"
-                }
-            ]
-        },
-        "adhd-sensory-overwhelm-social-settings-crowds": {
-            "studies": [
-                {
-                    "citation": "Panagiotidi, M., Overton, P. G., & Stafford, T. (2018). The relationship between ADHD symptoms and sensory processing sensitivity. Journal of Attention Disorders, 22(10), 993–1003.",
-                    "year": "2018",
-                    "design": "Cross-sectional study (n=383 adults)",
-                    "top_3_findings": [
-                        "A significant positive correlation exists between ADHD symptoms (especially inattention) and sensory processing sensitivity in adults.",
-                        "This relationship is partially mediated by trait anxiety, suggesting that sensory sensitivity contributes to anxiety which then impacts ADHD symptoms.",
-                        "Sensory processing sensitivity can exacerbate difficulties in filtering irrelevant stimuli, intensifying distractibility for individuals with ADHD."
-                    ],
-                    "neurobiological_mechanism": "Proposed enhanced functional coupling between the hippocampus and inferior parietal lobule (IPL) may contribute to heightened sensory processing sensitivity in individuals with ADHD, leading to increased distractibility and anxiety.",
-                    "clinical_takeaway": "Addressing sensory processing sensitivity and comorbid anxiety can be important for managing ADHD symptoms effectively in adults. Interventions targeting sensory regulation may improve attention.",
-                    "doi": "10.1177/1087054716661132",
-                    "source_link": "https://doi.org/10.1177/1087054716661132"
-                },
-                {
-                    "citation": "Green, S. A., et al. (2016). Sensory over-responsivity is an indicator of anxiety and mood symptoms in children with autism spectrum disorder and ADHD. Journal of Autism and Developmental Disorders, 46(12), 3749–3758.",
-                    "year": "2016",
-                    "design": "Cross-sectional study (n=120 children with ASD/ADHD)",
-                    "top_3_findings": [
-                        "Sensory over-responsivity (hypersensitivity) is significantly associated with higher levels of anxiety and mood symptoms in children with ADHD and ASD.",
-                        "This suggests sensory over-responsivity may be a transdiagnostic marker for internalizing symptoms in neurodevelopmental disorders.",
-                        "Targeting sensory over-responsivity could be a valuable pathway for reducing anxiety and mood dysregulation in this population."
-                    ],
-                    "neurobiological_mechanism": "Hypothesized involvement of the amygdala and other limbic structures in processing sensory input, leading to exaggerated threat responses and anxiety in hypersensitive individuals.",
-                    "clinical_takeaway": "Assessment of sensory profiles is crucial for children with ADHD presenting with anxiety or mood symptoms. Interventions addressing sensory sensitivities may have a positive impact on emotional well-being.",
-                    "doi": "10.1007/s10803-016-2881-8",
-                    "source_link": "https://doi.org/10.1007/s10803-016-2881-8"
-                },
-                {
-                    "citation": "Togami, M., et al. (2021). The relationship between sensory over-responsivity and ADHD symptoms in adults. Psychiatry Research, 299, 113881.",
-                    "year": "2021",
-                    "design": "Cross-sectional study (n=200 adults)",
-                    "top_3_findings": [
-                        "Sensory over-responsivity is a significant predictor of ADHD symptom severity in adults, particularly for inattention and emotional dysregulation.",
-                        "Adults with ADHD frequently report difficulties with everyday sensory stimuli, leading to functional impairment.",
-                        "This study underscores the importance of assessing sensory profiles in adult ADHD populations for comprehensive management."
-                    ],
-                    "neurobiological_mechanism": "Indicates altered neurobiological filtering mechanisms in the ADHD brain, leading to an inability to habituate to non-salient sensory stimuli, resulting in cognitive overload and emotional distress.",
-                    "clinical_takeaway": "Assessment of sensory over-responsivity should be integrated into adult ADHD diagnostics. Strategies to manage sensory input (e.g., environmental modifications, sensory aids) can directly improve ADHD symptoms.",
-                    "doi": "10.1016/j.psychres.2021.113881",
-                    "source_link": "https://doi.org/10.1016/j.psychres.2021.113881"
-                }
-            ]
-        },
-        "adhd-managing-sensory-issues-work-school": {
-            "studies": [
-                {
-                    "citation": "Dell, S., et al. (2019). The relationship between sensory processing and executive functions in children with attention deficit hyperactivity disorder. Research in Developmental Disabilities, 94, 103487.",
-                    "year": "2019",
-                    "design": "Cross-sectional study (n=100 children)",
-                    "top_3_findings": [
-                        "Significant correlations were found between various sensory processing patterns (e.g., sensory seeking, low registration, sensory sensitivity) and different executive function domains (e.g., working memory, inhibition, planning) in children with ADHD.",
-                        "Sensory processing difficulties can negatively impact the development and functioning of executive skills.",
-                        "Interventions targeting sensory regulation may indirectly improve executive functions in children with ADHD."
-                    ],
-                    "neurobiological_mechanism": "Indicates shared or interacting neural pathways between sensory processing and executive function networks (e.g., prefrontal cortex, basal ganglia), where inefficiencies in one system can affect the other.",
-                    "clinical_takeaway": "A holistic approach integrating sensory integration therapy with executive function training is recommended for children with ADHD.",
-                    "doi": "10.1016/j.ridd.2019.103487",
-                    "source_link": "https://doi.org/10.1016/j.ridd.2019.103487"
-                },
-                {
-                    "citation": "American Academy of Pediatrics. (2019). Clinical Practice Guideline for the Diagnosis, Evaluation, and Treatment of Attention-Deficit/Hyperactivity Disorder in Children and Adolescents. Pediatrics, 144(4), e20192528.",
-                    "year": "2019",
-                    "design": "Clinical Practice Guideline",
-                    "top_3_findings": [
-                        "While not a core diagnostic criterion, sensory issues are recognized as common co-occurring conditions in ADHD.",
-                        "Behavioral interventions, including environmental modifications and strategies to manage sensory input, are recommended as part of comprehensive ADHD treatment.",
-                        "Multidisciplinary approaches involving occupational therapists are encouraged for addressing functional impairments related to sensory challenges."
-                    ],
-                    "neurobiological_mechanism": "Guidelines implicitly acknowledge that managing external sensory load can support the brain's regulatory functions (attention, impulse control) that are often dysregulated in ADHD.",
-                    "clinical_takeaway": "Pediatricians and primary care providers should inquire about sensory sensitivities in ADHD patients and consider referrals to occupational therapy for targeted interventions.",
-                    "doi": "10.1542/peds.2019-2528",
-                    "source_link": "https://doi.org/10.1542/peds.2019-2528"
-                },
-                {
-                    "citation": "Rytky, S., et al. (2022). Auditory sensory processing in children with ADHD: A systematic review. Developmental Medicine & Child Neurology, 64(4), 450–457.",
-                    "year": "2022",
-                    "design": "Systematic Review",
-                    "top_3_findings": [
-                        "Children with ADHD often exhibit atypical auditory processing, including difficulties with auditory attention, sound localization, and filtering background noise.",
-                        "These auditory processing difficulties contribute to inattention and learning challenges in academic settings.",
-                        "There is heterogeneity in findings, indicating diverse auditory profiles within the ADHD population."
-                    ],
-                    "neurobiological_mechanism": "Atypical functional connectivity in auditory processing pathways and frontal-parietal attention networks can impair sound modulation and attention to auditory stimuli.",
-                    "clinical_takeaway": "Auditory processing assessments should be considered for children with ADHD struggling academically. Accommodations like noise-cancelling headphones and preferential seating can be effective.",
-                    "doi": "10.1111/dmcn.15112",
-                    "source_link": "https://doi.org/10.1111/dmcn.15112"
-                }
-            ]
-        },
-        "adhd-interoception-awareness-internal-body-signals": {
-            "studies": [
-                {
-                    "citation": "Mahler, K. (2019). The Interoception Curriculum: A Guide to Developing Mindful Self-Regulation. Autism Asperger Publishing Company.",
-                    "year": "2019",
-                    "design": "Clinical guide / Expert resource",
-                    "top_3_findings": [
-                        "Neurodivergent individuals, including those with ADHD, often have difficulties with interoceptive awareness (sensing internal body signals).",
-                        "Poor interoception impacts emotional regulation, self-care (e.g., hunger, thirst, pain), and overall well-being.",
-                        "Nurturing interoceptive awareness through specific activities can improve anxiety, emotional regulation, and quality of life."
-                    ],
-                    "neurobiological_mechanism": "Involves atypical processing within the insular cortex and related neural networks responsible for integrating internal bodily sensations with emotions and cognition.",
-                    "clinical_takeaway": "Interoception-focused interventions (e.g., adapted body mindfulness, sensory activities) should be considered to enhance self-regulation and emotional literacy in ADHD. Emphasize individual discovery and validation of unique internal experiences.",
-                    "doi": null,
-                    "source_link": "https://www.kelly-mahler.com/what-is-interoception/interoception-and-neurodiversity/"
-                },
-                {
-                    "citation": "Murphy, K. R., & Schoch, K. M. (2019). Recognizing and Treating Adults with ADHD. Guilford Press.",
-                    "year": "2019",
-                    "design": "Clinical textbook / Expert synthesis",
-                    "top_3_findings": [
-                        "Adults with ADHD frequently report difficulty identifying and regulating emotions, partly due to challenges with interoceptive awareness.",
-                        "Impaired interoception can lead to delayed recognition of physical needs (e.g., hunger, fatigue) and contributes to impulsive behaviors.",
-                        "Mindfulness-based interventions are increasingly used to improve interoceptive awareness and emotional regulation in adult ADHD."
-                    ],
-                    "neurobiological_mechanism": "Dysregulation in attention networks and executive functions can divert focus from internal bodily cues, impacting the insular cortex's role in interoception.",
-                    "clinical_takeaway": "Incorporate mindfulness and body-scan exercises into therapy for adult ADHD. Encourage clients to explicitly label physical sensations related to emotions and needs.",
-                    "doi": null,
-                    "source_link": "https://www.guilford.com/books/Recognizing-and-Treating-Adults-with-ADHD/Murphy-Schoch/9781462538057"
-                }
-            ]
-        },
-        "adhd-sensory-tools-aids-noise-cancelling-fidgets": {
-            "studies": [
-                {
-                    "citation": "Panagiotidi, M., Overton, P. G., & Stafford, T. (2018). The relationship between ADHD symptoms and sensory processing sensitivity. Journal of Attention Disorders, 22(10), 993–1003.",
-                    "year": "2018",
-                    "design": "Cross-sectional study (n=383 adults)",
-                    "top_3_findings": [
-                        "A significant positive correlation exists between ADHD symptoms (especially inattention) and sensory processing sensitivity in adults.",
-                        "This relationship is partially mediated by trait anxiety, suggesting that sensory sensitivity contributes to anxiety which then impacts ADHD symptoms.",
-                        "Sensory processing sensitivity can exacerbate difficulties in filtering irrelevant stimuli, intensifying distractibility for individuals with ADHD."
-                    ],
-                    "neurobiological_mechanism": "Proposed enhanced functional coupling between the hippocampus and inferior parietal lobule (IPL) may contribute to heightened sensory processing sensitivity in individuals with ADHD, leading to increased distractibility and anxiety.",
-                    "clinical_takeaway": "Addressing sensory processing sensitivity and comorbid anxiety can be important for managing ADHD symptoms effectively in adults. Interventions targeting sensory regulation may improve attention.",
-                    "doi": "10.1177/1087054716661132",
-                    "source_link": "https://doi.org/10.1177/1087054716661132"
-                },
-                {
-                    "citation": "Fong, K. N., et al. (2021). The effect of sensory intervention on executive functions in children with attention deficit hyperactivity disorder: A systematic review. Complementary Therapies in Medicine, 56, 102573.",
-                    "year": "2021",
-                    "design": "Systematic Review",
-                    "top_3_findings": [
-                        "Sensory interventions (e.g., sensory diets, weighted vests, fidgets) showed positive effects on executive functions (e.g., working memory, inhibition) in children with ADHD.",
-                        "These interventions help regulate arousal levels, enabling better cognitive performance.",
-                        "Highlights the growing evidence for non-pharmacological approaches to support executive function in ADHD."
-                    ],
-                    "neurobiological_mechanism": "Sensory tools modulate sensory input, which can help optimize arousal levels in brain regions involved in executive functions (e.g., prefrontal cortex), allowing for better attention and impulse control.",
-                    "clinical_takeaway": "Integrate sensory tools and interventions into comprehensive treatment plans for ADHD, especially to support executive functions in academic and daily tasks.",
-                    "doi": "10.1016/j.ctim.2020.102573",
-                    "source_link": "https://doi.org/10.1016/j.ctim.2020.102573"
-                }
-            ]
-        }
+        "adhd-sensory-processing-disorder-spd-overview": [
+            {
+                "citation": "Pera, G. (2014). Is It ADHD? Or Something Else? ADDitude Magazine. Retrieved from https://www.additudemag.com/sensory-processing-disorder-adhd-symptoms/",
+                "year": "2014",
+                "design": "Expert commentary / Conceptual article",
+                "top_3_findings": [
+                    "Sensory Processing Disorder (SPD) is highly comorbid with ADHD, leading to challenges in filtering sensory input and regulating responses.",
+                    "Many ADHD symptoms, like distractibility and emotional dysregulation, are intensified by underlying sensory issues.",
+                    "Differentiating ADHD from sensory issues is crucial for effective treatment, as misinterpretation of behaviors (e.g., as defiance instead of overwhelm) can occur."
+                ],
+                "neurobiological_mechanism": "ADHD involves dopamine dysregulation and executive function deficits, which can impair the brain's ability to modulate sensory input and regulate emotional responses to overstimulation.",
+                "clinical_takeaway": "Clinicians should screen for sensory processing challenges in ADHD patients. Integrating occupational therapy (sensory integration) with ADHD management can significantly improve functional outcomes.",
+                "doi": null,
+                "source_link": "https://www.additudemag.com/sensory-processing-disorder-adhd-symptoms/"
+            },
+            {
+                "citation": "Ahn, R. R., Miller, L. J., Milberger, S., & McIntosh, D. N. (2004). Prevalence of sensory processing disorder among children with and without ADHD. Journal of Attention Disorders, 8(4), 176–181.",
+                "year": "2004",
+                "design": "Cross-sectional study (n=120 children)",
+                "top_3_findings": [
+                    "A significantly higher prevalence of Sensory Processing Disorder (SPD) was found in children with ADHD (40.6%) compared to those without ADHD (8.3%).",
+                    "Children with ADHD and comorbid SPD exhibit more severe behavioral and developmental challenges than those with ADHD alone.",
+                    "This study highlights SPD as a common comorbidity that warrants specific assessment in children with ADHD."
+                ],
+                "neurobiological_mechanism": "Suggests shared neurodevelopmental pathways or overlapping neurological dysfunction, impacting the brain's ability to integrate sensory information and regulate attention and behavior.",
+                "clinical_takeaway": "Routine screening for SPD is recommended for children diagnosed with ADHD. Interventions should be tailored to address both ADHD and co-occurring sensory processing difficulties.",
+                "doi": "10.1177/10870547040080040101",
+                "source_link": "https://doi.org/10.1177/10870547040080040101"
+            },
+            {
+                "citation": "Mangeot, S. G., Miller, L. J., McIntosh, D. N., McGrath, S. K., & Teel, E. H. (2001). Sensory modulation dysfunction in children with attention-deficit-hyperactivity disorder. American Journal of Occupational Therapy, 55(5), 541–547.",
+                "year": "2001",
+                "design": "Comparative study (n=80 children)",
+                "top_3_findings": [
+                    "Children with ADHD showed significantly more signs of sensory modulation dysfunction (problems responding to sensory input) than controls.",
+                    "Sensory modulation dysfunction was particularly evident in auditory, vestibular, and tactile systems in children with ADHD.",
+                    "This dysfunction is associated with behavioral problems and difficulties in daily functioning for children with ADHD."
+                ],
+                "neurobiological_mechanism": "Indicates atypical brain processes for regulating and organizing sensory input, impacting arousal levels and attention.",
+                "clinical_takeaway": "Occupational therapists should be part of the multidisciplinary team for ADHD, providing sensory integration therapy to improve modulation and functional behaviors.",
+                "doi": "10.5014/ajot.55.5.541",
+                "source_link": "https://doi.org/10.5014/ajot.55.5.541"
+            },
+            {
+                "citation": "Gajria, K., et al. (2020). Understanding the heterogeneity in sensory processing profiles of children with ADHD: A latent profile analysis. Journal of Attention Disorders, 24(12), 1774–1785.",
+                "year": "2020",
+                "design": "Latent Profile Analysis (n=600 children)",
+                "top_3_findings": [
+                    "Identified distinct sensory processing profiles within the ADHD population (e.g., 'generally sensitive,' 'sensory seeking,' 'low registration'), suggesting heterogeneity in sensory experiences.",
+                    "These profiles were associated with different patterns of ADHD symptom severity and functional impairment.",
+                    "Tailoring interventions to specific sensory profiles, rather than a one-size-fits-all approach, may be more effective."
+                ],
+                "neurobiological_mechanism": "Suggests that variations in neural circuitry involved in sensory modulation (e.g., filtering, arousal regulation) contribute to different sensory profiles in ADHD.",
+                "clinical_takeaway": "Comprehensive sensory assessment is vital to identify a child's specific sensory profile, guiding individualized and more effective treatment plans.",
+                "doi": "10.1177/1087054716661132",
+                "source_link": "https://doi.org/10.1177/1087054716661132"
+            },
+            {
+                "citation": "Lane, A. E., et al. (2010). Sensory processing in children with ADHD: A systematic review. American Journal of Occupational Therapy, 64(4), 603–612.",
+                "year": "2010",
+                "design": "Systematic Review",
+                "top_3_findings": [
+                    "Consistently found that children with ADHD demonstrate significant differences in sensory processing compared to typically developing children.",
+                    "Specific areas of difficulty include sensory over-responsivity (hypersensitivity) and sensory seeking behaviors.",
+                    "Highlights the need for further research using standardized measures and larger sample sizes to clarify the specific patterns and underlying mechanisms."
+                ],
+                "neurobiological_mechanism": "Points to dysregulation in the brain's ability to modulate sensory input, leading to either an exaggerated or diminished response, affecting attention and behavior.",
+                "clinical_takeaway": "Occupational therapy interventions focused on sensory integration are valuable for children with ADHD, helping them to better regulate their responses to sensory stimuli.",
+                "doi": "10.5014/ajot.2010.09088",
+                "source_link": "https://doi.org/10.5014/ajot.2010.09088"
+            }
+        ],
+        "adhd-sensory-overload-explained-triggers-symptoms": [
+            {
+                "citation": "Panagiotidi, M., Overton, P. G., & Stafford, T. (2018). The relationship between ADHD symptoms and sensory processing sensitivity. Journal of Attention Disorders, 22(10), 993–1003.",
+                "year": "2018",
+                "design": "Cross-sectional study (n=383 adults)",
+                "top_3_findings": [
+                    "A significant positive correlation exists between ADHD symptoms (especially inattention) and sensory processing sensitivity in adults.",
+                    "This relationship is partially mediated by trait anxiety, suggesting that sensory sensitivity contributes to anxiety which then impacts ADHD symptoms.",
+                    "Sensory processing sensitivity can exacerbate difficulties in filtering irrelevant stimuli, intensifying distractibility for individuals with ADHD."
+                ],
+                "neurobiological_mechanism": "Proposed enhanced functional coupling between the hippocampus and inferior parietal lobule (IPL) may contribute to heightened sensory processing sensitivity in individuals with ADHD, leading to increased distractibility and anxiety.",
+                "clinical_takeaway": "Addressing sensory processing sensitivity and comorbid anxiety can be important for managing ADHD symptoms effectively in adults. Interventions targeting sensory regulation may improve attention.",
+                "doi": "10.1177/1087054716661132",
+                "source_link": "https://doi.org/10.1177/1087054716661132"
+            },
+            {
+                "citation": "Green, S. A., et al. (2016). Sensory over-responsivity is an indicator of anxiety and mood symptoms in children with autism spectrum disorder and ADHD. Journal of Autism and Developmental Disorders, 46(12), 3749–3758.",
+                "year": "2016",
+                "design": "Cross-sectional study (n=120 children with ASD/ADHD)",
+                "top_3_findings": [
+                    "Sensory over-responsivity (hypersensitivity) is significantly associated with higher levels of anxiety and mood symptoms in children with ADHD and ASD.",
+                    "This suggests sensory over-responsivity may be a transdiagnostic marker for internalizing symptoms in neurodevelopmental disorders.",
+                    "Targeting sensory over-responsivity could be a valuable pathway for reducing anxiety and mood dysregulation in this population."
+                ],
+                "neurobiological_mechanism": "Hypothesized involvement of the amygdala and other limbic structures in processing sensory input, leading to exaggerated threat responses and anxiety in hypersensitive individuals.",
+                "clinical_takeaway": "Assessment of sensory profiles is crucial for children with ADHD presenting with anxiety or mood symptoms. Interventions addressing sensory sensitivities may have a positive impact on emotional well-being.",
+                "doi": "10.1007/s10803-016-2881-8",
+                "source_link": "https://doi.org/10.1007/s10803-016-2881-8"
+            },
+            {
+                "citation": "Togami, M., et al. (2021). The relationship between sensory over-responsivity and ADHD symptoms in adults. Psychiatry Research, 299, 113881.",
+                "year": "2021",
+                "design": "Cross-sectional study (n=200 adults)",
+                "top_3_findings": [
+                    "Sensory over-responsivity is a significant predictor of ADHD symptom severity in adults, particularly for inattention and emotional dysregulation.",
+                    "Adults with ADHD frequently report difficulties with everyday sensory stimuli, leading to functional impairment.",
+                    "This study underscores the importance of assessing sensory profiles in adult ADHD populations for comprehensive management."
+                ],
+                "neurobiological_mechanism": "Indicates altered neurobiological filtering mechanisms in the ADHD brain, leading to an inability to habituate to non-salient sensory stimuli, resulting in cognitive overload and emotional distress.",
+                "clinical_takeaway": "Assessment of sensory over-responsivity should be integrated into adult ADHD diagnostics. Strategies to manage sensory input (e.g., environmental modifications, sensory aids) can directly improve ADHD symptoms.",
+                "doi": "10.1016/j.psychres.2021.113881",
+                "source_link": "https://doi.org/10.1016/j.psychres.2021.113881"
+            }
+        ],
+        "adhd-noise-sensitivity-coping-strategies-misophonia": [
+            {
+                "citation": "Rytky, S., et al. (2022). Auditory sensory processing in children with ADHD: A systematic review. Developmental Medicine & Child Neurology, 64(4), 450–457.",
+                "year": "2022",
+                "design": "Systematic Review",
+                "top_3_findings": [
+                    "Children with ADHD often exhibit atypical auditory processing, including difficulties with auditory attention, sound localization, and filtering background noise.",
+                    "These auditory processing difficulties contribute to inattention and learning challenges in academic settings.",
+                    "There is heterogeneity in findings, indicating diverse auditory profiles within the ADHD population."
+                ],
+                "neurobiological_mechanism": "Atypical functional connectivity in auditory processing pathways and frontal-parietal attention networks can impair sound modulation and attention to auditory stimuli.",
+                "clinical_takeaway": "Auditory processing assessments should be considered for children with ADHD struggling academically. Accommodations like noise-cancelling headphones and preferential seating can be effective.",
+                "doi": "10.1111/dmcn.15112",
+                "source_link": "https://doi.org/10.1111/dmcn.15112"
+            },
+            {
+                "citation": "Jager, L. D., et al. (2020). Misophonia in individuals with attention-deficit/hyperactivity disorder: a systematic review. European Psychiatry, 63(1), e83.",
+                "year": "2020",
+                "design": "Systematic Review",
+                "top_3_findings": [
+                    "A strong association exists between Misophonia (specific sound sensitivity with emotional reactions) and ADHD.",
+                    "Individuals with both conditions report significant distress and functional impairment.",
+                    "The co-occurrence suggests shared underlying vulnerabilities in emotional regulation and sensory gating mechanisms."
+                ],
+                "neurobiological_mechanism": "Misophonia involves hyperactivity of the anterior insular cortex (AIC) and abnormal functional connectivity between AIC and emotion regulation regions (e.g., vmPFC, PMC, amygdala, hippocampus). These mechanisms may overlap with ADHD's emotional dysregulation.",
+                "clinical_takeaway": "Screening for misophonia in ADHD patients is important. Management strategies may include sound masking, environmental adjustments, and therapies like CBT or auditory distraction therapy.",
+                "doi": "10.1192/j.eurpsy.2020.83",
+                "source_link": "https://doi.org/10.1192/j.eurpsy.2020.83"
+            }
+        ],
+        "adhd-light-sensitivity-photophobia-visual-overwhelm": [
+            {
+                "citation": "Mainwaring, L. M., et al. (2012). Prevalence of postconcussion symptoms in adolescents with ADHD. Journal of Head Trauma Rehabilitation, 27(1), E1-E9.",
+                "year": "2012",
+                "design": "Cross-sectional study (n=180 adolescents)",
+                "top_3_findings": [
+                    "Adolescents with ADHD report significantly higher rates of post-concussion symptoms, including light sensitivity, compared to controls even without a recent concussion.",
+                    "This suggests an underlying neurological vulnerability to visual processing challenges in ADHD.",
+                    "Light sensitivity can exacerbate attention and cognitive symptoms in this population."
+                ],
+                "neurobiological_mechanism": "Suggests underlying differences in visual processing pathways and autonomic nervous system regulation in ADHD that may predispose individuals to photophobia.",
+                "clinical_takeaway": "Clinicians should consider light sensitivity as a potential ongoing symptom in ADHD, not just after concussion, and recommend environmental accommodations.",
+                "doi": "10.1097/HTR.0b013e3182283925",
+                "source_link": "https://doi.org/10.1097/HTR.0b013e3182283925"
+            },
+            {
+                "citation": "Shechter, A., et al. (2012). Blocking low-wavelength light promotes sleep in adolescents with insomnia. Sleep, 35(10), 1439–1444.",
+                "year": "2012",
+                "design": "Intervention study (n=10 adolescents)",
+                "top_3_findings": [
+                    "Blocking low-wavelength (blue) light in the evening significantly improved sleep in adolescents with insomnia.",
+                    "While not ADHD-specific, the findings imply that light sensitivity, which can interfere with melatonin production and sleep, may be a relevant factor for sleep disturbances in ADHD.",
+                    "This offers a practical intervention for individuals experiencing light-induced sleep problems."
+                ],
+                "neurobiological_mechanism": "Low-wavelength light stimulates intrinsic photosensitive retinal ganglion cells (ipRGCs) that suppress melatonin, a hormone crucial for sleep. ADHD individuals may be more sensitive to this suppression.",
+                "clinical_takeaway": "Recommend blue-light filtering glasses or reducing screen time in the evenings for ADHD patients with light sensitivity and sleep issues.",
+                "doi": "10.5665/sleep.2100",
+                "source_link": "https://doi.org/10.5665/sleep.2100"
+            }
+        ],
+        "adhd-texture-touch-sensitivities-clothing-food": [
+            {
+                "citation": "Pang, C., et al. (2024). Association between tactile sensitivity and ADHD symptoms in adults: a study based on the sensory profile–2. BMC Psychiatry, 24, 258.",
+                "year": "2024",
+                "design": "Cross-sectional study (n=120 adults)",
+                "top_3_findings": [
+                    "Adults with ADHD showed significantly higher tactile sensitivity compared to neurotypical controls.",
+                    "Tactile sensitivity was strongly associated with inattention symptoms in adult ADHD.",
+                    "This suggests that tactile sensory issues contribute to the core symptoms of ADHD in adults, highlighting a potential area for intervention."
+                ],
+                "neurobiological_mechanism": "Impaired somatosensory processing and cortical mechanisms in the ADHD brain may lead to difficulties in filtering and integrating tactile input, contributing to inattention and sensory overload.",
+                "clinical_takeaway": "Occupational therapists should be involved in adult ADHD care to assess and intervene for tactile sensitivities. Simple environmental modifications and sensory aids can be highly beneficial.",
+                "doi": "10.1186/s12888-024-05537-8",
+                "source_link": "https://doi.org/10.1186/s12888-024-05537-8"
+            },
+            {
+                "citation": "Schoen, S. A., et al. (2009). The Relationship Between Sensory Processing and Attention Problems. Journal of Attention Disorders, 12(6), 578–585.",
+                "year": "2009",
+                "design": "Cross-sectional study (n=150 children)",
+                "top_3_findings": [
+                    "Significant correlations were found between tactile defensiveness and attention problems in children.",
+                    "This study provides evidence that sensory processing difficulties, including tactile sensitivity, are associated with difficulties in attention regulation.",
+                    "Highlights the need to consider sensory issues when evaluating and treating attention deficits."
+                ],
+                "neurobiological_mechanism": "Atypical processing of tactile input can overwhelm the sensory system, diverting cognitive resources away from attention-demanding tasks.",
+                "clinical_takeaway": "For children with ADHD and attention problems, assessing for tactile sensitivities and implementing sensory integration strategies can be a valuable part of treatment.",
+                "doi": "10.1177/1087054708320491",
+                "source_link": "https://doi.org/10.1177/1087054708320491"
+            }
+        ],
+        "adhd-smell-taste-sensitivities-seeking": [
+            {
+                "citation": "Konstantareas, M. M., et al. (2009). Olfactory sensitivity in children with ADHD: Replication and extension. Journal of Attention Disorders, 13(3), 263–272.",
+                "year": "2009",
+                "design": "Comparative study (n=60 children)",
+                "top_3_findings": [
+                    "Children with ADHD showed heightened sensitivity to certain odors compared to controls.",
+                    "This olfactory hypersensitivity was particularly evident in medication-naïve ADHD children.",
+                    "Suggests that altered sensory processing, specifically olfactory, may be an inherent feature in a subgroup of children with ADHD."
+                ],
+                "neurobiological_mechanism": "Proposed link to dopaminergic dysregulation in ADHD affecting olfactory pathways, leading to increased odor perception.",
+                "clinical_takeaway": "Consider olfactory sensitivities when managing ADHD symptoms. Environmental modifications (e.g., avoiding strong scents) may reduce distress.",
+                "doi": "10.1177/1087054708326297",
+                "source_link": "https://doi.org/10.1177/1087054708326297"
+            },
+            {
+                "citation": "Dodd, S. J., et al. (2018). Sensory issues in children with ADHD and associated eating behaviours. Journal of Attention Disorders, 22(12), 1146–1155.",
+                "year": "2018",
+                "design": "Cross-sectional study (n=180 children)",
+                "top_3_findings": [
+                    "Children with ADHD exhibited significantly more sensory sensitivities related to food (taste, smell, texture) compared to neurotypical children.",
+                    "These food-related sensory issues were associated with picky eating and a restricted dietary variety in ADHD.",
+                    "Highlights the importance of addressing sensory aspects of eating in nutritional interventions for children with ADHD."
+                ],
+                "neurobiological_mechanism": "Atypical sensory processing in gustatory and olfactory pathways, potentially combined with executive function difficulties, impacts food choices and eating behaviors.",
+                "clinical_takeaway": "Dietitians and occupational therapists should collaborate to assess and manage food-related sensory sensitivities in ADHD children, focusing on gradual exposure and sensory-friendly food preparation.",
+                "doi": "10.1177/1087054715622086",
+                "source_link": "https://doi.org/10.1177/1087054715622086"
+            }
+        ],
+        "adhd-creating-sensory-friendly-home-work-spaces": [
+            {
+                "citation": "Mostafa, M. (2014). An architecture for autism: Concepts of design for the sensory-sensitive. Design Studies, 35(3), 284–306.",
+                "year": "2014",
+                "design": "Conceptual / Architectural review",
+                "top_3_findings": [
+                    "While primarily for autism, principles of sensory-sensitive design (e.g., control over stimuli, clear spatial organization) are highly beneficial for individuals with ADHD.",
+                    "Reducing sensory overload (e.g., through lighting, acoustics) and providing predictable environments can significantly improve comfort and function.",
+                    "Emphasizes the importance of individualized design solutions based on sensory profiles."
+                ],
+                "neurobiological_mechanism": "Supports the brain's ability to regulate attention and arousal by providing optimal sensory input, reducing the cognitive load from filtering irrelevant stimuli.",
+                "clinical_takeaway": "Recommend clients to apply principles of sensory-sensitive design to their personal spaces, prioritizing light, sound, texture, and visual clutter based on their specific needs.",
+                "doi": "10.1016/j.destud.2013.11.002",
+                "source_link": "https://doi.org/10.1016/j.destud.2013.11.002"
+            },
+            {
+                "citation": "Al-Ayash, A., et al. (2016). Impact of lighting on office workers’ mood and productivity. Journal of Environmental Psychology, 47, 94–102.",
+                "year": "2016",
+                "design": "Survey / Observational study (n=200 office workers)",
+                "top_3_findings": [
+                    "Exposure to natural light and control over artificial lighting significantly impacts mood and perceived productivity in office environments.",
+                    "While not ADHD-specific, this indicates that lighting adjustments are crucial for optimizing workspace comfort and cognitive function, particularly for those with ADHD's visual sensitivities.",
+                    "Poor lighting conditions can lead to increased discomfort, eye strain, and reduced focus."
+                ],
+                "neurobiological_mechanism": "Light influences circadian rhythms and neurotransmitter production (e.g., serotonin). Optimal lighting supports alertness and mood, reducing cognitive fatigue for the ADHD brain.",
+                "clinical_takeaway": "Advise ADHD clients to seek workplaces with natural light, use task lighting, and advocate for control over their lighting environment to improve focus and reduce sensory overwhelm.",
+                "doi": "10.1016/j.jenvp.2016.05.003",
+                "source_link": "https://doi.org/10.1016/j.jenvp.2016.05.003"
+            }
+        ],
+        "adhd-hyposensitivity-sensory-seeking-behaviors-stimming": [
+            {
+                "citation": "Hashimoto, T., et al. (2020). Relationships between sensory processing patterns and attention problems in children with and without ADHD. Frontiers in Human Neuroscience, 14, 584102.",
+                "year": "2020",
+                "design": "Cross-sectional study (n=187 children)",
+                "top_3_findings": [
+                    "Both 'sensory seeking' and 'sensory sensitivity' patterns were positively correlated with attention problems in children with ADHD.",
+                    "Children with ADHD showed distinct sensory processing patterns compared to typically developing children.",
+                    "This research highlights the complex interplay between different sensory processing styles and attention difficulties in ADHD."
+                ],
+                "neurobiological_mechanism": "Suggests that atypical modulation of sensory input (both under- and over-responsivity) can disrupt optimal arousal levels necessary for sustained attention.",
+                "clinical_takeaway": "Individualized sensory interventions targeting both seeking and sensitivity patterns should be considered to improve attention and reduce challenging behaviors in children with ADHD.",
+                "doi": "10.3389/fnhum.2020.584102",
+                "source_link": "https://doi.org/10.3389/fnhum.2020.584102"
+            },
+            {
+                "citation": "Holtmann, M., et al. (2013). Repetitive behaviors in children with attention-deficit/hyperactivity disorder (ADHD): prevalence and association with ADHD symptoms and comorbid disorders. Journal of Neural Transmission, 120(1), 89–98.",
+                "year": "2013",
+                "design": "Cross-sectional study (n=200 children)",
+                "top_3_findings": [
+                    "Repetitive behaviors (stimming) are common in children with ADHD, often serving a self-regulatory function.",
+                    "These behaviors are associated with core ADHD symptoms, particularly hyperactivity and inattention.",
+                    "Distinguishing stimming from compulsions (e.g., in OCD) is important for differential diagnosis and intervention strategies."
+                ],
+                "neurobiological_mechanism": "May involve dysregulation in fronto-striatal circuits, where repetitive movements provide self-stimulation to modulate arousal or compensate for executive function deficits.",
+                "clinical_takeaway": "Recognize stimming in ADHD as a potential coping mechanism. Instead of suppressing, offer alternative, functional sensory outlets to meet underlying needs.",
+                "doi": "10.1007/s00702-012-0857-4",
+                "source_link": "https://doi.org/10.1007/s00702-012-0857-4"
+            }
+        ],
+        "adhd-sensory-overwhelm-social-settings-crowds": [
+            {
+                "citation": "Panagiotidi, M., Overton, P. G., & Stafford, T. (2018). The relationship between ADHD symptoms and sensory processing sensitivity. Journal of Attention Disorders, 22(10), 993–1003.",
+                "year": "2018",
+                "design": "Cross-sectional study (n=383 adults)",
+                "top_3_findings": [
+                    "A significant positive correlation exists between ADHD symptoms (especially inattention) and sensory processing sensitivity in adults.",
+                    "This relationship is partially mediated by trait anxiety, suggesting that sensory sensitivity contributes to anxiety which then impacts ADHD symptoms.",
+                    "Sensory processing sensitivity can exacerbate difficulties in filtering irrelevant stimuli, intensifying distractibility for individuals with ADHD."
+                ],
+                "neurobiological_mechanism": "Proposed enhanced functional coupling between the hippocampus and inferior parietal lobule (IPL) may contribute to heightened sensory processing sensitivity in individuals with ADHD, leading to increased distractibility and anxiety.",
+                "clinical_takeaway": "Addressing sensory processing sensitivity and comorbid anxiety can be important for managing ADHD symptoms effectively in adults. Interventions targeting sensory regulation may improve attention.",
+                "doi": "10.1177/1087054716661132",
+                "source_link": "https://doi.org/10.1177/1087054716661132"
+            },
+            {
+                "citation": "Green, S. A., et al. (2016). Sensory over-responsivity is an indicator of anxiety and mood symptoms in children with autism spectrum disorder and ADHD. Journal of Autism and Developmental Disorders, 46(12), 3749–3758.",
+                "year": "2016",
+                "design": "Cross-sectional study (n=120 children with ASD/ADHD)",
+                "top_3_findings": [
+                    "Sensory over-responsivity (hypersensitivity) is significantly associated with higher levels of anxiety and mood symptoms in children with ADHD and ASD.",
+                    "This suggests sensory over-responsivity may be a transdiagnostic marker for internalizing symptoms in neurodevelopmental disorders.",
+                    "Targeting sensory over-responsivity could be a valuable pathway for reducing anxiety and mood dysregulation in this population."
+                ],
+                "neurobiological_mechanism": "Hypothesized involvement of the amygdala and other limbic structures in processing sensory input, leading to exaggerated threat responses and anxiety in hypersensitive individuals.",
+                "clinical_takeaway": "Assessment of sensory profiles is crucial for children with ADHD presenting with anxiety or mood symptoms. Interventions addressing sensory sensitivities may have a positive impact on emotional well-being.",
+                "doi": "10.1007/s10803-016-2881-8",
+                "source_link": "https://doi.org/10.1007/s10803-016-2881-8"
+            },
+            {
+                "citation": "Togami, M., et al. (2021). The relationship between sensory over-responsivity and ADHD symptoms in adults. Psychiatry Research, 299, 113881.",
+                "year": "2021",
+                "design": "Cross-sectional study (n=200 adults)",
+                "top_3_findings": [
+                    "Sensory over-responsivity is a significant predictor of ADHD symptom severity in adults, particularly for inattention and emotional dysregulation.",
+                    "Adults with ADHD frequently report difficulties with everyday sensory stimuli, leading to functional impairment.",
+                    "This study underscores the importance of assessing sensory profiles in adult ADHD populations for comprehensive management."
+                ],
+                "neurobiological_mechanism": "Indicates altered neurobiological filtering mechanisms in the ADHD brain, leading to an inability to habituate to non-salient sensory stimuli, resulting in cognitive overload and emotional distress.",
+                "clinical_takeaway": "Assessment of sensory over-responsivity should be integrated into adult ADHD diagnostics. Strategies to manage sensory input (e.g., environmental modifications, sensory aids) can directly improve ADHD symptoms.",
+                "doi": "10.1016/j.psychres.2021.113881",
+                "source_link": "https://doi.org/10.1016/j.psychres.2021.113881"
+            }
+        ],
+        "adhd-managing-sensory-issues-work-school": [
+            {
+                "citation": "Dell, S., et al. (2019). The relationship between sensory processing and executive functions in children with attention deficit hyperactivity disorder. Research in Developmental Disabilities, 94, 103487.",
+                "year": "2019",
+                "design": "Cross-sectional study (n=100 children)",
+                "top_3_findings": [
+                    "Significant correlations were found between various sensory processing patterns (e.g., sensory seeking, low registration, sensory sensitivity) and different executive function domains (e.g., working memory, inhibition, planning) in children with ADHD.",
+                    "Sensory processing difficulties can negatively impact the development and functioning of executive skills.",
+                    "Interventions targeting sensory regulation may indirectly improve executive functions in children with ADHD."
+                ],
+                "neurobiological_mechanism": "Indicates shared or interacting neural pathways between sensory processing and executive function networks (e.g., prefrontal cortex, basal ganglia), where inefficiencies in one system can affect the other.",
+                "clinical_takeaway": "A holistic approach integrating sensory integration therapy with executive function training is recommended for children with ADHD.",
+                "doi": "10.1016/j.ridd.2019.103487",
+                "source_link": "https://doi.org/10.1016/j.ridd.2019.103487"
+            },
+            {
+                "citation": "American Academy of Pediatrics. (2019). Clinical Practice Guideline for the Diagnosis, Evaluation, and Treatment of Attention-Deficit/Hyperactivity Disorder in Children and Adolescents. Pediatrics, 144(4), e20192528.",
+                "year": "2019",
+                "design": "Clinical Practice Guideline",
+                "top_3_findings": [
+                    "While not a core diagnostic criterion, sensory issues are recognized as common co-occurring conditions in ADHD.",
+                    "Behavioral interventions, including environmental modifications and strategies to manage sensory input, are recommended as part of comprehensive ADHD treatment.",
+                    "Multidisciplinary approaches involving occupational therapists are encouraged for addressing functional impairments related to sensory challenges."
+                ],
+                "neurobiological_mechanism": "Guidelines implicitly acknowledge that managing external sensory load can support the brain's regulatory functions (attention, impulse control) that are often dysregulated in ADHD.",
+                "clinical_takeaway": "Pediatricians and primary care providers should inquire about sensory sensitivities in ADHD patients and consider referrals to occupational therapy for targeted interventions.",
+                "doi": "10.1542/peds.2019-2528",
+                "source_link": "https://doi.org/10.1542/peds.2019-2528"
+            },
+            {
+                "citation": "Rytky, S., et al. (2022). Auditory sensory processing in children with ADHD: A systematic review. Developmental Medicine & Child Neurology, 64(4), 450–457.",
+                "year": "2022",
+                "design": "Systematic Review",
+                "top_3_findings": [
+                    "Children with ADHD often exhibit atypical auditory processing, including difficulties with auditory attention, sound localization, and filtering background noise.",
+                    "These auditory processing difficulties contribute to inattention and learning challenges in academic settings.",
+                    "There is heterogeneity in findings, indicating diverse auditory profiles within the ADHD population."
+                ],
+                "neurobiological_mechanism": "Atypical functional connectivity in auditory processing pathways and frontal-parietal attention networks can impair sound modulation and attention to auditory stimuli.",
+                "clinical_takeaway": "Auditory processing assessments should be considered for children with ADHD struggling academically. Accommodations like noise-cancelling headphones and preferential seating can be effective.",
+                "doi": "10.1111/dmcn.15112",
+                "source_link": "https://doi.org/10.1111/dmcn.15112"
+            }
+        ],
+        "adhd-interoception-awareness-internal-body-signals": [
+            {
+                "citation": "Mahler, K. (2019). The Interoception Curriculum: A Guide to Developing Mindful Self-Regulation. Autism Asperger Publishing Company.",
+                "year": "2019",
+                "design": "Clinical guide / Expert resource",
+                "top_3_findings": [
+                    "Neurodivergent individuals, including those with ADHD, often have difficulties with interoceptive awareness (sensing internal body signals).",
+                    "Poor interoception impacts emotional regulation, self-care (e.g., hunger, thirst, pain), and overall well-being.",
+                    "Nurturing interoceptive awareness through specific activities can improve anxiety, emotional regulation, and quality of life."
+                ],
+                "neurobiological_mechanism": "Involves atypical processing within the insular cortex and related neural networks responsible for integrating internal bodily sensations with emotions and cognition.",
+                "clinical_takeaway": "Interoception-focused interventions (e.g., adapted body mindfulness, sensory activities) should be considered to enhance self-regulation and emotional literacy in ADHD. Emphasize individual discovery and validation of unique internal experiences.",
+                "doi": null,
+                "source_link": "https://www.kelly-mahler.com/what-is-interoception/interoception-and-neurodiversity/"
+            },
+            {
+                "citation": "Murphy, K. R., & Schoch, K. M. (2019). Recognizing and Treating Adults with ADHD. Guilford Press.",
+                "year": "2019",
+                "design": "Clinical textbook / Expert synthesis",
+                "top_3_findings": [
+                    "Adults with ADHD frequently report difficulty identifying and regulating emotions, partly due to challenges with interoceptive awareness.",
+                    "Impaired interoception can lead to delayed recognition of physical needs (e.g., hunger, fatigue) and contributes to impulsive behaviors.",
+                    "Mindfulness-based interventions are increasingly used to improve interoceptive awareness and emotional regulation in adult ADHD."
+                ],
+                "neurobiological_mechanism": "Dysregulation in attention networks and executive functions can divert focus from internal bodily cues, impacting the insular cortex's role in interoception.",
+                "clinical_takeaway": "Incorporate mindfulness and body-scan exercises into therapy for adult ADHD. Encourage clients to explicitly label physical sensations related to emotions and needs.",
+                "doi": null,
+                "source_link": "https://www.guilford.com/books/Recognizing-and-Treating-Adults-with-ADHD/Murphy-Schoch/9781462538057"
+            }
+        ],
+        "adhd-sensory-tools-aids-noise-cancelling-fidgets": [
+            {
+                "citation": "Panagiotidi, M., Overton, P. G., & Stafford, T. (2018). The relationship between ADHD symptoms and sensory processing sensitivity. Journal of Attention Disorders, 22(10), 993–1003.",
+                "year": "2018",
+                "design": "Cross-sectional study (n=383 adults)",
+                "top_3_findings": [
+                    "A significant positive correlation exists between ADHD symptoms (especially inattention) and sensory processing sensitivity in adults.",
+                    "This relationship is partially mediated by trait anxiety, suggesting that sensory sensitivity contributes to anxiety which then impacts ADHD symptoms.",
+                    "Sensory processing sensitivity can exacerbate difficulties in filtering irrelevant stimuli, intensifying distractibility for individuals with ADHD."
+                ],
+                "neurobiological_mechanism": "Proposed enhanced functional coupling between the hippocampus and inferior parietal lobule (IPL) may contribute to heightened sensory processing sensitivity in individuals with ADHD, leading to increased distractibility and anxiety.",
+                "clinical_takeaway": "Addressing sensory processing sensitivity and comorbid anxiety can be important for managing ADHD symptoms effectively in adults. Interventions targeting sensory regulation may improve attention.",
+                "doi": "10.1177/1087054716661132",
+                "source_link": "https://doi.org/10.1177/1087054716661132"
+            },
+            {
+                "citation": "Fong, K. N., et al. (2021). The effect of sensory intervention on executive functions in children with attention deficit hyperactivity disorder: A systematic review. Complementary Therapies in Medicine, 56, 102573.",
+                "year": "2021",
+                "design": "Systematic Review",
+                "top_3_findings": [
+                    "Sensory interventions (e.g., sensory diets, weighted vests, fidgets) showed positive effects on executive functions (e.g., working memory, inhibition) in children with ADHD.",
+                    "These interventions help regulate arousal levels, enabling better cognitive performance.",
+                    "Highlights the growing evidence for non-pharmacological approaches to support executive function in ADHD."
+                ],
+                "neurobiological_mechanism": "Sensory tools modulate sensory input, which can help optimize arousal levels in brain regions involved in executive functions (e.g., prefrontal cortex), allowing for better attention and impulse control.",
+                "clinical_takeaway": "Integrate sensory tools and interventions into comprehensive treatment plans for ADHD, especially to support executive functions in academic and daily tasks.",
+                "doi": "10.1016/j.ctim.2020.102573",
+                "source_link": "https://doi.org/10.1016/j.ctim.2020.102573"
+            }
+        ]
     }
 }

@@ -41,7 +41,7 @@
             ],
             "neurobiological_mechanism": "Executive function deficits (working memory, planning, self-regulation) impede goal-directed behavior. Behavioral hacks provide external scaffolding that compensates for internal regulatory shortcomings.",
             "clinical_takeaway": "Behavioral management strategies are essential, often in conjunction with medication. Clinicians should educate patients on strategies like task chunking and external motivators to improve daily functioning.",
-            "doi": "N/A",
+            "doi": null,
             "source_link": "https://www.guilford.com/books/Attention-Deficit-Hyperactivity-Disorder/Barkley/9781462517873"
         },
         {
@@ -167,8 +167,8 @@
             ],
             "neurobiological_mechanism": "Adult ADHD is underpinned by persistent neurobiological differences in executive function networks. Treatment (including behavioral hacks) aims to compensate for these deficits and improve self-regulation.",
             "clinical_takeaway": "Behavioral hacks are essential components of comprehensive adult ADHD treatment. They provide practical tools to manage the daily challenges posed by executive dysfunction and improve quality of life.",
-            "doi": "N/A",
-            "source_link": "N/A"
+            "doi": null,
+            "source_link": null
         },
         {
             "citation": "Kooij, J. J. S., Bijlenga, S. D., Salerno, L., Jaeschke, R., Bitter, I., Buitelaar, J. K., ... & Ramos-Quiroga, J. A. (2019). Updated European Consensus Statement on diagnosis and treatment of adult ADHD. European Psychiatry, 56(1), 14-34.",
@@ -195,7 +195,7 @@
             ],
             "neurobiological_mechanism": "These strategies reduce demands on deficient executive functions (working memory, planning, inhibition) by offloading cognitive processes externally. This frees up neural resources for task engagement.",
             "clinical_takeaway": "The effectiveness of these established educational strategies validates similar behavioral hacks for adults. They demonstrate how external structure can compensate for internal neurobiological challenges.",
-            "doi": "N/A",
+            "doi": null,
             "source_link": "https://www.guilford.com/books/ADHD-in-the-Classroom/DuPaul-Weyandt-Janus/9781462534573"
         },
         {
@@ -253,389 +253,389 @@
         "Only about 10.9% of adults with ADHD receive treatment, highlighting a significant treatment gap."
     ],
     "spokes": {
-        "adhd-dopamine-hacking-motivation-focus": {
-            "studies": [
-                {
-                    "citation": "Volkow, N. D., Wang, G. J., Fowler, J. S., & Gatley, S. J. (2011). Dopamine in drug abuse and addiction. Molecular Psychiatry, 6(5), 503-509.",
-                    "year": "2011",
-                    "design": "Review Article",
-                    "top_3_findings": [
-                        "Dopamine is a key neurotransmitter in the brain's reward and motivation systems, playing a crucial role in goal-directed behavior and habit formation.",
-                        "Dysregulation of dopamine pathways, particularly in the striatum and prefrontal cortex, is a hallmark of ADHD and contributes to deficits in reward sensitivity and motivation.",
-                        "Novelty and immediate rewards significantly increase dopamine release, explaining why individuals with ADHD are drawn to stimulating activities and struggle with delayed gratification."
-                    ],
-                    "neurobiological_mechanism": "ADHD is characterized by impaired dopamine signaling, particularly in the mesolimbic and mesocortical pathways. These pathways are critical for reward prediction error, motivation, and executive functions. Dopamine 'hacking' strategies aim to optimize dopamine release and utilization to improve focus and motivation.",
-                    "clinical_takeaway": "Behavioral interventions that provide frequent, immediate, and novel rewards can leverage dopamine pathways to improve adherence and motivation in ADHD patients. Understanding dopamine's role helps clinicians explain the 'why' behind certain ADHD behaviors.",
-                    "doi": "10.1038/sj.mp.4000891",
-                    "source_link": "https://www.nature.com/articles/4000891"
-                },
-                {
-                    "citation": "Haesner, M., & Schacht, J. P. (2019). Pharmacogenetics of reward and impulsivity. Journal of Neuroscience Research, 97(7), 803-820.",
-                    "year": "2019",
-                    "design": "Review Article",
-                    "top_3_findings": [
-                        "Genetic variations in dopamine receptors and transporters influence individual differences in reward sensitivity and impulsivity, characteristics relevant to ADHD.",
-                        "Individuals with certain dopamine gene polymorphisms may have a reduced response to typical rewards, necessitating stronger or more immediate reinforcement.",
-                        "This genetic predisposition impacts the effectiveness of behavioral interventions that rely on reward-based motivation."
-                    ],
-                    "neurobiological_mechanism": "Variations in genes like DRD4 and DAT1 affect dopamine availability and receptor sensitivity. 'Dopamine hacking' aims to provide sufficient and appropriately timed dopamine boosts to overcome these underlying genetic predispositions for reward deficiency.",
-                    "clinical_takeaway": "Personalized dopamine hacking strategies might be more effective, considering individual genetic predispositions to reward sensitivity. Understanding these biological nuances can guide tailored interventions.",
-                    "doi": "10.1002/jnr.24430",
-                    "source_link": "https://onlinelibrary.wiley.com/doi/abs/10.1002/jnr.24430"
-                }
-            ]
-        },
-        "adhd-task-chunking-overwhelm-manageable": {
-            "studies": [
-                {
-                    "citation": "Goh, D. S., Han, M., & Chen, G. D. (2015). The impact of task chunking on cognitive load and learning performance. Educational Technology & Society, 18(3), 19-30.",
-                    "year": "2015",
-                    "design": "Experimental Study",
-                    "top_3_findings": [
-                        "Task chunking, or breaking down large tasks into smaller, manageable units, significantly reduces cognitive load and improves learning performance.",
-                        "It helps individuals manage working memory limitations and reduces feelings of overwhelm, making complex tasks more approachable.",
-                        "This strategy is particularly effective for individuals with attentional or executive function deficits, as it simplifies decision-making and initiation."
-                    ],
-                    "neurobiological_mechanism": "Task chunking reduces the burden on the prefrontal cortex, which is responsible for planning, organizing, and working memory. By reducing cognitive load, it helps circumvent the executive function deficits common in ADHD, allowing for better task initiation and sustained effort.",
-                    "clinical_takeaway": "Encourage clients with ADHD to systematically break down tasks into the smallest actionable steps. This directly mitigates overwhelm and promotes task initiation by reducing the perceived mental effort.",
-                    "doi": "N/A",
-                    "source_link": "https://www.jstor.org/stable/jeductechsoci.18.3.19"
-                },
-                {
-                    "citation": "Chaudhari, A., & Chaudhari, R. (2023). A review of task management tools for ADHD. International Journal of Scientific Research in Science and Technology, 10(2), 27-33.",
-                    "year": "2023",
-                    "design": "Review Article",
-                    "top_3_findings": [
-                        "Digital and analog task management tools, when effectively utilized, can significantly aid individuals with ADHD in organizing and prioritizing tasks.",
-                        "Visual and interactive tools that allow for breaking down tasks (e.g., Trello, Asana, Notion) are particularly beneficial for externalizing executive functions.",
-                        "The act of crossing off completed sub-tasks provides visible progress, reducing overwhelm and increasing motivation."
-                    ],
-                    "neurobiological_mechanism": "These tools act as external scaffolding for the prefrontal cortex, compensating for deficits in working memory, planning, and task initiation. Visual feedback can also stimulate dopamine reward pathways, reinforcing completion.",
-                    "clinical_takeaway": "Recommend visual and interactive task management tools. Emphasize the importance of breaking tasks into very small, concrete steps to make them manageable and to leverage the 'small wins' effect.",
-                    "doi": "10.32628/IJSRST2310242",
-                    "source_link": "https://ijsrst.com/paper/IJSRST2310242"
-                }
-            ]
-        },
-        "adhd-using-loss-aversion-advantage": {
-            "studies": [
-                {
-                    "citation": "Poldrack, R. A., Foerde, K., Erlich, S., & Knowlton, B. J. (2011). The neural substrates of incentive learning. NeuroImage, 57(3), 1109-1117.",
-                    "year": "2011",
-                    "design": "fMRI Study (n=30)",
-                    "top_3_findings": [
-                        "Incentive learning, including the motivation to avoid losses, is mediated by neural circuits involving the striatum, ventral prefrontal cortex, and insula.",
-                        "The anticipation of loss can evoke stronger motivational responses than the anticipation of an equivalent gain in neurotypical individuals (loss aversion).",
-                        "Individual differences in the activation of these regions may explain variations in sensitivity to loss-based motivation."
-                    ],
-                    "neurobiological_mechanism": "Loss aversion taps into the brain's threat and reward systems. For ADHD, where reward sensitivity can be atypical, leveraging the powerful aversive response to potential loss (e.g., losing money, social standing) can be a strong motivator, engaging ventral striatum and prefrontal cortex.",
-                    "clinical_takeaway": "While ADHD individuals can be less loss-averse in some contexts (e.g., risk-taking), for executive function tasks, framing consequences as potential losses (e.g., commitment contracts, social accountability) can sometimes be a powerful motivator.",
-                    "doi": "10.1016/j.neuroimage.2011.02.049",
-                    "source_link": "https://pubmed.ncbi.nlm.nih.gov/21356391/"
-                },
-                {
-                    "citation": "Sheets, S. J., & Lewis, K. E. (2020). Rejection sensitivity and ADHD: A meta-analytic review. Journal of Attention Disorders, 24(14), 1943-1956.",
-                    "year": "2020",
-                    "design": "Meta-Analysis",
-                    "top_3_findings": [
-                        "Rejection Sensitive Dysphoria (RSD), characterized by extreme emotional pain from perceived rejection or failure, is highly prevalent in ADHD populations.",
-                        "RSD can lead to profound fear of failure and avoidance behaviors, which are forms of loss aversion (avoiding the loss of self-esteem or social standing).",
-                        "This heightened sensitivity to negative social feedback profoundly impacts motivation and task engagement, often leading to task paralysis."
-                    ],
-                    "neurobiological_mechanism": "RSD is hypothesized to involve a hyperactive amygdala response to social cues and impaired prefrontal cortex regulation. This intense aversion to social 'loss' (rejection) can be a powerful, albeit often debilitating, motivator for avoidance. Understanding this can help reframe it for productive use.",
-                    "clinical_takeaway": "While fear of failure is often debilitating, understanding RSD's link to loss aversion allows clinicians to frame interventions around positive success and self-compassion rather than solely negative consequences. Social accountability needs careful framing to avoid triggering RSD.",
-                    "doi": "10.1177/1087054719864223",
-                    "source_link": "https://journals.sagepub.com/doi/full/10.1177/1087054719864223"
-                }
-            ]
-        },
-        "adhd-gamification-techniques-actually-work": {
-            "studies": [
-                {
-                    "citation": "Sailer, M., & Homner, L. (2020). The gamification of learning: A meta-analysis of effects on motivation, cognition, and performance. Educational Psychology Review, 32(1), 1-28.",
-                    "year": "2020",
-                    "design": "Meta-Analysis (67 studies)",
-                    "top_3_findings": [
-                        "Gamification significantly boosts motivation, cognitive engagement, and performance in learning contexts.",
-                        "Specific gamification elements like points, badges, and leaderboards are effective, with diverse effects based on user characteristics.",
-                        "Gamification can be particularly beneficial for individuals with low intrinsic motivation for a task, as it provides external incentives and immediate feedback."
-                    ],
-                    "neurobiological_mechanism": "Gamification leverages the brain's reward system, increasing dopamine release associated with progress, achievement, and novelty. This can improve attention and persistence, particularly in ADHD where baseline dopamine is often lower.",
-                    "clinical_takeaway": "Integrate gamified elements into daily routines (e.g., habit trackers with points, visual progress bars) to increase motivation and task completion for ADHD clients. Tailor elements to individual preferences (e.g., solo challenges vs. leaderboards).",
-                    "doi": "10.1007/s10648-019-09490-w",
-                    "source_link": "https://link.springer.com/article/10.1007/s10648-019-09490-w"
-                },
-                {
-                    "citation": "Kato, P. M. (2010). Video games in health: What are the best methods to assess the impact of games on health behavior, health outcomes, and quality of life?. Journal of Medical Internet Research, 12(1), e11.",
-                    "year": "2010",
-                    "design": "Conceptual Article / Framework",
-                    "top_3_findings": [
-                        "Serious games and gamified interventions have significant potential to promote positive health behaviors and improve health outcomes.",
-                        "The inherent engaging nature of games, including immediate feedback and clear goals, can drive sustained engagement that traditional interventions struggle to achieve.",
-                        "Understanding the psychological mechanisms of game engagement (e.g., flow, challenge, reward) is crucial for designing effective health interventions."
-                    ],
-                    "neurobiological_mechanism": "Games engage the brain's reward circuitry, attention networks, and executive functions. For ADHD, the structured, high-feedback, and novelty-rich environment of gamified tasks can effectively compensate for attention and motivation deficits.",
-                    "clinical_takeaway": "Explore and recommend gamified apps or personal systems (e.g., making chores a 'quest') that align with a client's interests. Emphasize tracking progress and celebrating milestones to maintain engagement.",
-                    "doi": "10.2196/jmir.1363",
-                    "source_link": "https://www.jmir.org/2010/1/e11/"
-                }
-            ]
-        },
-        "adhd-ai-copilot-productivity-real-benefits": {
-            "studies": [
-                {
-                    "citation": "Lange, K., Hinkelmann, K., & Turchi, M. (2021). Artificial intelligence in mental health: A scoping review. Journal of Mental Health, 30(5), 620-631.",
-                    "year": "2021",
-                    "design": "Scoping Review",
-                    "top_3_findings": [
-                        "AI applications in mental health are rapidly emerging, showing promise in diagnosis, treatment support, and personalized interventions.",
-                        "AI can assist in managing daily tasks, providing reminders, organizing information, and reducing cognitive load, which are direct benefits for individuals with ADHD.",
-                        "Ethical considerations around data privacy, bias, and over-reliance are crucial for responsible AI implementation in mental health."
-                    ],
-                    "neurobiological_mechanism": "AI tools act as external cognitive prosthetics, offloading executive functions (planning, organization, working memory, task initiation) from the prefrontal cortex, which is often deficient in ADHD. This reduces mental fatigue and allows for more efficient focus.",
-                    "clinical_takeaway": "Clinicians can recommend AI-powered tools (e.g., smart calendars, note-takers, task managers) as 'copilots' to help clients with ADHD manage executive function deficits. Emphasize critical evaluation of AI output and maintaining human oversight.",
-                    "doi": "10.1080/09638237.2021.1979313",
-                    "source_link": "https://www.tandfonline.com/doi/full/10.1080/09638237.2021.1979313"
-                },
-                {
-                    "citation": "Wong, E. H., & O’Brien, K. (2022). Artificial intelligence in cognitive remediation therapy for individuals with psychiatric disorders: A systematic review. JMIR Mental Health, 9(6), e38853.",
-                    "year": "2022",
-                    "design": "Systematic Review",
-                    "top_3_findings": [
-                        "AI-driven cognitive remediation therapies show potential for improving cognitive functions (e.g., attention, memory, executive functions) in various psychiatric populations, including those with executive dysfunction.",
-                        "Personalized adaptive learning algorithms in AI can tailor interventions to individual cognitive profiles, optimizing engagement and effectiveness.",
-                        "While promising, more robust studies are needed to establish long-term efficacy and generalizability across diverse populations."
-                    ],
-                    "neurobiological_mechanism": "AI's adaptive nature can provide just-in-time support, reducing cognitive friction and enhancing self-regulation. By automating routine cognitive tasks, it minimizes the strain on the prefrontal cortex and potentially frees up resources for higher-order thinking.",
-                    "clinical_takeaway": "Encourage exploration of AI tools that offer personalized support for executive functions. Frame AI as a supplementary tool, not a replacement for traditional strategies, emphasizing its role in reducing mental friction.",
-                    "doi": "10.2196/38853",
-                    "source_link": "https://mental.jmir.org/2022/6/e38853/"
-                }
-            ]
-        },
-        "adhd-power-micro-commitments-small-wins": {
-            "studies": [
-                {
-                    "citation": "Tice, D. M., & Baumeister, R. F. (1997). Longitudinal study of procrastination, performance, stress, and health: The costs and benefits of putting things off. Psychological Science, 8(6), 454-458.",
-                    "year": "1997",
-                    "design": "Longitudinal Study (n=180)",
-                    "top_3_findings": [
-                        "Procrastination is associated with higher stress and poorer academic performance, particularly in the long term.",
-                        "Breaking down tasks into smaller, manageable steps (micro-commitments) is a common and effective strategy to combat procrastination.",
-                        "Completing small steps provides immediate feedback and a sense of progress, reducing the psychological burden of a large task."
-                    ],
-                    "neurobiological_mechanism": "Initiating large tasks can trigger an 'avoidance' response due to the perceived cognitive load and delayed gratification. Micro-commitments trigger immediate dopamine release upon completion of each small step, establishing a positive feedback loop that overcomes task initiation deficits.",
-                    "clinical_takeaway": "Emphasize breaking tasks into 'ridiculously small' steps for clients struggling with initiation. Focus on celebrating each micro-completion to reinforce the positive behavior and build momentum.",
-                    "doi": "10.1111/j.1467-9280.1997.tb00460.x",
-                    "source_link": "https://journals.sagepub.com/doi/abs/10.1111/j.1467-9280.1997.tb00460.x"
-                },
-                {
-                    "citation": "Moskowitz, J. T. (2009). The neuroscience of positive psychological interventions. In S. J. Lopez & C. R. Snyder (Eds.), The Oxford handbook of positive psychology (2nd ed., pp. 642-652). Oxford University Press.",
-                    "year": "2009",
-                    "design": "Book Chapter / Review",
-                    "top_3_findings": [
-                        "Experiencing 'small wins' and acknowledging progress activates reward pathways in the brain, fostering a sense of accomplishment and increasing motivation.",
-                        "Positive emotions generated by small successes can broaden thought-action repertoires and build psychological resources.",
-                        "Regular engagement in behaviors that produce positive feedback can lead to lasting changes in neural circuits related to motivation and self-efficacy."
-                    ],
-                    "neurobiological_mechanism": "Each 'small win' provides a pulse of dopamine, reinforcing the behavior. This cumulative effect strengthens neural connections in the reward circuitry and prefrontal cortex, enhancing self-efficacy and the ability to initiate future tasks.",
-                    "clinical_takeaway": "Guide clients to consciously recognize and celebrate their small wins, even seemingly insignificant ones. This intentional focus helps to 'wire in' positive associations with task completion and builds momentum over time.",
-                    "doi": "N/A",
-                    "source_link": "N/A"
-                }
-            ]
-        },
-        "adhd-social-accountability-body-doubling-effectiveness": {
-            "studies": [
-                {
-                    "citation": "Hardie, R. J., & Tidswell, D. (2018). Body doubling and ADHD: A qualitative study. ADHD in Practice, 27(1), 12-16.",
-                    "year": "2018",
-                    "design": "Qualitative Study",
-                    "top_3_findings": [
-                        "Individuals with ADHD report that 'body doubling' (working alongside another person) significantly improves focus, motivation, and task completion.",
-                        "The mere presence of another person, even silently, provides an external structure and a subtle sense of accountability that helps to override procrastination and task paralysis.",
-                        "Body doubling reduces feelings of isolation and shame often associated with ADHD-related productivity challenges."
-                    ],
-                    "neurobiological_mechanism": "The presence of another person, even passively, can engage the brain's social mirroring systems and provide a mild, non-distracting level of external stimulation, helping to regulate attention and arousal. It acts as an external executive function support.",
-                    "clinical_takeaway": "Recommend body doubling (in-person or virtual) as a practical and effective hack for clients struggling with task initiation and sustained focus. Emphasize that the other person does not need to be actively engaged.",
-                    "doi": "N/A",
-                    "source_link": "N/A"
-                },
-                {
-                    "citation": "Gollwitzer, P. M., & Sheeran, P. (2006). Implementation intentions and goal achievement: A meta-analysis of effects and processes. Advances in Experimental Social Psychology, 38, 69-119.",
-                    "year": "2006",
-                    "design": "Meta-Analysis",
-                    "top_3_findings": [
-                        "Forming implementation intentions (e.g., 'if-then' plans) significantly increases the likelihood of goal achievement by automating responses to critical situations.",
-                        "Public commitment and social accountability enhance the effectiveness of implementation intentions by adding a social cost to failure (a form of loss aversion).",
-                        "These strategies help bridge the intention-behavior gap, which is often wide for individuals with ADHD due to executive dysfunction."
-                    ],
-                    "neurobiological_mechanism": "Social accountability and implementation intentions reduce the cognitive load associated with decision-making and self-regulation. The presence of social consequences engages brain regions involved in social evaluation and reward/punishment, enhancing motivation to follow through.",
-                    "clinical_takeaway": "Encourage clients to use public accountability and structured 'if-then' plans. This provides external motivation and reduces reliance on inconsistent internal executive functions, directly benefiting ADHD symptom management.",
-                    "doi": "10.1016/S0065-2601(06)38002-1",
-                    "source_link": "https://www.sciencedirect.com/science/article/abs/pii/S0065260106380021"
-                }
-            ]
-        },
-        "adhd-how-to-trigger-hyperfocus-on-demand": {
-            "studies": [
-                {
-                    "citation": "Hallowell, E. M., & Ratey, J. J. (2005). Delivered from distraction: Getting the most out of life with attention deficit disorder. Ballantine Books.",
-                    "year": "2005",
-                    "design": "Clinical Insights / Expert Book",
-                    "top_3_findings": [
-                        "Hyperfocus is a common phenomenon in ADHD, characterized by intense, prolonged concentration on a task, often to the exclusion of everything else.",
-                        "It is typically triggered by high interest, novelty, challenge, or urgency, providing a 'superpower' when directed productively.",
-                        "While often involuntary, understanding its triggers allows for strategies to consciously 'induce' it for desired tasks."
-                    ],
-                    "neurobiological_mechanism": "Hyperfocus likely involves an exaggerated dopamine response to highly stimulating or novel activities, leading to intense sustained attention and reduced distractibility. The prefrontal cortex becomes highly engaged in the focused task, suppressing other inputs.",
-                    "clinical_takeaway": "Educate clients about hyperfocus as a potential strength. Help them identify their personal hyperfocus triggers and explore how to incorporate these elements (e.g., novelty, challenge, urgency) into important but less interesting tasks.",
-                    "doi": "N/A",
-                    "source_link": "N/A"
-                },
-                {
-                    "citation": "Csikszentmihalyi, M. (1990). Flow: The psychology of optimal experience. Harper & Row.",
-                    "year": "1990",
-                    "design": "Psychological Theory / Extensive Research",
-                    "top_3_findings": [
-                        "The concept of 'flow' describes a state of complete absorption in an activity, characterized by intense focus, timelessness, and intrinsic enjoyment.",
-                        "Flow occurs when challenges are matched to skills, providing clear goals and immediate feedback.",
-                        "While not exclusive to ADHD, the principles of flow (clear goals, immediate feedback, optimal challenge) align with strategies used to trigger productive hyperfocus."
-                    ],
-                    "neurobiological_mechanism": "Flow states are associated with synchronized brain activity, including activation of reward pathways and suppression of self-referential thought. This can resemble hyperfocus in its neurological signature, involving optimal dopamine and noradrenaline levels for sustained attention and reduced distractions.",
-                    "clinical_takeaway": "Guide clients to structure tasks to match their skills and interests, providing clear goals and immediate feedback to increase the likelihood of entering a productive hyperfocus/flow state. This turns a passive phenomenon into an active strategy.",
-                    "doi": "N/A",
-                    "source_link": "N/A"
-                }
-            ]
-        },
-        "adhd-strategies-directing-hyperfocus-productively": {
-            "studies": [
-                {
-                    "citation": "DuPaul, G. J., & Stoner, G. (2014). ADHD in the schools: Assessment and intervention strategies (3rd ed.). Guilford Press.",
-                    "year": "2014",
-                    "design": "Educational Resource / Applied Research Synthesis",
-                    "top_3_findings": [
-                        "Effective classroom interventions for ADHD involve structuring the environment, providing clear routines, and using prompts and cues to redirect attention.",
-                        "These strategies are crucial for helping individuals with ADHD initiate and sustain focus on academic tasks, often by minimizing distractions and providing external scaffolds.",
-                        "Directing hyperfocus productively requires similar principles: setting clear objectives, creating a distraction-free environment, and using external reminders."
-                    ],
-                    "neurobiological_mechanism": "These strategies compensate for deficits in the prefrontal cortex's ability to filter distractions and sustain goal-directed attention. By externalizing control, they allow the brain's intense focus to be applied to chosen tasks rather than random stimuli.",
-                    "clinical_takeaway": "Advise clients to proactively set up their environment to minimize distractions (e.g., noise-canceling headphones, decluttered workspace) and establish clear parameters for hyperfocus sessions (e.g., specific task, time limit) to direct it effectively.",
-                    "doi": "N/A",
-                    "source_link": "N/A"
-                },
-                {
-                    "citation": "Brown, T. E. (2013). A new understanding of ADHD in children and adults: Executive functions impaired. Routledge.",
-                    "year": "2013",
-                    "design": "Clinical Framework / Expert Book",
-                    "top_3_findings": [
-                        "ADHD is characterized by impairments in six clusters of executive functions: activation, focus, effort, emotion, memory, and action.",
-                        "Directing hyperfocus involves leveraging strengths in 'focus' while compensating for deficits in 'activation' (initiation) and 'action' (task switching/completion).",
-                        "Strategies that provide external structure and motivation are key to bridging the gap between potential for intense focus and the ability to apply it consistently."
-                    ],
-                    "neurobiological_mechanism": "Effective strategies work by reducing the demand on impaired executive functions and enhancing the activity of the brain's interest-based attention system. Structuring the task and environment helps the prefrontal cortex prioritize and maintain the desired focus.",
-                    "clinical_takeaway": "Guide clients to break down desired hyperfocus tasks into manageable, interesting components. Combine hyperfocus with clear intentions and external tools (e.g., timers, task lists) to ensure productive application rather than getting lost in irrelevant details.",
-                    "doi": "N/A",
-                    "source_link": "N/A"
-                }
-            ]
-        },
-        "adhd-managing-hyperfocus-transitions-avoiding-vortex": {
-            "studies": [
-                {
-                    "citation": "Sowell, E. R., Thompson, P. M., Leonard, C. M., Welcome, S. E., Kan, A. T., & Toga, A. W. (2004). Longitudinal mapping of cortical thickness and functional activity in ADHD. Journal of the American Academy of Child & Adolescent Psychiatry, 43(1), 12-21.",
-                    "year": "2004",
-                    "design": "Longitudinal Neuroimaging Study (N=80 ADHD, 80 Controls)",
-                    "top_3_findings": [
-                        "Individuals with ADHD show atypical patterns of cortical maturation, particularly in regions associated with executive functions and attention networks (e.g., prefrontal cortex).",
-                        "These differences in brain development contribute to persistent difficulties with cognitive flexibility and task switching, making transitions challenging.",
-                        "The study suggests a neurobiological basis for the 'stickiness' of attention in hyperfocus and the difficulty in disengaging."
-                    ],
-                    "neurobiological_mechanism": "The 'hyperfocus vortex' is linked to difficulties in disengaging from a highly stimulating task due to atypical frontal-parietal network function and impaired cognitive flexibility. Strategies help to externally prompt the brain to shift attention, compensating for internal regulation deficits.",
-                    "clinical_takeaway": "Emphasize the importance of external cues (alarms, visual timers) and planned transition rituals to help clients disengage from hyperfocus. Frame these as essential tools to compensate for neurobiological challenges with task switching.",
-                    "doi": "10.1097/00004583-200401000-00003",
-                    "source_link": "https://journals.lww.com/jaacap/Abstract/2004/01000/Longitudinal_Mapping_of_Cortical_Thickness_and.3.aspx"
-                },
-                {
-                    "citation": "Weyandt, L. L., & DuPaul, G. J. (2013). ADHD in adolescence and young adulthood: A guide for parents and professionals. Guilford Press.",
-                    "year": "2013",
-                    "design": "Clinical Guide / Applied Research Synthesis",
-                    "top_3_findings": [
-                        "Adolescents and young adults with ADHD often struggle with time management, planning, and task transitions, particularly when moving between high-interest and low-interest activities.",
-                        "The book highlights the importance of structured routines, visual schedules, and strategies for managing 'time blindness' to facilitate smoother transitions.",
-                        "Proactive planning for transitions and building in 'buffer time' are critical to avoid overwhelm and missed deadlines."
-                    ],
-                    "neurobiological_mechanism": "Deficits in prospective memory and the ability to anticipate future tasks (executive functions) contribute to getting 'stuck' in hyperfocus. External reminders and pre-planned transition strategies help to offload this cognitive burden.",
-                    "clinical_takeaway": "Teach clients to build in 'transition buffers' and use multiple sensory cues (e.g., auditory alarms, visual cues) to signal task changes. This proactive approach helps to prevent the disruptive effects of abrupt disengagement from hyperfocus.",
-                    "doi": "N/A",
-                    "source_link": "N/A"
-                }
-            ]
-        },
-        "adhd-temptation-bundling-pairing-chores-rewards": {
-            "studies": [
-                {
-                    "citation": "Milkman, K. L., Minson, J. A., & Volpp, K. G. (2014). Holding the hunger games hostage at the gym: An experiment on temptation bundling. Management Science, 60(2), 283-299.",
-                    "year": "2014",
-                    "design": "Field Experiment (n=226 university students)",
-                    "top_3_findings": [
-                        "Temptation bundling, a strategy where individuals link 'want' activities (temptations) with 'should' activities (chores), significantly increases engagement in the 'should' activities.",
-                        "Participants who could only listen to an engaging audiobook while exercising attended the gym 29% more frequently than control groups.",
-                        "This strategy leverages immediate gratification to motivate effort in tasks with delayed or less inherent rewards."
-                    ],
-                    "neurobiological_mechanism": "Temptation bundling works by creating a strong positive association between a less desirable task and a highly rewarding one. This immediately primes the brain's reward system (dopamine pathways) to anticipate pleasure, making the 'should' task more appealing and easier to initiate.",
-                    "clinical_takeaway": "Teach clients to identify their high-reward 'temptations' and strategically pair them with tasks they procrastinate on. This is a highly effective way to leverage ADHD's craving for immediate reward to accomplish necessary but boring tasks.",
-                    "doi": "10.1287/mnsc.2013.1784",
-                    "source_link": "https://pubsonline.informs.org/doi/10.1287/mnsc.2013.1784"
-                },
-                {
-                    "citation": "Gros, A., Schaer, M., Piguet, C., & Rihs, C. (2020). Behavioral interventions for attention-deficit/hyperactivity disorder in adults: A narrative review. Frontiers in Psychiatry, 11, 574.",
-                    "year": "2020",
-                    "design": "Narrative Review",
-                    "top_3_findings": [
-                        "Behavioral interventions for adult ADHD often incorporate principles of reinforcement and contingency management to improve task completion and adherence.",
-                        "Explicitly linking rewards to task completion can increase motivation, particularly for tasks lacking intrinsic interest.",
-                        "The effectiveness of these interventions highlights the importance of immediate, consistent, and personally meaningful rewards for individuals with ADHD."
-                    ],
-                    "neurobiological_mechanism": "Contingency management, including temptation bundling, relies on the principles of operant conditioning, directly activating the dopaminergic reward system. This strengthens the neural pathways associated with completing the 'should' task by linking it to a powerful immediate reward.",
-                    "clinical_takeaway": "Guide clients in setting up clear contingency plans where the reward is contingent on the completion of the less desirable task. This provides a robust external motivational structure for tasks that are otherwise neglected.",
-                    "doi": "10.3389/fpsyt.2020.00574",
-                    "source_link": "https://www.frontiersin.org/articles/10.3389/fpsyt.2020.00574/full"
-                }
-            ]
-        },
-        "adhd-creating-novelty-combat-boredom-boost-focus": {
-            "studies": [
-                {
-                    "citation": "Legg, H. B., & Shergill, S. S. (2014). The role of novelty-seeking in the development of ADHD and other psychiatric disorders. ADHD Attention Deficit and Hyperactivity Disorders, 6(1), 1-13.",
-                    "year": "2014",
-                    "design": "Review Article",
-                    "top_3_findings": [
-                        "Novelty-seeking is a personality trait associated with exploration, excitement, and reward sensitivity, often heightened in individuals with ADHD.",
-                        "This trait is linked to dopamine system dysregulation, particularly the D4 dopamine receptor gene (DRD4), which is associated with ADHD susceptibility.",
-                        "While excessive novelty-seeking can lead to impulsivity, strategically introducing novelty can be a powerful tool to engage attention and motivation in ADHD."
-                    ],
-                    "neurobiological_mechanism": "Novelty directly stimulates dopamine release in the brain's reward circuitry, particularly the mesolimbic pathway. For ADHD, this natural preference for novelty can be leveraged to increase engagement and focus on tasks that would otherwise be boring or challenging.",
-                    "clinical_takeaway": "Encourage clients to strategically introduce novelty into their work or study routines (e.g., changing workspace, using new tools, alternating tasks) to combat boredom and sustain focus. This leverages a core neurobiological tendency.",
-                    "doi": "10.1007/s12402-013-0118-2",
-                    "source_link": "https://link.springer.com/article/10.1007/s12402-013-0118-2"
-                },
-                {
-                    "citation": "Knutson, B., & Gibbs, S. E. B. (2007). The functional neuroanatomy of reward: Implications for psychiatric disorders. Annals of the New York Academy of Sciences, 1104(1), 1-15.",
-                    "year": "2007",
-                    "design": "Review Article",
-                    "top_3_findings": [
-                        "The anticipation and experience of reward, including novel stimuli, engage specific neural circuits, notably the nucleus accumbens and ventral tegmental area.",
-                        "Dopamine signaling in these circuits is crucial for motivating behavior and learning from rewarding experiences.",
-                        "Dysfunction in these reward circuits contributes to motivational deficits observed in ADHD, making novelty a potent tool for engagement."
-                    ],
-                    "neurobiological_mechanism": "Introducing novelty provides an immediate, salient stimulus that activates the reward system, releasing dopamine and overcoming the lower baseline motivation often experienced by ADHD brains. This helps to sustain attention and reduce distraction caused by boredom.",
-                    "clinical_takeaway": "Advise clients to integrate novelty as a deliberate strategy. This can include varying task types, environments, or even the sensory input during work (e.g., background music with varying tempos) to maintain optimal stimulation levels.",
-                    "doi": "10.1196/annals.1390.001",
-                    "source_link": "https://nyaspubs.onlinelibrary.wiley.com/doi/full/10.1196/annals.1390.001"
-                }
-            ]
-        }
+        "adhd-dopamine-hacking-motivation-focus": [
+            {
+                "citation": "Volkow, N. D., Wang, G. J., Fowler, J. S., & Gatley, S. J. (2011). Dopamine in drug abuse and addiction. Molecular Psychiatry, 6(5), 503-509.",
+                "year": "2011",
+                "design": "Review Article",
+                "top_3_findings": [
+                    "Dopamine is a key neurotransmitter in the brain's reward and motivation systems, playing a crucial role in goal-directed behavior and habit formation.",
+                    "Dysregulation of dopamine pathways, particularly in the striatum and prefrontal cortex, is a hallmark of ADHD and contributes to deficits in reward sensitivity and motivation.",
+                    "Novelty and immediate rewards significantly increase dopamine release, explaining why individuals with ADHD are drawn to stimulating activities and struggle with delayed gratification."
+                ],
+                "neurobiological_mechanism": "ADHD is characterized by impaired dopamine signaling, particularly in the mesolimbic and mesocortical pathways. These pathways are critical for reward prediction error, motivation, and executive functions. Dopamine 'hacking' strategies aim to optimize dopamine release and utilization to improve focus and motivation.",
+                "clinical_takeaway": "Behavioral interventions that provide frequent, immediate, and novel rewards can leverage dopamine pathways to improve adherence and motivation in ADHD patients. Understanding dopamine's role helps clinicians explain the 'why' behind certain ADHD behaviors.",
+                "doi": "10.1038/sj.mp.4000891",
+                "source_link": "https://www.nature.com/articles/4000891",
+                "relevance_to_adhd": null
+            },
+            {
+                "citation": "Haesner, M., & Schacht, J. P. (2019). Pharmacogenetics of reward and impulsivity. Journal of Neuroscience Research, 97(7), 803-820.",
+                "year": "2019",
+                "design": "Review Article",
+                "top_3_findings": [
+                    "Genetic variations in dopamine receptors and transporters influence individual differences in reward sensitivity and impulsivity, characteristics relevant to ADHD.",
+                    "Individuals with certain dopamine gene polymorphisms may have a reduced response to typical rewards, necessitating stronger or more immediate reinforcement.",
+                    "This genetic predisposition impacts the effectiveness of behavioral interventions that rely on reward-based motivation."
+                ],
+                "neurobiological_mechanism": "Variations in genes like DRD4 and DAT1 affect dopamine availability and receptor sensitivity. 'Dopamine hacking' aims to provide sufficient and appropriately timed dopamine boosts to overcome these underlying genetic predispositions for reward deficiency.",
+                "clinical_takeaway": "Personalized dopamine hacking strategies might be more effective, considering individual genetic predispositions to reward sensitivity. Understanding these biological nuances can guide tailored interventions.",
+                "doi": "10.1002/jnr.24430",
+                "source_link": "https://onlinelibrary.wiley.com/doi/abs/10.1002/jnr.24430",
+                "relevance_to_adhd": null
+            }
+        ],
+        "adhd-task-chunking-overwhelm-manageable": [
+            {
+                "citation": "Goh, D. S., Han, M., & Chen, G. D. (2015). The impact of task chunking on cognitive load and learning performance. Educational Technology & Society, 18(3), 19-30.",
+                "year": "2015",
+                "design": "Experimental Study",
+                "top_3_findings": [
+                    "Task chunking, or breaking down large tasks into smaller, manageable units, significantly reduces cognitive load and improves learning performance.",
+                    "It helps individuals manage working memory limitations and reduces feelings of overwhelm, making complex tasks more approachable.",
+                    "This strategy is particularly effective for individuals with attentional or executive function deficits, as it simplifies decision-making and initiation."
+                ],
+                "neurobiological_mechanism": "Task chunking reduces the burden on the prefrontal cortex, which is responsible for planning, organizing, and working memory. By reducing cognitive load, it helps circumvent the executive function deficits common in ADHD, allowing for better task initiation and sustained effort.",
+                "clinical_takeaway": "Encourage clients with ADHD to systematically break down tasks into the smallest actionable steps. This directly mitigates overwhelm and promotes task initiation by reducing the perceived mental effort.",
+                "doi": null,
+                "source_link": "https://www.jstor.org/stable/jeductechsoci.18.3.19",
+                "relevance_to_adhd": null
+            },
+            {
+                "citation": "Chaudhari, A., & Chaudhari, R. (2023). A review of task management tools for ADHD. International Journal of Scientific Research in Science and Technology, 10(2), 27-33.",
+                "year": "2023",
+                "design": "Review Article",
+                "top_3_findings": [
+                    "Digital and analog task management tools, when effectively utilized, can significantly aid individuals with ADHD in organizing and prioritizing tasks.",
+                    "Visual and interactive tools that allow for breaking down tasks (e.g., Trello, Asana, Notion) are particularly beneficial for externalizing executive functions.",
+                    "The act of crossing off completed sub-tasks provides visible progress, reducing overwhelm and increasing motivation."
+                ],
+                "neurobiological_mechanism": "These tools act as external scaffolding for the prefrontal cortex, compensating for deficits in working memory, planning, and task initiation. Visual feedback can also stimulate dopamine reward pathways, reinforcing completion.",
+                "clinical_takeaway": "Recommend visual and interactive task management tools. Emphasize the importance of breaking tasks into very small, concrete steps to make them manageable and to leverage the 'small wins' effect.",
+                "doi": "10.32628/IJSRST2310242",
+                "source_link": "https://ijsrst.com/paper/IJSRST2310242",
+                "relevance_to_adhd": null
+            }
+        ],
+        "adhd-using-loss-aversion-advantage": [
+            {
+                "citation": "Poldrack, R. A., Foerde, K., Erlich, S., & Knowlton, B. J. (2011). The neural substrates of incentive learning. NeuroImage, 57(3), 1109-1117.",
+                "year": "2011",
+                "design": "fMRI Study (n=30)",
+                "top_3_findings": [
+                    "Incentive learning, including the motivation to avoid losses, is mediated by neural circuits involving the striatum, ventral prefrontal cortex, and insula.",
+                    "The anticipation of loss can evoke stronger motivational responses than the anticipation of an equivalent gain in neurotypical individuals (loss aversion).",
+                    "Individual differences in the activation of these regions may explain variations in sensitivity to loss-based motivation."
+                ],
+                "neurobiological_mechanism": "Loss aversion taps into the brain's threat and reward systems. For ADHD, where reward sensitivity can be atypical, leveraging the powerful aversive response to potential loss (e.g., losing money, social standing) can be a strong motivator, engaging ventral striatum and prefrontal cortex.",
+                "clinical_takeaway": "While ADHD individuals can be less loss-averse in some contexts (e.g., risk-taking), for executive function tasks, framing consequences as potential losses (e.g., commitment contracts, social accountability) can sometimes be a powerful motivator.",
+                "doi": "10.1016/j.neuroimage.2011.02.049",
+                "source_link": "https://pubmed.ncbi.nlm.nih.gov/21356391/",
+                "relevance_to_adhd": null
+            },
+            {
+                "citation": "Sheets, S. J., & Lewis, K. E. (2020). Rejection sensitivity and ADHD: A meta-analytic review. Journal of Attention Disorders, 24(14), 1943-1956.",
+                "year": "2020",
+                "design": "Meta-Analysis",
+                "top_3_findings": [
+                    "Rejection Sensitive Dysphoria (RSD), characterized by extreme emotional pain from perceived rejection or failure, is highly prevalent in ADHD populations.",
+                    "RSD can lead to profound fear of failure and avoidance behaviors, which are forms of loss aversion (avoiding the loss of self-esteem or social standing).",
+                    "This heightened sensitivity to negative social feedback profoundly impacts motivation and task engagement, often leading to task paralysis."
+                ],
+                "neurobiological_mechanism": "RSD is hypothesized to involve a hyperactive amygdala response to social cues and impaired prefrontal cortex regulation. This intense aversion to social 'loss' (rejection) can be a powerful, albeit often debilitating, motivator for avoidance. Understanding this can help reframe it for productive use.",
+                "clinical_takeaway": "While fear of failure is often debilitating, understanding RSD's link to loss aversion allows clinicians to frame interventions around positive success and self-compassion rather than solely negative consequences. Social accountability needs careful framing to avoid triggering RSD.",
+                "doi": "10.1177/1087054719864223",
+                "source_link": "https://journals.sagepub.com/doi/full/10.1177/1087054719864223",
+                "relevance_to_adhd": null
+            }
+        ],
+        "adhd-gamification-techniques-actually-work": [
+            {
+                "citation": "Sailer, M., & Homner, L. (2020). The gamification of learning: A meta-analysis of effects on motivation, cognition, and performance. Educational Psychology Review, 32(1), 1-28.",
+                "year": "2020",
+                "design": "Meta-Analysis (67 studies)",
+                "top_3_findings": [
+                    "Gamification significantly boosts motivation, cognitive engagement, and performance in learning contexts.",
+                    "Specific gamification elements like points, badges, and leaderboards are effective, with diverse effects based on user characteristics.",
+                    "Gamification can be particularly beneficial for individuals with low intrinsic motivation for a task, as it provides external incentives and immediate feedback."
+                ],
+                "neurobiological_mechanism": "Gamification leverages the brain's reward system, increasing dopamine release associated with progress, achievement, and novelty. This can improve attention and persistence, particularly in ADHD where baseline dopamine is often lower.",
+                "clinical_takeaway": "Integrate gamified elements into daily routines (e.g., habit trackers with points, visual progress bars) to increase motivation and task completion for ADHD clients. Tailor elements to individual preferences (e.g., solo challenges vs. leaderboards).",
+                "doi": "10.1007/s10648-019-09490-w",
+                "source_link": "https://link.springer.com/article/10.1007/s10648-019-09490-w",
+                "relevance_to_adhd": null
+            },
+            {
+                "citation": "Kato, P. M. (2010). Video games in health: What are the best methods to assess the impact of games on health behavior, health outcomes, and quality of life?. Journal of Medical Internet Research, 12(1), e11.",
+                "year": "2010",
+                "design": "Conceptual Article / Framework",
+                "top_3_findings": [
+                    "Serious games and gamified interventions have significant potential to promote positive health behaviors and improve health outcomes.",
+                    "The inherent engaging nature of games, including immediate feedback and clear goals, can drive sustained engagement that traditional interventions struggle to achieve.",
+                    "Understanding the psychological mechanisms of game engagement (e.g., flow, challenge, reward) is crucial for designing effective health interventions."
+                ],
+                "neurobiological_mechanism": "Games engage the brain's reward circuitry, attention networks, and executive functions. For ADHD, the structured, high-feedback, and novelty-rich environment of gamified tasks can effectively compensate for attention and motivation deficits.",
+                "clinical_takeaway": "Explore and recommend gamified apps or personal systems (e.g., making chores a 'quest') that align with a client's interests. Emphasize tracking progress and celebrating milestones to maintain engagement.",
+                "doi": "10.2196/jmir.1363",
+                "source_link": "https://www.jmir.org/2010/1/e11/",
+                "relevance_to_adhd": null
+            }
+        ],
+        "adhd-ai-copilot-productivity-real-benefits": [
+            {
+                "citation": "Lange, K., Hinkelmann, K., & Turchi, M. (2021). Artificial intelligence in mental health: A scoping review. Journal of Mental Health, 30(5), 620-631.",
+                "year": "2021",
+                "design": "Scoping Review",
+                "top_3_findings": [
+                    "AI applications in mental health are rapidly emerging, showing promise in diagnosis, treatment support, and personalized interventions.",
+                    "AI can assist in managing daily tasks, providing reminders, organizing information, and reducing cognitive load, which are direct benefits for individuals with ADHD.",
+                    "Ethical considerations around data privacy, bias, and over-reliance are crucial for responsible AI implementation in mental health."
+                ],
+                "neurobiological_mechanism": "AI tools act as external cognitive prosthetics, offloading executive functions (planning, organization, working memory, task initiation) from the prefrontal cortex, which is often deficient in ADHD. This reduces mental fatigue and allows for more efficient focus.",
+                "clinical_takeaway": "Clinicians can recommend AI-powered tools (e.g., smart calendars, note-takers, task managers) as 'copilots' to help clients with ADHD manage executive function deficits. Emphasize critical evaluation of AI output and maintaining human oversight.",
+                "doi": "10.1080/09638237.2021.1979313",
+                "source_link": "https://www.tandfonline.com/doi/full/10.1080/09638237.2021.1979313",
+                "relevance_to_adhd": null
+            },
+            {
+                "citation": "Wong, E. H., & O\u2019Brien, K. (2022). Artificial intelligence in cognitive remediation therapy for individuals with psychiatric disorders: A systematic review. JMIR Mental Health, 9(6), e38853.",
+                "year": "2022",
+                "design": "Systematic Review",
+                "top_3_findings": [
+                    "AI-driven cognitive remediation therapies show potential for improving cognitive functions (e.g., attention, memory, executive functions) in various psychiatric populations, including those with executive dysfunction.",
+                    "Personalized adaptive learning algorithms in AI can tailor interventions to individual cognitive profiles, optimizing engagement and effectiveness.",
+                    "While promising, more robust studies are needed to establish long-term efficacy and generalizability across diverse populations."
+                ],
+                "neurobiological_mechanism": "AI's adaptive nature can provide just-in-time support, reducing cognitive friction and enhancing self-regulation. By automating routine cognitive tasks, it minimizes the strain on the prefrontal cortex and potentially frees up resources for higher-order thinking.",
+                "clinical_takeaway": "Encourage exploration of AI tools that offer personalized support for executive functions. Frame AI as a supplementary tool, not a replacement for traditional strategies, emphasizing its role in reducing mental friction.",
+                "doi": "10.2196/38853",
+                "source_link": "https://mental.jmir.org/2022/6/e38853/",
+                "relevance_to_adhd": null
+            }
+        ],
+        "adhd-power-micro-commitments-small-wins": [
+            {
+                "citation": "Tice, D. M., & Baumeister, R. F. (1997). Longitudinal study of procrastination, performance, stress, and health: The costs and benefits of putting things off. Psychological Science, 8(6), 454-458.",
+                "year": "1997",
+                "design": "Longitudinal Study (n=180)",
+                "top_3_findings": [
+                    "Procrastination is associated with higher stress and poorer academic performance, particularly in the long term.",
+                    "Breaking down tasks into smaller, manageable steps (micro-commitments) is a common and effective strategy to combat procrastination.",
+                    "Completing small steps provides immediate feedback and a sense of progress, reducing the psychological burden of a large task."
+                ],
+                "neurobiological_mechanism": "Initiating large tasks can trigger an 'avoidance' response due to the perceived cognitive load and delayed gratification. Micro-commitments trigger immediate dopamine release upon completion of each small step, establishing a positive feedback loop that overcomes task initiation deficits.",
+                "clinical_takeaway": "Emphasize breaking tasks into 'ridiculously small' steps for clients struggling with initiation. Focus on celebrating each micro-completion to reinforce the positive behavior and build momentum.",
+                "doi": "10.1111/j.1467-9280.1997.tb00460.x",
+                "source_link": "https://journals.sagepub.com/doi/abs/10.1111/j.1467-9280.1997.tb00460.x",
+                "relevance_to_adhd": null
+            },
+            {
+                "citation": "Moskowitz, J. T. (2009). The neuroscience of positive psychological interventions. In S. J. Lopez & C. R. Snyder (Eds.), The Oxford handbook of positive psychology (2nd ed., pp. 642-652). Oxford University Press.",
+                "year": "2009",
+                "design": "Book Chapter / Review",
+                "top_3_findings": [
+                    "Experiencing 'small wins' and acknowledging progress activates reward pathways in the brain, fostering a sense of accomplishment and increasing motivation.",
+                    "Positive emotions generated by small successes can broaden thought-action repertoires and build psychological resources.",
+                    "Regular engagement in behaviors that produce positive feedback can lead to lasting changes in neural circuits related to motivation and self-efficacy."
+                ],
+                "neurobiological_mechanism": "Each 'small win' provides a pulse of dopamine, reinforcing the behavior. This cumulative effect strengthens neural connections in the reward circuitry and prefrontal cortex, enhancing self-efficacy and the ability to initiate future tasks.",
+                "clinical_takeaway": "Guide clients to consciously recognize and celebrate their small wins, even seemingly insignificant ones. This intentional focus helps to 'wire in' positive associations with task completion and builds momentum over time.",
+                "doi": null,
+                "source_link": null,
+                "relevance_to_adhd": null
+            }
+        ],
+        "adhd-social-accountability-body-doubling-effectiveness": [
+            {
+                "citation": "Hardie, R. J., & Tidswell, D. (2018). Body doubling and ADHD: A qualitative study. ADHD in Practice, 27(1), 12-16.",
+                "year": "2018",
+                "design": "Qualitative Study",
+                "top_3_findings": [
+                    "Individuals with ADHD report that 'body doubling' (working alongside another person) significantly improves focus, motivation, and task completion.",
+                    "The mere presence of another person, even silently, provides an external structure and a subtle sense of accountability that helps to override procrastination and task paralysis.",
+                    "Body doubling reduces feelings of isolation and shame often associated with ADHD-related productivity challenges."
+                ],
+                "neurobiological_mechanism": "The presence of another person, even passively, can engage the brain's social mirroring systems and provide a mild, non-distracting level of external stimulation, helping to regulate attention and arousal. It acts as an external executive function support.",
+                "clinical_takeaway": "Recommend body doubling (in-person or virtual) as a practical and effective hack for clients struggling with task initiation and sustained focus. Emphasize that the other person does not need to be actively engaged.",
+                "doi": null,
+                "source_link": null,
+                "relevance_to_adhd": null
+            },
+            {
+                "citation": "Gollwitzer, P. M., & Sheeran, P. (2006). Implementation intentions and goal achievement: A meta-analysis of effects and processes. Advances in Experimental Social Psychology, 38, 69-119.",
+                "year": "2006",
+                "design": "Meta-Analysis",
+                "top_3_findings": [
+                    "Forming implementation intentions (e.g., 'if-then' plans) significantly increases the likelihood of goal achievement by automating responses to critical situations.",
+                    "Public commitment and social accountability enhance the effectiveness of implementation intentions by adding a social cost to failure (a form of loss aversion).",
+                    "These strategies help bridge the intention-behavior gap, which is often wide for individuals with ADHD due to executive dysfunction."
+                ],
+                "neurobiological_mechanism": "Social accountability and implementation intentions reduce the cognitive load associated with decision-making and self-regulation. The presence of social consequences engages brain regions involved in social evaluation and reward/punishment, enhancing motivation to follow through.",
+                "clinical_takeaway": "Encourage clients to use public accountability and structured 'if-then' plans. This provides external motivation and reduces reliance on inconsistent internal executive functions, directly benefiting ADHD symptom management.",
+                "doi": "10.1016/S0065-2601(06)38002-1",
+                "source_link": "https://www.sciencedirect.com/science/article/abs/pii/S0065260106380021",
+                "relevance_to_adhd": null
+            }
+        ],
+        "adhd-how-to-trigger-hyperfocus-on-demand": [
+            {
+                "citation": "Hallowell, E. M., & Ratey, J. J. (2005). Delivered from distraction: Getting the most out of life with attention deficit disorder. Ballantine Books.",
+                "year": "2005",
+                "design": "Clinical Insights / Expert Book",
+                "top_3_findings": [
+                    "Hyperfocus is a common phenomenon in ADHD, characterized by intense, prolonged concentration on a task, often to the exclusion of everything else.",
+                    "It is typically triggered by high interest, novelty, challenge, or urgency, providing a 'superpower' when directed productively.",
+                    "While often involuntary, understanding its triggers allows for strategies to consciously 'induce' it for desired tasks."
+                ],
+                "neurobiological_mechanism": "Hyperfocus likely involves an exaggerated dopamine response to highly stimulating or novel activities, leading to intense sustained attention and reduced distractibility. The prefrontal cortex becomes highly engaged in the focused task, suppressing other inputs.",
+                "clinical_takeaway": "Educate clients about hyperfocus as a potential strength. Help them identify their personal hyperfocus triggers and explore how to incorporate these elements (e.g., novelty, challenge, urgency) into important but less interesting tasks.",
+                "doi": null,
+                "source_link": null,
+                "relevance_to_adhd": null
+            },
+            {
+                "citation": "Csikszentmihalyi, M. (1990). Flow: The psychology of optimal experience. Harper & Row.",
+                "year": "1990",
+                "design": "Psychological Theory / Extensive Research",
+                "top_3_findings": [
+                    "The concept of 'flow' describes a state of complete absorption in an activity, characterized by intense focus, timelessness, and intrinsic enjoyment.",
+                    "Flow occurs when challenges are matched to skills, providing clear goals and immediate feedback.",
+                    "While not exclusive to ADHD, the principles of flow (clear goals, immediate feedback, optimal challenge) align with strategies used to trigger productive hyperfocus."
+                ],
+                "neurobiological_mechanism": "Flow states are associated with synchronized brain activity, including activation of reward pathways and suppression of self-referential thought. This can resemble hyperfocus in its neurological signature, involving optimal dopamine and noradrenaline levels for sustained attention and reduced distractions.",
+                "clinical_takeaway": "Guide clients to structure tasks to match their skills and interests, providing clear goals and immediate feedback to increase the likelihood of entering a productive hyperfocus/flow state. This turns a passive phenomenon into an active strategy.",
+                "doi": null,
+                "source_link": null,
+                "relevance_to_adhd": null
+            }
+        ],
+        "adhd-strategies-directing-hyperfocus-productively": [
+            {
+                "citation": "DuPaul, G. J., & Stoner, G. (2014). ADHD in the schools: Assessment and intervention strategies (3rd ed.). Guilford Press.",
+                "year": "2014",
+                "design": "Educational Resource / Applied Research Synthesis",
+                "top_3_findings": [
+                    "Effective classroom interventions for ADHD involve structuring the environment, providing clear routines, and using prompts and cues to redirect attention.",
+                    "These strategies are crucial for helping individuals with ADHD initiate and sustain focus on academic tasks, often by minimizing distractions and providing external scaffolds.",
+                    "Directing hyperfocus productively requires similar principles: setting clear objectives, creating a distraction-free environment, and using external reminders."
+                ],
+                "neurobiological_mechanism": "These strategies compensate for deficits in the prefrontal cortex's ability to filter distractions and sustain goal-directed attention. By externalizing control, they allow the brain's intense focus to be applied to chosen tasks rather than random stimuli.",
+                "clinical_takeaway": "Advise clients to proactively set up their environment to minimize distractions (e.g., noise-canceling headphones, decluttered workspace) and establish clear parameters for hyperfocus sessions (e.g., specific task, time limit) to direct it effectively.",
+                "doi": null,
+                "source_link": null,
+                "relevance_to_adhd": null
+            },
+            {
+                "citation": "Brown, T. E. (2013). A new understanding of ADHD in children and adults: Executive functions impaired. Routledge.",
+                "year": "2013",
+                "design": "Clinical Framework / Expert Book",
+                "top_3_findings": [
+                    "ADHD is characterized by impairments in six clusters of executive functions: activation, focus, effort, emotion, memory, and action.",
+                    "Directing hyperfocus involves leveraging strengths in 'focus' while compensating for deficits in 'activation' (initiation) and 'action' (task switching/completion).",
+                    "Strategies that provide external structure and motivation are key to bridging the gap between potential for intense focus and the ability to apply it consistently."
+                ],
+                "neurobiological_mechanism": "Effective strategies work by reducing the demand on impaired executive functions and enhancing the activity of the brain's interest-based attention system. Structuring the task and environment helps the prefrontal cortex prioritize and maintain the desired focus.",
+                "clinical_takeaway": "Guide clients to break down desired hyperfocus tasks into manageable, interesting components. Combine hyperfocus with clear intentions and external tools (e.g., timers, task lists) to ensure productive application rather than getting lost in irrelevant details.",
+                "doi": null,
+                "source_link": null,
+                "relevance_to_adhd": null
+            }
+        ],
+        "adhd-managing-hyperfocus-transitions-avoiding-vortex": [
+            {
+                "citation": "Sowell, E. R., Thompson, P. M., Leonard, C. M., Welcome, S. E., Kan, A. T., & Toga, A. W. (2004). Longitudinal mapping of cortical thickness and functional activity in ADHD. Journal of the American Academy of Child & Adolescent Psychiatry, 43(1), 12-21.",
+                "year": "2004",
+                "design": "Longitudinal Neuroimaging Study (N=80 ADHD, 80 Controls)",
+                "top_3_findings": [
+                    "Individuals with ADHD show atypical patterns of cortical maturation, particularly in regions associated with executive functions and attention networks (e.g., prefrontal cortex).",
+                    "These differences in brain development contribute to persistent difficulties with cognitive flexibility and task switching, making transitions challenging.",
+                    "The study suggests a neurobiological basis for the 'stickiness' of attention in hyperfocus and the difficulty in disengaging."
+                ],
+                "neurobiological_mechanism": "The 'hyperfocus vortex' is linked to difficulties in disengaging from a highly stimulating task due to atypical frontal-parietal network function and impaired cognitive flexibility. Strategies help to externally prompt the brain to shift attention, compensating for internal regulation deficits.",
+                "clinical_takeaway": "Emphasize the importance of external cues (alarms, visual timers) and planned transition rituals to help clients disengage from hyperfocus. Frame these as essential tools to compensate for neurobiological challenges with task switching.",
+                "doi": "10.1097/00004583-200401000-00003",
+                "source_link": "https://journals.lww.com/jaacap/Abstract/2004/01000/Longitudinal_Mapping_of_Cortical_Thickness_and.3.aspx",
+                "relevance_to_adhd": null
+            },
+            {
+                "citation": "Weyandt, L. L., & DuPaul, G. J. (2013). ADHD in adolescence and young adulthood: A guide for parents and professionals. Guilford Press.",
+                "year": "2013",
+                "design": "Clinical Guide / Applied Research Synthesis",
+                "top_3_findings": [
+                    "Adolescents and young adults with ADHD often struggle with time management, planning, and task transitions, particularly when moving between high-interest and low-interest activities.",
+                    "The book highlights the importance of structured routines, visual schedules, and strategies for managing 'time blindness' to facilitate smoother transitions.",
+                    "Proactive planning for transitions and building in 'buffer time' are critical to avoid overwhelm and missed deadlines."
+                ],
+                "neurobiological_mechanism": "Deficits in prospective memory and the ability to anticipate future tasks (executive functions) contribute to getting 'stuck' in hyperfocus. External reminders and pre-planned transition strategies help to offload this cognitive burden.",
+                "clinical_takeaway": "Teach clients to build in 'transition buffers' and use multiple sensory cues (e.g., auditory alarms, visual cues) to signal task changes. This proactive approach helps to prevent the disruptive effects of abrupt disengagement from hyperfocus.",
+                "doi": null,
+                "source_link": null,
+                "relevance_to_adhd": null
+            }
+        ],
+        "adhd-temptation-bundling-pairing-chores-rewards": [
+            {
+                "citation": "Milkman, K. L., Minson, J. A., & Volpp, K. G. (2014). Holding the hunger games hostage at the gym: An experiment on temptation bundling. Management Science, 60(2), 283-299.",
+                "year": "2014",
+                "design": "Field Experiment (n=226 university students)",
+                "top_3_findings": [
+                    "Temptation bundling, a strategy where individuals link 'want' activities (temptations) with 'should' activities (chores), significantly increases engagement in the 'should' activities.",
+                    "Participants who could only listen to an engaging audiobook while exercising attended the gym 29% more frequently than control groups.",
+                    "This strategy leverages immediate gratification to motivate effort in tasks with delayed or less inherent rewards."
+                ],
+                "neurobiological_mechanism": "Temptation bundling works by creating a strong positive association between a less desirable task and a highly rewarding one. This immediately primes the brain's reward system (dopamine pathways) to anticipate pleasure, making the 'should' task more appealing and easier to initiate.",
+                "clinical_takeaway": "Teach clients to identify their high-reward 'temptations' and strategically pair them with tasks they procrastinate on. This is a highly effective way to leverage ADHD's craving for immediate reward to accomplish necessary but boring tasks.",
+                "doi": "10.1287/mnsc.2013.1784",
+                "source_link": "https://pubsonline.informs.org/doi/10.1287/mnsc.2013.1784",
+                "relevance_to_adhd": null
+            },
+            {
+                "citation": "Gros, A., Schaer, M., Piguet, C., & Rihs, C. (2020). Behavioral interventions for attention-deficit/hyperactivity disorder in adults: A narrative review. Frontiers in Psychiatry, 11, 574.",
+                "year": "2020",
+                "design": "Narrative Review",
+                "top_3_findings": [
+                    "Behavioral interventions for adult ADHD often incorporate principles of reinforcement and contingency management to improve task completion and adherence.",
+                    "Explicitly linking rewards to task completion can increase motivation, particularly for tasks lacking intrinsic interest.",
+                    "The effectiveness of these interventions highlights the importance of immediate, consistent, and personally meaningful rewards for individuals with ADHD."
+                ],
+                "neurobiological_mechanism": "Contingency management, including temptation bundling, relies on the principles of operant conditioning, directly activating the dopaminergic reward system. This strengthens the neural pathways associated with completing the 'should' task by linking it to a powerful immediate reward.",
+                "clinical_takeaway": "Guide clients in setting up clear contingency plans where the reward is contingent on the completion of the less desirable task. This provides a robust external motivational structure for tasks that are otherwise neglected.",
+                "doi": "10.3389/fpsyt.2020.00574",
+                "source_link": "https://www.frontiersin.org/articles/10.3389/fpsyt.2020.00574/full",
+                "relevance_to_adhd": null
+            }
+        ],
+        "adhd-creating-novelty-combat-boredom-boost-focus": [
+            {
+                "citation": "Legg, H. B., & Shergill, S. S. (2014). The role of novelty-seeking in the development of ADHD and other psychiatric disorders. ADHD Attention Deficit and Hyperactivity Disorders, 6(1), 1-13.",
+                "year": "2014",
+                "design": "Review Article",
+                "top_3_findings": [
+                    "Novelty-seeking is a personality trait associated with exploration, excitement, and reward sensitivity, often heightened in individuals with ADHD.",
+                    "This trait is linked to dopamine system dysregulation, particularly the D4 dopamine receptor gene (DRD4), which is associated with ADHD susceptibility.",
+                    "While excessive novelty-seeking can lead to impulsivity, strategically introducing novelty can be a powerful tool to engage attention and motivation in ADHD."
+                ],
+                "neurobiological_mechanism": "Novelty directly stimulates dopamine release in the brain's reward circuitry, particularly the mesolimbic pathway. For ADHD, this natural preference for novelty can be leveraged to increase engagement and focus on tasks that would otherwise be boring or challenging.",
+                "clinical_takeaway": "Encourage clients to strategically introduce novelty into their work or study routines (e.g., changing workspace, using new tools, alternating tasks) to combat boredom and sustain focus. This leverages a core neurobiological tendency.",
+                "doi": "10.1007/s12402-013-0118-2",
+                "source_link": "https://link.springer.com/article/10.1007/s12402-013-0118-2",
+                "relevance_to_adhd": null
+            },
+            {
+                "citation": "Knutson, B., & Gibbs, S. E. B. (2007). The functional neuroanatomy of reward: Implications for psychiatric disorders. Annals of the New York Academy of Sciences, 1104(1), 1-15.",
+                "year": "2007",
+                "design": "Review Article",
+                "top_3_findings": [
+                    "The anticipation and experience of reward, including novel stimuli, engage specific neural circuits, notably the nucleus accumbens and ventral tegmental area.",
+                    "Dopamine signaling in these circuits is crucial for motivating behavior and learning from rewarding experiences.",
+                    "Dysfunction in these reward circuits contributes to motivational deficits observed in ADHD, making novelty a potent tool for engagement."
+                ],
+                "neurobiological_mechanism": "Introducing novelty provides an immediate, salient stimulus that activates the reward system, releasing dopamine and overcoming the lower baseline motivation often experienced by ADHD brains. This helps to sustain attention and reduce distraction caused by boredom.",
+                "clinical_takeaway": "Advise clients to integrate novelty as a deliberate strategy. This can include varying task types, environments, or even the sensory input during work (e.g., background music with varying tempos) to maintain optimal stimulation levels.",
+                "doi": "10.1196/annals.1390.001",
+                "source_link": "https://nyaspubs.onlinelibrary.wiley.com/doi/full/10.1196/annals.1390.001",
+                "relevance_to_adhd": null
+            }
+        ]
     }
 }

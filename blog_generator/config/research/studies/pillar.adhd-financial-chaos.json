@@ -293,389 +293,365 @@
         "Compulsive Buying Scale (CBS)"
     ],
     "spokes": {
-        "adhd-impulse-spending-regret-how-to-stop": {
-            "studies": [
-                {
-                    "citation": "Becker, S. P., et al. (2016). Impulse control difficulties in adult ADHD: Implications for substance use and other risky behaviors. Journal of Attention Disorders, 20(3), 209-218.",
-                    "year": "2016",
-                    "design": "Review Article",
-                    "top_3_findings": [
-                        "Impulse control difficulties are a central feature of ADHD in adulthood, extending beyond hyperactivity to encompass cognitive and behavioral impulsivity.",
-                        "This impulsivity is a significant risk factor for various maladaptive behaviors, including problematic spending and gambling.",
-                        "The paper underscores that behavioral impulsivity directly contributes to short-sighted financial decisions, leading to regret."
-                    ],
-                    "neurobiological_mechanism": "Impaired inhibitory control mechanisms involving fronto-striatal-thalamic circuits, leading to a reduced ability to delay gratification and resist immediate temptations.",
-                    "clinical_takeaway": "Behavioral interventions aimed at improving impulse control, such as 'stop-and-think' strategies or 'waiting periods' for purchases, are highly relevant for reducing impulse spending and subsequent regret.",
-                    "doi": "10.1177/1087054714529064",
-                    "source_link": "https://pubmed.ncbi.nlm.nih.gov/24718536/"
-                },
-                {
-                    "citation": "Lenzi, A., et al. (2021). The relationship between ADHD symptoms and problematic financial behavior in young adults: The mediating role of emotion dysregulation. Psychiatry Research, 303, 114098.",
-                    "year": "2021",
-                    "design": "Cross-sectional Study (n=600+ young adults)",
-                    "top_3_findings": [
-                        "Emotion dysregulation significantly mediates the relationship between ADHD symptoms and problematic financial behaviors, including impulsive spending.",
-                        "Individuals use spending as a coping mechanism for negative emotions, which often leads to regret and a cycle of financial instability.",
-                        "Targeting emotion regulation skills is crucial for reducing impulsive financial behaviors and their associated regret."
-                    ],
-                    "neurobiological_mechanism": "Dysfunction in limbic-prefrontal circuits involved in emotional processing and regulation, leading to difficulty managing intense emotions and susceptibility to emotional spending.",
-                    "clinical_takeaway": "Therapies like DBT that teach emotion regulation strategies can help individuals with ADHD identify and manage emotional triggers for impulse spending, thereby reducing regret.",
-                    "doi": "10.1016/j.psychres.2021.114098",
-                    "source_link": "https://pubmed.ncbi.nlm.nih.gov/34217154/"
-                }
-            ]
-        },
-        "adhd-late-fees-shame-cycle-breaking-free": {
-            "studies": [
-                {
-                    "citation": "Pollak, Y., & Fried, S. (2020). Understanding the 'ADHD tax' in adults: A survey study. Journal of Clinical Psychology, 76(8), 1548-1560.",
-                    "year": "2020",
-                    "design": "Survey Study (n=450+ adults with ADHD)",
-                    "top_3_findings": [
-                        "The majority of adults with ADHD reported incurring 'ADHD tax' costs, including late fees, due to their symptoms.",
-                        "Executive dysfunction, particularly time blindness and forgetfulness, were primary drivers of these hidden costs.",
-                        "The cumulative financial impact contributes significantly to financial stress and associated shame."
-                    ],
-                    "neurobiological_mechanism": "Deficits in working memory, prospective memory, and time perception (linked to prefrontal and parietal lobe dysfunction), making it challenging to recall and act on payment deadlines.",
-                    "clinical_takeaway": "Educating clients about the 'ADHD tax' can reduce shame. Implementing external systems like automated payments and reminders can mitigate late fees.",
-                    "doi": "10.1002/jclp.23010",
-                    "source_link": "https://pubmed.ncbi.nlm.nih.gov/32338575/"
-                },
-                {
-                    "citation": "Knouse, L. E., & Mitchell, D. C. (2016). Shame and self-blame in adults with ADHD: The role of coping strategies. Journal of Attention Disorders, 20(2), 173-181.",
-                    "year": "2016",
-                    "design": "Cross-sectional Study (n=150+ adults with ADHD)",
-                    "top_3_findings": [
-                        "Adults with ADHD frequently experience significant shame and self-blame related to their symptoms, including financial struggles like accumulating late fees.",
-                        "Maladaptive coping strategies, such as avoidance of financial tasks, exacerbate feelings of shame and prevent breaking the cycle.",
-                        "Therapeutic interventions focusing on self-compassion and adaptive coping can reduce shame associated with financial difficulties."
-                    ],
-                    "neurobiological_mechanism": "Impact on emotional regulation pathways and self-perception, potentially involving altered limbic-prefrontal connectivity, leading to persistent negative self-judgment despite intentions to manage finances.",
-                    "clinical_takeaway": "Addressing the emotional burden of shame is crucial; psychoeducation about ADHD's impact can reframe 'laziness' into a neurobiological challenge, facilitating support-seeking.",
-                    "doi": "10.1177/1087054713508492",
-                    "source_link": "https://pubmed.ncbi.nlm.nih.gov/24185799/"
-                }
-            ]
-        },
-        "adhd-why-traditional-budgets-fail-adhd": {
-            "studies": [
-                {
-                    "citation": "Duell, N., & Wagner, M. (2020). Executive Functioning and Financial Capability in Adolescence and Adulthood. Journal of Financial Counseling and Planning, 31(2), 260-272.",
-                    "year": "2020",
-                    "design": "Systematic Review",
-                    "top_3_findings": [
-                        "Executive functioning (EF) is critical for financial capability, directly impacting an individual's ability to create and adhere to budgets.",
-                        "Deficits in EF, particularly planning, organization, and working memory, explain why traditional, rigid budgeting methods are often ineffective for individuals with ADHD.",
-                        "Interventions focusing on flexible, ADHD-friendly strategies are more likely to succeed than conventional budgeting approaches."
-                    ],
-                    "neurobiological_mechanism": "Impaired function in prefrontal cortex networks responsible for planning, working memory, and sustained attention, making it difficult to maintain focus on budget details or follow complex financial plans.",
-                    "clinical_takeaway": "Recommend flexible budgeting methods (e.g., automated savings, simpler systems like the 50/30/20 rule, cash envelopes) that minimize reliance on impaired executive functions.",
-                    "doi": "10.1891/JFCP-19-00045",
-                    "source_link": "https://doi.org/10.1891/JFCP-19-00045"
-                },
-                {
-                    "citation": "Collins, J. M., & O'Rourke, C. (2020). Financial Wellness, Executive Function, and ADHD: A Review of the Literature. Journal of Financial Therapy, 11(2), 1-18.",
-                    "year": "2020",
-                    "design": "Review of Literature",
-                    "top_3_findings": [
-                        "Traditional budgeting methods require sustained attention, organization, and consistent follow-through, which are core challenges in ADHD.",
-                        "The inherent rigidity and lack of immediate reward in conventional budgets lead to low adherence and feelings of failure for individuals with ADHD.",
-                        "The review advocates for customized, neurodiversity-affirming financial management strategies that leverage strengths and external supports."
-                    ],
-                    "neurobiological_mechanism": "Dysregulation of dopamine pathways impacting motivation and reward processing, making adherence to tedious or long-term financial plans less reinforcing.",
-                    "clinical_takeaway": "Financial therapists should emphasize adaptive, forgiving budgeting frameworks that incorporate automation, visual cues, and gamification to increase engagement and sustainability for ADHD clients.",
-                    "doi": "10.4148/1944-9771.1215",
-                    "source_link": "https://newprairiepress.org/jft/vol11/iss2/1"
-                }
-            ]
-        },
-        "adhd-salary-negotiation-shame-self-advocacy": {
-            "studies": [
-                {
-                    "citation": "Gajria, K., Lu, C., Simon, G., Lynch, F., Sikirica, V., & Benson, C. J. (2014). Financial difficulties and psychiatric comorbidities in adults with ADHD. Journal of Attention Disorders, 18(7), 606-614.",
-                    "year": "2014",
-                    "design": "Retrospective Cohort Study (n=38,000+)",
-                    "top_3_findings": [
-                        "Adults with ADHD have significantly lower earnings and higher rates of unemployment, suggesting difficulties in career advancement and salary negotiation.",
-                        "These financial challenges are compounded by comorbidities like anxiety and depression, which can increase shame and reduce self-advocacy in professional settings.",
-                        "The study indirectly highlights that poor self-advocacy during negotiation contributes to the overall economic burden of ADHD."
-                    ],
-                    "neurobiological_mechanism": "Executive dysfunction (e.g., working memory, planning, emotional regulation) impacts performance consistency, self-perception of competence, and the ability to articulate value during negotiation.",
-                    "clinical_takeaway": "Encourage self-advocacy training and support for adults with ADHD in career development, including salary negotiation, to mitigate long-term financial disparities.",
-                    "doi": "10.1177/1087054713479632",
-                    "source_link": "https://pubmed.ncbi.nlm.nih.gov/23572186/"
-                },
-                {
-                    "citation": "Knouse, L. E., & Mitchell, D. C. (2016). Shame and self-blame in adults with ADHD: The role of coping strategies. Journal of Attention Disorders, 20(2), 173-181.",
-                    "year": "2016",
-                    "design": "Cross-sectional Study (n=150+ adults with ADHD)",
-                    "top_3_findings": [
-                        "Adults with ADHD often experience profound shame and self-blame related to their perceived professional shortcomings and financial struggles.",
-                        "This shame can inhibit self-advocacy, making it difficult to negotiate for better salaries or accommodations.",
-                        "Therapeutic interventions focusing on self-compassion and realistic self-assessment can empower individuals to advocate more effectively."
-                    ],
-                    "neurobiological_mechanism": "Impact on emotional regulation pathways and self-perception, potentially involving altered limbic-prefrontal connectivity, leading to persistent negative self-judgment and fear of external judgment.",
-                    "clinical_takeaway": "Address internalized shame and imposter syndrome directly through therapy or coaching to build confidence for self-advocacy in professional contexts.",
-                    "doi": "10.1177/1087054713508492",
-                    "source_link": "https://pubmed.ncbi.nlm.nih.gov/24185799/"
-                }
-            ]
-        },
-        "adhd-food-delivery-financial-drain-uber-eats-doordash": {
-            "studies": [
-                {
-                    "citation": "Lenzi, A., et al. (2021). The relationship between ADHD symptoms and problematic financial behavior in young adults: The mediating role of emotion dysregulation. Psychiatry Research, 303, 114098.",
-                    "year": "2021",
-                    "design": "Cross-sectional Study (n=600+ young adults)",
-                    "top_3_findings": [
-                        "Emotion dysregulation in ADHD contributes to problematic financial behaviors, including using spending as a coping mechanism.",
-                        "The convenience and instant gratification of food delivery apps can make them a significant source of emotional spending for those with ADHD.",
-                        "Difficulty with planning and executive function can lead to reliance on delivery services due to neglected meal preparation."
-                    ],
-                    "neurobiological_mechanism": "Dysfunction in limbic-prefrontal circuits contributes to difficulty managing intense emotions and susceptibility to impulsive behaviors like ordering takeout for immediate relief.",
-                    "clinical_takeaway": "Help individuals with ADHD develop alternative coping strategies for emotional regulation and structured meal planning to reduce reliance on financially draining food delivery services.",
-                    "doi": "10.1016/j.psychres.2021.114098",
-                    "source_link": "https://pubmed.ncbi.nlm.nih.gov/34217154/"
-                },
-                {
-                    "citation": "Becker, S. P., et al. (2016). Impulse control difficulties in adult ADHD: Implications for substance use and other risky behaviors. Journal of Attention Disorders, 20(3), 209-218.",
-                    "year": "2016",
-                    "design": "Review Article",
-                    "top_3_findings": [
-                        "Impulse control difficulties are a core feature of ADHD, making individuals prone to immediate gratification.",
-                        "The ease and instant reward of food delivery apps directly tap into this impulsivity, leading to frequent and costly orders.",
-                        "This behavioral impulsivity significantly contributes to financial drain and hinders long-term financial goals."
-                    ],
-                    "neurobiological_mechanism": "Impaired inhibitory control mechanisms involving fronto-striatal-thalamic circuits, leading to a reduced ability to resist the instant reward of convenient food.",
-                    "clinical_takeaway": "Suggest strategies like deleting delivery apps, setting 'no-order' days, or planning meals in advance to create 'speed bumps' for impulsive food spending.",
-                    "doi": "10.1177/1087054714529064",
-                    "source_link": "https://pubmed.ncbi.nlm.nih.gov/24718536/"
-                }
-            ]
-        },
-        "adhd-saving-money-feels-impossible-strategies": {
-            "studies": [
-                {
-                    "citation": "Barkley, R. A. (2015). Attention-deficit hyperactivity disorder: A handbook for diagnosis and treatment (4th ed.). Guilford Press.",
-                    "year": "2015",
-                    "design": "Clinical Handbook/Expert Synthesis",
-                    "top_3_findings": [
-                        "Dr. Barkley extensively details 'time blindness' as a core executive function deficit in ADHD, making future rewards (like savings) feel less tangible and urgent.",
-                        "This difficulty in future-oriented thinking makes consistent saving and long-term financial planning feel impossible for individuals with ADHD.",
-                        "The handbook emphasizes the need for external scaffolding and immediate, tangible rewards to motivate behaviors like saving."
-                    ],
-                    "neurobiological_mechanism": "Hypoactivity in frontal-striatal circuits involved in executive functions, particularly future planning and delay discounting, which biases towards immediate gratification.",
-                    "clinical_takeaway": "Implement automation for saving, visual progress trackers, and reward systems to make future financial goals feel more immediate and achievable.",
-                    "doi": "N/A",
-                    "source_link": "https://www.guilford.com/books/Attention-Deficit-Hyperactivity-Disorder/Russell-Barkley/9781462520690"
-                },
-                {
-                    "citation": "Duell, N., & Wagner, M. (2020). Executive Functioning and Financial Capability in Adolescence and Adulthood. Journal of Financial Counseling and Planning, 31(2), 260-272.",
-                    "year": "2020",
-                    "design": "Systematic Review",
-                    "top_3_findings": [
-                        "Executive functioning (EF) is a significant predictor of financial capability, including the ability to save money consistently.",
-                        "Deficits in EF, particularly planning, organization, and working memory, create significant barriers to implementing effective saving strategies.",
-                        "Tailored interventions that account for EF challenges can improve saving behaviors in individuals with ADHD."
-                    ],
-                    "neurobiological_mechanism": "Impaired function in prefrontal cortex networks responsible for planning, goal-directed behavior, and sustained effort, making it difficult to maintain a consistent saving habit.",
-                    "clinical_takeaway": "Focus on strategies that reduce the executive load of saving, such as automated transfers, visual goal tracking, and breaking down large savings goals into micro-steps.",
-                    "doi": "10.1891/JFCP-19-00045",
-                    "source_link": "https://doi.org/10.1891/JFCP-19-00045"
-                }
-            ]
-        },
-        "adhd-money-dysfunction-vs-laziness-understanding-why": {
-            "studies": [
-                {
-                    "citation": "Knouse, L. E., & Mitchell, D. C. (2016). Shame and self-blame in adults with ADHD: The role of coping strategies. Journal of Attention Disorders, 20(2), 173-181.",
-                    "year": "2016",
-                    "design": "Cross-sectional Study (n=150+ adults with ADHD)",
-                    "top_3_findings": [
-                        "Adults with ADHD frequently experience intense shame and self-blame due to their symptoms, which often manifest as perceived 'laziness' in financial management.",
-                        "This internalized criticism arises from a societal lack of understanding of ADHD as a neurobiological condition, leading individuals to attribute struggles to character flaws.",
-                        "Psychoeducation about the neurobiological basis of ADHD can significantly reduce shame and self-blame, fostering a more compassionate self-view."
-                    ],
-                    "neurobiological_mechanism": "Impact on emotional regulation pathways and self-perception, potentially involving altered limbic-prefrontal connectivity, leading to persistent negative self-judgment when facing challenges due to ADHD.",
-                    "clinical_takeaway": "Emphasize that financial dysfunction in ADHD stems from brain differences, not laziness or moral failing, using psychoeducation to combat internalized stigma and promote self-compassion.",
-                    "doi": "10.1177/1087054713508492",
-                    "source_link": "https://pubmed.ncbi.nlm.nih.gov/24185799/"
-                },
-                {
-                    "citation": "Hoogman, M., et al. (2017). Brain imaging of the common structural neuroanatomy in ADHD: A report from the ENIGMA working group. Lancet Psychiatry, 4(1), 314-324.",
-                    "year": "2017",
-                    "design": "Meta-analysis of fMRI Studies (n=3,242 individuals)",
-                    "top_3_findings": [
-                        "This large-scale meta-analysis provides strong evidence for specific structural brain differences in individuals with ADHD, such as smaller subcortical volumes.",
-                        "These findings offer neurobiological evidence supporting ADHD as a genuine neurodevelopmental disorder, directly refuting the idea that symptoms (including financial ones) are due to laziness.",
-                        "Understanding these brain differences is crucial for shifting the narrative from moral failing to a medical condition requiring support."
-                    ],
-                    "neurobiological_mechanism": "Structural differences in key subcortical regions (e.g., amygdala, accumbens, putamen) involved in reward, emotion, and motivation underpin core ADHD symptoms like impulsivity and executive dysfunction, which directly impact financial management.",
-                    "clinical_takeaway": "Use neurobiological evidence to educate individuals with ADHD, their families, and the public about ADHD's impact on financial behavior, reducing stigma and fostering appropriate support.",
-                    "doi": "10.1016/S2215-0366(17)30049-9",
-                    "source_link": "https://www.thelancet.com/journals/lanchi/article/PIIS2215-0366(17)30049-9/fulltext"
-                }
-            ]
-        },
-        "adhd-tax-hidden-costs-executive-dysfunction": {
-            "studies": [
-                {
-                    "citation": "Pollak, Y., & Fried, S. (2020). Understanding the 'ADHD tax' in adults: A survey study. Journal of Clinical Psychology, 76(8), 1548-1560.",
-                    "year": "2020",
-                    "design": "Survey Study (n=450+ adults with ADHD)",
-                    "top_3_findings": [
-                        "The concept of the 'ADHD tax' was empirically supported, with ADHD adults reporting significant hidden costs like late fees, missed appointments, and unused subscriptions.",
-                        "Executive dysfunction, particularly deficits in time management, organization, and prospective memory, were the primary drivers of these recurring, avoidable expenses.",
-                        "The cumulative financial impact of the 'ADHD tax' contributes substantially to financial distress and feelings of inadequacy."
-                    ],
-                    "neurobiological_mechanism": "Deficits in working memory, prospective memory, and time perception (linked to prefrontal and parietal lobe dysfunction), making it challenging to anticipate consequences, recall tasks, and manage time effectively.",
-                    "clinical_takeaway": "Validate the experience of the 'ADHD tax' for clients and provide practical, system-based solutions (e.g., automation, external reminders, simplified organizational tools) to reduce these hidden costs.",
-                    "doi": "10.1002/jclp.23010",
-                    "source_link": "https://pubmed.ncbi.nlm.nih.gov/32338575/"
-                },
-                {
-                    "citation": "Barkley, R. A. (2015). Attention-deficit hyperactivity disorder: A handbook for diagnosis and treatment (4th ed.). Guilford Press.",
-                    "year": "2015",
-                    "design": "Clinical Handbook/Expert Synthesis",
-                    "top_3_findings": [
-                        "Dr. Barkley's work on executive functions highlights how core deficits (e.g., time blindness, poor planning, disorganized action) directly lead to the 'ADHD tax'.",
-                        "The inability to accurately perceive and manage time results in missed deadlines and opportunities, incurring penalties.",
-                        "Pervasive executive dysfunction affects daily life, leading to numerous small, avoidable costs that accumulate into a significant financial burden."
-                    ],
-                    "neurobiological_mechanism": "Hypoactivity in frontal-striatal circuits responsible for executive functions, particularly those governing foresight, planning, and self-regulation over time, making individuals prone to financial oversights.",
-                    "clinical_takeaway": "Help individuals identify specific 'ADHD tax' items they regularly incur and develop personalized compensatory strategies, emphasizing proactive planning and external supports.",
-                    "doi": "N/A",
-                    "source_link": "https://www.guilford.com/books/Attention-Deficit-Hyperactivity-Disorder/Russell-Barkley/9781462520690"
-                }
-            ]
-        },
-        "adhd-financial-avoidance-procrastination-bills": {
-            "studies": [
-                {
-                    "citation": "Knouse, L. E., & Mitchell, D. C. (2016). Shame and self-blame in adults with ADHD: The role of coping strategies. Journal of Attention Disorders, 20(2), 173-181.",
-                    "year": "2016",
-                    "design": "Cross-sectional Study (n=150+ adults with ADHD)",
-                    "top_3_findings": [
-                        "Adults with ADHD frequently experience shame and self-blame, which can manifest as avoidance and procrastination, particularly with daunting tasks like managing bills.",
-                        "Financial avoidance, driven by executive dysfunction and emotional dysregulation, creates a negative feedback loop exacerbating financial problems.",
-                        "Adaptive coping strategies and self-compassion are crucial to break the cycle of avoidance and engage with financial responsibilities."
-                    ],
-                    "neurobiological_mechanism": "Emotional dysregulation and limbic-prefrontal disconnectivity contribute to the overwhelming feeling associated with complex or boring tasks, leading to avoidance and increased anxiety.",
-                    "clinical_takeaway": "Break down financial tasks into smaller, manageable steps, utilize external reminders and accountability, and address the emotional barriers (shame, overwhelm) that fuel avoidance.",
-                    "doi": "10.1177/1087054713508492",
-                    "source_link": "https://pubmed.ncbi.nlm.nih.gov/24185799/"
-                },
-                {
-                    "citation": "Duell, N., & Wagner, M. (2020). Executive Functioning and Financial Capability in Adolescence and Adulthood. Journal of Financial Counseling and Planning, 31(2), 260-272.",
-                    "year": "2020",
-                    "design": "Systematic Review",
-                    "top_3_findings": [
-                        "Executive function deficits, including task initiation and sustained attention, are direct contributors to financial procrastination and avoidance.",
-                        "Difficulty organizing and prioritizing tasks leads to bills being forgotten or pushed aside until the last minute.",
-                        "Effective interventions must address these core EF challenges to promote consistent financial engagement."
-                    ],
-                    "neurobiological_mechanism": "Impaired function in prefrontal cortex networks responsible for planning, task initiation, and cognitive control, making it difficult to overcome the inertia of starting financial tasks.",
-                    "clinical_takeaway": "Encourage automation for bill payments, setting up visual reminders, and implementing a 'two-minute rule' for quick financial tasks to combat procrastination.",
-                    "doi": "10.1891/JFCP-19-00045",
-                    "source_link": "https://doi.org/10.1891/JFCP-19-00045"
-                }
-            ]
-        },
-        "adhd-managing-subscriptions-automatic-payments": {
-            "studies": [
-                {
-                    "citation": "Pollak, Y., & Fried, S. (2020). Understanding the 'ADHD tax' in adults: A survey study. Journal of Clinical Psychology, 76(8), 1548-1560.",
-                    "year": "2020",
-                    "design": "Survey Study (n=450+ adults with ADHD)",
-                    "top_3_findings": [
-                        "The 'ADHD tax' explicitly includes costs from unused subscriptions and forgotten automatic payments, indicating difficulties in tracking and canceling services.",
-                        "Forgetfulness and a lack of sustained attention to recurring charges contribute to these hidden financial drains.",
-                        "The study emphasizes the need for systems that simplify financial oversight for individuals with ADHD."
-                    ],
-                    "neurobiological_mechanism": "Deficits in prospective memory and sustained attention (linked to prefrontal cortex dysfunction) make it challenging to remember to cancel or regularly review subscriptions.",
-                    "clinical_takeaway": "Advise automation for essential payments and regular, scheduled reviews of subscriptions using tools that centralize information, leveraging technology to compensate for executive function deficits.",
-                    "doi": "10.1002/jclp.23010",
-                    "source_link": "https://pubmed.ncbi.nlm.nih.gov/32338575/"
-                },
-                {
-                    "citation": "Collins, J. M., & O'Rourke, C. (2020). Financial Wellness, Executive Function, and ADHD: A Review of the Literature. Journal of Financial Therapy, 11(2), 1-18.",
-                    "year": "2020",
-                    "design": "Review of Literature",
-                    "top_3_findings": [
-                        "Executive function challenges in ADHD, particularly in organization and consistent monitoring, make managing multiple subscriptions and automatic payments difficult.",
-                        "The 'out of sight, out of mind' phenomenon, common in ADHD, leads to paying for services that are forgotten or unused.",
-                        "Automation of essential payments is a recommended strategy to reduce the executive load, while regular audits are needed for non-essential subscriptions."
-                    ],
-                    "neurobiological_mechanism": "Pervasive executive dysfunction from frontal-striatal-parietal network dysregulation, impacting vigilance and proactive management of recurring financial commitments.",
-                    "clinical_takeaway": "Suggest using subscription management apps or setting calendar reminders for regular financial audits to identify and cancel unused subscriptions.",
-                    "doi": "10.4148/1944-9771.1215",
-                    "source_link": "https://newprairiepress.org/jft/vol11/iss2/1"
-                }
-            ]
-        },
-        "adhd-debt-management-strategies": {
-            "studies": [
-                {
-                    "citation": "Gajria, K., Lu, C., Simon, G., Lynch, F., Sikirica, V., & Benson, C. J. (2014). Financial difficulties and psychiatric comorbidities in adults with ADHD. Journal of Attention Disorders, 18(7), 606-614.",
-                    "year": "2014",
-                    "design": "Retrospective Cohort Study (n=38,000+)",
-                    "top_3_findings": [
-                        "Adults with ADHD exhibit significantly higher rates of debt accumulation and bankruptcy compared to those without ADHD.",
-                        "Impulsivity and executive dysfunction directly contribute to poor debt management, including missed payments and difficulty adhering to repayment plans.",
-                        "The presence of comorbidities like depression and anxiety further complicates debt management for individuals with ADHD."
-                    ],
-                    "neurobiological_mechanism": "Pervasive executive dysfunction stemming from frontal-striatal-parietal network dysregulation, impacting planning, organization, and sustained effort required for managing complex debt.",
-                    "clinical_takeaway": "Debt management strategies for ADHD clients should incorporate structured, simplified plans, potentially with external accountability, and address co-occurring mental health conditions.",
-                    "doi": "10.1177/1087054713479632",
-                    "source_link": "https://pubmed.ncbi.nlm.nih.gov/23572186/"
-                },
-                {
-                    "citation": "van Dijk, F. E. M., Looijmans, M. C., & van de Glind, G. (2018). Financial problems in adults with ADHD: A cross-sectional study. Journal of Attention Disorders, 22(4), 373-380.",
-                    "year": "2018",
-                    "design": "Cross-sectional Study (n=185 adults with ADHD)",
-                    "top_3_findings": [
-                        "Adults with ADHD consistently report higher levels of financial problems, including significant debt burdens.",
-                        "Inattention and impulsivity symptoms are independently associated with greater debt.",
-                        "The study underscores the need for tailored financial education and debt management strategies that account for ADHD symptoms."
-                    ],
-                    "neurobiological_mechanism": "Executive function deficits (e.g., poor planning, difficulty with sustained effort) and impulsivity (leading to unplanned spending) contribute to difficulties in managing and reducing debt.",
-                    "clinical_takeaway": "Recommend simplified debt repayment methods (e.g., snowball or avalanche method with automation), visual tracking of progress, and consider financial therapy for severe cases.",
-                    "doi": "10.1177/1087054715620955",
-                    "source_link": "https://pubmed.ncbi.nlm.nih.gov/26702008/"
-                }
-            ]
-        },
-        "adhd-tools-apps-adhd-friendly-money-management": {
-            "studies": [
-                {
-                    "citation": "Feldstein, S. W., et al. (2022). A Pilot Study of Financial Coaching for Adults with ADHD. Journal of Financial Counseling and Planning, 33(3), 390-405.",
-                    "year": "2022",
-                    "design": "Pilot Study (n=30 adults with ADHD)",
-                    "top_3_findings": [
-                        "Financial coaching, incorporating ADHD-friendly tools and strategies, significantly improved participants' financial self-efficacy and reduced distress.",
-                        "Participants specifically benefited from externalized tools and accountability to manage finances effectively.",
-                        "The study suggests that tools designed with ADHD challenges in mind can be highly effective in improving financial behaviors."
-                    ],
-                    "neurobiological_mechanism": "Leverages external scaffolding provided by tools and coaching to compensate for internal executive function deficits (e.g., working memory, organization, task initiation).",
-                    "clinical_takeaway": "Encourage the use of budgeting apps with automation, visual dashboards, gamification features, and built-in reminders. Suggest exploring financial software designed for simplicity.",
-                    "doi": "10.1891/JFCP-21-00057",
-                    "source_link": "https://doi.org/10.1891/JFCP-21-00057"
-                },
-                {
-                    "citation": "Collins, J. M., & O'Rourke, C. (2020). Financial Wellness, Executive Function, and ADHD: A Review of the Literature. Journal of Financial Therapy, 11(2), 1-18.",
-                    "year": "2020",
-                    "design": "Review of Literature",
-                    "top_3_findings": [
-                        "The review highlights the inadequacy of traditional financial tools for individuals with ADHD due to their reliance on consistent executive function.",
-                        "It emphasizes the importance of adaptive financial tools that accommodate ADHD symptoms like impulsivity, inattention, and difficulty with organization.",
-                        "Tools that provide external structure, visual cues, and automation are recommended to bypass core ADHD challenges."
-                    ],
-                    "neurobiological_mechanism": "Tools and apps designed to work with dopamine dysregulation (through gamification/rewards) and executive function deficits (through simplification, automation, visual aids) can create compensatory pathways.",
-                    "clinical_takeaway": "Recommend digital tools that offer automation for payments/savings, visual budgeting, expense tracking, and reminders to simplify financial management for ADHD users.",
-                    "doi": "10.4148/1944-9771.1215",
-                    "source_link": "https://newprairiepress.org/jft/vol11/iss2/1"
-                }
-            ]
-        }
+        "adhd-impulse-spending-regret-how-to-stop": [
+            {
+                "citation": "Becker, S. P., et al. (2016). Impulse control difficulties in adult ADHD: Implications for substance use and other risky behaviors. Journal of Attention Disorders, 20(3), 209-218.",
+                "year": "2016",
+                "design": "Review Article",
+                "top_3_findings": [
+                    "Impulse control difficulties are a central feature of ADHD in adulthood, extending beyond hyperactivity to encompass cognitive and behavioral impulsivity.",
+                    "This impulsivity is a significant risk factor for various maladaptive behaviors, including problematic spending and gambling.",
+                    "The paper underscores that behavioral impulsivity directly contributes to short-sighted financial decisions, leading to regret."
+                ],
+                "neurobiological_mechanism": "Impaired inhibitory control mechanisms involving fronto-striatal-thalamic circuits, leading to a reduced ability to delay gratification and resist immediate temptations.",
+                "clinical_takeaway": "Behavioral interventions aimed at improving impulse control, such as 'stop-and-think' strategies or 'waiting periods' for purchases, are highly relevant for reducing impulse spending and subsequent regret.",
+                "doi": "10.1177/1087054714529064",
+                "source_link": "https://pubmed.ncbi.nlm.nih.gov/24718536/"
+            },
+            {
+                "citation": "Lenzi, A., et al. (2021). The relationship between ADHD symptoms and problematic financial behavior in young adults: The mediating role of emotion dysregulation. Psychiatry Research, 303, 114098.",
+                "year": "2021",
+                "design": "Cross-sectional Study (n=600+ young adults)",
+                "top_3_findings": [
+                    "Emotion dysregulation significantly mediates the relationship between ADHD symptoms and problematic financial behaviors, including impulsive spending.",
+                    "Individuals use spending as a coping mechanism for negative emotions, which often leads to regret and a cycle of financial instability.",
+                    "Targeting emotion regulation skills is crucial for reducing impulsive financial behaviors and their associated regret."
+                ],
+                "neurobiological_mechanism": "Dysfunction in limbic-prefrontal circuits involved in emotional processing and regulation, leading to difficulty managing intense emotions and susceptibility to emotional spending.",
+                "clinical_takeaway": "Therapies like DBT that teach emotion regulation strategies can help individuals with ADHD identify and manage emotional triggers for impulse spending, thereby reducing regret.",
+                "doi": "10.1016/j.psychres.2021.114098",
+                "source_link": "https://pubmed.ncbi.nlm.nih.gov/34217154/"
+            }
+        ],
+        "adhd-late-fees-shame-cycle-breaking-free": [
+            {
+                "citation": "Pollak, Y., & Fried, S. (2020). Understanding the 'ADHD tax' in adults: A survey study. Journal of Clinical Psychology, 76(8), 1548-1560.",
+                "year": "2020",
+                "design": "Survey Study (n=450+ adults with ADHD)",
+                "top_3_findings": [
+                    "The majority of adults with ADHD reported incurring 'ADHD tax' costs, including late fees, due to their symptoms.",
+                    "Executive dysfunction, particularly time blindness and forgetfulness, were primary drivers of these hidden costs.",
+                    "The cumulative financial impact contributes significantly to financial stress and associated shame."
+                ],
+                "neurobiological_mechanism": "Deficits in working memory, prospective memory, and time perception (linked to prefrontal and parietal lobe dysfunction), making it challenging to recall and act on payment deadlines.",
+                "clinical_takeaway": "Educating clients about the 'ADHD tax' can reduce shame. Implementing external systems like automated payments and reminders can mitigate late fees.",
+                "doi": "10.1002/jclp.23010",
+                "source_link": "https://pubmed.ncbi.nlm.nih.gov/32338575/"
+            },
+            {
+                "citation": "Knouse, L. E., & Mitchell, D. C. (2016). Shame and self-blame in adults with ADHD: The role of coping strategies. Journal of Attention Disorders, 20(2), 173-181.",
+                "year": "2016",
+                "design": "Cross-sectional Study (n=150+ adults with ADHD)",
+                "top_3_findings": [
+                    "Adults with ADHD frequently experience significant shame and self-blame related to their symptoms, including financial struggles like accumulating late fees.",
+                    "Maladaptive coping strategies, such as avoidance of financial tasks, exacerbate feelings of shame and prevent breaking the cycle.",
+                    "Therapeutic interventions focusing on self-compassion and adaptive coping can reduce shame associated with financial difficulties."
+                ],
+                "neurobiological_mechanism": "Impact on emotional regulation pathways and self-perception, potentially involving altered limbic-prefrontal connectivity, leading to persistent negative self-judgment despite intentions to manage finances.",
+                "clinical_takeaway": "Addressing the emotional burden of shame is crucial; psychoeducation about ADHD's impact can reframe 'laziness' into a neurobiological challenge, facilitating support-seeking.",
+                "doi": "10.1177/1087054713508492",
+                "source_link": "https://pubmed.ncbi.nlm.nih.gov/24185799/"
+            }
+        ],
+        "adhd-why-traditional-budgets-fail-adhd": [
+            {
+                "citation": "Duell, N., & Wagner, M. (2020). Executive Functioning and Financial Capability in Adolescence and Adulthood. Journal of Financial Counseling and Planning, 31(2), 260-272.",
+                "year": "2020",
+                "design": "Systematic Review",
+                "top_3_findings": [
+                    "Executive functioning (EF) is critical for financial capability, directly impacting an individual's ability to create and adhere to budgets.",
+                    "Deficits in EF, particularly planning, organization, and working memory, explain why traditional, rigid budgeting methods are often ineffective for individuals with ADHD.",
+                    "Interventions focusing on flexible, ADHD-friendly strategies are more likely to succeed than conventional budgeting approaches."
+                ],
+                "neurobiological_mechanism": "Impaired function in prefrontal cortex networks responsible for planning, working memory, and sustained attention, making it difficult to maintain focus on budget details or follow complex financial plans.",
+                "clinical_takeaway": "Recommend flexible budgeting methods (e.g., automated savings, simpler systems like the 50/30/20 rule, cash envelopes) that minimize reliance on impaired executive functions.",
+                "doi": "10.1891/JFCP-19-00045",
+                "source_link": "https://doi.org/10.1891/JFCP-19-00045"
+            },
+            {
+                "citation": "Collins, J. M., & O'Rourke, C. (2020). Financial Wellness, Executive Function, and ADHD: A Review of the Literature. Journal of Financial Therapy, 11(2), 1-18.",
+                "year": "2020",
+                "design": "Review of Literature",
+                "top_3_findings": [
+                    "Traditional budgeting methods require sustained attention, organization, and consistent follow-through, which are core challenges in ADHD.",
+                    "The inherent rigidity and lack of immediate reward in conventional budgets lead to low adherence and feelings of failure for individuals with ADHD.",
+                    "The review advocates for customized, neurodiversity-affirming financial management strategies that leverage strengths and external supports."
+                ],
+                "neurobiological_mechanism": "Dysregulation of dopamine pathways impacting motivation and reward processing, making adherence to tedious or long-term financial plans less reinforcing.",
+                "clinical_takeaway": "Financial therapists should emphasize adaptive, forgiving budgeting frameworks that incorporate automation, visual cues, and gamification to increase engagement and sustainability for ADHD clients.",
+                "doi": "10.4148/1944-9771.1215",
+                "source_link": "https://newprairiepress.org/jft/vol11/iss2/1"
+            }
+        ],
+        "adhd-salary-negotiation-shame-self-advocacy": [
+            {
+                "citation": "Gajria, K., Lu, C., Simon, G., Lynch, F., Sikirica, V., & Benson, C. J. (2014). Financial difficulties and psychiatric comorbidities in adults with ADHD. Journal of Attention Disorders, 18(7), 606-614.",
+                "year": "2014",
+                "design": "Retrospective Cohort Study (n=38,000+)",
+                "top_3_findings": [
+                    "Adults with ADHD have significantly lower earnings and higher rates of unemployment, suggesting difficulties in career advancement and salary negotiation.",
+                    "These financial challenges are compounded by comorbidities like anxiety and depression, which can increase shame and reduce self-advocacy in professional settings.",
+                    "The study indirectly highlights that poor self-advocacy during negotiation contributes to the overall economic burden of ADHD."
+                ],
+                "neurobiological_mechanism": "Executive dysfunction (e.g., working memory, planning, emotional regulation) impacts performance consistency, self-perception of competence, and the ability to articulate value during negotiation.",
+                "clinical_takeaway": "Encourage self-advocacy training and support for adults with ADHD in career development, including salary negotiation, to mitigate long-term financial disparities.",
+                "doi": "10.1177/1087054713479632",
+                "source_link": "https://pubmed.ncbi.nlm.nih.gov/23572186/"
+            },
+            {
+                "citation": "Knouse, L. E., & Mitchell, D. C. (2016). Shame and self-blame in adults with ADHD: The role of coping strategies. Journal of Attention Disorders, 20(2), 173-181.",
+                "year": "2016",
+                "design": "Cross-sectional Study (n=150+ adults with ADHD)",
+                "top_3_findings": [
+                    "Adults with ADHD often experience profound shame and self-blame related to their perceived professional shortcomings and financial struggles.",
+                    "This shame can inhibit self-advocacy, making it difficult to negotiate for better salaries or accommodations.",
+                    "Therapeutic interventions focusing on self-compassion and realistic self-assessment can empower individuals to advocate more effectively."
+                ],
+                "neurobiological_mechanism": "Impact on emotional regulation pathways and self-perception, potentially involving altered limbic-prefrontal connectivity, leading to persistent negative self-judgment and fear of external judgment.",
+                "clinical_takeaway": "Address internalized shame and imposter syndrome directly through therapy or coaching to build confidence for self-advocacy in professional contexts.",
+                "doi": "10.1177/1087054713508492",
+                "source_link": "https://pubmed.ncbi.nlm.nih.gov/24185799/"
+            }
+        ],
+        "adhd-food-delivery-financial-drain-uber-eats-doordash": [
+            {
+                "citation": "Lenzi, A., et al. (2021). The relationship between ADHD symptoms and problematic financial behavior in young adults: The mediating role of emotion dysregulation. Psychiatry Research, 303, 114098.",
+                "year": "2021",
+                "design": "Cross-sectional Study (n=600+ young adults)",
+                "top_3_findings": [
+                    "Emotion dysregulation in ADHD contributes to problematic financial behaviors, including using spending as a coping mechanism.",
+                    "The convenience and instant gratification of food delivery apps can make them a significant source of emotional spending for those with ADHD.",
+                    "Difficulty with planning and executive function can lead to reliance on delivery services due to neglected meal preparation."
+                ],
+                "neurobiological_mechanism": "Dysfunction in limbic-prefrontal circuits contributes to difficulty managing intense emotions and susceptibility to impulsive behaviors like ordering takeout for immediate relief.",
+                "clinical_takeaway": "Help individuals with ADHD develop alternative coping strategies for emotional regulation and structured meal planning to reduce reliance on financially draining food delivery services.",
+                "doi": "10.1016/j.psychres.2021.114098",
+                "source_link": "https://pubmed.ncbi.nlm.nih.gov/34217154/"
+            },
+            {
+                "citation": "Becker, S. P., et al. (2016). Impulse control difficulties in adult ADHD: Implications for substance use and other risky behaviors. Journal of Attention Disorders, 20(3), 209-218.",
+                "year": "2016",
+                "design": "Review Article",
+                "top_3_findings": [
+                    "Impulse control difficulties are a core feature of ADHD, making individuals prone to immediate gratification.",
+                    "The ease and instant reward of food delivery apps directly tap into this impulsivity, leading to frequent and costly orders.",
+                    "This behavioral impulsivity significantly contributes to financial drain and hinders long-term financial goals."
+                ],
+                "neurobiological_mechanism": "Impaired inhibitory control mechanisms involving fronto-striatal-thalamic circuits, leading to a reduced ability to resist the instant reward of convenient food.",
+                "clinical_takeaway": "Suggest strategies like deleting delivery apps, setting 'no-order' days, or planning meals in advance to create 'speed bumps' for impulsive food spending.",
+                "doi": "10.1177/1087054714529064",
+                "source_link": "https://pubmed.ncbi.nlm.nih.gov/24718536/"
+            }
+        ],
+        "adhd-saving-money-feels-impossible-strategies": [
+            {
+                "citation": "Barkley, R. A. (2015). Attention-deficit hyperactivity disorder: A handbook for diagnosis and treatment (4th ed.). Guilford Press.",
+                "year": "2015",
+                "design": "Clinical Handbook/Expert Synthesis",
+                "top_3_findings": [
+                    "Dr. Barkley extensively details 'time blindness' as a core executive function deficit in ADHD, making future rewards (like savings) feel less tangible and urgent.",
+                    "This difficulty in future-oriented thinking makes consistent saving and long-term financial planning feel impossible for individuals with ADHD.",
+                    "The handbook emphasizes the need for external scaffolding and immediate, tangible rewards to motivate behaviors like saving."
+                ],
+                "neurobiological_mechanism": "Hypoactivity in frontal-striatal circuits involved in executive functions, particularly future planning and delay discounting, which biases towards immediate gratification.",
+                "clinical_takeaway": "Implement automation for saving, visual progress trackers, and reward systems to make future financial goals feel more immediate and achievable.",
+                "doi": "N/A",
+                "source_link": "https://www.guilford.com/books/Attention-Deficit-Hyperactivity-Disorder/Russell-Barkley/9781462520690"
+            },
+            {
+                "citation": "Duell, N., & Wagner, M. (2020). Executive Functioning and Financial Capability in Adolescence and Adulthood. Journal of Financial Counseling and Planning, 31(2), 260-272.",
+                "year": "2020",
+                "design": "Systematic Review",
+                "top_3_findings": [
+                    "Executive functioning (EF) is a significant predictor of financial capability, including the ability to save money consistently.",
+                    "Deficits in EF, particularly planning, organization, and working memory, create significant barriers to implementing effective saving strategies.",
+                    "Tailored interventions that account for EF challenges can improve saving behaviors in individuals with ADHD."
+                ],
+                "neurobiological_mechanism": "Impaired function in prefrontal cortex networks responsible for planning, goal-directed behavior, and sustained effort, making it difficult to maintain a consistent saving habit.",
+                "clinical_takeaway": "Focus on strategies that reduce the executive load of saving, such as automated transfers, visual goal tracking, and breaking down large savings goals into micro-steps.",
+                "doi": "10.1891/JFCP-19-00045",
+                "source_link": "https://doi.org/10.1891/JFCP-19-00045"
+            }
+        ],
+        "adhd-money-dysfunction-vs-laziness-understanding-why": [
+            {
+                "citation": "Knouse, L. E., & Mitchell, D. C. (2016). Shame and self-blame in adults with ADHD: The role of coping strategies. Journal of Attention Disorders, 20(2), 173-181.",
+                "year": "2016",
+                "design": "Cross-sectional Study (n=150+ adults with ADHD)",
+                "top_3_findings": [
+                    "Adults with ADHD frequently experience intense shame and self-blame due to their symptoms, which often manifest as perceived 'laziness' in financial management.",
+                    "This internalized criticism arises from a societal lack of understanding of ADHD as a neurobiological condition, leading individuals to attribute struggles to character flaws.",
+                    "Psychoeducation about the neurobiological basis of ADHD can significantly reduce shame and self-blame, fostering a more compassionate self-view."
+                ],
+                "neurobiological_mechanism": "Impact on emotional regulation pathways and self-perception, potentially involving altered limbic-prefrontal connectivity, leading to persistent negative self-judgment when facing challenges due to ADHD.",
+                "clinical_takeaway": "Emphasize that financial dysfunction in ADHD stems from brain differences, not laziness or moral failing, using psychoeducation to combat internalized stigma and promote self-compassion.",
+                "doi": "10.1177/1087054713508492",
+                "source_link": "https://pubmed.ncbi.nlm.nih.gov/24185799/"
+            },
+            {
+                "citation": "Hoogman, M., et al. (2017). Brain imaging of the common structural neuroanatomy in ADHD: A report from the ENIGMA working group. Lancet Psychiatry, 4(1), 314-324.",
+                "year": "2017",
+                "design": "Meta-analysis of fMRI Studies (n=3,242 individuals)",
+                "top_3_findings": [
+                    "This large-scale meta-analysis provides strong evidence for specific structural brain differences in individuals with ADHD, such as smaller subcortical volumes.",
+                    "These findings offer neurobiological evidence supporting ADHD as a genuine neurodevelopmental disorder, directly refuting the idea that symptoms (including financial ones) are due to laziness.",
+                    "Understanding these brain differences is crucial for shifting the narrative from moral failing to a medical condition requiring support."
+                ],
+                "neurobiological_mechanism": "Structural differences in key subcortical regions (e.g., amygdala, accumbens, putamen) involved in reward, emotion, and motivation underpin core ADHD symptoms like impulsivity and executive dysfunction, which directly impact financial management.",
+                "clinical_takeaway": "Use neurobiological evidence to educate individuals with ADHD, their families, and the public about ADHD's impact on financial behavior, reducing stigma and fostering appropriate support.",
+                "doi": "10.1016/S2215-0366(17)30049-9",
+                "source_link": "https://www.thelancet.com/journals/lanchi/article/PIIS2215-0366(17)30049-9/fulltext"
+            }
+        ],
+        "adhd-tax-hidden-costs-executive-dysfunction": [
+            {
+                "citation": "Pollak, Y., & Fried, S. (2020). Understanding the 'ADHD tax' in adults: A survey study. Journal of Clinical Psychology, 76(8), 1548-1560.",
+                "year": "2020",
+                "design": "Survey Study (n=450+ adults with ADHD)",
+                "top_3_findings": [
+                    "The concept of the 'ADHD tax' was empirically supported, with ADHD adults reporting significant hidden costs like late fees, missed appointments, and unused subscriptions.",
+                    "Executive dysfunction, particularly deficits in time management, organization, and prospective memory, were the primary drivers of these recurring, avoidable expenses.",
+                    "The cumulative financial impact of the 'ADHD tax' contributes substantially to financial distress and feelings of inadequacy."
+                ],
+                "neurobiological_mechanism": "Deficits in working memory, prospective memory, and time perception (linked to prefrontal and parietal lobe dysfunction), making it challenging to anticipate consequences, recall tasks, and manage time effectively.",
+                "clinical_takeaway": "Validate the experience of the 'ADHD tax' for clients and provide practical, system-based solutions (e.g., automation, external reminders, simplified organizational tools) to reduce these hidden costs.",
+                "doi": "10.1002/jclp.23010",
+                "source_link": "https://pubmed.ncbi.nlm.nih.gov/32338575/"
+            },
+            {
+                "citation": "Barkley, R. A. (2015). Attention-deficit hyperactivity disorder: A handbook for diagnosis and treatment (4th ed.). Guilford Press.",
+                "year": "2015",
+                "design": "Clinical Handbook/Expert Synthesis",
+                "top_3_findings": [
+                    "Dr. Barkley's work on executive functions highlights how core deficits (e.g., time blindness, poor planning, disorganized action) directly lead to the 'ADHD tax'.",
+                    "The inability to accurately perceive and manage time results in missed deadlines and opportunities, incurring penalties.",
+                    "Pervasive executive dysfunction affects daily life, leading to numerous small, avoidable costs that accumulate into a significant financial burden."
+                ],
+                "neurobiological_mechanism": "Hypoactivity in frontal-striatal circuits responsible for executive functions, particularly those governing foresight, planning, and self-regulation over time, making individuals prone to financial oversights.",
+                "clinical_takeaway": "Help individuals identify specific 'ADHD tax' items they regularly incur and develop personalized compensatory strategies, emphasizing proactive planning and external supports.",
+                "doi": "N/A",
+                "source_link": "https://www.guilford.com/books/Attention-Deficit-Hyperactivity-Disorder/Russell-Barkley/9781462520690"
+            }
+        ],
+        "adhd-financial-avoidance-procrastination-bills": [
+            {
+                "citation": "Knouse, L. E., & Mitchell, D. C. (2016). Shame and self-blame in adults with ADHD: The role of coping strategies. Journal of Attention Disorders, 20(2), 173-181.",
+                "year": "2016",
+                "design": "Cross-sectional Study (n=150+ adults with ADHD)",
+                "top_3_findings": [
+                    "Adults with ADHD frequently experience shame and self-blame, which can manifest as avoidance and procrastination, particularly with daunting tasks like managing bills.",
+                    "Financial avoidance, driven by executive dysfunction and emotional dysregulation, creates a negative feedback loop exacerbating financial problems.",
+                    "Adaptive coping strategies and self-compassion are crucial to break the cycle of avoidance and engage with financial responsibilities."
+                ],
+                "neurobiological_mechanism": "Emotional dysregulation and limbic-prefrontal disconnectivity contribute to the overwhelming feeling associated with complex or boring tasks, leading to avoidance and increased anxiety.",
+                "clinical_takeaway": "Break down financial tasks into smaller, manageable steps, utilize external reminders and accountability, and address the emotional barriers (shame, overwhelm) that fuel avoidance.",
+                "doi": "10.1177/1087054713508492",
+                "source_link": "https://pubmed.ncbi.nlm.nih.gov/24185799/"
+            },
+            {
+                "citation": "Duell, N., & Wagner, M. (2020). Executive Functioning and Financial Capability in Adolescence and Adulthood. Journal of Financial Counseling and Planning, 31(2), 260-272.",
+                "year": "2020",
+                "design": "Systematic Review",
+                "top_3_findings": [
+                    "Executive function deficits, including task initiation and sustained attention, are direct contributors to financial procrastination and avoidance.",
+                    "Difficulty organizing and prioritizing tasks leads to bills being forgotten or pushed aside until the last minute.",
+                    "Effective interventions must address these core EF challenges to promote consistent financial engagement."
+                ],
+                "neurobiological_mechanism": "Impaired function in prefrontal cortex networks responsible for planning, task initiation, and cognitive control, making it difficult to overcome the inertia of starting financial tasks.",
+                "clinical_takeaway": "Encourage automation for bill payments, setting up visual reminders, and implementing a 'two-minute rule' for quick financial tasks to combat procrastination.",
+                "doi": "10.1891/JFCP-19-00045",
+                "source_link": "https://doi.org/10.1891/JFCP-19-00045"
+            }
+        ],
+        "adhd-managing-subscriptions-automatic-payments": [
+            {
+                "citation": "Pollak, Y., & Fried, S. (2020). Understanding the 'ADHD tax' in adults: A survey study. Journal of Clinical Psychology, 76(8), 1548-1560.",
+                "year": "2020",
+                "design": "Survey Study (n=450+ adults with ADHD)",
+                "top_3_findings": [
+                    "The 'ADHD tax' explicitly includes costs from unused subscriptions and forgotten automatic payments, indicating difficulties in tracking and canceling services.",
+                    "Forgetfulness and a lack of sustained attention to recurring charges contribute to these hidden financial drains.",
+                    "The study emphasizes the need for systems that simplify financial oversight for individuals with ADHD."
+                ],
+                "neurobiological_mechanism": "Deficits in prospective memory and sustained attention (linked to prefrontal cortex dysfunction) make it challenging to remember to cancel or regularly review subscriptions.",
+                "clinical_takeaway": "Advise automation for essential payments and regular, scheduled reviews of subscriptions using tools that centralize information, leveraging technology to compensate for executive function deficits.",
+                "doi": "10.1002/jclp.23010",
+                "source_link": "https://pubmed.ncbi.nlm.nih.gov/32338575/"
+            },
+            {
+                "citation": "Collins, J. M., & O'Rourke, C. (2020). Financial Wellness, Executive Function, and ADHD: A Review of the Literature. Journal of Financial Therapy, 11(2), 1-18.",
+                "year": "2020",
+                "design": "Review of Literature",
+                "top_3_findings": [
+                    "Executive function challenges in ADHD, particularly in organization and consistent monitoring, make managing multiple subscriptions and automatic payments difficult.",
+                    "The 'out of sight, out of mind' phenomenon, common in ADHD, leads to paying for services that are forgotten or unused.",
+                    "Automation of essential payments is a recommended strategy to reduce the executive load, while regular audits are needed for non-essential subscriptions."
+                ],
+                "neurobiological_mechanism": "Pervasive executive dysfunction from frontal-striatal-parietal network dysregulation, impacting vigilance and proactive management of recurring financial commitments.",
+                "clinical_takeaway": "Suggest using subscription management apps or setting calendar reminders for regular financial audits to identify and cancel unused subscriptions.",
+                "doi": "10.4148/1944-9771.1215",
+                "source_link": "https://newprairiepress.org/jft/vol11/iss2/1"
+            }
+        ],
+        "adhd-debt-management-strategies": [
+            {
+                "citation": "Gajria, K., Lu, C., Simon, G., Lynch, F., Sikirica, V., & Benson, C. J. (2014). Financial difficulties and psychiatric comorbidities in adults with ADHD. Journal of Attention Disorders, 18(7), 606-614.",
+                "year": "2014",
+                "design": "Retrospective Cohort Study (n=38,000+)",
+                "top_3_findings": [
+                    "Adults with ADHD exhibit significantly higher rates of debt accumulation and bankruptcy compared to those without ADHD.",
+                    "Impulsivity and executive dysfunction directly contribute to poor debt management, including missed payments and difficulty adhering to repayment plans.",
+                    "The presence of comorbidities like depression and anxiety further complicates debt management for individuals with ADHD."
+                ],
+                "neurobiological_mechanism": "Pervasive executive dysfunction stemming from frontal-striatal-parietal network dysregulation, impacting planning, organization, and sustained effort required for managing complex debt.",
+                "clinical_takeaway": "Debt management strategies for ADHD clients should incorporate structured, simplified plans, potentially with external accountability, and address co-occurring mental health conditions.",
+                "doi": "10.1177/1087054713479632",
+                "source_link": "https://pubmed.ncbi.nlm.nih.gov/23572186/"
+            },
+            {
+                "citation": "van Dijk, F. E. M., Looijmans, M. C., & van de Glind, G. (2018). Financial problems in adults with ADHD: A cross-sectional study. Journal of Attention Disorders, 22(4), 373-380.",
+                "year": "2018",
+                "design": "Cross-sectional Study (n=185 adults with ADHD)",
+                "top_3_findings": [
+                    "Adults with ADHD consistently report higher levels of financial problems, including significant debt burdens.",
+                    "Inattention and impulsivity symptoms are independently associated with greater debt.",
+                    "The study underscores the need for tailored financial education and debt management strategies that account for ADHD symptoms."
+                ],
+                "neurobiological_mechanism": "Executive function deficits (e.g., poor planning, difficulty with sustained effort) and impulsivity (leading to unplanned spending) contribute to difficulties in managing and reducing debt.",
+                "clinical_takeaway": "Recommend simplified debt repayment methods (e.g., snowball or avalanche method with automation), visual tracking of progress, and consider financial therapy for severe cases.",
+                "doi": "10.1177/1087054715620955",
+                "source_link": "https://pubmed.ncbi.nlm.nih.gov/26702008/"
+            }
+        ],
+        "adhd-tools-apps-adhd-friendly-money-management": [
+            {
+                "citation": "Feldstein, S. W., et al. (2022). A Pilot Study of Financial Coaching for Adults with ADHD. Journal of Financial Counseling and Planning, 33(3), 390-405.",
+                "year": "2022",
+                "design": "Pilot Study (n=30 adults with ADHD)",
+                "top_3_findings": [
+                    "Financial coaching, incorporating ADHD-friendly tools and strategies, significantly improved participants' financial self-efficacy and reduced distress.",
+                    "Participants specifically benefited from externalized tools and accountability to manage finances effectively.",
+                    "The study suggests that tools designed with ADHD challenges in mind can be highly effective in improving financial behaviors."
+                ],
+                "neurobiological_mechanism": "Leverages external scaffolding provided by tools and coaching to compensate for internal executive function deficits (e.g., working memory, organization, task initiation).",
+                "clinical_takeaway": "Encourage the use of budgeting apps with automation, visual dashboards, gamification features, and built-in reminders. Suggest exploring financial software designed for simplicity.",
+                "doi": "10.1891/JFCP-21-00057",
+                "source_link": "https://doi.org/10.1891/JFCP-21-00057"
+            },
+            {
+                "citation": "Collins, J. M., & O'Rourke, C. (2020). Financial Wellness, Executive Function, and ADHD: A Review of the Literature. Journal of Financial Therapy, 11(2), 1-18.",
+                "year": "2020",
+                "design": "Review of Literature",
+                "top_3_findings": [
+                    "The review highlights the inadequacy of traditional financial tools for individuals with ADHD due to their reliance on consistent executive function.",
+                    "It emphasizes the importance of adaptive financial tools that accommodate ADHD symptoms like impulsivity, inattention, and difficulty with organization.",
+                    "Tools that provide external structure, visual cues, and automation are recommended to bypass core ADHD challenges."
+                ],
+                "neurobiological_mechanism": "Tools and apps designed to work with dopamine dysregulation (through gamification/rewards) and executive function deficits (through simplification, automation, visual aids) can create compensatory pathways.",
+                "clinical_takeaway": "Recommend digital tools that offer automation for payments/savings, visual budgeting, expense tracking, and reminders to simplify financial management for ADHD users.",
+                "doi": "10.4148/1944-9771.1215",
+                "source_link": "https://newprairiepress.org/jft/vol11/iss2/1"
+            }
+        ]
     }
 }
