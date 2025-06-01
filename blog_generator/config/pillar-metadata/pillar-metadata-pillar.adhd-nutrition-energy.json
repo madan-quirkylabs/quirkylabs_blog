@@ -1,0 +1,503 @@
+{
+    "cluster_name": "adhd-nutrition-energy",
+    "pillar_title_base": "Feeding the ADHD Brain: Nutrition Strategies for Energy & Focus",
+    "core_pain_point_verbalized": {
+        "main": "Brain Fog & Energy Drain: Neural Circuit Sabotage",
+        "subtypes": [
+            {
+                "name": "Post-Meal Coma (The DMN Hijack)",
+                "description": "The mental shutdown and energy plummet after eating, often making focused work impossible.",
+                "neural_circuit_link": "Default Mode Network (DMN) overactivation & intrusion into task-positive networks; parasympathetic nervous system dominance; potential dysregulated insulin response impacting orexin neurons."
+            },
+            {
+                "name": "Decision Fatigue-Induced Snaccidents (The dlPFC Drain)",
+                "description": "Impulsive, often unhealthy, snacking triggered by mental exhaustion from constant decision-making or executive function overload.",
+                "neural_circuit_link": "Dorsolateral Prefrontal Cortex (dlPFC) glucose/resource depletion; impaired inhibitory control circuits; dopamine-seeking behavior to overcome fatigue."
+            },
+            {
+                "name": "The 3 PM Cortisol Crash & Burn (HPA Axis Havoc)",
+                "description": "The predictable mid-afternoon nosedive in energy, focus, and mood, often accompanied by intense cravings.",
+                "neural_circuit_link": "Hypothalamic-Pituitary-Adrenal (HPA)-axis dysregulation; norepinephrine and dopamine troughs; circadian rhythm misalignments."
+            }
+        ]
+    },
+    "pillar_keywords_foundational": [
+        "ADHD nutrition",
+        "ADHD diet for energy",
+        "foods for ADHD focus",
+        "ADHD energy levels",
+        "ADHD meal planning",
+        "postprandial somnolence ADHD",
+        "decision fatigue eating ADHD",
+        "cortisol crash ADHD",
+        "HPA axis ADHD diet",
+        "DMN overactivation food"
+    ],
+    "neuro_strategic_keywords_suggestions": [
+        "dopamine boosting foods ADHD",
+        "executive function nutrition dlPFC",
+        "ADHD gut-brain HPA axis",
+        "chrono-nutrition ADHD energy cycles",
+        "ADHD neurotransmitter food recipes",
+        "combat DMN hijack with diet"
+    ],
+    "neuro_colloquial_keywords_suggestions": [
+        "ADHD dopamine menu hacks",
+        "blood sugar hacks for ADHD task initiation",
+        "RSD-safe meal prep (no guilt flavors)",
+        "fix ADHD brain fog with food fast",
+        "stop ADHD energy crash diet plan",
+        "PFC fuel foods for ADHD",
+        "no more ADHD post-meal coma",
+        "what to eat during 3pm ADHD slump"
+    ],
+    "strategic_imperatives": {
+        "business_goal_alignment_suggestion": "Content must ruthlessly connect specific neurobiological pain points (e.g., 'dlPFC glucose depletion') to tangible professional consequences for 'The Questioning Professional,' then immediately pivot to how QuirkyLabs' unique nutritional frameworks (e.g., 'ADHD Macronutrient Alchemy,' 'Chrono-Nutrition Attack Plan') and freemium tools (e.g., 'ADHD Food Lab,' 'When-to-Eat Countdown Timer') offer precise, science-backed solutions, driving engagement and conversion towards the 'Operating System for ADHD Brains at Work.'",
+        "kpi_targets_focus_suggestion": {
+            "primary_kpi_suggestion": "Conversion rate from pillar content to 'ADHD Food Lab' experiment completion within freemium tools.",
+            "secondary_kpi_suggestion": "Number of 'Missing Science' callout interactions (clicks/hovers) indicating deep engagement with our competitive differentiation."
+        },
+        "unique_angle_summary": "This pillar will obliterate generic nutrition advice by mapping specific ADHD energy drains like 'Post-Meal Coma' and 'Decision Fatigue Snaccidents' to their underlying neural circuit failures (DMN overactivation, dlPFC depletion). It provides hyper-specific 'Neurotransmitter Timing Warfare' and 'ADHD Macronutrient Alchemy' solutions, offering a level of neurobiological precision and executive-function-friendly application (e.g., 'No-Shame Meal Formulas') that competitors simply cannot match. We expose their 'missing neuro-links' and empower users with actionable, trauma-informed, and gamified strategies."
+    },
+    "hyperpersonalization": {
+        "audience_dna": {
+            "subtypes": [
+                "Predominantly Inattentive Presentation",
+                "Combined Presentation",
+                "Rejection Sensitive Dysphoria (RSD) Focus"
+            ],
+            "comorbidities_to_consider": [
+                "Anxiety Disorders (link to HPA-axis, glutamate-GABA balance)",
+                "Depressive Disorders (link to dopamine/serotonin precursors, neuroinflammation)",
+                "Eating Disorders (especially Binge Eating Disorder, link to dlPFC, dopamine dysregulation)",
+                "Sleep Disorders (link to circadian rhythms, cortisol, melatonin precursors)"
+            ],
+            "gender_focus_notes_suggestion": "Deepen gender focus: Explore how estrogen fluctuations impact dopamine sensitivity and energy in women with ADHD, tailoring 'Chrono-Nutrition' advice. For men, address potential underreporting of emotional eating and RSD, offering specific validation.",
+            "crisis_levels": {
+                "acute_description_suggestion": "The 'Questioning Professional' facing an imminent deadline, paralyzed by 'Post-Meal Coma' after a quick lunch, leading to a cascade of 'Decision Fatigue-Induced Snaccidents' (usually sugary, processed items), intense self-criticism, and fear of failure. This triggers an RSD response to perceived judgment from colleagues.",
+                "chronic_description_suggestion": "The 'Questioning Professional' trapped in a cycle of '3 PM Cortisol Crashes,' erratic eating, and chronic brain fog, leading to consistent underperformance at work. They suspect ADHD, feel deep shame about their 'lack of control' around food and energy, and are actively seeking explanations beyond willpower, potentially self-medicating with caffeine or sugar."
+            },
+            "primary_audience_segment_notes": "Validate their intellectual curiosity and need for scientific rigor. Frame solutions not as 'fixes' but as 'neurobiological upgrades' or 'brain firmware updates.' Emphasize that their struggles are real, rooted in brain differences, and that targeted nutrition is a powerful lever for change. They are likely skeptical of simplistic advice and hungry for deeper understanding and actionable, precise strategies."
+        },
+        "dynamic_content_rules": {
+            "rule_1_suggestion": {
+                "condition": "if_subtype_is_inattentive_and_audience_is_professional_questioning_ADHD_and_clicked_on_DMN_related_pain_point",
+                "content_adaptation_idea": "Text Variation: 'That inattentive brain fog after lunch feeling like your DMN is staging a hostile takeover? You're not just tired; your brain's task-positive networks are losing the battle. Our 'Post-Meal Coma Annihilator' plate (featuring specific Omega-3 + Choline combos) is designed to keep your PFC online.'"
+            },
+            "rule_2_suggestion": {
+                "condition": "if_RSD_focus_is_relevant_and_user_interacts_with_content_on_emotional_eating_or_cravings_linked_to_stress",
+                "content_adaptation_idea": "Text Variation: 'When RSD flares, the world feels harsh, and food can seem like the only safe haven. But what if your 'comfort food' could also be a 'cortisol crusher'? Our 'RSD Kitchen Rescue Kit' offers No-Shame Meal Formulas, like Chamomile-infused Golden Milk with adaptogens, to soothe your nervous system without the sugar crash.'"
+            },
+            "rule_3_ai_powered_swap_suggestion": {
+                "condition": "If user clicked ‘Morning Fog’ in the 'Daily Energy Battle' poll (micro-commitment) AND time of day is 6-9 AM for user",
+                "action_suggestion": "Dynamically display: 'Morning Fog Protocol, ACTIVATED! Your brain needs a dopamine kickstart. Try this 90-Second 'Tyrosine Power-Up': Microwaveable egg white bites with a sprinkle of smoked paprika & a side of 5 walnuts. Full 'Chrono-Nutrition Attack Plan' for breakfast in Chapter X.'"
+            },
+            "rule_4_ai_powered_swap_suggestion": {
+                "condition": "If user lingered on ‘RSD’ section OR interacted with 'Snaccident Autopsy' tool with 'emotional trigger' input",
+                "action_suggestion": "Inject a targeted content block: 'RSD Flare-Up Food SOS! Before you reach for that [common trigger food], try this 'Rejection-Proof Ramen Upgrade': Instant ramen (low sodium if poss) + silken tofu cubes + dried seaweed + a dash of sesame oil. Comfort, warmth, and a protein boost to buffer the emotional storm. Get more 'No-Shame Meal Formulas' in our toolkit.'"
+            }
+        },
+        "neuro_engagement_tactics_suggestions": {
+            "dmn_engagement_idea": "Open with: 'Picture this: You *know* what you need to do. The list is there. But your brain feels like it’s stuck in neutral, lost in a fog of 'what-ifs' and daydreams. If this is your daily reality, especially after meals, you might be experiencing a DMN hijack. We're about to show you the nutritional 'off-switch' for that internal noise.'",
+            "salience_network_trigger_idea": "Feature the 'Brain Sabotage Flowchart' prominently: A visually arresting flowchart showing *Sugar Intake → Rapid Insulin Spike → AMPK Enzyme Inhibition in Hypothalamus → Reduced Orexin Neuron Firing → Prefrontal Cortex Functional Shutdown & DMN Overactivation → POST-MEAL COMA*. Caption: 'It’s Not Laziness, It’s A Biological Cascade. Here’s How To Stop It.'",
+            "executive_network_support_idea": "Offer a downloadable 'Weekly Chrono-Nutrition Attack Plan' template: A fillable PDF with timed meal/snack slots (6-9 AM, 11 AM-1 PM, 3-5 PM, etc.) and suggested nutrient focus (Tyrosine, Omega-3/Choline, Electrolytes/Adaptogens) for each, supporting planning and adherence."
+        }
+    },
+    "tiered_titles": {
+        "diagnostic_title_suggestion": "The ADHD Energy Drain Decoded: Neural Circuit Failures (DMN Hijack, dlPFC Drain, HPA Havoc) & Your Food Fix",
+        "emotional_title_suggestion": "Stop Fighting Your ADHD Brain: Neuro-Nutrition for Questioning Professionals to End Energy Crashes & Reclaim Your Life",
+        "solution_title_suggestion": "ADHD Neuro-Nutrition Warfare: The Chrono-Attack Plan, Macronutrient Alchemy & Brain Circuit Resets for Peak Professional Performance"
+    },
+    "killer_hook_suggestion": "Science Drop: A 2024 review in *Nutritional Neuroscience* links healthier diets to fewer ADHD symptoms. But we go deeper: did you know your 'Post-Meal Coma' might be DMN overactivation, or 'Snaccidents' a sign of dlPFC glucose depletion? Your brain isn't broken; it's sending SOS signals for specific neuro-fuel! Meme Moment: [Image: A brain trying to use a tiny 'dlPFC Forklift' to lift a giant 'Work Project' pallet, with 'Low Glucose Fuel' gauge blinking red.] Caption: 'My ADHD brain every Tuesday at 2 PM. Send Tyrosine & Choline STAT.' Raw Truth: For you, the 'Questioning Professional on the Edge,' that relentless cycle of brain fog, energy crashes, and impulsive eating isn't a character flaw—it's a neurobiological battle. Generic 'healthy eating' is like bringing a butter knife to a gunfight. We're giving you the actual weapons: The 'ADHD Forklift Theory™', 'Chrono-Nutrition Attack Plans', and 'Neuro-Plastic Plates'. PS: Ready to stop being a victim of your brain's biochemistry and become its master alchemist? → Let the 'ADHD Macronutrient Alchemy' begin.",
+    "neuro_informed_keywords": {
+        "foundational_neuro_terms": [
+            "dopamine synthesis",
+            "norepinephrine precursor",
+            "acetylcholine focus",
+            "serotonin mood food",
+            "GABA glutamate balance diet",
+            "executive function nutrition",
+            "prefrontal cortex fuel",
+            "HPA axis regulation diet",
+            "DMN modulation food",
+            "myelin sheath repair nutrients",
+            "AMPAK inhibition",
+            "orexin neuron activation",
+            "tyrosine hydroxylase cofactors"
+        ],
+        "symptom_neuro_correlates_suggestions": [
+            "inattention tyrosine deficiency",
+            "impulsivity blood sugar dlPFC",
+            "brain fog DMN overactivity",
+            "ADHD fatigue HPA axis dysregulation",
+            "working memory choline",
+            "ADHD decision fatigue glucose",
+            "RSD cortisol spike food"
+        ],
+        "long_tail_variants_suggestions": [
+            "what to eat for ADHD DMN overactivation after meals?",
+            "how to stop dlPFC drain and decision fatigue snaccidents with ADHD?",
+            "ADHD nutrition plan for HPA axis cortisol crash",
+            "chrono-nutrition for ADHD task initiation and focus",
+            "ADHD food lab experiments for dopamine levels",
+            "trauma-informed nutrition for ADHD RSD",
+            "ADHD macronutrient alchemy for brain repair"
+        ]
+    },
+    "search_intent_profile": {
+        "primary_informational_intent_keywords": [
+            "ADHD nutrition science energy focus",
+            "how diet affects ADHD neural circuits",
+            "best foods for ADHD adults cognitive performance",
+            "ADHD brain chemistry food energy neurotransmitters",
+            "combatting ADHD fatigue with chrono-nutrition"
+        ],
+        "navigational_intent_keywords_suggestion": [
+            "QuirkyLabs ADHD neuro-nutrition guide",
+            "QuirkyLabs Feed ADHD Brain pillar advanced",
+            "QuirkyLabs ADHD Forklift Theory"
+        ],
+        "transactional_intent_keywords_suggestion": [
+            "ADHD nutrition freemium tools experiments",
+            "ADHD focus supplements tyrosine choline (ethical consideration: if discussed)",
+            "ADHD meal planning app for neural circuits"
+        ],
+        "commercial_investigation_keywords_suggestion": [
+            "best diet for adult ADHD professional performance",
+            "compare ADHD neuro-nutrition programs",
+            "ADHD coaching for HPA axis diet and energy"
+        ]
+    },
+    "interactive_content_elements_suggestions": [
+        {
+            "element_name": "Neurotransmitter Recipe Matrix™ v2.0 (Chrono-Synced)",
+            "description": "An expanded, visually dynamic matrix. Users can filter by time of day (Morning Dopamine/Tyrosine Kickstart, Midday Acetylcholine Focus, Afternoon HPA Support) or desired cognitive state. Includes cofactors.",
+            "example_entries": [
+                "Dopamine Builder (AM): Turkey + Pumpkin Seeds (Tyrosine, Zinc) + Bell Pepper (Vit C for conversion) + Dark Chocolate (PEA)",
+                "Acetylcholine Enhancer (Midday): Salmon (Omega-3, DHA) + Egg Yolk (Choline) + Spinach (Folate)",
+                "Cortisol Crusher (PM): Chamomile Tea + handful Brazil Nuts (Selenium) + small piece 80%+ Dark Chocolate (Magnesium, anandamide)"
+            ],
+            "cta_link_to_tool_feature": "Integrate with freemium 'When-to-Eat Countdown Timer' and recipe builder."
+        },
+        {
+            "element_name": "The Brain Sabotage Flowchart™: From Bite to Brain Fail",
+            "description": "A compelling infographic visually mapping how specific food choices (e.g., high sugar meal, skipping protein) trigger a negative biochemical cascade affecting neural circuits and leading to ADHD symptoms.",
+            "example_flow": "High Sugar Meal → Rapid Insulin Spike → Hypoglycemic Dip & AMPK Inhibition in Hypothalamus → Reduced Orexin Neuron Firing → Prefrontal Cortex Functional Shutdown (dlPFC offline) & DMN Overactivation → POST-MEAL COMA & Impaired Executive Function.",
+            "placement_suggestion": "When explaining specific pain points like 'Post-Meal Coma' or 'Decision Fatigue Snaccidents'."
+        },
+        {
+            "element_name": "ADHD Nutrient Elements™ Chart",
+            "description": "A visually engaging chart styled like a periodic table, where each 'element' is a key nutrient (Protein, Omega-3s, Iron, Zinc, Magnesium, B-Vitamins, Choline etc.). Each element shows its 'ADHD Brain Role' (e.g., Protein: Dopamine Raw Material; Fats: Myelin Sheath Repair Kit; Carbs: Glutamate-GABA Balancer), deficiency symptoms, and top food sources.",
+            "placement_suggestion": "As a central reference guide, downloadable, and linked from various sections."
+        }
+    ],
+    "chrono_nutrition_strategies": {
+        "concept_name": "The ADHD Chrono-Nutrition Attack Plan™",
+        "description": "A timed nutritional strategy aligning specific nutrients with the ADHD brain's typical circadian fluctuations in neurotransmitters, energy, and executive function demands, particularly for professionals.",
+        "time_blocks": [
+            {
+                "time": "6-9 AM (The Ignition Phase)",
+                "focus": "Dopamine & Norepinephrine Precursors for Task Initiation & Alertness",
+                "nutrients_foods_suggestion": "Tyrosine-rich breakfast (eggs, turkey, lean meats, tofu, pumpkin seeds, walnuts), Vitamin C (berries, kiwi - cofactor for dopamine synthesis), small amount of complex carbs for initial PFC fuel (oats, quinoa)."
+            },
+            {
+                "time": "11 AM - 1 PM (The Sustained Focus Phase)",
+                "focus": "Acetylcholine Support for Focus Retention & Working Memory",
+                "nutrients_foods_suggestion": "Omega-3 rich lunch (salmon, mackerel, sardines, walnuts, flax/chia seeds), Choline sources (egg yolks, lean beef, soybeans, shiitake mushrooms), B-Vitamins (leafy greens, legumes)."
+            },
+            {
+                "time": "3-5 PM (The Cortisol Crash Counter-Attack / HPA Rebalance)",
+                "focus": "HPA-Axis Support, Electrolyte Balance & Preventing Norepinephrine Troughs",
+                "nutrients_foods_suggestion": "Electrolyte-rich snack (banana with nut butter, coconut water, avocado), Adaptogens (ashwagandha or rhodiola in a smoothie/tea - with medical caution), Magnesium & Selenium (dark chocolate >80%, Brazil nuts), L-Theanine (green tea - for calm focus)."
+            },
+            {
+                "time": "Evening (The Wind-Down & Repair Phase)",
+                "focus": "Serotonin Precursors & GABA Support for Calm & Sleep Prep",
+                "nutrients_foods_suggestion": "Tryptophan-rich foods (turkey, chicken, oats, nuts/seeds), Magnesium (leafy greens, pumpkin seeds), complex carbs to aid tryptophan transport (sweet potato), anti-inflammatory foods (ginger, turmeric)."
+            }
+        ],
+        "tool_integration_note": "The 'When-to-Eat Countdown Timer' in freemium tools should sync with these phases, offering meal/snack prompts and 'Next Best Bite' suggestions based on user's logged symptoms and time of day."
+    },
+    "conversion_architecture": {
+        "conceptual_narrative_arc_suggestion": [
+            "1. The Neural Sabotage Unveiled: Exposing how 'Post-Meal Comas,' 'Snaccidents,' & 'Cortisol Crashes' are brain circuit failures, not moral ones.",
+            "2. The ADHD Neuro-Alchemist's Toolkit: Introducing 'The ADHD Forklift Theory™,' 'ADHD Macronutrient Alchemy™,' and the 'Chrono-Nutrition Attack Plan™'.",
+            "3. Your First Brain Re-Wire Experiment: Guiding users through the '48-Hour Dopamine Detective' or 'Snaccident Autopsy' via the 'ADHD Food Lab™'.",
+            "4. Personalized Neuro-Fueling Protocol: Offering the 'Nutritional Autopsy 2.0™' tool and 'Next Best Bite™' AI for hyper-specific, real-time guidance.",
+            "5. The ADHD Peak Performance Operating System: Envisioning mastery over energy and focus through continuous biofeedback, learning, and adaptation via QuirkyLabs tools."
+        ],
+        "lead_magnet_concept_suggestion": "Type: Interactive 'Nutritional Autopsy 2.0™' & 'ADHD Food Lab™ Starter Kit'. Title Idea: 'Your ADHD Brain on Food: Run Your First Neuro-Nutrition Experiment & Get Your Personalized Energy Blueprint'. Delivers: Access to 'The 48-Hour Dopamine Detective' & 'Snaccident Autopsy' mini-experiments. Upon completion, users get a 'Nutritional Autopsy 2.0' report identifying personalized deficiency risks & 'Next Best Bite' AI suggestions for 7 days via the freemium app.",
+        "pain_hooks_suggestions": {
+            "frustration_point_suggestion": "Sick of your brain's energy levels being more unpredictable than a squirrel on espresso? If 'Post-Meal Comas' and 'Decision Fatigue Snaccidents' are your daily reality, you're not alone – your neural circuits are being sabotaged.",
+            "aspiration_point_suggestion": "Imagine commanding sustained focus, sharp decision-making, and rock-solid energy throughout your demanding professional day. This isn't a fantasy; it's achievable when you apply 'ADHD Macronutrient Alchemy™' and 'Chrono-Nutrition™' to your unique brain.",
+            "fear_point_suggestion": "Terrified that these relentless energy drains and brain fog episodes (your 'HPA Axis Havoc') are costing you promotions, relationships, and your sanity? Don't let neuro-nutritional ignorance derail your potential."
+        },
+        "cta_placements": {
+            "mid_article_suggestions": {
+                "text_suggestion": "Feeling that 'dlPFC Drain' RIGHT NOW leading to a 'Snaccident' urge? Don't just resist – REWIRE. Start your first 'ADHD Food Lab™' experiment: The 'Snaccident Autopsy'. Pinpoint your trigger, get an RSD-Proof Snack Swap, and earn your first 'Mad Scientist' badge. Click here to dissect your craving!",
+                "trigger_suggestion": "After explaining 'Decision Fatigue-Induced Snaccidents' and its link to dlPFC glucose depletion, when the pain is most acute."
+            },
+            "post_transform_suggestions": {
+                "text_suggestion": "Ready to stop being a pawn in your brain's neurochemical chess game and become the Grandmaster? Launch your 'Nutritional Autopsy 2.0™' now, receive your personalized 'Next Best Bite™' AI plan, and activate your 'When-to-Eat Countdown Timer'. This is Day 1 of your ADHD Peak Performance Operating System.",
+                "trigger_suggestion": "At the end of the main content, framing it as the immediate next step to apply all learned concepts (Stage 4: Personalized Neuro-Fueling Protocol)."
+            }
+        },
+        "gamification_suggestions": {
+            "overall_concept": "The ADHD Food Lab™: Become a Citizen Neuro-Scientist",
+            "experiments": [
+                {
+                    "name": "The 48-Hour Dopamine Detective™ Challenge",
+                    "description": "Users log all meals, snacks, and subjective focus/energy/mood levels for 48 hours using a simplified in-app journal. They are encouraged to try at least two 'Dopamine Builder' recipes from the Neurotransmitter Recipe Matrix™.",
+                    "output_tool_feature": "Algorithm generates a personalized 'Neurotransmitter Deficit Score' (e.g., 'Suspected Low Dopamine Precursors - Tyrosine Score: 4/10') and suggests 3 specific food additions for the next 48 hours.",
+                    "badge_reward": "'Dopamine Detective' Badge."
+                },
+                {
+                    "name": "The Snaccident Autopsy™ Tool",
+                    "description": "After an impulsive eating episode ('Snaccident'), users answer a short series of questions in-app: What time was it? What was your emotional state (RSD trigger?)? What were you doing before? What did you eat? How did you feel after?",
+                    "output_tool_feature": "Tool provides insights (e.g., 'Pattern Detected: Low protein at lunch often precedes 3 PM sugar craving. Emotional Trigger: Perceived criticism in email.') and generates an 'RSD-Proof Snack Swap' (e.g., 'Instead of [their snack], try: Dark chocolate with almonds and 5 mins of box breathing.').",
+                    "badge_reward": "'Snaccident Surgeon' Badge."
+                }
+            ],
+            "general_badges": [
+                "'Mad Scientist' Badge (for completing 3 experiments)",
+                "'Brain Fuel Alchemist' Badge (for consistent logging)"
+            ],
+            "leaderboard_option": "Optional 'Community Experimenters' leaderboard for engagement (anonymous options)."
+        },
+        "micro_commitment_suggestions": [
+            "Early in article: 'Quick Brain Check: Which of these neural circuit failures feels most like YOUR daily battle? A) Post-Meal DMN Hijack, B) dlPFC Drain Snaccidents, C) HPA Axis Cortisol Crash (Tap your #1 saboteur!)'",
+            "After introducing 'ADHD Macronutrient Alchemy™': 'Mind-Blown Moment? Pause for 10 seconds. If you could give your brain ONE 'raw material' upgrade today (Dopamine, Glutamate-GABA, Myelin), which would it be? Hold that thought.'"
+        ],
+        "exit_intent_capture_idea": "HOLD UP! Your dlPFC is probably screaming for a break. Before it stages a 'Snaccident,' grab our FREE 'ADHD Brain Circuit Rescue Cheatsheet' – 1 instant food hack for each of the 3 Big Energy Drains. Your neurons will thank you!"
+    },
+    "community_ignition": {
+        "ugc_engine": {
+            "prompt_suggestions": [
+                "Relatable Fail Confession Prompt: 'Neuro-Warriors, confess your most spectacular 'Brain Sabotage Flowchart' moment! When did a seemingly innocent food choice lead to total PFC shutdown or a DMN party at the worst possible time? #MyBrainOnSnacks'",
+                "Triumph/Hack Sharing Prompt: 'Citizen Neuro-Scientists! What's ONE 'Chrono-Nutrition Attack Plan' tweak or 'Neuro-Plastic Plate' combo that’s been a game-changer for your ADHD energy & focus? Share your 'Dopamine Delivery Drone' micro-hacks! #ADHDLabNotes'"
+            ]
+        },
+        "social_media_share_trigger_suggestion": "🤯 My 'Post-Meal Coma' is DMN OVERACTIVATION?! This QuirkyLabs article on Neuro-Nutrition for ADHD just rewired my brain. Finally, science that GETS IT. Check out 'The ADHD Forklift Theory™' & their 'Food Lab Experiments'! #ADHD50outof10 #NeuroNutritionWarfare #NotBrokenJustWiredDifferently",
+        "tribal_badges": {
+            "achievement_name_suggestions": [
+                "ADHD Neuro-Alchemist™",
+                "dlPFC Defender™",
+                "HPA Axis Hero™",
+                "DMN Dominator™",
+                "Mad Food Scientist (QLabs)™"
+            ],
+            "reward_suggestions": [
+                "Access to an 'Ask Me Anything' with the QuirkyLabs neuro-nutrition lead about advanced 'Chrono-Nutrition' or 'Biofeedback Snacking' strategies.",
+                "Beta access to new 'ADHD Food Lab' experiments or 'When-to-Eat Countdown Timer' features.",
+                "Personalized 'Neuro-Plastic Plate' template based on their 'Nutritional Autopsy 2.0' results."
+            ]
+        }
+    },
+    "brand_differentiation_engine": {
+        "trademarkable_concept_suggestions": [
+            "The 'ADHD Forklift Theory™': Your brain’s forklift (prefrontal cortex/dlPFC) needs the right fuel (nutrients like tyrosine, choline, omega-3s) to lift heavy cognitive loads (work tasks). Bad fuel (e.g., sugar spikes, nutrient deficiencies) means the forklift struggles, stutters, or drops pallets (forgotten deadlines, brain fog, DMN intrusion). Good fuel ensures smooth, strong lifts all day.",
+            "QuirkyLabs' 'EF-EZ Meal Matrix™' (Executive Function-Easy Meal Planning System)",
+            "The 'FocusFuel Protocol™'",
+            "The 'Neurotransmitter Recipe Matrix™ (Chrono-Synced)'",
+            "ADHD Macronutrient Alchemy™ (Protein=Dopamine Raw Material, Carbs=Glutamate-GABA Balancer, Fats=Myelin Sheath Repair Kit)",
+            "The 'Chrono-Nutrition Attack Plan™'",
+            "The 'Brain Sabotage Flowchart™'",
+            "ADHD Food Lab™ Experiments (e.g., '48-Hour Dopamine Detective™', 'Snaccident Autopsy™')",
+            "The 'Nutritional Autopsy 2.0™'",
+            "AI-Powered 'Next Best Bite™'",
+            "Neuro-Plastic Plates™ (e.g., 'Deep Work Plate', 'Emotional Reset Bowl')",
+            "RSD Kitchen Rescue Kit™",
+            "Biofeedback Snacking™ Strategies",
+            "Dopamine Delivery Drones™ (Metaphor for Micro-Hacks: Short, high-frequency nutrition micro-hacks like '2 almonds every 90 mins sustains dopamine better than a candy bar crash.')"
+        ],
+        "unique_selling_proposition_angle_suggestion": "Stop battling your ADHD brain with generic diet advice. QuirkyLabs offers a revolutionary Neuro-Nutritional Warfare System. We don't just give you recipes; we arm you with 'The ADHD Forklift Theory™' to understand *why* your brain needs specific fuel, 'ADHD Macronutrient Alchemy™' to transform your meals, and the 'Chrono-Nutrition Attack Plan™' to time your attacks against energy crashes. Through our 'ADHD Food Lab™' experiments and 'Nutritional Autopsy 2.0™' AI, you become a citizen neuro-scientist, personalizing your path to peak professional performance by directly addressing neural circuit failures like 'DMN Hijacks' and 'dlPFC Drains'. We expose the 'Missing Science' competitors ignore and provide trauma-informed, 'RSD-safe' solutions."
+    },
+    "content_element_suggestions": [
+        {
+            "name": "ADHD Food Mythology Busting Section",
+            "description": "A dedicated section or recurring call-out boxes that debunk common, often neurotypical, food advice with ADHD-specific neurobiological realities and practical alternatives.",
+            "examples": [
+                "Myth: 'Just eat breakfast to start your day right!' → Reality: 'If your ADHD meds obliterate your morning appetite, forcing a large meal is a recipe for misery. Instead, try a 'Liquid Forklift'™ (e.g., a tyrosine-rich protein shake with spinach and flax) 30 mins *before* meds, or break your 'breakfast' into 2-3 smaller, nutrient-dense 'Dopamine Delivery Drones'™ over the first few hours of your workday.'",
+                "Myth: 'Meal prep on Sunday solves all your weekly food stress!' → Reality: 'For an ADHD brain with working memory black holes and time blindness, a giant Sunday prep can feel like climbing Everest, often leading to food waste. Instead, try 'Invisible Prep'™ (e.g., order pre-chopped veggies, use frozen fruit, batch cook ONE versatile protein) or 'Single-Task Meal Assembly'™ (focus on prepping just one component per day).'",
+                "Myth: 'Cut out all sugar to fix your focus!' → Reality: 'While reducing refined sugar is key, demonizing all carbs ignores their role in glutamate-GABA balance and serotonin production. The 'ADHD Macronutrient Alchemy™' approach focuses on *strategic* complex carbs timed for optimal brain function, not total deprivation which can backfire into binges.'"
+            ]
+        }
+    ],
+    "content_governance": {
+        "content_velocity_suggestion": "1 core pillar article (4000-5000 words with deeply integrated interactive elements like 'ADHD Food Lab' prompts and 'Brain Sabotage Flowchart' visuals), atomized into 10-12 micro-content pieces (social posts detailing each 'Neuro-Plastic Plate', short animated videos for 'ADHD Forklift Theory™' and 'Macronutrient Alchemy™', email series walking through the 'Chrono-Nutrition Attack Plan™') per week for 3 weeks post-launch.",
+        "ethical_guardrails_standard": [
+            "**Nutritional Non-Negotiables Disclaimer Point 1:** These strategies, frameworks (like 'The ADHD Forklift Theory™' or 'Chrono-Nutrition Attack Plan™'), and tools complement, but DO NOT REPLACE, prescribed ADHD medication, formal therapy (CBT, DBT), or personalized medical advice from qualified healthcare professionals. Always consult your primary care physician, psychiatrist, and a registered dietitian before making significant changes to your diet or supplement regimen, especially if you have co-occurring conditions.",
+            "**Nutritional Non-Negotiables Disclaimer Point 2:** No food shame, ever. This is a judgment-free zone. Your ADHD brain is wired differently, and that includes its relationship with food. We focus on compassionate, science-backed strategies for *adding* brain-nourishing power, not on restrictive 'keto cults,' calorie-counting obsession, or moralizing food choices. If you struggle with disordered eating, please seek specialized professional help.",
+            "Emphasize that individual responses to nutritional changes can vary significantly due to genetics, lifestyle, medication, and comorbidities. What works for one may not work for another.",
+            "Promote body neutrality and intuitive eating principles where appropriate, within an ADHD-informed context.",
+            "Cite sources meticulously for all scientific claims, using peer-reviewed journals. Clearly distinguish between established science, emerging research, and theoretical frameworks/metaphors (like 'Dopamine Delivery Drones™').",
+            "Be deeply sensitive to comorbid eating disorders, anxiety, and depression. Provide clear signposting to professional mental health and eating disorder support resources. Avoid any language that could inadvertently trigger or worsen these conditions."
+        ],
+        "ai_authenticity": {
+            "required_elements_standard": [
+                "Minimum 1 raw Reddit-style confession/question per 800 words directly related to the discussed pain point (e.g., 'Post-Meal Coma confession')",
+                "Conceptual inclusion of 2 human voice note snippets (themes below), possibly embedded as audio clips."
+            ],
+            "human_element_suggestions": {
+                "voice_note_theme_suggestion": "For 'The Questioning Professional on the Edge' & 'RSD Kitchen Rescue Kit': A 30-second voice note: 'I used to absolutely DREAD cooking after a tough day, especially if I felt criticized or overwhelmed – RSD meltdown guaranteed. Then I discovered the 'Hyperfixation Helper Plate' concept from QuirkyLabs... just pre-cut veggies, hummus, nuts. Sounds silly, but it saved me from so many takeout guilt-trips and emotional eating spirals. It's okay if 'dinner' looks like adult Lunchables when your brain needs peace.'",
+                "reddit_confession_theme_suggestion": "For 'ADHD Food Mythology Busting' or 'Decision Fatigue Snaccidents': A Reddit-style post titled 'Help! My dlPFC is officially on strike. Ate cereal for dinner 3x this week. What are your go-to 'zero executive function points required' neuro-meals that aren't pure sugar? Asking for a friend (it's me).' highlighting the real-world struggle."
+            },
+            "bias_checks_standard": [
+                "Ensure all strategies, food examples ('Neurotransmitter Recipe Matrix', 'Neuro-Plastic Plates'), and tools ('ADHD Food Lab') offer accessible, affordable, and culturally diverse options. Avoid assuming high income, extensive free time, or access to specialty grocery stores.",
+                "Avoid gender stereotypes in examples of food preferences, cooking roles, or emotional responses to food. Specifically address how both men and women experience these challenges.",
+                "Review for any language that could inadvertently shame medication choices, difficulties with adherence to nutritional plans (emphasize experimentation and self-compassion), or socioeconomic limitations affecting food access."
+            ]
+        },
+        "citation_system_standard": "APA 7th Edition for academic sources, with clear in-text attributions (e.g., '' or 'As research on dlPFC glucose depletion suggests...'). User-provided studies are primary; AI can suggest additional relevant high-authority sources for depth, especially for newer concepts like specific circuit links to nutrition."
+    },
+    "monetization_matrix": {
+        "primary_monetization_method": "Freemium Tool Suite Conversion: Drive sign-ups for the 'QuirkyLabs ADHD Neuro-Nutrition Toolkit' featuring the 'Nutritional Autopsy 2.0™', 'ADHD Food Lab™' (Dopamine Detective, Snaccident Autopsy), 'When-to-Eat Countdown Timer™', and 'Biofeedback Snacking™' (wearable integration - future phase).",
+        "secondary_monetization_suggestion": "Tiered access to advanced 'ADHD Food Lab™' experiments, personalized 'Neuro-Plastic Plate™' generators, or premium 'Chrono-Nutrition Attack Plan™' coaching modules within the 'Operating System for ADHD Brains at Work'. Highly curated affiliate links for practitioner-grade supplements (e.g., specific Omega-3s, tyrosine, adaptogens - with extreme vetting & disclaimers) or ADHD-friendly meal delivery services.",
+        "value_exchange_proposition_suggestion": "Stop guessing how to feed your ADHD brain. Get your personalized 'Nutritional Autopsy 2.0™,' run real 'ADHD Food Lab™' experiments, and unlock AI-powered 'Next Best Bite™' suggestions to conquer energy drains and brain fog. This isn't just a diet plan; it's your entry into mastering your unique neurobiology for peak professional performance. Start your first experiment FREE."
+    },
+    "ecosystem_integration": {
+        "micro_content": {
+            "tweet_storm_ideas": [
+                "Thread 🧠: Is your ADHD brain's 'dlPFC Forklift' constantly dropping tasks? It's probably STARVING. Introducing 'The ADHD Forklift Theory™' & how specific neuro-nutrients are non-negotiable fuel... #ADHDNutrition #NeuroScience #FocusFuel",
+                "Ever had a 'Post-Meal Coma' so bad you suspected alien abduction? 👽 It might be your DMN going rogue. Here's the neuro-nutritional counter-attack for ADHD pros... #ADHDHacks #BrainFogBegone #QuirkyLabs",
+                "ADHD 'Chrono-Nutrition Attack Plan™' DEPLOYED! 💥 6 AM: Tyrosine Bomb. 12 PM: Acetylcholine Charge. 3 PM: Cortisol Crusher. Learn to time your nutrients like a neuro-warrior... #ADHDBiohacking #EnergyMatrix"
+            ],
+            "instagram_carousel_concept": "Slide 1: 'ADHD Brain Drain? Meet Your Neural Saboteurs!' (Visual: DMN, dlPFC, HPA icons). Slide 2: 'The Post-Meal Coma' explained via DMN + Brain Sabotage Flowchart snippet. Slide 3: 'Decision Fatigue Snaccidents' explained via dlPFC + Flowchart snippet. Slide 4: '3 PM Cortisol Crash' via HPA Axis + Flowchart snippet. Slide 5: Introducing 'ADHD Macronutrient Alchemy™' (Protein=Dopamine Raw Material, etc.). Slide 6: Your First 'Neuro-Plastic Plate' idea. Slide 7: CTA to take the 'Nutritional Autopsy 2.0™'.",
+            "tiktok_short_video_script_idea": "(Fast-paced, upbeat, quick cuts) VO: 'ADHD Brains! Your energy isn't random! Meet the 'ADHD Forklift Theory'™! (Quick animation of forklift struggling then succeeding). Bad fuel = dropped tasks! Good Fuel = CRUSHING IT! (Show 'Neuro-Plastic Plate' - Deep Work Plate). Protein? Dopamine Raw Material! Fats? Myelin Repair! Carbs? GABA-Glutamate Balancer! Stop guessing, start ALCHEMIZING! Link in bio for your FREE 'Nutritional Autopsy 2.0'™! #ADHDLifeHacks #NeuroNutrition #ADHDForklift #QuirkyLabs'",
+            "linkedin_article_summary_hook": "For the Ambitious Professional Navigating Suspected ADHD: Are 'Post-Meal Comas' and 'Decision Fatigue Snaccidents' undermining your executive presence? It's not a willpower issue; it's neurochemistry. Discover how our 'Chrono-Nutrition Attack Plan™' and 'ADHD Macronutrient Alchemy™' can optimize your brain's unique circuitry for sustained focus and energy. This is next-level performance nutrition, grounded in neuroscience.",
+            "email_snippet_idea": "Subject: Your ADHD Brain's Hidden Hunger (And How to Feed its Forklift™!) Body: Hey [Name], If you're constantly battling brain fog or energy crashes that feel 'typically ADHD,' it’s likely your brain's 'Forklift' (your prefrontal cortex) isn't getting the right fuel. Generic diets don't cut it. Our groundbreaking pillar, 'Feeding the ADHD Brain,' introduces concepts like 'ADHD Macronutrient Alchemy™' and the 'Chrono-Nutrition Attack Plan™' to provide *precise* fuel for your unique neural circuits. Ready to diagnose your 'Nutritional Gaps' with our FREE 'Nutritional Autopsy 2.0™' tool and discover your 'Next Best Bite™'? [Link to Pillar & Tool Sign-up]"
+        },
+        "predictive_analytics_input_suggestion": "Track user paths from specific 'Pain Point → Brain Circuit Mapping' explanations to engagement with corresponding 'ADHD Food Lab™' experiments and 'Chrono-Nutrition Attack Plan™' modules. Use 'Nutritional Autopsy 2.0™' data to predict which 'Neuro-Plastic Plates™' will be most relevant, and proactively suggest them. Monitor which 'Missing Science' callouts lead to highest time-on-page or further exploration, indicating strong resonance with our competitive differentiation."
+    },
+    "serp_warfare": {
+        "target_featured_snippet_questions_suggestions": [
+            {
+                "question": "What is the best diet for adult ADHD focus and energy based on brain circuits?",
+                "answer_suggestion": "For adult ADHD focus, target dlPFC support with tyrosine for dopamine (eggs, turkey) and omega-3s/choline for acetylcholine (salmon, egg yolks). To combat 'Post-Meal Coma' (DMN overactivation), balance meals with protein and fiber, avoiding high-sugar loads that disrupt AMPK signaling."
+            },
+            {
+                "question": "How can I use 'chrono-nutrition' for ADHD energy?",
+                "answer_suggestion": "Use ADHD 'chrono-nutrition' by timing nutrients: Tyrosine-rich breakfast (6-9 AM) for dopamine and task initiation. Omega-3/choline lunch (11 AM-1 PM) for sustained focus. Electrolyte/adaptogen snack (3-5 PM) to manage HPA-axis and prevent cortisol crashes."
+            },
+            {
+                "question": "What are 'neuro-plastic plates' for ADHD cognitive states?",
+                "answer_suggestion": "'Neuro-Plastic Plates™' are meal templates for ADHD: 'Deep Work Plate' (walnuts, blueberries for PFC fuel), 'Emotional Reset Bowl' (turkey, sweet potato for serotonin), 'Task Transition Smoothie' (yogurt, banana for dopamine bridge)."
+            },
+            {
+                "question": "Alexa, what is 'ADHD Macronutrient Alchemy'?",
+                "answer_suggestion": "Alexa says: 'ADHD Macronutrient Alchemy™' redefines macros for ADHD brains: Protein is 'Dopamine Raw Material,' Carbs are 'Glutamate-GABA Balancers,' and Fats are your 'Myelin Sheath Repair Kit.' It's about strategic use, not just counting."
+            },
+            {
+                "question": "Hey Google, how to stop 'decision fatigue snaccidents' with ADHD?",
+                "answer_suggestion": "To stop ADHD 'decision fatigue snaccidents,' Google suggests: Fuel your dlPFC with consistent glucose from complex carbs and protein. Prevent depletion with planned, 'Dopamine Delivery Drone™' micro-snacks (e.g., 2 almonds every 90 mins). Use 'EF-EZ Meal Matrix™' for easier choices."
+            }
+        ],
+        "people_also_ask_anticipation_suggestions": [
+            "Can specific foods reduce DMN overactivation in ADHD?",
+            "What are tyrosine hydroxylase cofactors for ADHD dopamine?",
+            "How does HPA axis dysregulation affect ADHD energy?",
+            "Are there trauma-informed nutrition plans for ADHD and RSD?",
+            "What is 'Biofeedback Snacking' for ADHD sensory regulation?",
+            "How does the 'ADHD Forklift Theory™' explain focus issues?",
+            "Mythbusting: Does sugar really make ADHD worse neurologically?"
+        ],
+        "competitor_keyword_gap_exploitation_summary": "Annihilate competitors by owning hyper-specific neuro-keywords they haven't touched: 'DMN hijack diet ADHD,' 'dlPFC glucose depletion food,' 'HPA axis nutrition ADHD,' 'tyrosine hydroxylase cofactors ADHD diet.' Explicitly embed 'Missing Science' callouts in content: e.g., 'While other guides mention protein for ADHD, they FAIL to explain that without sufficient iron, B6, and folate – key cofactors for the tyrosine hydroxylase enzyme – your brain CANNOT efficiently convert that protein into dopamine. QuirkyLabs shows you how to complete the entire neurochemical chain reaction for focus.'"
+    },
+    "technical_overkill": {
+        "schema_details": {
+            "primary_schema_type_suggestion": "Article",
+            "secondary_schema_suggestions": [
+                "FAQPage",
+                "HowTo",
+                "WebPage (for the interactive tools/experiments if embedded or linked as primary content)",
+                "Dataset (for the Neurotransmitter Recipe Matrix if presented as structured data)"
+            ],
+            "faq_page_suggestions": {
+                "@context": "https://schema.org",
+                "@type": "FAQPage",
+                "mainEntity": [
+                    {
+                        "@type": "Question",
+                        "name": "What is 'The ADHD Forklift Theory™' of nutrition?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "The 'ADHD Forklift Theory™' is a QuirkyLabs framework illustrating how the prefrontal cortex (your brain's 'forklift') requires specific neuro-nutrients ('fuel') to manage demanding cognitive tasks. Deficiencies or poor fuel choices (like high sugar) can cause the 'forklift' to malfunction, leading to common ADHD challenges like brain fog, inattention, and difficulty with task completion, metaphorically 'dropping pallets' of work. Strategic neuro-nutrition ensures the 'forklift' has optimal fuel."
+                        }
+                    },
+                    {
+                        "@type": "Question",
+                        "name": "How can 'Chrono-Nutrition™' help my ADHD energy levels throughout the day?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "'Chrono-Nutrition™' for ADHD involves strategically timing your intake of specific nutrients to align with your brain's natural circadian rhythms and neurotransmitter fluctuations. For instance, a tyrosine-heavy breakfast can boost dopamine for morning task initiation, while an afternoon snack with adaptogens can help manage the 3 PM cortisol crash by supporting HPA-axis regulation."
+                        }
+                    },
+                    {
+                        "@type": "Question",
+                        "name": "What are some examples of 'ADHD Macronutrient Alchemy™'?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "'ADHD Macronutrient Alchemy™' reinterprets macronutrients for their neuro-specific roles: Protein isn't just protein; it's 'Dopamine Raw Material' (providing tyrosine). Carbohydrates aren't just energy; they are 'Glutamate-GABA Balancers' (influencing neurotransmitter calm and excitation). Fats are reconceptualized as your 'Myelin Sheath Repair Kit' (essential for neuronal communication speed and efficiency)."
+                        }
+                    }
+                ]
+            },
+            "howto_suggestion": {
+                "@context": "https://schema.org",
+                "@type": "HowTo",
+                "name_suggestion": "How to Conduct 'The 48-Hour Dopamine Detective™' Experiment (ADHD Food Lab™)",
+                "description": "A mini citizen-science experiment to identify potential links between your food intake and dopamine-related symptoms like focus and motivation.",
+                "totalTime_suggestion": "PT48H (actual logging time spread out)",
+                "estimatedCost": {
+                    "@type": "MonetaryAmount",
+                    "currency": "USD",
+                    "value": "0 (uses your existing food)"
+                },
+                "supply": [
+                    "Access to QuirkyLabs Freemium 'ADHD Food Lab™' Journal Tool",
+                    "Your regular food for 48 hours",
+                    "Willingness to be a neuro-detective!"
+                ],
+                "tool": [
+                    {
+                        "@type": "HowToTool",
+                        "name": "QuirkyLabs 'ADHD Food Lab™' Journal (Freemium App Feature)"
+                    }
+                ],
+                "step_suggestions": [
+                    {
+                        "@type": "HowToStep",
+                        "name_suggestion": "Step 1: Activate Your 'Dopamine Detective™' Journal",
+                        "text_suggestion": "In the QuirkyLabs app, start the '48-Hour Dopamine Detective™' experiment. This will set up your logging template.",
+                        "url": "https://quirkylabs.example.com/dopamine-detective-tool"
+                    },
+                    {
+                        "@type": "HowToStep",
+                        "name_suggestion": "Step 2: Log All Meals, Snacks & Key Nutrients",
+                        "text_suggestion": "For 48 hours, meticulously log everything you eat and drink. Pay special attention to protein sources (tyrosine) and any 'Dopamine Builder' recipes you try from our Neurotransmitter Recipe Matrix™."
+                    },
+                    {
+                        "@type": "HowToStep",
+                        "name_suggestion": "Step 3: Rate Your Focus, Energy & Mood Hourly",
+                        "text_suggestion": "Using the app's simple sliders, rate your subjective focus, energy, and mood on a scale of 1-10 every 1-2 hours, or after key meals/tasks."
+                    },
+                    {
+                        "@type": "HowToStep",
+                        "name_suggestion": "Step 4: Submit Your Data & Receive Your 'Neurotransmitter Deficit Score™'",
+                        "text_suggestion": "After 48 hours, submit your log. Our algorithm will provide a preliminary 'Neurotransmitter Deficit Score™' with suggestions for targeted food additions. Note: This is an educational tool, not a medical diagnosis."
+                    }
+                ]
+            }
+        },
+        "internal_linking_target_suggestions": [
+            "adhd-meal-planning-prep-executive-dysfunction-advanced-dlpfc-strategies",
+            "adhd-protein-intake-tyrosine-timing-for-dopamine",
+            "adhd-carb-cravings-glutamate-gaba-balancing-not-deprivation",
+            "adhd-hydration-electrolytes-hpa-axis-support",
+            "adhd-emotional-eating-rsd-kitchen-rescue-kit",
+            "adhd-gut-brain-axis-neuroinflammation-protocol",
+            "adhd-supplements-cofactors-tyrosine-hydroxylase"
+        ],
+        "alt_text_suggestion_formula": "[Animated 'Brain Sabotage Flowchart™' showing sugar leading to PFC shutdown, related to 'adhd-nutrition-energy' and 'Questioning Professional's' Post-Meal Coma] Is THIS why your ADHD brain crashes after lunch? See the neuro-cascade in action! → Tag a friend who needs this vital ADHD nutrition intel! #ADHDTruths #NeuroNutrition #EnergyCrash"
+    }
+}

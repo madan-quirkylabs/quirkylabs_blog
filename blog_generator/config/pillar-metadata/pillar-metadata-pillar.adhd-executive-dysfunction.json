@@ -391,7 +391,6 @@
                             }
                         ]
                     }
-                    // Add 2-4 more questions here structured similarly
                 ],
                 "potentialAction": {
                     "@type": "ViewAction",
