@@ -1,0 +1,210 @@
+{
+    "$schema": "https://quirkylabs.com/schemas/adhd-os-spoke-metadata-v4.0",
+    "spoke": {
+        "id": "adhd-task-paralysis",
+        "version": "1.0.0",
+        "priority": 1,
+        "status": "active",
+        "last_updated": "2025-06-09T08:35:00Z"
+    },
+    "category_architecture": {
+        "pillar": "adhd-executive-dysfunction",
+        "error_code": "INIT_FAILED",
+        "metaphor": "Your brain's startup sequence crashed",
+        "positioning": {
+            "before_state": "Generic 'just start' advice fails because it's incompatible software.",
+            "after_state": "The ADHD OS provides the missing system files to force a reboot."
+        }
+    },
+    "pain_archeology": {
+        "despair_queries": [
+            "why can't I start tasks with ADHD",
+            "ADHD frozen at computer",
+            "how to break through ADHD paralysis"
+        ],
+        "physical_symptoms": [
+            "body lock",
+            "time blindness",
+            "anxiety spiral"
+        ],
+        "emotional_impact": [
+            "shame",
+            "self-doubt",
+            "impostor syndrome",
+            "career consequences"
+        ],
+        "failed_solutions": [
+            "Pomodoro technique",
+            "Eat the Frog method",
+            "Generic planners"
+        ]
+    },
+    "neuro_response_plan": {
+        "neural_mechanism": "Dorsolateral Prefrontal Cortex (DLPFC) hypoactivation; low tonic dopamine levels.",
+        "content_treatment": "Dopamine priming via novelty hooks; shame reduction to lower amygdala activation; prefrontal cortex engagement via micro-action steps.",
+        "tool_requirement": "Requires externalized cues (visual/haptic timer), immediate micro-rewards, and a system to bypass emotional barriers."
+    },
+    "seo_warfare": {
+        "primary_keywords": [
+            "ADHD task paralysis",
+            "ADHD can't start tasks"
+        ],
+        "secondary_keywords": [
+            "executive dysfunction starting tasks",
+            "ADHD wall of awful"
+        ],
+        "snippet_targets": [
+            {
+                "type": "steps",
+                "content": "1. Define the smallest possible physical action. 2. Set a 5-minute 'no-fail' timer. 3. Identify and prepare a micro-reward."
+            }
+        ],
+        "false_flag_articles": [
+            {
+                "title": "Why Asana Works... For Neurotypicals (And Crashes the ADHD OS)",
+                "target_kw": "asana for adhd"
+            }
+        ]
+    },
+    "attention_engineering": {
+        "hook": {
+            "validation": "Being frozen isn't laziness - it's your brain missing critical system files to boot up a task.",
+            "frustration": "Neurotypical advice fails because it assumes your OS is compatible with their software.",
+            "intrigue": "The ADHD OS Task Initiation Protocol is like an external bootloader that forces the system to run."
+        },
+        "hero_story": {
+            "before": "Alex, a talented analyst, stares at a blank spreadsheet for 3 hours, physically unable to type the first formula, jeopardizing a major deadline.",
+            "after": "Using the ADHD OS 'manual mode' checklist, they ship the first draft of the report in 25 minutes, breaking the cycle of shame and avoidance."
+        }
+    },
+    "science_arsenal": {
+        "studies": [
+            {
+                "claim": "ADHD brains require higher activation energy for non-preferred tasks.",
+                "citation": "Barkley, R. A. (2012). Executive functions...",
+                "analogy": "Like a car needing 10x more spark from the battery to ignite the engine on a cold day."
+            }
+        ]
+    },
+    "content_arsenal": {
+        "cluster_synergy": {
+            "gateway_asset": {
+                "type": "quiz",
+                "title": "What's Your Task Paralysis Type?",
+                "id": "quiz-task-paralysis-type"
+            },
+            "dynamic_routing": {
+                "Initiation_Anxiety": "/blog/emergency-protocol-adhd-paralysis",
+                "Working_Memory_Crash": "/blog/adhd-externalized-checklists"
+            }
+        },
+        "execution_priority": [
+            "Emergency Protocol (Dopamine Triage)",
+            "Myth Buster (Shame Reduction)",
+            "Task Initiation Guide (PFC Engagement)",
+            "Thrive Content (Post-Stabilization)"
+        ]
+    },
+    "os_integration": {
+        "manual_mode_asset": {
+            "name": "ADHD OS Task Initiation Module",
+            "version": "1.0.2",
+            "changelog": "Added 'Emergency Reboot Sequence' for high-anxiety states."
+        },
+        "upgrade_path": {
+            "current": "Manual checklist in Google Docs.",
+            "future": "AI-assisted initiation coach in the full OS app."
+        }
+    },
+    "community_warfare": {
+        "bug_reports": {
+            "prompt": "What's your #1 'INIT_FAILED' error code this week? File your bug report below!",
+            "response_plan": "Feature top reports in our monthly 'Changelog' newsletter."
+        },
+        "dopamine_triggers": {
+            "beta_badge_evolution": [
+                "Lvl 1: Bug Hunter",
+                "Lvl 2: Glitch Analyst",
+                "Lvl 3: Patch Developer",
+                "Lvl 4: Kernel Contributor",
+                "Lvl 5: OS Architect"
+            ],
+            "visual_upgrades": "Badges gain '+1 processing core' icon per level."
+        }
+    },
+    "cognitive_warfare": {
+        "easter_eggs": [
+            {
+                "location": "article_footer_icon",
+                "code": "ALT+SHIFT+REBOOT",
+                "reward": "secret_debug_mode_content_access"
+            }
+        ],
+        "pattern_interrupts": [
+            "Randomly reward 1% of bug reports with 'Emergency Patch Deployed!' DMs containing a bonus tool."
+        ]
+    },
+    "war_room_ops": {
+        "black_ops": {
+            "seeded_bug_reports": [
+                {
+                    "platform": "r/ADHD",
+                    "copy": "My ADHD OS keeps crashing on document tasks... feels like an INIT_FAILED error. Found this QuirkyLabs site that gets it.",
+                    "engagement_goal": "15+ replies"
+                }
+            ]
+        }
+    },
+    "battle_metrics": {
+        "target_kpis": {
+            "rank_position": "Top 3",
+            "dwell_time": ">3 minutes",
+            "conversion_rate": ">8%"
+        },
+        "competitor_autopsies": [
+            {
+                "target": "Pomodoro Technique",
+                "crash_rate_percentage": 83,
+                "last_updated": "2025-06-09"
+            }
+        ],
+        "ugc_metrics": {
+            "bug_reports_collected": 0,
+            "hot_take_shares": 0
+        }
+    },
+    "atomic_assets": {
+        "micro_experiences": [
+            {
+                "type": "meme_generator",
+                "name": "BSOD Generator",
+                "concept": "User inputs their stuck task to create a custom 'crash screen' meme."
+            },
+            {
+                "type": "profile_generator",
+                "name": "ADHD OS Hardware Report",
+                "concept": "Quiz generates a mock 'system specs' profile for the user's brain."
+            }
+        ],
+        "visuals": [
+            {
+                "type": "error_screen_meme",
+                "concept": "A classic Windows Blue Screen of Death with error message: 'Error Code: 0x01 INIT_FAILED (Task_Paralysis).'"
+            }
+        ]
+    },
+    "predictive_enhancements": {
+        "failure_patterns_to_track": [
+            "Pre-meeting freeze",
+            "Creative project stalls"
+        ],
+        "neural_biomarkers_to_research": [
+            "Low ventral striatum activation",
+            "Default mode network intrusion"
+        ],
+        "upgrade_triggers": {
+            "threshold": "3+ bug reports on same crash type",
+            "response": "Generate new checklist variant"
+        }
+    }
+}

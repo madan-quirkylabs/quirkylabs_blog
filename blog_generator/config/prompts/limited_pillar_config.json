@@ -1,0 +1,108 @@
+{
+    "adhd-task-paralysis-focus": {
+        "pillar_slug": "adhd-task-paralysis-focus",
+        "pillar_title": "ADHD Task Paralysis: Why Your Brain Freezes",
+        "spokes": [
+            "why-cant-i-start-tasks-even-when-its-important",
+            "why-do-i-sit-frozen-at-my-computer-for-hours",
+            "why-do-easy-tasks-feel-emotionally-impossible",
+            "why-is-the-gap-between-planning-and-doing-a-canyon",
+            "why-does-choosing-what-to-eat-feel-like-hell",
+            "why-do-i-forget-what-i-was-doing-mid-task",
+            "why-does-every-task-feel-equally-urgent",
+            "why-is-switching-tasks-so-mentally-painful"
+        ]
+    },
+    "adhd-emotional-storms-rsd": {
+        "pillar_slug": "adhd-emotional-storms-rsd",
+        "pillar_title": "ADHD Emotional Storms & RSD",
+        "spokes": [
+            "why-do-i-over-apologize-for-everything",
+            "why-does-silence-from-my-partner-make-me-panic",
+            "why-do-small-frustrations-make-me-explode",
+            "why-do-i-ruminate-on-small-mistakes-for-days",
+            "why-do-i-cry-at-everything",
+            "why-does-minor-criticism-feel-like-a-physical-attack"
+        ]
+    },
+    "adhd-time-warp-procrastination": {
+        "pillar_slug": "adhd-time-warp-procrastination",
+        "pillar_title": "ADHD Time Warp & Procrastination",
+        "spokes": [
+            "why-do-i-waste-hours-before-appointments-doing-nothing",
+            "why-am-i-always-late-no-matter-what",
+            "why-does-time-feel-fake-with-adhd"
+        ]
+    },
+    "adhd-vs-productivity-systems": {
+        "pillar_slug": "adhd-vs-productivity-systems",
+        "pillar_title": "ADHD vs. Productivity Systems: Why You Keep Crashing",
+        "spokes": [
+            "why-do-i-have-a-graveyard-of-unused-planners",
+            "why-am-i-addicted-to-buying-new-productivity-apps",
+            "why-is-real-life-so-boring-and-unmotivating",
+            "why-can-i-only-work-when-someone-else-is-in-the-room"
+        ]
+    },
+    "adhd-career-survival-mode": {
+        "pillar_slug": "adhd-career-survival-mode",
+        "pillar_title": "ADHD Career Survival Mode",
+        "spokes": [
+            "why-do-i-get-bored-and-quit-every-job",
+            "why-does-my-inbox-make-me-want-to-quit",
+            "why-do-i-feel-like-a-fraud-at-work",
+            "why-am-i-so-afraid-to-ask-for-help-at-work"
+        ]
+    },
+    "adhd-financial-chaos-tax": {
+        "pillar_slug": "adhd-financial-chaos-tax",
+        "pillar_title": "ADHD Financial Chaos & Tax",
+        "spokes": [
+            "why-cant-i-stop-impulse-spending",
+            "how-do-i-escape-the-adhd-late-fee-doom-loop",
+            "why-do-all-budgeting-apps-feel-like-punishment",
+            "why-do-i-ignore-medical-bills-until-they-go-to-collections"
+        ]
+    },
+    "adhd-love-social-survival": {
+        "pillar_slug": "adhd-love-social-survival",
+        "pillar_title": "ADHD Love & Social Survival",
+        "spokes": [
+            "why-does-this-breakup-feel-like-the-end-of-the-world",
+            "why-do-i-feel-like-my-partners-parent",
+            "i-love-them-so-why-do-i-forget-they-exist",
+            "why-do-i-ignore-texts-from-people-i-like"
+        ]
+    },
+    "adhd-identity-crisis-late-diagnosis": {
+        "pillar_slug": "adhd-identity-crisis-late-diagnosis",
+        "pillar_title": "ADHD Identity Crisis & Late Diagnosis",
+        "spokes": [
+            "why-am-i-grieving-the-life-i-couldve-had-pre-diagnosis",
+            "why-do-i-feel-like-a-walking-symptom-not-a-person",
+            "why-is-pretending-to-be-normal-so-exhausting",
+            "am-i-lazy-or-is-it-my-adhd"
+        ]
+    },
+    "adhd-sleep-deprivation-burnout": {
+        "pillar_slug": "adhd-sleep-deprivation-burnout",
+        "pillar_title": "ADHD Sleep Deprivation & Burnout",
+        "spokes": [
+            "why-do-i-sacrifice-sleep-for-a-few-hours-of-me-time",
+            "why-is-waking-up-in-the-morning-physically-painful",
+            "why-am-i-always-so-tired-but-cant-rest",
+            "why-do-my-weeks-alternate-between-frantic-energy-and-total-collapse"
+        ]
+    },
+    "adhd-body-and-senses": {
+        "pillar_slug": "adhd-body-and-senses",
+        "pillar_title": "ADHD Body & Senses: Nutrition, Hygiene, and Sensory Overload",
+        "spokes": [
+            "why-is-showering-and-brushing-my-teeth-so-hard",
+            "why-do-i-forget-to-eat-for-hours",
+            "why-does-the-thought-of-exercise-feel-impossible",
+            "why-does-a-trip-to-the-grocery-store-feel-like-a-sensory-assault",
+            "why-do-small-noises-like-chewing-make-me-rage"
+        ]
+    }
+}
