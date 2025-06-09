@@ -1,0 +1,110 @@
+{
+    "$schema": "https://quirky-labs.com/schemas/neuro-dominance-v7",
+    "neuro_warfare": {
+        "brain_siege_plan": {
+            "neural_signature": {
+                "hypoactive_regions": [
+                    "Dorsolateral Prefrontal Cortex (dlPFC)",
+                    "Anterior Cingulate Cortex (ACC)"
+                ],
+                "hyperactive_regions": [
+                    "Amygdala",
+                    "Default Mode Network (DMN)"
+                ],
+                "neurotransmitter_gaps": [
+                    "Dopamine (-50%)",
+                    "Norepinephrine (-25%)"
+                ]
+            },
+            "circuit_override": {
+                "sensory_hijack": "Auditory (Binaural Beats for Focus) + Olfactory (Peppermint Oil)",
+                "cognitive_bypass": "Externalizing initiation via a 'First-Step' AI prompt generator that provides a single, unambiguous command, acting as a PFC proxy."
+            }
+        }
+    },
+    "content_doomsday_device": {
+        "attention_detonators": [
+            {
+                "type": "0.3s_microhook",
+                "content": "Staring at that blinking cursor AGAIN? Your Error Code: Initiation Failed is active. "
+            },
+            {
+                "type": "shame_to_frame",
+                "content": "This isn't a moral failing. This is your Prefrontal Cortex running on low battery and your Amygdala hitting the emergency brake. "
+            }
+        ],
+        "algorithmic_warfare": {
+            "EEAT_firewalls": [
+                "Dr. Russell Barkley, a leading expert, confirms that ADHD is a disorder of self-regulation, making task initiation a core neurobiological challenge, not a choice. ",
+                "fMRI scans consistently show reduced prefrontal cortex activity in individuals with ADHD when attempting to start a non-preferred task. "
+            ]
+        }
+    },
+    "pain_amplification_matrix": {
+        "despair_queries": {
+            "tier_1": [
+                "why does adhd paralysis make me feel useless"
+            ],
+            "tier_2": [
+                "starting my work report feels like trying to push a car uphill through mud"
+            ],
+            "tier_3": [
+                "how my boss reacts when I miss a deadline because I couldn't start"
+            ]
+        },
+        "sensory_trigger_catalog": {
+            "body_lock": "Screen glare + silent, judging cursor blink",
+            "time_warp": "Stomach drop + internal screaming to 'just start' "
+        }
+    },
+    "neuro_gamification": {
+        "dopamine_drip_feed": {
+            "micro_badges": [
+                "Initiation Sequence Started",
+                "Paralysis Breaker",
+                "First Step Smasher"
+            ],
+            "reward_schedule": {
+                "pre_action": "3s 'Powering Up...' animation for the first micro-task",
+                "post_action": "Satisfying 'Check!' animation that obliterates the task from the list"
+            }
+        },
+        "leaderboard_territories": [
+            "Most 'Initiation Failed' Overrides This Week",
+            "Top 10 Task Paralysis Survivors"
+        ]
+    },
+    "assassination_directives": {
+        "competitor_neuro_autopsies": {
+            "target": "Generic Productivity Blogs (e.g., those offering simple 'break it down' advice)",
+            "fatal_flaw": "Ignores the 'activation energy' deficit caused by dopamine dysregulation. They assume the 'starter motor' works. ",
+            "killing_shot": "Our 'Task Initiation Protocol' provides the missing 'dopamine jump-start' their checklists lack, explaining the neurochemistry of getting started."
+        },
+        "serp_sniper_rules": {
+            "snippet_hits": [
+                "The 5-Minute Rule to Override ADHD Paralysis",
+                "Why 'Just Break It Down' Makes ADHD Task Paralysis Worse "
+            ]
+        }
+    },
+    "quantum_content_arsenal": {
+        "hero_story_requirements": {
+            "time_pressure": "Under 1 hour until the client presentation is due",
+            "stakes_escalation": "My manager will discover I haven't even started the report yet"
+        },
+        "atomic_assets": {
+            "neuro_flashcards": "fMRI heatmaps showing a hypoactive PFC and hyperactive Amygdala during a simulated 'task paralysis' state.",
+            "error_code_decoder": "Interactive 'Initiation Failed' diagnostic tool where users click their feeling (e.g., 'Overwhelmed,' 'Scared,' 'Bored') to see the corresponding neural pathway breakdown."
+        }
+    },
+    "neuro_upgrade_path": {
+        "current_weapons": {
+            "name": "Task Initiation Protocol v1.0 ",
+            "kill_switch": "Forced Prefrontal Cortex activation via a structured, non-negotiable 'first domino' micro-task that bypasses the Amygdala's fear response."
+        },
+        "classified_roadmap": {
+            "Q3": "AI-powered 'Dopamine Menu' that suggests a tailored pre-task ritual",
+            "Q4": "Biofeedback integration to detect 'pre-paralysis' states and trigger an intervention"
+        }
+    }
+}

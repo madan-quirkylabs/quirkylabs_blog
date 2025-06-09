@@ -11,6 +11,16 @@
             "why-do-i-forget-what-i-was-doing-mid-task",
             "why-does-every-task-feel-equally-urgent",
             "why-is-switching-tasks-so-mentally-painful"
+        ],
+        "research_files": [
+            "studies-pillar.adhd-executive-dysfunction.json",
+            "studies-pillar.adhd-potential-and-followthrough.json",
+            "studies-pillar.adhd-behavioral-hacks.json"
+        ],
+        "pillar_metadata": [
+            "pillar-metadata-pillar.adhd-executive-dysfunction.json",
+            "pillar-metadata-pillar.adhd-potential-and-followthrough.json",
+            "pillar-metadata-pillar.adhd-behavioral-hacks.json"
         ]
     },
     "adhd-emotional-storms-rsd": {
@@ -23,6 +33,16 @@
             "why-do-i-ruminate-on-small-mistakes-for-days",
             "why-do-i-cry-at-everything",
             "why-does-minor-criticism-feel-like-a-physical-attack"
+        ],
+        "research_files": [
+            "studies-pillar.adhd-rejection-sensitivity-rsd.json",
+            "studies-pillar.adhd-emotional-dysregulation.json",
+            "studies-pillar.adhd-comorbidities-anxiety-depression.json"
+        ],
+        "pillar_metadata": [
+            "pillar-metadata-pillar.adhd-rejection-sensitivity-rsd.json",
+            "pillar-metadata-pillar.adhd-emotional-dysregulation.json",
+            "pillar-metadata-pillar.adhd-comorbidities-anxiety-depression.json"
         ]
     },
     "adhd-time-warp-procrastination": {
@@ -32,6 +52,14 @@
             "why-do-i-waste-hours-before-appointments-doing-nothing",
             "why-am-i-always-late-no-matter-what",
             "why-does-time-feel-fake-with-adhd"
+        ],
+        "research_files": [
+            "studies-pillar.adhd-time-management-deep-dive.json",
+            "studies-pillar.adhd-time-rebellion.json"
+        ],
+        "pillar_metadata": [
+            "pillar-metadata-pillar.adhd-time-management-deep-dive.json",
+            "pillar-metadata-pillar.adhd-time-rebellion.json"
         ]
     },
     "adhd-vs-productivity-systems": {
@@ -42,6 +70,16 @@
             "why-am-i-addicted-to-buying-new-productivity-apps",
             "why-is-real-life-so-boring-and-unmotivating",
             "why-can-i-only-work-when-someone-else-is-in-the-room"
+        ],
+        "research_files": [
+            "studies-pillar.adhd-productivity-lies.json",
+            "studies-pillar.adhd-app-funnel.json",
+            "studies-pillar.adhd-tech-overwhelm.json"
+        ],
+        "pillar_metadata": [
+            "pillar-metadata-pillar.adhd-productivity-lies.json",
+            "pillar-metadata-pillar.adhd-app-funnel.json",
+            "pillar-metadata-pillar.adhd-tech-overwhelm.json"
         ]
     },
     "adhd-career-survival-mode": {
@@ -52,6 +90,16 @@
             "why-does-my-inbox-make-me-want-to-quit",
             "why-do-i-feel-like-a-fraud-at-work",
             "why-am-i-so-afraid-to-ask-for-help-at-work"
+        ],
+        "research_files": [
+            "studies-pillar.adhd-career-chaos.json",
+            "studies-pillar.adhd-impostor-syndrome.json",
+            "studies-pillar.adhd-education-navigation.json"
+        ],
+        "pillar_metadata": [
+            "pillar-metadata-pillar.adhd-career-chaos.json",
+            "pillar-metadata-pillar.adhd-impostor-syndrome.json",
+            "pillar-metadata-pillar.adhd-education-navigation.json"
         ]
     },
     "adhd-financial-chaos-tax": {
@@ -62,6 +110,12 @@
             "how-do-i-escape-the-adhd-late-fee-doom-loop",
             "why-do-all-budgeting-apps-feel-like-punishment",
             "why-do-i-ignore-medical-bills-until-they-go-to-collections"
+        ],
+        "research_files": [
+            "studies-pillar.adhd-financial-chaos.json"
+        ],
+        "pillar_metadata": [
+            "pillar-metadata-pillar.adhd-financial-chaos.json"
         ]
     },
     "adhd-love-social-survival": {
@@ -72,6 +126,16 @@
             "why-do-i-feel-like-my-partners-parent",
             "i-love-them-so-why-do-i-forget-they-exist",
             "why-do-i-ignore-texts-from-people-i-like"
+        ],
+        "research_files": [
+            "studies-pillar.adhd-relationships.json",
+            "studies-pillar.adhd-breakup-trauma.json",
+            "studies-pillar.adhd-loneliness.json"
+        ],
+        "pillar_metadata": [
+            "pillar-metadata-pillar.adhd-relationships.json",
+            "pillar-metadata-pillar.adhd-breakup-trauma.json",
+            "pillar-metadata-pillar.adhd-loneliness.json"
         ]
     },
     "adhd-identity-crisis-late-diagnosis": {
@@ -82,6 +146,16 @@
             "why-do-i-feel-like-a-walking-symptom-not-a-person",
             "why-is-pretending-to-be-normal-so-exhausting",
             "am-i-lazy-or-is-it-my-adhd"
+        ],
+        "research_files": [
+            "studies-pillar.adhd-labels-shame.json",
+            "studies-pillar.adhd-life-stages.json",
+            "studies-pillar.adhd-inattentive-type-deep-dive.json"
+        ],
+        "pillar_metadata": [
+            "pillar-metadata-pillar.adhd-labels-shame.json",
+            "pillar-metadata-pillar.adhd-life-stages.json",
+            "pillar-metadata-pillar.adhd-inattentive-type-deep-dive.json"
         ]
     },
     "adhd-sleep-deprivation-burnout": {
@@ -92,6 +166,16 @@
             "why-is-waking-up-in-the-morning-physically-painful",
             "why-am-i-always-so-tired-but-cant-rest",
             "why-do-my-weeks-alternate-between-frantic-energy-and-total-collapse"
+        ],
+        "research_files": [
+            "studies-pillar.adhd-sleep.json",
+            "studies-pillar.adhd-hustle-and-rest.json",
+            "studies-pillar.adhd-mindfulness-recovery.json"
+        ],
+        "pillar_metadata": [
+            "pillar-metadata-pillar.adhd-sleep.json",
+            "pillar-metadata-pillar.adhd-hustle-and-rest.json",
+            "pillar-metadata-pillar.adhd-mindfulness-recovery.json"
         ]
     },
     "adhd-body-and-senses": {
@@ -103,6 +187,16 @@
             "why-does-the-thought-of-exercise-feel-impossible",
             "why-does-a-trip-to-the-grocery-store-feel-like-a-sensory-assault",
             "why-do-small-noises-like-chewing-make-me-rage"
+        ],
+        "research_files": [
+            "studies-pillar.adhd-sensory-world.json",
+            "studies-pillar.adhd-physical-regulation.json",
+            "studies-pillar.adhd-nutrition-energy.json"
+        ],
+        "pillar_metadata": [
+            "pillar-metadata-pillar.adhd-sensory-world.json",
+            "pillar-metadata-pillar.adhd-physical-regulation.json",
+            "pillar-metadata-pillar.adhd-nutrition-energy.json"
         ]
     }
 }

@@ -1,0 +1,110 @@
+{
+    "$schema": "https://quirky-labs.com/schemas/neuro-dominance-v7",
+    "neuro_warfare": {
+        "brain_siege_plan": {
+            "neural_signature": {
+                "hypoactive_regions": [
+                    "Dorsolateral Prefrontal Cortex (dlPFC)",
+                    "Anterior Cingulate Cortex (ACC)"
+                ],
+                "hyperactive_regions": [
+                    "Amygdala",
+                    "Default Mode Network (DMN)"
+                ],
+                "neurotransmitter_gaps": [
+                    "Dopamine (-55%)",
+                    "Norepinephrine (-30%)"
+                ]
+            },
+            "circuit_override": {
+                "sensory_hijack": "Gustatory (biting a lemon wedge) + Proprioceptive (standing up and doing 5 squats)",
+                "cognitive_bypass": "Forcing a binary, non-task-related choice via an AI prompt ('Music or Silence?') to reactivate the hypoactive ACC."
+            }
+        }
+    },
+    "content_doomsday_device": {
+        "attention_detonators": [
+            {
+                "type": "0.3s_microhook",
+                "content": "Is your screen staring back at you? You're not lazy, you're in Error Code: Executive Shutdown."
+            },
+            {
+                "type": "shame_to_frame",
+                "content": "Your brain isn't broken. Your Prefrontal Cortex is in a neural gridlock with your Amygdala. We're sending a tow truck."
+            }
+        ],
+        "algorithmic_warfare": {
+            "EEAT_firewalls": [
+                "Dr. Russell Barkley's seminal work establishes that such 'freezes' are a profound failure of executive self-regulation, not a lack of willpower.",
+                "Neuroimaging studies by Castellanos et al. suggest a delay in the maturation of the prefrontal cortex, the very region needed to break this paralysis, explains why it's a persistent neurobiological issue."
+            ]
+        }
+    },
+    "pain_amplification_matrix": {
+        "despair_queries": {
+            "tier_1": [
+                "why can't i just do the thing adhd"
+            ],
+            "tier_2": [
+                "sitting at my desk feels like being glued to the chair with invisible cement"
+            ],
+            "tier_3": [
+                "how my family sees me when i'm just staring at a screen for hours"
+            ]
+        },
+        "sensory_trigger_catalog": {
+            "body_lock": "Feeling physically heavy + shallow breathing",
+            "time_warp": "Hours feel like minutes + screen becomes a 'black hole'"
+        }
+    },
+    "neuro_gamification": {
+        "dopamine_drip_feed": {
+            "micro_badges": [
+                "Shutdown Acknowledged",
+                "Pattern Interrupt Activated",
+                "System Rebooted"
+            ],
+            "reward_schedule": {
+                "pre_action": "3s animation of a 'System Alert: Shutdown Detected' message",
+                "post_action": "An animation of a circuit breaker resetting with an audible 'click'"
+            }
+        },
+        "leaderboard_territories": [
+            "Fastest 'Executive Shutdown' Reboot Time",
+            "Top 10 Freeze-Breakers of the Week"
+        ]
+    },
+    "assassination_directives": {
+        "competitor_neuro_autopsies": {
+            "target": "Productivity gurus who treat this as 'procrastination'.",
+            "fatal_flaw": "Their advice ('make a list,' 'eat the frog') requires a functioning Prefrontal Cortex, which is precisely what's offline during an 'Executive Shutdown'.",
+            "killing_shot": "Our 'Executive Shutdown Reboot Sequence' jump-starts the PFC with sensory input, a neurobiological prerequisite their 'willpower' hacks completely ignore."
+        },
+        "serp_sniper_rules": {
+            "snippet_hits": [
+                "The 10-Second Sensory Interrupt to Break ADHD Freeze",
+                "Why Your To-Do List Can Make ADHD Paralysis WORSE"
+            ]
+        }
+    },
+    "quantum_content_arsenal": {
+        "hero_story_requirements": {
+            "time_pressure": "The workday is ending in 2 hours and not a single email has been sent",
+            "stakes_escalation": "My partner will come home, see I've done nothing, and the 'you don't contribute' argument will start again"
+        },
+        "atomic_assets": {
+            "neuro_flashcards": "fMRI-style animation showing the dlPFC and ACC 'dimming' while the Amygdala and DMN 'flare up', creating a visual 'neural gridlock'.",
+            "error_code_decoder": "Interactive diagnostic tool: 'What are you frozen on? [Work Project / Simple Chore / Replying to Email]. See the specific neural circuit that's likely jammed.'"
+        }
+    },
+    "neuro_upgrade_path": {
+        "current_weapons": {
+            "name": "Executive Shutdown Reboot Sequence v1.0",
+            "kill_switch": "Forced Amygdala-DMN disengagement via a targeted, high-intensity sensory pattern interrupt (taste/proprioception) that reactivates the Prefrontal Cortex."
+        },
+        "classified_roadmap": {
+            "Q3": "Gamified 'Pattern Interrupt' library with user-rated effectiveness scores",
+            "Q4": "Integration with focus timers that detect inactivity and suggest a 'Reboot Sequence'"
+        }
+    }
+}

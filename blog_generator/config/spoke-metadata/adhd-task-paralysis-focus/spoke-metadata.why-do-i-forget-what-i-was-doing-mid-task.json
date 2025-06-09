@@ -1,0 +1,109 @@
+{
+    "$schema": "https://quirky-labs.com/schemas/neuro-dominance-v7",
+    "neuro_warfare": {
+        "brain_siege_plan": {
+            "neural_signature": {
+                "hypoactive_regions": [
+                    "Dorsolateral Prefrontal Cortex (dlPFC)",
+                    "Parietal Cortex"
+                ],
+                "hyperactive_regions": [
+                    "Default Mode Network (DMN)"
+                ],
+                "neurotransmitter_gaps": [
+                    "Dopamine (-35%)",
+                    "Norepinephrine (-35%)"
+                ]
+            },
+            "circuit_override": {
+                "sensory_hijack": "Proprioceptive (firmly squeezing a stress ball) + Auditory (repeating the last known step out loud)",
+                "cognitive_bypass": "Immediate voice-to-text 'thought dumping' into a digital scratchpad, offloading the cognitive load from the PFC."
+            }
+        }
+    },
+    "content_doomsday_device": {
+        "attention_detonators": [
+            {
+                "type": "0.3s_microhook",
+                "content": "Walked into the room and forgot why? That's not age. That's Error Code: Memory Overflow."
+            },
+            {
+                "type": "shame_to_frame",
+                "content": "You didn't 'lose your thought.' Your overactive Default Mode Network hijacked your Prefrontal Cortex's RAM. It's a data crash, not a character flaw."
+            }
+        ],
+        "algorithmic_warfare": {
+            "EEAT_firewalls": [
+                "Leading ADHD researchers like Marty-Dugas & Godbout confirm that working memory deficits are a core neurocognitive impairment in ADHD, not just 'forgetfulness'.",
+                "Neuroimaging studies consistently demonstrate inefficient activity in the fronto-parietal network during working memory tasks in individuals with ADHD."
+            ]
+        }
+    },
+    "pain_amplification_matrix": {
+        "despair_queries": {
+            "tier_1": [
+                "why do i feel so stupid when i forget simple things"
+            ],
+            "tier_2": [
+                "remembering a 3-step task feels like trying to carry water in a sieve"
+            ],
+            "tier_3": [
+                "how my boss reacts when I ask for the same instruction three times"
+            ]
+        },
+        "sensory_trigger_catalog": {
+            "body_lock": "Sudden mental 'static' + feeling of a thought dissolving",
+            "time_warp": "Lost time backtracking + frantic mental search for the lost thought"
+        }
+    },
+    "neuro_gamification": {
+        "dopamine_drip_feed": {
+            "micro_badges": [
+                "Thought Captured",
+                "Memory Leak Patched",
+                "Distraction Defeated"
+            ],
+            "reward_schedule": {
+                "pre_action": "3s animation of an 'External Brain' drive powering on",
+                "post_action": "A satisfying 'Data Saved' sound effect and visual confirmation"
+            }
+        },
+        "leaderboard_territories": [
+            "Most 'Memory Overflows' Averted This Month",
+            "Top 10 Thought-Stream Survivors"
+        ]
+    },
+    "assassination_directives": {
+        "competitor_neuro_autopsies": {
+            "target": "Life-hack websites with generic 'memory tips'.",
+            "fatal_flaw": "Ignores that ADHD forgetfulness is a working memory *deficit*, not a storage issue. Their 'memory palace' tips are useless when the 'palace architect' (the PFC) is offline.",
+            "killing_shot": "Our 'External Brain' tools bypass the faulty internal RAM entirely, a neurobiological necessity their 'try harder to remember' advice fatally ignores."
+        },
+        "serp_sniper_rules": {
+            "snippet_hits": [
+                "The Real Reason You Forget Things Mid-Task (It's Your Brain's RAM)",
+                "Why 'Just Try to Remember' Is the Worst ADHD Advice Ever"
+            ]
+        }
+    },
+    "quantum_content_arsenal": {
+        "hero_story_requirements": {
+            "time_pressure": "Under 5 minutes to recall a critical client detail during a live call",
+            "stakes_escalation": "My entire team will see me fail and think I'm incompetent"
+        },
+        "atomic_assets": {
+            "neuro_flashcards": "fMRI heatmaps showing a hypoactive dlPFC and a hyperactive DMN during a simulated working memory lapse.",
+            "error_code_decoder": "An interactive animation of a 'Working Memory Buffer' being overwritten by a pop-up 'Distraction' from the Default Mode Network."
+        }
+    },
+    "neuro_upgrade_path": {
+        "current_weapons": {
+            "name": "External Brain Beta v0.2",
+            "kill_switch": "Forced cognitive offloading of working memory from the hypoactive dlPFC to an external, structured digital system via immediate capture prompts."
+        },
+        "classified_roadmap": {
+            "Q3": "Real-time transcription tools that automatically flag key action items",
+            "Q4": "Context-aware reminders triggered by geolocation or digital activity"
+        }
+    }
+}
