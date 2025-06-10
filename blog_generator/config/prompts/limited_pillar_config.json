@@ -70,16 +70,6 @@
             "why-am-i-addicted-to-buying-new-productivity-apps",
             "why-is-real-life-so-boring-and-unmotivating",
             "why-can-i-only-work-when-someone-else-is-in-the-room"
-        ],
-        "research_files": [
-            "studies-pillar.adhd-productivity-lies.json",
-            "studies-pillar.adhd-app-funnel.json",
-            "studies-pillar.adhd-tech-overwhelm.json"
-        ],
-        "pillar_metadata": [
-            "pillar-metadata-pillar.adhd-productivity-lies.json",
-            "pillar-metadata-pillar.adhd-app-funnel.json",
-            "pillar-metadata-pillar.adhd-tech-overwhelm.json"
         ]
     },
     "adhd-career-survival-mode": {
@@ -90,16 +80,6 @@
             "why-does-my-inbox-make-me-want-to-quit",
             "why-do-i-feel-like-a-fraud-at-work",
             "why-am-i-so-afraid-to-ask-for-help-at-work"
-        ],
-        "research_files": [
-            "studies-pillar.adhd-career-chaos.json",
-            "studies-pillar.adhd-impostor-syndrome.json",
-            "studies-pillar.adhd-education-navigation.json"
-        ],
-        "pillar_metadata": [
-            "pillar-metadata-pillar.adhd-career-chaos.json",
-            "pillar-metadata-pillar.adhd-impostor-syndrome.json",
-            "pillar-metadata-pillar.adhd-education-navigation.json"
         ]
     },
     "adhd-financial-chaos-tax": {
