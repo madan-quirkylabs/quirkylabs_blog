@@ -11,16 +11,6 @@
             "why-do-i-forget-what-i-was-doing-mid-task",
             "why-does-every-task-feel-equally-urgent",
             "why-is-switching-tasks-so-mentally-painful"
-        ],
-        "research_files": [
-            "studies-pillar.adhd-executive-dysfunction.json",
-            "studies-pillar.adhd-potential-and-followthrough.json",
-            "studies-pillar.adhd-behavioral-hacks.json"
-        ],
-        "pillar_metadata": [
-            "pillar-metadata-pillar.adhd-executive-dysfunction.json",
-            "pillar-metadata-pillar.adhd-potential-and-followthrough.json",
-            "pillar-metadata-pillar.adhd-behavioral-hacks.json"
         ]
     },
     "adhd-emotional-storms-rsd": {
@@ -33,16 +23,6 @@
             "why-do-i-ruminate-on-small-mistakes-for-days",
             "why-do-i-cry-at-everything",
             "why-does-minor-criticism-feel-like-a-physical-attack"
-        ],
-        "research_files": [
-            "studies-pillar.adhd-rejection-sensitivity-rsd.json",
-            "studies-pillar.adhd-emotional-dysregulation.json",
-            "studies-pillar.adhd-comorbidities-anxiety-depression.json"
-        ],
-        "pillar_metadata": [
-            "pillar-metadata-pillar.adhd-rejection-sensitivity-rsd.json",
-            "pillar-metadata-pillar.adhd-emotional-dysregulation.json",
-            "pillar-metadata-pillar.adhd-comorbidities-anxiety-depression.json"
         ]
     },
     "adhd-time-warp-procrastination": {
@@ -52,14 +32,6 @@
             "why-do-i-waste-hours-before-appointments-doing-nothing",
             "why-am-i-always-late-no-matter-what",
             "why-does-time-feel-fake-with-adhd"
-        ],
-        "research_files": [
-            "studies-pillar.adhd-time-management-deep-dive.json",
-            "studies-pillar.adhd-time-rebellion.json"
-        ],
-        "pillar_metadata": [
-            "pillar-metadata-pillar.adhd-time-management-deep-dive.json",
-            "pillar-metadata-pillar.adhd-time-rebellion.json"
         ]
     },
     "adhd-vs-productivity-systems": {
