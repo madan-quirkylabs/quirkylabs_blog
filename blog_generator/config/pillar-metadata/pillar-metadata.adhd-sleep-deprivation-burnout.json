@@ -1,0 +1,262 @@
+{
+    "cluster_name": "adhd-sleep-deprivation-burnout-cluster",
+    "pillar_title_base": "ADHD Sleep Deprivation & Burnout",
+    "core_pain_point_verbalized": "Exhaustion, Shame, Ineffectiveness",
+    "pillar_keywords_foundational": [
+        "ADHD sleep",
+        "ADHD burnout",
+        "ADHD exhaustion",
+        "ADHD chronic fatigue",
+        "ADHD energy management",
+        "ADHD sleep problems",
+        "ADHD and rest"
+    ],
+    "neuro_strategic_keywords_suggestions": [
+        "dopamine dysregulation sleep ADHD",
+        "executive function overload burnout ADHD",
+        "Default Mode Network hyperactivity sleep ADHD"
+    ],
+    "strategic_imperatives": {
+        "business_goal_alignment_suggestion": "To drive adoption of freemium game-based tools by establishing QuirkyLabs as the authoritative, neuro-affirming resource for ADHD sleep and burnout, by exposing the unique neurological vulnerabilities exacerbated by modern tech and offering actionable, brain-friendly systems.",
+        "kpi_targets_focus_suggestion": {
+            "primary_kpi_suggestion": "Lead Magnet Conversion Rate from 'ADHD Sleep Saboteur Quiz'",
+            "secondary_kpi_suggestion": "Community Engagement (shares, comments) on content discussing 'Revenge Bedtime Procrastination' and 'Tired But Wired' experiences."
+        },
+        "unique_angle_summary": "The content will specifically address how ADHD brains are uniquely vulnerable to digital dopamine traps and internal dysregulation, leading to sleep deprivation and burnout, by providing neurobiological explanations and sustainable, automation-integrated coping strategies that go beyond generic, willpower-based advice. This exploits the gap where competitors fail to address the specific 'why' and offer truly ADHD-tailored solutions."
+    },
+    "hyperpersonalization": {
+        "audience_dna": {
+            "subtypes": [
+                "Predominantly Inattentive",
+                "Combined Presentations"
+            ],
+            "comorbidities_to_consider": [
+                "Anxiety Disorders",
+                "Depression",
+                "Autism Spectrum Disorder",
+                "Substance Use Disorders",
+                "Eating Disorders",
+                "Irritable Bowel Syndrome"
+            ],
+            "gender_focus_notes_suggestion": "Consider specific impact on women with ADHD, who are often underdiagnosed, experience more internalized symptoms, and have higher rates of anxiety, depression, and sleep disorders. Highlight the hidden burden and masking behaviors contributing to burnout in women, validating their experiences of late diagnosis and societal pressures.",
+            "crisis_levels": {
+                "acute_description_suggestion": "'A jolt of panic at 3 AM realizing 4 hours of 'me time' just vanished before a critical deadline.' 'The crushing weight of exhaustion, yet body feels physically unable to lie still or quiet racing thoughts.' 'A sudden, uncontrollable outburst of irritability or tears in the morning after a night of poor sleep, disproportionate to the trigger.'",
+                "chronic_description_suggestion": "Pervasive brain fog impacting job performance, frequent calls to 'mental health days' due to exhaustion, significant relationship strain from irritability and perceived emotional unavailability, a profound sense of hopelessness that life will *always* be this hard, feeling constantly 'behind' and 'less than' peers."
+            },
+            "primary_audience_segment_notes": "Young professionals (20s-30s), undiagnosed/questioning ADHD, deeply immersed in technology, struggling with its negative impacts on focus, stress, and sleep. They often feel like 'failures' despite high intelligence and seek understanding and practical, neuro-affirming solutions beyond generic willpower advice."
+        },
+        "dynamic_content_rules": {
+            "rule_1_suggestion": {
+                "condition": "if_subtype_is_inattentive_and_audience_is_professional",
+                "content_adaptation_idea": "Text Variation: 'For the professional whose inattentive ADHD means bedtime routines feel like climbing Mount Everest: let's build a visual checklist that *pulls* you into bed, step-by-micro-step. It's not about forcing yourself, but activating your executive functions.' vs. general text for combined type."
+            },
+            "rule_2_suggestion": {
+                "condition": "if_audience_is_struggling_with_RSD_and_sleep_procrastination",
+                "content_adaptation_idea": "Text Variation: 'When the shame of unmet expectations fuels your late-night digital escape: your brain's seeking autonomy. This isn't laziness; it's a desperate cry for control. Here's how to reclaim your evenings *without* sacrificing vital rest.' vs. general sleep procrastination content."
+            }
+        },
+        "neuro_engagement_tactics_suggestions": {
+            "dmn_engagement_idea": "Start with a short, raw anecdote of a young professional experiencing 'revenge bedtime procrastination' or 'tired but wired' (e.g., 'I once stayed up until 4 AM reorganizing my pantry, convinced it was the most important thing, only to wake up an hour later for a flight.'). This prompts immediate self-reflection and validation by mirroring their internal experience.",
+            "salience_network_trigger_idea": "Use a bold, validating claim in the introduction, such as 'Mainstream sleep advice is designed for neurotypical brains. It's time for solutions built *for* your ADHD brain.' Pair this with a striking visual metaphor like a winding road graph representing ADHD's 'Boom-Buckle-Bust' energy cycle contrasting sharply with a smooth, linear neurotypical one.",
+            "executive_network_support_idea": "Conclude key solution sections with clear, visually distinct 'Quick Action Checklists' or '3-Step Brain Hacks' that summarize the core advice. For example, 'Your 5-Minute Pre-Sleep Brain Dump' with simple bullet points, or a 'Decision Tree for Digital Distraction Before Bed' to aid planning and reduce decision fatigue."
+        }
+    },
+    "tiered_titles": {
+        "diagnostic_title_suggestion": "ADHD Sleep Sabotage: Why Your Brain Fights Rest & Fuels Burnout",
+        "emotional_title_suggestion": "Tired But Wired: How Your ADHD Brain's Secret Battle Steals Your Sleep & Sanity",
+        "solution_title_suggestion": "The QuirkyLabs Sleep System: Hacking Your ADHD Brain for Rest & Lasting Energy"
+    },
+    "killer_hook_suggestion": "Science Drop: New research suggests the 'tired but wired' phenomenon in ADHD is less about willpower and more about a dysregulated Default Mode Network refusing to quiet down, even when physically exhausted (Illustrative Example, 2025+). Meme Moment: You know that feeling when it's 3 AM and your brain suddenly remembers every single chore you forgot to do during the day? Yep, that. Raw Truth: We sacrifice sleep for 'me time' not because we don't value rest, but because it feels like the only time our brains are truly *ours*. PS: This isn't a flaw, it's a desperate cry for autonomy → Discover how to reclaim your evenings and your sleep, without the shame.",
+    "neuro_informed_keywords": {
+        "long_tail_variants_suggestions": [
+            "why can't ADHD brain sleep?",
+            "how to break ADHD burnout cycle?",
+            "ADHD revenge bedtime procrastination explained",
+            "tired but wired ADHD solutions",
+            "ADHD sleep hygiene tips that work",
+            "tools for ADHD energy management",
+            "why do I feel exhausted but can't rest ADHD?"
+        ]
+    },
+    "search_intent_profile": {
+        "informational": [
+            "What is ADHD burnout?",
+            "ADHD and insomnia connection",
+            "types of sleep disorders ADHD",
+            "how does ADHD affect sleep",
+            "melatonin for ADHD sleep"
+        ],
+        "emotional": [
+            "Why am I so tired but can't rest ADHD?",
+            "feeling exhausted with ADHD but brain won't shut off",
+            "ADHD burnout makes me feel lazy",
+            "how to stop sacrificing sleep for me time ADHD",
+            "ADHD shame of being tired"
+        ],
+        "commercial": [
+            "ADHD sleep aids review",
+            "best apps for ADHD sleep routine",
+            "ADHD friendly productivity tools burnout",
+            "weighted blanket for ADHD sleep",
+            "ADHD sleep coaching"
+        ],
+        "reddit_speak": [
+            "Boom-Buckle-Bust",
+            "tired but wired",
+            "Wall of Awful",
+            "revenge bedtime procrastination"
+        ]
+    },
+    "conversion_architecture": {
+        "conceptual_narrative_arc_suggestion": [
+            "1. Deep Empathy & Pain Validation (Hook): You're tired but wired, stuck in a cycle of frantic energy and collapse, sacrificing sleep for 'me time.' It's not a flaw, it's your ADHD brain battling digital dopamine traps and internal dysregulation.",
+            "2. The 'Aha!' Moment (Why this happens with ADHD): It's not willpower; it's your unique neurobiology: delayed melatonin, dysregulated dopamine, a DMN that won't shut off, and executive functions overloaded. This fuels 'revenge bedtime procrastination' and the 'Boom-Buckle-Bust' burnout cycle.",
+            "3. Introducing the 'QuirkyLabs Way' (Unique Solution Framework/Principle): We don't ask you to 'try harder.' We empower you with an 'Operating System for the ADHD Brain,' built on understanding your brain, leveraging technology *for* you, and designing empathetic, actionable systems to hack your sleep and energy.",
+            "4. Your First Step to Change (Actionable Tip / Lead Magnet Intro): Ready to break the cycle? Start by understanding your personal sleep sabotages. Download our 'ADHD Sleep Saboteur Quiz & Micro-Habit Blueprint' to pinpoint your unique challenges and get your first tiny, brain-friendly step.",
+            "5. Hope & Empowered Future: Imagine waking up refreshed, having consistent energy, and reclaiming your evenings without sacrificing health. QuirkyLabs helps your brain *work with you*, leading to consistent energy and a future free from burnout."
+        ],
+        "lead_magnet_concept_suggestion": {
+            "type": "Interactive Quiz/Micro-Blueprint",
+            "title_idea": "Tired of Being Tired? Uncover Your ADHD Sleep Saboteur & Get Your Personalized Micro-Habit Blueprint!",
+            "core_value_proposition": "Immediate, personalized insight into *their specific* sleep problem's 'why,' paired with a low-effort, actionable first step designed for the ADHD brain. Combats overwhelm with simplicity and relevance."
+        },
+        "cta_placements": {
+            "mid_article_suggestions": {
+                "text_suggestion": "Feeling that 'tired but wired' exhaustion right now? Your ADHD brain doesn't have to stay stuck. Our free 'ADHD Sleep Saboteur Quiz' gives you the exact blueprint to finally get restorative rest. Take the quiz before another night slips away.",
+                "trigger_suggestion": "After 'Stage 2: The 'Aha!' Moment' in narrative arc, when the neurobiological 'why' for their pain has been explained and validated."
+            },
+            "post_transform_suggestions": {
+                "text_suggestion": "You've glimpsed how to reclaim your sleep and energy. Ready for the full upgrade? Explore the QuirkyLabs 'Operating System for the ADHD Brain' - your pathway to consistent focus, sustainable energy, and a life truly aligned with your neurobiology. Learn more and get your first game-based tool today.",
+                "trigger_suggestion": "At the end of the article, after 'Stage 5: Hope & Empowered Future,' leveraging the feeling of empowerment and desire for continued progress."
+            }
+        },
+        "micro_commitment_suggestions": [
+            "Early in article: 'Quick check: Does your brain also run a 24/7 podcast when you're trying to sleep? Tap Yes/No below.' (Conceptual for interactive content)",
+            "After describing 'revenge bedtime procrastination': 'Before you read the solutions, take 15 seconds: What's ONE word that describes how *losing your evenings to screens* impacts your daily life? Keep it in mind.'"
+        ],
+        "exit_intent_capture_idea": "Hold on! Don't let chronic exhaustion win. Before you go, grab our 1-Page 'ADHD Sleep Sanity Cheat Sheet' - instant clarity and 3 micro-hacks to quiet your racing mind tonight!"
+    },
+    "community_ignition": {
+        "ugc_engine": {
+            "prompt_suggestions": [
+                "Relatable Fail Confession Prompt: 'Spill it: What's the most absurd thing your ADHD brain has convinced you to do instead of sleeping? (e.g., reorganized the spice rack at 3 AM). Best story gets featured!'",
+                "Triumph/Hack Sharing Prompt: 'ADHD Warriors! What's ONE weird trick or tool you SWEAR BY for finally getting your brain to quiet down for rest, or breaking the burnout cycle? Share your genius (we're all learning!).'"
+            ]
+        },
+        "social_media_share_trigger_suggestion": "Your ADHD isn't a moral failing, it's neuroscience! 🔥 Mind blown by how 'revenge bedtime procrastination' and 'tired but wired' are real neurobiological battles? Share this if you finally feel SEEN! #ADHDTruths",
+        "tribal_badges": {
+            "achievement_name_suggestions": [
+                "Sleep Scaffolding MasterTM",
+                "Dopamine Energy ArchitectTM"
+            ],
+            "reward_suggestions": [
+                "Exclusive invite to a monthly 'Neuro-Hacking for Rest' Q&A with QuirkyLabs experts (focus on advanced sleep/energy strategies).",
+                "Your submitted sleep hack featured in our 'Community Wisdom Vault' with a shoutout and a digital badge."
+            ]
+        }
+    },
+    "brand_differentiation_engine": {
+        "trademarkable_concept_suggestions": [
+            "The QuirkyLabs Sleep ScaffoldingTM (building brain-friendly bedtime routines)",
+            "The Dopamine-Driven Energy DialTM (for ADHD energy management)"
+        ],
+        "unique_selling_proposition_angle_suggestion": "While others offer generic tips for sleep and burnout, QuirkyLabs exposes the hidden neurological mechanisms (digital dopamine traps, DMN hyperactivity, executive function overload) that uniquely sabotage rest for ADHDers, and provides neuro-affirming, automation-integrated strategies that actually work *with* their brain's wiring, not against it."
+    },
+    "content_governance": {
+        "ai_authenticity": {
+            "required_elements_standard": [
+                "Minimum 1 raw Reddit-style confession per 800 words (specific theme suggested below)",
+                "Conceptual inclusion of 2 human voice note snippets (specific themes suggested below)"
+            ],
+            "human_element_suggestions": {
+                "voice_note_theme_suggestion": "For 'Exhaustion, Shame, Ineffectiveness': A short, raw voice memo from a young professional describing the exact moment they realized their 'me-time' scrolling was sabotaging their sleep, and the feeling of crushing exhaustion the next day, plus a small behavioral shift they tried.",
+                "reddit_confession_theme_suggestion": "For 'ADHD Sleep Deprivation & Burnout': A darkly humorous Reddit post from r/ADHD or r/adhdmeme about the absurdity of trying to apply neurotypical sleep hygiene (e.g., 'just put your phone away') when your brain is in 'tired but wired' mode, contrasting it with a relatable struggle."
+            }
+        }
+    },
+    "ecosystem_integration": {
+        "micro_content": {
+            "email_snippet_idea": {
+                "subject": "Your ADHD Brain Isn't Broken, It's Just Wired Differently for Sleep",
+                "body": "Do you feel physically drained but mentally wired at night? It's not you, it's your ADHD brain's unique wiring. This week, we're diving deep into the neurobiology behind your sleep struggles and sharing surprisingly simple hacks to finally get restorative rest. Read more: [Link to blog post]"
+            },
+            "tiktok_script_idea": {
+                "hook_1": "(Person dramatically yawning, then suddenly wide-eyed, scrolling on phone at 3 AM) 'ADHD tax hitting different tonight? You're not procrastinating sleep, you're just trying to get your 'me time' back! #ADHDsleep #revengebedtimeprocrastination' (Cut to quick tips: phone in other room, visual timer for 'me time').",
+                "hook_2": "(Split screen: one side, a hyperfocused person intensely coding; other side, clock showing 2 AM, empty coffee cups) 'When hyperfocus is your superpower but also your sleep saboteur. The 'Boom-Buckle-Bust' cycle is REAL. #ADHDburnout #hyperfocusproblems' (Cut to: 'How to exit the hyperfocus vortex')."
+            },
+            "twitter_thread_idea": {
+                "thread_1": "The 'tired but wired' struggle is SO real for ADHD. It's not just feeling sleepy; it's a fundamental brain dysregulation. Thread on *why* your DMN won't shut off + 3 micro-hacks to quiet the noise. #ADHDsleep #Neurodiversity",
+                "thread_2": "Is your 'me time' stealing your sleep? Let's talk #revengebedtimeprocrastination. Why your ADHD brain does this, and how to reclaim your evenings *without* sacrificing rest. A thread for burnt-out professionals."
+            }
+        }
+    },
+    "serp_warfare": {
+        "semantic_content_cluster": "ADHD Sleep & Burnout Solutions",
+        "target_search_intent_priority": [
+            "Informational: Understanding 'why' ADHD impacts sleep/energy.",
+            "Emotional: Validation for exhaustion, shame, and frustration.",
+            "Solution-Oriented: Practical, ADHD-tailored strategies for better rest and energy management."
+        ]
+    },
+    "technical_overkill": {
+        "schema_details": {
+            "primary_schema_type_suggestion": "HowTo",
+            "faq_page_suggestions": {
+                "mainEntity": [
+                    {
+                        "@type": "Question",
+                        "name": "Why do ADHD brains struggle so much with sleep, even when exhausted?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "ADHD brains often have delayed circadian rhythms, dysregulated dopamine, and an overactive Default Mode Network (DMN), leading to a 'tired but wired' state. Executive function challenges also make initiating bedtime routines difficult, even when drained."
+                        }
+                    },
+                    {
+                        "@type": "Question",
+                        "name": "What is 'revenge bedtime procrastination' and how does it relate to ADHD?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "'Revenge bedtime procrastination' is intentionally delaying sleep to reclaim personal 'me time' after a day perceived as lacking autonomy. For ADHD, this is amplified by dopamine-seeking and difficulty transitioning away from stimulating activities, despite the cost of sleep deprivation."
+                        }
+                    },
+                    {
+                        "@type": "Question",
+                        "name": "How can I break the 'Boom-Buckle-Bust' burnout cycle with ADHD?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "Breaking the cycle involves understanding your ADHD brain's dopamine-driven overexertion. Implement strategic rest, realistic goal setting, leverage hyperfocus productively, and use external scaffolding (like body doubling or automated reminders) to manage energy, rather than relying on willpower alone."
+                        }
+                    }
+                ]
+            },
+            "howto_suggestion": {
+                "@type": "HowTo",
+                "name_suggestion": "How to Build an ADHD-Friendly Bedtime Routine for Restorative Sleep",
+                "totalTime_suggestion": "PT30M",
+                "step_suggestions": [
+                    {
+                        "@type": "HowToStep",
+                        "name_suggestion": "Step 1: Externalize Your Wind-Down (The Sleep ScaffoldingTM)",
+                        "text_suggestion": "Place your phone in another room or a timed lockbox. Use a visual timer (e.g., Time Timer) for pre-sleep activities. This offloads the 'remembering' and 'stopping' to external cues, supporting your executive functions."
+                    },
+                    {
+                        "@type": "HowToStep",
+                        "name_suggestion": "Step 2: Brain Dump the Noise",
+                        "text_suggestion": "Before bed, spend 5-10 minutes writing down all racing thoughts, worries, and tasks in a dedicated notebook. This 'purges' the mental chatter, helping your Default Mode Network quiet down for sleep."
+                    },
+                    {
+                        "@type": "HowToStep",
+                        "name_suggestion": "Step 3: Activate Your Sensory Sleep Cue",
+                        "text_suggestion": "Use a consistent sensory signal for sleep. This could be putting on a weighted blanket, listening to calming white noise, or dimming smart lights to a specific warm tone. This cues your Salience Network to shift focus towards rest."
+                    }
+                ]
+            }
+        },
+        "internal_linking_target_suggestions": [
+            "adhd-time-blindness-hacks",
+            "adhd-executive-function-overload-solutions",
+            "adhd-digital-distraction-management"
+        ],
+        "alt_text_suggestion_formula": "[fMRI image of an overactive DMN vs. a calm brain] ADHD 'tired but wired' brain vs. NT brain trying to sleep → Tag a friend whose brain runs on espresso and a million open tabs, even at 3 AM!"
+    }
+}
