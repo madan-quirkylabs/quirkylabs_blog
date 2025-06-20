@@ -60,6 +60,48 @@ def write_faq_to_file(pillar_slug, spoke_slug, faq_markdown):
         f.write(faq_markdown)
 
 
+def faq_file_exists(pillar_slug, spoke_slug):
+    out_path = os.path.join(OUTPUT_ROOT, pillar_slug, spoke_slug, "faq.md")
+    return os.path.exists(out_path)
+
+
+def faq_ldjson_file_exists(pillar_slug, spoke_slug):
+    out_path = os.path.join(OUTPUT_ROOT, pillar_slug, spoke_slug, "faq-ldjson.md")
+    return os.path.exists(out_path)
+
+
+def generate_faq_ldjson(pillar_slug, spoke_slug, config):
+    out_dir = os.path.join(OUTPUT_ROOT, pillar_slug, spoke_slug)
+    faq_path = os.path.join(out_dir, "faq.md")
+    ldjson_path = os.path.join(out_dir, "faq-ldjson.md")
+    if not os.path.exists(faq_path):
+        print(f"  ⚠️  Skipping FAQ-LDJSON (faq.md missing) for Pillar: {pillar_slug} | Spoke: {spoke_slug}")
+        return False
+    if os.path.exists(ldjson_path):
+        print(f"  Skipping existing FAQ-LDJSON for Pillar: {pillar_slug} | Spoke: {spoke_slug}")
+        return False
+    with open(faq_path, "r", encoding="utf-8") as f:
+        faq_content = f.read()
+    prompt = (
+        "Convert the following FAQ markdown into a valid application/ld+json (schema.org FAQPage) format. "
+        "Output only the JSON-LD code block, nothing else.\n\n"
+        f"{faq_content}"
+    )
+    messages = [
+        {"role": "system", "content": "You are a schema.org FAQPage expert. Output only the JSON-LD code block."},
+        {"role": "user", "content": prompt}
+    ]
+    try:
+        ldjson = call_llm(messages, provider="gemini", section_config=config)
+        with open(ldjson_path, "w", encoding="utf-8") as f:
+            f.write(ldjson)
+        print(f"  ✅ FAQ-LDJSON generated for Pillar: {pillar_slug} | Spoke: {spoke_slug}")
+        return True
+    except Exception as e:
+        print(f"  ❌ Failed to generate FAQ-LDJSON for Pillar: {pillar_slug} | Spoke: {spoke_slug}: {e}")
+        return False
+
+
 if __name__ == "__main__":
     spokes = discover_spoke_metadata()
     if not spokes:
@@ -72,20 +114,37 @@ if __name__ == "__main__":
     config = load_config()
     success_count = 0
     fail_count = 0
+    skipped_count = 0
+    ldjson_success = 0
+    ldjson_fail = 0
+    ldjson_skipped = 0
     for entry in spokes:
-        try:
-            prompt = generate_faq_prompt(example_faq_path, entry["metadata"])
-            messages = [
-                {"role": "system", "content": "You are an ADHD FAQ blog writer. Output only the FAQ markdown section."},
-                {"role": "user", "content": prompt}
-            ]
-            print(f"Generating FAQ for Pillar: {entry['pillar_slug']} | Spoke: {entry['spoke_slug']} ...")
-            faq_markdown = call_llm(messages, provider="gemini", section_config=config)
-            write_faq_to_file(entry["pillar_slug"], entry["spoke_slug"], faq_markdown)
-            print("  ✅ Success\n")
-            success_count += 1
-        except Exception as e:
-            print(f"  ❌ Failed: {e}\n")
-            fail_count += 1
-    print(f"\nDone! {success_count} FAQs generated, {fail_count} failed.")
+        if faq_file_exists(entry["pillar_slug"], entry["spoke_slug"]):
+            print(f"Skipping existing FAQ for Pillar: {entry['pillar_slug']} | Spoke: {entry['spoke_slug']} ...")
+            skipped_count += 1
+        else:
+            try:
+                prompt = generate_faq_prompt(example_faq_path, entry["metadata"])
+                messages = [
+                    {"role": "system", "content": "You are an ADHD FAQ blog writer. Output only the FAQ markdown section."},
+                    {"role": "user", "content": prompt}
+                ]
+                print(f"Generating FAQ for Pillar: {entry['pillar_slug']} | Spoke: {entry['spoke_slug']} ...")
+                faq_markdown = call_llm(messages, provider="gemini", section_config=config)
+                write_faq_to_file(entry["pillar_slug"], entry["spoke_slug"], faq_markdown)
+                print("  ✅ Success\n")
+                success_count += 1
+            except Exception as e:
+                print(f"  ❌ Failed: {e}\n")
+                fail_count += 1
+        # Now handle LDJSON
+        result = generate_faq_ldjson(entry["pillar_slug"], entry["spoke_slug"], config)
+        if result is True:
+            ldjson_success += 1
+        elif result is False and faq_ldjson_file_exists(entry["pillar_slug"], entry["spoke_slug"]):
+            ldjson_skipped += 1
+        else:
+            ldjson_fail += 1
+    print(f"\nDone! {success_count} FAQs generated, {skipped_count} skipped, {fail_count} failed.")
+    print(f"LDJSON: {ldjson_success} generated, {ldjson_skipped} skipped, {ldjson_fail} failed.")
 
