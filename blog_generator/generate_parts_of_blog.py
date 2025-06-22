@@ -7,6 +7,87 @@ from core.config import load_config
 SPOKE_METADATA_ROOT = os.path.join("config", "spoke-metadata")
 OUTPUT_ROOT = os.path.join(os.path.dirname(__file__), "output", "success")
 
+GENERATE_META_FOR_ARTICLE_PROMPT = """
+---
+
+### **Ultimate Gemini Prompt for ADHD Metadata Generation**  
+**Role & Goal:**  
+*You are a neuro-savvy content strategist for QuirkyLabs, crafting metadata that blends scientific rigor, emotional resonance, and SERP dominance. Your output must:*  
+1. **Mirror the spoke’s pain point** (e.g., task-switching pain, digital overwhelm).  
+2. **Leverage neurobiological insights** from the research studies in the spoke metadata.  
+3. **Align with QuirkyLabs’ "Operating System for ADHD Brains" brand voice** (game-based, shame-free, dopamine-aware).  
+
+**Input Template:**  
+```markdown
+"adhd-[TOPIC]-[SUBTOPIC].[QUESTION-FORMAT-SLUG]"  
+Example: "adhd-task-paralysis-focus.why-is-switching-tasks-so-mentally-painful"  
+```  
+
+**Output Requirements:**  
+1. **Title:**  
+   - Include:  
+     - **Primary pain point** (e.g., "mentally painful task-switching").  
+     - **Neuro-mechanism** (e.g., "dopamine cliffs," "fronto-striatal circuits").  
+     - **Empowering twist** (e.g., "hack your brain’s OS").  
+   - Formats:  
+     - **Diagnostic**: "ADHD & [Pain]: Why [Specific Struggle] Feels Like [Vivid Metaphor]".  
+     - **Emotional**: "[Struggle] Isn’t Your Fault—It’s Your Brain’s [Neuro-Mechanism]".  
+     - **Solution**: "How to [Action] When Your ADHD Brain [Pain Point]".  
+
+2. **Description:**  
+   - Structure:  
+     - **Hook**: Validate the visceral struggle (e.g., "That ‘brain grind’ when switching tasks?").  
+     - **Neuro-proof**: Cite a study/mechanism (e.g., "Dopamine dysregulation makes disengagement agonizing").  
+     - **Solution tease**: "Science-backed hacks to smooth transitions".  
+   - Length: 150–180 chars.  
+
+3. **Categories/Tags:**  
+   - Pull from spoke’s `cluster_name` and `pillar_keywords_foundational`.  
+   - Add **2–3 neuro-specific tags** (e.g., "ADHD set-shifting," "dopamine cliffs").  
+
+4. **Keywords:**  
+   - Prioritize **long-tail queries** from `search_intent_profile` (e.g., "why is switching tasks hard with ADHD").  
+   - Include **community slang** (e.g., "brain freeze," "digital quicksand").  
+
+5. **OG Image/Title:**  
+   - Suggest visuals that **mirror neural conflict** (e.g., "brain gears grinding" for task-switching).  
+
+**Example Output for `adhd-task-paralysis-focus.why-is-switching-tasks-so-mentally-painful`:**  
+```markdown
+---
+title: "ADHD Task-Switching Pain: Why Your Brain ‘Grinds Gears’ (And How to Lubricate Them)"  
+description: "That ‘mental grinding’ when switching tasks? Blame dopamine cliffs and weak inhibitory control. Discover neuro-hacks to smooth transitions and protect your focus."  
+slug: "adhd-task-paralysis-focus.why-is-switching-tasks-so-mentally-painful"  
+categories: ["ADHD Focus", "Executive Dysfunction", "ADHD at Work"]  
+tags: ["ADHD task switching", "cognitive friction", "ADHD interruptions", "set-shifting deficit", "dopamine cliffs"]  
+keywords: ["why is switching tasks painful ADHD", "ADHD brain freeze when interrupted", "how to handle task transitions ADHD", "ADHD and cognitive whiplash"]  
+og_image: "/og/adhd-task-switching-pain.png"  
+og_title: "ADHD Task-Switching Pain: Why Your Brain ‘Grinds Gears’"  
+og_description: "Switching tasks with ADHD isn’t just hard—it’s neurologically costly. Learn why and how to reduce the friction."  
+---
+```
+
+**Pro Tips for Gemini:**  
+- **Inject urgency**: Use phrases like *"Science reveals why your brain rebels"* or *"Your struggle is neurobiological—here’s the workaround."*  
+- **Leverage spoke’s "killer hooks"**: Borrow vivid metaphors (e.g., *"cognitive gearbox seizure"*).  
+- **Align with conversion goals**: Tease the *"Operating System for ADHD Brains"* subtly (e.g., *"Your brain’s OS needs an upgrade"*).  
+
+**Prompt for Gemini:**  
+```markdown
+"Generate metadata for the ADHD spoke '[INSERT-SPOKE-SLUG]' using the following rules:  
+1. **Title**: Blend pain point + neuro-mechanism + solution tease. Use formats: Diagnostic/Emotional/Solution.  
+2. **Description**: Hook (validate pain) + neuro-proof (cite a mechanism from the spoke’s research) + solution tease. Max 180 chars.  
+3. **Categories/Tags**: Pull from spoke’s cluster/pillar keywords. Add 2 neuro-specific tags.  
+4. **Keywords**: Prioritize long-tail queries and community slang from spoke’s search_intent_profile.  
+5. **OG Data**: Suggest a visual metaphor for neural conflict.  
+
+Voice: Jargon-free, empowering, and mildly rebellious (e.g., ‘Your brain isn’t broken—it’s bored’).  
+
+Example Input: 'adhd-task-paralysis-focus.why-is-switching-tasks-so-mentally-painful'  
+Example Output: [PASTE EXAMPLE ABOVE]  
+
+Now generate for: '[INSERT-SPOKE-SLUG]'."  
+"""
 
 def discover_spoke_metadata():
     """
@@ -183,6 +264,47 @@ def generate_meta_ldjson(pillar_slug, spoke_slug, config, sample_meta_ldjson_pat
         return False
 
 
+def generate_story_prompt(example_story_path, narrative_prompt_path, spoke_metadata):
+    """
+    Construct a prompt for Gemini using only the narrative prompt and the current spoke metadata.
+    The prompt explicitly instructs Gemini to first semantically understand the provided spoke_metadata (in JSON), and to generate a story that is highly specific to the context, pain points, and details in the metadata.
+    The sample story is NOT included. The LLM is explicitly told not to copy or reuse any content from the prompt or examples, and to use only the spoke_metadata for the story content.
+    """
+    # Load the narrative prompt
+    with open(narrative_prompt_path, "r", encoding="utf-8") as f:
+        narrative_prompt = f.read()
+    # Convert spoke metadata to pretty JSON
+    spoke_json = json.dumps(spoke_metadata, indent=2, ensure_ascii=False)
+    # Construct the prompt
+    prompt = (
+        "You are given a JSON object called `spoke_metadata` that contains all the context, pain points, and details for a specific ADHD blog spoke.\n"
+        "First, carefully read and semantically understand the `spoke_metadata` to grasp the unique context, challenges, and audience for this spoke.\n"
+        "Then, generate a comprehensive, narrative-driven, science-backed ADHD article that is highly specific to the details in the `spoke_metadata`.\n"
+        "The story must not be generic; it should directly address the pain points, situations, and nuances described in the metadata.\n"
+        "Follow the rules and style in the narrative prompt below, but ensure all content is tailored to the current spoke.\n"
+        "Do NOT copy or reuse any content from the prompt or any sample stories or examples. Only use the details from the `spoke_metadata` for the story content.\n"
+        "Output only the story in markdown.\n\n"
+        "Here is the narrative prompt to follow:\n\n"
+        f"{narrative_prompt}\n\n"
+        "Here is the spoke_metadata (in JSON):\n\n"
+        f"{spoke_json}\n"
+    )
+    return prompt
+
+
+def story_file_exists(pillar_slug, spoke_slug):
+    out_path = os.path.join(OUTPUT_ROOT, pillar_slug, spoke_slug, "story.md")
+    return os.path.exists(out_path)
+
+
+def write_story_to_file(pillar_slug, spoke_slug, story_markdown):
+    out_dir = os.path.join(OUTPUT_ROOT, pillar_slug, spoke_slug)
+    os.makedirs(out_dir, exist_ok=True)
+    out_path = os.path.join(out_dir, "story.md")
+    with open(out_path, "w", encoding="utf-8") as f:
+        f.write(story_markdown)
+
+
 if __name__ == "__main__":
     spokes = discover_spoke_metadata()
     if not spokes:
@@ -275,4 +397,29 @@ if __name__ == "__main__":
         else:
             meta_ldjson_fail += 1
     print(f"META-LDJSON: {meta_ldjson_success} generated, {meta_ldjson_skipped} skipped, {meta_ldjson_fail} failed.")
+
+    # STORY GENERATION LOOP (only first 2 spokes)
+    story_success = 0
+    story_fail = 0
+    story_skipped = 0
+    for entry in spokes[:2]:
+        if story_file_exists(entry["pillar_slug"], entry["spoke_slug"]):
+            print(f"Skipping existing STORY for Pillar: {entry['pillar_slug']} | Spoke: {entry['spoke_slug']} ...")
+            story_skipped += 1
+            continue
+        try:
+            story_prompt = generate_story_prompt(example_faq_path, example_meta_path, entry["metadata"])
+            messages = [
+                {"role": "system", "content": "You are an ADHD narrative blog expert. Output only the story markdown section."},
+                {"role": "user", "content": story_prompt}
+            ]
+            print(f"Generating STORY for Pillar: {entry['pillar_slug']} | Spoke: {entry['spoke_slug']} ...")
+            story_markdown = call_llm(messages, provider="gemini", section_config=config)
+            write_story_to_file(entry["pillar_slug"], entry["spoke_slug"], story_markdown)
+            print("  ✅ STORY Success\n")
+            story_success += 1
+        except Exception as e:
+            print(f"  ❌ STORY Failed: {e}\n")
+            story_fail += 1
+    print(f"STORY: {story_success} generated, {story_skipped} skipped, {story_fail} failed.")
 
