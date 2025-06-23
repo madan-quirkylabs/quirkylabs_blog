@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "ADHD & Morning Dread: The Melatonin Delay Sabotaging Your Wake-Up (And How to Debug It)"
-description: "Opening your eyes = instant body ache? Dodson 2017 shows ADHD brains often have a melatonin delay. Rewire your brain’s sleep OS with a Neuro-Action Checklist."
-slug: "adhd-morning-dread"
+title: "ADHD & Morning Dread: The Dopamine Dip Sabotaging Your Wake-Up (Debug It)"
+description: "Does waking up feel like a physical battle? Faraone et al., 2015 proves dopamine dip blocks morning initiation. Get your Neuro-Action Checklist."
+slug: "adhd-sleep-deprivation-burnout-cluster"
 author: "Madan | QuirkyLabs"
 date: "2025-06-23"
 type: "page"
-categories: ["ADHD Emotional Regulation", "Executive Dysfunction", "ADHD Diagnosis"]
-tags: ["RSD", "procrastination", "dopamine", "impulse control", "sleep", "melatonin"]
-keywords: ["why is waking up so hard ADHD", "adhd morning routine help", "how to wake up with ADHD", "adhd delayed sleep phase", "adhd tired all the time", "adhd morning dread"]
+categories: ["ADHD Emotional Regulation", "Executive Dysfunction", "Burnout & Fatigue"]
+tags: ["dopamine dip", "morning dread", "fatigue", "sleep debt", "DSPS", "burnout"]
+keywords: ["why do ADHDers struggle to wake up", "how to wake up with ADHD", "ADHD morning fatigue", "ADHD sleep aids review", "dopamine dip ADHD", "ADHD alarm clock"]
 og_image: "/og/adhd-morning-dread-debug.png"
-og_title: "ADHD & Morning Dread: Debug Your Brain"
-og_description: "ADHD morning dread got you?  A melatonin delay is likely the culprit. Debug with our sleep system."
+og_title: "ADHD Morning Dread: Dopamine Dip Fix"
+og_description: "Dopamine deserts blocking mornings? Neuro-actions for wakeful starts."
 ---
 ```

@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "ADHD & Mealtime Paralysis: The Dopamine Dip Sabotaging Your Food Choices (And How to Debug It)"
-description: "Opening your fridge = full-body shutdown? It's not 'pickiness'—it's a Dopamine Dip! Cortese et al., 2020 shows ADHD impairs reward pathways. Rewire your brain’s Dopamine OS with a Neuro-Action Checklist."
-slug: "adhd-mealtime-paralysis"
+title: "ADHD & Can't Decide What to Eat: Your Executive Dysfunction Loop"
+description: "Fridge feel like touching a hot stove? Cortese 2020 proves executive dysfunction blocks meal decisions. Neuro-Action Checklist."
+slug: "adhd-financial-chaos"
 author: "Madan | QuirkyLabs"
 date: "2025-06-23"
 type: "page"
-categories: ["Executive Dysfunction", "ADHD Nutrition", "ADHD Emotional Regulation"]
-tags: ["procrastination", "dopamine", "meal skipping", "impulse control", "decision fatigue", "analysis paralysis"]
-keywords: ["why do I forget to eat ADHD", "adhd can't decide what to eat", "adhd meal planning", "adhd impulsivity food", "adhd decision paralysis food", "choosing what to eat feels like hell"]
-og_image: "/og/adhd-mealtime-paralysis-debug.png"
-og_title: "ADHD & Food: Debug Your Brain's Dopamine Dip"
-og_description: "Overcome mealtime paralysis! Rewire your dopamine dip & reclaim food freedom. Get your Neuro-Action Checklist."
+categories: ["ADHD Nutrition", "Executive Dysfunction", "ADHD Emotional Regulation"]
+tags: ["executive dysfunction loop", "analysis paralysis", "food overwhelm", "shame", "decision fatigue", "adulting"]
+keywords: ["why do ADHDers struggle with food", "how to decide what to eat with ADHD", "ADHD mealtime anxiety", "ADHD YNAB setup", "food trauma ADHD", "executive dysfunction food"]
+og_image: "/og/adhd-bill-avoidance-debug.png"
+og_title: "ADHD Food Paralysis: Executive Loop Fix"
+og_description: "Executive loop blocking meal choice? Neuro-actions for eating safety."
 ---
 ```

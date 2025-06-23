@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "ADHD & Apologizing: The RSD Hypervigilance Sabotaging Your Relationships (And How to Debug It)"
-description: "Opening your mouth = instant "sorry"? Dodson 2019 shows RSD hypervigilance makes ADHD brains over-apologize. Rewire your brain’s RSD OS with a Neuro-Action Checklist."
-slug: "adhd-apologizing"
+title: "ADHD & Compulsive Apologies: Your Brain’s RSD Hypervigilance (Debug It)"
+description: "Does every perceived slight feel like a personal attack? Dodson 2019 proves RSD hypervigilance fuels over-apologizing. Neuro-Action Checklist."
+slug: "adhd-compulsive-apologies"
 author: "Madan | QuirkyLabs"
 date: "2025-06-23"
 type: "page"
-categories: ["ADHD Emotional Regulation", "Rejection Sensitivity", "ADHD Relationships"]
-tags: ["RSD", "people pleasing", "anxiety", "self-esteem", "emotional regulation", "hypervigilance"]
-keywords: ["why do I apologize so much ADHD", "adhd people pleasing", "rejection sensitivity dysphoria apology", "adhd fear of disapproval", "how to stop apologizing ADHD", "compulsive apologizing ADHD"]
-og_image: "/og/adhd-apologizing-debug.png"
-og_title: "ADHD & Apologizing: Debug Your Brain"
-og_description: "RSD hypervigilance makes ADHD brains over-apologize. Get a Neuro-Action Checklist to rewire your brain's apology OS."
+categories: ["ADHD Emotional Regulation", "Rejection Sensitivity", "Executive Dysfunction"]
+tags: ["RSD hypervigilance", "compulsive apologies", "shame", "rejection", "people-pleasing", "social anxiety"]
+keywords: ["why do ADHDers over-apologize", "how to stop apologizing with ADHD", "ADHD apology habit", "ADHD RSD relationships", "compulsive apologizing", "RSD hypervigilance solutions"]
+og_image: "/og/adhd-compulsive-apologies-debug.png"
+og_title: "ADHD Apologies: RSD Hypervigilance Fix"
+og_description: "RSD hypervigilance causing constant apologies? Neuro-actions for social calm."
 ---
 ```

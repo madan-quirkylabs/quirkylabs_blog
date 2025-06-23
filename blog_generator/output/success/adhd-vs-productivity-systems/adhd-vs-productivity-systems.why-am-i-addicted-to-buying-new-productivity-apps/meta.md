@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "ADHD & App Cycling: The Dopamine Dip Sabotaging Your Focus (And How to Debug It)"
-description: "Endlessly downloading new apps? Opening your productivity system = instant dopamine dip? Barkley 2015 says ADHD isn't just attention. Rewire your brain’s dopamine OS with a Neuro-Action Checklist."
+title: "ADHD & App Cycling: The Dopamine Dip Sabotaging Your Focus (Debug It)"
+description: "New app shimmer? Faraone et al., 2021 proves dopamine dip blocks consistent use. Neuro-Action Checklist."
 slug: "adhd-vs-productivity-systems/why-am-i-addicted-to-buying-new-productivity-apps"
 author: "Madan | QuirkyLabs"
 date: "2025-06-23"
 type: "page"
-categories: ["ADHD Productivity", "Executive Dysfunction", "ADHD at Work"]
-tags: ["dopamine", "procrastination", "impulse control", "task switching", "productivity", "app cycling"]
-keywords: ["why do I keep buying new apps ADHD", "adhd task switching help", "how to stop ADHD impulse spending", "adhd new productivity system", "adhd dopamine dip productivity", "adhd digital overwhelm"]
+categories: ["Executive Dysfunction", "ADHD Productivity", "ADHD at Work"]
+tags: ["dopamine dip", "app cycling", "overwhelm", "productivity", "executive dysfunction", "digital distraction"]
+keywords: ["why do ADHDers struggle with apps", "how to focus with ADHD", "ADHD app cycling", "ADHD YNAB setup", "dopamine app", "ADHD tool paralysis"]
 og_image: "/og/adhd-app-cycling-debug.png"
-og_title: "ADHD App Addiction"
-og_description: "Stop the dopamine dip! Debug your brain's app cycling OS with our proven productivity system."
+og_title: "ADHD App Cycling: Dopamine Dip Debug"
+og_description: "Dopamine deserts killing app focus? Neuro-actions unlock productivity."
 ---
 ```

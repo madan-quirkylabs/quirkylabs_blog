@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "ADHD & Imposter Syndrome: Is Your Dopamine Dip Sabotaging Your Career?"
-description: "Staring at your screen, feeling like a fraud? Studies show ADHD adults struggle with 'Imposter Syndrome' (Knoll et al., 2019). Rewire your dopamine dip with a Neuro-Action Checklist."
+title: "ADHD & Imposter Syndrome: Your Brain's RSD Hypervigilance Sabotaging Your Career (Debug It)"
+description: "Does work success feel like a fluke? Lenzi et al., 2020 proves RSD hypervigilance fuels 'fraud' feelings. Neuro-Action Checklist."
 slug: "adhd-imposter-syndrome"
 author: "Madan | QuirkyLabs"
 date: "2025-06-23"
 type: "page"
-categories: ["ADHD at Work", "Rejection Sensitivity", "Self-Compassion"]
-tags: ["imposter syndrome", "workplace", "dopamine", "self-esteem", "masking", "executive dysfunction"]
-keywords: ["why do I feel like a fraud at work adhd", "adhd imposter syndrome work solutions", "masking adhd at work and feeling fake", "adhd professional success", "neurodivergent imposter syndrome career"]
+categories: ["ADHD at Work", "ADHD Emotional Regulation", "Rejection Sensitivity"]
+tags: ["RSD hypervigilance", "imposter syndrome", "shame", "anxiety", "self-doubt", "career"]
+keywords: ["why do ADHDers struggle with imposter syndrome", "how to overcome imposter syndrome with ADHD", "ADHD work shame", "ADHD career success", "imposter syndrome neurodivergent", "RSD hypervigilance career"]
 og_image: "/og/adhd-imposter-syndrome-debug.png"
-og_title: "ADHD & Imposter Syndrome: Tame Your Dopamine Dip"
-og_description: "Feeling like a fraud? Learn to debug your dopamine dip and unlock your authentic professional self."
+og_title: "ADHD Imposter Syndrome: RSD Hypervigilance Fix"
+og_description: "RSD hypervigilance causing 'fraud' feelings? Neuro-actions for career confidence."
 ---
 ```

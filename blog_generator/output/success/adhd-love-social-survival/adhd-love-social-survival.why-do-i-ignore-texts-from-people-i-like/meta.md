@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "ADHD & "Involuntary Ghosting": The Dopamine Dip Sabotaging Your Social Life (And How to Debug It)"
-description: "Opening a text = full-body shutdown? 🤯 Dodson 2019 shows RSD amplifies rejection pain. Rewire your brain’s dopamine dip with a Neuro-Action Checklist."
-slug: "adhd-involuntary-ghosting"
+title: "ADHD & Involuntary Ghosting: Your Brain's Executive Dysfunction Loop (Debug It)"
+description: "Does ignoring texts feel like you're trapped in quicksand? Faraone et al., 2021 proves executive dysfunction loop fuels avoidance. Neuro-Action Checklist."
+slug: "adhd-financial-chaos"
 author: "Madan | QuirkyLabs"
 date: "2025-06-23"
 type: "page"
-categories: ["ADHD Relationships", "Rejection Sensitivity", "Executive Dysfunction"]
-tags: ["RSD", "procrastination", "dopamine", "impulse control", "rejection", "communication"]
-keywords: ["why do I ignore texts ADHD", "adhd texting anxiety", "adhd communication paralysis", "adhd relationship problems", "adhd ghosting friends", "adhd replying to texts"]
-og_image: "/og/adhd-involuntary-ghosting-debug.png"
-og_title: "ADHD Ghosting? It's Dopamine!"
-og_description: "Stop the dopamine dip sabotaging your social life.  Rewire your brain with our Neuro-Action Checklist."
+categories: ["ADHD Emotional Regulation", "Executive Dysfunction", "ADHD Relationships"]
+tags: ["executive dysfunction loop", "involuntary ghosting", "shame", "RSD", "communication paralysis", "relationships"]
+keywords: ["why do ADHDers struggle with texting", "how to reply to texts with ADHD", "ADHD texting shame", "ADHD phone addiction", "executive dysfunction texting", "ADHD and phone addiction"]
+og_image: "/og/adhd-bill-avoidance-debug.png"
+og_title: "ADHD Texting: Executive Loop Fix"
+og_description: "Executive loop blocking texts? Neuro-actions for better communication."
 ---
 ```

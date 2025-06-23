@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "ADHD & Planning: The Dopamine Dip Sabotaging Your Execution (And How to Debug It)"
-description: "Spent hours planning, but can't start? Dodson 2016 shows RSD & dopamine dips cause 'brain freeze'. Rewire your brain’s dopamine OS with a Neuro-Action Checklist."
+title: "ADHD & Plan Paralysis: Executive Dysfunction Freezes Your Execution (Debug It)"
+description: "Does planning feel like touching a live wire? Cortese 2020 proves executive dysfunction blocks action. Get your Neuro-Action Checklist."
 slug: "adhd-task-paralysis-focus"
 author: "Madan | QuirkyLabs"
 date: "2025-06-23"
 type: "page"
 categories: ["Executive Dysfunction", "ADHD Productivity", "ADHD at Work"]
-tags: ["procrastination", "dopamine", "task switching", "planning", "executive function", "analysis paralysis"]
-keywords: ["why can't I start tasks ADHD", "adhd task paralysis help", "adhd planning but not doing", "adhd intention action gap"]
-og_image: "/og/adhd-task-paralysis-debug.png"
-og_title: "ADHD: Dopamine & Task Freeze"
-og_description: "Dopamine dips got you stuck? Debug your brain's OS & start executing. "
+tags: ["executive dysfunction", "task paralysis", "overwhelm", "procrastination", "planning", "intention-action gap"]
+keywords: ["why do ADHDers struggle with execution", "how to start tasks with ADHD", "ADHD task paralysis", "ADHD YNAB setup", "ADHD planning overwhelm", "executive dysfunction loop"]
+og_image: "/og/adhd-task-paralysis-focus-debug.png"
+og_title: "ADHD Plan Paralysis: Executive Dysfunction Fix"
+og_description: "Executive dysfunction blocking action? Neuro-actions for task initiation."
 ---
 ```

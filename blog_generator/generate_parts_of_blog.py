@@ -7,9 +7,6 @@ from core.config import load_config
 SPOKE_METADATA_ROOT = os.path.join("config", "spoke-metadata")
 OUTPUT_ROOT = os.path.join(os.path.dirname(__file__), "output", "success")
 
-Here's a **drop-in replacement prompt** with stricter validation rules to prevent placeholders from slipping through, while maintaining your brand voice and SEO strategy:
-
-```python
 GENERATE_META_FOR_ARTICLE_PROMPT = """
 Act as QuirkyLabs' Chief Neural Architect. Generate SEO-optimized metadata for the ADHD spoke article with slug: '{spoke_slug}'.
 
@@ -252,8 +249,7 @@ def generate_meta_prompt(example_meta_path, spoke_metadata):
 
 def meta_file_exists(pillar_slug, spoke_slug):
     out_path = os.path.join(OUTPUT_ROOT, pillar_slug, spoke_slug, "meta.md")
-    return False
-    # return os.path.exists(out_path)
+    return os.path.exists(out_path)
 
 
 def write_meta_to_file(pillar_slug, spoke_slug, meta_markdown):
@@ -267,7 +263,7 @@ def write_meta_to_file(pillar_slug, spoke_slug, meta_markdown):
 def meta_ldjson_file_exists(pillar_slug, spoke_slug):
     out_path = os.path.join(OUTPUT_ROOT, pillar_slug, spoke_slug, "meta-ldjson.md")
     return False
-    return os.path.exists(out_path)
+    # return os.path.exists(out_path)
 
 
 def write_meta_ldjson_to_file(pillar_slug, spoke_slug, meta_ldjson):

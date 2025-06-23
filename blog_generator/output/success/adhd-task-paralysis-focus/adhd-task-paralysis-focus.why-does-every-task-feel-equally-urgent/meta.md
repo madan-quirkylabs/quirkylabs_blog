@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "ADHD & Task Urgency: The Time Blindness Sabotaging Your To-Do List (And How to Debug It)"
-description: "Calendar = chaos? A 2019 study shows ADHD brains struggle with time perception. Stop the urgency overwhelm with a Neuro-Action Checklist."
+title: "ADHD & Priority Collapse: Your Brain's Time Blindness (Debug It)"
+description: "Does prioritizing tasks feel like touching a hot stove? Pollak 2017 proves time blindness blocks action. Grab your Neuro-Action Checklist."
 slug: "adhd-task-paralysis-focus"
 author: "Madan | QuirkyLabs"
 date: "2025-06-23"
 type: "page"
-categories: ["Executive Dysfunction", "ADHD Productivity", "Burnout & Fatigue"]
-tags: ["procrastination", "time blindness", "task switching", "dopamine", "impulse control", "prioritization"]
-keywords: ["why do I forget what I was doing ADHD", "adhd task switching help", "how to prioritize ADHD tasks", "ADHD time blindness solutions", "ADHD overwhelm to-do list", "urgent vs important ADHD"]
+categories: ["Executive Dysfunction", "ADHD Productivity", "ADHD at Work"]
+tags: ["time blindness", "task paralysis", "overwhelm", "procrastination", "executive dysfunction", "attention"]
+keywords: ["why do ADHDers struggle with priorities", "how to prioritize with ADHD", "ADHD time blindness", "ADHD YNAB setup", "time management ADHD", "time blindness overwhelm"]
 og_image: "/og/adhd-task-paralysis-focus-debug.png"
-og_title: "ADHD Task Urgency: Debug It"
-og_description: "Rewire time blindness with neuro-hacks. Reclaim your day!"
+og_title: "ADHD Task Paralysis: Time Blindness Fix"
+og_description: "Time blindness causing paralysis? Neuro-actions for focus."
 ---
 ```

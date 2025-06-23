@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "ADHD & Sensory Overload: The Amygdala Freeze Sabotaging Your Shopping (And How to Debug It)"
-description: "Grocery store = full-body shutdown? Zickgraf et al., 2020 shows ADHD brains struggle with interoception & sensory overload. Rewire your amygdala freeze OS with a Neuro-Action Checklist."
+title: "ADHD & Sensory Overload: Your Brain’s Amygdala Freeze (Debug It)"
+description: "Grocery store feel like touching a hot stove? Bijlenga 2017 proves amygdala freeze causes shutdown. Neuro-Action Checklist."
 slug: "adhd-sensory-overload"
 author: "Madan | QuirkyLabs"
 date: "2025-06-23"
 type: "page"
-categories: ["ADHD Emotional Regulation", "Sensory Processing", "Executive Dysfunction"]
-tags: ["sensory overload", "anxiety", "public spaces", "amygdala", "executive function", "shutdown"]
-keywords: ["adhd sensory overload grocery store", "adhd panic attacks public", "adhd executive function shutdown", "how to cope with sensory overload adhd", "why am I so sensitive to noise adhd", "adhd and crowds"]
+categories: ["Sensory Processing", "Executive Dysfunction", "Burnout & Fatigue"]
+tags: ["amygdala freeze", "sensory overload", "overwhelm", "misophonia", "sensory processing", "shutdown"]
+keywords: ["why do ADHDers struggle with sensory overload", "how to cope with sensory overload with ADHD", "ADHD sensory YNAB setup", "sensory hell ADHD", "ADHD sensory processing disorder", "amygdala freeze sensory overload"]
 og_image: "/og/adhd-sensory-overload-debug.png"
-og_title: "ADHD & Sensory Overload: Debug Your Brain"
-og_description: "Stop the amygdala freeze! Get back in control using the QuirkyLabs method."
+og_title: "ADHD Sensory Overload: Amygdala Freeze Fix"
+og_description: "Amygdala freeze from sensory overload? Neuro-actions for calm."
 ---
 ```

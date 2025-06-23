@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "ADHD & Task Switching: The 'Gear Grinding' Sabotaging Your Focus (And How to Debug It)"
-description: "Switching tasks = brain gears grinding? Dodson 2016 says RSD makes transitions brutal. Rewire your brain's task-switching OS with a Neuro-Action Checklist."
-slug: "adhd-task-switching-focus"
+title: "ADHD & Switching Tasks: Your Executive Dysfunction Loop (Debug It)"
+description: "Is changing tasks like hitting a brick wall? Alderson et al., 2013 proves executive dysfunction blocks smooth transitions. Get a Neuro-Action Checklist."
+slug: "adhd-task-paralysis-focus"
 author: "Madan | QuirkyLabs"
 date: "2025-06-23"
 type: "page"
-categories: ["Executive Dysfunction", "ADHD Productivity", "ADHD Emotional Regulation"]
-tags: ["task switching", "procrastination", "dopamine dip", "focus", "impulse control", "executive function"]
-keywords: ["why is task switching so hard adhd", "adhd task switching help", "adhd switch tasks anxiety", "adhd difficulty changing tasks", "adhd task paralysis switching", "adhd switching tasks frustration"]
-og_image: "/og/adhd-task-switching-focus-debug.png"
-og_title: "ADHD & Task Switching: Debug Your Brain"
-og_description: "Stop the 'gear grinding'! Smooth task transitions by debugging your dopamine dip and reclaiming your focus."
+categories: ["Executive Dysfunction", "ADHD Productivity", "ADHD at Work"]
+tags: ["executive dysfunction loop", "task paralysis", "overwhelm", "procrastination", "focus", "productivity"]
+keywords: ["why do ADHDers struggle with focus", "how to focus with ADHD", "ADHD YNAB setup", "ADHD task paralysis", "executive dysfunction ADHD", "ADHD executive dysfunction loop"]
+og_image: "/og/adhd-task-paralysis-focus-debug.png"
+og_title: "ADHD Task Paralysis: Executive Loop Fix"
+og_description: "Executive dysfunction loops blocking tasks? Neuro-actions for task mastery."
 ---
 ```

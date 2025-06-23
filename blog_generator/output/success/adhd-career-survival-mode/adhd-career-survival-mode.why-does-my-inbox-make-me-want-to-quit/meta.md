@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "ADHD & Email Overload: The 'Amygdala Freeze' Sabotaging Your Inbox (And How to Debug It)"
-description: "Opening your inbox = full-body shutdown?🤯 Kessler (2006) shows ADHD adults struggle with work. Conquer the 'amygdala freeze' with a Neuro-Action Checklist."
-slug: "adhd-email-overload"
+title: "ADHD & Email Overload: Your Executive Dysfunction Loop (Debug It)"
+description: "Inbox feel like touching a hot stove? Faraone et al., 2021 proves executive dysfunction loop blocks action. Neuro-Action Checklist."
+slug: "adhd-financial-chaos"
 author: "Madan | QuirkyLabs"
 date: "2025-06-23"
 type: "page"
-categories: ["Executive Dysfunction", "ADHD Productivity", "ADHD at Work"]
-tags: ["procrastination", "dopamine", "impulse control", "task switching", "rejection sensitivity", "burnout & fatigue"]
-keywords: ["why do I forget to eat ADHD", "adhd task switching help", "how to stop ADHD impulse spending", "adhd email anxiety", "adhd inbox overwhelm", "adhd digital distractions"]
+categories: ["ADHD at Work", "Executive Dysfunction", "ADHD Productivity"]
+tags: ["executive dysfunction loop", "email overload", "anxiety", "focus", "digital clutter", "work"]
+keywords: ["why do ADHDers struggle with email", "how to manage email with ADHD", "ADHD inbox overwhelm", "ADHD email management", "email anxiety ADHD", "executive dysfunction loop email"]
 og_image: "/og/adhd-email-overload-debug.png"
-og_title: "ADHD & Email: Debug Your Brain"
-og_description: "Overcome email anxiety by rewiring your brain's 'amygdala freeze' OS. Unlock focus & boost productivity now!"
+og_title: "ADHD Email: Executive Loop Fix"
+og_description: "Executive dysfunction loop blocking emails? Neuro-actions for digital focus."
 ---
 ```

@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "ADHD & Job Dissatisfaction: The Dopamine Dip Sabotaging Your Career (And How to Debug It)"
-description: "Endless job changes got you down? Opening LinkedIn = full-body shutdown? Kessler (2006) proves ADHD hurts work. Rewire your brain’s Dopamine Dip OS with our Career Checklist."
-slug: "adhd-career-survival-mode"
+title: "ADHD & Job Dissatisfaction: Your Brain's Dopamine Dip (Debug It)"
+description: "Does every job feel like climbing a mountain of boredom? Hirvonen 2019 proves dopamine dip fuels job hopping. Neuro-Action Checklist."
+slug: "adhd-job-dissatisfaction"
 author: "Madan | QuirkyLabs"
-date: "2024-07-03"
+date: "2025-06-23"
 type: "page"
-categories: ["ADHD at Work", "Executive Dysfunction", "Burnout & Fatigue"]
-tags: ["job hopping", "dopamine", "boredom", "procrastination", "career", "motivation"]
-keywords: ["why do I get bored and quit every job adhd", "adhd job dissatisfaction why", "how to stay engaged with adhd in boring job", "adhd career change", "adhd job hopping help", "adhd lack of motivation work"]
+categories: ["ADHD at Work", "Executive Dysfunction", "ADHD Productivity"]
+tags: ["dopamine dip", "job dissatisfaction", "boredom", "burnout", "job hopping", "novelty"]
+keywords: ["why do ADHDers struggle with jobs", "how to stay engaged with ADHD", "ADHD career boredom", "ADHD YNAB setup", "dopamine burnout ADHD", "ADHD job dissatisfaction"]
 og_image: "/og/adhd-job-dissatisfaction-debug.png"
-og_title: "ADHD Career Dopamine Dip"
-og_description: "Stop job hopping! Debug your brain’s dopamine dip and find career satisfaction with our ADHD-friendly OS upgrade."
+og_title: "ADHD Job Boredom: Dopamine Dip Fix"
+og_description: "Dopamine deserts at work? Neuro-actions for career engagement."
 ---
 ```

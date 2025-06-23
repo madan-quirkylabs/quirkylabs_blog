@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "ADHD & Misophonia: RSD Hypervigilance Sabotaging Your Focus (And How to Debug It)"
-description: "Coworker chewing = instant rage? Zickgraf et al., 2020 show ADHD brains have reduced interoceptive awareness. Rewire your brain’s RSD hypervigilance OS with a Neuro-Action Checklist."
+title: "ADHD & Misophonia: Your Brain’s RSD hypervigilance in Overdrive (Debug It)"
+description: "Does that chewing sound feel like nails on a chalkboard? Bijlenga 2017 proves RSD hypervigilance triggers overwhelm. Neuro-Action Checklist."
 slug: "adhd-misophonia"
 author: "Madan | QuirkyLabs"
 date: "2025-06-23"
 type: "page"
 categories: ["ADHD Emotional Regulation", "Sensory Processing", "Rejection Sensitivity"]
-tags: ["misophonia", "RSD", "sensory overload", "emotional regulation", "impulse control", "dopamine"]
-keywords: ["why do small noises make me rage ADHD", "ADHD misophonia coping mechanisms", "how to deal with ADHD sound sensitivity", "adhd sensory overload office", "auditory processing disorder ADHD", "ADHD rage triggers"]
+tags: ["RSD hypervigilance", "misophonia", "rage", "sensory overload", "sound sensitivity", "emotional dysregulation"]
+keywords: ["why do ADHDers hate chewing sounds", "how to cope with misophonia ADHD", "ADHD sound sensitivity", "ADHD RSD hypervigilance", "misophonia and ADHD", "ADHD sensory overload triggers"]
 og_image: "/og/adhd-misophonia-debug.png"
-og_title: "ADHD & Misophonia: Debug Your Brain"
-og_description: "Silence the rage, amplify the focus. Hack your RSD hypervigilance for sensory serenity & reclaim your day!"
+og_title: "ADHD Misophonia: RSD hypervigilance Fix"
+og_description: "RSD hypervigilance to sounds? Neuro-actions for sensory calm."
 ---
 ```

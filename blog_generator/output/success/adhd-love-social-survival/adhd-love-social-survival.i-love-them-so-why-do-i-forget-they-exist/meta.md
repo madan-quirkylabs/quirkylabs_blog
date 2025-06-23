@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "ADHD & Identity: The Dopamine Dip Sabotaging Your Self-Worth (And How to Debug It)"
-description: "Reduced to just symptoms? Dodson 2019 shows RSD amplifies self-doubt. Time to debug that dopamine dip! Rewire your brain’s identity OS with a Neuro-Action Checklist."
-slug: "adhd-identity-crisis-late-diagnosis"
+title: "ADHD & 'Walking Symptom' Feels: Your Dopamine Dip Sabotaging Self-Worth (Debug It)"
+description: "Does constant self-criticism feel like a broken record? Magdi et al., 2025 proves dopamine dip fuels identity distress. Get your Neuro-Action Checklist."
+slug: "adhd-identity-crisis"
 author: "Madan | QuirkyLabs"
 date: "2025-06-23"
 type: "page"
 categories: ["Neurodivergent Identity", "Self-Compassion", "ADHD Emotional Regulation"]
-tags: ["RSD", "self-esteem", "shame", "dopamine", "identity", "masking"]
-keywords: ["why do I feel like just a symptom ADHD", "adhd identity crisis", "adhd low self-esteem", "how to embrace ADHD", "adhd and self-worth", "adhd masking"]
-og_image: "/og/adhd-identity-crisis-late-diagnosis-debug.png"
-og_title: "ADHD & Identity: Debug Your Dopamine Dip"
-og_description: "Stop the shame spiral! Boost self-worth by debugging your brain's dopamine dip with a Neuro-Action Checklist."
+tags: ["dopamine dip", "identity crisis", "shame", "self-worth", "late diagnosis", "neurodivergent"]
+keywords: ["why do ADHDers struggle with self-worth", "how to build self-esteem with ADHD", "ADHD identity shame", "ADHD self-acceptance", "ADHD symptom fatigue", "ADHD YNAB setup"]
+og_image: "/og/adhd-identity-crisis-debug.png"
+og_title: "ADHD Identity Crisis: Dopamine Dip Fix"
+og_description: "Dopamine deserts fueling 'symptom' identity? Neuro-actions for self-acceptance."
 ---
 ```

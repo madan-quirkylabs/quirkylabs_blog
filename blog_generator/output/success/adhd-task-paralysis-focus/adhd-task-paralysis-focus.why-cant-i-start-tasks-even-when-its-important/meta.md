@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "ADHD & Task Paralysis: The Dopamine Dip Sabotaging Your Focus (And How to Debug It)"
-description: "Opening your laptop = full-body shutdown? You're not lazy! Dodson (2016) links ADHD paralysis to dopamine dips. Rewire your brain’s dopamine OS with a Neuro-Action Checklist."
+title: "ADHD & Task Paralysis: The Executive Dysfunction Loop Sabotaging Your Productivity (Debug It)"
+description: "Does starting tasks feel like climbing a mountain? Cortese 2020 proves executive dysfunction loop blocks action. Neuro-Action Checklist."
 slug: "adhd-task-paralysis-focus"
 author: "Madan | QuirkyLabs"
 date: "2025-06-23"
 type: "page"
 categories: ["Executive Dysfunction", "ADHD Productivity", "ADHD at Work"]
-tags: ["procrastination", "dopamine", "task switching", "impulse control", "focus", "burnout"]
-keywords: ["why do I freeze ADHD", "adhd task paralysis help", "adhd procrastination solutions", "how to focus ADHD", "adhd motivation tips", "adhd impulse control"]
-og_image: "/og/adhd-task-paralysis-debug.png"
-og_title: "ADHD Task Freeze? Debug It!"
-og_description: "Overcome ADHD task paralysis! Debug your brain's dopamine dip and unlock focus with a simple Neuro-Action Checklist."
+tags: ["executive dysfunction loop", "task paralysis", "overwhelm", "procrastination", "focus", "motivation"]
+keywords: ["why do ADHDers struggle with tasks", "how to start tasks with ADHD", "ADHD task paralysis", "ADHD YNAB setup", "ADHD and productivity", "executive dysfunction loop"]
+og_image: "/og/adhd-task-paralysis-focus-debug.png"
+og_title: "ADHD Task Paralysis: Executive Loop Fix"
+og_description: "Executive dysfunction loop blocking tasks? Neuro-actions for productivity."
 ---
 ```
