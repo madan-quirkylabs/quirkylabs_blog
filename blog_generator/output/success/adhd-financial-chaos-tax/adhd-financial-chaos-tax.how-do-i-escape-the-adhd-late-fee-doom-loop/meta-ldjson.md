@@ -2,9 +2,9 @@
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "ADHD & Money Dysregulation: Stop the Late Fee Cycle & Escape Financial Shame",
-  "description": "Struggling with ADHD and finances? Break free from the 'ADHD tax' of late fees, impulse buys, and financial overwhelm. Learn how executive dysfunction impacts your money management and discover shame-free, ADHD-friendly solutions.",
-  "image": "https://quirkylabs.com/og/adhd-financial-chaos.png",
+  "headline": "ADHD & Late Fees: Your Brain’s Time Blindness (Debug It)",
+  "description": "Does a final notice feel like a punch in the gut? Toplak 2017 proves time blindness causes missed payments. Grab our Neuro-Action Checklist.",
+  "image": "https://quirkylabs.com/og/adhd-bill-avoidance-debug.png",
   "author": {
     "@type": "Organization",
     "name": "QuirkyLabs Research Team"
@@ -17,12 +17,12 @@
       "url": "https://quirkylabs.com/logo.png"
     }
   },
-  "datePublished": "2025-06-16",
-  "dateModified": "2025-06-16",
+  "datePublished": "2025-06-23",
+  "dateModified": "2025-06-23",
   "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://quirkylabs.com/adhd-financial-chaos"
   },
-   "keywords": "ADHD money, ADHD finance, financial dysregulation, ADHD budgeting tips, ADHD debt management, ADHD impulse control, executive dysfunction and money, ADHD tax explained, financial shame ADHD, time blindness and bills, how to budget with ADHD, ADHD and late fees, money management for ADHD adults"
+   "keywords": "why do ADHDers struggle with bills, how to pay bills with ADHD, ADHD money overwhelm, ADHD YNAB setup, financial stress ADHD, time blindness money"
 }
 ```

@@ -2,9 +2,9 @@
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "ADHD Boom and Bust: Breaking the Exhausting Cycle of Frantic Energy and Burnout",
-  "description": "Tired of the ADHD 'Boom-Buckle-Bust' cycle? Learn why you swing between hyperfocus and burnout, and discover practical, neuro-affirming strategies to manage your energy, reclaim your sleep, and achieve sustainable productivity.",
-  "image": "https://quirkylabs.com/og/adhd-boom-and-bust.png",
+  "headline": "ADHD & Boom-Buckle-Bust: Your Dopamine Dip Fuels Burnout (Debug It)",
+  "description": "Does your energy feel like a rollercoaster? Russell 2022 proves dopamine dip drives boom-bust cycles. Get a Neuro-Action Checklist.",
+  "image": "https://quirkylabs.com/og/adhd-sleep-deprivation-burnout-cluster-debug.png",
   "author": {
     "@type": "Organization",
     "name": "QuirkyLabs Research Team"
@@ -17,12 +17,12 @@
       "url": "https://quirkylabs.com/logo.png"
     }
   },
-  "datePublished": "2025-06-16",
-  "dateModified": "2025-06-16",
+  "datePublished": "2025-06-23",
+  "dateModified": "2025-06-23",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://quirkylabs.com/adhd-boom-and-bust"
+    "@id": "https://quirkylabs.com/adhd-sleep-deprivation-burnout-cluster"
   },
-   "keywords": "ADHD burnout cycle, ADHD boom and bust, ADHD fatigue, ADHD energy crashes, ADHD sleep and burnout, ADHD exhaustion solutions, how to manage ADHD fatigue, ADHD productivity hacks, ADHD masking burnout, rejection sensitive dysphoria and burnout, ADHD emotional regulation burnout, ADHD time blindness and exhaustion, ADHD executive dysfunction burnout, ADHD stress and burnout, Boom-Buckle-Bust, stop ADHD burnout, ADHD overexertion"
+   "keywords": "why do ADHDers struggle with energy, how to manage burnout with ADHD, ADHD energy crash, ADHD sleep hygiene tips, dopamine dip ADHD, ADHD boom buckle bust cycle"
 }
 ```

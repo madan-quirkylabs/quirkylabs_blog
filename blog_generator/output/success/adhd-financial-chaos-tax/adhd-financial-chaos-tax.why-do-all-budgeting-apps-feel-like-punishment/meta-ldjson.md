@@ -2,9 +2,9 @@
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "ADHD & Budgeting: Why Traditional Apps Fail (and What Actually Works)",
-  "description": "Struggling with budgeting apps? Discover why they often fail ADHD brains, the neurobiological reasons behind financial overwhelm, and ADHD-friendly strategies for financial peace.",
-  "image": "https://quirkylabs.com/og/adhd-budgeting.png",
+  "headline": "ADHD & Traditional Budgeting: Your Executive Dysfunction Loop (Debug It)",
+  "description": "Does budgeting feel like navigating a minefield? Suhr 2019 proves executive dysfunction loop blocks financial control. Get Neuro-Action Checklist.",
+  "image": "https://quirkylabs.com/og/adhd-bill-avoidance-debug.png",
   "author": {
     "@type": "Organization",
     "name": "QuirkyLabs Research Team"
@@ -17,12 +17,12 @@
       "url": "https://quirkylabs.com/logo.png"
     }
   },
-  "datePublished": "2025-06-16",
-  "dateModified": "2025-06-16",
+  "datePublished": "2025-06-23",
+  "dateModified": "2025-06-23",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://quirkylabs.com/adhd-budgeting"
+    "@id": "https://quirkylabs.com/adhd-financial-chaos"
   },
-   "keywords": "ADHD budgeting, ADHD money management, why budgeting apps don't work for ADHD, ADHD financial overwhelm, ADHD impulse spending, ADHD debt, ADHD financial shame, ADHD time blindness and finances, best budgeting apps for ADHD, ADHD financial tips, ADHD-friendly budgeting, ADHD tax, executive function and money"
+   "keywords": "why do ADHDers struggle with budgeting, how to budget with ADHD, ADHD money shame, ADHD YNAB setup, financial chaos ADHD, executive dysfunction loop money"
 }
 ```

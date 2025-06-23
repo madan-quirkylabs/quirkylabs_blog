@@ -262,8 +262,7 @@ def write_meta_to_file(pillar_slug, spoke_slug, meta_markdown):
 
 def meta_ldjson_file_exists(pillar_slug, spoke_slug):
     out_path = os.path.join(OUTPUT_ROOT, pillar_slug, spoke_slug, "meta-ldjson.md")
-    return False
-    # return os.path.exists(out_path)
+    return os.path.exists(out_path)
 
 
 def write_meta_ldjson_to_file(pillar_slug, spoke_slug, meta_ldjson):
@@ -280,9 +279,6 @@ def generate_meta_ldjson(pillar_slug, spoke_slug, config, sample_meta_ldjson_pat
     ldjson_path = os.path.join(out_dir, "meta-ldjson.md")
     if not os.path.exists(meta_path):
         print(f"  ⚠️  Skipping META-LDJSON (meta.md missing) for Pillar: {pillar_slug} | Spoke: {spoke_slug}")
-        return False
-    if os.path.exists(ldjson_path):
-        print(f"  Skipping existing META-LDJSON for Pillar: {pillar_slug} | Spoke: {spoke_slug}")
         return False
     with open(meta_path, "r", encoding="utf-8") as f:
         meta_content = f.read()

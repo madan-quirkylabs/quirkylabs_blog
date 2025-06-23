@@ -2,9 +2,9 @@
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "Stop Over-Apologizing! ADHD, RSD, and the Compulsive Need to Say Sorry",
-  "description": "Do you constantly apologize, even when it's not your fault? Explore the link between ADHD, Rejection Sensitive Dysphoria (RSD), and compulsive apologizing. Learn how to break the cycle and build authentic communication skills.",
-  "image": "https://quirkylabs.com/og/adhd-over-apologizing.png",
+  "headline": "ADHD & Compulsive Apologies: Your Brain’s RSD Hypervigilance (Debug It)",
+  "description": "Does every perceived slight feel like a personal attack? Dodson 2019 proves RSD hypervigilance fuels over-apologizing. Neuro-Action Checklist.",
+  "image": "https://quirkylabs.com/og/adhd-compulsive-apologies-debug.png",
   "author": {
     "@type": "Organization",
     "name": "QuirkyLabs Research Team"
@@ -17,12 +17,12 @@
       "url": "https://quirkylabs.com/logo.png"
     }
   },
-  "datePublished": "2025-06-16",
-  "dateModified": "2025-06-16",
+  "datePublished": "2025-06-23",
+  "dateModified": "2025-06-23",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://quirkylabs.com/stop-over-apologizing"
+    "@id": "https://quirkylabs.com/adhd-compulsive-apologies"
   },
-   "keywords": "ADHD over apologizing, RSD apology, compulsive apologizing ADHD, how to stop apologizing ADHD, ADHD RSD communication, rejection sensitivity and apologies, why do I apologize so much ADHD, ADHD fear of rejection, ADHD people pleasing, RSD and social anxiety"
+   "keywords": "why do ADHDers over-apologize, how to stop apologizing with ADHD, ADHD apology habit, ADHD RSD relationships, compulsive apologizing, RSD hypervigilance solutions"
 }
 ```

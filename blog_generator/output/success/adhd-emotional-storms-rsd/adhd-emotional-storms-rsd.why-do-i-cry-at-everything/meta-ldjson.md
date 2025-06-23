@@ -2,9 +2,9 @@
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "ADHD & Crying: Why You Cry So Easily (and How to Manage Emotional Overwhelm)",
-  "description": "Do you cry easily and often feel emotionally overwhelmed? Discover the link between ADHD and crying, understand the science behind emotional dysregulation, and learn practical strategies to manage your emotions and reduce tears.",
-  "image": "https://quirkylabs.com/og/adhd-crying-emotional-overwhelm.png",
+  "headline": "ADHD & Crying Spells: Your Brain's Amygdala Freeze (Debug It)",
+  "description": "Does daily life feel like a tearful minefield? Dodson 2019 proves amygdala freeze triggers crying. Get your Neuro-Action Checklist.",
+  "image": "https://quirkylabs.com/og/adhd-crying-spells-debug.png",
   "author": {
     "@type": "Organization",
     "name": "QuirkyLabs Research Team"
@@ -17,12 +17,12 @@
       "url": "https://quirkylabs.com/logo.png"
     }
   },
-  "datePublished": "2025-06-17",
-  "dateModified": "2025-06-17",
+  "datePublished": "2025-06-23",
+  "dateModified": "2025-06-23",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://quirkylabs.com/adhd-and-crying-emotional-overwhelm"
+    "@id": "https://quirkylabs.com/adhd-crying-spells"
   },
-   "keywords": "ADHD and crying, why do I cry so easily ADHD, emotional dysregulation ADHD, ADHD emotional regulation, ADHD emotional sensitivity, ADHD sensory overload, RSD and crying, coping with ADHD emotions, ADHD emotional overwhelm, ADHD tears, how to stop crying ADHD, ADHD emotional management, ADHD emotional lability, ADHD and oversensitivity"
+   "keywords": "why do ADHDers cry so easily, how to stop crying with ADHD, ADHD emotional regulation, ADHD YNAB setup, ADHD sensory overload, amygdala freeze emotions"
 }
 ```

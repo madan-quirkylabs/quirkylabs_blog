@@ -2,9 +2,9 @@
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "ADHD Identity Crisis: Reclaiming Yourself After a Late Diagnosis",
-  "description": "Uncover the ADHD identity crisis after a late diagnosis. Explore self-blame, redefine your story, and embrace your neurodivergent self. Find acceptance and thrive!",
-  "image": "https://quirkylabs.com/og/adhd-identity-crisis-late-diagnosis.png",
+  "headline": "ADHD & 'Laziness': The Dopamine Dip Sabotaging Your Productivity (Debug It)",
+  "description": "Does starting tasks feel like scaling a wall? Faraone et al., 2021 proves dopamine dip blocks action. Neuro-Action Checklist.",
+  "image": "https://quirkylabs.com/og/adhd-identity-crisis-late-diagnosis-debug.png",
   "author": {
     "@type": "Organization",
     "name": "QuirkyLabs Research Team"
@@ -17,12 +17,12 @@
       "url": "https://quirkylabs.com/logo.png"
     }
   },
-  "datePublished": "2025-06-16",
-  "dateModified": "2025-06-16",
+  "datePublished": "2025-06-23",
+  "dateModified": "2025-06-23",
   "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://quirkylabs.com/adhd-identity-crisis-late-diagnosis"
   },
-   "keywords": "ADHD identity crisis, late diagnosis ADHD, adult ADHD emotional impact, undiagnosed ADHD self-blame, neurodivergent identity crisis, ADHD acceptance strategies, ADHD grief and loss, how to cope with late diagnosis ADHD, adult ADHD diagnosis impact, ADHD and self-esteem issues, ADHD masking, redefining self with ADHD, adult ADHD support, ADHD self-compassion"
+   "keywords": "why do ADHDers struggle with tasks, how to start tasks with ADHD, ADHD task paralysis, ADHD YNAB setup, ADHD motivation, dopamine dip motivation"
 }
 ```

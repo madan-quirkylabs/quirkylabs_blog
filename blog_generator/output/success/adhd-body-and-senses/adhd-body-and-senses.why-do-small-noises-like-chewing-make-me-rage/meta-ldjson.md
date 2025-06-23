@@ -2,9 +2,9 @@
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "ADHD & Misophonia: Taming Rage Triggers in a Noisy World (Neuro-Hacks for Professionals)",
-  "description": "Struggling with misophonia and ADHD? Discover why certain sounds trigger rage, how sensory overload impacts focus, and actionable neuro-hacks for professionals to reclaim calm & productivity.",
-  "image": "https://quirkylabs.com/og/adhd-body-and-senses.png",
+  "headline": "ADHD & Misophonia: Your Brain’s RSD hypervigilance in Overdrive (Debug It)",
+  "description": "Does that chewing sound feel like nails on a chalkboard? Bijlenga 2017 proves RSD hypervigilance triggers overwhelm. Neuro-Action Checklist.",
+  "image": "https://quirkylabs.com/og/adhd-misophonia-debug.png",
   "author": {
     "@type": "Organization",
     "name": "QuirkyLabs Research Team"
@@ -17,12 +17,12 @@
       "url": "https://quirkylabs.com/logo.png"
     }
   },
-  "datePublished": "2025-06-17",
-  "dateModified": "2025-06-17",
+  "datePublished": "2025-06-23",
+  "dateModified": "2025-06-23",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://quirkylabs.com/adhd-body-and-senses"
+    "@id": "https://quirkylabs.com/adhd-misophonia"
   },
-   "keywords": "ADHD misophonia, misophonia and ADHD, ADHD rage triggers, sound sensitivity ADHD, sensory overload ADHD, ADHD sensory processing difficulties, ADHD and work performance, how to cope with misophonia, managing ADHD at work, ADHD executive dysfunction, ADHD emotional regulation, ADHD digital distractions, digital dopamine traps ADHD"
+   "keywords": "why do ADHDers hate chewing sounds, how to cope with misophonia ADHD, ADHD sound sensitivity, ADHD RSD hypervigilance, misophonia and ADHD, ADHD sensory overload triggers"
 }
 ```

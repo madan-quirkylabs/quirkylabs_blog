@@ -2,9 +2,9 @@
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "ADHD vs. Boring Tasks: Why 'Real Life' Feels Unmotivating & How to Hack It",
-  "description": "Struggling to motivate yourself for mundane tasks? Discover why ADHD brains find 'real life' boring, the neurobiological reasons behind procrastination, and actionable hacks to unlock your focus and conquer task paralysis.",
-  "image": "https://quirkylabs.com/og/adhd-boring-tasks.png",
+  "headline": "Budget Procrastination Isn’t Laziness—It’s Your Dopamine Dip in Overdrive",
+  "description": "Does checking your bank account feel like touching a hot stove? Faraone et al., 2021 proves dopamine dip blocks action. Neuro-Action Checklist.",
+  "image": "https://quirkylabs.com/og/adhd-financial-chaos-debug.png",
   "author": {
     "@type": "Organization",
     "name": "QuirkyLabs Research Team"
@@ -17,12 +17,12 @@
       "url": "https://quirkylabs.com/logo.png"
     }
   },
-  "datePublished": "2025-06-21",
-  "dateModified": "2025-06-21",
+  "datePublished": "2025-06-23",
+  "dateModified": "2025-06-23",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://quirkylabs.com/why-is-real-life-so-boring-and-unmotivating"
+    "@id": "https://quirkylabs.com/adhd-financial-chaos"
   },
-   "keywords": "ADHD motivation hacks, ADHD procrastination solutions, ADHD executive dysfunction help, Why is real life so boring with ADHD, How to motivate ADHD brain, ADHD task initiation strategies, ADHD dopamine fix, ADHD interest based nervous system, executive function and boredom, ADHD and motivation, ADHD task paralysis, ADHD friendly productivity, neurodiversity, neurodivergent, adhd brain, adhd in adults, adhd life hacks, adhd boring tasks, adhd motivation, adhd productivity"
+   "keywords": "why do ADHDers struggle with budgeting, how to budget with ADHD, ADHD money shame, ADHD YNAB setup, financial planning ADHD, dopamine budgeting"
 }
 ```

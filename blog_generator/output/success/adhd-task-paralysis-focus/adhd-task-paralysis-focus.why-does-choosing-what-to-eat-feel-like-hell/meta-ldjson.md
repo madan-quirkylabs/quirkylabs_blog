@@ -2,9 +2,9 @@
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "ADHD Task Paralysis: Unfreeze Your Brain & Overcome 'Brain Freeze'",
-  "description": "Stuck in ADHD task paralysis? Discover the hidden reasons behind your brain freeze, from digital overwhelm to dopamine traps, and learn actionable strategies to unfreeze and finally get things done.",
-  "image": "https://quirkylabs.com/og/adhd-task-paralysis-focus.png",
+  "headline": "ADHD & Can't Decide What to Eat: Your Executive Dysfunction Loop",
+  "description": "Fridge feel like touching a hot stove? Cortese 2020 proves executive dysfunction blocks meal decisions. Neuro-Action Checklist.",
+  "image": "https://quirkylabs.com/og/adhd-bill-avoidance-debug.png",
   "author": {
     "@type": "Organization",
     "name": "QuirkyLabs Research Team"
@@ -17,12 +17,12 @@
       "url": "https://quirkylabs.com/logo.png"
     }
   },
-  "datePublished": "2025-06-16",
-  "dateModified": "2025-06-16",
+  "datePublished": "2025-06-23",
+  "dateModified": "2025-06-23",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://quirkylabs.com/adhd-task-paralysis-focus"
+    "@id": "https://quirkylabs.com/adhd-financial-chaos"
   },
-   "keywords": "ADHD task paralysis, how to overcome task paralysis ADHD, executive function exercises ADHD, ADHD productivity tips, ADHD focus strategies, ADHD digital distractions, ADHD overwhelm solutions, ADHD brain freeze, ADHD motivation hacks, ADHD digital dopamine traps, ADHD task initiation strategies, ADHD sensory overload solutions, ADHD decision fatigue, ADHD time blindness, ADHD anxiety and productivity, ADHD rejection sensitive dysphoria, ADHD RSD, ADHD emotional dysregulation, ADHD and procrastination"
+   "keywords": "why do ADHDers struggle with food, how to decide what to eat with ADHD, ADHD mealtime anxiety, ADHD YNAB setup, food trauma ADHD, executive dysfunction food"
 }
 ```

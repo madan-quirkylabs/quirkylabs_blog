@@ -2,9 +2,9 @@
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "ADHD Time Blindness & Lateness: Stop the Clock-Chasing Chaos",
-  "description": "Always late? ADHD time blindness makes punctuality a neuro-cognitive battle. Discover why your brain struggles with time and get actionable strategies to conquer lateness, reclaim control, and ditch the guilt.",
-  "image": "https://quirkylabs.com/og/adhd-time-blindness-lateness.png",
+  "headline": "ADHD & Chronic Lateness: Time Blindness Sabotaging Your Life (Debug It)",
+  "description": "Does time feel like a blur? Ptacek 2019 proves time blindness blocks punctuality. Neuro-Action Checklist.",
+  "image": "https://quirkylabs.com/og/adhd-chronic-lateness-debug.png",
   "author": {
     "@type": "Organization",
     "name": "QuirkyLabs Research Team"
@@ -17,12 +17,12 @@
       "url": "https://quirkylabs.com/logo.png"
     }
   },
-  "datePublished": "2025-06-16",
-  "dateModified": "2025-06-16",
+  "datePublished": "2025-06-23",
+  "dateModified": "2025-06-23",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://quirkylabs.com/adhd-time-warp-procrastination"
+    "@id": "https://quirkylabs.com/adhd-chronic-lateness"
   },
-   "keywords": "ADHD time blindness, ADHD lateness, ADHD time management, time blindness ADHD, ADHD procrastination, how to be on time with ADHD, ADHD punctuality, ADHD digital distraction, ADHD and time, ADHD symptoms, ADHD hacks, adult ADHD, time perception ADHD, ADHD brain, executive dysfunction, rejection sensitive dysphoria, ADHD shame, ADHD guilt, ADHD and anxiety, time management for ADHD"
+   "keywords": "why do ADHDers struggle with time, how to be on time with ADHD, ADHD time blindness, ADHD YNAB setup, time management ADHD, time blindness work"
 }
 ```

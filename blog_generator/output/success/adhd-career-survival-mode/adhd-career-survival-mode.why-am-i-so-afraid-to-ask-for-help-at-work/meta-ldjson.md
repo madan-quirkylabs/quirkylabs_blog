@@ -2,9 +2,9 @@
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "Afraid to Ask for Help at Work? How ADHD, Shame, and RSD Sabotage Your Career (and How to Fight Back)",
-  "description": "Do you freeze up when you need help at work? Explore the ADHD shame spiral, Rejection Sensitive Dysphoria (RSD), and fear of incompetence that sabotage your career. Learn neuro-affirming strategies to overcome communication barriers and thrive.",
-  "image": "https://quirkylabs.com/og/adhd-afraid-to-ask-for-help.png",
+  "headline": "ADHD & Asking for Help: Your Brain’s RSD Hypervigilance (Debug It)",
+  "description": "Does asking for help feel like walking on eggshells? Lenzi et al., 2020 proves RSD hypervigilance blocks support. Neuro-Action Checklist.",
+  "image": "https://quirkylabs.com/og/adhd-bill-avoidance-debug.png",
   "author": {
     "@type": "Organization",
     "name": "QuirkyLabs Research Team"
@@ -17,12 +17,12 @@
       "url": "https://quirkylabs.com/logo.png"
     }
   },
-  "datePublished": "2025-06-16",
-  "dateModified": "2025-06-16",
+  "datePublished": "2025-06-23",
+  "dateModified": "2025-06-23",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://quirkylabs.com/afraid-to-ask-for-help-at-work"
+    "@id": "https://quirkylabs.com/adhd-financial-chaos"
   },
-   "keywords": "ADHD afraid to ask for help, ADHD RSD and work, ADHD workplace shame, overcoming ADHD incompetence fear, ADHD career communication, ADHD and vulnerability, neurodiversity at work, ADHD masking, ADHD strategies for asking for help, ADHD career survival mode, ADHD executive dysfunction at work"
+   "keywords": "why do ADHDers struggle with asking for help, how to ask for help with ADHD at work, ADHD RSD shame, ADHD career support, fear of incompetence ADHD, RSD hypervigilance help"
 }
 ```

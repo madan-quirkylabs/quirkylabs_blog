@@ -2,9 +2,9 @@
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "ADHD & Imposter Syndrome: Stop Feeling Like a Fraud at Work",
-  "description": "Struggling with imposter syndrome as an ADHD professional? Learn why ADHD brains are prone to feeling like a fraud, and discover actionable, neuro-affirming strategies to silence the inner critic and embrace your unique strengths at work.",
-  "image": "https://quirkylabs.com/og/adhd-imposter-syndrome-work.png",
+  "headline": "ADHD & Imposter Syndrome: Your Brain's RSD Hypervigilance Sabotaging Your Career (Debug It)",
+  "description": "Does work success feel like a fluke? Lenzi et al., 2020 proves RSD hypervigilance fuels 'fraud' feelings. Neuro-Action Checklist.",
+  "image": "https://quirkylabs.com/og/adhd-imposter-syndrome-debug.png",
   "author": {
     "@type": "Organization",
     "name": "QuirkyLabs Research Team"
@@ -17,12 +17,12 @@
       "url": "https://quirkylabs.com/logo.png"
     }
   },
-  "datePublished": "2025-06-16",
-  "dateModified": "2025-06-16",
+  "datePublished": "2025-06-23",
+  "dateModified": "2025-06-23",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://quirkylabs.com/adhd-imposter-syndrome-work"
+    "@id": "https://quirkylabs.com/adhd-imposter-syndrome"
   },
-   "keywords": "ADHD imposter syndrome at work, feeling like a fraud ADHD, ADHD career success, ADHD self-doubt, managing imposter syndrome ADHD, ADHD masking at work, neurodiversity imposter syndrome, ADHD professional development, overcoming ADHD shame, ADHD strengths at work"
+   "keywords": "why do ADHDers struggle with imposter syndrome, how to overcome imposter syndrome with ADHD, ADHD work shame, ADHD career success, imposter syndrome neurodivergent, RSD hypervigilance career"
 }
 ```

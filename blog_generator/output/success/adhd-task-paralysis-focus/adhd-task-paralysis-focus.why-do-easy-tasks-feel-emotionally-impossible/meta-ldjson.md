@@ -2,9 +2,9 @@
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "ADHD & 'Easy' Tasks: Why Your Brain Freezes & How to Unfreeze",
-  "description": "Struggling with ADHD task paralysis on 'easy' tasks? Discover why your brain freezes, how emotional resistance takes over, and actionable strategies to overcome overwhelm and finally get things done.",
-  "image": "https://quirkylabs.com/og/adhd-task-paralysis-focus.png",
+  "headline": "ADHD & Emotional Resistance: Your Amygdala Freeze (Debug It)",
+  "description": "Does taking out the trash feel like touching a hot stove? Cortese 2020 proves amygdala freeze blocks action. Neuro-Action Checklist.",
+  "image": "https://quirkylabs.com/og/adhd-task-paralysis-focus-debug.png",
   "author": {
     "@type": "Organization",
     "name": "QuirkyLabs Research Team"
@@ -17,12 +17,12 @@
       "url": "https://quirkylabs.com/logo.png"
     }
   },
-  "datePublished": "2025-06-16",
-  "dateModified": "2025-06-16",
+  "datePublished": "2025-06-23",
+  "dateModified": "2025-06-23",
   "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://quirkylabs.com/adhd-task-paralysis-focus"
   },
-   "keywords": "ADHD task paralysis, easy tasks hard ADHD, ADHD procrastination, ADHD overwhelm, ADHD emotional regulation, ADHD executive dysfunction, ADHD motivation, ADHD brain freeze, ADHD task avoidance, ADHD shame, ADHD self-criticism, ADHD digital distraction, ADHD focus, Rejection Sensitive Dysphoria ADHD, ADHD burnout, ADHD time blindness, how to overcome ADHD task paralysis, ADHD productivity tips, adhd and getting started, adhd freezing"
+   "keywords": "why do ADHDers struggle with tasks, how to start tasks with ADHD, ADHD executive dysfunction loop, ADHD paralysis simple tasks reddit, emotional trauma ADHD, ADHD YNAB setup"
 }
 ```

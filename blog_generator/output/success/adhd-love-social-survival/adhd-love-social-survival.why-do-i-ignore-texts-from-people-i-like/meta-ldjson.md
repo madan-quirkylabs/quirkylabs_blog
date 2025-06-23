@@ -2,9 +2,9 @@
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "ADHD & 'Involuntary Ghosting': Why You Ignore Texts (and How to Stop Feeling Guilty)",
-  "description": "Do you have ADHD and struggle to reply to texts, even from people you care about? Learn the neurobiological reasons behind 'involuntary ghosting,' break the shame cycle, and discover actionable hacks to improve communication and relationships.",
-  "image": "https://quirkylabs.com/og/adhd-involuntary-ghosting.png",
+  "headline": "ADHD & Involuntary Ghosting: Your Brain's Executive Dysfunction Loop (Debug It)",
+  "description": "Does ignoring texts feel like you're trapped in quicksand? Faraone et al., 2021 proves executive dysfunction loop fuels avoidance. Neuro-Action Checklist.",
+  "image": "https://quirkylabs.com/og/adhd-bill-avoidance-debug.png",
   "author": {
     "@type": "Organization",
     "name": "QuirkyLabs Research Team"
@@ -17,12 +17,12 @@
       "url": "https://quirkylabs.com/logo.png"
     }
   },
-  "datePublished": "2025-06-16",
-  "dateModified": "2025-06-16",
+  "datePublished": "2025-06-23",
+  "dateModified": "2025-06-23",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://quirkylabs.com/adhd-involuntary-ghosting"
+    "@id": "https://quirkylabs.com/adhd-financial-chaos"
   },
-   "keywords": "ADHD relationships, ADHD communication, ADHD texting, ADHD ghosting, involuntary ghosting, ADHD and relationships, ADHD social skills, RSD and ADHD, executive dysfunction and relationships, why do I ignore texts ADHD, ADHD relationship advice, ADHD and friendships, ADHD guilt and shame, ADHD relationship problems"
+   "keywords": "why do ADHDers struggle with texting, how to reply to texts with ADHD, ADHD texting shame, ADHD phone addiction, executive dysfunction texting, ADHD and phone addiction"
 }
 ```

@@ -2,9 +2,9 @@
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "Sensory Overload in Public with ADHD? Reclaim Your Calm with Neuro-Hacks",
-  "description": "Struggling with sensory overload in public spaces due to ADHD? Learn practical strategies to manage triggers, reduce anxiety, and reclaim your focus with our neuro-affirming guide.",
-  "image": "https://quirkylabs.com/og/adhd-sensory-overload-public.png",
+  "headline": "ADHD & Sensory Overload: Your Brain’s Amygdala Freeze (Debug It)",
+  "description": "Grocery store feel like touching a hot stove? Bijlenga 2017 proves amygdala freeze causes shutdown. Neuro-Action Checklist.",
+  "image": "https://quirkylabs.com/og/adhd-sensory-overload-debug.png",
   "author": {
     "@type": "Organization",
     "name": "QuirkyLabs Research Team"
@@ -17,12 +17,12 @@
       "url": "https://quirkylabs.com/logo.png"
     }
   },
-  "datePublished": "2025-06-17",
-  "dateModified": "2025-06-17",
+  "datePublished": "2025-06-23",
+  "dateModified": "2025-06-23",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://quirkylabs.com/adhd-body-and-senses"
+    "@id": "https://quirkylabs.com/adhd-sensory-overload"
   },
-   "keywords": "ADHD sensory overload in public, sensory processing ADHD, ADHD anxiety and sensory input, coping with ADHD sensory overload, ADHD urban environment, sensory regulation for ADHD, ADHD and public spaces, misophonia and ADHD, ADHD overwhelm, neurodiversity sensory issues"
+   "keywords": "why do ADHDers struggle with sensory overload, how to cope with sensory overload with ADHD, ADHD sensory YNAB setup, sensory hell ADHD, ADHD sensory processing disorder, amygdala freeze sensory overload"
 }
 ```

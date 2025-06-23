@@ -2,9 +2,9 @@
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "Task Paralysis? Unfreeze Your ADHD Brain: Proven Strategies for Focus & Action",
-  "description": "Is ADHD task paralysis holding you back? Learn why your brain freezes, discover actionable tips to overcome overwhelm, and reclaim your productivity. Beat procrastination & unlock your potential!",
-  "image": "https://quirkylabs.com/og/adhd-task-paralysis-focus.png",
+  "headline": "ADHD & Switching Tasks: Your Executive Dysfunction Loop (Debug It)",
+  "description": "Is changing tasks like hitting a brick wall? Alderson et al., 2013 proves executive dysfunction blocks smooth transitions. Get a Neuro-Action Checklist.",
+  "image": "https://quirkylabs.com/og/adhd-task-paralysis-focus-debug.png",
   "author": {
     "@type": "Organization",
     "name": "QuirkyLabs Research Team"
@@ -17,12 +17,12 @@
       "url": "https://quirkylabs.com/logo.png"
     }
   },
-  "datePublished": "2025-06-16",
-  "dateModified": "2025-06-16",
+  "datePublished": "2025-06-23",
+  "dateModified": "2025-06-23",
   "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://quirkylabs.com/adhd-task-paralysis-focus"
   },
-   "keywords": "ADHD task paralysis, task paralysis, adhd procrastination, executive dysfunction ADHD, how to overcome task paralysis ADHD, ADHD focus tips, ADHD motivation strategies, ADHD overwhelm solutions, ADHD productivity, ADHD executive function help, ADHD brain freeze fix, ADHD digital task paralysis, ADHD digital overwhelm solutions, ADHD Rejection Sensitive Dysphoria, ADHD dopamine and motivation, Digital dopamine traps and ADHD, ADHD monotasking tips, ADHD task initiation"
+   "keywords": "why do ADHDers struggle with focus, how to focus with ADHD, ADHD YNAB setup, ADHD task paralysis, executive dysfunction ADHD, ADHD executive dysfunction loop"
 }
 ```

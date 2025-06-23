@@ -2,9 +2,9 @@
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "ADHD Exercise: Beat Task Paralysis & Digital Distractions [Neuro-Hacks]",
-  "description": "Struggling to start exercising with ADHD? Discover neuro-affirming strategies to overcome task paralysis, digital dopamine traps, and sensory overwhelm. Reclaim your focus and body with these actionable tips!",
-  "image": "https://quirkylabs.com/og/adhd-exercise-task-paralysis.png",
+  "headline": "ADHD & Exercise Dread: Your Dopamine Dip Sabotaging Workouts (Debug It)",
+  "description": "Does thinking about exercise feel like touching a hot stove? Volkow 2009 proves dopamine dip blocks action. Neuro-Action Checklist.",
+  "image": "https://quirkylabs.com/og/adhd-exercise-dread-debug.png",
   "author": {
     "@type": "Organization",
     "name": "QuirkyLabs Research Team"
@@ -17,12 +17,12 @@
       "url": "https://quirkylabs.com/logo.png"
     }
   },
-  "datePublished": "2024-11-16",
-  "dateModified": "2024-11-16",
+  "datePublished": "2025-06-23",
+  "dateModified": "2025-06-23",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://quirkylabs.com/adhd-exercise-beat-task-paralysis-digital-distractions-neuro-hacks"
+    "@id": "https://quirkylabs.com/adhd-exercise-dread"
   },
-   "keywords": ["ADHD exercise", "task paralysis", "digital dopamine traps", "sensory overload", "executive dysfunction", "ADHD motivation hacks", "exercise for ADHD", "ADHD workout routine", "neurodiversity", "ADHD and fitness", "ADHD and digital distractions", "how to start exercising with ADHD", "ADHD and sensory processing", "overcoming ADHD task paralysis", "ADHD exercise tips", "ADHD digital detox", "ADHD workout", "ADHD and motivation", "exercise for neurodivergent adults"]
+   "keywords": "why do ADHDers struggle with exercise, how to start exercising with ADHD, ADHD exercise shame, ADHD YNAB setup, exercise trauma ADHD, dopamine dip workout"
 }
 ```

@@ -2,9 +2,9 @@
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "ADHD Body & Senses: Reclaim Focus from Digital Dopamine Traps & Sensory Overload",
-  "description": "Struggling with ADHD self-care, hygiene, nutrition, or sensory overload in a digital world? Discover neuro-affirming strategies to manage digital distractions, sensory sensitivities, and finally reclaim your body and focus.",
-  "image": "https://quirkylabs.com/og/adhd-body-and-senses.png",
+  "headline": "ADHD & Personal Upkeep: Your Executive Dysfunction Loop (Debug It)",
+  "description": "Bank account feel like touching a hot stove? Can 2020 proves executive dysfunction loop blocks upkeep. Neuro-Action Checklist.",
+  "image": "https://quirkylabs.com/og/adhd-personal-upkeep-debug.png",
   "author": {
     "@type": "Organization",
     "name": "QuirkyLabs Research Team"
@@ -17,12 +17,12 @@
       "url": "https://quirkylabs.com/logo.png"
     }
   },
-  "datePublished": "2025-06-16",
-  "dateModified": "2025-06-16",
+  "datePublished": "2025-06-23",
+  "dateModified": "2025-06-23",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://quirkylabs.com/adhd-body-and-senses"
+    "@id": "https://quirkylabs.com/adhd-personal-upkeep"
   },
-   "keywords": "ADHD self-care, ADHD hygiene, ADHD nutrition, ADHD exercise, ADHD sensory issues, ADHD misophonia, ADHD technology, ADHD digital dopamine traps, ADHD executive dysfunction hygiene, ADHD sensory overload coping, ADHD time blindness self-care, ADHD task paralysis hygiene, ADHD interoception hunger cues, ADHD sensory processing disorder symptoms, ADHD digital detox strategies, ADHD self-care for professionals, ADHD self-care women, ADHD shame self-care, ADHD overwhelm strategies, how to shower with ADHD, ADHD sensory friendly office, ADHD forget to eat, ADHD phone addiction"
+   "keywords": "why do ADHDers struggle with hygiene, how to shower with ADHD, ADHD hygiene shame, ADHD hygiene routine, executive dysfunction hygiene hacks, ADHD shower tips"
 }
 ```

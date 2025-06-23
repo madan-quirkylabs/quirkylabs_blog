@@ -2,9 +2,9 @@
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "ADHD Morning Dread: Why Waking Up Feels Physically Painful & How to Hack It",
-  "description": "Is waking up pure torture? Discover why ADHD brains struggle with morning dread, often experiencing it as physical pain. Learn actionable, science-backed hacks to gently recalibrate your circadian rhythm and reclaim your mornings.",
-  "image": "https://quirkylabs.com/og/adhd-morning-dread.png",
+  "headline": "ADHD & Morning Dread: The Dopamine Dip Sabotaging Your Wake-Up (Debug It)",
+  "description": "Does waking up feel like a physical battle? Faraone et al., 2015 proves dopamine dip blocks morning initiation. Get your Neuro-Action Checklist.",
+  "image": "https://quirkylabs.com/og/adhd-morning-dread-debug.png",
   "author": {
     "@type": "Organization",
     "name": "QuirkyLabs Research Team"
@@ -17,12 +17,12 @@
       "url": "https://quirkylabs.com/logo.png"
     }
   },
-  "datePublished": "2025-06-16",
-  "dateModified": "2025-06-16",
+  "datePublished": "2025-06-23",
+  "dateModified": "2025-06-23",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://quirkylabs.com/adhd-morning-dread-solutions"
+    "@id": "https://quirkylabs.com/adhd-sleep-deprivation-burnout-cluster"
   },
-   "keywords": "ADHD morning dread, ADHD waking up, ADHD sleep, ADHD fatigue, ADHD exhaustion, ADHD burnout, Delayed Sleep Phase Syndrome (DSPS), ADHD circadian rhythm, ADHD sleep problems, ADHD tired but wired, ADHD hypersensitivity, ADHD pain, improve ADHD sleep, ADHD morning routine hacks"
+   "keywords": "why do ADHDers struggle to wake up, how to wake up with ADHD, ADHD morning fatigue, ADHD sleep aids review, dopamine dip ADHD, ADHD alarm clock"
 }
 ```

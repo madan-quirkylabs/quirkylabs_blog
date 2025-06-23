@@ -2,9 +2,9 @@
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "Email Overwhelm Got You Down? ADHD & the Inbox Struggle is Real (and Fixable!)",
-  "description": "Is your ADHD brain paralyzed by an overflowing inbox? Discover why email feels impossible, the neurobiological reasons behind the overwhelm, and actionable strategies to conquer digital chaos.",
-  "image": "https://quirkylabs.com/og/adhd-career-survival-mode.png",
+  "headline": "ADHD & Email Overload: Your Executive Dysfunction Loop (Debug It)",
+  "description": "Inbox feel like touching a hot stove? Faraone et al., 2021 proves executive dysfunction loop blocks action. Neuro-Action Checklist.",
+  "image": "https://quirkylabs.com/og/adhd-email-overload-debug.png",
   "author": {
     "@type": "Organization",
     "name": "QuirkyLabs Research Team"
@@ -17,12 +17,12 @@
       "url": "https://quirkylabs.com/logo.png"
     }
   },
-  "datePublished": "2025-06-16",
-  "dateModified": "2025-06-16",
+  "datePublished": "2025-06-23",
+  "dateModified": "2025-06-23",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://quirkylabs.com/adhd-career-survival-mode"
+    "@id": "https://quirkylabs.com/adhd-financial-chaos"
   },
-   "keywords": "ADHD email anxiety, ADHD inbox overwhelm, how to manage email with ADHD, ADHD and task paralysis, executive function and email, sensory overload and digital clutter, ADHD work productivity, ADHD career challenges, neurodivergent productivity, ADHD friendly email strategies"
+ "keywords": "why do ADHDers struggle with email, how to manage email with ADHD, ADHD inbox overwhelm, ADHD email management, email anxiety ADHD, executive dysfunction loop email"
 }
 ```

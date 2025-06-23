@@ -2,9 +2,9 @@
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "ADHD & the Grief of 'What Could Have Been': Reclaiming Your Story After a Late Diagnosis",
-  "description": "Struggling with the emotional fallout of a late ADHD diagnosis? Discover why you're grieving a 'life unlived,' how to process the pain, and reclaim your narrative with neuro-affirming strategies.",
-  "image": "https://quirkylabs.com/og/adhd-grief-of-what-could-have-been.png",
+  "headline": "ADHD & 'Life Unlived': Your Brain's Executive Dysfunction Loop (Debug It)",
+  "description": "Does reflecting on your past feel like a punch in the gut? Bramer 2016 proves executive dysfunction loop fuels grief. Neuro-Action Checklist.",
+  "image": "https://quirkylabs.com/og/adhd-identity-crisis-late-diagnosis-debug.png",
   "author": {
     "@type": "Organization",
     "name": "QuirkyLabs Research Team"
@@ -17,12 +17,12 @@
       "url": "https://quirkylabs.com/logo.png"
     }
   },
-  "datePublished": "2025-06-16",
-  "dateModified": "2025-06-16",
+  "datePublished": "2025-06-23",
+  "dateModified": "2025-06-23",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://quirkylabs.com/adhd-grief-of-what-could-have-been"
+    "@id": "https://quirkylabs.com/adhd-identity-crisis-late-diagnosis"
   },
-   "keywords": "ADHD grief, ADHD late diagnosis emotional impact, ADHD missed potential, ADHD identity crisis, ADHD self-compassion, ADHD acceptance, ADHD emotional processing, neurodivergent grief, coping with ADHD diagnosis, emotional regulation for ADHD adults, adhd life unlived, adhd diagnosis grief stages, adhd shame after diagnosis, adhd and regret, adhd self blame, adhd what if, adhd reframe your narrative, adhd neuro-affirming strategies"
+   "keywords": "why do ADHDers grieve late diagnosis, how to accept ADHD diagnosis, ADHD missed potential, ADHD YNAB setup, executive dysfunction grief, ADHD self-compassion"
 }
 ```

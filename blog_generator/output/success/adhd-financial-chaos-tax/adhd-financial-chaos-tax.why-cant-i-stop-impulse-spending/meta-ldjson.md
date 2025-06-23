@@ -2,9 +2,9 @@
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "ADHD & Money Dysregulation: Stop Impulse Spending & Financial Chaos",
-  "description": "Is ADHD sabotaging your finances? Learn why impulse buys, late fees, and financial overwhelm are *not* your fault! Discover ADHD-friendly strategies to escape the shame spiral and finally manage your money.",
-  "image": "https://quirkylabs.com/og/adhd-financial-chaos.png",
+  "headline": "ADHD & Impulse Spending: Your Brain’s Dopamine Dip (Debug It)",
+  "description": "Does a 'deal' feel like a dopamine rush? Lenzi et al., 2021 proves dopamine dip causes impulse buys. Get your Neuro-Action Checklist.",
+  "image": "https://quirkylabs.com/og/adhd-bill-avoidance-debug.png",
   "author": {
     "@type": "Organization",
     "name": "QuirkyLabs Research Team"
@@ -17,12 +17,12 @@
       "url": "https://quirkylabs.com/logo.png"
     }
   },
-  "datePublished": "2025-06-16",
-  "dateModified": "2025-06-16",
+  "datePublished": "2025-06-23",
+  "dateModified": "2025-06-23",
   "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://quirkylabs.com/adhd-financial-chaos"
   },
-   "keywords": "ADHD money problems, ADHD financial management, adult ADHD finance, ADHD budgeting, ADHD debt, how to manage money with ADHD, ADHD impulse spending, ADHD late fees, saving money with ADHD, financial planning ADHD, dopamine and spending, executive function and money, time blindness and bills, ADHD shame and money, financial overwhelm ADHD, ADHD tax, money paralysis ADHD, impulse spending ADHD"
+   "keywords": "why do ADHDers struggle with money, how to budget with ADHD, ADHD money shame, ADHD YNAB setup, financial impulsivity ADHD, ADHD dopamine dip spending"
 }
 ```

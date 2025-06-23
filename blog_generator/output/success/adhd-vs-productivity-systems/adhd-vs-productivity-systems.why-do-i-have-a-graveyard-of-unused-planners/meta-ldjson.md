@@ -2,9 +2,9 @@
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "ADHD vs. Productivity Systems: Why You Keep Crashing (and How to Finally Win)",
-  "description": "Tired of ADHD productivity systems failing? Discover why conventional methods crash and burn, and unlock brain-based strategies for digital focus and lasting success. End digital overwhelm now!",
-  "image": "https://quirkylabs.com/og/adhd-vs-productivity-systems.png",
+  "headline": "ADHD & Planner Abandonment: Your Brain’s Dopamine Dip (Debug It)",
+  "description": "Does a new planner feel like a hit of dopamine? Faraone et al., 2021 proves dopamine dip sabotages follow-through. Neuro-Action Checklist.",
+  "image": "https://quirkylabs.com/og/adhd-productivity-systems-debug.png",
   "author": {
     "@type": "Organization",
     "name": "QuirkyLabs Research Team"
@@ -17,12 +17,12 @@
       "url": "https://quirkylabs.com/logo.png"
     }
   },
-  "datePublished": "2025-06-16",
-  "dateModified": "2025-06-16",
+  "datePublished": "2025-06-23",
+  "dateModified": "2025-06-23",
   "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://quirkylabs.com/adhd-vs-productivity-systems"
   },
-   "keywords": "ADHD productivity, ADHD time management, digital distraction, executive function, dopamine, technology, focus, overwhelm, procrastination, task initiation, digital addiction, ADHD brain, ADHD focus, productivity systems, time management tips, manage ADHD with tech, ADHD digital detox, ADHD brain hacks, ADHD and productivity systems"
+   "keywords": "why do ADHDers struggle with systems, how to stick to a planner with ADHD, ADHD YNAB setup, ADHD planner system, time blindness, dopamine dip productivity"
 }
 ```

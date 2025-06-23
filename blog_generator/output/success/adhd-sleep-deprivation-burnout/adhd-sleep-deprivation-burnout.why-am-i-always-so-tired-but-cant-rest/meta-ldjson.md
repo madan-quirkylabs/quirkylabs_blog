@@ -2,9 +2,9 @@
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "Tired But Wired: How to Shut Down Your Racing ADHD Brain for Sleep",
-  "description": "Exhausted but can't sleep? Discover why your ADHD brain feels 'tired but wired' and learn actionable, neuro-affirming strategies to quiet the mental noise, manage sensory overload, and finally get restorative rest. Break the ADHD burnout cycle now!",
-  "image": "https://quirkylabs.com/og/adhd-tired-but-wired.png",
+  "headline": "ADHD Sleep Sabotage: Why Your Brain Fights Rest & Fuels Burnout",
+  "description": "Does your brain run a 24/7 podcast at night? Ryckman 2020 shows dopamine dip blocks sleep. Get Neuro-Action Checklist.",
+  "image": "https://quirkylabs.com/og/adhd-sleep-deprivation-burnout-cluster-debug.png",
   "author": {
     "@type": "Organization",
     "name": "QuirkyLabs Research Team"
@@ -17,12 +17,12 @@
       "url": "https://quirkylabs.com/logo.png"
     }
   },
-  "datePublished": "2025-06-16",
-  "dateModified": "2025-06-16",
+  "datePublished": "2025-06-23",
+  "dateModified": "2025-06-23",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://quirkylabs.com/tired-but-wired-how-to-shut-down-your-racing-adhd-brain-for-sleep"
+    "@id": "https://quirkylabs.com/adhd-sleep-deprivation-burnout-cluster"
   },
-   "keywords": "tired but wired ADHD, ADHD sleep, ADHD insomnia, ADHD racing thoughts, ADHD sensory overload sleep, ADHD burnout, ADHD exhaustion, how to fall asleep with ADHD, ADHD sleep tips, ADHD sleep routine, revenge bedtime procrastination ADHD, ADHD Default Mode Network sleep, ADHD sleep deprivation, ADHD chronic fatigue"
+   "keywords": "why do ADHDers struggle with sleep, how to rest with ADHD, ADHD sleep routine, ADHD burnout cycle, dopamine dip sleep, ADHD sleep aids"
 }
 ```
