@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "ADHD & Forgotten Meals: The Interoception Disconnect Sabotaging Your Energy (And How to Debug It)"
-description: "Hours vanish mid-hyperfocus? Blame your brain's interoception—it's MIA (Zickgraf et al., 2020). Reboot your brain's hunger OS with neuro-hacks; no willpower needed."
-slug: "adhd-body-and-senses.nutrition-hygiene-and-sensory-overload.neuro-disconnect-hunger-signals"
+title: "ADHD & Forgotten Meals: The Interoception Disconnect Sabotaging Your Focus (And How to Debug It)"
+description: "Opening your fridge = staring into the abyss? Zickgraf et al. (2020) show ADHD brains miss hunger cues! Rewire your brain's Interoception OS with a Neuro-Action Checklist."
+slug: "adhd-body-and-senses"
 author: "Madan | QuirkyLabs"
 date: "2025-06-23"
 type: "page"
-categories: ["ADHD Emotional Regulation", "ADHD at Work", "Self-Compassion"]
-tags: ["RSD", "emotional dysregulation", "self-worth", "people-pleasing ADHD", "neurodivergent communication", "assertiveness"]
-keywords: ["adhd over apologizing", "adhd rsd and assertiveness", "why do I say sorry so much adhd", "adhd people pleasing", "adhd and rejection sensitivity", "stop over-apologizing neurodivergent"]
-og_image: "/og/adhd-over-apologizing-debug.png"
-og_title: "ADHD & Forgotten Meals: Your Brain's Hunger Glitch"
-og_description: "Hyperfocus hijacking your hunger cues? It's not you—it's an interoception wiring bug. Here's the debug protocol."
+categories: ["ADHD Emotional Regulation", "ADHD at Work", "Executive Dysfunction"]
+tags: ["Interoception", "Hyperfocus", "Forgotten Meals", "Food", "Nutrition", "ADHD"]
+keywords: ["ADHD forgetting to eat", "ADHD hyperfocus nutrition", "ADHD hunger cues", "interoception ADHD", "executive dysfunction nutrition", "ADHD and food"]
+og_image: "/og/adhd-forgotten-meals-debug.png"
+og_title: "ADHD & Forgotten Meals"
+og_description: "Interoception disconnect? Rewire your brain's hunger OS for focus."
 ---
 ```

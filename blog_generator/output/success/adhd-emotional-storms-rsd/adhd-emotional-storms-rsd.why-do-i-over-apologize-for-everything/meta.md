@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "ADHD & Compulsive Apologizing: The RSD Hypervigilance Sabotaging Your Self-Worth (And How to Debug It)"
-description: "3-para apology for being 2 mins late? It's RSD's 'perceived disapproval threat' (Dodson 2019). Rewire your brain’s apology OS with neuro-hacks—no willpower needed."
-slug: "adhd-emotional-storms-rsd.why-do-i-over-apologize-for-everything"
+title: "ADHD & Over-Apologizing: The RSD Hypervigilance Sabotaging You (And How to Debug It)"
+description: "Sent a 3-paragraph email for being 2 min late?! Dodson (2019) says it's RSD. Rewire your brain's social anxiety OS with a Neuro-Action Checklist"
+slug: "adhd-emotional-storms-rsd"
 author: "Madan | QuirkyLabs"
 date: "2025-06-23"
 type: "page"
-categories: ["ADHD Emotional Regulation", "Rejection Sensitivity", "ADHD at Work"]
-tags: ["RSD", "compulsive apologizing", "people-pleasing ADHD", "emotional dysregulation", "assertiveness", "self-worth"]
-keywords: ["adhd over apologizing", "adhd rsd and self-worth", "why do I say sorry so much adhd", "adhd people pleasing", "adhd and rejection sensitivity", "stop over-apologizing neurodivergent"]
+categories: ["ADHD Emotional Regulation", "Rejection Sensitivity", "Self-Compassion"]
+tags: ["RSD", "over-apologizing", "social anxiety", "people-pleasing", "avoidance behavior", "self-compassion"]
+keywords: ["why do i over-apologize with adhd", "compulsive apologizing ADHD", "ADHD fear of disapproval", "ADHD people pleasing RSD", "rejection sensitive dysphoria", "how to stop saying sorry adhd reddit"]
 og_image: "/og/adhd-over-apologizing-debug.png"
-og_title: "ADHD & Over-Apologizing: Your Brain's RSD Glitch"
-og_description: "Compulsive 'sorrys' hijacking your self-worth? It's not you—it's an RSD wiring bug. Debug your apology OS."
+og_title: "ADHD & Over-Apologizing"
+og_description: "RSD hypervigilance got you? Debug your brain's apology loop with our Neuro-Action Checklist"
 ---
 ```

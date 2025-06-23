@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "ADHD & Body Doubling: The Fronto-Striatal Scaffolding Sabotaging Your Solo Productivity (And How to Debug It)"
-description: "Can't work alone? 'Voice in my ear blocks the voice in my head.' Blame ADHD's dopamine deficit (Volkow et al., 2011). Rewire your brain’s solo OS with virtual body doubling."
-slug: "adhd-vs-productivity-systems.body-doubling-adhd"
+title: "ADHD & Body Doubling: The Social Facilitation Sabotaging Your Solo Work (Debug It)"
+description: "Solo work = 'task paralysis'? Dodson 2019 shows external presence boosts ADHD focus. Rewire your brain's motivation OS with a Neuro-Action Checklist!"
+slug: "adhd-body-doubling-social-facilitation"
 author: "Madan | QuirkyLabs"
 date: "2025-06-23"
 type: "page"
-categories: ["ADHD Emotional Regulation", "ADHD at Work", "Self-Compassion"]
-tags: ["RSD", "people-pleasing ADHD", "emotional dysregulation", "self-worth", "neurodivergent communication", "assertiveness"]
-keywords: ["adhd body doubling", "adhd productivity hacks", "adhd and rejection sensitivity", "adhd dopamine deficit", "adhd and assertiveness", "adhd virtual body doubling"]
-og_image: "/og/adhd-body-doubling-debug.png"
-og_title: "ADHD & Body Doubling: The Secret to Unlocking Solo Focus"
-og_description: "Struggling to work alone? It’s not you—it’s your ADHD brain needing social scaffolding. Discover the power of body doubling."
+categories: ["ADHD Productivity", "Executive Dysfunction", "ADHD at Work"]
+tags: ["body doubling", "social facilitation", "task initiation", "ADHD paralysis", "accountability", "remote work ADHD"]
+keywords: ["body doubling ADHD", "ADHD task paralysis", "work alone with ADHD", "social facilitation ADHD", "accountability partner ADHD", "remote work ADHD tips"]
+og_image: "/og/adhd-task-paralysis-debug.png"
+og_title: "ADHD & Body Doubling"
+og_description: "External presence boosts focus! Debug ADHD task paralysis with social facilitation."
 ---
 ```

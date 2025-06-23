@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "ADHD & Waiting Mode Paralysis: The 'Now vs. Not Now' Time Warp Sabotaging Your Day (And How to Debug It)"
-description: "Brain stuck in 'waiting room' for an appt hours away? Blame ADHD's time perception glitch (Ptacek et al., 2019). Rewire your 'waiting warp' OS with micro-wins!"
-slug: "adhd-time-warp-procrastination.the-neuro-cognitive-paralysis-of-waiting-mode"
+title: "ADHD & Waiting Mode: The 'Temporal Discounting' Sabotaging Your Focus (And How to Debug It)"
+description: "Stuck in 'waiting mode' before appointments? 😩 Dodson says RSD amplifies ADHD paralysis. Rewire your brain's 'time warp' OS with a Neuro-Action Checklist!"
+slug: "adhd-waiting-mode-paralysis"
 author: "Madan | QuirkyLabs"
 date: "2025-06-23"
 type: "page"
-categories: ["ADHD Emotional Regulation", "ADHD at Work", "Self-Compassion"]
-tags: ["RSD", "emotional dysregulation", "neurodivergent communication", "compulsive apologizing", "people-pleasing ADHD", "self-worth"]
-keywords: ["adhd over apologizing", "adhd rsd and assertiveness", "why do I say sorry so much adhd", "adhd people pleasing", "adhd and rejection sensitivity", "adhd pre appointment paralysis"]
-og_image: "/og/adhd-over-apologizing-debug.png"
-og_title: "ADHD Waiting Mode: Your Brain's Time Perception Glitch"
-og_description: "Brain stuck in 'waiting room'? It's not you—it's a time-perception wiring bug. The fix: micro-wins that rewire focus."
+categories: ["ADHD Productivity", "Executive Dysfunction", "ADHD Emotional Regulation"]
+tags: ["time blindness", "procrastination", "digital distraction", "executive dysfunction", "ADHD", "waiting mode"]
+keywords: ["ADHD time blindness", "ADHD procrastination", "waiting mode ADHD", "ADHD digital distraction", "ADHD focus apps", "how to stop procrastinating ADHD"]
+og_image: "/og/adhd-waiting-mode-paralysis-debug.png"
+og_title: "ADHD Time Warp Debug"
+og_description: "Temporal Discounting + Focus Tools"
 ---
 ```

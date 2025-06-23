@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "ADHD & Impulse Spending: Why Your Brain Sabotages Your Budget (It's Not Your Fault)"
-description: "Desperate for a dopamine hit? That 'add to cart' button is your brain's reward system in overdrive (Knutson et al., 2001). Debug impulse buys with a neural OS upgrade."
-slug: "adhd-financial-chaos.impulse-spending-brain-hijack"
+title: "ADHD & Impulse Spending: The Dopamine Dip Sabotaging Your Bank (And How to Debug It)"
+description: "Opening that bank statement = physical assault? It's not you, it's your brain! (Knutson, 2001). Rewire your brain's Dopamine OS with a Neuro-Action Checklist"
+slug: "adhd-financial-chaos"
 author: "Madan | QuirkyLabs"
 date: "2025-06-23"
 type: "page"
-categories: ["ADHD Emotional Regulation", "ADHD at Work", "Self-Compassion"]
-tags: ["RSD", "emotional dysregulation", "self-worth", "neurodivergent communication", "people-pleasing ADHD", "compulsive apologizing"]
-keywords: ["adhd over apologizing", "adhd rsd and assertiveness", "why do I say sorry so much adhd", "adhd people pleasing", "adhd and rejection sensitivity", "stop over-apologizing neurodivergent"]
-og_image: "/og/adhd-over-apologizing-debug.png"
-og_title: "ADHD & Impulse Spending: Your Brain's Reward Glitch"
-og_description: "Impulse buys hijacking your bank account? It's not you—it's a dopamine wiring bug. Here's the debug protocol."
+categories: ["ADHD Emotional Regulation", "ADHD and Money", "Executive Dysfunction"]
+tags: ["impulse spending", "dopamine", "financial anxiety", "debt", "shame", "avoidance behavior"]
+keywords: ["ADHD impulse spending", "how to stop ADHD impulse spending", "ADHD and money", "ADHD financial management", "dopamine dysregulation impulse spending", "ADHD debt"]
+og_image: "/og/adhd-impulse-spending-debug.png"
+og_title: "ADHD & Impulse: Debug It"
+og_description: "Dopamine dips got you spending? Rewire your brain for financial peace with a simple Neuro-Action Checklist."
 ---
 ```

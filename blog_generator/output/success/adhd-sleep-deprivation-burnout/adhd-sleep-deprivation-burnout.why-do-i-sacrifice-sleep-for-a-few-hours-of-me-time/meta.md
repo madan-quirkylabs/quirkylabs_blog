@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "ADHD & Revenge Bedtime Procrastination: The Autonomy Deprivation Sabotaging Your Rest (And How to Debug It)"
-description: "Struggling to stop scrolling at 2 AM? It's not laziness! You crave control (Ma et al., 2020). Rewire your brain's autonomy OS with guilt-free 'me time' neuro-hacks."
-slug: "adhd-sleep-deprivation-burnout-cluster.revenge-bedtime-procrastination"
+title: "ADHD & Revenge Bedtime Procrastination: Dopamine Dip Debugging Your Sleepless Nights"
+description: "Sacrificing sleep for 'me time'? Dodson (2017) says RSD might be the culprit. Rewire your brain's Dopamine OS with a Neuro-Action Checklist!"
+slug: "adhd-revenge-bedtime-procrastination"
 author: "Madan | QuirkyLabs"
 date: "2025-06-23"
 type: "page"
-categories: ["ADHD Emotional Regulation", "Rejection Sensitivity", "ADHD at Work"]
-tags: ["RSD", "compulsive apologizing", "people-pleasing ADHD", "emotional dysregulation", "assertiveness", "self-worth"]
-keywords: ["adhd over apologizing", "adhd rsd and assertiveness", "why do I say sorry so much adhd", "adhd people pleasing", "adhd and rejection sensitivity", "stop over-apologizing neurodivergent"]
-og_image: "/og/adhd-over-apologizing-debug.png"
-og_title: "ADHD & Sleep Procrastination: The Autonomy Bug"
-og_description: "Sacrificing sleep for 'me time'? It's not you—it's an autonomy wiring glitch. Here's the debug protocol for ADHD brains."
+categories: ["ADHD Emotional Regulation", "Executive Dysfunction", "ADHD Productivity"]
+tags: ["RSD", "sleep procrastination", "digital addiction", "autonomy", "burnout", "time blindness"]
+keywords: ["revenge bedtime procrastination adhd", "adhd sleep problems", "adhd burnout", "tired but wired adhd", "adhd and sleep deprivation", "adhd dopamine sleep"]
+og_image: "/og/adhd-revenge-bedtime-procrastination-debug.png"
+og_title: "ADHD & Sleep Thief"
+og_description: "Dopamine dips stealing your sleep? Reclaim your nights with brain-friendly systems."
 ---
 ```

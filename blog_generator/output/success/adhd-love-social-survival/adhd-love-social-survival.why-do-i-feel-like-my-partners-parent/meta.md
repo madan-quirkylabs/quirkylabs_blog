@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "ADHD & the 'Parent-Child' Dynamic: Debug Executive Dysfunction & Reclaim Your Relationship"
-description: "Tired of 'nagging' your ADHD partner? Or feeling like a burden? It's not laziness—it's a brain wiring mismatch (Miller 2019). Rebalance roles with our neuro-hacks!"
-slug: "adhd-parent-child-dynamic.stop-being-my-partners-parent"
+title: "ADHD & 'Parenting' Your Partner: Executive Dysfunction Sabotaging Your Love?"
+description: "Nagging or nagged? Feels like you're parenting your spouse? Dodson 2019 says RSD makes it worse! Rewire your brain's OS with a Neuro-Action Checklist"
+slug: "adhd-parenting-partner"
 author: "Madan | QuirkyLabs"
 date: "2025-06-23"
 type: "page"
-categories: ["ADHD Emotional Regulation", "ADHD at Work", "Self-Compassion"]
-tags: ["RSD", "compulsive apologizing", "people-pleasing ADHD", "emotional dysregulation", "assertiveness", "neurodivergent communication"]
-keywords: ["adhd over apologizing", "adhd rsd and assertiveness", "adhd relationship problems", "adhd people pleasing", "adhd and rejection sensitivity", "stop over-apologizing neurodivergent"]
-og_image: "/og/adhd-over-apologizing-debug.png"
-og_title: "ADHD & 'Parent-Child': Reclaim Your Relationship"
-og_description: "Feeling like your partner's parent? It's executive dysfunction—not a character flaw. Here's the debug protocol for neuro-harmonious love."
+categories: ["ADHD Emotional Regulation", "ADHD and Money", "ADHD Productivity"]
+tags: ["Executive Dysfunction", "relationship", "communication", "RSD", "burnout", "parenting partner"]
+keywords: ["adhd executive dysfunction relationship", "adhd partner feels like child", "adhd marriage problems", "adhd relationship advice", "adhd chores", "adhd unequal responsibilities"]
+og_image: "/og/adhd-parenting-partner-debug.png"
+og_title: "ADHD & Parenting Partner"
+og_description: "Executive dysfunction & RSD is sabotaging intimacy. Neuro-hacks to rebalance roles & reclaim your partnership!"
 ---
 ```

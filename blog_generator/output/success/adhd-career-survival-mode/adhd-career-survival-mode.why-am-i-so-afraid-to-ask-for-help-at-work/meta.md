@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "ADHD & Fear of Asking for Help: The Shame-Anchor Neuro-Loop Sabotaging Your Career (And How to Debug It)"
-description: "Stomach churns at asking for help? Blame RSD & internalized shame (Lenzi et al., 2020). Rewire your brain’s 'Fear_of_Incompetence' OS with neuro-hacks—no willpower needed."
-slug: "adhd-career-survival-mode.profound-fear-of-asking-for-help-at-work"
+title: "Asking for Help Isn't Laziness—It's Your Brain's RSD Hypervigilance in Overdrive"
+description: "Opening that email asking for help = physical assault? Zickgraf et al., 2020 says RSD is real. Rewire your brain's Amygdala OS with a Neuro-Action Checklist!"
+slug: "adhd-career-survival-mode"
 author: "Madan | QuirkyLabs"
 date: "2025-06-23"
 type: "page"
-categories: ["ADHD Emotional Regulation", "Rejection Sensitivity", "ADHD at Work"]
-tags: ["RSD", "people-pleasing ADHD", "emotional dysregulation", "assertiveness", "self-worth", "neurodivergent communication"]
-keywords: ["adhd over apologizing", "adhd rsd and assertiveness", "why do I say sorry so much adhd", "adhd people pleasing", "adhd and rejection sensitivity", "stop over-apologizing neurodivergent"]
-og_image: "/og/adhd-over-apologizing-debug.png"
-og_title: "ADHD & Help Aversion: Your Brain's Shame-Anchor Glitch"
-og_description: "Fear asking for help at work? It's not you—it's a shame-based RSD wiring bug. Debug your brain with our proven system."
+categories: ["ADHD Emotional Regulation", "ADHD at Work", "Rejection Sensitivity"]
+tags: ["RSD", "imposter syndrome", "workplace anxiety", "self-advocacy", "vulnerability", "shame"]
+keywords: ["ADHD fear of asking for help", "rejection sensitive dysphoria work", "ADHD imposter syndrome at work", "how to ask for help with ADHD", "ADHD workplace anxiety", "overcoming shame ADHD"]
+og_image: "/og/adhd-asking-for-help-debug.png"
+og_title: "RSD & Work"
+og_description: "RSD Hypervigilance got you? Debug your brain's OS & unlock confident communication at work."
 ---
 ```

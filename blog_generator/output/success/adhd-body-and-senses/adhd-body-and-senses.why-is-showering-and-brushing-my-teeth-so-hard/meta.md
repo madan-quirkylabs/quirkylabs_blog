@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "ADHD & Hygiene Paralysis: The Digital Dopamine Traps Sabotaging Your Self-Care (And How to Debug It)"
-description: "Stuck doomscrolling instead of showering? Blame dopamine dysregulation & digital design (Owens & Marks, 2025). Rewire your brain's hygiene OS with neuro-hacks—no shame!"
-slug: "adhd-body-and-senses.the-neural-lock-of-initiating-personal-upkeep-routines"
+title: "ADHD & Hygiene Paralysis: The Dopamine Dip Sabotaging Your Showers (And How to Debug It)"
+description: "Opening the shower curtain = climbing Everest? Zickgraf et al., 2020, shows it’s not laziness! Rewire your brain's Dopamine OS with a Neuro-Action Checklist."
+slug: "adhd-body-and-senses"
 author: "Madan | QuirkyLabs"
 date: "2025-06-23"
 type: "page"
-categories: ["ADHD Emotional Regulation", "Rejection Sensitivity", "ADHD at Work"]
-tags: ["RSD", "compulsive apologizing", "people-pleasing ADHD", "emotional dysregulation", "self-worth", "neurodivergent communication"]
-keywords: ["adhd over apologizing", "adhd rsd and assertiveness", "why do I say sorry so much adhd", "adhd people pleasing", "adhd and rejection sensitivity", "stop over-apologizing neurodivergent"]
-og_image: "/og/adhd-over-apologizing-debug.png"
-og_title: "ADHD & Hygiene: Your Brain's Digital Dopamine Glitch"
-og_description: "Hygiene feels impossible? It's not you—it's dopamine hijack. Debug your brain's OS with neuro-hacks for self-care & focus."
+categories: ["ADHD Emotional Regulation", "Executive Dysfunction", "ADHD Productivity"]
+tags: ["hygiene", "task paralysis", "dopamine", "self-care", "executive dysfunction", "digital detox"]
+keywords: ["ADHD hygiene", "executive dysfunction hygiene hacks", "how to shower with adhd and executive dysfunction?", "task paralysis adhd", "adhd self-care", "dopamine dip", "digital dopamine traps ADHD"]
+og_image: "/og/adhd-hygiene-paralysis-debug.png"
+og_title: "ADHD Hygiene: Dopamine Debug"
+og_description: "Dopamine dip got you stuck? Reboot your self-care OS."
 ---
 ```

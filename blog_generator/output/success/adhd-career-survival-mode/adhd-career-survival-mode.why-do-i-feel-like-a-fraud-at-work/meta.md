@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "ADHD & Imposter Syndrome: The Shame-Anchor Neuro-Loop Sabotaging Your Self-Worth (And How to Debug It)"
-description: "Feel like a fraud at work, even when succeeding? It's not you—it's a 'Shame-Anchor Neuro-Loop' (AI-identified). Reboot your brain's authenticity OS with neuro-hacks."
-slug: "adhd-career-survival-mode.imposter-syndrome"
+title: "ADHD & Imposter Syndrome: The Shame-Anchor Neuro-Loop Sabotaging Your Career (And How to Debug It)"
+description: "Opening your laptop = feeling like a fraud? Dodson 2019 shows ADHD brains internalize failures. Rewire your brain's Shame-Anchor OS with a Neuro-Action Checklist"
+slug: "adhd-imposter-syndrome"
 author: "Madan | QuirkyLabs"
 date: "2025-06-23"
 type: "page"
-categories: ["ADHD Emotional Regulation", "Self-Compassion", "ADHD at Work"]
-tags: ["RSD", "self-worth", "people-pleasing ADHD", "emotional dysregulation", "neurodivergent communication", "assertiveness"]
-keywords: ["adhd imposter syndrome", "adhd work failure", "adhd job dissatisfaction why", "adhd and self-worth", "neurodivergent imposter syndrome career reddit", "adhd professional life"]
+categories: ["ADHD Emotional Regulation", "ADHD at Work", "Self-Compassion"]
+tags: ["RSD", "imposter syndrome", "self-doubt", "work anxiety", "masking", "cognitive distortions"]
+keywords: ["ADHD imposter syndrome", "feeling like a fraud ADHD", "masking ADHD at work", "overcoming self-doubt ADHD", "ADHD career struggles", "ADHD and work anxiety"]
 og_image: "/og/adhd-imposter-syndrome-debug.png"
-og_title: "ADHD & Imposter Syndrome: Debug Your Brain's Fraud Alert"
-og_description: "Constant fear of being 'found out' at work? It's a Shame-Anchor Neuro-Loop. Here's how to rewire your brain for authentic confidence."
+og_title: "ADHD Imposter Syndrome"
+og_description: "The Shame-Anchor Neuro-Loop is sabotaging your career. Debug it with a Neuro-Action Checklist"
 ---
 ```

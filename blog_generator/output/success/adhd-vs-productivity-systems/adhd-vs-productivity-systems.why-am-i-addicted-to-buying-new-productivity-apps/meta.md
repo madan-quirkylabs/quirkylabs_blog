@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "ADHD & App Cycling: The Novelty-Seeking Sabotaging Your Productivity (And How to Debug It)"
-description: "Bought another productivity app you'll forget about? Blame your ADHD brain's dopamine cravings (Tice & Bratslavsky, 2000). Debug your 'app addiction' with a neural OS upgrade."
-slug: "adhd-vs-productivity-systems.why-am-i-addicted-to-buying-new-productivity-apps"
+title: "App Cycling Isn't Laziness—It's Your Brain's Dopamine Dip in Overdrive"
+description: "New app euphoria? Then *poof*, gone? Dodson 2019 says ADHD brains crave novelty. Rewire your brain's OS with a Neuro-Action Checklist!"
+slug: "adhd-vs-productivity-systems-why-am-i-addicted-to-buying-new-productivity-apps"
 author: "Madan | QuirkyLabs"
 date: "2025-06-23"
 type: "page"
-categories: ["ADHD at Work", "ADHD Emotional Regulation", "Self-Compassion"]
-tags: ["RSD", "compulsive apologizing", "people-pleasing ADHD", "emotional dysregulation", "neurodivergent communication", "self-worth"]
-keywords: ["adhd over apologizing", "adhd rsd and assertiveness", "adhd tech addiction symptoms adult", "adhd and rejection sensitivity", "adhd productivity hacks", "brain hacks for digital distraction ADHD"]
-og_image: "/og/adhd-over-apologizing-debug.png"
-og_title: "ADHD & App Addiction: Your Brain's Novelty Loop"
-og_description: "Constantly chasing new apps? It's not you—it's a dopamine wiring bug. Here's the debug protocol to reclaim your focus."
+categories: ["ADHD Productivity", "Executive Dysfunction", "ADHD at Work"]
+tags: ["app cycling", "productivity tools", "dopamine", "executive dysfunction", "novelty seeking", "task paralysis"]
+keywords: ["ADHD productivity apps", "executive dysfunction and technology", "dopamine and motivation", "app cycling adhd", "ADHD task paralysis", "new productivity app addiction"]
+og_image: "/og/adhd-app-cycling-debug.png"
+og_title: "ADHD App Addiction"
+og_description: "Dopamine dips make sticking to productivity apps hard. Rewire your brain!"
 ---
 ```

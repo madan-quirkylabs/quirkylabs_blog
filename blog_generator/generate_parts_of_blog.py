@@ -14,7 +14,7 @@ Act as QuirkyLabs' Chief Neural Architect. Generate SEO-optimized metadata for t
 
 1. **TITLE (Use this priority order):**
    - Diagnostic: "ADHD & [Pain]: The [Neuro-Mechanism] Sabotaging Your [Struggle] (And How to Debug It)"
-   - Emotional: "[Struggle] Isn’t Laziness—It’s Your Brain’s [Neuro-Mechanism] in Overdrive"
+   - Emotional: "[Struggle] Isn't Laziness—It's Your Brain's [Neuro-Mechanism] in Overdrive"
    - Must include:
      - Primary pain point (e.g., "medical bill paralysis", "time blindness")
      - Neuro-mechanism from research (e.g., "amygdala freeze", "dopamine dip", "RSD hypervigilance")
@@ -24,7 +24,7 @@ Act as QuirkyLabs' Chief Neural Architect. Generate SEO-optimized metadata for t
    - Structure:
      1. Raw confession or emotional image (e.g., "Opening bills = physical assault?")
      2. Cite study or expert (e.g., "Dodson 2019", "Zickgraf et al., 2020")
-     3. Solution tease: ("Rewire your brain’s [X] OS with a Neuro-Action Checklist")
+     3. Solution tease: ("Rewire your brain's [X] OS with a Neuro-Action Checklist")
 
 3. **DYNAMIC FIELD RULES (based on topic):**
    - Categories: Choose 3 from:
@@ -56,6 +56,7 @@ def discover_spoke_metadata():
     """
     Discover all spoke metadata files, extract pillar and spoke slugs, and load their JSON content.
     Returns a list of dicts: {pillar_slug, spoke_slug, metadata}
+    Only the first two spokes (alphabetically) per pillar are included.
     """
     base_dir = os.path.join(os.path.dirname(__file__), SPOKE_METADATA_ROOT)
     all_spoke_entries = []
@@ -63,17 +64,20 @@ def discover_spoke_metadata():
         pillar_path = os.path.join(base_dir, pillar_dir)
         if not os.path.isdir(pillar_path):
             continue
-        for fname in os.listdir(pillar_path):
-            if fname.startswith("spoke-metadata.") and fname.endswith(".json"):
-                spoke_slug = fname[len("spoke-metadata."):-len(".json")]
-                spoke_path = os.path.join(pillar_path, fname)
-                with open(spoke_path, "r", encoding="utf-8") as f:
-                    metadata = json.load(f)
-                all_spoke_entries.append({
-                    "pillar_slug": pillar_dir,
-                    "spoke_slug": spoke_slug,
-                    "metadata": metadata
-                })
+        # Collect all spoke metadata files for this pillar
+        spoke_files = [fname for fname in os.listdir(pillar_path)
+                       if fname.startswith("spoke-metadata.") and fname.endswith(".json")]
+        spoke_files.sort()  # Alphabetical order
+        for fname in spoke_files[:2]:  # Only first two
+            spoke_slug = fname[len("spoke-metadata."):-len(".json")]
+            spoke_path = os.path.join(pillar_path, fname)
+            with open(spoke_path, "r", encoding="utf-8") as f:
+                metadata = json.load(f)
+            all_spoke_entries.append({
+                "pillar_slug": pillar_dir,
+                "spoke_slug": spoke_slug,
+                "metadata": metadata
+            })
     return all_spoke_entries
 
 

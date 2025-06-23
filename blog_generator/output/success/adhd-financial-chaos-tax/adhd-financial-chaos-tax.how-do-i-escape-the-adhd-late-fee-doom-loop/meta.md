@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "ADHD & Late Fees: The Time Blindness Sabotaging Your Finances (And How to Debug It)"
-description: "Paid another late fee? It's NOT you! Time blindness warps time perception (Toplak et al., 2017). Rewire your brain's bill-paying OS with automated neuro-hacks—no willpower needed."
-slug: "adhd-financial-chaos.late-fees-bills"
+title: "ADHD & Late Fees: Time Blindness Sabotaging Your Bills (And How to Debug It)"
+description: "Opening bills = panic attack? Dodson 2019 shows ADHD brains struggle with time perception. Rewire your brain's 'time blindness' OS with a Neuro-Action Checklist!"
+slug: "adhd-financial-chaos"
 author: "Madan | QuirkyLabs"
 date: "2025-06-23"
 type: "page"
-categories: ["ADHD Emotional Regulation", "ADHD at Work", "Self-Compassion"]
-tags: ["RSD", "compulsive apologizing", "people-pleasing ADHD", "emotional dysregulation", "neurodivergent communication", "self-worth"]
-keywords: ["adhd over apologizing", "adhd rsd and assertiveness", "adhd late fees bills", "adhd people pleasing", "adhd and rejection sensitivity", "stop late fees neurodivergent"]
-og_image: "/og/adhd-over-apologizing-debug.png"
-og_title: "ADHD & Late Fees: Your Brain's Time Blindness Glitch"
-og_description: "Late fees eating your budget? It's not you—it's a time blindness wiring bug. Here's the debug protocol."
+categories: ["ADHD and Money", "Executive Dysfunction", "ADHD Productivity"]
+tags: ["time blindness", "bill anxiety", "late fees", "avoidance behavior", "financial overwhelm", "executive dysfunction"]
+keywords: ["ADHD money problems", "ADHD budgeting", "ADHD late fees bills", "ADHD financial management", "adult ADHD finance", "how to manage money with ADHD"]
+og_image: "/og/adhd-late-fees-debug.png"
+og_title: "ADHD & Late Fees"
+og_description: "Time blindness got you again? Debug your brain's clock with a Neuro-Action Checklist!"
 ---
 ```

@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "ADHD & Emotional Resistance: The Amygdala Hijack Sabotaging Your Tasks (And How to Debug It)"
-description: "Logically, it's one email. Emotionally? A sheer cliff of failures. It's not you—it's amygdala hijack (Cortese 2020). Rewire your brain's 'easy' task OS with..."
-slug: "adhd-emotional-storms-rsd.why-do-easy-tasks-feel-emotionally-impossible"
+title: "Email Isn't Laziness—It's Your Brain's Amygdala Freeze in Overdrive"
+description: "Opening bills = physical assault? Dodson (2019) says it's RSD. Rewire your brain's Amygdala OS with a Neuro-Action Checklist."
+slug: "adhd-task-paralysis-focus"
 author: "Madan | QuirkyLabs"
 date: "2025-06-23"
 type: "page"
-categories: ["ADHD Emotional Regulation", "Rejection Sensitivity", "Self-Compassion"]
-tags: ["RSD", "emotional dysregulation", "people-pleasing ADHD", "assertiveness", "self-worth", "neurodivergent communication"]
-keywords: ["adhd emotional resistance", "adhd easy tasks impossible", "adhd paralysis simple tasks", "adhd and overwhelm", "adhd task avoidance", "adhd over apologizing"]
-og_image: "/og/adhd-emotional-resistance-debug.png"
-og_title: "ADHD & 'Easy' Tasks: It's Your Brain's Amygdala Glitch"
-og_description: "Easy tasks feel emotionally impossible? It's not you—it's an amygdala wiring bug. Here's the debug protocol for emotional resistance."
+categories: ["ADHD Emotional Regulation", "Executive Dysfunction", "ADHD Productivity"]
+tags: ["task paralysis", "amygdala freeze", "avoidance behavior", "emotional regulation", "procrastination", "ADHD"]
+keywords: ["ADHD task paralysis", "emotional resistance tasks", "amygdala freeze adhd", "adhd easy tasks hard", "wall of awful", "executive dysfunction paralysis"]
+og_image: "/og/adhd-task-paralysis-focus-debug.png"
+og_title: "ADHD Brain Freeze"
+og_description: "Amygdala freeze got you stuck? Neuro-actions unlock focus."
 ---
 ```
