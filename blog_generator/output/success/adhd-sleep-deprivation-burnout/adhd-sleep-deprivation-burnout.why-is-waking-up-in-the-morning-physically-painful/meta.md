@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "ADHD & Painful Mornings: The Delayed Circadian Rhythm Sabotaging Your Wake-Up (And How to Debug It)"
-description: "Waking up feeling physically ill? Limbs like lead? It's not laziness—it's a delayed circadian rhythm (van der Heijden, 2018). Reboot your brain's clock with our sunrise OS."
-slug: "adhd-sleep-deprivation-burnout-cluster.waking-up-with-adhd-is-physically-painful"
+title: "ADHD & Morning Dread: The Melatonin Delay Sabotaging Your Wake-Up (And How to Debug It)"
+description: "Opening your eyes = instant body ache? Dodson 2017 shows ADHD brains often have a melatonin delay. Rewire your brain’s sleep OS with a Neuro-Action Checklist."
+slug: "adhd-morning-dread"
 author: "Madan | QuirkyLabs"
 date: "2025-06-23"
 type: "page"
-categories: ["ADHD Emotional Regulation", "Rejection Sensitivity", "ADHD at Work"]
-tags: ["RSD", "compulsive apologizing", "people-pleasing ADHD", "emotional dysregulation", "assertiveness", "neurodivergent communication"]
-keywords: ["adhd over apologizing", "adhd rsd and assertiveness", "why do I say sorry so much adhd", "adhd people pleasing", "adhd and rejection sensitivity", "stop over-apologizing neurodivergent"]
-og_image: "/og/adhd-over-apologizing-debug.png"
-og_title: "ADHD & Painful Mornings: Your Circadian Rhythm Glitch"
-og_description: "Mornings feel like a physical battle? It's a circadian rhythm bug—not you. Debug your system for a gentle, energized wake-up."
+categories: ["ADHD Emotional Regulation", "Executive Dysfunction", "ADHD Diagnosis"]
+tags: ["RSD", "procrastination", "dopamine", "impulse control", "sleep", "melatonin"]
+keywords: ["why is waking up so hard ADHD", "adhd morning routine help", "how to wake up with ADHD", "adhd delayed sleep phase", "adhd tired all the time", "adhd morning dread"]
+og_image: "/og/adhd-morning-dread-debug.png"
+og_title: "ADHD & Morning Dread: Debug Your Brain"
+og_description: "ADHD morning dread got you?  A melatonin delay is likely the culprit. Debug with our sleep system."
 ---
 ```

@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "ADHD & Why Real Life Feels Boring: The Dopamine Deficit Sabotaging Your Motivation (And How to Debug It)"
-description: "Struggling to start even simple tasks? It's not laziness! ADHD brains often lack the dopamine 'spark' for uninteresting tasks (Biederman & Faraone, 2007). Debug your motivation OS now!"
-slug: "why-is-real-life-so-boring-and-unmotivating"
+title: "ADHD & Procrastination: The Dopamine Dip Sabotaging Your Motivation (And How to Debug It)"
+description: "Staring at that to-do list = instant dopamine dip? Barkley 2015 shows ADHD brains struggle with motivation. Debug your brain’s dopamine dip OS with a Neuro-Action Checklist."
+slug: "adhd-vs-productivity-systems"
 author: "Madan | QuirkyLabs"
 date: "2025-06-23"
 type: "page"
-categories: ["ADHD Emotional Regulation", "Self-Compassion", "ADHD at Work"]
-tags: ["RSD", "emotional dysregulation", "self-worth", "neurodivergent communication", "people-pleasing ADHD", "assertiveness"]
-keywords: ["adhd over apologizing", "adhd rsd and assertiveness", "why do I say sorry so much adhd", "adhd people pleasing", "adhd and rejection sensitivity", "stop over-apologizing neurodivergent"]
-og_image: "/og/adhd-over-apologizing-debug.png"
-og_title: "ADHD: Why Is Real Life So Boring?"
-og_description: "Mundane tasks feel impossible? It's not you—it's your ADHD brain's dopamine glitch. Discover the debug protocol for a more engaging life."
+categories: ["Executive Dysfunction", "ADHD Productivity", "Burnout & Fatigue"]
+tags: ["procrastination", "dopamine", "motivation", "task initiation", "executive dysfunction", "boredom"]
+keywords: ["why is real life so boring ADHD", "adhd task initiation help", "adhd procrastination solutions", "adhd motivation hacks", "adhd executive dysfunction tasks", "how to make boring tasks fun ADHD"]
+og_image: "/og/adhd-procrastination-debug.png"
+og_title: "ADHD & Procrastination"
+og_description: "Overcome ADHD procrastination! Rewire your brain’s dopamine dip OS for motivation."
 ---
 ```

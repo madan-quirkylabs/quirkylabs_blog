@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "ADHD & Imposter Syndrome: The Shame-Anchor Neuro-Loop Sabotaging Your Career (And How to Debug It)"
-description: "Opening your laptop = feeling like a fraud? Dodson 2019 shows ADHD brains internalize failures. Rewire your brain's Shame-Anchor OS with a Neuro-Action Checklist"
+title: "ADHD & Imposter Syndrome: Is Your Dopamine Dip Sabotaging Your Career?"
+description: "Staring at your screen, feeling like a fraud? Studies show ADHD adults struggle with 'Imposter Syndrome' (Knoll et al., 2019). Rewire your dopamine dip with a Neuro-Action Checklist."
 slug: "adhd-imposter-syndrome"
 author: "Madan | QuirkyLabs"
 date: "2025-06-23"
 type: "page"
-categories: ["ADHD Emotional Regulation", "ADHD at Work", "Self-Compassion"]
-tags: ["RSD", "imposter syndrome", "self-doubt", "work anxiety", "masking", "cognitive distortions"]
-keywords: ["ADHD imposter syndrome", "feeling like a fraud ADHD", "masking ADHD at work", "overcoming self-doubt ADHD", "ADHD career struggles", "ADHD and work anxiety"]
+categories: ["ADHD at Work", "Rejection Sensitivity", "Self-Compassion"]
+tags: ["imposter syndrome", "workplace", "dopamine", "self-esteem", "masking", "executive dysfunction"]
+keywords: ["why do I feel like a fraud at work adhd", "adhd imposter syndrome work solutions", "masking adhd at work and feeling fake", "adhd professional success", "neurodivergent imposter syndrome career"]
 og_image: "/og/adhd-imposter-syndrome-debug.png"
-og_title: "ADHD Imposter Syndrome"
-og_description: "The Shame-Anchor Neuro-Loop is sabotaging your career. Debug it with a Neuro-Action Checklist"
+og_title: "ADHD & Imposter Syndrome: Tame Your Dopamine Dip"
+og_description: "Feeling like a fraud? Learn to debug your dopamine dip and unlock your authentic professional self."
 ---
 ```

@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "ADHD & 'Involuntary Ghosting': The Executive Dysfunction Sabotaging Your Connections (And How to Debug It)"
-description: "Ignore texts from people you LIKE? Blame executive function's 'out of sight, out of mind' glitch (Orlov 2010). Rewire your brain's connection OS—no shame needed."
-slug: "adhd-involuntary-ghosting-executive-dysfunction"
+title: "ADHD & "Involuntary Ghosting": The Dopamine Dip Sabotaging Your Social Life (And How to Debug It)"
+description: "Opening a text = full-body shutdown? 🤯 Dodson 2019 shows RSD amplifies rejection pain. Rewire your brain’s dopamine dip with a Neuro-Action Checklist."
+slug: "adhd-involuntary-ghosting"
 author: "Madan | QuirkyLabs"
 date: "2025-06-23"
 type: "page"
-categories: ["ADHD Emotional Regulation", "Rejection Sensitivity", "ADHD at Work"]
-tags: ["RSD", "compulsive apologizing", "people-pleasing ADHD", "emotional dysregulation", "assertiveness", "neurodivergent communication"]
-keywords: ["adhd over apologizing", "adhd rsd and assertiveness", "why do I say sorry so much adhd", "adhd people pleasing", "adhd and rejection sensitivity", "stop over-apologizing neurodivergent"]
-og_image: "/og/adhd-over-apologizing-debug.png"
-og_title: "ADHD & 'Ghosting': Your Brain's Executive Glitch"
-og_description: "Unintentionally ignoring texts? It's not you—it's an executive function bug. Here's the debug protocol for ADHD brains."
+categories: ["ADHD Relationships", "Rejection Sensitivity", "Executive Dysfunction"]
+tags: ["RSD", "procrastination", "dopamine", "impulse control", "rejection", "communication"]
+keywords: ["why do I ignore texts ADHD", "adhd texting anxiety", "adhd communication paralysis", "adhd relationship problems", "adhd ghosting friends", "adhd replying to texts"]
+og_image: "/og/adhd-involuntary-ghosting-debug.png"
+og_title: "ADHD Ghosting? It's Dopamine!"
+og_description: "Stop the dopamine dip sabotaging your social life.  Rewire your brain with our Neuro-Action Checklist."
 ---
 ```

@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "ADHD & Job Hopping: The Novelty Neuro-Loop Sabotaging Your Career (And How to Debug It)"
-description: "Job after job, same story? Blame ADHD's dopamine-driven novelty need (Reardon, 2020). Rewire your brain's 'boredom' OS with neuro-hacks—no willpower needed."
-slug: "adhd-career-survival-mode.why-do-i-get-bored-and-quit-every-job-adhd"
+title: "ADHD & Job Dissatisfaction: The Dopamine Dip Sabotaging Your Career (And How to Debug It)"
+description: "Endless job changes got you down? Opening LinkedIn = full-body shutdown? Kessler (2006) proves ADHD hurts work. Rewire your brain’s Dopamine Dip OS with our Career Checklist."
+slug: "adhd-career-survival-mode"
 author: "Madan | QuirkyLabs"
-date: "2025-06-23"
+date: "2024-07-03"
 type: "page"
-categories: ["ADHD at Work", "ADHD Emotional Regulation", "Rejection Sensitivity"]
-tags: ["RSD", "emotional dysregulation", "neurodivergent communication", "job dissatisfaction", "people-pleasing ADHD", "self-worth"]
-keywords: ["adhd job dissatisfaction why", "how to manage digital distractions with adhd", "adhd imposter syndrome work solutions", "tools for adhd professionals overwhelmed", "why do i get bored and quit every job adhd", "adhd career change"]
-og_image: "/og/adhd-job-hopping-debug.png"
-og_title: "ADHD & Job Hopping: Your Brain's Novelty Glitch"
-og_description: "Constantly switching jobs? It's not you—it's a dopamine wiring bug. Here's the debug protocol for career fulfillment."
+categories: ["ADHD at Work", "Executive Dysfunction", "Burnout & Fatigue"]
+tags: ["job hopping", "dopamine", "boredom", "procrastination", "career", "motivation"]
+keywords: ["why do I get bored and quit every job adhd", "adhd job dissatisfaction why", "how to stay engaged with adhd in boring job", "adhd career change", "adhd job hopping help", "adhd lack of motivation work"]
+og_image: "/og/adhd-job-dissatisfaction-debug.png"
+og_title: "ADHD Career Dopamine Dip"
+og_description: "Stop job hopping! Debug your brain’s dopamine dip and find career satisfaction with our ADHD-friendly OS upgrade."
 ---
 ```

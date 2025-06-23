@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "ADHD & Breakups: The RSD & Emotional Dysregulation Sabotaging Your Healing (And How to Debug It)"
-description: "Breakup feel like the end? Blame ADHD's RSD & emotional storms (Magdi et al., 2025). Rewire your brain's grief OS with neuro-hacks—no willpower needed."
-slug: "adhd-love-social-survival-cluster.adhd-breakup-grief-emotional-dysregulation"
+title: "ADHD & Breakups: The Amygdala Freeze Sabotaging Your Healing (And How to Debug It)"
+description: "Opening your phone after a breakup = full-body freeze? Dodson (n.d.) says RSD makes breakups excruciating. Rewire your brain’s amygdala freeze OS with a Neuro-Action Checklist."
+slug: "adhd-breakup-grief-emotional-dysregulation"
 author: "Madan | QuirkyLabs"
 date: "2025-06-23"
 type: "page"
 categories: ["ADHD Emotional Regulation", "Rejection Sensitivity", "Self-Compassion"]
-tags: ["RSD", "emotional dysregulation", "self-worth", "people-pleasing ADHD", "neurodivergent communication", "compulsive apologizing"]
-keywords: ["adhd breakup grief emotional dysregulation", "adhd rsd post breakup", "why does breakup feel like end of world adhd", "adhd and rejection sensitivity", "adhd emotional dysregulation relationship help", "healing from adhd relationship loss trauma"]
-og_image: "/og/adhd-breakup-debug.png"
-og_title: "ADHD & Breakups: RSD's Heartbreak Glitch"
-og_description: "Breakup trauma hitting hard? It's not 'just sensitivity'—it's RSD amplifying the pain. Neuro-hacks to debug your brain's response."
+tags: ["RSD", "breakup", "rejection", "emotional dysregulation", "rumination", "grief"]
+keywords: ["adhd breakup pain", "why breakups hurt so much adhd", "adhd rejection sensitivity breakup", "adhd emotional dysregulation breakup", "adhd getting over ex", "adhd and heartbreak"]
+og_image: "/og/adhd-breakup-grief-debug.png"
+og_title: "ADHD & Breakups: Debug the Amygdala Freeze"
+og_description: "Breakup got you frozen? Debug your brain's amygdala freeze OS and reclaim your healing journey."
 ---
 ```

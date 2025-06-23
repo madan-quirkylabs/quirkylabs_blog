@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "Public Spaces = Sensory Assault? Debug Your Brain's Amygdala Freeze"
-description: "Grocery store = combat mission? Zickgraf et al. (2020) show reduced interoception in ADHD. Rewire your brain’s sensory OS with a Neuro-Action Checklist!"
+title: "ADHD & Sensory Overload: The Amygdala Freeze Sabotaging Your Shopping (And How to Debug It)"
+description: "Grocery store = full-body shutdown? Zickgraf et al., 2020 shows ADHD brains struggle with interoception & sensory overload. Rewire your amygdala freeze OS with a Neuro-Action Checklist."
 slug: "adhd-sensory-overload"
 author: "Madan | QuirkyLabs"
 date: "2025-06-23"
 type: "page"
-categories: ["ADHD Emotional Regulation", "Executive Dysfunction", "ADHD Productivity"]
-tags: ["sensory overload", "anxiety", "executive dysfunction", "public spaces", "amygdala", "ADHD"]
-keywords: ["sensory overload ADHD", "ADHD in public", "executive dysfunction sensory overload", "ADHD anxiety", "coping with sensory overload", "neurodivergent shopping"]
+categories: ["ADHD Emotional Regulation", "Sensory Processing", "Executive Dysfunction"]
+tags: ["sensory overload", "anxiety", "public spaces", "amygdala", "executive function", "shutdown"]
+keywords: ["adhd sensory overload grocery store", "adhd panic attacks public", "adhd executive function shutdown", "how to cope with sensory overload adhd", "why am I so sensitive to noise adhd", "adhd and crowds"]
 og_image: "/og/adhd-sensory-overload-debug.png"
-og_title: "Sensory Overload Debug"
-og_description: "Amygdala freeze in public? Get a Neuro-Action Checklist to rewire your brain's sensory OS."
+og_title: "ADHD & Sensory Overload: Debug Your Brain"
+og_description: "Stop the amygdala freeze! Get back in control using the QuirkyLabs method."
 ---
 ```

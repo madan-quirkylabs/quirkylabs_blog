@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "ADHD: The Intention-Action Gap Sabotaging Your Plans (And How to Debug It)"
-description: "Perfect plan, zero action? Brain.exe stopped responding? Blame the 'dopamine cliff' (Volkow 2011). Rewire your ADHD brain's 'execution protocol' with neuro-hacks."
-slug: "adhd-task-paralysis-focus.the-gap-between-planning-and-doing-is-a-canyon"
+title: "ADHD & Planning: The Dopamine Dip Sabotaging Your Execution (And How to Debug It)"
+description: "Spent hours planning, but can't start? Dodson 2016 shows RSD & dopamine dips cause 'brain freeze'. Rewire your brain’s dopamine OS with a Neuro-Action Checklist."
+slug: "adhd-task-paralysis-focus"
 author: "Madan | QuirkyLabs"
 date: "2025-06-23"
 type: "page"
-categories: ["ADHD Emotional Regulation", "ADHD at Work", "Self-Compassion"]
-tags: ["RSD", "emotional dysregulation", "self-worth", "neurodivergent communication", "assertiveness", "people-pleasing ADHD"]
-keywords: ["adhd over apologizing", "adhd rsd and assertiveness", "why do I say sorry so much adhd", "adhd people pleasing", "adhd and rejection sensitivity", "stop over-apologizing neurodivergent"]
-og_image: "/og/adhd-over-apologizing-debug.png"
-og_title: "ADHD: The Intention-Action Gap: Your Brain's Glitch"
-og_description: "Brilliant plans, zero action? It's not you—it's a dopamine wiring bug. Here's the debug protocol to start doing."
+categories: ["Executive Dysfunction", "ADHD Productivity", "ADHD at Work"]
+tags: ["procrastination", "dopamine", "task switching", "planning", "executive function", "analysis paralysis"]
+keywords: ["why can't I start tasks ADHD", "adhd task paralysis help", "adhd planning but not doing", "adhd intention action gap"]
+og_image: "/og/adhd-task-paralysis-debug.png"
+og_title: "ADHD: Dopamine & Task Freeze"
+og_description: "Dopamine dips got you stuck? Debug your brain's OS & start executing. "
 ---
 ```

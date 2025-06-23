@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "ADHD Identity Crisis & Late Diagnosis: Why Your Brain Gets Stuck in Digital Dopamine Traps"
-description: "Feel like a walking symptom, not a person? Undiagnosed ADHD warps self-worth (Bramer, 2016). Reclaim your identity: Debug your brain’s shame OS with..."
+title: "ADHD & Self-Blame: The Dopamine Dip Sabotaging Your Identity (And How to Debug It)"
+description: "Tired of feeling like a walking symptom, not a person? Paul et al. (2024) shows adult ADHD diagnoses are up! Rewire your brain’s dopamine dip OS with a Neuro-Action Checklist."
 slug: "adhd-identity-crisis-late-diagnosis"
 author: "Madan | QuirkyLabs"
 date: "2025-06-23"
 type: "page"
-categories: ["ADHD Emotional Regulation", "Self-Compassion", "ADHD at Work"]
-tags: ["RSD", "self-worth", "emotional dysregulation", "neurodivergent communication", "people-pleasing ADHD", "assertiveness"]
-keywords: ["adhd identity crisis", "late diagnosis adhd", "adult adhd emotional impact", "adhd self-blame", "adhd and self-esteem", "digital overwhelm adhd"]
-og_image: "/og/adhd-self-blame-debug.png"
-og_title: "ADHD Identity Crisis: Reclaim Your Whole Self"
-og_description: "Walking symptom? It's undiagnosed ADHD wiring. Reforge your identity with our brain-first approach."
+categories: ["ADHD Emotional Regulation", "Neurodivergent Identity", "Self-Compassion"]
+tags: ["RSD", "self-esteem", "shame", "dopamine", "identity", "self-blame"]
+keywords: ["why do I hate myself ADHD", "adhd identity issues", "adhd feeling like a failure", "adhd self blame", "adhd lack of identity", "late diagnosis adhd emotional"]
+og_image: "/og/adhd-identity-crisis-debug.png"
+og_title: "ADHD Identity Crisis: Debug"
+og_description: "Stop the dopamine dip from hijacking your identity! Build a solid sense of self."
 ---
 ```

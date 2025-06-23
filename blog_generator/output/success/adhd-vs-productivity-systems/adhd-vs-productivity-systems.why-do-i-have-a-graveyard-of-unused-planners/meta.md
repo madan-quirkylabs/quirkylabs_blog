@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "ADHD vs. Planners: The Dopamine Trap Sabotaging Your Focus (And How to Debug It)"
-description: "Bought another planner you'll abandon? It's not you! ADHD brains crave novelty (Volkow 2011). Debug the dopamine trap with neuro-hacks—no willpower needed."
-slug: "adhd-vs-productivity-systems.why-am-i-addicted-to-buying-new-productivity-apps"
+title: "ADHD & Productivity: The Dopamine Dip Sabotaging Your Focus (And How to Debug It)"
+description: "Opening your planner = full-body shutdown? Barkley (2015) shows executive dysfunction undermines productivity. Rewire your brain’s Dopamine Dip OS with a Neuro-Action Checklist."
+slug: "adhd-vs-productivity-systems"
 author: "Madan | QuirkyLabs"
 date: "2025-06-23"
 type: "page"
-categories: ["ADHD at Work", "ADHD Emotional Regulation", "Self-Compassion"]
-tags: ["RSD", "compulsive apologizing", "people-pleasing ADHD", "emotional dysregulation", "neurodivergent communication", "self-worth"]
-keywords: ["adhd over apologizing", "adhd rsd and assertiveness", "adhd planner addiction", "adhd productivity hacks", "adhd and rejection sensitivity", "stop over-apologizing neurodivergent"]
-og_image: "/og/adhd-over-apologizing-debug.png"
-og_title: "ADHD & Planner Addiction: Your Brain's Dopamine Glitch"
-og_description: "Planner addiction hijacking your productivity? It's not you—it's a dopamine wiring bug. Here's the debug protocol."
+categories: ["Executive Dysfunction", "ADHD Productivity", "ADHD at Work"]
+tags: ["procrastination", "dopamine", "impulse control", "task switching", "executive function", "productivity"]
+keywords: ["adhd task switching help", "how to stop ADHD impulse spending", "adhd productivity hacks", "time management for ADHD adults", "adhd executive dysfunction strategies", "adhd focus tips"]
+og_image: "/og/adhd-productivity-systems-debug.png"
+og_title: "ADHD & Productivity: Debug Dopamine Dip"
+og_description: "Overcome productivity struggles by debugging your brain's Dopamine Dip OS and reclaiming your focus."
 ---
 ```

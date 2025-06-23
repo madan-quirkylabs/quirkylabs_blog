@@ -7,49 +7,130 @@ from core.config import load_config
 SPOKE_METADATA_ROOT = os.path.join("config", "spoke-metadata")
 OUTPUT_ROOT = os.path.join(os.path.dirname(__file__), "output", "success")
 
+Here's a **drop-in replacement prompt** with stricter validation rules to prevent placeholders from slipping through, while maintaining your brand voice and SEO strategy:
+
+```python
 GENERATE_META_FOR_ARTICLE_PROMPT = """
 Act as QuirkyLabs' Chief Neural Architect. Generate SEO-optimized metadata for the ADHD spoke article with slug: '{spoke_slug}'.
 
-**Follow these exact rules:**
+---
 
-1. **TITLE (Use this priority order):**
-   - Diagnostic: "ADHD & [Pain]: The [Neuro-Mechanism] Sabotaging Your [Struggle] (And How to Debug It)"
-   - Emotional: "[Struggle] Isn't Laziness—It's Your Brain's [Neuro-Mechanism] in Overdrive"
-   - Must include:
-     - Primary pain point (e.g., "medical bill paralysis", "time blindness")
-     - Neuro-mechanism from research (e.g., "amygdala freeze", "dopamine dip", "RSD hypervigilance")
-     - Brand-aligned metaphor ("debug", "OS upgrade", "neural reboot")
+### 🔧 **STRICT VALIDATION RULES**  
+1. **REJECT ANY OUTPUT** containing square brackets `[]` (except for lists).  
+2. **NEVER USE GENERIC PLACEHOLDERS** like "[Pain]" or "[Struggle]" - extract specifics from `{spoke_slug}`.  
+3. **ENFORCE NEURO-MECHANISM CONSISTENCY**: The same term (e.g., "dopamine dip") must appear in title, description, and og_description.  
 
-2. **DESCRIPTION (155–165 chars):**
-   - Structure:
-     1. Raw confession or emotional image (e.g., "Opening bills = physical assault?")
-     2. Cite study or expert (e.g., "Dodson 2019", "Zickgraf et al., 2020")
-     3. Solution tease: ("Rewire your brain's [X] OS with a Neuro-Action Checklist")
+---
 
-3. **DYNAMIC FIELD RULES (based on topic):**
-   - Categories: Choose 3 from:
-     - "ADHD Emotional Regulation", "Rejection Sensitivity", "Self-Compassion", 
-     - "ADHD at Work", "ADHD and Money", "ADHD Productivity", "Executive Dysfunction"
-   - Tags: Must include 6 tags relevant to the spoke topic (e.g., ["RSD", "bill anxiety", "avoidance behavior"])
-   - Keywords: Must include at least 6 search-intent-matching phrases a person with ADHD might Google
-   - og_image: "/og/adhd-[slugified-pain-point]-debug.png" (e.g., "/og/adhd-bill-paralysis-debug.png")
+### 🧠 **TITLE (Pick ONE format)**  
+**A. Diagnostic (For How-To Content):**  
+`"ADHD & [EXPLICIT_PAIN_POINT]: The [NEURO_MECHANISM] Sabotaging Your [LIFE_AREA] (Debug It)"`  
+→ Example: `"ADHD & Bill Avoidance: Your Brain’s Amygdala Freeze (Debug It)"`  
 
-4. **REQUIRED MARKDOWN FORMAT:**
+**B. Emotional (For Stigma-Busting):**  
+`"[COMMON_MISLABEL] Isn’t Laziness—It’s Your Brain’s [NEURO_MECHANISM] in Overdrive"`  
+→ Example: `"Budget Procrastination Isn’t Laziness—It’s Your Dopamine Dip in Overdrive"`  
+
+**Validation Checks**:  
+- `EXPLICIT_PAIN_POINT` must match `{spoke_slug}` (e.g., "financial-chaos" → "Money Avoidance")  
+- `NEURO_MECHANISM` must be from approved list:  
+  ```python
+  ["dopamine dip", "amygdala freeze", "RSD hypervigilance", "executive dysfunction loop", "time blindness", "attention tunneling"]
+  ```  
+
+---
+
+### 📝 **DESCRIPTION (155–165 chars)**  
+**Template**:  
+`"[SENSORY_METAPHOR]? [STUDY_CITATION] proves [NEURO_MECHANISM] blocks [ACTION]. [BRAND_CTA]."`  
+
+**Validation Rules**:  
+1. **SENSORY_METAPHOR** must be visceral:  
+   ✅ `"Does checking your bank account feel like touching a hot stove?"`  
+   ❌ `"Struggling with money?"`  
+2. **STUDY_CITATION** must include year:  
+   ✅ `"Dodson 2019"`, `"Faraone et al., 2021"`  
+3. **BRAND_CTA** must include:  
+   ✅ `"Neuro-Action Checklist"`, `"Neuro-OS upgrade"`  
+
+---
+
+### 🗂️ **DYNAMIC FIELDS**  
+**Categories (3 required)**:  
+```python
+# Pre-approved list (extracted from your content hub)
+CATEGORIES = [
+    "ADHD Emotional Regulation", "Executive Dysfunction", "ADHD at Work", 
+    "ADHD and Money", "ADHD Productivity", "ADHD Relationships",
+    "Rejection Sensitivity", "Financial Avoidance",
+    "ADHD Nutrition", "ADHD Hygiene", "ADHD Relationships",
+    "Self-Compassion", "Attachment Patterns",
+    "Sensory Processing", "Neurodivergent Identity", "ADHD Diagnosis",
+    "Burnout & Fatigue"
+]
+```  
+
+**Tags (6 required)**:  
+- First 3 must include:  
+  1. The neuro-mechanism (e.g., "dopamine")  
+  2. The pain point (e.g., "financial avoidance")  
+  3. One emotional term (e.g., "shame", "overwhelm")  
+
+**Keywords (6 required)**:  
+- Must include:  
+  1. One "why" question (`"why do ADHDers struggle with [TOPIC]"`)  
+  2. One "how to" query (`"how to [ACTION] with ADHD"`)  
+  3. One tool/phrase (`"ADHD YNAB setup"`)  
+
+---
+
+### 🎨 **OG FIELDS**  
+**og_image Path**:  
+```python
+f"/og/adhd-{slugify(pain_point)}-debug.png"  # e.g., "/og/adhd-bill-avoidance-debug.png"
+```  
+
+**og_title**:  
+- Max 60 chars  
+- Must include neuro-mechanism  
+
+**og_description**:  
+- Max 120 chars  
+- Must include:  
+  ✅ Problem (`"Dopamine deserts"`)  
+  ✅ Solution (`"Neuro-actions"`)  
+
+---
+
+### ✨ **EXAMPLE OUTPUT**  
 ```markdown
 ---
-title: "[Generated Title]"
-description: "[Generated Description]"
-slug: "{spoke_slug}"
+title: "ADHD & Bill Avoidance: Your Brain’s Amygdala Freeze (Debug It)"
+description: "Does checking your bank account feel like touching a hot stove? Dodson 2019 proves amygdala freeze blocks financial tasks. Upgrade your Neuro-OS."
+slug: "adhd-financial-chaos"
 author: "Madan | QuirkyLabs"
-date: "2025-06-23"  # Always use current date in YYYY-MM-DD
+date: "2025-06-23"
 type: "page"
-categories: ["Category A", "Category B", "Category C"]
-tags: ["tag1", "tag2", "tag3", "tag4", "tag5", "tag6"]
-keywords: ["keyword1", "keyword2", "keyword3", "keyword4", "keyword5", "keyword6"]
-og_image: "/og/adhd-[slugified-pain-point]-debug.png"
-og_title: "[Shortened Title for Social Media Cards]"
-og_description: "[<120 char neuro-mechanism + benefit tease]"
+categories: ["ADHD and Money", "Executive Dysfunction", "Financial Avoidance"]
+tags: ["amygdala freeze", "financial avoidance", "shame", "RSD", "bill paralysis", "adulting"]
+keywords: ["why do ADHDers avoid bills", "how to pay bills with ADHD", "ADHD money shame", "ADHD YNAB setup", "financial trauma ADHD", "amygdala freeze money"]
+og_image: "/og/adhd-bill-avoidance-debug.png"
+og_title: "ADHD Bill Avoidance: Amygdala Freeze Fix"
+og_description: "Amygdala freeze blocking bills? Neuro-actions for financial safety."
 ---
+```
+
+---
+
+### 🚨 **VALIDATION FAILURE MODE**  
+If constraints aren’t met, return this error template:  
+```python
+raise ValueError(
+    f"VALIDATION FAILED: Missing required elements in field '{failed_field}'. "
+    f"Expected {requirement} but got '{actual_value}'. "
+    "Rewrite with stricter adherence to neuro-mechanism consistency."
+)
+```
 """
 
 def discover_spoke_metadata():
@@ -68,7 +149,7 @@ def discover_spoke_metadata():
         spoke_files = [fname for fname in os.listdir(pillar_path)
                        if fname.startswith("spoke-metadata.") and fname.endswith(".json")]
         spoke_files.sort()  # Alphabetical order
-        for fname in spoke_files[:2]:  # Only first two
+        for fname in spoke_files:  # Only first two
             spoke_slug = fname[len("spoke-metadata."):-len(".json")]
             spoke_path = os.path.join(pillar_path, fname)
             with open(spoke_path, "r", encoding="utf-8") as f:

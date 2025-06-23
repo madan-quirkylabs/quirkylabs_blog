@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "ADHD & Screen Paralysis: The Digital Dopamine Traps Sabotaging Your Focus (And How to Debug It)"
-description: "Hours 'disappear' in a scroll-hole? Blame tech's dopamine-driven design (Aster et al., 2023). Rewire your brain’s focus OS with game-based hacks—no willpower needed."
+title: "ADHD & Task Paralysis: The Dopamine Dip Sabotaging Your Focus (And How to Debug It)"
+description: "Opening your laptop = full-body shutdown? Dodson 2016 shows task paralysis isn't laziness—it's a dopamine dip. Debug your brain’s dopamine OS with a Neuro-Action Checklist."
 slug: "adhd-task-paralysis-focus"
 author: "Madan | QuirkyLabs"
-date: "2025-06-23"
+date: "2024-01-04"
 type: "page"
-categories: ["ADHD Emotional Regulation", "Rejection Sensitivity", "ADHD at Work"]
-tags: ["RSD", "compulsive apologizing", "people-pleasing ADHD", "emotional dysregulation", "assertiveness", "neurodivergent communication"]
-keywords: ["adhd over apologizing", "adhd rsd and assertiveness", "why do I say sorry so much adhd", "adhd people pleasing", "adhd and rejection sensitivity", "stop over-apologizing neurodivergent"]
-og_image: "/og/adhd-over-apologizing-debug.png"
-og_title: "ADHD & Screen Paralysis: Your Brain's Dopamine Glitch"
-og_description: "Frozen at your computer? It's not you—it's the digital dopamine traps hijacking your focus. Here's the debug protocol."
+categories: ["Executive Dysfunction", "ADHD Productivity", "Burnout & Fatigue"]
+tags: ["procrastination", "dopamine", "impulse control", "task switching", "time blindness", "analysis paralysis"]
+keywords: ["why do I forget what I was doing mid-task", "adhd task switching help", "how to stop ADHD impulse spending", "why do easy tasks feel emotionally impossible", "adhd task paralysis", "sit frozen at my computer for hours"]
+og_image: "/og/adhd-task-paralysis-focus-debug.png"
+og_title: "ADHD & Task Freeze: Dopamine Dip"
+og_description: "Task paralysis? It's a dopamine dip, not laziness. Rewire your brain's dopamine pathways for focus."
 ---
 ```

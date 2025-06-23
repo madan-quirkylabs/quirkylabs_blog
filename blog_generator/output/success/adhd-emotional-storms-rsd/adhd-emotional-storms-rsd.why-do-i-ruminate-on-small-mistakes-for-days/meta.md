@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "ADHD & Replaying Mistakes: The Default Mode Network Sabotaging Your Peace (And How to Debug It)"
-description: "Stuck replaying that awkward comment for hours? Blame your Default Mode Network's 'sticky thought' glitch (Shaw 2014). Debug with neuro-hacks—no willpower needed."
-slug: "adhd-emotional-storms-rsd.why-do-i-obsess-over-mistakes-for-days"
+title: "ADHD & Rumination: The 'Shame-Anchor' Sabotaging Your Focus (And How to Debug It)"
+description: "Brain replaying awkward moments on repeat? Dodson 2019 says RSD makes it feel unbearable. Rewire your brain’s ‘Shame-Anchor’ OS with a Neuro-Action Checklist."
+slug: "adhd-rumination"
 author: "Madan | QuirkyLabs"
 date: "2025-06-23"
 type: "page"
-categories: ["ADHD Emotional Regulation", "Self-Compassion", "ADHD at Work"]
-tags: ["RSD", "emotional dysregulation", "self-worth", "neurodivergent communication", "people-pleasing ADHD", "compulsive apologizing"]
-keywords: ["adhd over apologizing", "adhd rsd and assertiveness", "why do I say sorry so much adhd", "adhd people pleasing", "adhd and rejection sensitivity", "adhd cannot let go of errors"]
-og_image: "/og/adhd-over-apologizing-debug.png"
-og_title: "ADHD & Rumination: Debug Your Brain's Replay Loop"
-og_description: "Stuck replaying mistakes? It's not you—it's your Default Mode Network. Here's the debug protocol."
+categories: ["ADHD Emotional Regulation", "Executive Dysfunction", "Self-Compassion"]
+tags: ["rumination", "shame", "self-criticism", "dopamine", "cognitive inhibition", "rejection sensitivity"]
+keywords: ["why do I obsess over mistakes ADHD", "adhd rumination help", "how to stop adhd negative thoughts", "adhd shame spiral", "adhd perfectionism", "adhd cannot let go of errors"]
+og_image: "/og/adhd-rumination-debug.png"
+og_title: "ADHD & Rumination: Debug Your Brain"
+og_description: "Stop the shame spiral! Re-wire your 'Shame-Anchor' with brain-first strategies for focus & calm."
 ---
 ```

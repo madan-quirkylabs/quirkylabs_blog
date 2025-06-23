@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "ADHD: Feeling Like a 'Walking Symptom'? Debug Your Brain's Identity OS"
-description: "Feeling like a diagnosis, not a person? Dodson (n.d.) says RSD amplifies this. Rewire your identity OS with a Neuro-Action Checklist."
-slug: "adhd-identity-crisis"
+title: "ADHD & Identity: The Dopamine Dip Sabotaging Your Self-Worth (And How to Debug It)"
+description: "Reduced to just symptoms? Dodson 2019 shows RSD amplifies self-doubt. Time to debug that dopamine dip! Rewire your brain’s identity OS with a Neuro-Action Checklist."
+slug: "adhd-identity-crisis-late-diagnosis"
 author: "Madan | QuirkyLabs"
 date: "2025-06-23"
 type: "page"
-categories: ["ADHD Emotional Regulation", "Self-Compassion", "Executive Dysfunction"]
-tags: ["RSD", "self-esteem", "identity", "shame", "self-compassion", "late diagnosis"]
-keywords: ["ADHD identity crisis", "feeling like a symptom", "low self-esteem ADHD", "self-compassion ADHD", "adhd masking", "adhd late diagnosis"]
-og_image: "/og/adhd-identity-crisis-debug.png"
-og_title: "ADHD Identity Debug"
-og_description: "Reclaim your identity! Neuro-Action Checklist for feeling like more than just your ADHD symptoms."
+categories: ["Neurodivergent Identity", "Self-Compassion", "ADHD Emotional Regulation"]
+tags: ["RSD", "self-esteem", "shame", "dopamine", "identity", "masking"]
+keywords: ["why do I feel like just a symptom ADHD", "adhd identity crisis", "adhd low self-esteem", "how to embrace ADHD", "adhd and self-worth", "adhd masking"]
+og_image: "/og/adhd-identity-crisis-late-diagnosis-debug.png"
+og_title: "ADHD & Identity: Debug Your Dopamine Dip"
+og_description: "Stop the shame spiral! Boost self-worth by debugging your brain's dopamine dip with a Neuro-Action Checklist."
 ---
 ```

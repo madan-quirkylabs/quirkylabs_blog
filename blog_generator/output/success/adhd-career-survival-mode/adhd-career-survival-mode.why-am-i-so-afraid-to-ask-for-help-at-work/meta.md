@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "Asking for Help Isn't Laziness—It's Your Brain's RSD Hypervigilance in Overdrive"
-description: "Opening that email asking for help = physical assault? Zickgraf et al., 2020 says RSD is real. Rewire your brain's Amygdala OS with a Neuro-Action Checklist!"
-slug: "adhd-career-survival-mode"
+title: "ADHD & Asking for Help: The RSD Hypervigilance Sabotaging Your Career (And How to Debug It)"
+description: "Stomach churning at the thought of asking for help? Dodson 2019 links RSD hypervigilance to career paralysis. Rewire your brain’s RSD OS with a Neuro-Action Checklist."
+slug: "adhd-asking-for-help"
 author: "Madan | QuirkyLabs"
 date: "2025-06-23"
 type: "page"
-categories: ["ADHD Emotional Regulation", "ADHD at Work", "Rejection Sensitivity"]
-tags: ["RSD", "imposter syndrome", "workplace anxiety", "self-advocacy", "vulnerability", "shame"]
-keywords: ["ADHD fear of asking for help", "rejection sensitive dysphoria work", "ADHD imposter syndrome at work", "how to ask for help with ADHD", "ADHD workplace anxiety", "overcoming shame ADHD"]
+categories: ["ADHD at Work", "Rejection Sensitivity", "Self-Compassion"]
+tags: ["RSD", "shame", "vulnerability", "imposter syndrome", "self-advocacy", "fear of rejection"]
+keywords: ["why am I so afraid to ask for help ADHD", "adhd asking for help at work", "adhd rejection sensitive dysphoria help", "how to ask for help with adhd", "adhd fear of incompetence", "adhd masking help"]
 og_image: "/og/adhd-asking-for-help-debug.png"
-og_title: "RSD & Work"
-og_description: "RSD Hypervigilance got you? Debug your brain's OS & unlock confident communication at work."
+og_title: "ADHD & Help: Debug RSD"
+og_description: "RSD got you paralyzed? Break free and rewire your brain's RSD response for career success. Learn how!"
 ---
 ```
