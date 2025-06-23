@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "ADHD Emotional Outbursts: Stop the Rage & Reclaim Control (RSD & Emotional Dysregulation)"
-description: "Struggling with explosive ADHD rage and emotional dysregulation? Learn why minor frustrations trigger HUGE reactions, how RSD plays a role, and brain-based strategies to calm the storm and rebuild relationships. Discover how to manage ADHD outbursts in adults and teens."
-slug: "adhd-emotional-outbursts-stop-the-rage-reclaim-control-rsd-emotional-dysregulation"
-date: 2025-06-16
-draft: false
+title: "ADHD & Explosive Outbursts: The Frustration Intolerance Sabotaging Your Relationships (And How to Debug It)"
+description: "Laptop slam over slow WiFi? It's low frustration tolerance—PFC fails to modulate amygdala's 'threat' signal (Hirsch et al., 2022). Debug your brain's meltdown OS with..."
+slug: "adhd-emotional-storms-rsd.explosive-outbursts-rage-minor-frustrations"
+author: "Madan | QuirkyLabs"
+date: "2025-06-23"
 type: "page"
-categories: ["ADHD & Emotions", "ADHD Relationships", "Adult ADHD", "Teen ADHD"]
-tags: ["ADHD emotional dysregulation", "ADHD rage", "ADHD anger management", "ADHD outbursts", "ADHD frustration tolerance", "Rejection Sensitive Dysphoria (RSD)", "emotional regulation strategies", "ADHD relationship problems", "ADHD emotional control", "managing ADHD anger", "ADHD emotional sensitivity", "executive dysfunction and emotions", "adult ADHD anger", "teen ADHD anger", "ADHD emotional storms"]
-keywords: ["ADHD emotional outbursts", "ADHD rage", "how to control ADHD anger", "ADHD emotional dysregulation", "RSD and ADHD", "ADHD anger management techniques", "ADHD relationship problems emotional", "ADHD frustration tolerance", "managing ADHD outbursts in adults", "ADHD emotional control strategies", "why do I get so angry ADHD", "ADHD emotional sensitivity", "executive dysfunction and emotions ADHD", "adult ADHD anger", "teen ADHD anger", "ADHD emotional storms"]
-og_image: "/og/adhd-emotional-outbursts.png"
-og_title: "ADHD Emotional Outbursts: Stop the Rage & Reclaim Control (RSD & Emotional Dysregulation)"
-og_description: "Struggling with explosive ADHD rage and emotional dysregulation? Learn why minor frustrations trigger HUGE reactions, how RSD plays a role, and brain-based strategies to calm the storm and rebuild relationships. Discover how to manage ADHD outbursts in adults and teens."
+categories: ["ADHD Emotional Regulation", "Rejection Sensitivity", "ADHD at Work"]
+tags: ["RSD", "emotional dysregulation", "assertiveness", "neurodivergent communication", "people-pleasing ADHD", "self-worth"]
+keywords: ["adhd anger management", "adhd rage", "adhd emotional outbursts", "low frustration tolerance adhd", "adhd emotional dysregulation", "adhd and rejection sensitivity"]
+og_image: "/og/adhd-explosive-outbursts-debug.png"
+og_title: "ADHD & Rage: Debug Your Brain's Frustration Glitch"
+og_description: "Explosive reactions hijacking your relationships? It's an ADHD wiring bug, not a temper. Here's the debug protocol."
 ---
 ```

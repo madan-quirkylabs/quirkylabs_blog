@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "ADHD & the Grief of 'What Could Have Been': Reclaiming Your Story After a Late Diagnosis"
-description: "Struggling with the emotional fallout of a late ADHD diagnosis? Discover why you're grieving a 'life unlived,' how to process the pain, and reclaim your narrative with neuro-affirming strategies."
-slug: "adhd-grief-of-what-could-have-been"
-date: 2025-06-16
-draft: false
+title: "ADHD & Grieving Lost Potential: The DMN Hijack Sabotaging Your Future (And How to Debug It)"
+description: "Feeling sorrow & anger after late ADHD dx? It's your brain re-evaluating your past. AI detects your 'missed potential' Shame-Anchor Neuro-Loop. Debug it with our Narrative Reframe Protocol!"
+slug: "adhd-identity-crisis-late-diagnosis.why-do-i-grieve-my-past"
+author: "Madan | QuirkyLabs"
+date: "2025-06-23"
 type: "page"
-categories: ["ADHD Emotional Regulation", "ADHD Late Diagnosis"]
-tags: ["ADHD grief", "ADHD late diagnosis emotional impact", "ADHD missed potential", "ADHD identity crisis", "ADHD self-compassion", "ADHD acceptance", "ADHD emotional processing", "neurodivergent grief", "coping with ADHD diagnosis", "adhd emotional dysregulation"]
-keywords: ["ADHD grief", "ADHD late diagnosis emotional impact", "ADHD missed potential", "ADHD identity crisis", "ADHD self-compassion", "ADHD acceptance", "ADHD emotional processing", "neurodivergent grief", "coping with ADHD diagnosis", "emotional regulation for ADHD adults", "adhd life unlived", "adhd diagnosis grief stages", "adhd shame after diagnosis", "adhd and regret", "adhd self blame", "adhd what if", "adhd reframe your narrative", "adhd neuro-affirming strategies"]
-og_image: "/og/adhd-grief-of-what-could-have-been.png"
-og_title: "ADHD & the Grief of 'What Could Have Been': Reclaiming Your Story After a Late Diagnosis"
-og_description: "Struggling with the emotional fallout of a late ADHD diagnosis? Discover why you're grieving a 'life unlived,' how to process the pain, and reclaim your narrative with neuro-affirming strategies."
+categories: ["ADHD Emotional Regulation", "Rejection Sensitivity", "Self-Compassion"]
+tags: ["RSD", "emotional dysregulation", "self-worth", "neurodivergent communication", "adhd identity crisis", "people-pleasing ADHD"]
+keywords: ["adhd over apologizing", "adhd rsd and assertiveness", "why do I say sorry so much adhd", "adhd people pleasing", "adhd and rejection sensitivity", "stop over-apologizing neurodivergent"]
+og_image: "/og/adhd-over-apologizing-debug.png"
+og_title: "ADHD & Grief: Debug Your Brain's DMN Hijack"
+og_description: "Late diagnosis grief hijacking your brain? It's a DMN wiring bug. Debug with our Narrative Reframe Protocol."
 ---
 ```

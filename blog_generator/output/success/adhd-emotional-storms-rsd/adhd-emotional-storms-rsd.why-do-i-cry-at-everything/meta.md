@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "ADHD & Crying: Why You Cry So Easily (and How to Manage Emotional Overwhelm)"
-description: "Do you cry easily and often feel emotionally overwhelmed? Discover the link between ADHD and crying, understand the science behind emotional dysregulation, and learn practical strategies to manage your emotions and reduce tears."
-slug: "adhd-and-crying-emotional-overwhelm"
-date: 2025-06-17
-draft: false
+title: "ADHD & Crying Spells: The Sensory Overload Sabotaging Your Control (And How to Debug It)"
+description: "Tears at a puppy commercial? Blame sensory overload, not weakness (Hirsch et al., 2022). Rewire your brain's emotional OS with neuro-hacks—no 'toughing up' needed."
+slug: "adhd-emotional-storms-rsd.why-do-i-cry-at-everything"
+author: "Madan | QuirkyLabs"
+date: "2025-06-23"
 type: "page"
-categories: ["ADHD Emotional Storms & RSD"]
-tags: ["ADHD crying", "ADHD emotional dysregulation", "ADHD emotional lability", "ADHD oversensitivity", "ADHD sensory overload", "ADHD emotional regulation", "RSD and crying", "managing ADHD emotions", "emotional overwhelm ADHD", "why do I cry so easily ADHD", "ADHD and tears", "ADHD emotional control", "ADHD emotional regulation techniques"]
-keywords: ["ADHD and crying", "why do I cry so easily ADHD", "emotional dysregulation ADHD", "ADHD emotional regulation", "ADHD emotional sensitivity", "ADHD sensory overload", "RSD and crying", "coping with ADHD emotions", "ADHD emotional overwhelm", "ADHD tears", "how to stop crying ADHD", "ADHD emotional management", "ADHD emotional lability", "ADHD and oversensitivity"]
-og_image: "/og/adhd-crying-emotional-overwhelm.png"
-og_title: "ADHD & Crying: Why You Cry So Easily (and How to Manage Emotional Overwhelm)"
-og_description: "Do you cry easily and often feel emotionally overwhelmed? Discover the link between ADHD and crying, understand the science behind emotional dysregulation, and learn practical strategies to manage your emotions and reduce tears."
+categories: ["ADHD Emotional Regulation", "Rejection Sensitivity", "Self-Compassion"]
+tags: ["RSD", "compulsive apologizing", "people-pleasing ADHD", "emotional dysregulation", "self-worth", "neurodivergent communication"]
+keywords: ["adhd over apologizing", "adhd rsd and assertiveness", "why do I say sorry so much adhd", "adhd people pleasing", "adhd and rejection sensitivity", "adhd heightened emotional reactivity"]
+og_image: "/og/adhd-over-apologizing-debug.png"
+og_title: "ADHD & Crying: Your Brain's Sensory Overload Glitch"
+og_description: "Crying at everything? It's not you—it's a sensory wiring bug. Here's the debug protocol."
 ---
 ```

@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "Unlock Focus with Body Doubling: ADHD Productivity Hacks You Need Now"
-description: "Struggling to focus alone with ADHD? Discover the power of body doubling! Learn how external presence can boost productivity, overcome task paralysis, and hack your brain for ultimate focus."
-slug: "adhd-vs-productivity-systems"
-date: 2025-06-17
-draft: false
+title: "ADHD & Body Doubling: The Fronto-Striatal Scaffolding Sabotaging Your Solo Productivity (And How to Debug It)"
+description: "Can't work alone? 'Voice in my ear blocks the voice in my head.' Blame ADHD's dopamine deficit (Volkow et al., 2011). Rewire your brain’s solo OS with virtual body doubling."
+slug: "adhd-vs-productivity-systems.body-doubling-adhd"
+author: "Madan | QuirkyLabs"
+date: "2025-06-23"
 type: "page"
-categories: ["ADHD Productivity", "ADHD Relationships", "ADHD Strategies"]
-tags: ["ADHD body doubling", "ADHD productivity", "ADHD focus", "ADHD task initiation", "ADHD task paralysis", "ADHD motivation", "ADHD executive function", "ADHD coping mechanisms", "ADHD support", "Neurodiversity at work", "Remote work ADHD", "Virtual body doubling", "ADHD and accountability"]
-keywords: ["ADHD body doubling explained", "how to use body doubling ADHD", "ADHD productivity tips", "ADHD focus hacks", "overcoming ADHD task paralysis", "ADHD motivation strategies", "ADHD executive function help", "body doubling for adults with ADHD", "virtual body doubling for ADHD", "ADHD and remote work", "adhd accountability partner", "adhd focus friend", "body doubling for focus adhd", "adhd motivation buddy", "adhd work from home tips", "adhd productivity buddy", "adhd social facilitation", "adhd external motivation"]
-og_image: "/og/adhd-body-doubling.png"
-og_title: "Unlock Focus with Body Doubling: ADHD Productivity Hacks You Need Now"
-og_description: "Struggling to focus alone with ADHD? Discover the power of body doubling! Learn how external presence can boost productivity, overcome task paralysis, and hack your brain for ultimate focus."
+categories: ["ADHD Emotional Regulation", "ADHD at Work", "Self-Compassion"]
+tags: ["RSD", "people-pleasing ADHD", "emotional dysregulation", "self-worth", "neurodivergent communication", "assertiveness"]
+keywords: ["adhd body doubling", "adhd productivity hacks", "adhd and rejection sensitivity", "adhd dopamine deficit", "adhd and assertiveness", "adhd virtual body doubling"]
+og_image: "/og/adhd-body-doubling-debug.png"
+og_title: "ADHD & Body Doubling: The Secret to Unlocking Solo Focus"
+og_description: "Struggling to work alone? It’s not you—it’s your ADHD brain needing social scaffolding. Discover the power of body doubling."
 ---
 ```

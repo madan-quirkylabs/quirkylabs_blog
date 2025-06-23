@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "Afraid to Ask for Help at Work? How ADHD, Shame, and RSD Sabotage Your Career (and How to Fight Back)"
-description: "Do you freeze up when you need help at work? Explore the ADHD shame spiral, Rejection Sensitive Dysphoria (RSD), and fear of incompetence that sabotage your career. Learn neuro-affirming strategies to overcome communication barriers and thrive."
-slug: "afraid-to-ask-for-help-at-work"
-date: 2025-06-16
-draft: false
+title: "ADHD & Fear of Asking for Help: The Shame-Anchor Neuro-Loop Sabotaging Your Career (And How to Debug It)"
+description: "Stomach churns at asking for help? Blame RSD & internalized shame (Lenzi et al., 2020). Rewire your brain’s 'Fear_of_Incompetence' OS with neuro-hacks—no willpower needed."
+slug: "adhd-career-survival-mode.profound-fear-of-asking-for-help-at-work"
+author: "Madan | QuirkyLabs"
+date: "2025-06-23"
 type: "page"
-categories: ["ADHD Career", "ADHD Communication", "ADHD Productivity"]
-tags: ["ADHD career", "ADHD work struggles", "ADHD communication", "Rejection Sensitive Dysphoria (RSD)", "ADHD shame", "fear of asking for help", "ADHD workplace", "executive function", "neurodiversity at work", "ADHD and imposter syndrome", "overcoming ADHD challenges", "neuro-affirming strategies", "ADHD career advice", "ADHD and vulnerability"]
-keywords: ["ADHD afraid to ask for help", "ADHD RSD and work", "ADHD workplace shame", "overcoming ADHD incompetence fear", "ADHD career communication", "ADHD and vulnerability", "neurodiversity at work", "ADHD masking", "ADHD strategies for asking for help", "ADHD career survival mode", "ADHD executive dysfunction at work"]
-og_image: "/og/adhd-afraid-to-ask-for-help.png"
-og_title: "Afraid to Ask for Help at Work? How ADHD, Shame, and RSD Sabotage Your Career (and How to Fight Back)"
-og_description: "Do you freeze up when you need help at work? Explore the ADHD shame spiral, Rejection Sensitive Dysphoria (RSD), and fear of incompetence that sabotage your career. Learn neuro-affirming strategies to overcome communication barriers and thrive."
+categories: ["ADHD Emotional Regulation", "Rejection Sensitivity", "ADHD at Work"]
+tags: ["RSD", "people-pleasing ADHD", "emotional dysregulation", "assertiveness", "self-worth", "neurodivergent communication"]
+keywords: ["adhd over apologizing", "adhd rsd and assertiveness", "why do I say sorry so much adhd", "adhd people pleasing", "adhd and rejection sensitivity", "stop over-apologizing neurodivergent"]
+og_image: "/og/adhd-over-apologizing-debug.png"
+og_title: "ADHD & Help Aversion: Your Brain's Shame-Anchor Glitch"
+og_description: "Fear asking for help at work? It's not you—it's a shame-based RSD wiring bug. Debug your brain with our proven system."
 ---
 ```

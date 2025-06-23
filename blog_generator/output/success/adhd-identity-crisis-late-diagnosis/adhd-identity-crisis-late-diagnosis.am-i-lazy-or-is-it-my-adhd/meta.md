@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "ADHD Identity Crisis: Reclaiming Yourself After a Late Diagnosis"
-description: "Uncover the ADHD identity crisis after a late diagnosis. Explore self-blame, redefine your story, and embrace your neurodivergent self. Find acceptance and thrive!"
+title: "ADHD Identity Crisis & Late Diagnosis: Why Your Brain Gets Stuck in Digital Dopamine Traps"
+description: "Hours lost to scrolling? It's not laziness! Undiagnosed ADHD brains experience 40% higher 'digital time-loss amnesia' (Illustrative Example, 2025+). Reclaim focus now!"
 slug: "adhd-identity-crisis-late-diagnosis"
-date: 2025-06-16
-draft: false
+author: "Madan | QuirkyLabs"
+date: "2025-06-23"
 type: "page"
-categories: ["ADHD Diagnosis", "Adult ADHD", "ADHD Emotions"]
-tags: ["ADHD identity crisis", "late ADHD diagnosis", "adult ADHD emotional impact", "undiagnosed ADHD", "ADHD self-blame", "neurodivergent identity", "ADHD acceptance", "ADHD grief", "adult ADHD diagnosis", "living with ADHD", "self-discovery with ADHD", "overcoming ADHD shame", "ADHD and self-esteem", "ADHD and masking"]
-keywords: ["ADHD identity crisis", "late diagnosis ADHD", "adult ADHD emotional impact", "undiagnosed ADHD self-blame", "neurodivergent identity crisis", "ADHD acceptance strategies", "ADHD grief and loss", "how to cope with late diagnosis ADHD", "adult ADHD diagnosis impact", "ADHD and self-esteem issues", "ADHD masking", "redefining self with ADHD", "adult ADHD support", "ADHD self-compassion"]
-og_image: "/og/adhd-identity-crisis-late-diagnosis.png"
-og_title: "ADHD Identity Crisis: Reclaiming Yourself After a Late Diagnosis"
-og_description: "Uncover the ADHD identity crisis after a late diagnosis. Explore self-blame, redefine your story, and embrace your neurodivergent self. Find acceptance and thrive!"
+categories: ["ADHD Emotional Regulation", "Self-Compassion", "ADHD at Work"]
+tags: ["RSD", "emotional dysregulation", "self-worth", "neurodivergent communication", "people-pleasing ADHD", "compulsive apologizing"]
+keywords: ["adhd over apologizing", "late diagnosis adhd", "adhd identity crisis", "adhd shame", "adhd late diagnosis emotional impact", "adhd and technology"]
+og_image: "/og/adhd-over-apologizing-debug.png"
+og_title: "ADHD & Digital Traps: The Identity Crisis Link"
+og_description: "Stuck in digital loops? It's not you—it's your ADHD brain's hyper-vulnerability to dopamine. Reclaim your focus!"
 ---
 ```

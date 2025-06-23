@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "Sensory Overload in Public with ADHD? Reclaim Your Calm with Neuro-Hacks"
-description: "Struggling with sensory overload in public spaces due to ADHD? Learn practical strategies to manage triggers, reduce anxiety, and reclaim your focus with our neuro-affirming guide."
-slug: "adhd-body-and-senses"
-date: 2025-06-17
-draft: false
+title: "ADHD & Sensory Overload: The Hyper-Sensitive Amygdala Sabotaging Your Calm (And How to Debug It)"
+description: "Panic in a crowded grocery store? It's not 'being sensitive'—it's your amygdala's hyper-response to sensory input (Bijlenga et al., 2017). Debug your brain's 'Sensory Assault' OS now!"
+slug: "adhd-body-and-senses.sensory-overload-and-executive-function-shutdown"
+author: "Madan | QuirkyLabs"
+date: "2025-06-23"
 type: "page"
-categories: ["ADHD Body & Senses", "ADHD Sensory Issues", "ADHD Anxiety"]
-tags: ["ADHD sensory overload", "ADHD in public spaces", "ADHD anxiety", "ADHD coping mechanisms", "sensory processing disorder ADHD", "misophonia ADHD", "ADHD strategies", "sensory regulation ADHD", "urban ADHD", "ADHD overwhelm"]
-keywords: ["ADHD sensory overload in public", "sensory processing ADHD", "ADHD anxiety and sensory input", "coping with ADHD sensory overload", "ADHD urban environment", "sensory regulation for ADHD", "ADHD and public spaces", "misophonia and ADHD", "ADHD overwhelm", "neurodiversity sensory issues"]
-og_image: "/og/adhd-sensory-overload-public.png"
-og_title: "Sensory Overload in Public with ADHD? Reclaim Your Calm with Neuro-Hacks"
-og_description: "Struggling with sensory overload in public spaces due to ADHD? Learn practical strategies to manage triggers, reduce anxiety, and reclaim your focus with our neuro-affirming guide."
+categories: ["ADHD Emotional Regulation", "Rejection Sensitivity", "ADHD at Work"]
+tags: ["RSD", "emotional dysregulation", "neurodivergent communication", "sensory processing difficulties", "people-pleasing ADHD", "self-worth"]
+keywords: ["adhd sensory overload", "adhd executive dysfunction", "adhd and public spaces", "sensory overload grocery store adhd", "adhd sensory processing", "adhd and rejection sensitivity"]
+og_image: "/og/adhd-sensory-overload-debug.png"
+og_title: "ADHD & Sensory Overload: Debug Your Brain's Response"
+og_description: "Sensory overload hijacking your calm? It's your amygdala! Debug your brain's hyper-sensitivity with this simple protocol."
 ---
 ```

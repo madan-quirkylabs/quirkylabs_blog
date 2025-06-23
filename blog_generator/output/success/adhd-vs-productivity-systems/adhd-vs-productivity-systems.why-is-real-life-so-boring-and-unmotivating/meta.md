@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "ADHD vs. Boring Tasks: Why 'Real Life' Feels Unmotivating & How to Hack It"
-description: "Struggling to motivate yourself for mundane tasks? Discover why ADHD brains find 'real life' boring, the neurobiological reasons behind procrastination, and actionable hacks to unlock your focus and conquer task paralysis."
+title: "ADHD & Why Real Life Feels Boring: The Dopamine Deficit Sabotaging Your Motivation (And How to Debug It)"
+description: "Struggling to start even simple tasks? It's not laziness! ADHD brains often lack the dopamine 'spark' for uninteresting tasks (Biederman & Faraone, 2007). Debug your motivation OS now!"
 slug: "why-is-real-life-so-boring-and-unmotivating"
-date: 2025-06-21
-draft: false
+author: "Madan | QuirkyLabs"
+date: "2025-06-23"
 type: "page"
-categories: ["ADHD Productivity", "Executive Function", "Motivation & Focus"]
-tags: ["ADHD motivation", "ADHD procrastination", "ADHD boredom", "executive dysfunction", "task paralysis", "dopamine and ADHD", "ADHD task initiation", "boring tasks ADHD", "ADHD and motivation hacks", "ADHD productivity", "ADHD executive function", "ADHD and dopamine", "how to motivate with ADHD", "ADHD friendly productivity", "ADHD hacks", "ADHD tips", "ADHD strategies", "adhd and motivation", "neurodiversity", "neurodivergent", "adhd brain", "adhd in adults", "adhd life hacks"]
-keywords: ["ADHD motivation hacks", "ADHD procrastination solutions", "ADHD executive dysfunction help", "Why is real life so boring with ADHD", "How to motivate ADHD brain", "ADHD task initiation strategies", "ADHD dopamine fix", "ADHD interest based nervous system", "executive function and boredom", "ADHD and motivation", "ADHD task paralysis", "ADHD friendly productivity", "neurodiversity", "neurodivergent", "adhd brain", "adhd in adults", "adhd life hacks", "adhd boring tasks", "adhd motivation", "adhd productivity"]
-og_image: "/og/adhd-boring-tasks.png"
-og_title: "ADHD vs. Boring Tasks: Why 'Real Life' Feels Unmotivating & How to Hack It"
-og_description: "Struggling to motivate yourself for mundane tasks? Discover why ADHD brains find 'real life' boring, the neurobiological reasons behind procrastination, and actionable hacks to unlock your focus and conquer task paralysis."
+categories: ["ADHD Emotional Regulation", "Self-Compassion", "ADHD at Work"]
+tags: ["RSD", "emotional dysregulation", "self-worth", "neurodivergent communication", "people-pleasing ADHD", "assertiveness"]
+keywords: ["adhd over apologizing", "adhd rsd and assertiveness", "why do I say sorry so much adhd", "adhd people pleasing", "adhd and rejection sensitivity", "stop over-apologizing neurodivergent"]
+og_image: "/og/adhd-over-apologizing-debug.png"
+og_title: "ADHD: Why Is Real Life So Boring?"
+og_description: "Mundane tasks feel impossible? It's not you—it's your ADHD brain's dopamine glitch. Discover the debug protocol for a more engaging life."
 ---
 ```

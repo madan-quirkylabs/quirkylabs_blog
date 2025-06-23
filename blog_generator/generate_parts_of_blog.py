@@ -8,85 +8,48 @@ SPOKE_METADATA_ROOT = os.path.join("config", "spoke-metadata")
 OUTPUT_ROOT = os.path.join(os.path.dirname(__file__), "output", "success")
 
 GENERATE_META_FOR_ARTICLE_PROMPT = """
----
+Act as QuirkyLabs' Chief Neural Architect. Generate SEO-optimized metadata for the ADHD spoke article with slug: '{spoke_slug}'.
 
-### **Ultimate Gemini Prompt for ADHD Metadata Generation**  
-**Role & Goal:**  
-*You are a neuro-savvy content strategist for QuirkyLabs, crafting metadata that blends scientific rigor, emotional resonance, and SERP dominance. Your output must:*  
-1. **Mirror the spoke’s pain point** (e.g., task-switching pain, digital overwhelm).  
-2. **Leverage neurobiological insights** from the research studies in the spoke metadata.  
-3. **Align with QuirkyLabs’ "Operating System for ADHD Brains" brand voice** (game-based, shame-free, dopamine-aware).  
+**Follow these exact rules:**
 
-**Input Template:**  
-```markdown
-"adhd-[TOPIC]-[SUBTOPIC].[QUESTION-FORMAT-SLUG]"  
-Example: "adhd-task-paralysis-focus.why-is-switching-tasks-so-mentally-painful"  
-```  
+1. **TITLE (Use this priority order):**
+   - Diagnostic: "ADHD & [Pain]: The [Neuro-Mechanism] Sabotaging Your [Struggle] (And How to Debug It)"
+   - Emotional: "[Struggle] Isn’t Laziness—It’s Your Brain’s [Neuro-Mechanism] in Overdrive"
+   - Must include:
+     - Primary pain point (e.g., "medical bill paralysis", "time blindness")
+     - Neuro-mechanism from research (e.g., "amygdala freeze", "dopamine dip", "RSD hypervigilance")
+     - Brand-aligned metaphor ("debug", "OS upgrade", "neural reboot")
 
-**Output Requirements:**  
-1. **Title:**  
-   - Include:  
-     - **Primary pain point** (e.g., "mentally painful task-switching").  
-     - **Neuro-mechanism** (e.g., "dopamine cliffs," "fronto-striatal circuits").  
-     - **Empowering twist** (e.g., "hack your brain’s OS").  
-   - Formats:  
-     - **Diagnostic**: "ADHD & [Pain]: Why [Specific Struggle] Feels Like [Vivid Metaphor]".  
-     - **Emotional**: "[Struggle] Isn’t Your Fault—It’s Your Brain’s [Neuro-Mechanism]".  
-     - **Solution**: "How to [Action] When Your ADHD Brain [Pain Point]".  
+2. **DESCRIPTION (155–165 chars):**
+   - Structure:
+     1. Raw confession or emotional image (e.g., "Opening bills = physical assault?")
+     2. Cite study or expert (e.g., "Dodson 2019", "Zickgraf et al., 2020")
+     3. Solution tease: ("Rewire your brain’s [X] OS with a Neuro-Action Checklist")
 
-2. **Description:**  
-   - Structure:  
-     - **Hook**: Validate the visceral struggle (e.g., "That ‘brain grind’ when switching tasks?").  
-     - **Neuro-proof**: Cite a study/mechanism (e.g., "Dopamine dysregulation makes disengagement agonizing").  
-     - **Solution tease**: "Science-backed hacks to smooth transitions".  
-   - Length: 150–180 chars.  
+3. **DYNAMIC FIELD RULES (based on topic):**
+   - Categories: Choose 3 from:
+     - "ADHD Emotional Regulation", "Rejection Sensitivity", "Self-Compassion", 
+     - "ADHD at Work", "ADHD and Money", "ADHD Productivity", "Executive Dysfunction"
+   - Tags: Must include 6 tags relevant to the spoke topic (e.g., ["RSD", "bill anxiety", "avoidance behavior"])
+   - Keywords: Must include at least 6 search-intent-matching phrases a person with ADHD might Google
+   - og_image: "/og/adhd-[slugified-pain-point]-debug.png" (e.g., "/og/adhd-bill-paralysis-debug.png")
 
-3. **Categories/Tags:**  
-   - Pull from spoke’s `cluster_name` and `pillar_keywords_foundational`.  
-   - Add **2–3 neuro-specific tags** (e.g., "ADHD set-shifting," "dopamine cliffs").  
-
-4. **Keywords:**  
-   - Prioritize **long-tail queries** from `search_intent_profile` (e.g., "why is switching tasks hard with ADHD").  
-   - Include **community slang** (e.g., "brain freeze," "digital quicksand").  
-
-5. **OG Image/Title:**  
-   - Suggest visuals that **mirror neural conflict** (e.g., "brain gears grinding" for task-switching).  
-
-**Example Output for `adhd-task-paralysis-focus.why-is-switching-tasks-so-mentally-painful`:**  
+4. **REQUIRED MARKDOWN FORMAT:**
 ```markdown
 ---
-title: "ADHD Task-Switching Pain: Why Your Brain ‘Grinds Gears’ (And How to Lubricate Them)"  
-description: "That ‘mental grinding’ when switching tasks? Blame dopamine cliffs and weak inhibitory control. Discover neuro-hacks to smooth transitions and protect your focus."  
-slug: "adhd-task-paralysis-focus.why-is-switching-tasks-so-mentally-painful"  
-categories: ["ADHD Focus", "Executive Dysfunction", "ADHD at Work"]  
-tags: ["ADHD task switching", "cognitive friction", "ADHD interruptions", "set-shifting deficit", "dopamine cliffs"]  
-keywords: ["why is switching tasks painful ADHD", "ADHD brain freeze when interrupted", "how to handle task transitions ADHD", "ADHD and cognitive whiplash"]  
-og_image: "/og/adhd-task-switching-pain.png"  
-og_title: "ADHD Task-Switching Pain: Why Your Brain ‘Grinds Gears’"  
-og_description: "Switching tasks with ADHD isn’t just hard—it’s neurologically costly. Learn why and how to reduce the friction."  
+title: "[Generated Title]"
+description: "[Generated Description]"
+slug: "{spoke_slug}"
+author: "Madan | QuirkyLabs"
+date: "2025-06-23"  # Always use current date in YYYY-MM-DD
+type: "page"
+categories: ["Category A", "Category B", "Category C"]
+tags: ["tag1", "tag2", "tag3", "tag4", "tag5", "tag6"]
+keywords: ["keyword1", "keyword2", "keyword3", "keyword4", "keyword5", "keyword6"]
+og_image: "/og/adhd-[slugified-pain-point]-debug.png"
+og_title: "[Shortened Title for Social Media Cards]"
+og_description: "[<120 char neuro-mechanism + benefit tease]"
 ---
-```
-
-**Pro Tips for Gemini:**  
-- **Inject urgency**: Use phrases like *"Science reveals why your brain rebels"* or *"Your struggle is neurobiological—here’s the workaround."*  
-- **Leverage spoke’s "killer hooks"**: Borrow vivid metaphors (e.g., *"cognitive gearbox seizure"*).  
-- **Align with conversion goals**: Tease the *"Operating System for ADHD Brains"* subtly (e.g., *"Your brain’s OS needs an upgrade"*).  
-
-**Prompt for Gemini:**  
-```markdown
-"Generate metadata for the ADHD spoke '[INSERT-SPOKE-SLUG]' using the following rules:  
-1. **Title**: Blend pain point + neuro-mechanism + solution tease. Use formats: Diagnostic/Emotional/Solution.  
-2. **Description**: Hook (validate pain) + neuro-proof (cite a mechanism from the spoke’s research) + solution tease. Max 180 chars.  
-3. **Categories/Tags**: Pull from spoke’s cluster/pillar keywords. Add 2 neuro-specific tags.  
-4. **Keywords**: Prioritize long-tail queries and community slang from spoke’s search_intent_profile.  
-5. **OG Data**: Suggest a visual metaphor for neural conflict.  
-
-Voice: Jargon-free, empowering, and mildly rebellious (e.g., ‘Your brain isn’t broken—it’s bored’).  
-
-Example Input: 'adhd-task-paralysis-focus.why-is-switching-tasks-so-mentally-painful'  
-Example Output: [PASTE EXAMPLE ABOVE]  
-
-Now generate for: '[INSERT-SPOKE-SLUG]'."  
 """
 
 def discover_spoke_metadata():
@@ -194,8 +157,7 @@ def generate_meta_prompt(example_meta_path, spoke_metadata):
     spoke_json = json.dumps(spoke_metadata, indent=2, ensure_ascii=False)
     # Construct the prompt
     prompt = (
-        "For a similar spoke_metadata, the following meta section was generated:\n\n"
-        f"{example_meta}\n\n"
+        f"{GENERATE_META_FOR_ARTICLE_PROMPT}\n\n"
         "Now, generate a comprehensive meta section for this spoke_metadata (output only the meta section in markdown). "
         "The slug must match the spoke slug exactly. The meta must be highly SEO-optimized, as this is the main source of user engagement.\n\n"
         f"{spoke_json}"
@@ -205,7 +167,8 @@ def generate_meta_prompt(example_meta_path, spoke_metadata):
 
 def meta_file_exists(pillar_slug, spoke_slug):
     out_path = os.path.join(OUTPUT_ROOT, pillar_slug, spoke_slug, "meta.md")
-    return os.path.exists(out_path)
+    return False
+    # return os.path.exists(out_path)
 
 
 def write_meta_to_file(pillar_slug, spoke_slug, meta_markdown):
@@ -218,6 +181,7 @@ def write_meta_to_file(pillar_slug, spoke_slug, meta_markdown):
 
 def meta_ldjson_file_exists(pillar_slug, spoke_slug):
     out_path = os.path.join(OUTPUT_ROOT, pillar_slug, spoke_slug, "meta-ldjson.md")
+    return False
     return os.path.exists(out_path)
 
 

@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "Why You're Hooked: App Cycling & the ADHD Brain's Dopamine Loop"
-description: "Stuck in a cycle of downloading new productivity apps, only to abandon them? Discover the neuroscience behind ADHD app cycling, dopamine traps, and proven strategies to finally stick to a system."
-slug: "why-am-i-addicted-to-buying-new-productivity-apps"
-date: 2025-06-16
-draft: false
+title: "ADHD & App Cycling: The Novelty-Seeking Sabotaging Your Productivity (And How to Debug It)"
+description: "Bought another productivity app you'll forget about? Blame your ADHD brain's dopamine cravings (Tice & Bratslavsky, 2000). Debug your 'app addiction' with a neural OS upgrade."
+slug: "adhd-vs-productivity-systems.why-am-i-addicted-to-buying-new-productivity-apps"
+author: "Madan | QuirkyLabs"
+date: "2025-06-23"
 type: "page"
-categories: ["ADHD Productivity", "ADHD and Technology"]
-tags: ["ADHD productivity apps", "ADHD app cycling", "ADHD dopamine", "ADHD executive dysfunction", "ADHD novelty seeking", "ADHD productivity systems", "ADHD time blindness", "best productivity apps for ADHD", "overcoming ADHD overwhelm", "how to stick to a productivity system ADHD", "digital distraction ADHD"]
-keywords: ["ADHD app addiction", "why do I keep buying new apps ADHD", "ADHD productivity system", "ADHD and dopamine", "ADHD executive function", "ADHD novelty seeking", "ADHD productivity tools", "ADHD time management", "ADHD overwhelm", "sticking to productivity system ADHD", "digital distraction ADHD"]
-og_image: "/og/adhd-app-cycling.png"
-og_title: "Why You're Hooked: App Cycling & the ADHD Brain's Dopamine Loop"
-og_description: "Stuck in a cycle of downloading new productivity apps, only to abandon them? Discover the neuroscience behind ADHD app cycling, dopamine traps, and proven strategies to finally stick to a system."
+categories: ["ADHD at Work", "ADHD Emotional Regulation", "Self-Compassion"]
+tags: ["RSD", "compulsive apologizing", "people-pleasing ADHD", "emotional dysregulation", "neurodivergent communication", "self-worth"]
+keywords: ["adhd over apologizing", "adhd rsd and assertiveness", "adhd tech addiction symptoms adult", "adhd and rejection sensitivity", "adhd productivity hacks", "brain hacks for digital distraction ADHD"]
+og_image: "/og/adhd-over-apologizing-debug.png"
+og_title: "ADHD & App Addiction: Your Brain's Novelty Loop"
+og_description: "Constantly chasing new apps? It's not you—it's a dopamine wiring bug. Here's the debug protocol to reclaim your focus."
 ---
 ```

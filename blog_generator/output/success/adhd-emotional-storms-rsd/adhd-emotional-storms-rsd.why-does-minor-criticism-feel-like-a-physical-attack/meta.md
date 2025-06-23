@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "ADHD Emotional Storms & RSD: Why Criticism Feels Like a Physical Attack"
-description: "Struggling with ADHD emotional storms and Rejection Sensitive Dysphoria (RSD)? Learn why minor criticism feels like a physical attack, explore brain-first strategies, and upgrade your emotional operating system for calm."
+title: "ADHD & Criticism's Sting: The RSD Pain Matrix Sabotaging Your Self-Worth (And How to Debug It)"
+description: "Minor critique feels like a punch to the gut? It's RSD's 'social rejection = physical pain' wiring (Braaten & Rosén, 2025). Debug your brain's pain matrix with our RSD Shield Protocol."
 slug: "adhd-emotional-storms-rsd"
-date: 2025-06-16
-draft: false
+author: "Madan | QuirkyLabs"
+date: "2025-06-23"
 type: "page"
-categories: ["ADHD & Emotions", "Rejection Sensitive Dysphoria"]
-tags: ["ADHD emotional dysregulation", "Rejection Sensitive Dysphoria (RSD)", "ADHD mood swings", "ADHD sensitivity", "ADHD emotional lability", "ADHD anger management", "ADHD overreacting", "ADHD criticism", "RSD in adults", "emotional regulation ADHD", "managing RSD", "ADHD emotional overwhelm", "brain-first strategies for emotions", "neurodiversity emotions", "ADHD and relationships", "ADHD and work"]
-keywords: ["ADHD emotional storms", "RSD ADHD", "Rejection Sensitive Dysphoria", "ADHD emotional pain", "ADHD overreacting", "ADHD criticism sensitivity", "emotional dysregulation ADHD", "manage ADHD emotions", "cope with RSD", "ADHD and criticism", "why criticism hurts ADHD", "emotional regulation for ADHD", "ADHD emotional triggers", "brain hacks for ADHD emotions", "RSD symptoms in adults", "ADHD emotional overwhelm", "dopamine and emotions ADHD", "amygdala hijack ADHD"]
-og_image: "/og/adhd-emotional-storms-rsd.png"
-og_title: "ADHD Emotional Storms & RSD: Why Criticism Feels Like a Physical Attack"
-og_description: "Struggling with ADHD emotional storms and Rejection Sensitive Dysphoria (RSD)? Learn why minor criticism feels like a physical attack, explore brain-first strategies, and upgrade your emotional operating system for calm."
+categories: ["ADHD Emotional Regulation", "Rejection Sensitivity", "Self-Compassion"]
+tags: ["RSD", "compulsive apologizing", "people-pleasing ADHD", "emotional dysregulation", "self-worth", "neurodivergent communication"]
+keywords: ["adhd over apologizing", "adhd rsd and assertiveness", "why does criticism hurt so much adhd", "adhd and rejection sensitivity", "adhd people pleasing", "adhd and rejection sensitivity", "stop over-apologizing neurodivergent"]
+og_image: "/og/adhd-over-apologizing-debug.png"
+og_title: "ADHD & RSD: Why Criticism Feels Like a Punch"
+og_description: "Criticism triggering physical pain? It's not weakness—it's your RSD wiring. Here's how to debug your emotional pain matrix."
 ---
 ```

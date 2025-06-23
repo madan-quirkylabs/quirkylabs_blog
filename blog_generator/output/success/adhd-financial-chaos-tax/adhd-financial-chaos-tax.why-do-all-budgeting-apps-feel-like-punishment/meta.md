@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "ADHD & Budgeting: Why Traditional Apps Fail (and What Actually Works)"
-description: "Struggling with budgeting apps? Discover why they often fail ADHD brains, the neurobiological reasons behind financial overwhelm, and ADHD-friendly strategies for financial peace."
-slug: "adhd-budgeting"
-date: 2025-06-16
-draft: false
+title: "ADHD & Budgeting App Overwhelm: Why Your Brain Sabotages Your Finances (It's Not Your Fault)"
+description: "Budgeting apps feel like torture? You're not alone. Executive dysfunction + low dopamine make them neurologically punishing (Pollak & Fried, 2020). Debug your financial OS with..."
+slug: "adhd-financial-chaos.why-do-budgeting-apps-feel-like-punishment"
+author: "Madan | QuirkyLabs"
+date: "2025-06-23"
 type: "page"
-categories: ["ADHD & Money", "ADHD Productivity"]
-tags: ["ADHD budgeting", "ADHD financial management", "ADHD money problems", "executive dysfunction", "impulse spending", "financial overwhelm", "ADHD shame", "time blindness", "neurodiversity finance", "ADHD-friendly budgeting apps", "ADHD tax"]
-keywords: ["ADHD budgeting", "ADHD money management", "why budgeting apps don't work for ADHD", "ADHD financial overwhelm", "ADHD impulse spending", "ADHD debt", "ADHD financial shame", "ADHD time blindness and finances", "best budgeting apps for ADHD", "ADHD financial tips", "ADHD-friendly budgeting", "ADHD tax", "executive function and money"]
-og_image: "/og/adhd-budgeting.png"
-og_title: "ADHD & Budgeting: Why Traditional Apps Fail (and What Actually Works)"
-og_description: "Struggling with budgeting apps? Discover why they often fail ADHD brains, the neurobiological reasons behind financial overwhelm, and ADHD-friendly strategies for financial peace."
+categories: ["ADHD Emotional Regulation", "Rejection Sensitivity", "ADHD at Work"]
+tags: ["RSD", "compulsive apologizing", "people-pleasing ADHD", "emotional dysregulation", "assertiveness", "self-worth"]
+keywords: ["adhd over apologizing", "adhd rsd and assertiveness", "why do I say sorry so much adhd", "adhd people pleasing", "adhd and rejection sensitivity", "stop over-apologizing neurodivergent"]
+og_image: "/og/adhd-over-apologizing-debug.png"
+og_title: "ADHD & Budgeting: Your Brain's Dysregulation Glitch"
+og_description: "Budgeting apps triggering overwhelm? It's not you—it's a wiring bug. Here's the debug protocol."
 ---
 ```

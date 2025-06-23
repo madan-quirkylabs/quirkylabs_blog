@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "ADHD Time Blindness & Lateness: Stop the Clock-Chasing Chaos"
-description: "Always late? ADHD time blindness makes punctuality a neuro-cognitive battle. Discover why your brain struggles with time and get actionable strategies to conquer lateness, reclaim control, and ditch the guilt."
-slug: "adhd-time-warp-procrastination"
-date: 2025-06-16
-draft: false
+title: "ADHD & Chronic Lateness: The Time Blindness Sabotaging Your Life (And How to Debug It)"
+description: "Always running late, even when you try? Blame time blindness & digital dopamine traps (Ptacek 2019). Rewire your brain's temporal OS with neuro-hacks—no willpower needed."
+slug: "adhd-time-warp-procrastination.chronic-lateness"
+author: "Madan | QuirkyLabs"
+date: "2025-06-23"
 type: "page"
-categories: ["ADHD & Time Management", "ADHD Productivity", "Adult ADHD"]
-tags: ["ADHD time blindness", "ADHD lateness", "ADHD procrastination", "ADHD time management strategies", "executive function deficits", "ADHD and punctuality", "ADHD digital distraction", "overcoming ADHD challenges", "time perception ADHD", "managing ADHD symptoms", "ADHD hacks", "digital time warp", "ADHD brain", "time management tips for ADHD", "ADHD friendly tools", "neurodiversity", "rejection sensitive dysphoria", "ADHD and anxiety", "ADHD guilt", "ADHD shame"]
-keywords: ["ADHD time blindness", "ADHD lateness", "ADHD time management", "time blindness ADHD", "ADHD procrastination", "how to be on time with ADHD", "ADHD punctuality", "ADHD digital distraction", "ADHD and time", "ADHD symptoms", "ADHD hacks", "adult ADHD", "time perception ADHD", "ADHD brain", "executive dysfunction", "rejection sensitive dysphoria", "ADHD shame", "ADHD guilt", "ADHD and anxiety", "time management for ADHD"]
-og_image: "/og/adhd-time-blindness-lateness.png"
-og_title: "ADHD Time Blindness & Lateness: Stop the Clock-Chasing Chaos"
-og_description: "Always late? ADHD time blindness makes punctuality a neuro-cognitive battle. Discover why your brain struggles with time and get actionable strategies to conquer lateness, reclaim control, and ditch the guilt."
+categories: ["ADHD Emotional Regulation", "Rejection Sensitivity", "ADHD at Work"]
+tags: ["RSD", "compulsive apologizing", "people-pleasing ADHD", "emotional dysregulation", "assertiveness", "neurodivergent communication"]
+keywords: ["adhd over apologizing", "adhd rsd and assertiveness", "why do I say sorry so much adhd", "adhd people pleasing", "adhd and rejection sensitivity", "stop over-apologizing neurodivergent"]
+og_image: "/og/adhd-over-apologizing-debug.png"
+og_title: "ADHD & Lateness: Your Brain's Time Blindness Glitch"
+og_description: "Chronic lateness hijacking your life? It's not you—it's a time blindness wiring bug. Here's the debug protocol."
 ---
 ```

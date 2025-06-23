@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "ADHD & 'Involuntary Ghosting': Why You Ignore Texts (and How to Stop Feeling Guilty)"
-description: "Do you have ADHD and struggle to reply to texts, even from people you care about? Learn the neurobiological reasons behind 'involuntary ghosting,' break the shame cycle, and discover actionable hacks to improve communication and relationships."
-slug: "adhd-involuntary-ghosting"
-date: 2025-06-16
-draft: false
+title: "ADHD & 'Involuntary Ghosting': The Executive Dysfunction Sabotaging Your Connections (And How to Debug It)"
+description: "Ignore texts from people you LIKE? Blame executive function's 'out of sight, out of mind' glitch (Orlov 2010). Rewire your brain's connection OS—no shame needed."
+slug: "adhd-involuntary-ghosting-executive-dysfunction"
+author: "Madan | QuirkyLabs"
+date: "2025-06-23"
 type: "page"
-categories: ["ADHD Relationships", "ADHD Social Skills"]
-tags: ["ADHD relationships", "ADHD communication", "ADHD social skills", "ADHD texting", "ADHD ghosting", "Rejection Sensitive Dysphoria", "RSD", "executive dysfunction", "ADHD and relationships", "ADHD and friendships", "ADHD guilt", "ADHD shame", "ADHD relationship problems", "neurodiversity", "neurodiverse relationships"]
-keywords: ["ADHD relationships", "ADHD communication", "ADHD texting", "ADHD ghosting", "involuntary ghosting", "ADHD and relationships", "ADHD social skills", "RSD and ADHD", "executive dysfunction and relationships", "why do I ignore texts ADHD", "ADHD relationship advice", "ADHD and friendships", "ADHD guilt and shame", "ADHD relationship problems"]
-og_image: "/og/adhd-involuntary-ghosting.png"
-og_title: "ADHD & 'Involuntary Ghosting': Why You Ignore Texts (and How to Stop Feeling Guilty)"
-og_description: "Do you have ADHD and struggle to reply to texts, even from people you care about? Learn the neurobiological reasons behind 'involuntary ghosting,' break the shame cycle, and discover actionable hacks to improve communication and relationships."
+categories: ["ADHD Emotional Regulation", "Rejection Sensitivity", "ADHD at Work"]
+tags: ["RSD", "compulsive apologizing", "people-pleasing ADHD", "emotional dysregulation", "assertiveness", "neurodivergent communication"]
+keywords: ["adhd over apologizing", "adhd rsd and assertiveness", "why do I say sorry so much adhd", "adhd people pleasing", "adhd and rejection sensitivity", "stop over-apologizing neurodivergent"]
+og_image: "/og/adhd-over-apologizing-debug.png"
+og_title: "ADHD & 'Ghosting': Your Brain's Executive Glitch"
+og_description: "Unintentionally ignoring texts? It's not you—it's an executive function bug. Here's the debug protocol for ADHD brains."
 ---
 ```

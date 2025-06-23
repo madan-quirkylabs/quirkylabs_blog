@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "ADHD vs. Productivity Systems: Why You Keep Crashing (and How to Finally Win)"
-description: "Tired of ADHD productivity systems failing? Discover why conventional methods crash and burn, and unlock brain-based strategies for digital focus and lasting success. End digital overwhelm now!"
-slug: "adhd-vs-productivity-systems"
-date: 2025-06-16
-draft: false
+title: "ADHD vs. Planners: The Dopamine Trap Sabotaging Your Focus (And How to Debug It)"
+description: "Bought another planner you'll abandon? It's not you! ADHD brains crave novelty (Volkow 2011). Debug the dopamine trap with neuro-hacks—no willpower needed."
+slug: "adhd-vs-productivity-systems.why-am-i-addicted-to-buying-new-productivity-apps"
+author: "Madan | QuirkyLabs"
+date: "2025-06-23"
 type: "page"
-categories: ["ADHD Productivity", "Executive Function", "Digital Wellness"]
-tags: ["ADHD productivity hacks", "time management for ADHD adults", "ADHD and technology", "digital distraction ADHD", "ADHD executive function strategies", "dopamine traps ADHD", "executive function bypass technology", "neuro-hack digital distraction", "ADHD overwhelm", "ADHD procrastination", "task initiation ADHD", "digital addiction ADHD", "ADHD brain", "ADHD focus", "productivity systems for ADHD", "time management tips for ADHD", "manage ADHD with tech", "ADHD digital detox", "ADHD brain hacks"]
-keywords: ["ADHD productivity", "ADHD time management", "digital distraction", "executive function", "dopamine", "technology", "focus", "overwhelm", "procrastination", "task initiation", "digital addiction", "ADHD brain", "ADHD focus", "productivity systems", "time management tips", "manage ADHD with tech", "ADHD digital detox", "ADHD brain hacks", "ADHD and productivity systems"]
-og_image: "/og/adhd-vs-productivity-systems.png"
-og_title: "ADHD vs. Productivity Systems: Why You Keep Crashing (and How to Finally Win)"
-og_description: "Tired of ADHD productivity systems failing? Discover why conventional methods crash and burn, and unlock brain-based strategies for digital focus and lasting success. End digital overwhelm now!"
+categories: ["ADHD at Work", "ADHD Emotional Regulation", "Self-Compassion"]
+tags: ["RSD", "compulsive apologizing", "people-pleasing ADHD", "emotional dysregulation", "neurodivergent communication", "self-worth"]
+keywords: ["adhd over apologizing", "adhd rsd and assertiveness", "adhd planner addiction", "adhd productivity hacks", "adhd and rejection sensitivity", "stop over-apologizing neurodivergent"]
+og_image: "/og/adhd-over-apologizing-debug.png"
+og_title: "ADHD & Planner Addiction: Your Brain's Dopamine Glitch"
+og_description: "Planner addiction hijacking your productivity? It's not you—it's a dopamine wiring bug. Here's the debug protocol."
 ---
 ```

@@ -1,51 +1,16 @@
 ```markdown
 ---
-title: "ADHD Task Paralysis: Unfreeze Your Brain & Start Doing"
-description: "Stuck in ADHD task paralysis? Learn why your brain freezes on tasks, even important ones, and discover actionable, science-backed strategies to break free and finally start doing. Overcome overwhelm, digital distractions, and self-criticism."
+title: "ADHD & Task Paralysis: The Dopamine Deficit Sabotaging Your Focus (And How to Debug It)"
+description: "Staring at a blank screen? Important task feels impossible? It's not you—it's dopamine! Volkow 2011 shows ADHD brains need salient rewards. Debug with game-based hacks!"
 slug: "adhd-task-paralysis-focus"
-date: 2025-06-16
-draft: false
+author: "Madan | QuirkyLabs"
+date: "2025-06-23"
 type: "page"
-categories: ["ADHD Productivity", "Executive Function", "ADHD Management"]
-tags: [
-  "ADHD task paralysis",
-  "ADHD procrastination",
-  "ADHD executive dysfunction",
-  "ADHD focus",
-  "ADHD motivation",
-  "ADHD overwhelm",
-  "ADHD brain freeze",
-  "ADHD digital distractions",
-  "ADHD digital dopamine traps",
-  "ADHD RSD",
-  "ADHD work productivity",
-  "How to start tasks with ADHD",
-  "Overcoming ADHD paralysis",
-  "ADHD and motivation",
-  "ADHD and executive function",
-  "Digital distraction ADHD",
-  "ADHD procrastination solutions",
-  "ADHD task initiation"
-]
-keywords: [
-  "ADHD task paralysis",
-  "how to overcome ADHD procrastination",
-  "executive dysfunction and task initiation",
-  "ADHD focus and motivation hacks",
-  "ADHD brain freeze solutions",
-  "digital distractions ADHD",
-  "ADHD digital dopamine traps",
-  "ADHD RSD and task avoidance",
-  "work productivity with ADHD",
-  "starting tasks with ADHD",
-  "ADHD overwhelm strategies",
-  "ADHD paralysis",
-  "ADHD executive function help",
-  "ADHD digital focus",
-  "ADHD motivation tips"
-]
-og_image: "/og/adhd-task-paralysis-focus.png"
-og_title: "ADHD Task Paralysis: Unfreeze Your Brain & Start Doing"
-og_description: "Stuck in ADHD task paralysis? Learn why your brain freezes on tasks, even important ones, and discover actionable, science-backed strategies to break free and finally start doing. Overcome overwhelm, digital distractions, and self-criticism."
+categories: ["ADHD at Work", "ADHD Emotional Regulation", "Self-Compassion"]
+tags: ["RSD", "emotional dysregulation", "neurodivergent communication", "self-worth", "people-pleasing ADHD", "assertiveness"]
+keywords: ["adhd over apologizing", "adhd rsd and assertiveness", "adhd digital distraction", "adhd procrastination", "adhd and rejection sensitivity", "task paralysis adhd"]
+og_image: "/og/adhd-task-paralysis-debug.png"
+og_title: "ADHD & Task Paralysis: Dopamine Glitch?"
+og_description: "Task paralysis got you frozen? It's not you—it's a dopamine wiring bug. Debug protocol to rewire your brain's reward system."
 ---
 ```

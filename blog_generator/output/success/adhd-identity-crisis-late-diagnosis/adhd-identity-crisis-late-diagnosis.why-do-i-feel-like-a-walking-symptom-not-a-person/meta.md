@@ -1,70 +1,16 @@
 ```markdown
 ---
-title: "ADHD Identity Crisis: Reclaiming Your Self Beyond the Symptoms"
-description: "Struggling with an ADHD identity crisis? Discover why late diagnosis can make you feel like a walking symptom, and learn actionable strategies to build a positive, authentic self-image. Explore neuro-affirming solutions and reclaim your focus!"
+title: "ADHD Identity Crisis & Late Diagnosis: Why Your Brain Gets Stuck in Digital Dopamine Traps"
+description: "Feel like a walking symptom, not a person? Undiagnosed ADHD warps self-worth (Bramer, 2016). Reclaim your identity: Debug your brain’s shame OS with..."
 slug: "adhd-identity-crisis-late-diagnosis"
-date: 2025-06-16
-draft: false
+author: "Madan | QuirkyLabs"
+date: "2025-06-23"
 type: "page"
-categories: ["ADHD", "ADHD Diagnosis", "Adult ADHD", "Neurodiversity"]
-tags: [
-  "ADHD identity crisis",
-  "late ADHD diagnosis",
-  "adult ADHD",
-  "neurodivergent identity",
-  "ADHD self-esteem",
-  "ADHD acceptance",
-  "ADHD shame",
-  "ADHD self-blame",
-  "undiagnosed ADHD",
-  "ADHD emotional impact",
-  "neuro-affirming",
-  "executive dysfunction",
-  "rejection sensitive dysphoria",
-  "RSD",
-  "digital overwhelm",
-  "ADHD and technology",
-  "dopamine traps",
-  "digital distractions",
-  "ADHD and social media",
-  "ADHD and self-perception",
-  "ADHD and masking",
-  "ADHD and mental health",
-  "ADHD and anxiety",
-  "ADHD and depression"
-]
-keywords: [
-  "ADHD identity crisis",
-  "late ADHD diagnosis",
-  "adult ADHD identity",
-  "neurodivergent identity",
-  "ADHD self-esteem",
-  "ADHD acceptance",
-  "ADHD shame and guilt",
-  "ADHD self-blame",
-  "undiagnosed ADHD impact",
-  "ADHD emotional regulation",
-  "building self-esteem with ADHD",
-  "neuro-affirming ADHD",
-  "executive dysfunction and self-worth",
-  "rejection sensitive dysphoria identity",
-  "RSD and ADHD self-image",
-  "digital overwhelm ADHD",
-  "ADHD and technology addiction",
-  "dopamine traps and ADHD",
-  "managing digital distractions ADHD",
-  "ADHD and social media self-esteem",
-  "ADHD and self-perception",
-  "ADHD masking behaviors",
-  "ADHD mental health",
-  "ADHD anxiety and identity",
-  "ADHD depression and self-worth",
-  "how to accept ADHD diagnosis",
-  "living with ADHD as an adult",
-  "ADHD self-discovery"
-]
-og_image: "/og/adhd-identity-crisis.png"
-og_title: "ADHD Identity Crisis: Reclaiming Your Self Beyond the Symptoms"
-og_description: "Struggling with an ADHD identity crisis? Discover why late diagnosis can make you feel like a walking symptom, and learn actionable strategies to build a positive, authentic self-image. Explore neuro-affirming solutions and reclaim your focus!"
+categories: ["ADHD Emotional Regulation", "Self-Compassion", "ADHD at Work"]
+tags: ["RSD", "self-worth", "emotional dysregulation", "neurodivergent communication", "people-pleasing ADHD", "assertiveness"]
+keywords: ["adhd identity crisis", "late diagnosis adhd", "adult adhd emotional impact", "adhd self-blame", "adhd and self-esteem", "digital overwhelm adhd"]
+og_image: "/og/adhd-self-blame-debug.png"
+og_title: "ADHD Identity Crisis: Reclaim Your Whole Self"
+og_description: "Walking symptom? It's undiagnosed ADHD wiring. Reforge your identity with our brain-first approach."
 ---
 ```

@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "ADHD Boom and Bust: Breaking the Exhausting Cycle of Frantic Energy and Burnout"
-description: "Tired of the ADHD 'Boom-Buckle-Bust' cycle? Learn why you swing between hyperfocus and burnout, and discover practical, neuro-affirming strategies to manage your energy, reclaim your sleep, and achieve sustainable productivity."
-slug: "adhd-boom-and-bust"
-date: 2025-06-16
-draft: false
+title: "ADHD & Boom-Bust Cycles: The Dopamine Rollercoaster Sabotaging Your Energy (And How to Debug It)"
+description: "One super productive week, then crash for two? It's the 'Boom-Bust' cycle, fueled by dopamine dysregulation (Faraone 2015). Debug your energy OS with sustainable neuro-hacks."
+slug: "adhd-sleep-deprivation-burnout-boom-bust-cycle"
+author: "Madan | QuirkyLabs"
+date: "2025-06-23"
 type: "page"
-categories: ["ADHD & Burnout", "ADHD Sleep", "ADHD Productivity"]
-tags: ["ADHD burnout", "ADHD fatigue", "ADHD energy management", "ADHD sleep deprivation", "ADHD exhaustion", "ADHD productivity tips", "ADHD masking", "Rejection Sensitive Dysphoria", "ADHD emotional dysregulation", "ADHD time blindness", "ADHD executive dysfunction", "ADHD stress management", "Boom-Buckle-Bust cycle", "ADHD and overexertion"]
-keywords: ["ADHD burnout cycle", "ADHD boom and bust", "ADHD fatigue", "ADHD energy crashes", "ADHD sleep and burnout", "ADHD exhaustion solutions", "how to manage ADHD fatigue", "ADHD productivity hacks", "ADHD masking burnout", "rejection sensitive dysphoria and burnout", "ADHD emotional regulation burnout", "ADHD time blindness and exhaustion", "ADHD executive dysfunction burnout", "ADHD stress and burnout", "Boom-Buckle-Bust", "stop ADHD burnout", "ADHD overexertion"]
-og_image: "/og/adhd-boom-and-bust.png"
-og_title: "ADHD Boom and Bust: Breaking the Exhausting Cycle of Frantic Energy and Burnout"
-og_description: "Tired of the ADHD 'Boom-Buckle-Bust' cycle? Learn why you swing between hyperfocus and burnout, and discover practical, neuro-affirming strategies to manage your energy, reclaim your sleep, and achieve sustainable productivity."
+categories: ["ADHD Emotional Regulation", "ADHD at Work", "Self-Compassion"]
+tags: ["RSD", "emotional dysregulation", "self-worth", "neurodivergent communication", "people-pleasing ADHD", "assertiveness"]
+keywords: ["adhd over apologizing", "adhd rsd and assertiveness", "adhd burnout cycle explained", "adhd overexertion collapse solutions", "adhd energy management", "stop adhd boom bust cycle"]
+og_image: "/og/adhd-boom-bust-debug.png"
+og_title: "ADHD & Boom-Bust: Debug Your Energy Rollercoaster"
+og_description: "Frantic energy then total collapse? It's not you—it's your ADHD brain's 'Boom-Bust' cycle. Here's the debug protocol."
 ---
 ```

@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "Tired But Wired: How to Shut Down Your Racing ADHD Brain for Sleep"
-description: "Exhausted but can't sleep? Discover why your ADHD brain feels 'tired but wired' and learn actionable, neuro-affirming strategies to quiet the mental noise, manage sensory overload, and finally get restorative rest. Break the ADHD burnout cycle now!"
-slug: "tired-but-wired-how-to-shut-down-your-racing-adhd-brain-for-sleep"
-date: 2025-06-16
-draft: false
+title: "ADHD & Tired But Wired: How Your Racing Brain Steals Sleep (And How to Debug It)"
+description: "Brain screaming 'sleep!' but running a 24/7 podcast? It's Default Mode Network hyperactivity (Konrad et al., 2010). Debug your 'always-on' OS with neuro-hacks."
+slug: "adhd-sleep-deprivation-burnout.tired-but-wired-brain-won-t-shut-off"
+author: "Madan | QuirkyLabs"
+date: "2025-06-23"
 type: "page"
-categories: ["ADHD Sleep", "ADHD Burnout", "ADHD & Rest"]
-tags: ["ADHD sleep problems", "tired but wired ADHD", "ADHD racing thoughts sleep", "ADHD insomnia", "ADHD burnout", "ADHD exhaustion", "ADHD sensory overload", "how to sleep with ADHD", "ADHD sleep hacks", "ADHD sleep routine", "ADHD Default Mode Network", "revenge bedtime procrastination ADHD"]
-keywords: ["tired but wired ADHD", "ADHD sleep", "ADHD insomnia", "ADHD racing thoughts", "ADHD sensory overload sleep", "ADHD burnout", "ADHD exhaustion", "how to fall asleep with ADHD", "ADHD sleep tips", "ADHD sleep routine", "revenge bedtime procrastination ADHD", "ADHD Default Mode Network sleep", "ADHD sleep deprivation", "ADHD chronic fatigue"]
-og_image: "/og/adhd-tired-but-wired.png"
-og_title: "Tired But Wired: How to Shut Down Your Racing ADHD Brain for Sleep"
-og_description: "Exhausted but can't sleep? Discover why your ADHD brain feels 'tired but wired' and learn actionable, neuro-affirming strategies to quiet the mental noise, manage sensory overload, and finally get restorative rest. Break the ADHD burnout cycle now!"
+categories: ["ADHD Emotional Regulation", "Rejection Sensitivity", "ADHD at Work"]
+tags: ["RSD", "compulsive apologizing", "people-pleasing ADHD", "emotional dysregulation", "assertiveness", "self-worth"]
+keywords: ["adhd over apologizing", "adhd rsd and assertiveness", "why do I say sorry so much adhd", "adhd people pleasing", "adhd and rejection sensitivity", "stop over-apologizing neurodivergent"]
+og_image: "/og/adhd-over-apologizing-debug.png"
+og_title: "ADHD & Tired But Wired: Debug Your Brain's OS"
+og_description: "Exhausted but can't sleep? It's not you—it's a Default Mode Network bug. Here's the debug protocol for a quiet mind & restorative rest."
 ---
 ```

@@ -1,51 +1,16 @@
 ```markdown
 ---
-title: "ADHD Emotional Storms: Why Silence Triggers Panic & How to Reclaim Your Calm"
-description: "Is your ADHD brain misinterpreting silence as rejection? Explore the science behind emotional storms, Rejection Sensitive Dysphoria (RSD), and actionable strategies to navigate relational anxiety and reclaim your calm."
-slug: "adhd-emotional-storms-rsd"
-date: 2025-06-16
-draft: false
+title: "ADHD & Partner's Silence: The RSD Catastrophic Thinking Sabotaging Your Trust (And How to Debug It)"
+description: "Partner quiet? Brain screams 'Abandonment!'? RSD's 'perceived threat' takes over (Dodson 2019). Rewire your brain's silent panic OS with neuro-hacks—no willpower needed."
+slug: "adhd-emotional-storms-rsd.why-do-i-panic-when-my-partner-is-quiet"
+author: "Madan | QuirkyLabs"
+date: "2025-06-23"
 type: "page"
-categories: ["ADHD Emotions", "ADHD Relationships"]
-tags: [
-  "ADHD emotional dysregulation",
-  "Rejection Sensitive Dysphoria (RSD)",
-  "ADHD relationship anxiety",
-  "ADHD emotional storms",
-  "ADHD fear of abandonment",
-  "ADHD communication problems",
-  "ADHD emotional triggers",
-  "ADHD brain and emotions",
-  "RSD in adults relationships",
-  "ADHD emotional management",
-  "ADHD relationship tips",
-  "ADHD emotional sensitivity",
-  "ADHD time blindness relationships",
-  "ADHD working memory relationships",
-  "ADHD emotional regulation techniques",
-  "RSD coping strategies for adults"
-]
-keywords: [
-  "ADHD emotional storms",
-  "ADHD RSD",
-  "ADHD relationship anxiety",
-  "ADHD silence panic",
-  "Rejection Sensitive Dysphoria",
-  "emotional dysregulation ADHD",
-  "ADHD relationship problems",
-  "ADHD fear of rejection",
-  "ADHD partner silence",
-  "how to manage ADHD emotions",
-  "RSD symptoms adults",
-  "ADHD emotional triggers",
-  "ADHD brain wiring emotions",
-  "ADHD emotional sensitivity",
-  "ADHD time blindness and relationships",
-  "ADHD working memory relationships",
-  "ADHD relationship advice"
-]
-og_image: "/og/adhd-emotional-storms-rsd.png"
-og_title: "ADHD Emotional Storms: Why Silence Triggers Panic & How to Reclaim Your Calm"
-og_description: "Is your ADHD brain misinterpreting silence as rejection? Explore the science behind emotional storms, Rejection Sensitive Dysphoria (RSD), and actionable strategies to navigate relational anxiety and reclaim your calm."
+categories: ["ADHD Emotional Regulation", "Rejection Sensitivity", "Self-Compassion"]
+tags: ["RSD", "emotional dysregulation", "people-pleasing ADHD", "neurodivergent communication", "assertiveness", "self-worth"]
+keywords: ["adhd panic when partner is quiet", "adhd rsd and relationships", "adhd fear of abandonment", "adhd relationship anxiety", "adhd and rejection sensitivity", "stop overthinking partner's silence adhd"]
+og_image: "/og/adhd-panic-partner-silent-debug.png"
+og_title: "ADHD & Partner's Silence: RSD Wiring Bug"
+og_description: "Panic when your partner's quiet? It's not you—it's an RSD wiring bug. Here's the debug protocol for relational peace."
 ---
 ```

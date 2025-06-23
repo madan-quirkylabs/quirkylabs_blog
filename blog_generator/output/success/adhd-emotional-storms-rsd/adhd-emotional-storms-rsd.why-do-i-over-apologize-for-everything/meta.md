@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "Stop Over-Apologizing! ADHD, RSD, and the Compulsive Need to Say Sorry"
-description: "Do you constantly apologize, even when it's not your fault? Explore the link between ADHD, Rejection Sensitive Dysphoria (RSD), and compulsive apologizing. Learn how to break the cycle and build authentic communication skills."
-slug: "stop-over-apologizing"
-date: 2025-06-16
-draft: false
+title: "ADHD & Compulsive Apologizing: The RSD Hypervigilance Sabotaging Your Self-Worth (And How to Debug It)"
+description: "3-para apology for being 2 mins late? It's RSD's 'perceived disapproval threat' (Dodson 2019). Rewire your brain’s apology OS with neuro-hacks—no willpower needed."
+slug: "adhd-emotional-storms-rsd.why-do-i-over-apologize-for-everything"
+author: "Madan | QuirkyLabs"
+date: "2025-06-23"
 type: "page"
-categories: ["ADHD Emotional Storms & RSD", "ADHD Communication Skills"]
-tags: ["ADHD RSD", "Rejection Sensitive Dysphoria", "ADHD over-apologizing", "compulsive apologizing", "ADHD communication problems", "ADHD emotional regulation", "ADHD anxiety", "ADHD people-pleasing", "RSD coping strategies", "overcoming ADHD shame"]
-keywords: ["ADHD over apologizing", "RSD apology", "compulsive apologizing ADHD", "how to stop apologizing ADHD", "ADHD RSD communication", "rejection sensitivity and apologies", "why do I apologize so much ADHD", "ADHD fear of rejection", "ADHD people pleasing", "RSD and social anxiety"]
-og_image: "/og/adhd-over-apologizing.png"
-og_title: "Stop Over-Apologizing! ADHD, RSD, and the Compulsive Need to Say Sorry"
-og_description: "Do you constantly apologize, even when it's not your fault? Explore the link between ADHD, Rejection Sensitive Dysphoria (RSD), and compulsive apologizing. Learn how to break the cycle and build authentic communication skills."
+categories: ["ADHD Emotional Regulation", "Rejection Sensitivity", "ADHD at Work"]
+tags: ["RSD", "compulsive apologizing", "people-pleasing ADHD", "emotional dysregulation", "assertiveness", "self-worth"]
+keywords: ["adhd over apologizing", "adhd rsd and self-worth", "why do I say sorry so much adhd", "adhd people pleasing", "adhd and rejection sensitivity", "stop over-apologizing neurodivergent"]
+og_image: "/og/adhd-over-apologizing-debug.png"
+og_title: "ADHD & Over-Apologizing: Your Brain's RSD Glitch"
+og_description: "Compulsive 'sorrys' hijacking your self-worth? It's not you—it's an RSD wiring bug. Debug your apology OS."
 ---
 ```

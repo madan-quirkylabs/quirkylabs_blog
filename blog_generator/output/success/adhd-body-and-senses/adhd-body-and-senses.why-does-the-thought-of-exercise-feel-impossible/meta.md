@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "ADHD Exercise: Beat Task Paralysis & Digital Distractions [Neuro-Hacks]"
-description: "Struggling to start exercising with ADHD? Discover neuro-affirming strategies to overcome task paralysis, digital dopamine traps, and sensory overwhelm. Reclaim your focus and body with these actionable tips!"
-slug: "adhd-exercise-beat-task-paralysis-digital-distractions-neuro-hacks"
-date: 2024-11-16
-draft: false
+title: "ADHD & Exercise Dread: The Dopamine Dysregulation Sabotaging Your Workouts (And How to Debug It)"
+description: "Overwhelmed by the thought of exercise? It's not laziness! Blame dopamine dysregulation (Volkow 2009). Rewire your brain's motivation OS with neuro-hacks—no willpower needed."
+slug: "adhd-body-and-senses.exercise-dread"
+author: "Madan | QuirkyLabs"
+date: "2025-06-23"
 type: "page"
-categories: ["ADHD Body & Senses", "ADHD Exercise", "ADHD Productivity"]
-tags: ["ADHD exercise", "ADHD task paralysis", "ADHD motivation", "ADHD digital distractions", "ADHD sensory overload", "ADHD dopamine", "executive function", "neurodiversity", "exercise hacks", "ADHD coping strategies", "ADHD and fitness", "ADHD friendly workout", "ADHD digital detox", "ADHD sensory processing", "exercise for ADHD adults", "ADHD and motivation to exercise", "overcoming ADHD task paralysis", "ADHD procrastination", "ADHD body and senses", "exercise for neurodivergent brains"]
-keywords: ["ADHD exercise", "task paralysis", "digital dopamine traps", "sensory overload", "executive dysfunction", "ADHD motivation hacks", "exercise for ADHD", "ADHD workout routine", "neurodiversity", "ADHD and fitness", "ADHD and digital distractions", "how to start exercising with ADHD", "ADHD and sensory processing", "overcoming ADHD task paralysis", "ADHD exercise tips", "ADHD digital detox", "ADHD workout", "ADHD and motivation", "exercise for neurodivergent adults"]
-og_image: "/og/adhd-exercise-task-paralysis.png"
-og_title: "ADHD Exercise: Beat Task Paralysis & Digital Distractions [Neuro-Hacks]"
-og_description: "Struggling to start exercising with ADHD? Discover neuro-affirming strategies to overcome task paralysis, digital dopamine traps, and sensory overwhelm. Reclaim your focus and body with these actionable tips!"
+categories: ["ADHD Emotional Regulation", "Rejection Sensitivity", "ADHD at Work"]
+tags: ["RSD", "emotional dysregulation", "self-worth", "neurodivergent communication", "people-pleasing ADHD", "assertiveness"]
+keywords: ["adhd over apologizing", "adhd rsd and assertiveness", "adhd and rejection sensitivity", "stop over-apologizing neurodivergent", "adhd people pleasing", "adhd over apologizing"]
+og_image: "/og/adhd-over-apologizing-debug.png"
+og_title: "ADHD & Exercise Dread: Your Brain's Dopamine Glitch"
+og_description: "Exercise feels impossible? It's not you—it's a dopamine wiring bug. Here's the debug protocol."
 ---
 ```
