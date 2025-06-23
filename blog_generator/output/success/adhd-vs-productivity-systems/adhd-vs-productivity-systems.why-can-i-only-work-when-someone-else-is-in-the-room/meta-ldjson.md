@@ -7,7 +7,7 @@
   "image": "https://quirkylabs.com/og/adhd-body-doubling-debug.png",
   "author": {
     "@type": "Organization",
-    "name": "QuirkyLabs Research Team"
+    "name": "Madan | QuirkyLabs"
   },
   "publisher": {
     "@type": "Organization",

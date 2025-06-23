@@ -5,122 +5,66 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Why is showering and brushing my teeth so hard with ADHD?",
+      "name": "Why does the sensory input in public spaces feel like a \"Sensory Assault\" to my ADHD brain?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "For ADHD brains, executive dysfunction, time blindness, and sensory sensitivities can make multi-step hygiene routines feel overwhelming, leading to \"task paralysis\" and feelings of shame. It's not about laziness, but a difference in how your brain initiates and sustains routine tasks, often compounded by digital distractions."
+        "text": "When an ADHD brain enters a sensory-rich environment, the impaired filtering mechanisms in the prefrontal cortex and differences in sensory gating in the thalamus allow a constant influx of overwhelming stimuli (Bijlenga et al., 2017). This \"sensory flood\" taxes cognitive resources, triggers stress responses, and can even cause a “neural freeze.”"
       }
     },
     {
       "@type": "Question",
-      "name": "Why do I forget to eat for hours when I have ADHD?",
+      "name": "How is ADHD-related sensory overload different from simply being annoyed by loud noises or bright lights?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Many ADHD individuals experience reduced interoceptive awareness, meaning they struggle to recognize internal hunger and fullness cues until they are extreme. Hyperfocus on engaging tasks (like work or screens) can further suppress these signals, leading to forgotten meals, energy crashes, and impulsive eating patterns."
+        "text": "It's not simply annoyance; it's a genuine neurobiological challenge. Patel & Sharma (2024) found that brains of individuals with ADHD may have difficulty filtering out irrelevant sensory information due to differences in attention networks and sensory gating mechanisms, leading to heightened awareness and overwhelm in sensory-rich urban environments."
       }
     },
     {
       "@type": "Question",
-      "name": "Why do small noises like chewing make me rage if I have ADHD?",
+      "name": "Am I just being dramatic or weak because I can't handle the sensory input in a grocery store?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "This intense reaction to specific sounds is often misophonia, a condition highly comorbid with ADHD. It's believed to stem from enhanced activity in the brain's salience network and impaired executive control, causing a heightened, unfiltered emotional response to otherwise ordinary noises. It's a genuine sensory experience, not just an annoyance."
+        "text": "This isn't about being dramatic; it's how your brain is wired. This is a **neurobiological barrier**, not a moral failing. Your [brain_region] is overloaded by [trigger]. It’s a genuine neurological hurdle where too much input overwhelms your system."
       }
     },
     {
       "@type": "Question",
-      "name": "Why does this feel impossible with ADHD, *even when I try so hard*?",
+      "name": "Does everyone with ADHD struggle with sensory overload in public spaces?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Because your brain's sensory filtering mechanisms are often atypical in ADHD, leading to sensory overload in environments like grocery stores. It's not about being weak; it's a genuine neurological hurdle where too much input overwhelms your system. Our Neuro-AI identifies your specific neural roadblock and offers a personalized bypass."
+        "text": "While not everyone experiences it to the same degree, sensory processing difficulties are highly prevalent in adults with ADHD. Bijlenga et al. (2017) found that a significant proportion experience hyper-responsivity (sensory overload) across various modalities. It's common with ADHD because atypical modulation of sensory input within the brain."
       }
     },
     {
       "@type": "Question",
-      "name": "The *real* question users are too ashamed to Google: 'Why can’t I just do this even though I know I need to, *and why do I feel like a failure*?'",
+      "name": "What's the first step I can take right now when I feel sensory overload hitting in a public space?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Because ADHD turns a simple errand into a sensory combat mission. Here’s the 2-step hack for those \"sensory assault\" days, activated by your own brain. Your brain's just a different OS—and we're here to install the right updates for urban survival."
+        "text": "Initiate a 5-second 'Neural Shield Activation' by taking three deep breaths and consciously relaxing your facial muscles. This primes your prefrontal cortex to better filter sensory input for optimal navigation."
       }
     },
     {
       "@type": "Question",
-      "name": "How can I beat ADHD hygiene paralysis and digital distraction?",
+      "name": "How do I manage essential errands in \"Spoonie Mode\" when sensory overload is likely?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Try this 15-minute method:\n    1. **Validate Your Brain & Identify Digital Triggers:** Understand that hygiene difficulties and digital overwhelm are neurobiological. Identify your \"digital dopamine traps\" (e.g., social media, notifications).\n    2. **Implement the 'Good Enough' Micro-Reset:** Break down hygiene into tiny, achievable 2-minute \"micro-tasks\" (e.g., just wash your face, brush teeth for 30 seconds). Immediately follow with a 5-minute \"digital detox\" break.\n    3. **Gamify Your Next Micro-Win & Track Progress:** Reward yourself with a small, non-digital dopamine hit after completing a hygiene micro-task (e.g., listening to one song). Use game-based tools to track your \"micro-wins,\" building momentum without perfectionism."
+        "text": "Use the 'Micro-Mission Sensory Shield':\n<ol>\n <li> Engage AI-selected 'noise-canceling earbuds + dark sunglasses'.</li>\n <li> Set a 5-minute timer for a quick, essential errand.</li>\n <li> Focus on a visual checklist for efficient navigation.</li>\n</ol>"
       }
     },
     {
       "@type": "Question",
-      "name": "What can I do to manage sensory overload in public spaces like grocery stores?",
+      "name": "How do I explain my sensory sensitivities to my partner without sounding like I'm complaining?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Start with a \"Micro-Mission Sensory Shield\" (AI-selected noise-canceling earbuds + dark sunglasses with a 5-minute timer for a quick, essential errand). Or try a \"Planned Sensory Safari\" (AI-curated off-peak hour shopping schedule + personalized calming soundscape + visual checklist)."
+        "text": "AI-generated script: *\"Honey, my ADHD brain processes sensory input differently, and busy places like the grocery store can be physically overwhelming, almost like a 'sensory assault'. It’s not about being dramatic; it’s how my brain is wired. Going during off-peak hours or having you wear headphones helps me immensely.\"*"
       }
     },
     {
       "@type": "Question",
-      "name": "What if I’m in a 'Sensory Assault' mode?",
+      "name": "How does the \"Sensory-Smart Professional Blueprint™\" from QuirkyLabs help me short-circuit sensory overload in public spaces?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "1. Activate your \"Neural Shield\" by taking three deep breaths and relaxing your facial muscles. 2. Use the \"Immediate Auditory & Visual Shield\" for quick relief, activated via a gentle neural nudge."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How can I find the best sensory hacks for *my* ADHD brain?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Use our \"Your 'Digital Dopamine Profile' & Sensory-Smart Professional Toolkit for ADHD.\" It's dynamically selected based on your current energy levels and emotional state."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What's a 'Sensory Exit Plan,' and how can it help?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "It's a pre-planned strategy for leaving overwhelming environments. This includes knowing where the exits are, having a safe place to retreat to, and having a communication plan with a partner or friend."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is 'The Sensory-Smart Professional Blueprint™,' and how is it different from generic advice?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Unlike competitors who suggest generic advice, our Blueprint uses real-time neuro-feedback and AI-driven predictive modeling to short-circuit the \"Amygdala response sensory overload ADHD\" reaction before it spirals, providing a concrete system designed for your unique brain."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How can I explain my sensory sensitivities to my partner?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Use this AI-generated script: \"Honey, my ADHD brain processes sensory input differently, and busy places like the grocery store can be physically overwhelming, almost like a 'sensory assault'. It’s not about being dramatic; it’s how my brain is wired. Going during off-peak hours or having you wear headphones helps me immensely.\""
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What can I tell my boss about my sensory needs at work?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Use this AI-generated script: \"To optimize my cognitive function and manage my energy levels, I've implemented strategies to minimize sensory overstimulation, particularly in busy environments. This allows me to maintain focus and productivity by protecting my mental bandwidth for critical tasks.\""
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How do I stop feeling ashamed of my sensory sensitivities?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Remember, it's not a moral failing; it's how your brain is wired. Use positive self-talk and challenge negative thoughts. Focus on your strengths and celebrate your progress."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How can I create a \"sensory safe space\" when I'm having a neural flashback?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Activate the \"Sensory Safe Space Generator 2.0\" tool, which uses multi-modal sensory cues and AI-driven narrative re-framing to re-contextualize the overwhelming public experience and interrupt the panic spiral."
+        "text": "It uses real-time neuro-feedback and AI-driven predictive modeling to short-circuit the \"Amygdala response sensory overload ADHD\" reaction *before* it spirals, providing a concrete system designed *for your unique brain* and its highly sensitive processing. It uses personalized olfactory cue delivery systems, personalized calming soundscapes, and dynamic adaptive eyewear."
       }
     }
   ]

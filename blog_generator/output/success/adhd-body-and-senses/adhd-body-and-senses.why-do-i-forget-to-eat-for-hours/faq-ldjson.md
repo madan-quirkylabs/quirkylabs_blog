@@ -5,114 +5,66 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Why do I forget to eat for hours when I have ADHD?",
+      "name": "Why does forgetting to eat feel like a sudden energy crash instead of a normal hunger pang?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Many ADHD individuals experience reduced interoceptive awareness, meaning they struggle to recognize internal hunger and fullness cues until they are extreme. Hyperfocus on engaging tasks (like work or screens) can further suppress these signals, leading to forgotten meals, energy crashes, and impulsive eating patterns. It's not a lack of willpower, but a neurobiological difference."
+        "text": "When you're hyperfocused, your prefrontal cortex suppresses interoceptive awareness, making it difficult to perceive internal bodily signals like hunger (Zickgraf et al., 2020). This is compounded by digital distractions that overstimulate dopamine pathways, overriding hunger signals (Volkow et al., 2009). It's like your brain's \"fuel gauge\" is broken."
       }
     },
     {
       "@type": "Question",
-      "name": "Is it really an ADHD thing that I can't tell when I'm hungry until I'm dizzy or irritable?",
+      "name": "How is forgetting to eat with ADHD different from just being busy?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes! Reduced interoceptive awareness is common in ADHD. Your brain has trouble accurately sensing and interpreting internal bodily signals like hunger. This is compounded by hyperfocus, where your attention is so intensely focused that it drowns out those subtle hunger cues."
+        "text": "It's not just about being busy; it's a neurobiological difference. Adults with ADHD exhibit significantly lower interoceptive awareness, making it harder to perceive hunger cues (Zickgraf et al., 2020). Semrud-Clikeman (2012) found prefrontal-amygdala dysregulation in this context."
       }
     },
     {
       "@type": "Question",
-      "name": "Why does it feel impossible to stop what I'm doing to eat, even when I know I need to?",
+      "name": "Am I lazy because I can't remember to eat, even when I know I need to?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "This is often due to a combination of factors. First, executive dysfunction makes it hard to switch tasks, even basic ones like eating. Second, the dopamine rush from your current activity (especially if it involves screens) can override the lower-dopamine \"reward\" of eating a meal. Your brain prioritizes the immediate stimulation."
+        "text": "This isn’t laziness—it’s a neurobiological barrier. Your insula, the brain region responsible for interoception, is under-activated due to hyperfocus and digital stimulation, making it hard to recognize hunger signals (Zickgraf et al., 2020). It's like trying to drive a car with a broken fuel gauge."
       }
     },
     {
       "@type": "Question",
-      "name": "I feel so much shame admitting it, but I have a horrible habit that is getting overwhelming and out of hand. Why does this happen?",
+      "name": "Does everyone with ADHD struggle with forgetting to eat?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Many people with ADHD experience shame related to self-care challenges like nutrition. It's often a result of repeated criticism or feeling like you \"should\" be able to manage things easily. Remember, your brain is wired differently, and these challenges are neurobiological, not personal failings."
+        "text": "Yes, it's a common struggle! Many ADHD individuals experience reduced interoceptive awareness, leading to irregular eating patterns (Zickgraf et al., 2020). The high comorbidity of ADHD and eating disorders also points to this (Nazar et al., 2019)."
       }
     },
     {
       "@type": "Question",
-      "name": "What's the first step to take if I constantly forget to eat during hyperfocus?",
+      "name": "What’s the first step when I realize I've forgotten to eat for hours and feel an energy crash coming on?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Start with *external* reminders. Don't rely on internal hunger cues. Set alarms on your phone (and make them *annoying*!), use visual cues like sticky notes, or ask a friend to check in with you. The goal is to create a system that bypasses your reduced interoceptive awareness."
+        "text": "Use the QuirkyLabs 'Good Enough' Nutrition Protocol:\n1. **Micro-action:** Grab a readily available, 'safe' snack like a protein bar or handful of nuts.\n2. **Dopamine-paired reward:** Allow yourself 5 minutes of guilt-free scrolling or listening to a favorite song while eating.\n3. **Sensory cue:** Gently tap your sternum to prime your interoceptive networks for better hunger signal reception."
       }
     },
     {
       "@type": "Question",
-      "name": "What if I set alarms, but I just ignore them and keep working?",
+      "name": "How do I prepare meals when I’m in ‘Spoonie Mode’ and have task paralysis?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "This is where *dopamine pairing* comes in. Link eating with something you genuinely enjoy. For example, only allow yourself to listen to your favorite podcast episode while you're eating. This creates a positive association and makes it more likely you'll interrupt your work."
+        "text": "Embrace the 1% Rule: Just do *one tiny thing* to move towards meal prep.\n1. Set out a plate.\n2. Open a can of soup.\n3. Put a protein bar next to your keyboard.\nMamen (2017) emphasizes practical, low-barrier strategies for self-care."
       }
     },
     {
       "@type": "Question",
-      "name": "What are some \"good enough\" meal/snack options for when I'm short on time and energy?",
+      "name": "How do I explain my forgotten meals to my partner without feeling judged?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Aim for quick, protein-rich options that require minimal effort. Think protein bars, Greek yogurt, hard-boiled eggs, nuts, or pre-cut veggies with hummus. The goal is to fuel your brain without adding to the overwhelm."
+        "text": "AI-generated script: *\"[Partner], my ADHD brain sometimes misses internal hunger signals, especially when I'm hyperfocused. It’s not about ignoring you or food; it's an interoception thing. A gentle, pre-arranged 'food alert signal' (e.g., a specific emoji or a visible snack) helps me re-tune.\"*"
       }
     },
     {
       "@type": "Question",
-      "name": "What if I hate \"healthy\" food? How can I make eating more appealing with ADHD?",
+      "name": "How does the QuirkyLabs 'Digital Dopamine Reset' help me remember to eat?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Don't force yourself to eat things you dislike. Focus on finding healthy options that you actually *enjoy*. Experiment with different flavors, textures, and cuisines. If you crave crunchy, try roasted chickpeas. If you want sweet, add berries to your yogurt."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How do I explain to my partner that I need help remembering to eat without sounding like a child?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Be direct and explain the neurobiological reasons behind your struggles. Try saying something like, \"My ADHD brain has trouble sensing hunger cues, especially when I'm focused. It would be really helpful if you could gently remind me to eat around lunchtime.\""
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How can I manage my nutrition at work when my boss expects me to be \"always on\"?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Plan ahead and pack healthy snacks. Keep them visible and easily accessible at your desk. If possible, schedule short breaks for eating and communicate your needs to your boss. You might say, \"I've found that taking short, regular breaks to eat helps me maintain focus and productivity throughout the day.\""
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "My coworkers are always snacking on junk food. How do I avoid the temptation when I'm trying to eat healthier?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Create a \"safe space\" for your food. Keep your healthy snacks in a separate container or drawer. When you're tempted by junk food, remind yourself of your goals and reach for your pre-planned snack."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "I tried to eat regularly, but I slipped up and binged on junk food. How do I recover from that?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Forgive yourself. Binging happens. It's not a moral failing. Focus on getting back on track with your healthy eating plan at your next meal. Avoid dwelling on the slip-up."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "The thought of meal planning and prepping feels completely overwhelming. What can I do?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Start small. Pick one or two meals or snacks to plan for each week. Don't try to overhaul your entire diet at once. Focus on creating sustainable habits, not perfection."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "I'm afraid of being judged for my food choices. How can I overcome that fear?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Remember that your health is your priority. You don't need to justify your food choices to anyone. If you're feeling self-conscious, focus on your own goals and remind yourself that you're doing what's best for *your* brain and body."
+        "text": "It uses personalized sensory cues and AI-driven narrative re-framing to interrupt the shame spiral and re-contextualize the forgotten meal trigger before it leads to a binge. It also helps you identify and manage your digital dopamine traps. It uses neuro-strategy to bypass brain region blockage. Example: *Reply Roulette gamifies texting to reduce amygdala activation.*"
       }
     }
   ]

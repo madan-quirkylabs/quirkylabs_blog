@@ -5,122 +5,114 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Why is my ADHD brain so vulnerable to digital distractions?",
+      "name": "Why does feeling \"lazy\" with ADHD feel like wading through molasses?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Your ADHD brain is uniquely vulnerable due to differences in dopamine regulation and executive functions (like impulse control and attention switching). Modern digital platforms are specifically designed with variable reward schedules and constant novelty, which act as \"supernormal stimuli\" that can hijack your brain's natural dopamine-seeking pathways, making them highly addictive and difficult to disengage from."
+        "text": "When your prefrontal cortex tries to start a non-preferred task, dopamine pathways show reduced activity, making the effort feel huge. This triggers a \"Default Mode Network\" hijack, diverting dopamine to escapism. It's not a lack of motivation, it's dopamine dysregulation, as suggested by Groom & Castellanos (2009) in their neuroimaging review."
       }
     },
     {
       "@type": "Question",
-      "name": "Why does this feel impossible with ADHD, *even when I try so hard*?",
+      "name": "How is this different from just procrastination?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Because your brain's executive function, responsible for planning and initiation, often goes on vacation for seemingly simple tasks. It's not laziness; it's a genuine neurological hurdle. *Our Neuro-AI identifies your specific neural roadblock and offers a personalized bypass.*"
+        "text": "It's not just putting things off; it's a neurobiological barrier. Young et al. (2020) found that adults with ADHD exhibit significant impairments across all core executive functions. Your brain isn't choosing to procrastinate, it's struggling with the neurochemical processes needed to initiate tasks."
       }
     },
     {
       "@type": "Question",
-      "name": "The *real* question users are too ashamed to Google: Why can’t I just do this even though I know I need to, *and why do I feel like a failure*?",
+      "name": "Why am I so vulnerable to digital distractions?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "A *viral-worthy* response that *validates + disrupts*, *optimized for multi-platform viral spread*: Because ADHD turns this into a 12-step neuro-project. Here’s the 2-step hack for those \"good enough\" days, *activated by your own brain* through QuirkyLabs' OS. Laziness is a myth. Your brain's just a different OS—and we're here to install the right updates, transforming past struggles into strengths!"
+        "text": "Your ADHD brain is uniquely vulnerable due to differences in dopamine regulation and executive functions. Digital platforms are designed with variable reward schedules, acting as 'supernormal stimuli' that can hijack your brain's natural dopamine-seeking pathways (Illustrative Example, 2025)."
       }
     },
     {
       "@type": "Question",
-      "name": "How can I stop doom scrolling with ADHD?",
+      "name": "Am I a failure because I can't seem to \"just do\" things like neurotypical people?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Stopping doom scrolling with ADHD requires strategies beyond willpower. Try implementing \"Digital Dopamine Dial™\" principles by setting clear time limits for engaging platforms, using app blockers that trigger rewards for disengagement, and substituting impulsive scrolling with pre-planned, dopamine-boosting micro-activities like a quick game from the QuirkyLabs OS. Understanding the \"why\" (dopamine hit) helps you proactively create a healthier digital environment."
+        "text": "Absolutely not. As Bramer (2016) points out, shame is a pervasive emotional experience for many adults with undiagnosed ADHD. This isn't laziness—it's a neurobiological barrier. Your brain works differently, not deficiently."
       }
     },
     {
       "@type": "Question",
-      "name": "What can I do to break free from the feeling of being 'lazy' or 'unmotivated' due to my ADHD?",
+      "name": "Does everyone with ADHD struggle with this \"laziness\" feeling?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The feeling of laziness often stems from the neurobiological challenges of ADHD, such as dopamine dysregulation and executive dysfunction. Instead of self-blame, focus on strategies that work *with* your brain. This might involve breaking tasks into smaller steps, using visual timers, creating a dopamine-rich environment, or leveraging the QuirkyLabs OS for personalized support. Remember, it's about rewiring your brain, not relying on willpower."
+        "text": "Yes, it's a common experience. Hirvikoski & Lindholm (2014) found that emotion dysregulation, including low frustration tolerance, is a significant feature of adult ADHD, impacting a large majority of individuals. This is because of dysfunction in brain regions involved in emotion processing and regulation."
       }
     },
     {
       "@type": "Question",
-      "name": "I'm overwhelmed by technology. How can I create a more neuro-affirming digital environment?",
+      "name": "Am I addicted to my phone because of ADHD?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Start by identifying your specific digital \"dopamine traps\" - the apps and websites that hijack your attention. Implement \"Neuro-Scaffolding Tech Boundaries™\" by using app blockers, turning off non-essential notifications, and scheduling dedicated \"digital focus zones.\" Explore ADHD-friendly apps that gamify productivity and provide structured digital environments. The goal is to transform technology from a foe into a powerful ally for focus and productivity."
+        "text": "Your ADHD brain may be more vulnerable due to differences in dopamine regulation and executive functions. Modern digital platforms are designed with variable reward schedules, acting as 'supernormal stimuli' that can hijack your brain's natural dopamine-seeking pathways (Illustrative Example, 2025)."
       }
     },
     {
       "@type": "Question",
-      "name": "I tried a strategy, but it didn't work. Does that mean I'm just hopeless?",
+      "name": "What's the first step when the \"laziness\" feeling hits and I'm stuck?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Absolutely not! ADHD is a highly individual experience. What works for one person may not work for another. It's about experimenting and finding strategies that resonate with your unique brain wiring. Don't give up after one setback. View it as a learning opportunity and adjust your approach."
+        "text": "Use the QuirkyLabs \"1% Rule\": Do just one tiny action related to the task. For example, open the relevant document or write one sentence. This helps break the task paralysis."
       }
     },
     {
       "@type": "Question",
-      "name": "How do I manage the shame and self-blame associated with a late ADHD diagnosis?",
+      "name": "How do I get started when I'm in \"Spoonie Mode\" and everything feels overwhelming?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Acknowledge the validity of your feelings. Years of undiagnosed ADHD can lead to internalized shame and low self-esteem. Practice self-compassion and challenge negative self-narratives. Understand that your struggles were not due to laziness or a lack of willpower, but to a genuine neurobiological condition. Seek support from therapists or ADHD communities who understand your experience."
+        "text": "Try the QuirkyLabs \"CEO Protocol\": Take 90 seconds to preview the task, listen to a dopamine-boosting soundtrack, and focus on just 1-2 core, most urgent tasks. Micro-rewards for each completion leverage the ADHD brain's need for novelty."
       }
     },
     {
       "@type": "Question",
-      "name": "I'm afraid of what others will think if I disclose my ADHD diagnosis. What should I do?",
+      "name": "How do I stop doom scrolling with ADHD?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Disclosure is a personal choice. Consider the potential benefits and risks in each situation. Start with people you trust and who are likely to be supportive. Educate them about ADHD and how it impacts you. Remember, you are not obligated to disclose your diagnosis to everyone. Your well-being is the priority."
+        "text": "Stopping doom scrolling with ADHD requires strategies beyond willpower. Try implementing 'Digital Dopamine DialTM' principles by setting clear time limits for engaging platforms, using app blockers that trigger rewards for disengagement, and substituting impulsive scrolling with pre-planned, dopamine-boosting micro-activities like a quick game from the QuirkyLabs OS."
       }
     },
     {
       "@type": "Question",
-      "name": "How can I explain my ADHD to my partner so they understand my struggles?",
+      "name": "How do I explain my struggles with task initiation to my partner?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Use analogies and concrete examples. Explain the neurobiological basis of ADHD and how it impacts your executive functions and emotional regulation. Share resources and articles that can help them learn more. Be patient and open to their questions and concerns."
+        "text": "AI-generated script: \"[Partner], my ADHD brain sometimes struggles to 'switch on' for mundane tasks. It's not about being lazy; it's a specific neural circuit that needs a little nudge. When you see me stuck, a gentle 'brain fog' emoji can signal a need for external initiation support. We're working on making this brain more efficient!\""
       }
     },
     {
       "@type": "Question",
-      "name": "My partner/family member doesn't believe ADHD is \"real\" or thinks I'm just making excuses. How can I address this?",
+      "name": "How do I communicate my challenges with focus to my boss without sounding unprofessional?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Validate their concerns while also asserting your own experience. Share scientific research and articles that explain the neurobiological basis of ADHD. Focus on how your ADHD impacts your daily life and relationships. Set boundaries and prioritize your own well-being. It's okay if they don't fully understand, as long as they respect your experience."
+        "text": "AI-generated script: \"I've been optimizing my workflow to leverage my neuro-strengths. For certain tasks, initiating can require specific 'neural priming.' I've implemented a system that proactively addresses this, allowing me to maintain high productivity and ensure timely completion of my deliverables. I'm exploring new neuro-affirming 'Operating System' tools to further enhance my focus and output.\""
       }
     },
     {
       "@type": "Question",
-      "name": "How can I communicate my needs and challenges related to ADHD in the workplace?",
+      "name": "How does the QuirkyLabs \"Dopamine Debug Console\" short-circuit the \"laziness\" cycle?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Be proactive and transparent with your manager or HR department. Explain how ADHD impacts your work and what accommodations or strategies would be helpful. Focus on your strengths and how you can contribute effectively with the right support. Remember, you have the right to request reasonable accommodations under disability laws."
+        "text": "It uses AI-driven predictive modeling to short-circuit the 'executive dysfunction self-blame cycle' reaction before it spirals. When the overwhelming feeling of 'doom scrolling' occurs → Run 'Is Your Tech Stealing Your Focus? Your ADHD Brain's Digital Compatibility Quiz + Personalized Reset Plan.exe', with real-time feedback on neural effectiveness."
       }
     },
     {
       "@type": "Question",
-      "name": "How can QuirkyLabs OS help me manage my ADHD and reclaim my focus?",
+      "name": "How can the QuirkyLabs OS help me manage digital distractions?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "QuirkyLabs OS offers a neuro-affirming \"Operating System for ADHD Brains at Work\" that transforms technology from a foe into a powerful ally for focus and productivity. By understanding the hidden neurobiological reasons why ADHD brains are hyper-vulnerable to \"digital dopamine traps,\" QuirkyLabs provides personalized strategies and game-based tools to manage distractions, enhance focus, and build a more neuro-affirming digital life."
+        "text": "The OS uses 'Adaptive App Firewall' for distracting apps (locks during 'Neuro-Focus Blocks', learning user's distraction patterns and preventing impulsive digital escapes). It also provides 'Dopamine Detox AI Companion' browser extension (greys out 'perfect routine' videos and identifies 'comparison traps' on social media, offering immediate neural re-framing or alternative content, e.g., a mini-game from QuirkyLabs OS to redirect focus)."
       }
     },
     {
       "@type": "Question",
-      "name": "What are some specific features or tools in QuirkyLabs OS that can help with task initiation and follow-through?",
+      "name": "How does the QuirkyLabs \"Neuro-Calibrated Environment Protocol\" help with task initiation?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "QuirkyLabs OS offers a range of tools designed to address the specific challenges of ADHD, such as the \"CEO Protocol\" for quick task initiation, personalized dopamine soundtracks to enhance motivation, and AI-driven micro-interruption protocols to redirect focus before derailment. The OS also includes adaptive sensory cues, gamified productivity challenges, and a personalized \"Progress Journal\" to track your achievements and celebrate your successes."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How can I integrate QuirkyLabs OS into my daily routine to create a more sustainable and fulfilling life with ADHD?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Start by identifying your specific ADHD-related challenges and exploring the tools and features within QuirkyLabs OS that address those areas. Experiment with different strategies and find what works best for you. Be patient with yourself and celebrate small wins along the way. With consistent effort and the right support, you can transform your relationship with technology and create a more sustainable and fulfilling life with ADHD."
+        "text": "This AI-controlled smart home integration for lighting, soundscapes, and temperature proactively eliminates sensory triggers that hinder task initiation. This protocol can create a sensory-safe space, allowing you to focus on the task at hand."
       }
     }
   ]

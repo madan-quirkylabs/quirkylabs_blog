@@ -23,6 +23,6 @@
     "@type": "WebPage",
     "@id": "https://quirkylabs.com/adhd-task-paralysis-focus"
   },
-   "keywords": "why do ADHDers struggle with focus, how to focus with ADHD, ADHD YNAB setup, ADHD task paralysis, dopamine dip, ADHD productivity"
+  "keywords": "why do ADHDers struggle with focus, how to focus with ADHD, ADHD YNAB setup, ADHD task paralysis, dopamine dip, ADHD productivity"
 }
 ```

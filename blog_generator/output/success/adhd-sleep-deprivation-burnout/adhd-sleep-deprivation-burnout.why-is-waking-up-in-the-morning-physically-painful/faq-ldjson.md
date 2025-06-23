@@ -5,130 +5,82 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Why is waking up in the morning physically painful with ADHD, even after getting what seems like enough sleep?",
+      "name": "Am I just lazy because I can't wake up in the morning?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "This is often due to a Delayed Sleep Phase Syndrome (DSPS), common in ADHD, where your brain's natural sleep-wake cycle is shifted later. Waking before your body is ready creates physiological resistance, leading to intense fatigue and discomfort. It's not a lack of effort, but a genuine neurobiological misalignment."
+        "text": "This isn't laziness—it's often a sign of Delayed Sleep Phase Syndrome (DSPS), meaning your brain's natural clock runs on a later schedule. It's a neurobiological difference, not a moral failing. According to van der Heijden et al. (2018), DSPS is highly prevalent in ADHD, making it genuinely difficult to feel sleepy at conventional bedtimes or wake up feeling refreshed."
       }
     },
     {
       "@type": "Question",
-      "name": "What's Delayed Sleep Phase Syndrome (DSPS) and why is it so common with ADHD?",
+      "name": "Does everyone with ADHD struggle with waking up?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "DSPS is a circadian rhythm disorder where your body's internal clock is shifted later, making it difficult to fall asleep and wake up at typical times. It's prevalent in ADHD due to dysregulation in the suprachiasmatic nucleus (SCN), the brain's master clock, and altered melatonin signaling. This makes early mornings a genuine physiological struggle, not just a matter of willpower."
+        "text": "Many do. Weaver et al. (2018) found that students with higher ADHD symptoms reported more negative affect in the mornings. This is common with ADHD because of dysregulation of circadian rhythms and dopamine pathways."
       }
     },
     {
       "@type": "Question",
-      "name": "Why do I feel exhausted, but my brain refuses to shut off at night, leading to sleep deprivation and painful mornings?",
+      "name": "Why does waking up feel like a physical battle?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "This \"tired but wired\" phenomenon is common in ADHD. Your Default Mode Network (DMN), responsible for internal thoughts, may be overactive, preventing your brain from quieting down for sleep. Executive function challenges also make it difficult to initiate bedtime routines, further disrupting sleep."
+        "text": "Gao et al. (2020) explain that individuals with ADHD show altered connectivity within key brain networks, including the Default Mode Network (DMN), Salience Network (SN), and Executive Control Network (ECN). This dysregulation can lead to a persistent 'on' state, preventing the brain from quieting down for sleep and making waking up difficult. It's your brain's \"Wake-Up Resistance Mode\" kicking in."
       }
     },
     {
       "@type": "Question",
-      "name": "Is my \"morning dread\" just laziness, or is there a real neurological reason behind it?",
+      "name": "How is this different from just being \"not a morning person?\"",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "It's *not* laziness! The intense discomfort of waking up with ADHD often stems from a combination of factors: a delayed circadian rhythm, chronic sleep debt, and dysregulated dopamine and norepinephrine levels. These factors create a genuine physiological resistance to awakening, making mornings a significant challenge."
+        "text": "It's more than just disliking mornings. With ADHD, there's often a genuine misalignment between your internal biological clock and external societal demands, as Brand et al. (2018) note. This misalignment contributes to chronic sleep debt and 'social jet lag,' leading to severe morning grogginess."
       }
     },
     {
       "@type": "Question",
-      "name": "How can I make waking up less painful and more manageable with ADHD?",
+      "name": "What's the first step when \"morning dread\" hits?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Start by addressing your circadian rhythm. Use a sunrise alarm clock to gradually increase light levels before waking, consider low-dose melatonin supplementation (with medical supervision) to shift your sleep cycle, and establish a consistent sleep-wake schedule, even on weekends."
+        "text": "Use the QuirkyLabs protocol:\n1. **Micro-action:** The '1% Rule' - use a sunrise alarm clock at least 30 minutes before actual wake time.\n2. **Dopamine-paired reward:** Listen to a favorite podcast segment for the first 5 minutes of wakefulness.\n3. **Sensory cue:** Use a weighted blanket to provide comfort and reduce sensory defensiveness."
       }
     },
     {
       "@type": "Question",
-      "name": "What is \"sleep scaffolding\" and how can it help me build a consistent bedtime routine?",
+      "name": "How do I get out of bed when I'm in 'Spoonie Mode'?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "\"Sleep scaffolding\" involves creating external cues and supports to guide you through your bedtime routine. This could include setting a visual timer for pre-sleep activities, placing your phone in another room, or using a pre-set checklist to ensure you complete each step. This offloads the burden on your executive functions and makes it easier to wind down."
+        "text": "Try the 'Gentle Wake-Up Sequence': AI-curated progressive light and sound cues for optimal awakening, designed for your current 'Spoonie Mode' (deep exhaustion)."
       }
     },
     {
       "@type": "Question",
-      "name": "What are \"dopamine snacks\" and how can they help me get out of bed in the morning?",
+      "name": "How do I explain my morning struggles to my partner?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "\"Dopamine snacks\" are small, enjoyable activities that provide a quick dopamine boost to motivate you to get out of bed. This could include listening to a favorite podcast, watching a short, engaging video, or enjoying a delicious cup of coffee. Pairing these activities with your morning routine can make it more appealing."
+        "text": "AI-generated script: *\"[Partner], my ADHD brain has Delayed Sleep Phase Syndrome, which makes waking up genuinely difficult. Can we try using a sunrise alarm and a gentle wake-up routine to make it easier for me?\"*"
       }
     },
     {
       "@type": "Question",
-      "name": "What are some sensory hacks I can use to make waking up less aversive?",
+      "name": "What can I say to my boss when I'm late because I couldn't get out of bed?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Experiment with sensory cues that promote relaxation and alertness. This could include using a weighted blanket, adjusting the temperature in your bedroom, using essential oils with energizing scents, or taking a warm shower. Identifying and addressing your sensory sensitivities can significantly improve your morning experience."
+        "text": "AI-generated script: *\"I'm working on managing my ADHD-related sleep challenges. I've implemented some new strategies, and I'll keep you updated on my progress.\"*"
       }
     },
     {
       "@type": "Question",
-      "name": "How can I use technology to prevent digital distractions from sabotaging my sleep?",
+      "name": "How does the 'Neuro-Calibrated Environment Protocol' short-circuit my morning pain?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Use app blockers to limit access to distracting apps during your bedtime routine. Set up \"do not disturb\" mode to silence notifications. Consider using a blue light filter on your devices or wearing blue light-blocking glasses in the evening."
+        "text": "It uses AI-controlled smart home integration for dynamic lighting that simulates sunrise, gentle wake-up soundscapes, and temperature adjustments to make the bedroom inviting for awakening, proactively reducing sensory aversiveness."
       }
     },
     {
       "@type": "Question",
-      "name": "How can I explain my \"morning dread\" to my partner so they understand it's not just laziness?",
+      "name": "How can 'Reward Roulette 2.0' help me wake up easier?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Explain that your brain's internal clock may be running on a different schedule, making early mornings a genuine physiological struggle. Use analogies to illustrate the difficulty, such as comparing it to jet lag or trying to wake up in the middle of the night."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What if my partner's well-intentioned advice (like \"just go to bed earlier\") makes me feel even more ashamed?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Gently explain that while you appreciate their support, generic advice doesn't always work for ADHD brains. Share information about Delayed Sleep Phase Syndrome and the unique challenges you face. Ask for their understanding and support in implementing ADHD-friendly strategies."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How can I deal with the guilt and shame associated with struggling to wake up in the morning?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Practice self-compassion. Remind yourself that your difficulties are not a reflection of your character or worth. Acknowledge that you are facing a genuine neurological challenge. Focus on small, achievable steps and celebrate your progress, no matter how small."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What if I've tried everything and still struggle with morning dread?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Consider seeking professional help. A therapist or ADHD coach can help you develop personalized strategies and address any underlying emotional issues. A sleep specialist can assess you for sleep disorders and recommend appropriate treatments."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is \"light therapy\" and how does it work for ADHD and delayed sleep?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Light therapy involves exposing yourself to bright light, typically from a special light box, for a set period each morning. This helps to reset your circadian rhythm and shift your sleep cycle earlier. Consult with a healthcare professional to determine the appropriate light intensity and duration for you."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How can I use neurofeedback to improve my sleep and morning functioning?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Neurofeedback is a type of biofeedback that trains your brain to regulate its activity. It can be used to improve sleep quality, reduce anxiety, and enhance executive functions, all of which can contribute to easier mornings. Consult with a qualified neurofeedback practitioner to learn more."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How can I create a \"sensory-safe\" environment in my bedroom to promote better sleep and easier mornings?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Minimize noise and light pollution, use blackout curtains or a sleep mask, and ensure your bedroom is at a comfortable temperature. Consider using a white noise machine or fan to mask distracting sounds. Choose bedding made from soft, comfortable materials."
+        "text": "It gamifies waking up by offering micro-rewards (e.g., 5 guilt-free minutes of a favorite engaging activity later) post-successful morning routine adherence, dynamically weighted by consistency and your motivational profile. This can help bypass prefrontal cortex blockage."
       }
     }
   ]

@@ -5,146 +5,114 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Why does my ADHD brain treat buying milk like a five-alarm fire?",
+      "name": "Why does every task feel equally urgent, like a five-alarm fire?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Because of a core ADHD trait called \"time blindness,\" your brain struggles to place tasks in the future. This causes all tasks to feel like they are due \"NOW,\" and your brain's executive functions get overwhelmed trying to sort them, leading to everything feeling equally, catastrophically urgent. Our Neuro-AI helps you build an 'external clock' to give your brain the context it needs."
+        "text": "This is due to \"time blindness,\" where your brain struggles to accurately perceive future timelines, making everything feel like it's due *now*. Cortese et al. (2020) found that dysfunction in fronto-striatal circuits impairs cognitive control and attentional regulation, leading to this \"priority collapse.\""
       }
     },
     {
       "@type": "Question",
-      "name": "How is ADHD digital distraction different from regular procrastination?",
+      "name": "How is this different from just being bad at time management?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "While regular procrastination is often about delaying tasks, ADHD digital distraction is amplified by neurobiological differences. It's not just a choice; it's a vulnerability where technology's design actively exploits your brain's unique wiring (dopamine dysregulation, executive function deficits), making it incredibly difficult to initiate or switch away from stimulating digital content, leading to a \"freeze\" response."
+        "text": "It's not just about poor planning; it's a neurobiological difference. Pollak & Fried (2017) demonstrated that adults with ADHD show significant impairments in time estimation, leading to chronic lateness and difficulty prioritizing. This is your brain's unique wiring, not a character flaw."
       }
     },
     {
       "@type": "Question",
-      "name": "Can digital notifications trigger RSD in ADHD?",
+      "name": "Why does digital overwhelm make my brain feel like it's short-circuiting?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, for individuals with ADHD and Rejection Sensitive Dysphoria (RSD), digital notifications can be significant triggers. The fear of a critical message, perceived slight, or missing out (FoMO) can cause intense emotional pain and anxiety, leading to avoidance of digital communication or hyper-vigilance towards pings, exacerbating digital task paralysis."
+        "text": "Sensory overload is common in ADHD, and digital environments are often intensely stimulating. Panagiotidi et al. (2018) found a significant overlap between ADHD and sensory processing sensitivity. This can lead to mental shutdown and task paralysis."
       }
     },
     {
       "@type": "Question",
-      "name": "Am I going crazy or does answering one email feel as stressful as defusing a bomb?",
+      "name": "Am I lazy because I can't seem to prioritize tasks, even when I know they're important?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "You're not crazy, your brain's 'urgency filter' is offline. Without it, every notification is a potential bomb. Here’s the 2-minute 'Triage Tool' to help you spot the difference between a real bomb and a dud. Your brain isn't chaotic—it's just getting spammed with false alarms."
+        "text": "This isn't laziness—it's a neurobiological barrier. Your prefrontal cortex struggles to assign different weights of importance to tasks due to \"time blindness\". Remember, Kessler et al. (2009) emphasize that understanding the neurobiological basis of symptoms is crucial for reducing self-blame."
       }
     },
     {
       "@type": "Question",
-      "name": "Why does my ADHD brain get stuck on screens?",
+      "name": "Does everyone with ADHD struggle with this feeling of 'priority paralysis'?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Your ADHD brain is uniquely vulnerable to the persuasive, dopamine-driven design of modern technology. The endless scroll, variable reward schedules of notifications, and constant novelty act as supernormal stimuli, hijacking dopamine pathways and impairing impulse control. This makes disengagement difficult and can lead to 'screen paralysis' or 'digital dopamine traps.'"
+        "text": "Yes, this is a common experience. Executive function deficits, particularly in planning and organization, are a core feature of ADHD. DuPaul et al. (2013) showed that these deficits significantly contribute to real-world functional difficulties."
       }
     },
     {
       "@type": "Question",
-      "name": "How do I prioritize when my to-do list feels like a wall of screaming toddlers, where every single one is demanding my attention RIGHT NOW, and they're all on fire?",
+      "name": "Am I just addicted to my phone if I can't stop doomscrolling when I have urgent tasks?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Your brain's priority filter just crashed. Before looking at your task list, activate the 'Time Telescope.' Pick one task you think is important. Close your eyes and vividly imagine the negative consequence if you *don't* do it this week. Now feel the relief of it being done. This helps your prefrontal cortex assign a proper value and urgency to the task."
+        "text": "It's not simply a lack of willpower. Jia et al. (2021) found that individuals with ADHD are at higher risk for problematic internet use due to dopamine dysregulation, leading to digital task paralysis. This is about your brain's reward system, not a moral failing."
       }
     },
     {
       "@type": "Question",
-      "name": "What if prioritizing feels impossible? Where do I even start?",
+      "name": "What's the first step when the 'priority paralysis' hits?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Try \"forced-rank prioritization.\" Use tools that *do the prioritizing for you*, bypassing your brain's \"time blindness\" and showing you only the ONE thing you need to do next, eliminating the overwhelm of choice."
+        "text": "Activate the 'Time Telescope.' Pick one task you think is important. Close your eyes and vividly imagine the negative consequence if you *don't* do it this week. Now feel the relief of it being done. This helps your prefrontal cortex assign a proper value and urgency to the task."
       }
     },
     {
       "@type": "Question",
-      "name": "I'm overwhelmed by the number of tabs I have open. How can I declutter my digital workspace?",
+      "name": "How do I prioritize tasks when I'm in 'Spoonie Mode'?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Apply the \"Rule of 3\": Limit yourself to three tabs at a time. If you need to access more, bookmark them and close them. This reduces visual clutter and cognitive load."
+        "text": "Use the 'One Thing' Focus: Write your single most important task on a sticky note and place it on your monitor. That is the *only* to-do list that exists in the universe until it is done. This helps to minimize overwhelm when executive resources are limited."
       }
     },
     {
       "@type": "Question",
-      "name": "How can I manage notifications so they don't overwhelm me?",
+      "name": "What's a quick way to break down the overwhelming feeling of an overflowing digital to-do list?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Implement a 'Notification Funnel': Block all notifications by default and 'funnel' them into a single digest delivered only at pre-set times (e.g., 11 AM and 4 PM). Truly urgent messages from pre-approved contacts can bypass the funnel, creating a manageable and hierarchical information flow."
+        "text": "Implement the '1-3-5' List: Each day, choose only: 1 big/hard thing, 3 medium things, and 5 small/easy things to accomplish. This forces you to create a simple hierarchy and limits the size of the list."
       }
     },
     {
       "@type": "Question",
-      "name": "What are \"digital dopamine traps,\" and how do I avoid them?",
+      "name": "How do I explain my difficulty prioritizing to my partner?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "\"Digital dopamine traps\" are features of technology (endless scroll, variable rewards) that exploit your ADHD brain's dopamine system. Combat them by setting time limits for specific apps, using website blockers, and finding alternative, healthy dopamine sources (exercise, hobbies)."
+        "text": "AI-generated script: *\"Honey, my brain's 'urgency knob' is broken and stuck on high, so everything feels like an emergency to me. It's really helpful if you can be my external filter. If you need something, can you tell me 'this is a fire' or 'this can wait until tomorrow?' That helps me sort the noise.\"*"
       }
     },
     {
       "@type": "Question",
-      "name": "Are there any apps specifically designed to help with ADHD and digital focus?",
+      "name": "How can I communicate my needs to my boss regarding task prioritization?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Look for apps that offer features like: single-tasking mode, website blocking, notification management, and time tracking. Experiment to find what works best for your brain."
+        "text": "AI-generated script: *\"To ensure I'm always aligned with team goals, it's incredibly helpful for me if we can clarify the single top priority for me for the week during our check-ins. That clarity allows me to direct my focus to what's most impactful and avoid getting bogged down in lower-priority tasks.\"*"
       }
     },
     {
       "@type": "Question",
-      "name": "How can I use technology to *help* me focus instead of distract me?",
+      "name": "How does QuirkyLabs' 'Digital Dopamine Navigator™' short-circuit the feeling of 'priority paralysis'?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Use technology as an \"external brain.\" Set reminders, create visual schedules, and use note-taking apps to offload information from your working memory."
+        "text": "It uses AI and forced-ranking systems to do the prioritizing for you, bypassing your brain's 'time blindness' and showing you only the ONE thing you need to do next, eliminating the overwhelm of choice. Try our 'Dopamine Defender' mini-game to experience the power of game-based focus!"
       }
     },
     {
       "@type": "Question",
-      "name": "How do I explain my ADHD-related digital struggles to my boss or partner?",
+      "name": "How can QuirkyLabs help me manage sensory overload in my digital workspace?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Use clear and concise language. Explain that your brain processes information differently and that digital distractions can be particularly challenging. Ask for specific accommodations or support."
+        "text": "We offer tools like the 'Notification Funnel,' which blocks all notifications by default and funnels them into a single digest delivered only at pre-set times. Truly urgent messages from pre-approved contacts can bypass the funnel, creating a manageable and hierarchical information flow. This is key for creating ADHD-friendly digital environments."
       }
     },
     {
       "@type": "Question",
-      "name": "My boss just sent me a list of 10 \"urgent\" tasks. How do I handle that without melting down?",
+      "name": "How does the QuirkyLabs system help me rewire my brain to better handle task prioritization over time?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Say: \"To ensure I'm always aligned with team goals, it's incredibly helpful for me if we can clarify the single top priority for me for the week during our check-ins. That clarity allows me to direct my focus to what's most impactful and avoid getting bogged down in lower-priority tasks.\""
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How can my partner help me manage my digital distractions?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Co-create an \"adaptive priority check-in.\" Once a day, ask your partner to look at your list and ask one question: \"If you could only do one of these things today to feel successful, which would it be?\" This externalizes the prioritization process."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "I've tried everything, and I still can't focus. What am I doing wrong?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You're not \"doing\" anything wrong. It's important to remember that ADHD is a neurobiological condition. Be patient with yourself and keep experimenting with different strategies. Consider seeking professional support from a therapist or coach."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "I feel guilty about how much time I spend on my phone. How can I overcome this shame?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Recognize that your brain is wired differently. Focus on progress, not perfection. Celebrate small wins and practice self-compassion."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How can I turn this struggle into a strength?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Reframe your perspective. Your ability to feel equally urgent about tasks can be a superpower when channeled effectively. Your non-linear thinking can lead to creative solutions. Embrace your neurodiversity and find ways to leverage your unique strengths."
+        "text": "Our system includes 'Value-Assignment Training,' a gamified tool where you rapidly sort tasks into categories (e.g., 'Makes Money/Saves Job' vs. 'Doesn't') to train your brain to more quickly assign high-value flags to professionally critical tasks. This supports the development of new neural pathways for improved decision-making."
       }
     }
   ]

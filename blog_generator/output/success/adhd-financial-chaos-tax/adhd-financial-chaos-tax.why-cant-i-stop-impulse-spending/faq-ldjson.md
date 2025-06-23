@@ -5,170 +5,106 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Why is managing money so hard with ADHD?",
+      "name": "Why does the urge to impulse spend feel like a dopamine-fueled NEED?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Managing money with ADHD is challenging due to neurobiological differences impacting executive functions (planning, organization, working memory), emotional dysregulation (leading to impulse spending), and time blindness (causing late fees). It's not a lack of effort, but a mismatch between your brain's wiring and neurotypical financial systems."
+        "text": "Your brain's reward pathways (mesolimbic dopamine system) show heightened activity when a novel item or 'deal' appears, triggering an intense desire for immediate gratification. Due to dopamine dysregulation common in ADHD, the anticipated reward from a purchase provides a stronger 'hit' than sustained effort for long-term goals (Sonuga-Barke et al., 2021). This is your brain seeking that dopamine boost!"
       }
     },
     {
       "@type": "Question",
-      "name": "What is the \"ADHD Tax\"?",
+      "name": "How is this different from just wanting to treat myself after a hard day?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The \"ADHD Tax\" refers to the cumulative, often hidden, financial and time costs incurred due to ADHD symptoms. This includes late fees from forgotten bills, replacing lost items, unused subscriptions, and regretted impulse purchases. It's a real and measurable burden for many ADHD adults."
+        "text": "It's not just a treat. In ADHD, there's dysregulation in reward pathways and emotional processing centers (amygdala), leading to difficulty delaying gratification and using spending for self-soothing (Lenzi et al., 2021). It’s a neurobiological drive, not just a desire."
       }
     },
     {
       "@type": "Question",
-      "name": "Why does my brain have \"honest to God arguments with myself over splurging because I'm in need of dopamine?\"",
+      "name": "Why does my brain rationalize the purchase even when I know I shouldn't?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "This highlights the role of the reward system in ADHD. Your brain's reward pathways (especially the nucleus accumbens) become highly active when a novel item or \"deal\" appears. Due to dopamine dysregulation, the anticipated reward from a purchase can provide a stronger \"hit\" than sustained effort towards long-term goals."
+        "text": "This is a 'Default Mode Network' hijack, where your brain fixates on the immediate benefits and suppresses thoughts of future consequences. The anticipatory pleasure mechanism is often heightened in ADHD, contributing to impulsive decisions (Knutson et al., 2001)."
       }
     },
     {
       "@type": "Question",
-      "name": "Is financial chaos related to executive dysfunction or something else in my brain?",
+      "name": "Am I irresponsible because I can't seem to control my impulse spending?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes! Deficits in executive functions like planning, organization, working memory, and impulse control are core to ADHD. These functions are governed by the prefrontal cortex, and impairments here directly impact your ability to manage finances effectively. It's not just about knowing what to do; it's about *doing* what you know."
+        "text": "This isn’t a moral failing—it’s a neurobiological barrier. Your brain's reward system prioritizes immediate, potent stimuli (Sonuga-Barke et al., 2021). This makes resisting the impulse neurologically challenging."
       }
     },
     {
       "@type": "Question",
-      "name": "I feel so much shame about my financial mistakes. Is this common with ADHD?",
+      "name": "Does everyone with ADHD struggle with impulse spending?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Absolutely. Shame and self-blame are very common for adults with ADHD regarding their symptoms and related life difficulties, including finances. This can lead to avoidance and maladaptive coping strategies. It's crucial to address the shame and foster self-compassion."
+        "text": "Yes, it's a common experience. Higher ADHD symptom severity predicts problematic financial behavior, with emotion dysregulation significantly mediating this relationship (Lenzi et al., 2021). You're not alone in this struggle."
       }
     },
     {
       "@type": "Question",
-      "name": "I keep trying budgeting apps, but they never work for me. Why?",
+      "name": "Am I doomed to be in debt forever because of my ADHD?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Traditional financial literacy programs and budgeting apps often fail to address the underlying cognitive barriers of ADHD, such as executive function deficits and impulsivity. They don't account for *how* your brain works."
+        "text": "Absolutely not! While adults with persistent ADHD symptoms are at a higher risk of accumulating debt (Loo et al., 2015), understanding the neurobiological roots and using ADHD-friendly strategies can help you regain control."
       }
     },
     {
       "@type": "Question",
-      "name": "My partner says, 'Why can't you just start? It's not that hard.' Why does this trigger me so much?",
+      "name": "What’s the first step when the urge to impulse spend hits?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "This phrase can trigger a neural rejection response, exacerbating feelings of shame and isolation. It dismisses the very real neurobiological challenges you face with ADHD. It's important to communicate your needs and challenges to your partner in a way they can understand."
+        "text": "Pause and activate the \"Neural Reset.\" Focus on your breath, then tap your forehead lightly. This recalibrates your attentional networks. Then, ask yourself: \"Do I *need* this, or do I just *want* the dopamine hit?\""
       }
     },
     {
       "@type": "Question",
-      "name": "What's the first step to take when I'm overwhelmed by my finances?",
+      "name": "How do I stop myself from clicking 'buy now' when I’m in 'Spoonie Mode'?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Start small! Automate one recurring bill today. Then, set two reminders for that bill. Celebrate that micro-win. Overwhelm triggers paralysis, so focus on simple, actionable steps."
+        "text": "The \"1% Rule\": Before buying anything, wait one hour. Set a timer. During that hour, do something that gives you a small dopamine boost (listen to a song, stretch, etc.). Often, the urge will pass."
       }
     },
     {
       "@type": "Question",
-      "name": "What if I don't know where to start?",
+      "name": "What's a 'Good Enough' fix to reduce impulse spending triggers online?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Try the \"ADHD Financial Freedom Checklist\" to automate your bills and subscriptions. This checklist is designed to bypass ADHD executive function challenges and create a simple, visual, step-by-step plan."
+        "text": "Install a browser extension like our 'Dopamine Detox AI Companion.' It greys out \"perfect routine\" videos and identifies \"comparison traps\" on social media, offering immediate neural re-framing or alternative content."
       }
     },
     {
       "@type": "Question",
-      "name": "Are there any specific apps or tools that are good for ADHD and money?",
+      "name": "How do I explain my impulse spending to my partner without them thinking I'm irresponsible?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Look for apps with reminders, checklists, and gamification features, but also consider the humble sticky note. Sometimes simple is better."
+        "text": "AI-generated script: *\"[Partner], my ADHD brain is wired to seek immediate rewards, which sometimes leads to impulse purchases. It's not about being careless; it's a neurobiological response. Can we work together to find strategies to manage this, like setting a 'cooling-off' period before buying non-essential items?\"*"
       }
     },
     {
       "@type": "Question",
-      "name": "What if I'm in \"Spoonie Mode\" and have no energy to deal with my finances?",
+      "name": "How do I tell my friends \"no\" when they pressure me to spend money I don't have?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The \"1% Rule\" applies. Do one tiny task. AI may even suggest opening one work document and setting a 2-minute timer as a starting point, with a micro-reward for opening it."
+        "text": "AI-generated script: *\"I'd love to join you, but I'm currently working on my financial goals. Maybe we can find a free or low-cost activity to do instead?\"*"
       }
     },
     {
       "@type": "Question",
-      "name": "How can I stop impulsive spending?",
+      "name": "How does the 'Adaptive App Firewall' short-circuit impulse spending?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Incorporate behavioral strategies that increase self-control and delay gratification. Consider \"cooling-off\" periods before making purchases, or use pre-commitment devices (like freezing your credit cards)."
+        "text": "It locks distracting apps during \"Neuro-Focus Blocks,\" learning your distraction patterns and preventing impulsive digital escapes. By creating friction and removing easy access, it helps you regain control over your spending habits."
       }
     },
     {
       "@type": "Question",
-      "name": "What can I do to make managing my finances more engaging?",
+      "name": "How can QuirkyLabs help me rewire my brain to resist impulse spending triggers?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Gamify the process! Many people with ADHD find that gamified interventions can improve executive functions. This could involve rewarding yourself for reaching financial goals, or using apps that turn budgeting into a game."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How can I use technology to help manage my ADHD and finances?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Look for mobile applications that support organization, time management, and task initiation. Features like reminders, checklists, and gamification can be helpful."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How can I explain my ADHD and financial struggles to my partner?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Use an analogy. Try saying, \"You know how my brain sometimes struggles to 'switch on' for mundane tasks like paying bills? It's not about being lazy; it's a specific neural circuit that needs a little nudge. When you see me stuck, a gentle (insert pre-agreed cue) helps me kickstart. We're working on making this brain more efficient!\""
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What if my partner doesn't understand ADHD?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Co-create an \"adaptive sensory-safe signal\" or emoji that signals a need for a gentle nudge or assistance without shame. Schedule \"dopamine check-ins\" for tasks and pair them with your most effective personalized dopamine-triggering activities."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How do I communicate my needs to my boss regarding ADHD and finances?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Use a professional script: \"I've been optimizing my workflow to leverage my neuro-strengths. For certain administrative tasks, initiating can require specific 'neural priming.' I've implemented a system that proactively addresses this, allowing me to maintain high productivity and ensure timely completion of my deliverables.\""
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What do I do if I relapse and start impulse spending again?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Activate the \"Reframe Reality 2.0\" tool, which uses multi-modal sensory cues and AI-driven narrative re-framing to re-contextualize the trigger (e.g., \"This isn't laziness; it's a temporary dip in your prefrontal dopamine.\") and interrupt the neural loop."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How do I deal with the feeling of being \"fucked financially\" because of ADHD?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Acknowledge the feeling, but then challenge it. Remember, that thought is a \"Shame-Anchor Neuro-Loop.\" Reframe it by recognizing that ADHD is a neurodevelopmental disorder impacting executive function, not a personal failing."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What if I'm still struggling with motivation, even after trying these strategies?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Remember, the goal isn't perfection, it's progress. Celebrate the small wins. Use AI-curated \"dopamine pairing\" for tasks with your most effective \"guilty pleasure\" (only allowed during execution) or try \"Reward Roulette 2.0.\""
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What are some common myths about ADHD and finances?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "*   **Myth:** \"If you just had more self-esteem, this wouldn't be a problem.\"<br>*   **Neuro-Truth:** Executive dysfunction isn't a moral failing; it's a breakdown in the prefrontal cortex's ability to plan and initiate.<br><br>*   **Myth:** \"You're just lazy and unmotivated.\"<br>*   **Neuro-Truth:** ADHD is a neurodevelopmental disorder that fundamentally impacts executive functioning, making it neurologically challenging to plan, initiate, and complete tasks, regardless of an individual's desire or effort.<br><br>*   **Myth:** \"Everyone struggles with motivation, just power through it.\"<br>*   **Neuro-Truth:** While motivation challenges are universal, for ADHD brains, these struggles are amplified by abnormalities in dopamine pathways."
+        "text": "QuirkyLabs uses AI-driven tools and personalized strategies to help you understand and manage your unique ADHD brain. For example, our 'Reward Roulette 2.0' gamifies micro-rewards for resisting impulse buys, dynamically weighted by task difficulty and your motivational profile. This helps build new neural pathways and reduce the urge to impulse spend."
       }
     }
   ]

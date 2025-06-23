@@ -5,130 +5,74 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Why is showering and brushing my teeth so hard with ADHD?",
+      "name": "Why does that chewing sound trigger a volcano of rage in my brain?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "For ADHD brains, executive dysfunction, time blindness, and sensory sensitivities can make multi-step hygiene routines feel overwhelming, leading to \"task paralysis\" and feelings of shame. It's not about laziness, but a difference in how your brain initiates and sustains routine tasks, often compounded by digital distractions."
+        "text": "When a trigger sound (like chewing) is perceived, it can activate a hyper-reactive amygdala response, bypassing typical sensory filtering. This leads to intense emotional reactions and physiological responses before you can even consciously process it. (Jager et al., 2020). This is often exacerbated in ADHD due to shared traits like emotional dysregulation and sensory hypersensitivity."
       }
     },
     {
       "@type": "Question",
-      "name": "Why do I forget to eat for hours when I have ADHD?",
+      "name": "Is this just being \"sensitive,\" or is it an ADHD thing?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Many ADHD individuals experience reduced interoceptive awareness, meaning they struggle to recognize internal hunger and fullness cues until they are extreme. Hyperfocus on engaging tasks (like work or screens) can further suppress these signals, leading to forgotten meals, energy crashes, and impulsive eating patterns."
+        "text": "It's definitely an ADHD thing, and often misophonia! Bijlenga et al. (2017) found that sensory processing difficulties are highly prevalent in adults with ADHD. Your brain may have difficulty filtering out irrelevant sensory information, leading to overwhelm. This is a genuine neurological experience, not just an annoyance."
       }
     },
     {
       "@type": "Question",
-      "name": "Why do small noises like chewing make me rage if I have ADHD?",
+      "name": "Am I a bad person because I get irrationally angry at small noises?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "This intense reaction to specific sounds is often misophonia, a condition highly comorbid with ADHD. It's believed to stem from enhanced activity in the brain's salience network and impaired executive control, causing a heightened, unfiltered emotional response to otherwise ordinary noises. It's a genuine sensory experience, not just an annoyance."
+        "text": "Absolutely not! This isn't a moral failing—it's a neurobiological reality. Your amygdala is likely overreacting to these sounds (Jager et al., 2020). It's not about being \"overly sensitive\"; it's that certain sounds trigger intense emotional and physiological responses."
       }
     },
     {
       "@type": "Question",
-      "name": "Is my \"phone addiction\" a moral failing, or is something else going on with my ADHD brain?",
+      "name": "Does everyone with ADHD struggle with sensory overload and misophonia?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "It's not a moral failing! Your ADHD brain is wired differently, and modern technology is designed to exploit that. Constant digital novelty and variable reward schedules overstimulate dopamine pathways, making it harder for the prefrontal cortex to override immediate gratification and direct attention towards less immediately rewarding tasks like hygiene or meal preparation."
+        "text": "While not everyone with ADHD experiences it, sensory processing difficulties and misophonia are very common. Studies show a significant comorbidity between misophonia and ADHD (Siepsiak et al., 2021). This is common with ADHD because ADHD brains can have difficulty filtering out irrelevant sensory stimuli."
       }
     },
     {
       "@type": "Question",
-      "name": "Why are sensory sensitivities more common in women with ADHD?",
+      "name": "What's the first thing I can do when I feel a rage response coming on from a trigger sound?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "While research is ongoing, women with ADHD are more likely to experience certain hypersensitivity types (tactile defensiveness, sensory overload). Hormonal fluctuations can also impact symptom severity, affecting self-care and sensory management."
+        "text": "Activate your \"Emergency Auditory Cloak\" (AI-selected 'earplugs + white noise app') for immediate sound reduction. This gives you a moment to regain control before the rage escalates."
       }
     },
     {
       "@type": "Question",
-      "name": "How can I make hygiene routines less overwhelming with ADHD?",
+      "name": "How do I deal with trigger sounds when I'm in 'Spoonie Mode' and can't handle much?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Break down hygiene into tiny, achievable 2-minute \"micro-tasks\" (e.g., just wash your face, brush teeth for 30 seconds). Immediately follow with a 5-minute \"digital detox\" break - put your phone in another room. Reward yourself with a small, non-digital dopamine hit after completing a hygiene micro-task (e.g., listening to one song)."
+        "text": "Even in \"Spoonie Mode,\" try the 1% Rule: Just put in earplugs. That's it. Even that tiny action can make a difference. Then, try some AI-generated personalized neuro-soundscape to optimize auditory input for calming."
       }
     },
     {
       "@type": "Question",
-      "name": "What can I do to remember to eat when I'm hyperfocused?",
+      "name": "How do I explain my misophonia to my coworker without sounding crazy?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Set tailored smart alarms to remind you to eat. Keep visible snacks nearby. Be mindful of interoceptive cues. Mindful eating practices can help you reconnect with your body's hunger and fullness signals."
+        "text": "Here's an AI-generated script: \"To maintain my focus and productivity, I've found that certain auditory stimuli can be highly distracting due to a specific neurological sensitivity. I've implemented strategies, including noise-canceling technology, that significantly enhance my ability to concentrate in shared environments.\""
       }
     },
     {
       "@type": "Question",
-      "name": "How can I cope with sensory overload in public spaces like grocery stores or busy offices?",
+      "name": "What do I tell my partner when they invalidate my sensory sensitivities?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Plan trips during off-peak hours. Wear noise-canceling headphones. Use fidgets. Develop personalized coping strategies and environmental modifications to mitigate sensory overload in routine activities."
+        "text": "Use this AI-generated script, tailored to your relationship dynamics: \"Honey, certain sounds physically overwhelm my ADHD brain and trigger a strong emotional response. It’s not your fault or about me being angry at you; it’s my brain's wiring. A gentle, pre-arranged 'sensory signal' (e.g., a specific hand gesture or emoji) helps me manage in the moment.\""
       }
     },
     {
       "@type": "Question",
-      "name": "What are some digital detox strategies for ADHD professionals?",
+      "name": "How can QuirkyLabs help me short-circuit my misophonia and sensory overload?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Schedule strategic digital \"fasts\" and mindful tech use. Identify digital triggers. Build routines that integrate technology breaks to protect executive function and facilitate daily self-care. Even brief periods of \"digital detox\" (e.g., 15-minute phone-free breaks) can improve executive function."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What are some strategies for managing misophonia triggers in the office?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Use noise-canceling headphones. Explore sound-masking techniques. Practice mindfulness and emotion regulation strategies. Communicate your needs to colleagues and explore options for environmental modifications."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How do I explain my sensory sensitivities to my partner or family?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Use clear and direct communication. Explain that your reactions are neurological, not personal. Co-create an \"adaptive sensory distress signal\" that signals a need for immediate auditory or environmental modification without shame."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How can I communicate my needs for a sensory-friendly workspace to my boss?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Be prepared to explain your sensory sensitivities and how they impact your productivity. Suggest specific accommodations, such as a quieter workspace, noise-canceling headphones, or flexible lighting."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "I tried a strategy, but it didn't work. What now?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Don't get discouraged! ADHD management is about experimentation and finding what works best for *you*. Reflect on what didn't work and adjust your approach. Remember, progress, not perfection, is the goal."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How can I reduce the shame associated with ADHD and self-care struggles?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Acknowledge that your struggles are neurobiological, not moral failings. Focus on self-compassion and celebrate small wins. Connect with other ADHD individuals for support and validation."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What if I feel like I've tried everything and nothing works?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Seek professional help from a therapist or ADHD coach. They can provide personalized strategies and support. Remember, you are not alone, and there is hope for a better future."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How can I turn my \"sensitivity\" into a superpower?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Reframe sensory overload as hyper-perceptive environmental processing. Channel your attention-switching abilities into rapid context adaptation. Embrace your unique neurodivergent lens to find creative solutions and thrive in a world that often feels overwhelming."
+        "text": "QuirkyLabs offers a \"Sensory Harmony Method™\" that uses real-time neuro-feedback and AI-driven predictive modeling to short-circuit the 'Amygdala response sensory overload ADHD' reaction before it spirals into rage. Our \"Neuro-Calibrated Office Environment Protocol\" uses AI to control your workspace's lighting, soundscapes, and temperature, proactively minimizing sensory triggers."
       }
     }
   ]

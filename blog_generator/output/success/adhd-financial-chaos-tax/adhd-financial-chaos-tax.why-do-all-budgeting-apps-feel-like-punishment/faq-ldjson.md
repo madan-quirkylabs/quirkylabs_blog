@@ -5,146 +5,122 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Why is managing money so hard with ADHD?",
+      "name": "Why does managing money feel like trying to herd cats when I have ADHD?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Managing money with ADHD is challenging due to neurobiological differences impacting executive functions (planning, organization, working memory), emotional dysregulation (leading to impulse spending), and time blindness (causing late fees). It's not a lack of effort, but a mismatch between your brain's wiring and neurotypical financial systems. (See: Suhr & Reynolds, 2019; Duell & Wagner, 2020)"
+        "text": "Suhr & Reynolds (2019) highlight that ADHD brains often struggle with financial planning due to impairments in the prefrontal cortex, affecting working memory, inhibition, and planning. This makes complex financial computations feel overwhelming. This is common with ADHD because it's not a lack of intelligence, but a neurobiological difference."
       }
     },
     {
       "@type": "Question",
-      "name": "What is the \"ADHD Tax\"?",
+      "name": "How is this different from just being bad at budgeting?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The \"ADHD Tax\" refers to the cumulative, often hidden, financial and time costs incurred due to ADHD symptoms. This includes late fees from forgotten bills, replacing lost items, unused subscriptions, and regretted impulse purchases. It's a real and measurable burden for many ADHD adults. (See: Pollak & Fried, 2020)"
+        "text": "It's not just about lacking knowledge! Duell & Wagner (2020) found that executive function deficits, common in ADHD, directly undermine the ability to manage finances. It’s a neurobiological barrier, not a moral failing."
       }
     },
     {
       "@type": "Question",
-      "name": "Is my \"laziness\" the reason I can't seem to get my finances in order?",
+      "name": "Why do I keep making the same financial mistakes even when I know better?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Absolutely not. ADHD is a neurodevelopmental disorder that fundamentally impacts executive functioning. It's neurologically challenging to plan, initiate, and complete tasks, *regardless* of an individual's desire or effort. (See: Castellanos et al., 2006) Your brain works differently, not deficiently. It's a matter of wiring, not willpower!"
+        "text": "Sonuga-Barke et al. (2021) explain that ADHD involves atypical reward processing, leading to a preference for immediate rewards over delayed ones. This contributes to financial impulsivity. This is your brain seeking dopamine, even if it's detrimental in the long run."
       }
     },
     {
       "@type": "Question",
-      "name": "Why do all budgeting apps feel like punishment?",
+      "name": "Am I lazy because I can’t seem to stick to a budget?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Traditional budgeting apps often require meticulous planning, sustained attention, and detailed input, which can quickly overwhelm the ADHD brain. This triggers decision fatigue and a low dopamine return for the effort expended, making the task feel disproportionately high and, frankly, unpleasant."
+        "text": "Absolutely not! Knouse & Mitchell (2016) found that adults with ADHD often report high levels of shame and self-blame. This isn’t laziness—it’s a neurobiological barrier. Try our QuirkyLabs tools to rewire this negative self-perception."
       }
     },
     {
       "@type": "Question",
-      "name": "Why is saving money so hard with ADHD?",
+      "name": "Does everyone with ADHD struggle with money management?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "ADHD is characterized by atypical reward processing, including altered sensitivity to delay discounting (preference for immediate over delayed rewards). This neuroeconomic bias contributes to financial impulsivity, risk-taking, and difficulty with long-term financial planning. (See: Sonuga-Barke et al., 2021)"
+        "text": "It's a very common struggle. Rosén et al. (2019) found that adults with ADHD are at a significantly higher risk of experiencing long-term financial strain. You're not alone, and it's not your fault."
       }
     },
     {
       "@type": "Question",
-      "name": "What are some ADHD-friendly budgeting strategies that actually work?",
+      "name": "Am I doomed to always be bad with money because of my ADHD?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Focus on radical simplification, automation, and visual tools. Automate bills and savings, use visual budgeting methods (like color-coded charts), and break down financial tasks into small, manageable steps. Prioritize strategies that minimize cognitive load and maximize dopamine rewards."
+        "text": "No! While ADHD presents challenges, van der Heijden et al. (2018) show that mobile applications and other tools can support ADHD management, including financial tasks. It's about finding strategies that work *with* your brain, not against it."
       }
     },
     {
       "@type": "Question",
-      "name": "How can I stop ADHD impulse spending?",
+      "name": "What's the first step when financial overwhelm hits?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Implement \"cooling-off\" periods before making non-essential purchases. Use pre-commitment devices (like freezing your credit card), and explore strategies for emotional regulation to address the underlying emotional triggers of impulse spending. (See: Amlung & MacKillop, 2014)"
+        "text": "Instead of trying to tackle everything at once, use the QuirkyLabs \"1% Rule\":\n1. **Micro-action:** Identify ONE bill to automate.\n2. **Dopamine-paired reward:** Listen to your favorite song while setting it up.\n3. **Sensory cue:** Use a brightly colored sticky note to remind yourself it's done."
       }
     },
     {
       "@type": "Question",
-      "name": "How can I remember to pay my bills on time?",
+      "name": "How do I pay bills when I'm in 'Spoonie Mode'?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Automate your bill payments whenever possible. Set up multiple, persistent calendar reminders, and use visual timers to externalize time. (See: Toplak et al., 2017)"
+        "text": "The \"Good Enough\" fix:\n1. **Automate:** Set up auto-pay for recurring bills, even if it's just one to start.\n2. **Simplify:** Use a visual calendar to track due dates, not a complex spreadsheet.\n3. **Delegate:** If possible, ask a trusted friend or family member for help with organizing bills."
       }
     },
     {
       "@type": "Question",
-      "name": "What are some ADHD-friendly budgeting apps that work?",
+      "name": "What's a quick way to stop impulse spending?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Look for apps with simplified interfaces, visual progress tracking, and gamified elements. Prioritize apps that allow you to focus on one task at a time and easily re-prioritize."
+        "text": "Use the QuirkyLabs \"Pause Protocol\":\n1. **Delay:** When you feel the urge, wait 24 hours before buying.\n2. **Visualize:** Imagine the item already broken or forgotten.\n3. **Redirect:** Engage in a dopamine-boosting activity that doesn't involve spending."
       }
     },
     {
       "@type": "Question",
-      "name": "How can I deal with the shame and self-blame associated with financial struggles?",
+      "name": "How do I explain my money struggles to my partner without feeling ashamed?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Practice self-compassion and challenge negative self-talk. Acknowledge that ADHD affects your ability to manage money and that you're not alone. Focus on progress, not perfection. (See: Knouse & Mitchell, 2016)"
+        "text": "AI-generated script: *\"[Partner], my ADHD brain makes it hard to manage money in the same way neurotypical people do. Can we try using visual reminders and automating bills together to make it easier for both of us?\"*"
       }
     },
     {
       "@type": "Question",
-      "name": "How do I explain my ADHD-related financial challenges to my partner?",
+      "name": "How can I ask for help without feeling like a burden?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Use clear and direct communication. Explain the neurobiological basis of your struggles and emphasize that it's not a reflection of your character or intelligence. Be honest about your challenges and collaborate on finding solutions."
+        "text": "AI-generated script: *\"Hey [Friend/Family], I'm struggling with [specific financial task] because of my ADHD. Would you be willing to help me with [specific action], even just for 30 minutes? It would make a huge difference.\"*"
       }
     },
     {
       "@type": "Question",
-      "name": "How can I manage my finances when my partner doesn't understand ADHD?",
+      "name": "How do I explain the \"ADHD Tax\" to someone who doesn't understand?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Educate your partner about ADHD and its impact on financial management. Seek professional support, such as couples therapy or financial counseling, to facilitate communication and develop shared financial goals."
+        "text": "AI-generated script: *\"Think of it like this: ADHD makes it harder to remember deadlines and avoid impulsive decisions. That leads to late fees, forgotten subscriptions, and unnecessary purchases – basically, a hidden tax on having ADHD.\"*"
       }
     },
     {
       "@type": "Question",
-      "name": "Should I disclose my ADHD to my employer if it's affecting my work performance?",
+      "name": "How does the QuirkyLabs \"ADHD Financial Freedom Checklist\" short-circuit financial overwhelm?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "This is a personal decision. Consider the potential benefits (such as accommodations) and risks (such as stigma). If you choose to disclose, focus on how you're managing your symptoms and how accommodations can help you be more productive."
+        "text": "It uses neuro-scaffolding to bypass prefrontal cortex overload. By providing a simple, visual, step-by-step guide to automating payments, it reduces the cognitive load on your working memory. It is dynamically selected based on user's current energy levels and emotional state."
       }
     },
     {
       "@type": "Question",
-      "name": "I tried a budgeting method, and it didn't work. What do I do now?",
+      "name": "How can QuirkyLabs help me break the \"shame and solutions spiral\"?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Don't give up! Experiment with different strategies and tools until you find what works best for you. Remember that progress, not perfection, is the goal. Each attempt provides valuable data about what *doesn't* work for your brain."
+        "text": "Our tools focus on addressing the neurobiological roots of \"money dysregulation,\" not just the symptoms. By combining automation, gamification, and personalized strategies, we help you build systems that work *with* your brain, not against it. For example, our Adaptive Relapse Simulator helps you practice coping with financial setbacks in a safe, gamified environment."
       }
     },
     {
       "@type": "Question",
-      "name": "I'm overwhelmed by the thought of getting my finances in order. Where do I start?",
+      "name": "How does QuirkyLabs use AI to personalize my financial management?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Start small. Focus on one manageable task at a time, such as automating one bill or tracking your spending for a week. Celebrate your small wins to build momentum."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How can I stay motivated to manage my finances long-term?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Set realistic goals, reward yourself for achieving them, and find an accountability partner or support group. Focus on the positive impact that financial stability can have on your life."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What if I just \"can't\" do this?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You *can* do this, but you might need to redefine what \"doing this\" looks like. Focus on \"good enough\" financial peace, not perfection. Prioritize strategies that work with your brain, not against it."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "The idea of thinking about money makes me anxious. How can I manage that?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Schedule \"priority-free zones\" into your day where you are explicitly forbidden from thinking about your to-do list, or your finances. Practice mindfulness and stress-reduction techniques. Consider seeking therapy to address underlying anxiety and emotional dysregulation. (See: Richardson et al., 2013)"
+        "text": "Our AI analyzes your spending patterns, identifies your specific triggers, and creates personalized strategies to help you manage your money more effectively. For instance, the Adaptive App Firewall learns your distraction patterns and prevents impulsive digital escapes."
       }
     }
   ]

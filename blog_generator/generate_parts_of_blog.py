@@ -279,8 +279,7 @@ def write_faq_to_file(pillar_slug, spoke_slug, faq_markdown):
 
 def faq_file_exists(pillar_slug, spoke_slug):
     out_path = os.path.join(OUTPUT_ROOT, pillar_slug, spoke_slug, "faq.md")
-    return False
-    # return os.path.exists(out_path)
+    return os.path.exists(out_path)
 
 
 def faq_ldjson_file_exists(pillar_slug, spoke_slug):
@@ -295,9 +294,6 @@ def generate_faq_ldjson(pillar_slug, spoke_slug, config):
     ldjson_path = os.path.join(out_dir, "faq-ldjson.md")
     if not os.path.exists(faq_path):
         print(f"  ⚠️  Skipping FAQ-LDJSON (faq.md missing) for Pillar: {pillar_slug} | Spoke: {spoke_slug}")
-        return False
-    if os.path.exists(ldjson_path):
-        print(f"  Skipping existing FAQ-LDJSON for Pillar: {pillar_slug} | Spoke: {spoke_slug}")
         return False
     with open(faq_path, "r", encoding="utf-8") as f:
         faq_content = f.read()

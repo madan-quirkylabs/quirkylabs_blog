@@ -5,194 +5,106 @@
   "mainEntity": [
     {
       "@type": "Question",
+      "name": "Why does choosing what to eat feel like hell?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For the ADHD brain, \"choosing food\" is not one task; it's a dozen executive function tasks in a row (planning, sequencing, recall, etc.). This sequence overloads your prefrontal cortex, causing a system crash we call 'decision paralysis' (Antshel et al., 2013). This is common with ADHD because of executive function deficits."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is this different from just being indecisive?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It's not just about indecision. ADHD brains struggle with effort-based decision-making due to dopamine dysregulation (Volkow et al., 2011). This makes the cognitive effort of choosing feel immense and unrewarding. This is a neurobiological difference, not a character flaw."
+      }
+    },
+    {
+      "@type": "Question",
       "name": "Why does my ADHD brain turn choosing food into a crisis?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Because for the ADHD brain, \"choosing food\" is not one task; it's a dozen executive function tasks in a row (planning, sequencing, recall, etc.). This sequence overloads your prefrontal cortex, causing a system crash we call \"decision paralysis.\" *Our Neuro-AI helps you bypass this crash by creating simple, pre-decision systems.*"
+        "text": "Because for the ADHD brain, 'choosing food' is not one task; it's a dozen executive function tasks in a row (planning, sequencing, recall, etc.). This sequence overloads your prefrontal cortex, causing a system crash we call 'decision paralysis.' (DuPaul et al., 2013). Our Neuro-AI helps you bypass this crash by creating simple, pre-decision systems."
       }
     },
     {
       "@type": "Question",
-      "name": "How is \"ADHD mealtime paralysis\" different from just being indecisive about food?",
+      "name": "Am I a failed adult because I can't decide what to eat?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "It's not just about being picky. It's about your executive function system getting overwhelmed. The ADHD brain struggles with the many steps involved in choosing a meal, from assessing hunger to evaluating options. This can lead to a \"freeze\" response, even when you're starving."
+        "text": "This is a <b>neurobiological barrier</b>, not a moral failing. Executive function deficits, combined with the \"paradox of choice,\" create an impossible cognitive load. It's not laziness—it’s executive dysfunction (Barkley, 2012)."
       }
     },
     {
       "@type": "Question",
-      "name": "Does the shame I feel about this issue have a real impact on my brain?",
+      "name": "Am I just being picky and indecisive?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Absolutely. Repeatedly failing at something as fundamental as choosing food can create a \"Shame-Anchor-Loop,\" linking self-nourishment to a core belief of being an incapable adult. This isn't about the food; it's about reinforcing a painful identity of being \"broken.\""
+        "text": "Myth: 'You're just being picky and indecisive. It's not that hard to choose.' Neuro-Truth: For the ADHD brain, 'choosing' involves a rapid, multi-step executive function sequence. When faced with too many options, this system overloads and crashes, like a computer with too little RAM trying to run a massive program. It's a system failure, not a character flaw. (Goodman, 2020)."
       }
     },
     {
       "@type": "Question",
-      "name": "How does technology make this worse?",
+      "name": "Does everyone with ADHD struggle with this?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Food delivery apps with their endless scroll of options supercharge the \"paradox of choice.\" This creates an impossible cognitive load for an ADHD brain, amplifying decision paralysis to an extreme degree."
+        "text": "Many individuals with ADHD experience this. The \"Wall of Awful\" can make even simple tasks feel emotionally impossible (Dolin, 2018). This is common with ADHD because of emotional dysregulation and fear of failure."
       }
     },
     {
       "@type": "Question",
-      "name": "Why can't I just make a decision and move on?",
+      "name": "What’s the first step when mealtime decision paralysis hits?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "When faced with overwhelming food choices, your brain often fails to generate a strong dopamine \"reward\" signal for any single option. This \"dopamine void\" makes the effort of choosing and preparing food feel immense and unrewarding."
+        "text": "Use the <b>'Good Enough' protocol</b>:\n1. Say this out loud: <i>\"My goal is to be fed, not to be perfect.\"</i>\n2. This primes your brain to accept a satisfactory choice and short-circuit perfectionism.\n3. Use the pre-packed Emergency Snack Box."
       }
     },
     {
       "@type": "Question",
-      "name": "What's the first step when I feel paralyzed in front of the fridge?",
+      "name": "How do I choose when I’m in ‘Spoonie Mode’?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Initiate the \"Good Enough\" protocol. Say this out loud: \"My goal is to be fed, not to be perfect.\" This primes your brain to accept a satisfactory choice and short-circuit perfectionism-induced paralysis."
+        "text": "Use the <b>'Emergency Snack Stash'</b>: A pre-packed box with 3-4 shelf-stable, nutritionally acceptable snacks. When meal paralysis hits, the only choice is which single item to grab from the box. Decision removed. This is a great hack for Spoonie Mode because it minimizes cognitive effort."
       }
     },
     {
       "@type": "Question",
-      "name": "What if I can't even think of what kind of food I want?",
+      "name": "What’s the ‘Good Enough’ fix for mealtime paralysis?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Try the \"Single-Ingredient\" Protocol. Instead of deciding on a full meal, decide on only one ingredient you feel like eating (e.g., \"chicken\"). Then, look up a simple recipe using only that one ingredient. This breaks the decision down into a less overwhelming sequence."
+        "text": "Use the <b>'Top 5 Go-To List'</b>: A physical list of 5-7 dead-simple, always-on-hand meals posted on the fridge (e.g., 'Scrambled Eggs,' 'Tuna Sandwich,' 'Pasta & Jar Sauce'). When paralyzed, you are only allowed to choose from the list. No other options exist."
       }
     },
     {
       "@type": "Question",
-      "name": "I've tried meal planning, but it just makes things worse. What am I doing wrong?",
+      "name": "How do I explain this to my partner?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "You might be front-loading an entire week's worth of decisions into one overwhelming session, triggering paralysis on the planning task itself. Relapse occurs from trying to solve a decision fatigue problem with an even more complex decision-making system."
+        "text": "AI-generated script: <i>\"Honey, when I'm staring at the fridge, my brain isn't being picky, it's literally crashing from too much data. The most helpful thing you can do is just offer me two simple choices. It saves me from a total shutdown.\"</i> This can help them understand the neurobiological basis of your struggle."
       }
     },
     {
       "@type": "Question",
-      "name": "What's the \"Emergency Snack Stash\" and how does it help?",
+      "name": "How do I explain my food choices to my boss when ordering lunch for a team meeting?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "It's a pre-packed box with 3-4 shelf-stable, nutritionally acceptable snacks. When meal paralysis hits, the only choice is which single item to grab from the box. Decision removed."
+        "text": "AI-generated script, <i>optimized for professional tone, if discussing lunch for a team meeting</i>: 'To keep things moving efficiently, I find it's always best to narrow our lunch options down to two choices beforehand. It saves everyone from decision fatigue so we can focus on the meeting's goals.'\" This will help them understand the need for simplicity."
       }
     },
     {
       "@type": "Question",
-      "name": "I need real food, not just snacks. What's the \"Top 5 Go-To List\"?",
+      "name": "How does QuirkyLabs help me short-circuit mealtime paralysis?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "It's a physical list of 5-7 dead-simple, always-on-hand meals posted on the fridge (e.g., \"Scrambled Eggs,\" \"Tuna Sandwich,\" \"Pasta & Jar Sauce\"). When paralyzed, you are only allowed to choose from the list. No other options exist."
+        "text": "QuirkyLabs uses <b>game-based micro-actions</b> to bypass prefrontal cortex blockage. The 'Recipe Roulette' gamifies the choice, removing the burden of decision. This reduces the cognitive load and increases dopamine."
       }
     },
     {
       "@type": "Question",
-      "name": "How can \"Themed Nights\" simplify my meal choices?",
+      "name": "How can QuirkyLabs help me with digital food ordering?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Assign a broad, simple theme to each night of the week (e.g., Monday=Pasta Night, Tuesday=Taco Night, Wednesday=Breakfast for Dinner). This drastically narrows the universe of choices to a minor variation on the daily theme."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How do I explain this to my partner so they understand?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Use this AI-generated script (tailored to your relationship dynamics): \"Honey, when I'm staring at the fridge, my brain isn't being picky, it's literally crashing from too much data. The most helpful thing you can do is just offer me two simple choices. It saves me from a total shutdown.\""
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What if I'm ordering lunch for a team meeting at work?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Use this AI-generated script (optimized for professional tone): \"To keep things moving efficiently, I find it's always best to narrow our lunch options down to two choices beforehand. It saves everyone from decision fatigue so we can focus on the meeting's goals.\""
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How can my partner help me in the moment?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Co-create an \"adaptive choice limiter\" agreement, where if you're paralyzed, your partner's only job is to offer you exactly two, simple options (e.g., \"Sandwich or eggs?\"), and you agree to pick one in 10 seconds."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "I opened a food delivery app and got overwhelmed. What now?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Activate your \"Top 5 Go-To List\" for an easy escape. As a proactive measure, our AI-triggered micro-interruption will remind you if the app has been open for more than 10 minutes without an order."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What if I start comparing endless restaurant tabs online?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Our \"Analysis Paralysis Blocker\" will gently fade the screens and pop up a message: \"You're stuck in the choice vortex! Time to pick one or default to a Go-To meal.\""
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How can I prevent myself from getting sucked into food-related FOMO on social media?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Activate the \"Social Food FOMO Shield.\" This AI companion can mute or hide posts that use phrases like \"foodie goals\" or show overly complex, \"perfect\" home-cooked meals, preventing the comparison that can fuel decision anxiety."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What if I'm at the grocery store without a list?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "That's a known trigger for choice overload and subsequent paralysis. Use the \"Fridge Zoning Blueprint\" to organize your fridge into zones, and carry a pre-written list with you at all times."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What if I'm asked \"What do you want for dinner?\" in a group setting?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "This can trigger a \"Shame-Anchor-Loop.\" Activate the \"Choice-Quake 2.0\" tool, which uses a 30-second gamified \"either/or\" quiz on your phone to rapidly re-engage the decision-making circuits on low-stakes items and break the freeze."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is \"Recipe Roulette\" and how does it work?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When you're paralyzed, you can hit a \"roulette\" button in the OS. It will spin and land on one of your pre-approved \"Top 5 Go-To\" meals, gamifying the choice and removing the burden of decision."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How can I make cooking more fun?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Use the \"Themed Dinner Soundtrack.\" The OS generates a specific, fun music playlist for each \"Themed Night\" (e.g., an upbeat Latin playlist for Taco Tuesday), creating a positive, dopamine-boosting auditory cue that makes the meal feel more like an event and less like a chore."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is the \"Digital Menu Simplifier\" and how does it help with food delivery apps?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "It's a browser extension that, when activated on a delivery site, uses AI to hide all but 5 randomly selected, highly-rated restaurants, or allows you to filter by \"prep time under 20 minutes,\" drastically reducing the number of choices."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What's the \"Choice-Quake 2.0\" tool and how does it work?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When a \"decision-paralysis shame spiral\" hits, activate the \"Choice-Quake 2.0\" tool, which uses a 30-second gamified \"either/or\" quiz on the phone to rapidly re-engage the decision-making circuits on low-stakes items and break the freeze."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What are some visual cues I can use to help me make decisions?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Use our adaptive visual cue library, such as a colorful, gamified \"Themed Nights\" weekly schedule or a visually appealing \"Top 5 Go-To Meals\" graphic that you can print and put on your fridge."
+        "text": "Our 'Digital Menu Simplifier' browser extension uses AI to hide all but 5 randomly selected, highly-rated restaurants, or allows the user to filter by 'prep time under 20 minutes,' drastically reducing the number of choices. This simplifies the digital environment, reducing sensory overload (Panagiotidi et al., 2018)."
       }
     }
   ]

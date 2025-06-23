@@ -5,138 +5,82 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Why do I get bored and quit every job, even when they seem perfect at first?",
+      "name": "Why does job dissatisfaction feel like a constant itch I can’t scratch?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "This isn't about a lack of commitment; it's often due to dopamine dysregulation in the ADHD brain. New jobs trigger a dopamine surge, leading to hyperfocus. However, once the novelty wears off and routine tasks emerge, dopamine levels drop, making it harder to stay engaged. Your brain craves stimulation, leading to job dissatisfaction and the urge to seek a new, exciting role. Think of it as your brain searching for its ideal \"dopamine playground.\""
+        "text": "Your ADHD brain craves novelty and stimulation due to dopamine dysregulation (Reardon, 2020). When routine sets in, your brain seeks that dopamine hit elsewhere, making job-hopping feel inevitable."
       }
     },
     {
       "@type": "Question",
-      "name": "Is my \"job hopping\" a sign that I'm lazy or can't handle responsibility?",
+      "name": "How is this different from just being indecisive or a \"grass is always greener\" mentality?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Absolutely not! This is a common misconception. Your brain's wiring is different, leading to a greater need for novelty and stimulation. You're not lazy; your brain is simply wired to seek out new and engaging experiences to maintain optimal dopamine levels. Societal expectations of linear career paths often clash with this neurobiological need."
+        "text": "It's not just indecisiveness. Shaw et al. (2014) found that ADHD is characterized by delayed cortical maturation, particularly in prefrontal regions. This makes it difficult to sustain attention on tasks that don't provide sufficient stimulation. It's a neurobiological difference, not a lack of willpower."
       }
     },
     {
       "@type": "Question",
-      "name": "I've been told to \"just find my passion,\" but even passion jobs get boring. Why?",
+      "name": "Am I a failure because I can't seem to stick with a job?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Finding a passion is helpful, but it's not the complete solution. ADHD brains need both passion *and* novelty. Even a dream job can become monotonous if it lacks variety or new challenges. The key is to design your work or find a role that continuously provides stimulation and caters to your interest-based attention system. Your brain needs ongoing engagement, not just initial excitement."
+        "text": "Absolutely not. This isn't laziness—it's your brain's unique wiring. Dodd et al. (2019) show that individuals with ADHD exhibit higher entrepreneurial intentions and activity. Your need for novelty can be a strength, not a weakness. The QuirkyLabs 'Interest-Based Career Alignment Protocol' can help you channel this."
       }
     },
     {
       "@type": "Question",
-      "name": "How does ADHD affect my ability to stay focused on routine tasks at work?",
+      "name": "Does everyone with ADHD struggle with job hopping?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "ADHD brains often struggle with executive functions like planning, task initiation, and sustained attention. This means that even simple, routine tasks can feel incredibly difficult and overwhelming. The prefrontal cortex, responsible for these functions, may struggle to maintain focus on tasks that lack novelty or intrinsic reward, leading to mental fatigue and a desire to switch to something more stimulating."
+        "text": "No, but it's common. Hirvonen et al. (2019) found that higher ADHD symptom levels are associated with increased job insecurity and burnout. This highlights the importance of finding work that aligns with your brain's needs."
       }
     },
     {
       "@type": "Question",
-      "name": "What are some strategies to stay engaged in a \"boring\" job with ADHD?",
+      "name": "What’s the first step when the urge to quit hits?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The key is to \"gamify\" your work and find ways to add novelty and stimulation. This could involve breaking down large tasks into smaller, more manageable steps with micro-rewards, pairing unengaging tasks with enjoyable activities (like listening to a podcast), or finding new ways to approach routine tasks. Look for opportunities to take on new challenges or projects within your current role."
+        "text": "Before you impulsively update your resume, try the '1% Rule': spend just one minute researching a new aspect of your current job. This can provide a micro-dose of novelty and redirect your focus."
       }
     },
     {
       "@type": "Question",
-      "name": "How can I leverage my ADHD strengths to find a more fulfilling career path?",
+      "name": "How do I find engagement when I’m in ‘Spoonie Mode’ and everything feels overwhelming?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Embrace your creativity, problem-solving skills, and ability to think outside the box. Consider roles that value these traits, such as entrepreneurship, creative fields, or project-based work. Don't be afraid to explore different career paths until you find one that truly aligns with your interests and needs."
+        "text": "Use the QuirkyLabs 'Good Enough' approach:\n1. Identify one tiny, achievable task.\n2. Pair it with a dopamine-paired reward (e.g., listen to your favorite song while you work).\n3. Use a sensory cue (e.g., a specific scent or fidget toy) to help you stay focused."
       }
     },
     {
       "@type": "Question",
-      "name": "What are some tools or techniques to manage digital distractions at work?",
+      "name": "How do I explain my job history to a potential employer without sounding flaky?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Implement a \"digital firewall\" to minimize distractions. This could involve using app blockers, turning off notifications, creating dedicated \"focus zones\" on your devices, and scheduling specific times for checking email and social media. Prioritize tasks based on urgency and importance, and break down large tasks into smaller, more manageable steps."
+        "text": "AI-generated script: *\"I'm someone who thrives on new challenges and learning opportunities. While my resume may show a variety of roles, each one has given me valuable skills and experiences that I'm excited to bring to this position. I'm now looking for a place where I can apply my diverse skillset and contribute to a company long-term.\"*"
       }
     },
     {
       "@type": "Question",
-      "name": "How can I find novelty and stimulation within my current job?",
+      "name": "How do I explain my ADHD-related struggles to my partner so they understand why I might be looking for a new job again?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Look for opportunities to take on new projects, learn new skills, or collaborate with colleagues on different teams. Volunteer for tasks that challenge you and allow you to use your creativity. Even small changes, like rearranging your workspace or listening to different music while you work, can help to combat boredom and maintain engagement."
+        "text": "AI-generated script: *\"[Partner], my ADHD brain has a deep need for novelty and stimulation, and sometimes my current job feels really draining because of it. It's not about being ungrateful or disloyal; it's how my brain is wired. Can we brainstorm ways to add more 'dopamine hits' to my work, or explore career paths that better align with my need for variety?\"*"
       }
     },
     {
       "@type": "Question",
-      "name": "How do I explain my job-hopping tendencies to potential employers without raising red flags?",
+      "name": "How does the QuirkyLabs 'Digital Dopamine Trap Assessment' help short-circuit the job-hopping cycle?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Frame your past job changes as a search for the right fit and an opportunity to gain diverse skills and experiences. Highlight your accomplishments and emphasize your desire to find a long-term role where you can contribute your unique talents and strengths. Be honest about your need for a stimulating and challenging work environment."
+        "text": "It identifies your specific digital distraction patterns and provides a personalized 'Digital Firewall Guide' with neuro-friendly quick-wins to tame tech and unlock hyperfocus. This helps you stay engaged in your current role by minimizing digital overwhelm."
       }
     },
     {
       "@type": "Question",
-      "name": "How can I communicate my ADHD needs to my boss or colleagues without feeling ashamed?",
+      "name": "How can QuirkyLabs help me find a career that's actually a good fit for my ADHD brain?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Be open and honest about your ADHD, but focus on how it impacts your work and what strategies you use to manage it. Explain your need for a structured work environment, clear expectations, and opportunities for variety and challenge. Frame your ADHD as a difference, not a deficit, and emphasize your strengths and abilities."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What can I do if my partner doesn't understand my struggles with job dissatisfaction?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Educate your partner about ADHD and how it affects your career choices. Explain your need for novelty and stimulation, and emphasize that your job-hopping tendencies are not a reflection of your commitment or loyalty. Work together to find ways to support your career goals and create a more fulfilling work-life balance."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "I feel ashamed and guilty about my job-hopping history. How can I overcome these feelings?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Practice self-compassion and challenge negative self-talk. Remind yourself that your ADHD brain is wired differently and that your job-hopping tendencies are not a sign of personal failure. Focus on your strengths and accomplishments, and celebrate your unique talents and abilities."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How can I prevent \"relapses\" into job dissatisfaction and the urge to quit?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Identify your triggers and develop coping strategies to manage them. This could involve creating a more stimulating work environment, finding new ways to engage with routine tasks, or seeking support from a therapist or coach. Practice self-care and prioritize your mental and emotional well-being."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What if I'm stuck in a job I hate and can't afford to quit?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Focus on finding small ways to improve your situation. This could involve setting boundaries with your boss, taking on new responsibilities, or finding opportunities to use your creativity and problem-solving skills. Look for ways to connect with colleagues and build a supportive work environment. Consider exploring new career paths or skills in your free time."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "I'm afraid of being judged or discriminated against because of my ADHD. How can I deal with this fear?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Educate yourself about your rights and advocate for yourself in the workplace. Seek support from a therapist or coach to build your self-confidence and develop coping strategies for dealing with discrimination. Remember that you are not alone, and there are many resources available to help you succeed."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "I've tried everything, but I still can't seem to find a fulfilling career path. What should I do?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Don't give up! It's important to remember that finding the right career path can be a long and challenging process, especially for individuals with ADHD. Seek support from a career counselor or coach who specializes in working with neurodivergent individuals. Be patient with yourself and celebrate your progress along the way."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How can I foster a more positive and supportive mindset towards my ADHD and career?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Reframe your ADHD as a difference, not a deficit. Focus on your strengths and celebrate your unique talents and abilities. Surround yourself with supportive people who understand and appreciate you. Practice self-care and prioritize your mental and emotional well-being. Remember that you are not alone, and there are many resources available to help you succeed."
+        "text": "Our 'Interest-Based Career Alignment Protocol' helps you identify roles that align with your unique strengths and need for novelty. We use AI-driven predictive modeling to help you find a \"dopamine playground\" where you can thrive."
       }
     }
   ]

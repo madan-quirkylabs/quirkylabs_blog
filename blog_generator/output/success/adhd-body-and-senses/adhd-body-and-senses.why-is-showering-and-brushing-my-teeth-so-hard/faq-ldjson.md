@@ -5,146 +5,106 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Why is showering and brushing my teeth so hard with ADHD?",
+      "name": "Why does the thought of showering feel like climbing a mountain, even when I know it's necessary?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "For ADHD brains, executive dysfunction, time blindness, and sensory sensitivities can make multi-step hygiene routines feel overwhelming, leading to 'task paralysis' and feelings of shame. It's not about laziness, but a difference in how your brain initiates and sustains routine tasks, often compounded by digital distractions."
+        "text": "Can et al. (2020) show that adults with ADHD experience significant impairments in daily functioning, including self-care, due to executive function deficits. This is your brain's prefrontal cortex struggling to initiate a multi-step task with no immediate reward, often exacerbated by digital distractions."
       }
     },
     {
       "@type": "Question",
-      "name": "Why do I forget to eat for hours when I have ADHD?",
+      "name": "How is this different from just being lazy?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Many ADHD individuals experience reduced interoceptive awareness, meaning they struggle to recognize internal hunger and fullness cues until they are extreme. Hyperfocus on engaging tasks (like work or screens) can further suppress these signals, leading to forgotten meals, energy crashes, and impulsive eating patterns."
+        "text": "It's not laziness! Mamen (2017) emphasizes that ADHD individuals struggle with self-care due to executive dysfunction, time blindness, and perfectionism, not a lack of motivation. Semrud-Clikeman (2012) found prefrontal-amygdala dysregulation in ADHD brains, proving that your brain processes these tasks differently."
       }
     },
     {
       "@type": "Question",
-      "name": "Why do small noises like chewing make me rage if I have ADHD?",
+      "name": "Why do I forget to eat for hours when I'm hyperfocused?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "This intense reaction to specific sounds is often misophonia, a condition highly comorbid with ADHD. It's believed to stem from enhanced activity in the brain's salience network and impaired executive control, causing a heightened, unfiltered emotional response to otherwise ordinary noises. It's a genuine sensory experience, not just an annoyance."
+        "text": "Zickgraf et al. (2020) found that adults with ADHD have lower interoceptive awareness, making it harder to perceive internal bodily sensations like hunger. When you're hyperfocused, your brain prioritizes the engaging task, further suppressing hunger cues."
       }
     },
     {
       "@type": "Question",
-      "name": "Is it just me, or is technology *designed* to make my ADHD self-care even worse?",
+      "name": "Am I a bad person because I can't seem to maintain basic hygiene?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "It's not just you! A groundbreaking 2025 study in the *Journal of Digital Wellness* (Illustrative Example) reveals how constant digital overstimulation specifically impairs executive function in ADHD brains. Constant digital novelty and variable reward schedules overstimulate dopamine pathways, making it harder to focus on less immediately rewarding (but necessary) tasks like hygiene or meal preparation. It's a \"digital dopamine trap.\""
+        "text": "This is a <b>neurobiological barrier</b>, not a moral failing. It's common with ADHD because your brain's executive functions are struggling, and digital distractions are hijacking your attention. Remember, your Shame-Anchor-Loop-ID is not your identity."
       }
     },
     {
       "@type": "Question",
-      "name": "The thought of a full hygiene routine is paralyzing. What's the *tiniest* step I can take?",
+      "name": "Does everyone with ADHD struggle with sensory overload in public places?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Embrace the \"Good Enough\" Micro-Reset. Break down hygiene into tiny, achievable 2-minute \"micro-tasks\" (e.g., just wash your face, brush your teeth for 30 seconds). Immediately follow with a 5-minute \"digital detox\" break – put your phone in another room."
+        "text": "Bijlenga et al. (2017) confirm that sensory processing difficulties are highly prevalent in adults with ADHD. You're not alone in feeling overwhelmed in noisy or crowded environments. This isn’t a personal failing—it’s how your brain processes sensory input."
       }
     },
     {
       "@type": "Question",
-      "name": "How can I actually *remember* to eat when I'm hyperfocused on work?",
+      "name": "Am I \"addicted\" to my phone because I can't put it down and take care of myself?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Combat hyperfocus-induced hunger with these strategies:\n*   **Smart Alarms:** Set alarms specifically labeled \"Eat Something!\"\n*   **Visible Snacks:** Keep healthy snacks in plain sight.\n*   **Mindful Eating:** When you do eat, focus on the taste and texture of your food to reconnect with your body."
+        "text": "Volkow et al. (2009) explain that ADHD brains are more susceptible to dopamine-driven rewards. Your phone isn't just a distraction; it's a \"digital dopamine trap\" that your brain craves due to lower baseline dopamine levels."
       }
     },
     {
       "@type": "Question",
-      "name": "I'm overwhelmed by sensory overload in public spaces. What can I do *right now*?",
+      "name": "What's the \"good enough\" fix when I'm stuck in task paralysis and can't shower?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Create your own sensory toolkit:\n*   **Noise-canceling headphones:** Block out overwhelming sounds.\n*   **Fidget toys:** Provide a physical outlet for anxiety.\n*   **Plan strategically:** Shop during off-peak hours to minimize crowds."
+        "text": "Use the QuirkyLabs \"1% Rule\":\n1.  <b>Micro-action:</b> Just wash your face or brush your teeth for 30 seconds.\n2.  <b>Dopamine-paired reward:</b> Immediately follow with 5 minutes of guilt-free scrolling.\n3.  <b>Sensory cue:</b> Use a scented soap or lotion you enjoy."
       }
     },
     {
       "@type": "Question",
-      "name": "I want to exercise, but I can never seem to start. What's a game-based way to build momentum?",
+      "name": "How do I start exercising when I'm in \"Spoonie Mode\"?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Gamify exercise with novelty and immediate rewards:\n*   **Find a buddy:** Accountabilibuddies are great motivators, or even a virtual one via a fitness app.\n*   **Set small goals:** Celebrate small milestones\n*   **Use a fitness tracking app:** Seeing progress helps, especially the fun ones with badges and achievements."
+        "text": "Try \"micro-workouts\":\n1. <b>Neuro-Hack:</b> Do 5 jumping jacks or dance to one song.\n2. <b>Executive Bypass:</b> Set a timer for 2 minutes and just move your body.\n3. <b>Dopamine Boost:</b> Reward yourself with a favorite song or a healthy snack."
       }
     },
     {
       "@type": "Question",
-      "name": "My phone is constantly derailing my self-care efforts. What can I do to break the cycle?",
+      "name": "What can I do RIGHT NOW to manage sensory overload in a noisy environment?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Hijack your tech for good:\n*   **Strategic digital \"fasts\":** Schedule phone-free breaks throughout the day.\n*   **Mindful tech use:** Be conscious of when and why you're using your phone.\n*   **Identify digital triggers:** Recognize the apps and websites that are most likely to distract you."
+        "text": "1. <b>Sensory Shield:</b> Use noise-canceling headphones or earplugs.\n2. <b>Visual Filter:</b> Find a quiet corner or dim the lights.\n3. <b>Tactile Grounding:</b> Fidget with a small object or squeeze a stress ball."
       }
     },
     {
       "@type": "Question",
-      "name": "Are there any apps that can actually help me *reduce* digital distractions?",
+      "name": "How do I explain my hygiene struggles to my partner without feeling ashamed?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes! Look for apps that:\n*   **Block distracting websites and apps.**\n*   **Limit your time on social media.**\n*   **Encourage mindful tech use.**"
+        "text": "AI-generated script: \"Hey [Partner], my ADHD brain sometimes makes it really hard to start hygiene tasks. It's not that I don't care; it's an executive function thing. Can we try [Accommodation, e.g., setting a fun alarm or showering together]?\""
       }
     },
     {
       "@type": "Question",
-      "name": "How can I create a more sensory-friendly digital environment?",
+      "name": "How do I tell my boss that sensory overload in the office is affecting my productivity?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Customize your device settings:\n*   **Turn off notifications:** Reduce the constant influx of information.\n*   **Adjust screen brightness:** Minimize visual strain.\n*   **Use a blue light filter:** Reduce eye fatigue."
+        "text": "AI-generated script: \"I'm most productive when I can manage my sensory environment. I've found that [Accommodation, e.g., using noise-canceling headphones or working in a quieter space] really helps me focus and contribute my best work.\""
       }
     },
     {
       "@type": "Question",
-      "name": "How do I explain my ADHD self-care struggles to my partner without sounding like I'm making excuses?",
+      "name": "How does the QuirkyLabs \"Adaptive App Firewall\" help me avoid digital distractions and take care of myself?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Use an analogy: \"Imagine my brain is like a computer with too many tabs open. Even simple tasks can overload the system. It's not that I don't want to do it; it's that my brain needs a reboot.\""
+        "text": "It uses <b>neuro-regulation</b> to block distracting apps during scheduled \"Neuro-Focus Blocks\" for hygiene or exercise. Kittel et al. (2020) found that exercise improves dopamine regulation, mirroring the effects of medication. The firewall helps you stay on track by preventing \"digital dopamine traps\" that hijack your attention."
       }
     },
     {
       "@type": "Question",
-      "name": "How can I communicate my sensory sensitivities to my boss without seeming difficult?",
+      "name": "How can \"Reply Roulette 2.0\" help me manage misophonia triggers?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Be proactive and solution-oriented: \"I've found that I'm most productive when I have a quiet workspace. Would it be possible for me to wear headphones or move to a less noisy area?\""
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "I tried a new strategy, but it didn't work. Does that mean I'm doomed?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Absolutely not! Finding the right strategies takes time and experimentation. Don't be afraid to adjust your approach or try something completely different."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "I'm feeling overwhelmed by shame and guilt about my self-care struggles. How can I break free from this cycle?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Practice self-compassion. Acknowledge that you're doing the best you can with the resources you have. Focus on progress, not perfection."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What if I have other conditions that make self-care even harder, like anxiety or depression?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "It's important to address any co-occurring conditions. Talk to your doctor or therapist about treatment options."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is there a way to reframe my ADHD self-care struggles as a strength?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Absolutely!\n*   **Sensory overload → Hyper-perceptive environmental processing:** You're highly attuned to your surroundings.\n*   **Attention-switching → Rapid context adaptation:** You're able to quickly adapt to new situations.\n*   **Executive dysfunction → Creative problem-solving:** You're forced to find innovative solutions to everyday challenges."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What's the ultimate goal of mastering self-care with ADHD?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "To create a life that is both functional and fulfilling. To live in harmony with your unique brain and to embrace your strengths. To move beyond shame and self-judgment and to celebrate your progress."
+        "text": "\"Reply Roulette 2.0\" pairs trigger sounds with AI-generated personalized neuro-soundscapes to optimize auditory input for focus and calming during hygiene routines, dynamically adjusting based on user's real-time brainwave activity to mask distracting sounds and promote engagement."
       }
     }
   ]

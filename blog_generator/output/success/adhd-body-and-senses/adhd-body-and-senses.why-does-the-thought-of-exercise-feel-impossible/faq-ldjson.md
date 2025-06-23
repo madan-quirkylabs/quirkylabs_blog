@@ -5,114 +5,66 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Why does the mere thought of exercise feel like an insurmountable mountain, even when I know it helps my brain?",
+      "name": "Why does the thought of exercise feel like climbing a mountain, even though I know it helps my brain?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "It's likely your \"Motivation Meter\" is running on empty! For ADHD brains, exercise can be a triple threat: low dopamine, executive function challenges, and sensory sensitivities. Your brain may perceive exercise as effortful and lacking immediate reward, leading to that \"couch-lock\" feeling. It's not laziness; it's neurobiology."
+        "text": "This is common with ADHD because your brain's dopamine reward system often struggles to anticipate the long-term benefits of exercise, leading to a perceived lack of immediate reward and subsequent \"task paralysis.\" Volkow et al. (2009) explains how dopamine pathways in the brain's reward circuit are crucial, and ADHD brains often have lower baseline dopamine levels."
       }
     },
     {
       "@type": "Question",
-      "name": "Why is it so hard for me to start exercising, even when I *really* want to?",
+      "name": "How is this different from just being unmotivated?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "ADHD brains often struggle with initiating tasks, especially those that don't offer instant gratification. Your dopamine reward system might not be firing up at the *thought* of exercise, and your executive functions (planning, organization) might be overwhelmed by the steps involved."
+        "text": "It’s not just a lack of motivation; it's a neurobiological barrier. Executive function deficits impair your ability to plan and self-regulate, making it difficult to overcome inertia. Pluess et al. (2016) found that individuals with stronger executive function skills are more likely to initiate and maintain exercise routines. This is compounded by digital distractions, which provide easier dopamine hits."
       }
     },
     {
       "@type": "Question",
-      "name": "Does my \"phone addiction\" make my exercise avoidance even worse?",
+      "name": "Am I lazy because I can’t seem to get myself to exercise consistently?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Absolutely. Technology is designed to be highly rewarding and stimulating. The constant notifications and endless scroll of social media provide easy dopamine hits, making it even harder to choose exercise, which requires effort and delayed gratification. These \"digital dopamine traps\" can hijack your brain's reward system."
+        "text": "This isn’t laziness—it’s neurobiology. Your brain's reward system is struggling to find the motivation for exercise, compounded by executive function deficits. Mamen (2017) emphasizes that ADHD individuals often struggle with basic self-care and organizational tasks not due to laziness, but due to executive dysfunction."
       }
     },
     {
       "@type": "Question",
-      "name": "Could sensory sensitivities be playing a role in my exercise avoidance?",
+      "name": "Does everyone with ADHD struggle with exercise?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes! Many ADHD individuals experience sensory sensitivities. The loud gym, uncomfortable workout clothes, or even the feeling of sweat can be overwhelming and create a strong aversion to exercise."
+        "text": "It's a common struggle. Kittel et al. (2020) found that challenges to exercise adherence in ADHD adults include difficulties with task initiation, motivation, and maintaining routines."
       }
     },
     {
       "@type": "Question",
-      "name": "What's the absolute *smallest* step I can take to break out of \"couch-lock\" and initiate movement?",
+      "name": "What’s the first step when \"task paralysis\" hits and I can't start exercising?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Initiate a 3-second \"Dopamine Priming Protocol\" by recalling a past small win or engaging in a brief, enjoyable micro-task (e.g., stretching for 10 seconds). Then, try a \"2-Minute Movement Burst,\" like dancing to one favorite song. The key is *low effort* and *immediate dopamine*."
+        "text": "Use the QuirkyLabs \"2-Minute Movement Burst\":\n1. Choose a super short activity (e.g., dance to one song).\n2. Set a timer for 2 minutes.\n3. Reward yourself afterward with a small, non-exercise related treat."
       }
     },
     {
       "@type": "Question",
-      "name": "How can I make exercise more rewarding for my ADHD brain?",
+      "name": "How do I exercise when I’m in ‘Spoonie Mode’?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Try \"dopamine pairing.\" Allow yourself to enjoy a \"guilty pleasure\" *only* during the first few minutes of your workout. This could be playing a specific game, listening to a thrilling podcast, or watching a short video."
+        "text": "Use the \"1% Rule\": Just commit to one tiny action, like putting on your workout clothes or stretching for 10 seconds. This can help break the inertia."
       }
     },
     {
       "@type": "Question",
-      "name": "What if I can't even get myself to go to the gym?",
+      "name": "How do I explain my exercise avoidance to my partner who doesn't understand ADHD?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Create a \"Neuro-Calibrated Workout Environment\" at home. Use smart home technology to control lighting, soundscapes, and temperature to optimize your exercise space for focus and reduced sensory overwhelm. You can also explore workout textures by identifying your \"most comfortable workout clothing textures\""
+        "text": "AI-generated script: *\"[Partner], my ADHD brain struggles with initiating exercise because of dopamine differences. It’s not laziness. Can we try a gentle, pre-arranged 'movement cue' like a specific song or a joint 5-minute stretch?\"*"
       }
     },
     {
       "@type": "Question",
-      "name": "How can I use technology to *help* me exercise instead of sabotaging me?",
+      "name": "How does the QuirkyLabs 'Digital Dopamine Reset™' help me overcome exercise dread?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Use an \"Adaptive App Firewall for Exercise\" to block distracting apps during your workout. You can also use a \"Dopamine Detox AI Companion\" browser extension to identify and avoid \"doomscrolling\" or \"comparison trap\" content related to fitness."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How can I explain my exercise struggles to my partner so they understand it's not laziness?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Use an AI-generated script tailored to your relationship dynamics. For example: \"Honey, my ADHD brain sometimes struggles with the 'start' button for exercise due to dopamine differences. It’s not about being lazy; it’s a specific neural circuit. A gentle, pre-arranged 'movement cue' (e.g., a specific song or a joint 5-minute stretch) helps me kickstart.\""
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "I feel ashamed that I can't seem to stick to an exercise routine. How do I deal with the guilt?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Acknowledge that your brain is wired differently. Difficulty initiating exercise in ADHD is often due to dopamine dysregulation and executive function deficits. It's not laziness; it's a genuine neural roadblock. Focus on small wins and celebrate progress, not perfection."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What if I try to exercise and then get completely derailed by digital distractions?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Recognize that this is a common experience. Use the \"Digital Dopamine Reset™\" to short-circuit the \"Digital dopamine traps ADHD\" reaction *before* it spirals. This involves identifying your digital triggers and implementing strategies to block them during your workout."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "I tried to exercise, but I failed and feel even worse. How do I recover from that?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Activate the \"Movement Momentum Restorer 2.0\" tool. This uses multi-modal sensory cues and AI-driven narrative re-framing to re-contextualize the perceived failure and interrupt the shame spiral. Remember, it's about progress, not perfection."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How do I find exercise activities that are actually enjoyable and sustainable for my ADHD brain?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Explore the \"Gamified Fitness Micro-Quest.\" This involves AI-curated 10-minute activities with immediate, personalized in-app rewards. The key is to find activities that provide novelty, immediate reward, and can be easily initiated."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can I really \"rewire\" my brain to make exercise easier?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes! With consistent effort and the right strategies, you can create new neural pathways and make exercise more habitual. The \"Striatal dopamine pathway activation\" protocol uses personalized sensory cues and immediate micro-rewards to reinforce positive associations with movement."
+        "text": "It uses AI-driven predictive modeling and real-time neuro-feedback to short-circuit the 'Digital dopamine traps ADHD' reaction before it spirals. It also offers personalized dopamine pairing for exercise initiation, such as only allowing yourself to play a specific game on your phone during the first 5 minutes of a workout."
       }
     }
   ]

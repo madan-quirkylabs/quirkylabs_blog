@@ -23,6 +23,6 @@
     "@type": "WebPage",
     "@id": "https://quirkylabs.com/adhd-emotional-storms-rsd"
   },
-  "keywords": "why do ADHDers overreact to criticism, how to handle RSD with ADHD, ADHD rejection sensitivity dysphoria, ADHD emotional pain, RSD coping strategies, ADHD relationship problems"
+   "keywords": "why do ADHDers overreact to criticism, how to handle RSD with ADHD, ADHD rejection sensitivity dysphoria, ADHD emotional pain, RSD coping strategies, ADHD relationship problems"
 }
 ```

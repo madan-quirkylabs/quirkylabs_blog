@@ -7,7 +7,7 @@
   "image": "https://quirkylabs.com/og/adhd-productivity-systems-debug.png",
   "author": {
     "@type": "Organization",
-    "name": "Madan | QuirkyLabs"
+    "name": "QuirkyLabs Research Team"
   },
   "publisher": {
     "@type": "Organization",

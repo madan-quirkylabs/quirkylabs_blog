@@ -5,10 +5,10 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Why does my ADHD brain get stuck on screens?",
+      "name": "Why does my ADHD brain feel like it has a 'delete' button for my intentions?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Your ADHD brain is uniquely vulnerable to the persuasive, dopamine-driven design of modern technology. The endless scroll, variable reward schedules of notifications, and constant novelty act as supernormal stimuli, hijacking dopamine pathways and impairing impulse control. This makes disengagement difficult and can lead to \"screen paralysis\" or \"digital dopamine traps.\""
+        "text": "Because the ADHD brain's working memory, which holds your current intention, is like a small, unsecured notepad. Any new, interesting distraction can easily snatch it and wipe it clean. It's a neurological vulnerability, not a personal failing. As Volkow et al. (2011) explain, dopamine dysregulation makes it harder to hold onto intentions."
       }
     },
     {
@@ -16,79 +16,23 @@
       "name": "How is ADHD digital distraction different from regular procrastination?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "While regular procrastination is often about delaying tasks, ADHD digital distraction is amplified by neurobiological differences. It's not just a choice; it's a vulnerability where technology's design actively exploits your brain's unique wiring (dopamine dysregulation, executive function deficits), making it incredibly difficult to initiate or switch away from stimulating digital content, leading to a \"freeze\" response."
+        "text": "While regular procrastination is often about delaying tasks, ADHD digital distraction is amplified by neurobiological differences. It's not just a choice; it's a vulnerability where technology's design actively exploits your brain's unique wiring (dopamine dysregulation, executive function deficits), making it incredibly difficult to initiate or switch away from stimulating digital content, leading to a 'freeze' response. DuPaul et al. (2013) confirm widespread executive function deficits drive this task paralysis."
       }
     },
     {
       "@type": "Question",
-      "name": "Can digital notifications trigger RSD in ADHD?",
+      "name": "Why does the baffling and frustrating experience of having a clear task in mind, only for it to vanish into thin air the moment you get distracted, leaving you standing in a room with no idea why you entered happen?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, for individuals with ADHD and Rejection Sensitive Dysphoria (RSD), digital notifications can be significant triggers. The fear of a critical message, perceived slight, or missing out (FoMO) can cause intense emotional pain and anxiety, leading to avoidance of digital communication or hyper-vigilance towards pings, exacerbating digital task paralysis."
+        "text": "The prefrontal cortex (PFC), responsible for working memory, has a neurologically 'smaller' or 'leakier' RAM in the ADHD brain. Jia et al. (2021) show that high-dopamine digital stimuli outcompete the original task for neural resources. This is common with ADHD because of the unique challenges in filtering and processing information."
       }
     },
     {
       "@type": "Question",
-      "name": "Why does my ADHD brain feel like it has a 'delete' button for my intentions?",
+      "name": "Am I just lazy because I can't seem to remember what I was doing mid-task?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Because the ADHD brain's working memory, which holds your current intention, is like a small, unsecured notepad. Any new, interesting distraction can easily snatch it and wipe it clean. It's a neurological vulnerability, not a personal failing. Our Neuro-AI helps you build a secure, external \"second brain\" so your ideas are never lost."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How can I break free from the \"digital dopamine traps\" that keep me stuck on my phone or computer?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Start by becoming aware of your personal triggers. What apps or websites are most likely to pull you in? Then, implement digital hygiene strategies like turning off non-essential notifications, using website blockers, and scheduling specific \"focus zones\" where you avoid all distractions."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What are some good apps or tools to help me manage digital distractions with ADHD?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Look for apps that offer features like website blocking, app timers, focus modes, and task management with clear visual cues. Consider using a \"digital breadcrumb\" tool that allows you to quickly jot down your original task before switching tabs or apps."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How do I deal with the overwhelming feeling of having too many tabs open on my computer?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Try using a tab management extension that allows you to group tabs into collapsible folders, decluttering your screen and reducing visual overwhelm. You can also use a tool that automatically suspends inactive tabs to free up memory and prevent distractions."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How can I create a more ADHD-friendly digital workspace?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Start by minimizing visual clutter. Use a minimalist desktop background, organize your files into clear folders, and limit the number of icons on your screen. Consider using a \"focus shield\" app that blurs out all windows except the one you're actively working on."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "I feel so much guilt and shame about my inability to focus and manage digital distractions. How can I overcome this?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Remember that ADHD is a neurobiological condition, not a character flaw. Practice self-compassion and challenge negative self-talk. Focus on your strengths and celebrate small wins. Seek support from other ADHDers who understand your struggles."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can digital notifications trigger RSD (Rejection Sensitive Dysphoria) in ADHD?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, for individuals with ADHD and Rejection Sensitive Dysphoria (RSD), digital notifications can be significant triggers. The fear of a critical message, perceived slight, or missing out (FoMO) can cause intense emotional pain and anxiety, leading to avoidance of digital communication or hyper-vigilance towards pings, exacerbating digital task paralysis."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How do I stop comparing myself to neurotypical people who seem to effortlessly manage their digital lives?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Remember that everyone's brain is wired differently. Focus on finding strategies that work for *your* unique brain. Celebrate your own progress and acknowledge your unique strengths and talents."
+        "text": "This isn’t laziness—it’s a neurobiological barrier. Your prefrontal cortex is overloaded by distractions, leading to a working memory \"cache-clear\" event. Alderson et al. (2013) found working memory deficits significantly contribute to mid-task abandonment."
       }
     },
     {
@@ -96,71 +40,87 @@
       "name": "Am I losing my mind or is it just ADHD that makes me forget why I walked into a room?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "You're not losing your mind, you're experiencing the \"Doorway Effect\" on hyper-speed. For the ADHD brain, any context switch is a potential memory wipe. Here's the 3-second \"Task Tether\" hack to stop the void from stealing your thoughts. Your brain isn't broken—it just needs an external save button."
+        "text": "You're not losing your mind, you're experiencing the 'Doorway Effect' on hyper-speed. For the ADHD brain, any context switch is a potential memory wipe. It’s a capacity issue, not an intelligence issue. Goodman (2020) links this to the \"brain fog\" symptom common in ADHD."
       }
     },
     {
       "@type": "Question",
-      "name": "What should I do when I realize I've been doomscrolling for hours and have completely neglected my responsibilities?",
+      "name": "Can digital notifications trigger RSD in ADHD?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "First, forgive yourself. Then, take a short break to recharge and reset. Next, identify one small, manageable task that you can complete immediately. Focus on that one task and avoid getting overwhelmed by everything else on your to-do list."
+        "text": "Yes, for individuals with ADHD and Rejection Sensitive Dysphoria (RSD), digital notifications can be significant triggers. The fear of a critical message, perceived slight, or missing out (FoMO) can cause intense emotional pain and anxiety, leading to avoidance of digital communication or hyper-vigilance towards pings, exacerbating digital task paralysis. Dodson (2016) describes how RSD significantly contributes to task paralysis due to fear of criticism."
       }
     },
     {
       "@type": "Question",
-      "name": "How can I use my ADHD hyperfocus to my advantage in a digital world?",
+      "name": "What’s the ‘Good Enough’ fix for forgetting what I was doing?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Identify tasks that genuinely interest you and schedule dedicated \"hyperfocus blocks\" where you can immerse yourself in those activities without distractions. Use tools like website blockers and focus modes to protect your hyperfocus time."
+        "text": "Use the QuirkyLabs 'Body Anchor' Hack:\n1. Before you get up to do something, pick up a specific, unusual object (a stress ball, a binder clip).\n2. Do not put it down until the task is done.\n3. The constant physical sensation acts as an external memory prompt."
       }
     },
     {
       "@type": "Question",
-      "name": "What is \"Rejection Sensitive Dysphoria (RSD)\" and how does it relate to digital task paralysis?",
+      "name": "How do I remember what I'm doing when I’m in ‘Spoonie Mode’?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Rejection Sensitive Dysphoria (RSD) is a common experience for individuals with ADHD characterized by extreme emotional pain in response to perceived rejection, criticism, or failure. This intense fear can lead to task avoidance, especially for tasks involving potential evaluation or social interaction, contributing to task paralysis."
+        "text": "The 1% Rule: State your intention out loud as a full sentence. \"I am going to the kitchen to get the scissors.\" The dual auditory and motor feedback creates a stronger, more resilient memory trace. Rosén et al. (2019) highlight the importance of addressing specific functional impairments like task initiation."
       }
     },
     {
       "@type": "Question",
-      "name": "What if I've tried everything and I still can't seem to break free from digital distractions and task paralysis?",
+      "name": "What’s the first step when I realize my train of thought has derailed?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Consider seeking professional help from an ADHD coach or therapist. They can provide personalized strategies and support to help you manage your symptoms and achieve your goals."
+        "text": "Immediately activate the 'Digital Breadcrumbs' Protocol: Use a hotkey to drop a \"breadcrumb\" in a notes app (e.g., \"was writing email about Q3 report, looking up sales numbers\"). This creates a reliable path back to the original task after the inevitable distraction. NICE (2018) guidelines recommend behavioral strategies for improving task initiation."
       }
     },
     {
       "@type": "Question",
-      "name": "What is the \"QuirkyLabs Operating System for ADHD Brains at Work\" and how can it help me?",
+      "name": "How do I explain my constant forgetfulness to my partner?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The QuirkyLabs Operating System is a comprehensive, neuro-affirming approach to managing ADHD in a digital world. It combines science-backed strategies, personalized tools, and a supportive community to help you break free from digital distractions, overcome task paralysis, and unlock your full potential."
+        "text": "AI-generated script: *\"[Partner], my brain's RAM is a bit leaky, so I can lose my train of thought easily. It's not that I'm not listening. If you see me looking lost, just gently ask 'What was the mission?'—it helps me get back on track without feeling ashamed.\"*"
       }
     },
     {
       "@type": "Question",
-      "name": "How is the QuirkyLabs approach different from other productivity systems?",
+      "name": "How can I communicate my need for clear instructions at work?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Unlike generic productivity advice, the QuirkyLabs Operating System is specifically designed for the ADHD brain. It addresses the underlying neurobiological vulnerabilities that contribute to digital distractions and task paralysis, providing sustainable, game-based, and neuro-affirming strategies that go beyond willpower."
+        "text": "AI-generated script: *\"[Boss], To ensure I capture all the details, I use a robust note-taking system. If you give me a multi-step task, allowing me a moment to write it down ensures I can execute it perfectly without losing any steps.\"*"
       }
     },
     {
       "@type": "Question",
-      "name": "What are some of the key features of the QuirkyLabs Operating System?",
+      "name": "How do I explain to my family that my brain gets wiped by digital distractions?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The Operating System includes features like:\n    *   **The Digital Dopamine Navigator™**: AI-driven, gamified prompts to build the habit of externalizing your thoughts *before* they vanish.\n    *   **The Neuro-Flow Firewall™**: Personalized digital settings and habits to protect your focus from overwhelming inputs.\n    *   **Digital Breadcrumbs**: A simple tool to capture thoughts before they vanish, creating a reliable path back to the original task.\n    *   **Interactive Simulators**: Gamified simulations to help you understand and manage your digital vulnerabilities."
+        "text": "AI-generated script: *\"Hey, I'm not ignoring you, my ADHD brain just has trouble filtering distractions. Can we try to keep conversations short and sweet, or maybe write down what we need to talk about?\"*"
       }
     },
     {
       "@type": "Question",
-      "name": "How can I get started with the QuirkyLabs Operating System?",
+      "name": "How does the QuirkyLabs 'Digital Breadcrumbs' protocol short-circuit working memory failures?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Start by exploring our free resources, such as the \"Dopamine Defender\" mini-game and our articles on digital distractions and ADHD. Then, consider joining our community and exploring our full program for a comprehensive approach to digital mastery."
+        "text": "It uses an externalization habit loop to bypass prefrontal cortex blockage. By capturing any new idea or task in a digital note-taker within 3 seconds, you reinforce the \"capture-don't-hold\" behavior until it becomes second nature. Ghomi et al. (2020) note the cerebellar contribution to sequencing tasks."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can 'Reply Roulette' gamify texting and reduce amygdala activation when I'm overwhelmed by notifications?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "'Reply Roulette' gamifies texting to reduce amygdala activation. It uses neuro-strategy to bypass brain region blockage. Try our 'Your 'Digital Dopamine Profile' & Sensory-Smart Professional Toolkit for ADHD' to rewire this. Kessler et al. (2009) emphasize the need for comprehensive multimodal treatment."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does QuirkyLabs' 'Auditory Anchor Protocol' help me stay on task?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before starting a task, you record yourself saying the task (\"Finish the Q3 report\"). The OS will play this recording back at a very low volume if it detects more than 2 minutes of inactivity or if a known distracting app is opened. Antshel et al. (2013) found that decision-making impairments in ADHD contribute to analysis paralysis."
       }
     }
   ]

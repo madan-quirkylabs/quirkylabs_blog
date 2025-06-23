@@ -5,154 +5,66 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "How does ADHD lead to a \"parent-child dynamic\" in romantic relationships?",
+      "name": "Why does my partner's ADHD sometimes make me feel like their parent, and why does it trigger so much resentment?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The \"parent-child dynamic\" often arises when the ADHD partner struggles with executive functions like organization, planning, and follow-through, leading the neurotypical partner to unintentionally take on a \"parental\" role by managing tasks and reminding. This can cause resentment and erode intimacy. It's a common pattern stemming from neurobiological differences, not a lack of effort or love. *Our Neuro-AI helps you identify specific patterns and rebalance roles for true partnership.*"
+        "text": "When one partner struggles with executive functions, the other often compensates, creating a \"parent-child dynamic.\" This stems from differences in brain wiring, not a lack of care. Your brain's prefrontal cortex becomes hyper-vigilant, leading to Default Mode Network hijack (Orlov, 2010)."
       }
     },
     {
       "@type": "Question",
-      "name": "Is the \"parent-child dynamic\" just a sign of a bad relationship, or is it specifically linked to ADHD?",
+      "name": "How is this different from just a \"normal\" imbalance in a relationship?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "While relationship imbalances can occur for many reasons, ADHD significantly increases the likelihood of this dynamic due to executive function deficits, time blindness, and emotional dysregulation. It's not necessarily a reflection of the relationship's inherent quality but rather a symptom of mismatched neurobiological systems."
+        "text": "This isn't about laziness; it's about neurobiology. Executive function deficits interfere with communication and shared responsibilities (Miller et al., 2019). Psychoeducation can help reframe these issues as neurobiological, not intentional."
       }
     },
     {
       "@type": "Question",
-      "name": "Why does the neurotypical partner feel so resentful when they have to constantly remind their ADHD partner to do things?",
+      "name": "Am I a bad partner if I can't seem to remember basic chores or consistently follow through with my responsibilities?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The constant reminding stems from the neurotypical partner's brain becoming hyper-vigilant for uncompleted tasks. This creates a \"Default Mode Network\" hijack, where their brain fixates on household management and reminders. It's not just about the chores; it's about the feeling of being solely responsible and the loss of equal partnership."
+        "text": "This isn't a moral failing—it's a neurobiological barrier. Your brain's executive functions are overloaded, not intentionally negligent (Shaw et al., 2014). Use our \"Neuro-Harmonizing Chore System\" to rewire this loop."
       }
     },
     {
       "@type": "Question",
-      "name": "Why does the ADHD partner feel so much shame and guilt when they struggle to keep up with household tasks?",
+      "name": "Does everyone with ADHD struggle with this \"parent-child dynamic\" in their relationships?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The ADHD partner often internalizes these struggles as personal failings (\"I'm lazy,\" \"I'm a burden\"). This is often fueled by past criticism and a lack of understanding of how ADHD impacts executive functions. They may develop a lifelong neural pathway of self-judgment, associating their struggles with being inadequate."
+        "text": "Yes, it's a common pattern. Executive dysfunction in the ADHD partner often leads to the neurotypical partner taking on a parental role. This can cause resentment and erode intimacy (Orlov, 2010)."
       }
     },
     {
       "@type": "Question",
-      "name": "What are some common triggers that can exacerbate the \"parent-child dynamic\" in ADHD relationships?",
+      "name": "What's the first step to take when I feel that \"parent-child dynamic\" creeping into my relationship?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Triggers can be digital (e.g., a shared chore list highlighting uncompleted tasks, idealized relationship portrayals on social media) or analog (e.g., a cluttered environment, a partner's tone of voice). These triggers can lead to a cortisol spike, inhibiting dopamine release and further hindering task initiation and self-regulation."
+        "text": "Implement the \"1% Rule\" for chores: do one tiny action, like putting one dish in the sink (Kane & Engle, 2003). This lowers activation energy and provides a quick dopamine hit."
       }
     },
     {
       "@type": "Question",
-      "name": "My partner's \"nagging\" really gets to me. Is there anything I can do about it?",
+      "name": "How do I communicate my needs to my partner when I'm in \"Spoonie Mode\" and can't handle reminders or nagging?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Constant nagging often triggers shame and defensiveness in the ADHD brain due to Rejection Sensitive Dysphoria (RSD), creating a negative feedback loop. Try establishing a \"sensory-safe signal\" (e.g., a specific emoji) to indicate a need for assistance without triggering shame or defensiveness."
+        "text": "Co-create an \"adaptive sensory-safe signal\" or emoji that signals a need for a gentle nudge or assistance with a task, without shame. Magdi et al. (2025) suggests this is vital to avoid trauma responses."
       }
     },
     {
       "@type": "Question",
-      "name": "I'm overwhelmed by the thought of even starting a chore. What's a good first step?",
+      "name": "How do I explain this \"parent-child dynamic\" to my partner so they understand it's not about me being lazy?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Try the \"1% Rule\" for chores: commit to doing just one small thing (e.g., putting one dish in the sink) for a very short amount of time (e.g., one minute). This lowers the activation energy and provides a quick dopamine hit to build momentum."
+        "text": "AI-generated script: \"[Partner], my ADHD brain sometimes needs a 'copilot' for daily tasks, not a manager. It's not about being irresponsible; it's how my brain processes things. Can we use our shared QuirkyLabs task board for this, and I'll send you a 'success emoji' when it's done?'\""
       }
     },
     {
       "@type": "Question",
-      "name": "How can we rebalance responsibilities in our relationship and break free from the \"parent-child dynamic\"?",
+      "name": "How does the QuirkyLabs \"Neuro-Harmonizing Chore System\" help short-circuit the \"parent-child dynamic\"?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Focus on building new systems that support both partners' brains, not just \"trying harder.\" This includes:\n    *   **Psychoeducation:** Both partners understanding ADHD's impact on executive functions.\n    *   **Shared Systems:** Using visual task boards, shared calendars, and AI-powered organizational tools.\n    *   **Clear Communication:** Establishing a \"sensory-safe signal\" for requesting assistance.\n    *   **Dopamine Pairing:** Associating mundane chores with enjoyable activities."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is the \"CEO Protocol\" for shared responsibilities, and how can it help?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The \"CEO Protocol\" involves a short (90-second) task breakdown, personalized empowering soundtrack, and focusing on just 1-2 core, high-impact chores, with micro-rewards for each completion. This helps to simplify tasks, boost motivation, and create a sense of accomplishment."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How can my neurotypical partner support me without falling into the \"parent\" role?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Instead of managing or reminding, your partner can act as a \"co-pilot\" by:\n    *   Co-creating a \"sensory-safe signal\" for requesting assistance.\n    *   Scheduling \"dopamine check-ins\" for tasks, paired with enjoyable activities.\n    *   Providing gentle nudges and support without judgment."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What if I've tried everything, and we still can't seem to break free from this dynamic?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Acknowledge that this is a complex issue with neurobiological roots, not a personal failing. Seek professional support from a therapist or coach specializing in ADHD relationships. Focus on building self-compassion and celebrating small wins."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How can I stop feeling like a burden to my partner?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Challenge your negative self-talk and reframe your perspective. Focus on your strengths and contributions to the relationship, even if they're not always task-related. Remember that your ADHD brain is wired differently, and that's okay."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How can I explain to my partner that my struggles aren't about laziness or lack of care?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Use analogies (e.g., \"My brain is like a computer with too many tabs open\") or share resources about ADHD and executive function. Emphasize that you're actively working to find solutions and that you value their support."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can technology help us break free from the \"parent-child dynamic\"?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, but it's important to use technology strategically. Shared task lists can be helpful, but they can also trigger anxiety and resentment. Look for apps that:\n    *   Provide visual cues and reminders.\n    *   Allow for flexible task management.\n    *   Offer positive reinforcement and rewards.\n    *   Can be personalized to individual needs."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How can I prevent digital distractions from sabotaging our shared responsibilities?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Use app blockers to limit access to distracting apps during \"Neuro-Chore Blocks.\" Consider a \"Dopamine Detox AI Companion\" browser extension that greys out comparison-inducing social media posts."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What should we do if we start to slip back into the \"parent-child dynamic\"?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Recognize the relapse triggers and activate a \"Relational Rebalancing Reset\" tool. This might involve multi-modal sensory cues, AI-driven narrative re-framing, or a quick win task from the QuirkyLabs OS."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How can we build a thriving, equitable partnership despite ADHD?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Focus on:\n    *   Building mutual understanding and empathy.\n    *   Creating a collaborative and supportive environment.\n    *   Celebrating small wins and progress.\n    *   Continuously adapting and refining your systems.\n    *   Prioritizing connection and intimacy."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What's the ultimate goal of rebalancing roles in an ADHD relationship?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The goal is to shift from a dynamic of imbalance and resentment to one of mutual respect, support, and shared responsibility, fostering a deeper connection and a more fulfilling partnership for both individuals."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "The *real* question users are too ashamed to Google: \"Am I going to resent my ADHD partner forever for not pulling their weight, *and is our romance dead because of it*?\"",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A *viral-worthy* response that *validates + disrupts*, *optimized for multi-platform viral spread*: \"No, your romance isn't dead! That resentment is a valid response to an imbalance, not a judgment of your partner's character. Their brain just needs a different operating system for shared responsibilities. We're here to install the right updates to transform this 'parent-child dynamic' into a thriving, equitable partnership, *activated by your own brain*. Resentment is a symptom of mismatched systems—and we're here to help you build a new one!\""
+        "text": "It uses real-time neuro-feedback and AI-driven predictive modeling to short-circuit executive function relationship challenges before they lead to burnout. It provides a concrete system designed for your unique brain to rebalance roles and reclaim your romantic partnership (Latzman et al., 2018)."
       }
     }
   ]

@@ -5,122 +5,66 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Why do traditional productivity systems fail for ADHD brains?",
+      "name": "Why does the urge to acquire new productivity apps feel like a 'dopamine hit' followed by a crash?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Traditional productivity systems often rely on neurotypical executive functions like consistent planning, sustained motivation for mundane tasks, and accurate time perception. For ADHD brains, dopamine dysregulation, executive function deficits (like task initiation and working memory), and time blindness make these systems inherently challenging to consistently maintain, leading to feelings of failure and abandonment, rather than actual lack of effort. QuirkyLabs explains the neuroscience behind this mismatch and offers brain-compatible alternatives."
+        "text": "Your ADHD brain's heightened novelty-seeking and preference for immediate gratification are activated when discovering a new app, releasing a rush of dopamine. This is preferred over the delayed rewards of sustained effort on existing systems (Tice & Bratslavsky, 2000). This triggers a \"Default Mode Network\" hijack, diverting focus and mental energy to the excitement of a new tool, leading to the abandonment of previous systems."
       }
     },
     {
       "@type": "Question",
-      "name": "How does technology affect ADHD focus differently?",
+      "name": "How is constantly switching between productivity apps different from simply trying to find the best tool?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Individuals with ADHD are hyper-vulnerable to the persuasive, dopamine-driven design of modern technology. Features like endless scrolling, variable reward notifications, and constant novelty act as \"supernormal stimuli\" that can hijack your brain's natural dopamine-seeking pathways, making them highly addictive and difficult to disengage from."
+        "text": "Individuals with ADHD are hyper-vulnerable to the persuasive, dopamine-driven design of modern technology. The \"constant novelty\" and variable reinforcement from internet-based technologies can over-stimulate dopamine pathways in ADHD brains, making it harder to sustain focus (Weyandt et al., 2018). This can lead to \"app cycling,\" a compulsive acquisition driven by the search for novel stimulation rather than genuine functional need (Cromer & Davies, 2019)."
       }
     },
     {
       "@type": "Question",
-      "name": "Why do I keep buying new productivity apps, even though I don't stick with them?",
+      "name": "Am I lazy because I can't stick to one productivity system?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "This is a common experience called \"app cycling.\" The ADHD brain's heightened novelty-seeking and preference for immediate gratification are activated when discovering a new app, releasing a rush of dopamine. This creates a strong allure, a \"dopamine hit,\" that is preferred over the delayed rewards of sustained effort on existing systems. This impulsive acquisition is driven by the search for novel stimulation rather than genuine functional need."
+        "text": "This is a **neurobiological barrier**, not a moral failing. Your prefrontal cortex is struggling to initiate tasks due to dopamine dysregulation (Barkley, 2015). It's a matter of wiring, not willpower! Try our 'Digital Dopamine Trap Quiz' to identify your specific digital vulnerability and rewire this."
       }
     },
     {
       "@type": "Question",
-      "name": "Is it just me, or is \"real life\" really boring and unmotivating with ADHD?",
+      "name": "Does everyone with ADHD struggle with app cycling?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "You're not alone. Impaired dopamine signaling in the brain's reward pathways makes non-inherently rewarding or novel tasks difficult to initiate and sustain. The altered functioning of the brain's reward system also contributes to heightened impulsivity and a tendency to seek immediate gratification."
+        "text": "It is common. Individuals with ADHD exhibit a stronger association between executive function deficits (especially inhibitory control) and excessive digital media use (Cromer & Davies, 2019). The constant novelty and variable reinforcement schedules of new apps and online platforms can be particularly captivating for ADHD brains."
       }
     },
     {
       "@type": "Question",
-      "name": "What's the first step to building a brain-friendly productivity system for ADHD in a digital world?",
+      "name": "What’s the ‘Good Enough’ fix for the urge to buy a new productivity app?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Step 1: Understand Your Brain's Digital Wiring. Learn about the specific neurobiological reasons (dopamine, executive function, impulsivity) that make your ADHD brain hyper-vulnerable to digital distractions. This understanding is your first \"permission slip\" to stop blaming yourself."
+        "text": "Use the QuirkyLabs \"CEO Protocol\":\n1. 90-second Task Preview: Quickly preview your current tasks and identify the most urgent.\n2. Personalized Dopamine Soundtrack: Play a short, engaging piece of music that boosts your mood.\n3. Focus on 1-2 Core Tasks: Prioritize just a few essential tasks and ignore the rest.\n4. Micro-Rewards: Give yourself small rewards for each completed task."
       }
     },
     {
       "@type": "Question",
-      "name": "How can I design my own \"Neuro-Scaffolding Tech Stack\"?",
+      "name": "How do I start using an app when I’m in ‘Spoonie Mode’?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Step 2: Design Your Neuro-Scaffolding Tech StackTM. Implement brain-friendly digital tools and environmental modifications (like app blockers, notification management, or visual timers) that act as external \"scaffolding\" for your executive functions, minimizing distractions and supporting focus."
+        "text": "Implement the \"1% Rule\":\n1. Open one work document.\n2. Set a 2-minute haptic timer for initiation.\n3. Give yourself a micro-reward for opening it."
       }
     },
     {
       "@type": "Question",
-      "name": "How do I make boring tasks more engaging for my ADHD brain?",
+      "name": "How do I explain my app cycling to my partner?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Step 3: Activate Your Dopamine Loop for Productive Engagement. Re-direct your brain's craving for novelty and reward by strategically injecting immediate, small rewards and gamification into essential tasks. Turn mundane digital tasks (like email) into engaging \"quests\" to harness your unique motivation."
+        "text": "AI-generated script: *\"Honey, you know how my brain sometimes struggles to 'switch on' for mundane tasks? It's not about being lazy; it's a specific neural circuit that needs a little nudge. When you see me stuck, a gentle 'neural high-five' (e.g., a specific non-verbal cue) helps me kickstart. We're working on making this brain more efficient!\"* This is common with ADHD because of dopamine dysregulation (Volkow et al., 2011)."
       }
     },
     {
       "@type": "Question",
-      "name": "What are some \"dopamine hacks\" I can use right now?",
+      "name": "How does the QuirkyLabs 'Adaptive App Firewall' help short-circuit app cycling?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Try AI-curated \"dopamine pairing\" for tasks with your most effective \"guilty pleasure\" (only allowed during execution), with real-time neural monitoring to prevent over-dopamine. Or, try ‘Reward Roulette 2.0’: Post-task, spin an AI-generated wheel for micro-rewards, dynamically weighted by task difficulty and your motivational profile, providing novelty and immediate gratification."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How can I create a sensory-friendly workspace to minimize distractions?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Try a ‘Neuro-Calibrated Environment Protocol’ (AI-controlled smart home integration for lighting, soundscapes, and temperature to proactively eliminate sensory triggers that hinder task initiation). You could also try a ‘Texture Swap Blueprint’ (e.g., AI-identified 'sensory-friendly pen grip' alternative based on your tactile preferences, dynamically adjusted for optimal comfort and focus during writing tasks)."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How can I prevent digital \"sabotage\" and stay focused on my work?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Implement an ‘Adaptive App Firewall’ for distracting apps (locks during 'Neuro-Focus Blocks', learning your distraction patterns and preventing impulsive digital escapes). You can also use a ‘Dopamine Detox AI Companion’ browser extension (greys out \"perfect routine\" videos and identifies \"comparison traps\" on social media, offering immediate neural re-framing or alternative content)."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Why does this feel impossible with ADHD, even when I try so hard?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Because your brain's executive function, responsible for planning and initiation, often goes on vacation for seemingly simple tasks. It's not laziness; it's a genuine neurological hurdle."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "I feel like I should just \"power through it,\" but that doesn't work. What am I doing wrong?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "While motivation challenges are universal, for ADHD brains, these struggles are amplified by abnormalities in dopamine pathways and receptor sensitivity, leading to a reduced response to typical rewards and a higher threshold for motivation, especially for mundane tasks. It's a genuine neurological hurdle, not a character flaw."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "I'm ashamed of how much time I waste online. How can I stop feeling like a failure?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "It's not that you lack discipline; your brain is literally wired to seek the very stimulation modern tech provides. What if you could learn to work *with* that wiring instead of constantly fighting it?"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How can I ask my partner for support without feeling like a burden?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Co-create an 'adaptive sensory-safe signal' or emoji that signals a need for a gentle nudge or assistance without shame, dynamically adjusting frequency based on your need patterns."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How do I explain my ADHD struggles to my boss in a professional way?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Use an AI-generated script, optimized for professional tone and context, for effective communication: \"I've been optimizing my workflow to leverage my neuro-strengths. For certain tasks, initiating can require specific 'neural priming.' I've implemented a system that proactively addresses this, allowing me to maintain high productivity and ensure timely completion of my deliverables.\""
+        "text": "It locks distracting apps during \"Neuro-Focus Blocks,\" learning your distraction patterns and preventing impulsive digital escapes. It uses neuro-strategy to bypass prefrontal cortex blockage. It also integrates with \"Dopamine Detox AI Companion\" to grey out \"perfect routine\" videos on social media, offering immediate neural re-framing or alternative content."
       }
     }
   ]

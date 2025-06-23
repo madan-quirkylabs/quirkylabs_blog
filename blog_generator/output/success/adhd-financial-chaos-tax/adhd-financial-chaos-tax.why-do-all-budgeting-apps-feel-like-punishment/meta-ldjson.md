@@ -7,7 +7,7 @@
   "image": "https://quirkylabs.com/og/adhd-bill-avoidance-debug.png",
   "author": {
     "@type": "Organization",
-    "name": "QuirkyLabs"
+    "name": "QuirkyLabs Research Team"
   },
   "publisher": {
     "@type": "Organization",
@@ -23,6 +23,6 @@
     "@type": "WebPage",
     "@id": "https://quirkylabs.com/adhd-financial-chaos"
   },
- "keywords": "why do ADHDers struggle with budgeting, how to budget with ADHD, ADHD money shame, ADHD YNAB setup, financial chaos ADHD, executive dysfunction loop money"
+   "keywords": "why do ADHDers struggle with budgeting, how to budget with ADHD, ADHD money shame, ADHD YNAB setup, financial chaos ADHD, executive dysfunction loop money"
 }
 ```

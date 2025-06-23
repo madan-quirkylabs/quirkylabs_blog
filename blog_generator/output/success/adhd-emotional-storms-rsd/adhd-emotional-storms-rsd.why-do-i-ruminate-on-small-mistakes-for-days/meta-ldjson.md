@@ -23,6 +23,6 @@
     "@type": "WebPage",
     "@id": "https://quirkylabs.com/adhd-replaying-mistakes"
   },
-   "keywords": "why do ADHDers struggle with mistakes, how to stop ruminating with ADHD, ADHD mind racing mistakes, ADHD YNAB setup, ADHD shame spiral, executive dysfunction loop mistakes"
+  "keywords": "why do ADHDers struggle with mistakes, how to stop ruminating with ADHD, ADHD mind racing mistakes, ADHD YNAB setup, ADHD shame spiral, executive dysfunction loop mistakes"
 }
 ```
