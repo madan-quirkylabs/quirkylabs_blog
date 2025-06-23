@@ -23,6 +23,6 @@
     "@type": "WebPage",
     "@id": "https://quirkylabs.com/adhd-financial-chaos"
   },
-   "keywords": "why do ADHDers struggle with bills, how to pay bills with ADHD, ADHD YNAB setup, ADHD money shame, financial trauma ADHD, amygdala freeze money"
+  "keywords": "why do ADHDers struggle with bills, how to pay bills with ADHD, ADHD YNAB setup, ADHD money shame, financial trauma ADHD, amygdala freeze money"
 }
 ```

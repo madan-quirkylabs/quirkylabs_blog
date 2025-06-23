@@ -130,6 +130,98 @@ raise ValueError(
 ```
 """
 
+STRUCTURED_FAQ_PROMPT = """
+Act as QuirkyLabs' Neuro-Content Architect. Generate a **categorized FAQ schema** for the ADHD spoke article using this metadata:  
+{spoke_metadata}
+
+---
+
+### **RULES**  
+1. **Extract Directly From Metadata**:  
+   - Use `spoke_specific_pain_point` for raw ADHD language (e.g., "involuntary ghosting").  
+   - Cite studies from `pillar_specific_research.studies` (include author/year).  
+   - Integrate QuirkyLabs tools from `solution_war_room` or `content_arsenal`.  
+
+2. **Required Categories** (Include 3-5):  
+   - **Neuro-Why**: *"What’s happening in my brain?"*  
+   - **Shame Disruptors**: *"Is this my fault?"*  
+   - **Practical Hacks**: *"What can I do RIGHT NOW?"*  
+   - **Social Scripts**: *"How do I explain this to others?"*  
+   - **Advanced Tools**: *"How can QuirkyLabs help?"*  
+
+3. **Question Templates**:  
+   - **For Neuro-Why**:  
+     *"Why does [pain_point] feel like [sensory_metaphor]?"*  
+     *"How is this different from just [neurotypical_behavior]?"*  
+   - **For Shame Disruptors**:  
+     *"Am I [negative_self_label] because I [ADHD_behavior]?"*  
+     *"Does everyone with ADHD struggle with this?"*  
+   - **For Practical Hacks**:  
+     *"What’s the first step when [pain_point] hits?"*  
+     *"How do I [action] when I’m in ‘Spoonie Mode’?"*  
+
+---
+
+### **EXAMPLE OUTPUT**  
+```markdown
+### **Comprehensive FAQ: [Spoke Title]**  
+
+#### **Category 1: Neuro-Why**  
+**Q: Why does [pain_point] trigger [physical/emotional reaction]?**  
+**A:** [Study citation] shows this is your brain’s [neuro-mechanism] in overdrive. Example: *"Dodson (2019) links ‘involuntary ghosting’ to amygdala freeze + dopamine dips when task-switching."*  
+
+**Q: Is this just [misconception] or an ADHD thing?**  
+**A:** No! [Study] proves ADHD brains process [task] differently. *"Semrud-Clikeman (2012) found prefrontal-amygdala dysregulation in [context]."*  
+
+#### **Category 2: Shame Disruptors**  
+**Q: Am I [shame_label] because I can’t [action]?**  
+**A:** This is a **neurobiological barrier**, not a moral failing. Your [brain_region] is overloaded by [trigger]. Try our [tool_name] to rewire this.  
+
+#### **Category 3: Practical Hacks**  
+**Q: What’s the ‘Good Enough’ fix for [pain_point]?**  
+**A:** Use the [QuirkyLabs protocol]:  
+1. [Micro-action]  
+2. [Dopamine-paired reward]  
+3. [Sensory cue]  
+
+#### **Category 4: Social Scripts**  
+**Q: How do I explain [behavior] to my [person]?**  
+**A:** AI-generated script: *"[Partner], my ADHD brain [neuro-mechanism]. Can we try [accommodation]?"*  
+
+#### **Category 5: Advanced Tools**  
+**Q: How does [QuirkyLabs tool] short-circuit [pain_point]?**  
+**A:** It uses [neuro-strategy] to bypass [brain_region] blockage. Example: *"‘Reply Roulette’ gamifies texting to reduce amygdala activation."*  
+```
+
+---
+
+### **DYNAMIC INSTRUCTIONS**  
+1. **For Emotional Topics** (e.g., RSD, shame):  
+   - Lead with **Shame Disruptors**. Use phrases like *"This isn’t laziness—it’s [neuro-mechanism]."*  
+2. **For Task Paralysis**:  
+   - Include **"Spoonie Mode" hacks** (e.g., *"The 1% Rule: Just [tiny_action]."*).  
+3. **Always End with Hope**:  
+   - Final category must be **Advanced Tools**, showcasing a QuirkyLabs solution.  
+
+---
+
+### **VALIDATION CHECKS**  
+- Reject answers without:  
+  1. A **study citation** or **neuro-mechanism**.  
+  2. A **validation phrase** (e.g., *"This is common with ADHD because..."*).  
+  3. A **QuirkyLabs tool/prompt**.  
+- Use **ADHD community slang** (e.g., "Spoonie Mode," "task paralysis").  
+```
+
+---
+
+### **Key Features**  
+1. **Pain-Point Precision**: Pulls visceral metaphors from `pain_autopsy_details` (e.g., *"amygdala freeze"*).  
+2. **Scientific Rigor**: Auto-attaches the most relevant study from your metadata.  
+3. **Branded Solutions**: Weaves in tools like *"Reply Roulette"* or *"Neuro-Communication Protocol"*.  
+
+"""
+
 def discover_spoke_metadata():
     """
     Discover all spoke metadata files, extract pillar and spoke slugs, and load their JSON content.
@@ -170,8 +262,7 @@ def generate_faq_prompt(example_faq_path, spoke_metadata):
     spoke_json = json.dumps(spoke_metadata, indent=2, ensure_ascii=False)
     # Construct the prompt
     prompt = (
-        "For a similar spoke_metadata, the following FAQ was generated:\n\n"
-        f"{example_faq}\n\n"
+        f"{STRUCTURED_FAQ_PROMPT}\n\n"
         "Now, generate a comprehensive FAQ section for this spoke_metadata (output only the FAQ section in markdown):\n\n"
         f"{spoke_json}"
     )
@@ -188,11 +279,13 @@ def write_faq_to_file(pillar_slug, spoke_slug, faq_markdown):
 
 def faq_file_exists(pillar_slug, spoke_slug):
     out_path = os.path.join(OUTPUT_ROOT, pillar_slug, spoke_slug, "faq.md")
-    return os.path.exists(out_path)
+    return False
+    # return os.path.exists(out_path)
 
 
 def faq_ldjson_file_exists(pillar_slug, spoke_slug):
     out_path = os.path.join(OUTPUT_ROOT, pillar_slug, spoke_slug, "faq-ldjson.md")
+    return False
     return os.path.exists(out_path)
 
 

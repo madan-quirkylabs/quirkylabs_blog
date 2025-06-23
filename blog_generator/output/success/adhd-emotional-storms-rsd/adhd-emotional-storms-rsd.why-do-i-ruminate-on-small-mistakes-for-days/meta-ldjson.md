@@ -7,7 +7,7 @@
   "image": "https://quirkylabs.com/og/adhd-replaying-mistakes-debug.png",
   "author": {
     "@type": "Organization",
-    "name": "QuirkyLabs Research Team"
+    "name": "QuirkyLabs"
   },
   "publisher": {
     "@type": "Organization",

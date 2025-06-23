@@ -23,6 +23,6 @@
     "@type": "WebPage",
     "@id": "https://quirkylabs.com/adhd-sleep-deprivation-burnout-cluster"
   },
-   "keywords": "why do ADHDers struggle with energy, how to manage burnout with ADHD, ADHD energy crash, ADHD sleep hygiene tips, dopamine dip ADHD, ADHD boom buckle bust cycle"
+  "keywords": "why do ADHDers struggle with energy, how to manage burnout with ADHD, ADHD energy crash, ADHD sleep hygiene tips, dopamine dip ADHD, ADHD boom buckle bust cycle"
 }
 ```
