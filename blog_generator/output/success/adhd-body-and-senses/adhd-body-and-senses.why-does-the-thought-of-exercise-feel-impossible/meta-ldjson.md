@@ -23,6 +23,6 @@
     "@type": "WebPage",
     "@id": "https://quirkylabs.com/adhd-exercise-dread"
   },
-   "keywords": "why do ADHDers struggle with exercise, how to start exercising with ADHD, ADHD exercise shame, ADHD YNAB setup, exercise trauma ADHD, dopamine dip workout"
+ "keywords": "why do ADHDers struggle with exercise, how to start exercising with ADHD, ADHD exercise shame, ADHD YNAB setup, exercise trauma ADHD, dopamine dip workout"
 }
 ```

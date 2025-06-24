@@ -284,11 +284,13 @@ def faq_file_exists(pillar_slug, spoke_slug):
 
 def faq_ldjson_file_exists(pillar_slug, spoke_slug):
     out_path = os.path.join(OUTPUT_ROOT, pillar_slug, spoke_slug, "faq-ldjson.md")
-    return False
     return os.path.exists(out_path)
 
 
 def generate_faq_ldjson(pillar_slug, spoke_slug, config):
+    if (faq_ldjson_file_exists(pillar_slug, spoke_slug)):
+        return False
+
     out_dir = os.path.join(OUTPUT_ROOT, pillar_slug, spoke_slug)
     faq_path = os.path.join(out_dir, "faq.md")
     ldjson_path = os.path.join(out_dir, "faq-ldjson.md")
@@ -532,7 +534,7 @@ if __name__ == "__main__":
     story_success = 0
     story_fail = 0
     story_skipped = 0
-    for entry in spokes[:2]:
+    for entry in spokes:
         if story_file_exists(entry["pillar_slug"], entry["spoke_slug"]):
             print(f"Skipping existing STORY for Pillar: {entry['pillar_slug']} | Spoke: {entry['spoke_slug']} ...")
             story_skipped += 1

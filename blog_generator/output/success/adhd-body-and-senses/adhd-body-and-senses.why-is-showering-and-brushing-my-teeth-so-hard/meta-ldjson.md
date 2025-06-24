@@ -23,6 +23,6 @@
     "@type": "WebPage",
     "@id": "https://quirkylabs.com/adhd-personal-upkeep"
   },
- "keywords": "why do ADHDers struggle with hygiene, how to shower with ADHD, ADHD hygiene shame, ADHD hygiene routine, executive dysfunction hygiene hacks, ADHD shower tips"
+   "keywords": "why do ADHDers struggle with hygiene, how to shower with ADHD, ADHD hygiene shame, ADHD hygiene routine, executive dysfunction hygiene hacks, ADHD shower tips"
 }
 ```

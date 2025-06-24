@@ -24,7 +24,7 @@
       "name": "Am I just being dramatic or weak because I can't handle the sensory input in a grocery store?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "This isn't about being dramatic; it's how your brain is wired. This is a **neurobiological barrier**, not a moral failing. Your [brain_region] is overloaded by [trigger]. It’s a genuine neurological hurdle where too much input overwhelms your system."
+        "text": "This isn't about being dramatic; it's how your brain is wired. This is a <b>neurobiological barrier</b>, not a moral failing. Your [brain_region] is overloaded by [trigger]. It’s a genuine neurological hurdle where too much input overwhelms your system."
       }
     },
     {
