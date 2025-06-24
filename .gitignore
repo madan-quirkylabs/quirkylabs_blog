@@ -39,3 +39,4 @@ node_modules/
 
 # Google service credentials
 /google_index_blogs/service-account.json
+.aider*
