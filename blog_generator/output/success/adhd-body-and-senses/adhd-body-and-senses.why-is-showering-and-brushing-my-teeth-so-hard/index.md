@@ -1,5 +1,5 @@
 <script type="application/ld+json">
-    {
+{
   "@context": "https://schema.org",
   "@type": "BlogPosting",
   "headline": "ADHD & Body Care: The Executive Dysfunction Loop Sabotaging Your Self-Care (Debug It)",
@@ -28,7 +28,7 @@
 </script>
 
 <script type="application/ld+json">
-    {
+{
   "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
