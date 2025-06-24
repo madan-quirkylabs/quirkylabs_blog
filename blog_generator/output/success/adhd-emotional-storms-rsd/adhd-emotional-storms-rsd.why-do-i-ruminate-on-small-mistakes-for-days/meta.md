@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "ADHD & Rumination: The Executive Dysfunction Loop Sabotaging Your Focus (Debug It)"
-description: "Does replaying mistakes feel like a broken record? Skirrow 2020 proves executive dysfunction loop fuels self-criticism. Neuro-Action Checklist."
-slug: "adhd-financial-chaos"
-author: "Madan | QuirkyLabs"
-date: "2025-06-23"
+title: "ADHD & Mistake Rumination: Your Brain’s RSD Hypervigilance (Debug It)"
+description: "Does replaying mistakes feel like a broken record? Faraone et al., 2021 proves RSD hypervigilance fuels emotional storms. Neuro-Action Checklist."
+slug: "adhd-emotional-storms-rsd.why-do-i-ruminate-on-small-mistakes-for-days"
+author: "QuirkyLabs"
+date: "2024-10-27"
 type: "page"
-categories: ["Executive Dysfunction", "ADHD Emotional Regulation", "Self-Compassion"]
-tags: ["executive dysfunction loop", "financial avoidance", "shame", "overwhelm", "rumination", "self-criticism"]
-keywords: ["why do ADHDers struggle with rumination", "how to stop ruminating with ADHD", "ADHD rumination shame", "ADHD YNAB setup", "ADHD emotional regulation", "executive dysfunction rumination"]
-og_image: "/og/adhd-financial-chaos-debug.png"
-og_title: "ADHD Rumination: Executive Loop Fix"
-og_description: "Executive loop stuck on mistakes? Neuro-actions to break the rumination cycle."
+categories: ["ADHD Emotional Regulation", "Rejection Sensitivity", "Burnout & Fatigue"]
+tags: ["RSD hypervigilance", "emotional storms", "shame", "rejection sensitivity", "rumination", "emotional overwhelm"]
+keywords: ["why do ADHDers ruminate on mistakes", "how to stop ruminating with ADHD", "ADHD emotional dysregulation", "ADHD mood swings", "ADHD anger management", "RSD coping mechanisms"]
+og_image: "/og/adhd-mistake-rumination-debug.png"
+og_title: "ADHD Rumination: RSD Hypervigilance Fix"
+og_description: "RSD hypervigilance stuck on repeat? Neuro-actions for emotional control."
 ---
 ```

@@ -2,9 +2,9 @@
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "ADHD & Masking Exhaustion: Your Brain’s Executive Dysfunction Loop (Debug It)",
-  "description": "Does pretending to be normal feel like walking on eggshells? Cooper 2020 proves executive dysfunction loop fuels masking. Neuro-Action Checklist.",
-  "image": "https://quirkylabs.com/og/adhd-identity-crisis-late-diagnosis-debug.png",
+  "headline": "ADHD & Identity Crisis: The Executive Dysfunction Loop Sabotaging Your Self-Esteem (Debug It)",
+  "description": "Does pretending to be normal feel like running a marathon? Faraone et al., 2021 proves executive dysfunction blocks authentic self. Neuro-Action Checklist.",
+  "image": "https://quirkylabs.com/og/adhd-identity-crisis-debug.png",
   "author": {
     "@type": "Organization",
     "name": "QuirkyLabs Research Team"
@@ -17,12 +17,12 @@
       "url": "https://quirkylabs.com/logo.png"
     }
   },
-  "datePublished": "2025-06-23",
-  "dateModified": "2025-06-23",
+  "datePublished": "2024-10-27",
+  "dateModified": "2024-10-27",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://quirkylabs.com/adhd-identity-crisis-late-diagnosis"
+    "@id": "https://quirkylabs.com/adhd-identity-crisis-late-diagnosis.why-is-pretending-to-be-normal-so-exhausting"
   },
-   "keywords": "why do ADHDers mask, how to unmask with ADHD, ADHD masking exhaustion symptoms, ADHD self-compassion, ADHD burnout help, executive dysfunction masking"
+   "keywords": "why do ADHDers struggle with identity, how to unmask with ADHD, ADHD identity crisis, executive dysfunction self-blame cycle, adult ADHD emotional impact, neurodivergent identity"
 }
 ```

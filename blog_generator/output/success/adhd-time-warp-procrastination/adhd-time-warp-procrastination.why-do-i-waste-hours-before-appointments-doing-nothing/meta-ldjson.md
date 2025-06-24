@@ -2,12 +2,12 @@
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "ADHD & Waiting Mode: Your Brain’s Executive Dysfunction Loop (Debug It)",
-  "description": "Does time before appointments feel like a digital black hole? Netzer Turgeman 2025 proves executive dysfunction loop blocks action. Neuro-Action Checklist.",
-  "image": "https://quirkylabs.com/og/adhd-waiting-mode-debug.png",
+  "headline": "ADHD & Waiting Mode: The Time Blindness Sabotaging Your Day (Debug It)",
+  "description": "Does waiting for appointments feel like a time warp? Faraone et al., 2021 proves time blindness blocks task initiation. Neuro-Action Checklist.",
+  "image": "https://quirkylabs.com/og/adhd-time-warp-procrastination.why-do-i-waste-hours-before-appointments-doing-nothing-debug.png",
   "author": {
     "@type": "Organization",
-    "name": "QuirkyLabs Research Team"
+    "name": "QuirkyLabs AI"
   },
   "publisher": {
     "@type": "Organization",
@@ -17,12 +17,12 @@
       "url": "https://quirkylabs.com/logo.png"
     }
   },
-  "datePublished": "2025-06-23",
-  "dateModified": "2025-06-23",
+  "datePublished": "2024-10-27",
+  "dateModified": "2024-10-27",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://quirkylabs.com/adhd-waiting-mode"
+    "@id": "https://quirkylabs.com/adhd-time-warp-procrastination.why-do-i-waste-hours-before-appointments-doing-nothing"
   },
-   "keywords": "why do ADHDers struggle with waiting, how to use time with ADHD, ADHD digital distraction, ADHD YNAB setup, ADHD pre-appointment, executive dysfunction waiting"
+  "keywords": "why do ADHDers struggle with time management, how to manage time with ADHD, ADHD time blindness, ADHD dopamine digital traps, adult ADHD challenges, ADHD procrastination"
 }
 ```

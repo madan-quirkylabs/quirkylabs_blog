@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "The Exhausting Truth: Why Digital Overwhelm is Amplified for Your Undiagnosed ADHD Brain (And How to Fight Back)"
-description: "Does tech feel like a sensory assault? Du, Zhao, & Ganti (2025) prove executive dysfunction loop blocks digital focus. Neuro-Action Checklist."
-slug: "adhd-identity-crisis-late-diagnosis"
+title: "ADHD & Life Unlived: Your Dopamine Dip Fueling Grief (Debug It)"
+description: "Does past regret feel like a punch in the gut? Faraone et al., 2021 proves dopamine dip sabotages self-compassion. Get your Neuro-Action Checklist."
+slug: "adhd-identity-crisis-late-diagnosis.why-am-i-grieving-the-life-i-couldve-had-pre-diagnosis"
 author: "Madan | QuirkyLabs"
 date: "2025-06-23"
 type: "page"
-categories: ["ADHD Emotional Regulation", "Neurodivergent Identity", "Self-Compassion"]
-tags: ["executive dysfunction loop", "identity crisis", "shame", "late diagnosis", "self-blame", "grief"]
-keywords: ["why do ADHDers struggle with identity", "how to find yourself with ADHD", "ADHD self-compassion", "ADHD late diagnosis grief", "adhd identity crisis support", "adhd ynab setup"]
-og_image: "/og/adhd-identity-crisis-late-diagnosis-debug.png"
-og_title: "ADHD Identity: Executive Loop Fix"
-og_description: "Executive dysfunction loop in identity? Neuro-actions for self-compassion."
+categories: ["Neurodivergent Identity", "ADHD Diagnosis", "Self-Compassion"]
+tags: ["dopamine dip", "late diagnosis", "grief", "self-blame", "identity crisis", "emotional dysregulation"]
+keywords: ["why do ADHDers grieve after diagnosis", "how to find self-compassion with ADHD", "ADHD identity crisis", "neurodivergent identity", "adult ADHD emotional impact", "dopamine dysregulation identity"]
+og_image: "/og/adhd-life-unlived-debug.png"
+og_title: "ADHD Late Diagnosis: Dopamine & Grief"
+og_description: "Dopamine deserts fueling 'life unlived' grief? Find neuro-actions for self-compassion."
 ---
 ```

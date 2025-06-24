@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "ADHD & Plan Paralysis: Executive Dysfunction Freezes Your Execution (Debug It)"
-description: "Does planning feel like touching a live wire? Cortese 2020 proves executive dysfunction blocks action. Get your Neuro-Action Checklist."
-slug: "adhd-task-paralysis-focus"
+title: "ADHD & Task Paralysis: Your Executive Dysfunction Loop (Debug It)"
+description: "Does planning feel like building a sandcastle that vanishes with the tide? Faraone et al., 2021 proves executive dysfunction loop stalls action. Neuro-Action Checklist."
+slug: "adhd-task-paralysis-focus.why-is-the-gap-between-planning-and-doing-a-canyon"
 author: "Madan | QuirkyLabs"
 date: "2025-06-23"
 type: "page"
 categories: ["Executive Dysfunction", "ADHD Productivity", "ADHD at Work"]
-tags: ["executive dysfunction", "task paralysis", "overwhelm", "procrastination", "planning", "intention-action gap"]
-keywords: ["why do ADHDers struggle with execution", "how to start tasks with ADHD", "ADHD task paralysis", "ADHD YNAB setup", "ADHD planning overwhelm", "executive dysfunction loop"]
-og_image: "/og/adhd-task-paralysis-focus-debug.png"
-og_title: "ADHD Plan Paralysis: Executive Dysfunction Fix"
-og_description: "Executive dysfunction blocking action? Neuro-actions for task initiation."
+tags: ["executive dysfunction loop", "task paralysis", "overwhelm", "dopamine", "procrastination", "focus"]
+keywords: ["why do ADHDers struggle with tasks", "how to start tasks with ADHD", "ADHD task paralysis", "ADHD focus apps", "ADHD digital distraction", "executive function online overload"]
+og_image: "/og/adhd-task-paralysis-debug.png"
+og_title: "ADHD Task Paralysis: Executive Loop Fix"
+og_description: "Executive dysfunction blocking tasks? Neuro-actions for getting unstuck."
 ---
 ```

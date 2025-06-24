@@ -2,9 +2,9 @@
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "ADHD & Involuntary Ghosting: Your Brain's Executive Dysfunction Loop (Debug It)",
-  "description": "Does ignoring texts feel like you're trapped in quicksand? Faraone et al., 2021 proves executive dysfunction loop fuels avoidance. Neuro-Action Checklist.",
-  "image": "https://quirkylabs.com/og/adhd-bill-avoidance-debug.png",
+  "headline": "ADHD & Text Ghosting: Your Brain’s Amygdala Freeze (Debug It)",
+  "description": "Does seeing a text feel like a looming chore? Faraone et al., 2021 proves amygdala freeze blocks replies. Neuro-Action Checklist.",
+  "image": "https://quirkylabs.com/og/adhd-text-ghosting-debug.png",
   "author": {
     "@type": "Organization",
     "name": "QuirkyLabs Research Team"
@@ -21,8 +21,8 @@
   "dateModified": "2025-06-23",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://quirkylabs.com/adhd-financial-chaos"
+    "@id": "https://quirkylabs.com/adhd-love-social-survival.why-do-i-ignore-texts-from-people-i-like"
   },
-   "keywords": "why do ADHDers struggle with texting, how to reply to texts with ADHD, ADHD texting shame, ADHD phone addiction, executive dysfunction texting, ADHD and phone addiction"
+   "keywords": "why do ADHDers ignore texts, how to reply to texts with ADHD, ADHD communication, ADHD social skills, executive function relationship challenges, ADHD relationships"
 }
 ```

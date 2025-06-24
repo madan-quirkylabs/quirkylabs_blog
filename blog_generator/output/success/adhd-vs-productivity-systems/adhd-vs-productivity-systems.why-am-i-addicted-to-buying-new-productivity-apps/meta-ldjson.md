@@ -2,12 +2,12 @@
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "ADHD & App Cycling: The Dopamine Dip Sabotaging Your Focus (Debug It)",
-  "description": "New app shimmer? Faraone et al., 2021 proves dopamine dip blocks consistent use. Neuro-Action Checklist.",
-  "image": "https://quirkylabs.com/og/adhd-app-cycling-debug.png",
+  "headline": "ADHD & Productivity App Addiction: Your Dopamine Dip Sabotages Focus (Debug It)",
+  "description": "Does every new app feel like a shiny toy? Faraone et al., 2021 proves dopamine dip fuels app-cycling. Neuro-Action Checklist.",
+  "image": "https://quirkylabs.com/og/adhd-productivity-app-addiction-debug.png",
   "author": {
     "@type": "Organization",
-    "name": "QuirkyLabs"
+    "name": "QuirkyLabs Research Team"
   },
   "publisher": {
     "@type": "Organization",
@@ -21,8 +21,8 @@
   "dateModified": "2025-06-23",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://quirkylabs.com/adhd-vs-productivity-systems/why-am-i-addicted-to-buying-new-productivity-apps"
+    "@id": "https://quirkylabs.com/adhd-vs-productivity-systems.why-am-i-addicted-to-buying-new-productivity-apps"
   },
-   "keywords": "why do ADHDers struggle with apps, how to focus with ADHD, ADHD app cycling, ADHD YNAB setup, dopamine app, ADHD tool paralysis"
+   "keywords": "why do ADHDers buy so many apps, how to focus with ADHD, ADHD productivity hacks, ADHD and technology, dopamine traps ADHD, digital distraction ADHD"
 }
 ```

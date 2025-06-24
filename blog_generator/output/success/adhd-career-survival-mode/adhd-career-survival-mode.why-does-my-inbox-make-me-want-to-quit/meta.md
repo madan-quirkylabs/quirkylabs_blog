@@ -1,16 +1,18 @@
+Executive dysfunction loop aligns best with the description of sensory overload, decision fatigue, and task initiation challenges.
+
 ```markdown
 ---
-title: "ADHD & Email Overload: Your Brain’s Attention Tunneling (Debug It)"
-description: "Does your inbox feel like a bottomless pit? Faraone et al., 2021 proves attention tunneling blocks inbox zero. Neuro-Action Checklist."
-slug: "adhd-career-survival-mode"
-author: "QuirkyLabs AI"
-date: "2024-11-02"
+title: "ADHD & Inbox Overload: The Executive Dysfunction Loop Sabotaging Your Career (Debug It)"
+description: "Does opening your inbox feel like wading through treacle? Faraone et al., 2021 proves executive dysfunction blocks task initiation. Neuro-Action Checklist."
+slug: "adhd-career-survival-mode.why-does-my-inbox-make-me-want-to-quit"
+author: "Madan | QuirkyLabs"
+date: "2025-06-23"
 type: "page"
 categories: ["ADHD at Work", "Executive Dysfunction", "ADHD Productivity"]
-tags: ["attention tunneling", "email overload", "overwhelm", "sensory overload", "task paralysis", "career"]
-keywords: ["why do ADHDers struggle with email", "how to manage email with ADHD", "ADHD inbox zero", "ADHD email filters", "email anxiety ADHD", "attention tunneling email"]
-og_image: "/og/adhd-email-overload-debug.png"
-og_title: "ADHD Email Overload: Attention Tunneling Fix"
-og_description: "Attention tunneling blocking inbox zero? Neuro-actions for email sanity."
+tags: ["executive dysfunction loop", "inbox overwhelm", "anxiety", "sensory overload", "task paralysis", "career struggles"]
+keywords: ["why do ADHDers struggle with email", "how to manage email with ADHD", "ADHD executive dysfunction work", "ADHD career", "ADHD work productivity", "ADHD job struggles"]
+og_image: "/og/adhd-inbox-overload-debug.png"
+og_title: "ADHD Inbox Overload: Executive Loop Fix"
+og_description: "Executive dysfunction blocking inbox zero? Neuro-actions for digital calm."
 ---
 ```

@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "ADHD & Walking Symptom: Your RSD Hypervigilance in Overdrive"
-description: "Like a raw nerve? Bramer 2016 proves RSD hypervigilance fuels symptom-identity. Neuro-Action Checklist."
-slug: "adhd-identity-crisis-late-diagnosis"
-author: "Madan | QuirkyLabs"
-date: "2025-06-23"
+title: "ADHD & 'Walking Symptom' Feeling: Executive Dysfunction Loop Sabotaging Your Self-Worth (Debug It)"
+description: "Does feeling like a broken record player sound familiar? Faraone et al., 2021 proves executive dysfunction blocks self-compassion. Neuro-Action Checklist."
+slug: "adhd-identity-crisis-late-diagnosis.why-do-i-feel-like-a-walking-symptom-not-a-person"
+author: "QuirkyLabs"
+date: "2024-11-06"
 type: "page"
-categories: ["ADHD Emotional Regulation", "Neurodivergent Identity", "Self-Compassion"]
-tags: ["RSD hypervigilance", "identity crisis", "shame", "self-blame", "late diagnosis", "neurodivergent"]
-keywords: ["why do ADHDers struggle with identity", "how to accept ADHD diagnosis", "ADHD identity shame", "ADHD YNAB setup", "neurodivergent self-compassion", "RSD hypervigilance identity"]
-og_image: "/og/adhd-identity-crisis-late-diagnosis-debug.png"
-og_title: "ADHD Identity: RSD Hypervigilance Fix"
-og_description: "RSD hypervigilance fuels the feeling of being 'just symptoms'? Neuro-actions reclaim your identity."
+categories: ["Neurodivergent Identity", "ADHD Diagnosis", "Self-Compassion"]
+tags: ["executive dysfunction loop", "identity crisis", "shame", "late diagnosis", "self-blame", "emotional dysregulation"]
+keywords: ["why do ADHDers feel like walking symptoms", "how to integrate ADHD identity", "ADHD identity crisis", "ADHD self-blame", "adult ADHD emotional impact", "neuro-affirming identity integration"]
+og_image: "/og/adhd-identity-crisis-debug.png"
+og_title: "ADHD Identity Crisis: Executive Function Fix"
+og_description: "Executive dysfunction blocking self-worth? Neuro-actions for identity integration."
 ---
 ```

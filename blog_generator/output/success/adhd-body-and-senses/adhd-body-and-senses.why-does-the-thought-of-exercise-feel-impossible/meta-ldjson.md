@@ -2,9 +2,9 @@
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "ADHD & Exercise Dread: Your Dopamine Dip Sabotaging Workouts (Debug It)",
-  "description": "Does thinking about exercise feel like touching a hot stove? Volkow 2009 proves dopamine dip blocks action. Neuro-Action Checklist.",
-  "image": "https://quirkylabs.com/og/adhd-exercise-dread-debug.png",
+  "headline": "ADHD & Exercise Paralysis: Executive Dysfunction Loop Sabotaging Your Fitness (Debug It)",
+  "description": "Does the thought of exercise feel impossible? Faraone et al., 2021, proves executive dysfunction loop blocks action. Neuro-Action Checklist.",
+  "image": "https://quirkylabs.com/og/adhd-exercise-paralysis-debug.png",
   "author": {
     "@type": "Organization",
     "name": "QuirkyLabs Research Team"
@@ -17,12 +17,12 @@
       "url": "https://quirkylabs.com/logo.png"
     }
   },
-  "datePublished": "2025-06-23",
-  "dateModified": "2025-06-23",
+  "datePublished": "2024-10-27",
+  "dateModified": "2024-10-27",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://quirkylabs.com/adhd-exercise-dread"
+    "@id": "https://quirkylabs.com/adhd-body-and-senses.why-does-the-thought-of-exercise-feel-impossible"
   },
- "keywords": "why do ADHDers struggle with exercise, how to start exercising with ADHD, ADHD exercise shame, ADHD YNAB setup, exercise trauma ADHD, dopamine dip workout"
+   "keywords": "why do ADHDers struggle with exercise, how to exercise with ADHD, ADHD exercise shame, ADHD exercise routine, digital dopamine traps ADHD, ADHD self-care"
 }
 ```

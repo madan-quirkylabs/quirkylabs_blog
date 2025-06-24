@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "ADHD & Medical Bill Avoidance: Amygdala Freeze Sabotaging Your Health (Debug It)"
-description: "Does opening bills feel like touching a hot stove? Knouse 2016 proves amygdala freeze blocks action. Get your Neuro-Action Checklist."
-slug: "adhd-financial-chaos"
-author: "Madan | QuirkyLabs"
-date: "2025-06-23"
+title: "ADHD & Ignoring Medical Bills: Your Executive Dysfunction Loop (Debug It)"
+description: "Does opening medical bills feel like facing a firing squad? Faraone et al., 2021 proves executive dysfunction blocks payment. Neuro-Action Checklist."
+slug: "adhd-financial-chaos-tax.why-do-i-ignore-medical-bills-until-they-go-to-collections"
+author: "QuirkyLabs"
+date: "2024-11-02"
 type: "page"
 categories: ["ADHD and Money", "Executive Dysfunction", "Financial Avoidance"]
-tags: ["amygdala freeze", "financial avoidance", "shame", "medical bills", "collections", "adulting"]
-keywords: ["why do ADHDers struggle with bills", "how to pay bills with ADHD", "ADHD money shame", "ADHD YNAB setup", "financial trauma ADHD", "amygdala freeze money"]
+tags: ["executive dysfunction loop", "financial avoidance", "overwhelm", "time blindness", "bill paralysis", "medical debt"]
+keywords: ["why do ADHDers struggle with medical bills", "how to pay bills with ADHD", "ADHD medical debt shame", "ADHD budgeting", "adult ADHD finance", "ADHD time blindness late payment anxiety"]
 og_image: "/og/adhd-bill-avoidance-debug.png"
-og_title: "ADHD Bill Avoidance: Amygdala Freeze Fix"
-og_description: "Amygdala freeze blocking bills? Neuro-actions for financial safety."
+og_title: "ADHD Medical Bills: Executive Function Fix"
+og_description: "Executive dysfunction loop blocking bill payment? Neuro-actions for financial safety."
 ---
 ```

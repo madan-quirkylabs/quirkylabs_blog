@@ -2,9 +2,9 @@
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "ADHD & Sensory Overload: Your Brain’s Amygdala Freeze (Debug It)",
-  "description": "Grocery store feel like touching a hot stove? Bijlenga 2017 proves amygdala freeze causes shutdown. Neuro-Action Checklist.",
-  "image": "https://quirkylabs.com/og/adhd-sensory-overload-debug.png",
+  "headline": "ADHD & Sensory Assault: The Executive Dysfunction Loop Sabotaging Your Self-Care (Debug It)",
+  "description": "Does the grocery store feel like a sonic boom? Faraone et al., 2021 proves executive dysfunction blocks self-care. Neuro-Action Checklist.",
+  "image": "https://quirkylabs.com/og/adhd-sensory-assault-debug.png",
   "author": {
     "@type": "Organization",
     "name": "QuirkyLabs Research Team"
@@ -21,8 +21,8 @@
   "dateModified": "2025-06-23",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://quirkylabs.com/adhd-sensory-overload"
+    "@id": "https://quirkylabs.com/adhd-body-and-senses.why-does-a-trip-to-the-grocery-store-feel-like-a-sensory-assault"
   },
-   "keywords": "why do ADHDers struggle with sensory overload, how to cope with sensory overload with ADHD, ADHD sensory YNAB setup, sensory hell ADHD, ADHD sensory processing disorder, amygdala freeze sensory overload"
+   "keywords": "why do ADHDers struggle with self-care, how to grocery shop with ADHD, ADHD sensory overwhelm, ADHD self-care, executive dysfunction hygiene hacks, ADHD nutrition"
 }
 ```

@@ -2,8 +2,8 @@
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "ADHD & Late Fees: Your Brain’s Time Blindness (Debug It)",
-  "description": "Does a final notice feel like a punch in the gut? Toplak 2017 proves time blindness causes missed payments. Grab our Neuro-Action Checklist.",
+  "headline": "ADHD & Late Fees: The Executive Dysfunction Loop Sabotaging Your Finances (Debug It)",
+  "description": "Does that late fee sting? Faraone et al., 2021 proves executive dysfunction blocks bill payment. Neuro-Action Checklist.",
   "image": "https://quirkylabs.com/og/adhd-bill-avoidance-debug.png",
   "author": {
     "@type": "Organization",
@@ -17,12 +17,12 @@
       "url": "https://quirkylabs.com/logo.png"
     }
   },
-  "datePublished": "2025-06-23",
-  "dateModified": "2025-06-23",
+  "datePublished": "2024-11-09",
+  "dateModified": "2024-11-09",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://quirkylabs.com/adhd-financial-chaos"
+    "@id": "https://quirkylabs.com/adhd-financial-chaos-tax.how-do-i-escape-the-adhd-late-fee-doom-loop"
   },
-   "keywords": "why do ADHDers struggle with bills, how to pay bills with ADHD, ADHD money overwhelm, ADHD YNAB setup, financial stress ADHD, time blindness money"
+   "keywords": "why do ADHDers struggle with bills, how to pay bills with ADHD, ADHD YNAB setup, ADHD budgeting, ADHD money problems, executive function financial chaos"
 }
 ```

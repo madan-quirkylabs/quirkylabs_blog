@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "ADHD & Apology Overload: Your Brain’s RSD Hypervigilance (Debug It)"
-description: "Does every interaction feel like walking on eggshells? Faraone et al., 2021 proves RSD hypervigilance fuels compulsive apologizing. Neuro-Action Checklist."
-slug: "adhd-emotional-storms-rsd"
-author: "Madan | QuirkyLabs"
-date: "2025-06-23"
+title: "ADHD & Over-Apologizing: Your Brain’s RSD Hypervigilance (Debug It)"
+description: "Does every interaction feel like walking on eggshells? Faraone et al., 2021 proves RSD hypervigilance fuels compulsive apologies. Neuro-Action Checklist."
+slug: "adhd-emotional-storms-rsd.why-do-i-over-apologize-for-everything"
+author: "QuirkyLabs"
+date: "2024-10-27"
 type: "page"
 categories: ["ADHD Emotional Regulation", "Rejection Sensitivity", "Self-Compassion"]
-tags: ["RSD hypervigilance", "apology overload", "shame", "rejection sensitivity", "compulsive apologizing", "emotional storms"]
-keywords: ["why do ADHDers over-apologize", "how to stop over-apologizing with ADHD", "ADHD apology compulsion", "ADHD RSD coping mechanisms", "emotional regulation ADHD", "RSD hypervigilance relationships"]
-og_image: "/og/adhd-apology-overload-debug.png"
-og_title: "ADHD: Stop Apologizing! RSD Hypervigilance Fix"
-og_description: "RSD hypervigilance causing constant apologies? Neuro-actions for emotional safety."
+tags: ["RSD hypervigilance", "over-apologizing", "shame", "rejection sensitivity", "emotional overwhelm", "ADHD mood swings"]
+keywords: ["why do ADHDers over-apologize", "how to stop over-apologizing with ADHD", "ADHD emotional dysregulation", "ADHD anger management", "rejection sensitive dysphoria test", "ADHD emotional regulation"]
+og_image: "/og/adhd-over-apologizing-debug.png"
+og_title: "ADHD Over-Apologizing: RSD Hypervigilance Fix"
+og_description: "RSD hypervigilance driving apologies? Neuro-actions for emotional safety."
 ---
 ```

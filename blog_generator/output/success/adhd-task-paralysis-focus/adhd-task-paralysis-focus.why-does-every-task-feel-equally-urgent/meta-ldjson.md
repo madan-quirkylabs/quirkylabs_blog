@@ -2,9 +2,9 @@
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "ADHD & Priority Collapse: Your Brain's Time Blindness (Debug It)",
-  "description": "Does prioritizing tasks feel like touching a hot stove? Pollak 2017 proves time blindness blocks action. Grab your Neuro-Action Checklist.",
-  "image": "https://quirkylabs.com/og/adhd-task-paralysis-focus-debug.png",
+  "headline": "ADHD & Task Paralysis: The Executive Dysfunction Loop Sabotaging Your Focus (Debug It)",
+  "description": "Does your to-do list feel like a screaming match? Faraone et al., 2021 proves executive dysfunction blocks prioritization. Neuro-Action Checklist.",
+  "image": "https://quirkylabs.com/og/adhd-task-paralysis-debug.png",
   "author": {
     "@type": "Organization",
     "name": "QuirkyLabs Research Team"
@@ -21,8 +21,8 @@
   "dateModified": "2025-06-23",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://quirkylabs.com/adhd-task-paralysis-focus"
+    "@id": "https://quirkylabs.com/adhd-task-paralysis-focus.why-does-every-task-feel-equally-urgent"
   },
-   "keywords": "why do ADHDers struggle with priorities, how to prioritize with ADHD, ADHD time blindness, ADHD YNAB setup, time management ADHD, time blindness overwhelm"
+  "keywords": "why do ADHDers struggle with task paralysis, how to prioritize tasks with ADHD, ADHD focus apps, ADHD digital distraction, ADHD tech addiction, ADHD screen time issues"
 }
 ```

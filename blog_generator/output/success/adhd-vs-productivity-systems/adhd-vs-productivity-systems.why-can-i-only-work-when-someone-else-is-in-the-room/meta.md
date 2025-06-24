@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "ADHD & Body Doubling: Your Brain’s Dopamine Dip (Debug It)"
-description: "Does working alone feel like wading through mud? Abu-Rustum 2022 proves dopamine dip blocks solo tasks. Neuro-Action Checklist."
-slug: "adhd-body-doubling"
+title: "ADHD & Body Doubling: Your Brain’s Dopamine Dip Sabotaging Productivity (Debug It)"
+description: "Does working solo feel like wading through molasses? Faraone et al., 2021 proves dopamine dip blocks independent work. Neuro-Action Checklist."
+slug: "adhd-vs-productivity-systems.why-can-i-only-work-when-someone-else-is-in-the-room"
 author: "Madan | QuirkyLabs"
 date: "2025-06-23"
 type: "page"
-categories: ["Executive Dysfunction", "ADHD Productivity", "ADHD at Work"]
-tags: ["dopamine dip", "body doubling", "overwhelm", "task paralysis", "accountability", "executive dysfunction"]
-keywords: ["why do ADHDers struggle to work alone", "how to focus with ADHD", "ADHD body doubling", "ADHD work from home", "ADHD dopamine dip", "ADHD loneliness"]
+categories: ["ADHD Productivity", "Executive Dysfunction", "ADHD at Work"]
+tags: ["dopamine", "productivity systems", "overwhelm", "body doubling", "task paralysis", "accountability"]
+keywords: ["why do ADHDers need body doubling", "how to focus with ADHD alone", "ADHD dopamine traps", "ADHD productivity hacks", "executive function bypass technology", "digital distraction ADHD"]
 og_image: "/og/adhd-body-doubling-debug.png"
-og_title: "ADHD & Body Doubling: Dopamine Dip Fix"
-og_description: "Dopamine deserts blocking solo work? Neuro-actions for focus."
+og_title: "ADHD & Body Doubling: Fix Dopamine Dip"
+og_description: "Dopamine deserts killing solo work? Neuro-actions for focus."
 ---
 ```

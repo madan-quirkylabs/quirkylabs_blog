@@ -2,8 +2,8 @@
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "ADHD & Impulse Spending: Your Brain’s Dopamine Dip (Debug It)",
-  "description": "Does a 'deal' feel like a dopamine rush? Lenzi et al., 2021 proves dopamine dip causes impulse buys. Get your Neuro-Action Checklist.",
+  "headline": "ADHD & Impulse Spending: The Executive Dysfunction Loop Sabotaging Your Finances (Debug It)",
+  "description": "Does that 'add to cart' button feel like a shot of dopamine? Faraone et al., 2021 proves executive dysfunction blocks financial planning. Neuro-Action Checklist.",
   "image": "https://quirkylabs.com/og/adhd-bill-avoidance-debug.png",
   "author": {
     "@type": "Organization",
@@ -21,8 +21,8 @@
   "dateModified": "2025-06-23",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://quirkylabs.com/adhd-financial-chaos"
+    "@id": "https://quirkylabs.com/adhd-financial-chaos-tax.why-cant-i-stop-impulse-spending"
   },
-   "keywords": "why do ADHDers struggle with money, how to budget with ADHD, ADHD money shame, ADHD YNAB setup, financial impulsivity ADHD, ADHD dopamine dip spending"
+   "keywords": "why do ADHDers struggle with impulse spending, how to stop impulse spending with ADHD, ADHD money shame, ADHD budgeting, ADHD financial management, executive function financial chaos"
 }
 ```

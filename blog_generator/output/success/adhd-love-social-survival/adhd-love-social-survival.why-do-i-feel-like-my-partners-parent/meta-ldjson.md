@@ -2,9 +2,9 @@
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "ADHD & Parent-Child Dynamic: Your Brain's Executive Dysfunction Loop (Debug It)",
-  "description": "Does your relationship feel like a chore? Miller 2019 proves executive dysfunction loop strains partnerships. Neuro-Action Checklist!",
-  "image": "https://quirkylabs.com/og/adhd-bill-avoidance-debug.png",
+  "headline": "ADHD & Relationship Burnout: Your Brain’s Amygdala Freeze (Debug It)",
+  "description": "Does your partner feel like your parent? Faraone et al., 2021 proves amygdala freeze blocks equal partnership. Neuro-Action Checklist.",
+  "image": "https://quirkylabs.com/og/adhd-relationship-burnout-debug.png",
   "author": {
     "@type": "Organization",
     "name": "QuirkyLabs Research Team"
@@ -21,8 +21,8 @@
   "dateModified": "2025-06-23",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://quirkylabs.com/adhd-financial-chaos"
+    "@id": "https://quirkylabs.com/adhd-love-social-survival.why-do-i-feel-like-my-partners-parent"
   },
-   "keywords": "why do ADHDers struggle with chores, how to share responsibilities with ADHD, ADHD relationship help, ADHD couples therapy, executive dysfunction chores, ADHD YNAB setup"
+   "keywords": "why do ADHDers feel parented, how to communicate with ADHD partner, ADHD relationship burnout, ADHD marriage, dopamine dysregulation relationships, ADHD communication"
 }
 ```

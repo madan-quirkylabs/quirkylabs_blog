@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "ADHD & Feeling Like a Symptom: Your Brain's RSD Hypervigilance in Overdrive"
-description: "Does self-perception feel like a broken mirror? Shaw 2014 proves RSD hypervigilance blocks self-compassion. Neuro-Action Checklist."
-slug: "adhd-identity-crisis"
-author: "Madan | QuirkyLabs"
-date: "2025-06-23"
+title: "ADHD & Relationship Amnesia: Your Brain’s Amygdala Freeze (Debug It)"
+description: "Does remembering loved ones feel like navigating a minefield? Faraone et al., 2021 proves amygdala freeze sabotages relationships. Neuro-Action Checklist."
+slug: "adhd-love-social-survival.i-love-them-so-why-do-i-forget-they-exist"
+author: "QuirkyLabs"
+date: "2024-11-06"
 type: "page"
-categories: ["Neurodivergent Identity", "ADHD Emotional Regulation", "Self-Compassion"]
-tags: ["RSD hypervigilance", "identity crisis", "shame", "self-worth", "late diagnosis", "masking"]
-keywords: ["why do ADHDers struggle with identity", "how to build self-esteem with ADHD", "ADHD shame spiral", "ADHD identity integration", "feeling like a symptom ADHD", "ADHD self-compassion"]
-og_image: "/og/adhd-identity-crisis-debug.png"
-og_title: "ADHD Identity: RSD Hypervigilance Fix"
-og_description: "RSD hypervigilance blocking self-love? Neuro-actions for identity safety."
+categories: ["ADHD Relationships", "Executive Dysfunction", "Rejection Sensitivity"]
+tags: ["amygdala freeze", "relationship amnesia", "isolation", "RSD", "emotional dysregulation", "social skills"]
+keywords: ["why do ADHDers forget loved ones", "how to maintain relationships with ADHD", "ADHD relationship amnesia", "ADHD communication", "dopamine dysregulation relationships", "ADHD social skills"]
+og_image: "/og/adhd-relationship-amnesia-debug.png"
+og_title: "ADHD Relationship Amnesia: Amygdala Freeze Fix"
+og_description: "Amygdala freeze affecting relationships? Neuro-actions for connection."
 ---
 ```

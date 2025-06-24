@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "ADHD & Task Avoidance: Your Brain’s Dopamine Dip (Debug It)"
-description: "Bank balance anxiety? Faraone et al., 2021 proves dopamine dip blocks action. Neuro-Action Checklist."
-slug: "adhd-financial-chaos"
+title: "ADHD & 'Am I Lazy?': The Executive Dysfunction Loop Sabotaging Your Self-Worth (Debug It)"
+description: "Does starting tasks feel like wading through mud? Faraone et al., 2021 proves executive dysfunction blocks action. Neuro-Action Checklist."
+slug: "adhd-identity-crisis-late-diagnosis.am-i-lazy-or-is-it-my-adhd"
 author: "Madan | QuirkyLabs"
 date: "2025-06-23"
 type: "page"
-categories: ["ADHD and Money", "Executive Dysfunction", "Financial Avoidance"]
-tags: ["dopamine dip", "financial avoidance", "shame", "overwhelm", "bill paralysis", "procrastination"]
-keywords: ["why do ADHDers struggle with money", "how to manage money with ADHD", "ADHD money shame", "ADHD YNAB setup", "financial anxiety ADHD", "dopamine dip money"]
-og_image: "/og/adhd-financial-chaos-debug.png"
-og_title: "ADHD Money Chaos: Dopamine Dip Fix"
-og_description: "Dopamine deserts blocking your finances? Neuro-actions for financial safety."
+categories: ["Neurodivergent Identity", "ADHD Diagnosis", "Self-Compassion"]
+tags: ["executive dysfunction loop", "late diagnosis", "self-blame", "identity crisis", "imposter syndrome", "adult ADHD"]
+keywords: ["why do ADHDers struggle with motivation", "how to start tasks with ADHD", "ADHD self-blame cycle", "ADHD YNAB setup", "adult ADHD emotional impact", "executive dysfunction identity"]
+og_image: "/og/adhd-identity-crisis-debug.png"
+og_title: "ADHD 'Lazy' Myth: Executive Dysfunction Fix"
+og_description: "Executive dysfunction fueling self-blame? Neuro-actions for self-compassion."
 ---
 ```

@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "ADHD & Emotional Resistance: Your Brain's Amygdala Freeze (Debug It)"
-description: "Does taking out the trash feel like climbing a cliff? Cortese 2020 proves amygdala freeze blocks action. Neuro-Action Checklist."
-slug: "adhd-emotional-resistance"
+title: "ADHD & Task Paralysis: The Executive Dysfunction Loop Sabotaging Your Focus (Debug It)"
+description: "Does answering emails feel like facing a firing squad? Faraone et al., 2021 proves executive dysfunction blocks action. Neuro-Action Checklist."
+slug: "adhd-task-paralysis-focus.why-do-easy-tasks-feel-emotionally-impossible"
 author: "Madan | QuirkyLabs"
 date: "2025-06-23"
 type: "page"
-categories: ["Executive Dysfunction", "ADHD Emotional Regulation", "Self-Compassion"]
-tags: ["amygdala freeze", "emotional resistance", "shame", "task paralysis", "executive dysfunction", "motivation"]
-keywords: ["why do ADHDers struggle with easy tasks", "how to start tasks with ADHD", "ADHD task paralysis", "ADHD YNAB setup", "Wall of Awful ADHD", "amygdala freeze tasks"]
-og_image: "/og/adhd-emotional-resistance-debug.png"
-og_title: "ADHD Task Resistance: Amygdala Freeze Fix"
-og_description: "Amygdala freeze blocking tasks? Neuro-actions for emotional relief."
+categories: ["Executive Dysfunction", "ADHD Productivity", "ADHD Emotional Regulation"]
+tags: ["executive dysfunction loop", "task paralysis", "shame", "RSD", "digital overwhelm", "focus"]
+keywords: ["why do ADHDers struggle with tasks", "how to focus with ADHD", "ADHD digital distraction", "ADHD dopamine digital traps", "ADHD focus apps", "task paralysis ADHD"]
+og_image: "/og/adhd-task-paralysis-debug.png"
+og_title: "ADHD Task Paralysis: Executive Function Fix"
+og_description: "Executive dysfunction blocking easy tasks? Neuro-actions for focus."
 ---
 ```

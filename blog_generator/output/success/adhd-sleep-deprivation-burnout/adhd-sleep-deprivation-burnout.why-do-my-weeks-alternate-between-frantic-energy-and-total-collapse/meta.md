@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "ADHD & Boom-Bust Cycle: Your Dopamine Dip Fuels Burnout (Debug It)"
-description: "Does your energy feel like a rollercoaster? Faraone et al., 2015, proves dopamine dip blocks sustainable effort. Neuro-Action Checklist."
-slug: "adhd-boom-bust-cycle"
-author: "Madan | QuirkyLabs"
-date: "2025-06-23"
+title: "ADHD & Frantic Energy/Total Collapse: Your Dopamine Dip Sabotaging Your Productivity (Debug It)"
+description: "Does your week feel like a rollercoaster? Faraone et al., 2021 proves dopamine dip blocks consistent energy. Neuro-Action Checklist."
+slug: "adhd-sleep-deprivation-burnout.why-do-my-weeks-alternate-between-frantic-energy-and-total-collapse"
+author: "QuirkyLabs"
+date: "2025-10-27"
 type: "page"
-categories: ["Executive Dysfunction", "Burnout & Fatigue", "ADHD Productivity"]
-tags: ["dopamine dip", "boom-bust cycle", "overwhelm", "burnout", "energy crash", "ADHD"]
-keywords: ["why do ADHDers struggle with energy", "how to pace yourself with ADHD", "ADHD boom-bust cycle", "ADHD energy management tools", "ADHD dopamine dip", "ADHD energy crash"]
-og_image: "/og/adhd-boom-bust-cycle-debug.png"
-og_title: "ADHD Boom-Bust: Dopamine Dip Debug"
-og_description: "Dopamine deserts causing boom-bust cycles? Neuro-actions for energy safety."
+categories: ["Executive Dysfunction", "ADHD Productivity", "Burnout & Fatigue"]
+tags: ["dopamine", "sleep deprivation", "shame", "burnout", "exhaustion", "energy dysregulation"]
+keywords: ["why do ADHDers struggle with energy", "how to regulate energy with ADHD", "ADHD chronic fatigue", "ADHD sleep", "ADHD burnout", "dopamine dysregulation sleep ADHD"]
+og_image: "/og/adhd-sleep-deprivation-debug.png"
+og_title: "ADHD Energy Rollercoaster: Dopamine Dip Fix"
+og_description: "Dopamine deserts causing energy crashes? Neuro-actions for consistent drive."
 ---
 ```

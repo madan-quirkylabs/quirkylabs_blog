@@ -2,9 +2,9 @@
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "ADHD & Boom-Buckle-Bust: Your Dopamine Dip Fuels Burnout (Debug It)",
-  "description": "Does your energy feel like a rollercoaster? Russell 2022 proves dopamine dip drives boom-bust cycles. Get a Neuro-Action Checklist.",
-  "image": "https://quirkylabs.com/og/adhd-sleep-deprivation-burnout-cluster-debug.png",
+  "headline": "ADHD & Frantic Energy/Total Collapse: Your Dopamine Dip Sabotaging Your Productivity (Debug It)",
+  "description": "Does your week feel like a rollercoaster? Faraone et al., 2021 proves dopamine dip blocks consistent energy. Neuro-Action Checklist.",
+  "image": "https://quirkylabs.com/og/adhd-sleep-deprivation-debug.png",
   "author": {
     "@type": "Organization",
     "name": "QuirkyLabs Research Team"
@@ -17,12 +17,12 @@
       "url": "https://quirkylabs.com/logo.png"
     }
   },
-  "datePublished": "2025-06-23",
-  "dateModified": "2025-06-23",
+  "datePublished": "2025-10-27",
+  "dateModified": "2025-10-27",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://quirkylabs.com/adhd-sleep-deprivation-burnout-cluster"
+    "@id": "https://quirkylabs.com/adhd-sleep-deprivation-burnout.why-do-my-weeks-alternate-between-frantic-energy-and-total-collapse"
   },
-   "keywords": "why do ADHDers struggle with energy, how to manage burnout with ADHD, ADHD energy crash, ADHD sleep hygiene tips, dopamine dip ADHD, ADHD boom buckle bust cycle"
+   "keywords": "why do ADHDers struggle with energy, how to regulate energy with ADHD, ADHD chronic fatigue, ADHD sleep, ADHD burnout, dopamine dysregulation sleep ADHD"
 }
 ```

@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "ADHD & Sensory Overload: Your Brain’s Attention Tunneling (Debug It)"
-description: "Does walking into a grocery store feel like entering a war zone? Faraone et al., 2021 proves attention tunneling blocks calm self-care. Neuro-Action Checklist."
-slug: "adhd-body-and-senses"
+title: "ADHD & Sensory Assault: The Executive Dysfunction Loop Sabotaging Your Self-Care (Debug It)"
+description: "Does the grocery store feel like a sonic boom? Faraone et al., 2021 proves executive dysfunction blocks self-care. Neuro-Action Checklist."
+slug: "adhd-body-and-senses.why-does-a-trip-to-the-grocery-store-feel-like-a-sensory-assault"
 author: "Madan | QuirkyLabs"
 date: "2025-06-23"
 type: "page"
-categories: ["Sensory Processing", "Executive Dysfunction", "Burnout & Fatigue"]
-tags: ["attention tunneling", "sensory overload", "anxiety", "sensory processing", "executive dysfunction", "self-care"]
-keywords: ["why do ADHDers struggle with sensory overload", "how to cope with sensory overload with ADHD", "ADHD sensory overwhelm", "ADHD earplugs for sensory overload", "sensory processing disorder ADHD", "attention tunneling sensory overload"]
-og_image: "/og/adhd-sensory-overload-debug.png"
-og_title: "ADHD Sensory Overload: Attention Tunneling Fix"
-og_description: "Attention tunneling blocking calm self-care? Neuro-actions for sensory safety."
+categories: ["Executive Dysfunction", "Sensory Processing", "ADHD Hygiene"]
+tags: ["executive dysfunction loop", "sensory overload", "shame", "overwhelm", "self-care paralysis", "sensory assault"]
+keywords: ["why do ADHDers struggle with self-care", "how to grocery shop with ADHD", "ADHD sensory overwhelm", "ADHD self-care", "executive dysfunction hygiene hacks", "ADHD nutrition"]
+og_image: "/og/adhd-sensory-assault-debug.png"
+og_title: "ADHD Sensory Overload: Executive Loop Fix"
+og_description: "Executive dysfunction blocking self-care? Neuro-actions for sensory safety."
 ---
 ```

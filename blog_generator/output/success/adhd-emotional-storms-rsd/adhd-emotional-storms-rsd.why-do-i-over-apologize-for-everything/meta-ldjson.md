@@ -2,9 +2,9 @@
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "ADHD & Compulsive Apologies: Your Brain’s RSD Hypervigilance (Debug It)",
-  "description": "Does every perceived slight feel like a personal attack? Dodson 2019 proves RSD hypervigilance fuels over-apologizing. Neuro-Action Checklist.",
-  "image": "https://quirkylabs.com/og/adhd-compulsive-apologies-debug.png",
+  "headline": "ADHD & Over-Apologizing: Your Brain’s RSD Hypervigilance (Debug It)",
+  "description": "Does every interaction feel like walking on eggshells? Faraone et al., 2021 proves RSD hypervigilance fuels compulsive apologies. Neuro-Action Checklist.",
+  "image": "https://quirkylabs.com/og/adhd-over-apologizing-debug.png",
   "author": {
     "@type": "Organization",
     "name": "QuirkyLabs Research Team"
@@ -17,12 +17,12 @@
       "url": "https://quirkylabs.com/logo.png"
     }
   },
-  "datePublished": "2025-06-23",
-  "dateModified": "2025-06-23",
+  "datePublished": "2024-10-27",
+  "dateModified": "2024-10-27",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://quirkylabs.com/adhd-compulsive-apologies"
+    "@id": "https://quirkylabs.com/adhd-emotional-storms-rsd.why-do-i-over-apologize-for-everything"
   },
-   "keywords": "why do ADHDers over-apologize, how to stop apologizing with ADHD, ADHD apology habit, ADHD RSD relationships, compulsive apologizing, RSD hypervigilance solutions"
+   "keywords": "why do ADHDers over-apologize, how to stop over-apologizing with ADHD, ADHD emotional dysregulation, ADHD anger management, rejection sensitive dysphoria test, ADHD emotional regulation"
 }
 ```

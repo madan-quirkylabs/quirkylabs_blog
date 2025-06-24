@@ -2,9 +2,9 @@
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "ADHD & Revenge Bedtime Procrastination: Dopamine Dip Fuels Sleep Delay (Debug It)",
-  "description": "Does late-night scrolling feel like the only 'you' time? Ma 2020 proves dopamine dip blocks sleep. Neuro-Action Checklist.",
-  "image": "https://quirkylabs.com/og/adhd-sleep-deprivation-burnout-debug.png",
+  "headline": "ADHD & Sleep Deprivation: Your Brain’s Dopamine Dip Sabotaging Your Recharge (Debug It)",
+  "description": "Does bedtime feel like a battle? Faraone et al., 2021 proves dopamine dip blocks rest. Neuro-Action Checklist.",
+  "image": "https://quirkylabs.com/og/adhd-sleep-deprivation-debug.png",
   "author": {
     "@type": "Organization",
     "name": "QuirkyLabs Research Team"
@@ -17,12 +17,12 @@
       "url": "https://quirkylabs.com/logo.png"
     }
   },
-  "datePublished": "2025-06-23",
-  "dateModified": "2025-06-23",
+  "datePublished": "2024-11-02",
+  "dateModified": "2024-11-02",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://quirkylabs.com/adhd-sleep-deprivation-burnout-cluster"
+    "@id": "https://quirkylabs.com/adhd-sleep-deprivation-burnout.why-do-i-sacrifice-sleep-for-a-few-hours-of-me-time"
   },
-   "keywords": "why do ADHDers delay sleep, how to stop bedtime procrastination with ADHD, ADHD sleep deficit, ADHD digital habits, ADHD me time sleep, ADHD YNAB setup"
+   "keywords": "why do ADHDers sacrifice sleep, how to sleep better with ADHD, ADHD sleep, ADHD burnout, ADHD exhaustion, ADHD chronic fatigue"
 }
 ```

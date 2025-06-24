@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "ADHD & Breakups: Your Brain’s RSD Hypervigilance (Debug It)"
-description: "Does every breakup feel like touching a live wire? Kross 2011 proves RSD hypervigilance amplifies pain. Get the Neuro-Action Checklist."
-slug: "adhd-financial-chaos"
+title: "ADHD & Breakup Pain: Your Brain’s RSD Hypervigilance (Debug It)"
+description: "Does every text feel like a referendum on your worth? Faraone et al., 2021 proves RSD hypervigilance amplifies rejection. Neuro-Action Checklist."
+slug: "adhd-love-social-survival.why-does-this-breakup-feel-like-the-end-of-the-world"
 author: "Madan | QuirkyLabs"
 date: "2025-06-23"
 type: "page"
 categories: ["ADHD Emotional Regulation", "ADHD Relationships", "Rejection Sensitivity"]
-tags: ["RSD hypervigilance", "financial chaos", "overwhelm", "breakup", "trauma", "emotional dysregulation"]
-keywords: ["why do ADHDers struggle with breakups", "how to heal from breakup with ADHD", "ADHD relationship problems", "ADHD RSD breakup", "breakup trauma ADHD", "ADHD YNAB setup"]
-og_image: "/og/adhd-financial-chaos-debug.png"
+tags: ["RSD hypervigilance", "breakup pain", "overwhelm", "emotional dysregulation", "rejection", "relationships"]
+keywords: ["why do ADHD breakups feel so intense", "how to cope with breakup RSD", "ADHD relationship pain", "ADHD social skills", "amygdala response RSD", "dopamine dysregulation relationships"]
+og_image: "/og/adhd-breakup-pain-debug.png"
 og_title: "ADHD Breakup: RSD Hypervigilance Fix"
-og_description: "RSD hypervigilance after a breakup? Neuro-actions for relationship safety."
+og_description: "RSD hypervigilance after breakup? Neuro-actions for emotional survival."
 ---
 ```

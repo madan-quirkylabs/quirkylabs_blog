@@ -532,6 +532,7 @@ def write_meta_to_file(pillar_slug, spoke_slug, meta_markdown):
 
 def meta_ldjson_file_exists(pillar_slug, spoke_slug):
     out_path = os.path.join(OUTPUT_ROOT, pillar_slug, spoke_slug, "meta-ldjson.md")
+    return False
     return os.path.exists(out_path)
 
 
@@ -674,7 +675,7 @@ if __name__ == "__main__":
             meta_skipped += 1
             continue
         try:
-            meta_prompt = generate_meta_prompt(entry["pillar_metadata_json"], entry["spoke_metadata_json"])
+            meta_prompt = generate_meta_prompt(entry["pillar_metadata_json"], entry["spoke_metadata_json"], entry['spoke_slug'])
             messages = [
                 {"role": "system", "content": "You are an ADHD SEO meta expert. Output only the meta markdown section."},
                 {"role": "user", "content": meta_prompt}

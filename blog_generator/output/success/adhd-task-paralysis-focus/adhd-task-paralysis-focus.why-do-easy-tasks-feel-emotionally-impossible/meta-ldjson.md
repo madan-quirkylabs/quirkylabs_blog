@@ -2,9 +2,9 @@
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "ADHD & Emotional Resistance: Your Amygdala Freeze (Debug It)",
-  "description": "Does taking out the trash feel like touching a hot stove? Cortese 2020 proves amygdala freeze blocks action. Neuro-Action Checklist.",
-  "image": "https://quirkylabs.com/og/adhd-task-paralysis-focus-debug.png",
+  "headline": "ADHD & Task Paralysis: The Executive Dysfunction Loop Sabotaging Your Focus (Debug It)",
+  "description": "Does answering emails feel like facing a firing squad? Faraone et al., 2021 proves executive dysfunction blocks action. Neuro-Action Checklist.",
+  "image": "https://quirkylabs.com/og/adhd-task-paralysis-debug.png",
   "author": {
     "@type": "Organization",
     "name": "QuirkyLabs Research Team"
@@ -21,8 +21,8 @@
   "dateModified": "2025-06-23",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://quirkylabs.com/adhd-task-paralysis-focus"
+    "@id": "https://quirkylabs.com/adhd-task-paralysis-focus.why-do-easy-tasks-feel-emotionally-impossible"
   },
-   "keywords": "why do ADHDers struggle with tasks, how to start tasks with ADHD, ADHD executive dysfunction loop, ADHD paralysis simple tasks reddit, emotional trauma ADHD, ADHD YNAB setup"
+   "keywords": "why do ADHDers struggle with tasks, how to focus with ADHD, ADHD digital distraction, ADHD dopamine digital traps, ADHD focus apps, task paralysis ADHD"
 }
 ```

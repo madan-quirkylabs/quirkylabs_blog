@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "ADHD & Morning Dread: The Dopamine Dip Sabotaging Your Wake-Up (Debug It)"
-description: "Does waking up feel like running through molasses? Faraone et al., 2015 proves dopamine dip blocks morning routines. Neuro-Action Checklist."
-slug: "adhd-sleep-deprivation-burnout"
-author: "Madan | QuirkyLabs"
-date: "2025-06-23"
+title: "ADHD & Morning Dread: Your Brain’s Dopamine Dip Sabotaging Your Day (Debug It)"
+description: "Does waking up feel like wading through concrete? Faraone et al., 2021 proves dopamine dip disrupts sleep cycles. Neuro-Action Checklist."
+slug: "adhd-sleep-deprivation-burnout.why-is-waking-up-in-the-morning-physically-painful"
+author: "QuirkyLabs"
+date: "2024-10-27"
 type: "page"
-categories: ["ADHD Emotional Regulation", "Executive Dysfunction", "Burnout & Fatigue"]
-tags: ["dopamine", "burnout", "overwhelm", "sleep deprivation", "exhaustion", "time blindness"]
-keywords: ["why do ADHDers struggle with mornings", "how to wake up with ADHD", "ADHD morning dread", "ADHD fatigue solutions", "ADHD sleep schedule", "ADHD YNAB setup"]
-og_image: "/og/adhd-sleep-deprivation-burnout-debug.png"
+categories: ["Executive Dysfunction", "Burnout & Fatigue", "ADHD Productivity"]
+tags: ["dopamine dip", "sleep deprivation", "exhaustion", "burnout", "morning dread", "chronic fatigue"]
+keywords: ["why do ADHDers struggle with waking up", "how to improve sleep with ADHD", "ADHD sleep inertia", "ADHD sleep schedule", "ADHD chronic fatigue", "dopamine dysregulation sleep ADHD"]
+og_image: "/og/adhd-sleep-deprivation-debug.png"
 og_title: "ADHD Morning Dread: Dopamine Dip Fix"
-og_description: "Dopamine deserts in the a.m.? Neuro-actions for morning focus."
+og_description: "Dopamine deserts killing your mornings? Neuro-actions for energized starts."
 ---
 ```

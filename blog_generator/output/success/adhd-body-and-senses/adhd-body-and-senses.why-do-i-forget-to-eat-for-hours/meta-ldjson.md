@@ -2,8 +2,8 @@
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "ADHD & Forgotten Meals: Your Brain’s Dopamine Dip Sabotaging Focus (Debug It)",
-  "description": "Does forgetting to eat feel like a constant battle? Volkow 2009 proves dopamine dip blocks meal initiation. Neuro-Action Checklist.",
+  "headline": "ADHD & Forgotten Meals: The Executive Dysfunction Loop Sabotaging Your Energy (Debug It)",
+  "description": "Body screaming? Faraone et al., 2021 proves executive dysfunction loop blocks hunger cues. Neuro-Action Checklist.",
   "image": "https://quirkylabs.com/og/adhd-forgotten-meals-debug.png",
   "author": {
     "@type": "Organization",
@@ -17,12 +17,12 @@
       "url": "https://quirkylabs.com/logo.png"
     }
   },
-  "datePublished": "2025-06-23",
-  "dateModified": "2025-06-23",
+  "datePublished": "2025-10-27",
+  "dateModified": "2025-10-27",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://quirkylabs.com/adhd-forgotten-meals"
+    "@id": "https://quirkylabs.com/adhd-body-and-senses.why-do-i-forget-to-eat-for-hours"
   },
-   "keywords": "why do ADHDers struggle with eating, how to remember to eat with ADHD, ADHD nutrition tips, ADHD meal planning, ADHD YNAB setup, ADHD interoception hunger"
+   "keywords": "why do ADHDers forget to eat, how to remember to eat with ADHD, ADHD meal reminders, digital dopamine traps ADHD, ADHD nutrition, interoception ADHD hunger cues"
 }
 ```

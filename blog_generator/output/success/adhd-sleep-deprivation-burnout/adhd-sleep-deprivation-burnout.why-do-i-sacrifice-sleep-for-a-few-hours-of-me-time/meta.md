@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "ADHD & Revenge Bedtime Procrastination: Your Dopamine Dip Sabotaging Your Sleep (Debug It)"
-description: "Does scrolling at night feel like a reward? Ma 2020 proves dopamine dip fuels revenge bedtime procrastination. Neuro-Action Checklist."
-slug: "adhd-revenge-bedtime-procrastination"
-author: "Madan | QuirkyLabs"
-date: "2025-06-23"
+title: "ADHD & Sleep Deprivation: Your Brain’s Dopamine Dip Sabotaging Your Recharge (Debug It)"
+description: "Does bedtime feel like a battle? Faraone et al., 2021 proves dopamine dip blocks rest. Neuro-Action Checklist."
+slug: "adhd-sleep-deprivation-burnout.why-do-i-sacrifice-sleep-for-a-few-hours-of-me-time"
+author: "QuirkyLabs"
+date: "2024-11-02"
 type: "page"
 categories: ["Executive Dysfunction", "ADHD Productivity", "Burnout & Fatigue"]
-tags: ["dopamine", "revenge bedtime procrastination", "overwhelm", "sleep deprivation", "autonomy", "digital addiction"]
-keywords: ["why do ADHDers struggle with sleep", "how to stop revenge bedtime procrastination with ADHD", "ADHD bedtime routine", "ADHD YNAB setup", "ADHD sleep deprivation burnout", "dopamine dip sleep"]
-og_image: "/og/adhd-revenge-bedtime-procrastination-debug.png"
-og_title: "ADHD Bedtime Procrastination: Dopamine Fix"
-og_description: "Dopamine deserts driving late nights? Neuro-actions for sleep success."
+tags: ["dopamine dip", "sleep deprivation", "exhaustion", "burnout", "reclaim time", "revenge bedtime procrastination"]
+keywords: ["why do ADHDers sacrifice sleep", "how to sleep better with ADHD", "ADHD sleep", "ADHD burnout", "ADHD exhaustion", "ADHD chronic fatigue"]
+og_image: "/og/adhd-sleep-deprivation-debug.png"
+og_title: "ADHD Sleep Debt: Dopamine Dip Fix"
+og_description: "Dopamine deserts blocking sleep? Neuro-actions for recharge."
 ---
 ```

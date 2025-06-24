@@ -2,9 +2,9 @@
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "ADHD & 'Walking Symptom' Feels: Your Dopamine Dip Sabotaging Self-Worth (Debug It)",
-  "description": "Does constant self-criticism feel like a broken record? Magdi et al., 2025 proves dopamine dip fuels identity distress. Get your Neuro-Action Checklist.",
-  "image": "https://quirkylabs.com/og/adhd-identity-crisis-debug.png",
+  "headline": "ADHD & Relationship Amnesia: Your Brain’s Amygdala Freeze (Debug It)",
+  "description": "Does remembering loved ones feel like navigating a minefield? Faraone et al., 2021 proves amygdala freeze sabotages relationships. Neuro-Action Checklist.",
+  "image": "https://quirkylabs.com/og/adhd-relationship-amnesia-debug.png",
   "author": {
     "@type": "Organization",
     "name": "QuirkyLabs Research Team"
@@ -17,12 +17,12 @@
       "url": "https://quirkylabs.com/logo.png"
     }
   },
-  "datePublished": "2025-06-23",
-  "dateModified": "2025-06-23",
+  "datePublished": "2024-11-06",
+  "dateModified": "2024-11-06",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://quirkylabs.com/adhd-identity-crisis"
+    "@id": "https://quirkylabs.com/adhd-love-social-survival.i-love-them-so-why-do-i-forget-they-exist"
   },
-   "keywords": "why do ADHDers struggle with self-worth, how to build self-esteem with ADHD, ADHD identity shame, ADHD self-acceptance, ADHD symptom fatigue, ADHD YNAB setup"
+   "keywords": "why do ADHDers forget loved ones, how to maintain relationships with ADHD, ADHD relationship amnesia, ADHD communication, dopamine dysregulation relationships, ADHD social skills"
 }
 ```

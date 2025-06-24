@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "ADHD & Parent-Child Dynamic: Your Brain’s Executive Dysfunction Loop (Debug It)"
-description: "Does your love life feel like a chore chart? Miller 2019 proves executive dysfunction loop kills equality. Neuro-Action Checklist."
-slug: "adhd-financial-chaos"
+title: "ADHD & Relationship Burnout: Your Brain’s Amygdala Freeze (Debug It)"
+description: "Does your partner feel like your parent? Faraone et al., 2021 proves amygdala freeze blocks equal partnership. Neuro-Action Checklist."
+slug: "adhd-love-social-survival.why-do-i-feel-like-my-partners-parent"
 author: "Madan | QuirkyLabs"
 date: "2025-06-23"
 type: "page"
-categories: ["ADHD Relationships", "Executive Dysfunction", "Attachment Patterns"]
-tags: ["executive dysfunction loop", "parent-child dynamic", "resentment", "burnout", "relationship imbalance", "adulting"]
-keywords: ["why do ADHDers struggle with chores", "how to share chores with ADHD", "ADHD relationship burnout", "ADHD equality in marriage", "executive dysfunction chores", "ADHD chore system"]
-og_image: "/og/adhd-financial-chaos-debug.png"
-og_title: "ADHD Relationship: Executive Dysfunction Loop Fix"
-og_description: "Executive dysfunction loop ruining your relationship? Neuro-actions for chore harmony."
+categories: ["ADHD Relationships", "Attachment Patterns", "Executive Dysfunction"]
+tags: ["amygdala freeze", "relationship burnout", "overwhelm", "RSD", "communication issues", "emotional dysregulation"]
+keywords: ["why do ADHDers feel parented", "how to communicate with ADHD partner", "ADHD relationship burnout", "ADHD marriage", "dopamine dysregulation relationships", "ADHD communication"]
+og_image: "/og/adhd-relationship-burnout-debug.png"
+og_title: "ADHD & Relationship Burnout: Amygdala Fix"
+og_description: "Amygdala freeze causing relationship burnout? Neuro-actions for partnership equality."
 ---
 ```

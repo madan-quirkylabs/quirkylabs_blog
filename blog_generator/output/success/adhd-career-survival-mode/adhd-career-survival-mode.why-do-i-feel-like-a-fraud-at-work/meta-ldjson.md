@@ -2,9 +2,9 @@
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "ADHD & Imposter Syndrome: Your Brain's RSD Hypervigilance Sabotaging Your Career (Debug It)",
-  "description": "Does work success feel like a fluke? Lenzi et al., 2020 proves RSD hypervigilance fuels 'fraud' feelings. Neuro-Action Checklist.",
-  "image": "https://quirkylabs.com/og/adhd-imposter-syndrome-debug.png",
+  "headline": "ADHD & Feeling Like a Fraud: The Executive Dysfunction Loop Sabotaging Your Career (Debug It)",
+  "description": "Does your workday feel like wading through molasses? Faraone et al., 2021 proves executive dysfunction loop fuels imposter feelings. Neuro-Action Checklist.",
+  "image": "https://quirkylabs.com/og/adhd-feeling-like-a-fraud-debug.png",
   "author": {
     "@type": "Organization",
     "name": "QuirkyLabs Research Team"
@@ -21,8 +21,8 @@
   "dateModified": "2025-06-23",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://quirkylabs.com/adhd-imposter-syndrome"
+    "@id": "https://quirkylabs.com/adhd-career-survival-mode.why-do-i-feel-like-a-fraud-at-work"
   },
-   "keywords": "why do ADHDers struggle with imposter syndrome, how to overcome imposter syndrome with ADHD, ADHD work shame, ADHD career success, imposter syndrome neurodivergent, RSD hypervigilance career"
+   "keywords": "why do ADHDers feel like a fraud, how to succeed at work with ADHD, ADHD work productivity, ADHD job struggles, executive function overload digital ADHD, ADHD career"
 }
 ```

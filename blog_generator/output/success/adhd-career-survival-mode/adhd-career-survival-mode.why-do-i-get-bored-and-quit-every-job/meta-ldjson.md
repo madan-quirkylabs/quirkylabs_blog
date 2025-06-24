@@ -2,9 +2,9 @@
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "ADHD & Job Dissatisfaction: Your Brain's Dopamine Dip (Debug It)",
-  "description": "Does every job feel like climbing a mountain of boredom? Hirvonen 2019 proves dopamine dip fuels job hopping. Neuro-Action Checklist.",
-  "image": "https://quirkylabs.com/og/adhd-job-dissatisfaction-debug.png",
+  "headline": "ADHD & Career Survival Mode: Your Executive Dysfunction Loop Sabotaging Your Job",
+  "description": "Does your career feel like a never-ending hamster wheel? Faraone et al., 2021 proves executive dysfunction loop blocks engagement. Neuro-Action Checklist.",
+  "image": "https://quirkylabs.com/og/adhd-career-survival-mode-debug.png",
   "author": {
     "@type": "Organization",
     "name": "QuirkyLabs Research Team"
@@ -21,8 +21,8 @@
   "dateModified": "2025-06-23",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://quirkylabs.com/adhd-job-dissatisfaction"
+    "@id": "https://quirkylabs.com/adhd-career-survival-mode.why-do-i-get-bored-and-quit-every-job"
   },
-   "keywords": "why do ADHDers struggle with jobs, how to stay engaged with ADHD, ADHD career boredom, ADHD YNAB setup, dopamine burnout ADHD, ADHD job dissatisfaction"
+   "keywords": "why do ADHDers struggle with jobs, how to stay employed with ADHD, ADHD job struggles, ADHD career, executive function overload digital ADHD, ADHD work productivity"
 }
 ```

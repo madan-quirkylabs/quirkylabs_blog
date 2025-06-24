@@ -1,16 +1,18 @@
+The "executive dysfunction loop" best captures the prefrontal cortex impairments described in the context summary.
+
 ```markdown
 ---
-title: "ADHD & Bill Avoidance: Your Brain’s Amygdala Freeze (Debug It)"
-description: "Does checking your bank account feel like touching a hot stove? Suhr 2019 proves amygdala freeze blocks action. Upgrade your Neuro-OS."
-slug: "adhd-financial-chaos"
-author: "Madan | QuirkyLabs"
-date: "2025-06-23"
+title: "ADHD & Late Fees: The Executive Dysfunction Loop Sabotaging Your Finances (Debug It)"
+description: "Does that late fee sting? Faraone et al., 2021 proves executive dysfunction blocks bill payment. Neuro-Action Checklist."
+slug: "adhd-financial-chaos-tax.how-do-i-escape-the-adhd-late-fee-doom-loop"
+author: "QuirkyLabs"
+date: "2024-11-09"
 type: "page"
 categories: ["ADHD and Money", "Executive Dysfunction", "Financial Avoidance"]
-tags: ["amygdala freeze", "financial avoidance", "shame", "overwhelm", "bill paralysis", "ADHD tax"]
-keywords: ["why do ADHDers struggle with bills", "how to pay bills with ADHD", "ADHD money shame", "ADHD YNAB setup", "financial overwhelm ADHD", "amygdala freeze money"]
+tags: ["executive dysfunction loop", "financial avoidance", "overwhelm", "time blindness", "late fees", "ADHD tax"]
+keywords: ["why do ADHDers struggle with bills", "how to pay bills with ADHD", "ADHD YNAB setup", "ADHD budgeting", "ADHD money problems", "executive function financial chaos"]
 og_image: "/og/adhd-bill-avoidance-debug.png"
-og_title: "ADHD Bill Avoidance: Amygdala Freeze Fix"
-og_description: "Amygdala freeze blocking bills? Neuro-actions for financial safety."
+og_title: "ADHD Late Fees: Executive Loop Fix"
+og_description: "Executive dysfunction? Break the ADHD late fee cycle with neuro-actions."
 ---
 ```

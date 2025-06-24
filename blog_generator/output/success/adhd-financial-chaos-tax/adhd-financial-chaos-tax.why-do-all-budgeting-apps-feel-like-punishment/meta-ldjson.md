@@ -2,8 +2,8 @@
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "ADHD & Traditional Budgeting: Your Executive Dysfunction Loop (Debug It)",
-  "description": "Does budgeting feel like navigating a minefield? Suhr 2019 proves executive dysfunction loop blocks financial control. Get Neuro-Action Checklist.",
+  "headline": "ADHD & Tax Season: The Executive Dysfunction Loop Sabotaging Your Finances (Debug It)",
+  "description": "Does tax prep feel like climbing Mount Everest blindfolded? Faraone et al., 2021 proves executive dysfunction blocks financial tasks. Neuro-Action Checklist.",
   "image": "https://quirkylabs.com/og/adhd-bill-avoidance-debug.png",
   "author": {
     "@type": "Organization",
@@ -17,12 +17,12 @@
       "url": "https://quirkylabs.com/logo.png"
     }
   },
-  "datePublished": "2025-06-23",
-  "dateModified": "2025-06-23",
+  "datePublished": "2024-11-02",
+  "dateModified": "2024-11-02",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://quirkylabs.com/adhd-financial-chaos"
+    "@id": "https://quirkylabs.com/adhd-financial-chaos-tax.why-do-all-budgeting-apps-feel-like-punishment"
   },
-   "keywords": "why do ADHDers struggle with budgeting, how to budget with ADHD, ADHD money shame, ADHD YNAB setup, financial chaos ADHD, executive dysfunction loop money"
+  "keywords": "why do ADHDers struggle with taxes, how to file taxes with ADHD, ADHD financial management, ADHD YNAB setup, ADHD money problems, executive function financial chaos"
 }
 ```

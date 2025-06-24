@@ -2,9 +2,9 @@
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "ADHD & Morning Dread: The Dopamine Dip Sabotaging Your Wake-Up (Debug It)",
-  "description": "Does waking up feel like a physical battle? Faraone et al., 2015 proves dopamine dip blocks morning initiation. Get your Neuro-Action Checklist.",
-  "image": "https://quirkylabs.com/og/adhd-morning-dread-debug.png",
+  "headline": "ADHD & Morning Dread: Your Brain’s Dopamine Dip Sabotaging Your Day (Debug It)",
+  "description": "Does waking up feel like wading through concrete? Faraone et al., 2021 proves dopamine dip disrupts sleep cycles. Neuro-Action Checklist.",
+  "image": "https://quirkylabs.com/og/adhd-sleep-deprivation-debug.png",
   "author": {
     "@type": "Organization",
     "name": "QuirkyLabs Research Team"
@@ -17,12 +17,12 @@
       "url": "https://quirkylabs.com/logo.png"
     }
   },
-  "datePublished": "2025-06-23",
-  "dateModified": "2025-06-23",
+  "datePublished": "2024-10-27",
+  "dateModified": "2024-10-27",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://quirkylabs.com/adhd-sleep-deprivation-burnout-cluster"
+    "@id": "https://quirkylabs.com/adhd-sleep-deprivation-burnout.why-is-waking-up-in-the-morning-physically-painful"
   },
-   "keywords": "why do ADHDers struggle to wake up, how to wake up with ADHD, ADHD morning fatigue, ADHD sleep aids review, dopamine dip ADHD, ADHD alarm clock"
+   "keywords": "why do ADHDers struggle with waking up, how to improve sleep with ADHD, ADHD sleep inertia, ADHD sleep schedule, ADHD chronic fatigue, dopamine dysregulation sleep ADHD"
 }
 ```

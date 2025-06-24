@@ -2,8 +2,8 @@
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "ADHD & Identity Crisis: Your Brain’s Executive Dysfunction Loop (Debug It)",
-  "description": "Does self-doubt feel like a broken record? Young 2020 proves executive dysfunction loop fuels self-blame. Get your Neuro-Action Checklist.",
+  "headline": "ADHD & 'Walking Symptom' Feeling: Executive Dysfunction Loop Sabotaging Your Self-Worth (Debug It)",
+  "description": "Does feeling like a broken record player sound familiar? Faraone et al., 2021 proves executive dysfunction blocks self-compassion. Neuro-Action Checklist.",
   "image": "https://quirkylabs.com/og/adhd-identity-crisis-debug.png",
   "author": {
     "@type": "Organization",
@@ -17,12 +17,12 @@
       "url": "https://quirkylabs.com/logo.png"
     }
   },
-  "datePublished": "2025-06-23",
-  "dateModified": "2025-06-23",
+  "datePublished": "2024-11-06",
+  "dateModified": "2024-11-06",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://quirkylabs.com/adhd-identity-crisis-late-diagnosis"
+    "@id": "https://quirkylabs.com/adhd-identity-crisis-late-diagnosis.why-do-i-feel-like-a-walking-symptom-not-a-person"
   },
-   "keywords": "why do ADHDers struggle with identity, how to accept ADHD diagnosis, ADHD self-compassion, ADHD YNAB setup, adhd identity confusion, executive dysfunction identity"
+   "keywords": "why do ADHDers feel like walking symptoms, how to integrate ADHD identity, ADHD identity crisis, ADHD self-blame, adult ADHD emotional impact, neuro-affirming identity integration"
 }
 ```

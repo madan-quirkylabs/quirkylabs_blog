@@ -3,8 +3,8 @@
   "@context": "https://schema.org",
   "@type": "BlogPosting",
   "headline": "ADHD & Task Paralysis: The Executive Dysfunction Loop Sabotaging Your Productivity (Debug It)",
-  "description": "Does starting tasks feel like climbing a mountain? Cortese 2020 proves executive dysfunction loop blocks action. Neuro-Action Checklist.",
-  "image": "https://quirkylabs.com/og/adhd-task-paralysis-focus-debug.png",
+  "description": "Does starting feel like wading through molasses? Faraone et al., 2021 proves executive dysfunction loop blocks action. Neuro-Action Checklist.",
+  "image": "https://quirkylabs.com/og/adhd-task-paralysis-debug.png",
   "author": {
     "@type": "Organization",
     "name": "QuirkyLabs Research Team"
@@ -21,8 +21,8 @@
   "dateModified": "2025-06-23",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://quirkylabs.com/adhd-task-paralysis-focus"
+    "@id": "https://quirkylabs.com/adhd-task-paralysis-focus.why-cant-i-start-tasks-even-when-its-important"
   },
-   "keywords": "why do ADHDers struggle with tasks, how to start tasks with ADHD, ADHD task paralysis, ADHD YNAB setup, ADHD and productivity, executive dysfunction loop"
+   "keywords": "why do ADHDers struggle to start tasks, how to start tasks with ADHD, ADHD task paralysis, ADHD focus apps, ADHD dopamine digital traps, ADHD screen time issues"
 }
 ```
