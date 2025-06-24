@@ -375,15 +375,12 @@ def discover_spoke_metadata():
         for fname in spoke_files:  # Only first two
             spoke_slug = fname[len("spoke-metadata."):-len(".json")]
             spoke_path = os.path.join(pillar_path, fname)
-            with open(spoke_path, "r", encoding="utf-8") as f:
-                metadata = json.load(f)
 
             with open(spoke_path, 'r', encoding="utf-8") as f:
                 text_metadata = f.read()
             all_spoke_entries.append({
                 "pillar_slug": pillar_dir,
                 "spoke_slug": spoke_slug,
-                "metadata": metadata
                 "text_metadata": text_metadata
             })
     return all_spoke_entries
@@ -393,16 +390,11 @@ def generate_faq_prompt(example_faq_path, spoke_metadata):
     """
     Construct a one-shot prompt for Gemini using the full example FAQ and the current spoke metadata.
     """
-    # Load the example FAQ markdown
-    with open(example_faq_path, "r", encoding="utf-8") as f:
-        example_faq = f.read()
-    # Convert spoke metadata to pretty JSON
-    spoke_json = json.dumps(spoke_metadata, indent=2, ensure_ascii=False)
     # Construct the prompt
     prompt = (
         f"{STRUCTURED_FAQ_PROMPT}\n\n"
         "Now, generate a comprehensive FAQ section for this spoke_metadata (output only the FAQ section in markdown):\n\n"
-        f"{spoke_json}"
+        f"{spoke_metadata}"
     )
     return prompt
 
@@ -461,17 +453,12 @@ def generate_meta_prompt(example_meta_path, spoke_metadata):
     """
     Construct a one-shot prompt for Gemini using the full example meta and the current spoke metadata.
     """
-    # Load the example meta markdown
-    with open(example_meta_path, "r", encoding="utf-8") as f:
-        example_meta = f.read()
-    # Convert spoke metadata to pretty JSON
-    spoke_json = json.dumps(spoke_metadata, indent=2, ensure_ascii=False)
     # Construct the prompt
     prompt = (
         f"{GENERATE_META_FOR_ARTICLE_PROMPT}\n\n"
         "Now, generate a comprehensive meta section for this spoke_metadata (output only the meta section in markdown). "
         "The slug must match the spoke slug exactly. The meta must be highly SEO-optimized, as this is the main source of user engagement.\n\n"
-        f"{spoke_json}"
+        f"{spoke_metadata}"
     )
     return prompt
 
@@ -544,12 +531,6 @@ def generate_story_prompt(example_story_path, narrative_prompt_path, spoke_metad
     The prompt explicitly instructs Gemini to first semantically understand the provided spoke_metadata (in JSON), and to generate a story that is highly specific to the context, pain points, and details in the metadata.
     The sample story is NOT included. The LLM is explicitly told not to copy or reuse any content from the prompt or examples, and to use only the spoke_metadata for the story content.
     """
-    # Load the narrative prompt
-    with open(narrative_prompt_path, "r", encoding="utf-8") as f:
-        narrative_prompt = f.read()
-    # Convert spoke metadata to pretty JSON
-    # spoke_json = json.dumps(spoke_metadata, indent=2, ensure_ascii=False)
-    # Construct the prompt
     prompt = (
         "You are given a JSON object called `spoke_metadata` that contains all the context, pain points, and details for a specific ADHD blog spoke.\n"
         "First, carefully read and semantically understand the `spoke_metadata` to grasp the unique context, challenges, and audience for this spoke.\n"
@@ -568,6 +549,7 @@ def generate_story_prompt(example_story_path, narrative_prompt_path, spoke_metad
 
 def story_file_exists(pillar_slug, spoke_slug):
     out_path = os.path.join(OUTPUT_ROOT, pillar_slug, spoke_slug, "story.md")
+    return False
     return os.path.exists(out_path)
 
 
@@ -601,7 +583,7 @@ if __name__ == "__main__":
             skipped_count += 1
         else:
             try:
-                prompt = generate_faq_prompt(example_faq_path, entry["metadata"])
+                prompt = generate_faq_prompt(example_faq_path, entry["text_metadata"])
                 messages = [
                     {"role": "system", "content": "You are an ADHD FAQ blog writer. Output only the FAQ markdown section."},
                     {"role": "user", "content": prompt}
@@ -639,7 +621,7 @@ if __name__ == "__main__":
             meta_skipped += 1
             continue
         try:
-            meta_prompt = generate_meta_prompt(example_meta_path, entry["metadata"])
+            meta_prompt = generate_meta_prompt(example_meta_path, entry["text_metadata"])
             messages = [
                 {"role": "system", "content": "You are an ADHD SEO meta expert. Output only the meta markdown section."},
                 {"role": "user", "content": meta_prompt}
