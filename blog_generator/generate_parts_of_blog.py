@@ -613,7 +613,67 @@ def write_story_to_file(pillar_slug, spoke_slug, story_markdown):
         f.write(story_markdown)
 
 
-if __name__ == "__main__":
+def index_md_file_exists(pillar_slug, spoke_slug):
+    out_path = os.path.join(OUTPUT_ROOT, pillar_slug, spoke_slug, "index.md")
+    return os.path.exists(out_path)
+
+
+def generate_index_md_file(pillar_slug, spoke_slug):
+    if index_md_file_exists(pillar_slug, spoke_slug):
+        print(f"  ℹ️ Skipping INDEX.MD, as it already exists for Pillar: {pillar_slug} | Spoke: {spoke_slug}")
+        return "skipped"
+
+    out_dir = os.path.join(OUTPUT_ROOT, pillar_slug, spoke_slug)
+    os.makedirs(out_dir, exist_ok=True)  # Ensure directory exists
+
+    index_md_path = os.path.join(out_dir, "index.md")
+    meta_ldjson_path = os.path.join(out_dir, "meta-ldjson.md")
+    faq_ldjson_path = os.path.join(out_dir, "faq-ldjson.md")
+    story_path = os.path.join(out_dir, "story.md")
+    faq_path = os.path.join(out_dir, "faq.md")
+
+    index_content_parts = []
+    files_to_process = [
+        (meta_ldjson_path, '<script type="application/ld+json">\n{content}\n</script>\n\n'),
+        (faq_ldjson_path, '<script type="application/ld+json">\n{content}\n</script>\n\n'),
+        (story_path, '{content}\n\n'),
+        (faq_path, '{content}\n')
+    ]
+
+    all_sources_missing = True
+    for file_path, template in files_to_process:
+        if os.path.exists(file_path):
+            all_sources_missing = False
+            try:
+                with open(file_path, "r", encoding="utf-8") as f:
+                    content = f.read().strip()  # Strip to avoid extra newlines inside script/content
+                if content:  # Only add if there's actual content
+                    index_content_parts.append(template.format(content=content))
+                else:
+                    print(f"  ⚠️  Source file {os.path.basename(file_path)} is empty for Pillar: {pillar_slug} | Spoke: {spoke_slug}")
+            except Exception as e:
+                print(f"  ❌ Error reading {os.path.basename(file_path)} for Pillar: {pillar_slug} | Spoke: {spoke_slug}: {e}")
+        else:
+            print(f"  ⚠️  Source file {os.path.basename(file_path)} missing for Pillar: {pillar_slug} | Spoke: {spoke_slug}. Skipping its content for index.md.")
+
+    if not index_content_parts and all_sources_missing:
+        print(f"  ❌ Failed to generate INDEX.MD for Pillar: {pillar_slug} | Spoke: {spoke_slug} - all source files are missing or empty.")
+        return "failed"
+
+    if not index_content_parts and not all_sources_missing:
+        print(f"  ⚠️  Generated INDEX.MD for Pillar: {pillar_slug} | Spoke: {spoke_slug} is empty as all source files with content were missing or empty.")
+        # Still write an empty file if some sources existed but were empty, to mark it as "processed"
+        # If all_sources_missing was true, we would have returned "failed" already.
+
+    try:
+        with open(index_md_path, "w", encoding="utf-8") as f:
+            f.write("".join(index_content_parts))
+        print(f"  ✅ INDEX.MD generated for Pillar: {pillar_slug} | Spoke: {spoke_slug}")
+        return "success"
+    except Exception as e:
+        print(f"  ❌ Failed to write INDEX.MD for Pillar: {pillar_slug} | Spoke: {spoke_slug}: {e}")
+        return "failed"
+
     spokes = discover_spoke_metadata()
     if not spokes:
         print("No spokes found.")
@@ -707,6 +767,28 @@ if __name__ == "__main__":
     print(f"META-LDJSON: {meta_ldjson_success} generated, {meta_ldjson_skipped} skipped, {meta_ldjson_fail} failed.")
 
     # STORY GENERATION LOOP (only first 2 spokes)
+    print(f"STORY: {story_success} generated, {story_skipped} skipped, {story_fail} failed.")
+
+    # INDEX.MD GENERATION LOOP
+    print("\nStarting INDEX.MD generation...")
+    index_md_success = 0
+    index_md_fail = 0
+    index_md_skipped = 0  # For files that already exist
+
+    for entry in spokes:
+        print(f"Processing INDEX.MD for Pillar: {entry['pillar_slug']} | Spoke: {entry['spoke_slug']} ...")
+        result = generate_index_md_file(entry["pillar_slug"], entry["spoke_slug"])
+        if result == "success":
+            index_md_success += 1
+        elif result == "failed":
+            index_md_fail += 1
+        elif result == "skipped":
+            index_md_skipped += 1
+
+    print(f"\nINDEX.MD Generation Complete:")
+    print(f"  Successfully generated: {index_md_success}")
+    print(f"  Skipped (already existed): {index_md_skipped}")
+    print(f"  Failed: {index_md_fail}")
     story_success = 0
     story_fail = 0
     story_skipped = 0
