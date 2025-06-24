@@ -767,6 +767,9 @@ def generate_index_md_file(pillar_slug, spoke_slug):
     print(f"META-LDJSON: {meta_ldjson_success} generated, {meta_ldjson_skipped} skipped, {meta_ldjson_fail} failed.")
 
     # STORY GENERATION LOOP (only first 2 spokes)
+    story_success = 0
+    story_fail = 0
+    story_skipped = 0
     print(f"STORY: {story_success} generated, {story_skipped} skipped, {story_fail} failed.")
 
     # INDEX.MD GENERATION LOOP
