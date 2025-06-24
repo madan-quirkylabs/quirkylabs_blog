@@ -518,7 +518,6 @@ If you use a neuro-mechanism not in the approved list, add a one-line justificat
 
 def meta_file_exists(pillar_slug, spoke_slug):
     out_path = os.path.join(OUTPUT_ROOT, pillar_slug, spoke_slug, "meta.md")
-    return False
     return os.path.exists(out_path)
 
 
@@ -532,7 +531,6 @@ def write_meta_to_file(pillar_slug, spoke_slug, meta_markdown):
 
 def meta_ldjson_file_exists(pillar_slug, spoke_slug):
     out_path = os.path.join(OUTPUT_ROOT, pillar_slug, spoke_slug, "meta-ldjson.md")
-    return False
     return os.path.exists(out_path)
 
 
