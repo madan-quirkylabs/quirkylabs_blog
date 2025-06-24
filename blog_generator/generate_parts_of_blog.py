@@ -78,6 +78,7 @@ CATEGORIES = [
   1. One "why" question (`"why do ADHDers struggle with [TOPIC]"`)  
   2. One "how to" query (`"how to [ACTION] with ADHD"`)  
   3. One tool/phrase (`"ADHD YNAB setup"`)  
+  4. At least **one** keyword must come from `Pillar Keywords` in the CONTEXT SUMMARY.
 
 ---
 
@@ -368,6 +369,18 @@ def discover_spoke_metadata():
         pillar_path = os.path.join(base_dir, pillar_dir)
         if not os.path.isdir(pillar_path):
             continue
+
+        pillar_file_paths = [fname for fname in os.listdir(pillar_path)
+                       if fname.startswith("pillar-metadata.") and fname.endswith(".json")]
+        a_pillar_file_path = pillar_file_paths[0]
+
+        with open(a_pillar_file_path, 'r', encoding="utf-8") as f:
+            pillar_metadata_text = f.read()
+
+        with open(a_pillar_file_path, "r", encoding="utf-8") as f:
+            pillar_metadata_json = json.load(f)
+        
+
         # Collect all spoke metadata files for this pillar
         spoke_files = [fname for fname in os.listdir(pillar_path)
                        if fname.startswith("spoke-metadata.") and fname.endswith(".json")]
@@ -384,8 +397,10 @@ def discover_spoke_metadata():
             all_spoke_entries.append({
                 "pillar_slug": pillar_dir,
                 "spoke_slug": spoke_slug,
-                "text_metadata": text_metadata,
-                "metadata": metadata
+                "spoke_metadata_text": text_metadata,
+                "spoke_metadata_json": metadata,
+                "pillar_metadata_text": pillar_metadata_text,
+                "pillar_metadata_json": pillar_metadata_json
             })
     return all_spoke_entries
 
@@ -452,49 +467,54 @@ def generate_faq_ldjson(pillar_slug, spoke_slug, config):
         print(f"  ❌ Failed to generate FAQ-LDJSON for Pillar: {pillar_slug} | Spoke: {spoke_slug}: {e}")
         return False
 
+def _pick_relevant_study(studies, pain_text, slug):
+    """Return the study dict that best matches pain or slug; fallback to first."""
+    for study in studies:
+        mech = study.get("neurobiological_mechanism", "").lower()
+        if any(term in mech for term in (pain_text.lower(), slug.lower())):
+            return study
+    return studies[0] if studies else {}
 
-def generate_meta_prompt(example_meta_path, spoke_metadata_as_text, spoke_metadata_json):
-    """
-    Construct a one-shot prompt for Gemini using the full example meta and the current spoke metadata.
-    """
-
-    # Safely extract key fields
-    pain = spoke_metadata_json.get("spoke_pain_point_focus", {}).get("spoke_specific_pain_point", "UNKNOWN PAIN")
-    mechanism = (
-        spoke_metadata_json.get("pillar_integration", {})
-            .get("pillar_specific_research", {})
-            .get("studies", [{}])[0]
-            .get("neurobiological_mechanism", "UNKNOWN MECHANISM")
-    )
-    takeaway = (
-        spoke_metadata_json.get("pillar_integration", {})
-            .get("pillar_specific_research", {})
-            .get("studies", [{}])[0]
-            .get("clinical_takeaway", "UNKNOWN TAKEAWAY")
-    )
-    slug = spoke_metadata_json.get("pillar_integration", {}).get("cluster_name", "unknown-slug")
-
-    # --- ORIGINAL INJECTION POINT ---
+def generate_meta_prompt(pillar_metadata_json, spoke_metadata_json, spoke_slug):
+    # --- pull spoke fields ---
+    pain = spoke_metadata_json.get("spoke_pain_point_focus", {}) \
+                              .get("spoke_specific_pain_point", "UNKNOWN PAIN")
+    studies   = (spoke_metadata_json.get("pillar_integration", {})
+                             .get("pillar_specific_research", {})
+                             .get("studies", []))
+    study     = _pick_relevant_study(studies, pain, spoke_slug)
+    mechanism = study.get("neurobiological_mechanism", "UNKNOWN MECHANISM")
+    takeaway  = study.get("clinical_takeaway",       "UNKNOWN TAKEAWAY")
+    
+    # --- pull pillar fields ---
+    core_pain      = pillar_metadata_json.get("core_pain_point_verbalized", "")
+    pillar_kw      = pillar_metadata_json.get("pillar_keywords_foundational", [])[:4]  # first few
+    neuro_kw_sugg  = pillar_metadata_json.get("neuro_strategic_keywords_suggestions", [])[:3]
+    
+    # --- build context summary ---
     context_summary = f"""
-### 🧠 CONTEXT SUMMARY (Parsed from Metadata)
+### 🧠 CONTEXT SUMMARY (Parsed)
 
-- **Spoke Pain**: {pain}
-- **Neuro-Mechanism**: {mechanism}
+- **Spoke Pain (scene)**: {pain}
+- **Core Pillar Pain**: {core_pain}
+- **Neuro-Mechanism (best match)**: {mechanism}
 - **Clinical Frame**: {takeaway}
-- **Slug**: {slug}
-"""
+- **Slug**: {spoke_slug}
+- **Pillar Keywords**: {", ".join(pillar_kw)}
+- **Strategic Neuro Keywords**: {", ".join(neuro_kw_sugg)}
+""".strip()
     
     final_prompt = f"""
 {GENERATE_META_FOR_ARTICLE_PROMPT}
 
-Now, generate a comprehensive meta section for this spoke. Output ONLY the markdown meta block.  
-You MUST use the CONTEXT SUMMARY below to determine the correct pain point, neuro-mechanism, keywords, tags, and user intent.  
-Do not rely on the slug alone. No placeholders allowed. If using a neuro-mechanism not in the approved list, justify your choice above the markdown.
+Now, generate a single markdown meta block **ONLY**.  
+*Mandatory*: reflect every bullet in the CONTEXT SUMMARY.  
+If you use a neuro-mechanism not in the approved list, add a one-line justification **above** the meta block.
 
 {context_summary}
 """.strip()
-
     return final_prompt
+
 
 def meta_file_exists(pillar_slug, spoke_slug):
     out_path = os.path.join(OUTPUT_ROOT, pillar_slug, spoke_slug, "meta.md")
@@ -616,7 +636,7 @@ if __name__ == "__main__":
             skipped_count += 1
         else:
             try:
-                prompt = generate_faq_prompt(example_faq_path, entry["text_metadata"])
+                prompt = generate_faq_prompt(example_faq_path, entry["spoke_metadata_text"])
                 messages = [
                     {"role": "system", "content": "You are an ADHD FAQ blog writer. Output only the FAQ markdown section."},
                     {"role": "user", "content": prompt}
@@ -654,7 +674,7 @@ if __name__ == "__main__":
             meta_skipped += 1
             continue
         try:
-            meta_prompt = generate_meta_prompt(example_meta_path, entry["text_metadata"], entry["metadata"])
+            meta_prompt = generate_meta_prompt(entry["pillar_metadata_json"], entry["spoke_metadata_json"])
             messages = [
                 {"role": "system", "content": "You are an ADHD SEO meta expert. Output only the meta markdown section."},
                 {"role": "user", "content": meta_prompt}
@@ -697,7 +717,7 @@ if __name__ == "__main__":
             story_skipped += 1
             continue
         try:
-            story_prompt = generate_story_prompt(example_faq_path, example_meta_path, entry["text_metadata"])
+            story_prompt = generate_story_prompt(example_faq_path, example_meta_path, entry["spoke_metadata_text"])
             messages = [
                 {"role": "system", "content": "You are an ADHD narrative blog expert. Output only the story markdown section."},
                 {"role": "user", "content": story_prompt}

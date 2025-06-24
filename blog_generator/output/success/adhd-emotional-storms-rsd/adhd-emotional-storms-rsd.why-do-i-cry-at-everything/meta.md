@@ -1,16 +1,16 @@
 ```markdown
 ---
 title: "ADHD & Crying Spells: Your Brain’s RSD Hypervigilance (Debug It)"
-description: "Tears at 'weird' times? Dodson 2019 proves RSD hypervigilance overloads your system. Neuro-Action Checklist inside."
-slug: "adhd-crying-spells"
+description: "Does a papercut feel like a mortal wound? Faraone et al., 2021 proves RSD hypervigilance triggers emotional storms. Neuro-Action Checklist."
+slug: "adhd-emotional-storms-rsd"
 author: "Madan | QuirkyLabs"
 date: "2025-06-23"
 type: "page"
-categories: ["ADHD Emotional Regulation", "Rejection Sensitivity", "Executive Dysfunction"]
-tags: ["RSD hypervigilance", "crying spells", "embarrassment", "emotional lability", "sensory overload", "ADHD"]
-keywords: ["why do ADHDers cry so easily", "how to stop crying with ADHD", "ADHD emotional regulation techniques", "ADHD crying spells", "RSD hypervigilance", "sensory overload ADHD"]
-og_image: "/og/adhd-crying-spells-debug.png"
-og_title: "ADHD Crying: RSD Hypervigilance Fix"
-og_description: "RSD hypervigilance causing tears? Neuro-actions for emotional regulation."
+categories: ["ADHD Emotional Regulation", "Rejection Sensitivity", "Neurodivergent Identity"]
+tags: ["RSD hypervigilance", "crying spells", "overwhelm", "emotional storms", "emotional dysregulation", "rejection sensitivity"]
+keywords: ["why do ADHDers cry easily", "how to stop crying with ADHD", "ADHD emotional storms", "ADHD crying spells", "RSD and crying", "emotional regulation ADHD"]
+og_image: "/og/adhd-emotional-storms-debug.png"
+og_title: "ADHD Crying Spells: RSD Hypervigilance Fix"
+og_description: "RSD hypervigilance sparking tears? Neuro-actions for emotional control."
 ---
 ```

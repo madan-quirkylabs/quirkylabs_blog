@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "ADHD & Forgotten Meals: Your Brain's Dopamine Dip Sabotaging Your Nutrition (Debug It)"
-description: "Does deciding what to eat feel like climbing a mountain? Volkow 2009 proves dopamine dip blocks hunger cues. Neuro-Action Checklist."
-slug: "adhd-forgotten-meals"
+title: "ADHD & Forgotten Meals: The Executive Dysfunction Loop Sabotaging Your Energy (Debug It)"
+description: "Does your stomach feel like a disconnected appliance? Faraone et al., 2021 proves executive dysfunction blocks consistent eating. Neuro-Action Checklist."
+slug: "adhd-body-and-senses"
 author: "Madan | QuirkyLabs"
 date: "2025-06-23"
 type: "page"
-categories: ["ADHD Nutrition", "Executive Dysfunction", "ADHD and Money"]
-tags: ["dopamine dip", "forgotten meals", "shame", "hyperfocus", "interoception", "self-care"]
-keywords: ["why do ADHDers struggle with nutrition", "how to eat with ADHD", "ADHD meal prep", "ADHD YNAB setup", "ADHD hunger cues", "dopamine dip nutrition"]
+categories: ["Executive Dysfunction", "ADHD Nutrition", "ADHD Hygiene"]
+tags: ["executive dysfunction loop", "forgotten meals", "overwhelm", "time blindness", "energy crashes", "self-care neglect"]
+keywords: ["why do ADHDers forget to eat", "how to remember to eat with ADHD", "ADHD meal reminders", "ADHD time blindness eating", "executive dysfunction and hunger", "body awareness ADHD"]
 og_image: "/og/adhd-forgotten-meals-debug.png"
-og_title: "ADHD Forgotten Meals: Dopamine Dip Fix"
-og_description: "Dopamine deserts blocking meals? Neuro-actions for consistent fueling."
+og_title: "ADHD & Forgotten Meals: Executive Dysfunction Fix"
+og_description: "Executive dysfunction blocking meals? Neuro-actions for consistent energy."
 ---
 ```

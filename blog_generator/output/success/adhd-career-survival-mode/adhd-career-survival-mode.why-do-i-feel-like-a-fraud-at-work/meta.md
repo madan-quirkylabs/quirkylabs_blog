@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "Budget Procrastination Isn’t Laziness—It’s Your Dopamine Dip in Overdrive"
-description: "Does checking your bank account feel like touching a hot stove? Faraone et al., 2021 proves dopamine dip blocks action. Neuro-Action Checklist."
-slug: "adhd-financial-chaos"
+title: "ADHD & Imposter Syndrome: Your Executive Dysfunction Loop Sabotaging Your Career (Debug It)"
+description: "Does feeling like a fraud burn you out? Faraone et al., 2021 proves executive dysfunction loop fuels self-doubt. Neuro-Action Checklist."
+slug: "adhd-career-survival-mode"
 author: "Madan | QuirkyLabs"
 date: "2025-06-23"
 type: "page"
-categories: ["ADHD and Money", "Executive Dysfunction", "Financial Avoidance"]
-tags: ["dopamine", "financial avoidance", "shame", "overwhelm", "budgeting", "procrastination"]
-keywords: ["why do ADHDers struggle with budgeting", "how to budget with ADHD", "ADHD budgeting overwhelm", "ADHD YNAB setup", "financial avoidance ADHD", "dopamine dip budgeting"]
-og_image: "/og/adhd-financial-chaos-debug.png"
-og_title: "ADHD Budgeting: Dopamine Dip Fix"
-og_description: "Dopamine deserts blocking your budget? Neuro-actions for financial safety."
+categories: ["ADHD at Work", "Executive Dysfunction", "Neurodivergent Identity"]
+tags: ["executive dysfunction loop", "imposter syndrome", "overwhelm", "ADHD at work", "self-doubt", "burnout"]
+keywords: ["why do ADHDers feel like imposters", "how to stop feeling like a fraud with ADHD", "ADHD career survival mode", "ADHD masking at work", "executive dysfunction imposter syndrome", "ADHD career anxiety"]
+og_image: "/og/adhd-career-survival-mode-debug.png"
+og_title: "ADHD & Imposter Syndrome: Debug the Loop"
+og_description: "Executive dysfunction loop driving imposter syndrome? Neuro-actions for career confidence."
 ---
 ```

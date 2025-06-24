@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "ADHD & Misophonia: Your Brain’s RSD hypervigilance in Overdrive (Debug It)"
-description: "Does that chewing sound feel like nails on a chalkboard? Bijlenga 2017 proves RSD hypervigilance causes sensory overload. Neuro-Action Checklist."
-slug: "adhd-misophonia"
+title: "ADHD & Sound Sensitivity: Your Brain’s Attention Tunneling (Debug It)"
+description: "Does background noise feel like a dentist drill? Faraone et al., 2021 proves attention tunneling overloads senses. Neuro-Action Checklist."
+slug: "adhd-body-and-senses"
 author: "Madan | QuirkyLabs"
 date: "2025-06-23"
 type: "page"
-categories: ["Sensory Processing", "ADHD Emotional Regulation", "Rejection Sensitivity"]
-tags: ["RSD hypervigilance", "misophonia", "rage", "sensory overload", "auditory triggers", "rejection sensitivity"]
-keywords: ["why do ADHDers struggle with misophonia", "how to cope with misophonia with ADHD", "ADHD misophonia triggers", "ADHD sensory hell", "RSD hypervigilance sounds", "ADHD noise sensitivity"]
-og_image: "/og/adhd-misophonia-debug.png"
-og_title: "ADHD Misophonia: RSD hypervigilance Fix"
-og_description: "RSD hypervigilance causing sound rage? Neuro-actions for sensory peace."
+categories: ["Sensory Processing", "Executive Dysfunction", "Neurodivergent Identity"]
+tags: ["attention tunneling", "sound sensitivity", "overwhelm", "sensory overload", "misophonia", "auditory processing"]
+keywords: ["why do ADHDers struggle with noise", "how to cope with noise with ADHD", "ADHD sensory overload", "ADHD noise canceling headphones", "sensory processing disorder ADHD", "attention tunneling sounds"]
+og_image: "/og/adhd-sound-sensitivity-debug.png"
+og_title: "ADHD Sound Sensitivity: Attention Tunneling Fix"
+og_description: "Attention tunneling causing sensory overload? Neuro-actions for calmer senses."
 ---
 ```
