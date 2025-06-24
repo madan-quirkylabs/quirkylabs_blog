@@ -23,6 +23,6 @@
     "@type": "WebPage",
     "@id": "https://quirkylabs.com/adhd-financial-chaos"
   },
- "keywords": "why do ADHDers struggle with email, how to manage email with ADHD, ADHD inbox overwhelm, ADHD email management, email anxiety ADHD, executive dysfunction loop email"
+   "keywords": "why do ADHDers struggle with email, how to manage email with ADHD, ADHD inbox overwhelm, ADHD email management, email anxiety ADHD, executive dysfunction loop email"
 }
 ```
