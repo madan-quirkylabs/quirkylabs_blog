@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "ADHD & 'Life Unlived': Your Brain's Executive Dysfunction Loop (Debug It)"
-description: "Does reflecting on your past feel like a punch in the gut? Bramer 2016 proves executive dysfunction loop fuels grief. Neuro-Action Checklist."
+title: "The Exhausting Truth: Why Digital Overwhelm is Amplified for Your Undiagnosed ADHD Brain (And How to Fight Back)"
+description: "Does tech feel like a sensory assault? Du, Zhao, & Ganti (2025) prove executive dysfunction loop blocks digital focus. Neuro-Action Checklist."
 slug: "adhd-identity-crisis-late-diagnosis"
 author: "Madan | QuirkyLabs"
 date: "2025-06-23"
 type: "page"
-categories: ["ADHD Emotional Regulation", "Neurodivergent Identity", "ADHD Diagnosis"]
-tags: ["executive dysfunction", "late diagnosis", "grief", "shame", "self-blame", "lost potential"]
-keywords: ["why do ADHDers grieve late diagnosis", "how to accept ADHD diagnosis", "ADHD missed potential", "ADHD YNAB setup", "executive dysfunction grief", "ADHD self-compassion"]
+categories: ["ADHD Emotional Regulation", "Neurodivergent Identity", "Self-Compassion"]
+tags: ["executive dysfunction loop", "identity crisis", "shame", "late diagnosis", "self-blame", "grief"]
+keywords: ["why do ADHDers struggle with identity", "how to find yourself with ADHD", "ADHD self-compassion", "ADHD late diagnosis grief", "adhd identity crisis support", "adhd ynab setup"]
 og_image: "/og/adhd-identity-crisis-late-diagnosis-debug.png"
-og_title: "ADHD Late Diagnosis: Executive Dysfunction Fix"
-og_description: "Executive dysfunction looping 'life unlived'? Neuro-actions for self-compassion."
+og_title: "ADHD Identity: Executive Loop Fix"
+og_description: "Executive dysfunction loop in identity? Neuro-actions for self-compassion."
 ---
 ```

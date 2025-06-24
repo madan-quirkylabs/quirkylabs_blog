@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "ADHD & Imposter Syndrome: Your Brain's RSD Hypervigilance Sabotaging Your Career (Debug It)"
-description: "Does work success feel like a fluke? Lenzi et al., 2020 proves RSD hypervigilance fuels 'fraud' feelings. Neuro-Action Checklist."
-slug: "adhd-imposter-syndrome"
+title: "Budget Procrastination Isn’t Laziness—It’s Your Dopamine Dip in Overdrive"
+description: "Does checking your bank account feel like touching a hot stove? Faraone et al., 2021 proves dopamine dip blocks action. Neuro-Action Checklist."
+slug: "adhd-financial-chaos"
 author: "Madan | QuirkyLabs"
 date: "2025-06-23"
 type: "page"
-categories: ["ADHD at Work", "ADHD Emotional Regulation", "Rejection Sensitivity"]
-tags: ["RSD hypervigilance", "imposter syndrome", "shame", "anxiety", "self-doubt", "career"]
-keywords: ["why do ADHDers struggle with imposter syndrome", "how to overcome imposter syndrome with ADHD", "ADHD work shame", "ADHD career success", "imposter syndrome neurodivergent", "RSD hypervigilance career"]
-og_image: "/og/adhd-imposter-syndrome-debug.png"
-og_title: "ADHD Imposter Syndrome: RSD Hypervigilance Fix"
-og_description: "RSD hypervigilance causing 'fraud' feelings? Neuro-actions for career confidence."
+categories: ["ADHD and Money", "Executive Dysfunction", "Financial Avoidance"]
+tags: ["dopamine", "financial avoidance", "shame", "overwhelm", "budgeting", "procrastination"]
+keywords: ["why do ADHDers struggle with budgeting", "how to budget with ADHD", "ADHD budgeting overwhelm", "ADHD YNAB setup", "financial avoidance ADHD", "dopamine dip budgeting"]
+og_image: "/og/adhd-financial-chaos-debug.png"
+og_title: "ADHD Budgeting: Dopamine Dip Fix"
+og_description: "Dopamine deserts blocking your budget? Neuro-actions for financial safety."
 ---
 ```

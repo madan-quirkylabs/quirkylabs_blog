@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "ADHD Sleep Sabotage: Why Your Brain Fights Rest & Fuels Burnout"
-description: "Does your brain run a 24/7 podcast at night? Ryckman 2020 shows dopamine dip blocks sleep. Get Neuro-Action Checklist."
-slug: "adhd-sleep-deprivation-burnout-cluster"
+title: "ADHD & Exhaustion: Your Brain’s Default Mode Network in Overdrive (Debug It)"
+description: "Does trying to sleep feel like battling a noisy nightclub? Gao 2020 proves Default Mode Network blocks rest. Neuro-Action Checklist."
+slug: "adhd-sleep-deprivation-burnout"
 author: "Madan | QuirkyLabs"
 date: "2025-06-23"
 type: "page"
 categories: ["ADHD Emotional Regulation", "Executive Dysfunction", "Burnout & Fatigue"]
-tags: ["dopamine dip", "exhaustion", "shame", "sleep deprivation", "burnout", "tired but wired"]
-keywords: ["why do ADHDers struggle with sleep", "how to rest with ADHD", "ADHD sleep routine", "ADHD burnout cycle", "dopamine dip sleep", "ADHD sleep aids"]
-og_image: "/og/adhd-sleep-deprivation-burnout-cluster-debug.png"
-og_title: "ADHD Sleep: Dopamine Dip Fix"
-og_description: "Dopamine deserts hijacking sleep? Neuro-actions for restorative rest."
+tags: ["Default Mode Network", "exhaustion", "overwhelm", "burnout", "sleep deprivation", "tired but wired"]
+keywords: ["why do ADHDers struggle with sleep", "how to rest with ADHD", "ADHD tired but wired", "ADHD sleep routine", "ADHD burnout symptoms", "ADHD YNAB setup"]
+og_image: "/og/adhd-sleep-deprivation-burnout-debug.png"
+og_title: "ADHD Exhaustion: Default Mode Network Fix"
+og_description: "Default Mode Network blocking sleep? Neuro-actions for a quiet mind."
 ---
 ```

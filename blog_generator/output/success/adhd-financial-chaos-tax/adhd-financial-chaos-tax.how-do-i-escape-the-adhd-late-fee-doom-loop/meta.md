@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "ADHD & Late Fees: Your Brain’s Time Blindness (Debug It)"
-description: "Does a final notice feel like a punch in the gut? Toplak 2017 proves time blindness causes missed payments. Grab our Neuro-Action Checklist."
+title: "ADHD & Bill Avoidance: Your Brain’s Amygdala Freeze (Debug It)"
+description: "Does checking your bank account feel like touching a hot stove? Suhr 2019 proves amygdala freeze blocks action. Upgrade your Neuro-OS."
 slug: "adhd-financial-chaos"
 author: "Madan | QuirkyLabs"
 date: "2025-06-23"
 type: "page"
 categories: ["ADHD and Money", "Executive Dysfunction", "Financial Avoidance"]
-tags: ["time blindness", "financial avoidance", "shame", "late fees", "bill paralysis", "overwhelm"]
-keywords: ["why do ADHDers struggle with bills", "how to pay bills with ADHD", "ADHD money overwhelm", "ADHD YNAB setup", "financial stress ADHD", "time blindness money"]
+tags: ["amygdala freeze", "financial avoidance", "shame", "overwhelm", "bill paralysis", "ADHD tax"]
+keywords: ["why do ADHDers struggle with bills", "how to pay bills with ADHD", "ADHD money shame", "ADHD YNAB setup", "financial overwhelm ADHD", "amygdala freeze money"]
 og_image: "/og/adhd-bill-avoidance-debug.png"
-og_title: "ADHD & Bills: Fix Time Blindness Now"
-og_description: "Time blindness causing late fees? Neuro-actions for financial safety."
+og_title: "ADHD Bill Avoidance: Amygdala Freeze Fix"
+og_description: "Amygdala freeze blocking bills? Neuro-actions for financial safety."
 ---
 ```

@@ -378,10 +378,14 @@ def discover_spoke_metadata():
 
             with open(spoke_path, 'r', encoding="utf-8") as f:
                 text_metadata = f.read()
+
+            with open(spoke_path, "r", encoding="utf-8") as f:
+                metadata = json.load(f)
             all_spoke_entries.append({
                 "pillar_slug": pillar_dir,
                 "spoke_slug": spoke_slug,
-                "text_metadata": text_metadata
+                "text_metadata": text_metadata,
+                "metadata": metadata
             })
     return all_spoke_entries
 
@@ -449,22 +453,52 @@ def generate_faq_ldjson(pillar_slug, spoke_slug, config):
         return False
 
 
-def generate_meta_prompt(example_meta_path, spoke_metadata):
+def generate_meta_prompt(example_meta_path, spoke_metadata_as_text, spoke_metadata_json):
     """
     Construct a one-shot prompt for Gemini using the full example meta and the current spoke metadata.
     """
-    # Construct the prompt
-    prompt = (
-        f"{GENERATE_META_FOR_ARTICLE_PROMPT}\n\n"
-        "Now, generate a comprehensive meta section for this spoke_metadata (output only the meta section in markdown). "
-        "The slug must match the spoke slug exactly. The meta must be highly SEO-optimized, as this is the main source of user engagement.\n\n"
-        f"{spoke_metadata}"
-    )
-    return prompt
 
+    # Safely extract key fields
+    pain = spoke_metadata_json.get("spoke_pain_point_focus", {}).get("spoke_specific_pain_point", "UNKNOWN PAIN")
+    mechanism = (
+        spoke_metadata_json.get("pillar_integration", {})
+            .get("pillar_specific_research", {})
+            .get("studies", [{}])[0]
+            .get("neurobiological_mechanism", "UNKNOWN MECHANISM")
+    )
+    takeaway = (
+        spoke_metadata_json.get("pillar_integration", {})
+            .get("pillar_specific_research", {})
+            .get("studies", [{}])[0]
+            .get("clinical_takeaway", "UNKNOWN TAKEAWAY")
+    )
+    slug = spoke_metadata_json.get("pillar_integration", {}).get("cluster_name", "unknown-slug")
+
+    # --- ORIGINAL INJECTION POINT ---
+    context_summary = f"""
+### 🧠 CONTEXT SUMMARY (Parsed from Metadata)
+
+- **Spoke Pain**: {pain}
+- **Neuro-Mechanism**: {mechanism}
+- **Clinical Frame**: {takeaway}
+- **Slug**: {slug}
+"""
+    
+    final_prompt = f"""
+{GENERATE_META_FOR_ARTICLE_PROMPT}
+
+Now, generate a comprehensive meta section for this spoke. Output ONLY the markdown meta block.  
+You MUST use the CONTEXT SUMMARY below to determine the correct pain point, neuro-mechanism, keywords, tags, and user intent.  
+Do not rely on the slug alone. No placeholders allowed. If using a neuro-mechanism not in the approved list, justify your choice above the markdown.
+
+{context_summary}
+""".strip()
+
+    return final_prompt
 
 def meta_file_exists(pillar_slug, spoke_slug):
     out_path = os.path.join(OUTPUT_ROOT, pillar_slug, spoke_slug, "meta.md")
+    return False
     return os.path.exists(out_path)
 
 
@@ -497,7 +531,7 @@ def generate_meta_ldjson(pillar_slug, spoke_slug, config, sample_meta_ldjson_pat
         print(f"  ⚠️  Skipping META-LDJSON (meta.md missing) for Pillar: {pillar_slug} | Spoke: {spoke_slug}")
         return False
     
-    if os.path.exists(ldjson_path):
+    if meta_ldjson_file_exists(pillar_slug, spoke_slug):
         print(f"  ⚠️  Skipping META-LDJSON, as it already exists for Pillar: {pillar_slug} | Spoke: {spoke_slug}")
         return False
     with open(meta_path, "r", encoding="utf-8") as f:
@@ -549,7 +583,6 @@ def generate_story_prompt(example_story_path, narrative_prompt_path, spoke_metad
 
 def story_file_exists(pillar_slug, spoke_slug):
     out_path = os.path.join(OUTPUT_ROOT, pillar_slug, spoke_slug, "story.md")
-    return False
     return os.path.exists(out_path)
 
 
@@ -621,7 +654,7 @@ if __name__ == "__main__":
             meta_skipped += 1
             continue
         try:
-            meta_prompt = generate_meta_prompt(example_meta_path, entry["text_metadata"])
+            meta_prompt = generate_meta_prompt(example_meta_path, entry["text_metadata"], entry["metadata"])
             messages = [
                 {"role": "system", "content": "You are an ADHD SEO meta expert. Output only the meta markdown section."},
                 {"role": "user", "content": meta_prompt}

@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "ADHD & Masking Exhaustion: Your Brain’s Executive Dysfunction Loop (Debug It)"
-description: "Does pretending to be normal feel like walking on eggshells? Cooper 2020 proves executive dysfunction loop fuels masking. Neuro-Action Checklist."
-slug: "adhd-identity-crisis-late-diagnosis"
+title: "ADHD & Masking Exhaustion: Your Brain's Executive Dysfunction Loop (Debug It)"
+description: "Does pretending to be 'normal' feel like holding your breath? Cooper 2020 proves executive dysfunction loop causes burnout. Neuro-Action Checklist!"
+slug: "adhd-masking-exhaustion"
 author: "Madan | QuirkyLabs"
 date: "2025-06-23"
 type: "page"
-categories: ["ADHD Emotional Regulation", "Neurodivergent Identity", "Self-Compassion"]
-tags: ["executive dysfunction", "masking", "burnout", "shame", "authenticity", "self-acceptance"]
-keywords: ["why do ADHDers mask", "how to unmask with ADHD", "ADHD masking exhaustion symptoms", "ADHD self-compassion", "ADHD burnout help", "executive dysfunction masking"]
-og_image: "/og/adhd-identity-crisis-late-diagnosis-debug.png"
-og_title: "ADHD Masking: Executive Dysfunction Fix"
-og_description: "Executive dysfunction fuels masking? Neuro-actions for authentic self."
+categories: ["Executive Dysfunction", "Burnout & Fatigue", "Neurodivergent Identity"]
+tags: ["executive dysfunction", "masking exhaustion", "burnout", "anxiety", "self-compassion", "authenticity"]
+keywords: ["why do ADHDers mask", "how to unmask with ADHD", "ADHD masking shame", "ADHD burnout", "executive dysfunction masking", "ADHD masking exhaustion"]
+og_image: "/og/adhd-masking-exhaustion-debug.png"
+og_title: "ADHD Masking: Executive Loop Exhaustion Fix"
+og_description: "Executive dysfunction loop from masking? Neuro-actions for authentic living."
 ---
 ```

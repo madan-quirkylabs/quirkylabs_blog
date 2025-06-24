@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "ADHD & Partner Silence: Your Brain’s Amygdala Freeze (Debug It)"
-description: "Does silence feel like a personal attack? Dodson 2019 proves amygdala freeze fuels relationship panic. Upgrade your Neuro-OS."
-slug: "adhd-partner-silence"
+title: "ADHD & Partner Silence: Your RSD Hypervigilance in Overdrive (Debug It)"
+description: "Does silence from your partner feel like a personal attack? Dodson 2019 proves RSD hypervigilance triggers panic. Neuro-Action Checklist."
+slug: "adhd-financial-chaos"
 author: "Madan | QuirkyLabs"
 date: "2025-06-23"
 type: "page"
 categories: ["ADHD Emotional Regulation", "ADHD Relationships", "Rejection Sensitivity"]
-tags: ["amygdala freeze", "relationship anxiety", "overwhelm", "RSD", "attachment", "communication"]
-keywords: ["why do ADHDers fear silence", "how to communicate with adhd", "ADHD relationship anxiety", "ADHD YNAB setup", "ADHD misinterpreting silence", "amygdala freeze relationships"]
-og_image: "/og/adhd-partner-silence-debug.png"
-og_title: "ADHD & Silence: Amygdala Freeze Fix"
-og_description: "Amygdala freeze from silence? Neuro-actions for relational security."
+tags: ["RSD hypervigilance", "relationship anxiety", "overwhelm", "rejection", "attachment", "communication"]
+keywords: ["why do ADHDers struggle with silence", "how to communicate with ADHD", "ADHD relationship anxiety", "ADHD attachment patterns", "RSD relationship sabotage", "ADHD communication tools"]
+og_image: "/og/adhd-financial-chaos-debug.png"
+og_title: "ADHD & Silence: RSD Hypervigilance Fix"
+og_description: "Partner silence triggering RSD hypervigilance? Neuro-actions for relational safety."
 ---
 ```

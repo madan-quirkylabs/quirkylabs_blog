@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: "ADHD & 'Laziness': The Dopamine Dip Sabotaging Your Productivity (Debug It)"
-description: "Does starting tasks feel like scaling a wall? Faraone et al., 2021 proves dopamine dip blocks action. Neuro-Action Checklist."
-slug: "adhd-identity-crisis-late-diagnosis"
+title: "ADHD & Task Avoidance: Your Brain’s Dopamine Dip (Debug It)"
+description: "Bank balance anxiety? Faraone et al., 2021 proves dopamine dip blocks action. Neuro-Action Checklist."
+slug: "adhd-financial-chaos"
 author: "Madan | QuirkyLabs"
 date: "2025-06-23"
 type: "page"
-categories: ["ADHD Emotional Regulation", "Executive Dysfunction", "Neurodivergent Identity"]
-tags: ["dopamine dip", "task initiation", "shame", "executive dysfunction", "self-blame", "procrastination"]
-keywords: ["why do ADHDers struggle with tasks", "how to start tasks with ADHD", "ADHD task paralysis", "ADHD YNAB setup", "ADHD motivation", "dopamine dip motivation"]
-og_image: "/og/adhd-identity-crisis-late-diagnosis-debug.png"
-og_title: "ADHD 'Laziness': Dopamine Dip Fix"
-og_description: "Dopamine deserts blocking tasks? Neuro-actions for productivity."
+categories: ["ADHD and Money", "Executive Dysfunction", "Financial Avoidance"]
+tags: ["dopamine dip", "financial avoidance", "shame", "overwhelm", "bill paralysis", "procrastination"]
+keywords: ["why do ADHDers struggle with money", "how to manage money with ADHD", "ADHD money shame", "ADHD YNAB setup", "financial anxiety ADHD", "dopamine dip money"]
+og_image: "/og/adhd-financial-chaos-debug.png"
+og_title: "ADHD Money Chaos: Dopamine Dip Fix"
+og_description: "Dopamine deserts blocking your finances? Neuro-actions for financial safety."
 ---
 ```
