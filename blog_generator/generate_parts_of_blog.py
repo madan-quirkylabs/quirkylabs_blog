@@ -372,7 +372,7 @@ def discover_spoke_metadata():
 
         pillar_file_paths = [fname for fname in os.listdir(pillar_path)
                        if fname.startswith("pillar-metadata.") and fname.endswith(".json")]
-        a_pillar_file_path = pillar_file_paths[0]
+        a_pillar_file_path = os.path.join(pillar_path, pillar_file_paths[0])
 
         with open(a_pillar_file_path, 'r', encoding="utf-8") as f:
             pillar_metadata_text = f.read()
