@@ -2,10 +2,8 @@
 ---
 title: "ADHD & Career Survival Mode: Your Executive Dysfunction Loop Sabotaging Your Job"
 description: "Does your career feel like a never-ending hamster wheel? Faraone et al., 2021 proves executive dysfunction loop blocks engagement. Neuro-Action Checklist."
-slug: "adhd-career-survival-mode.why-do-i-get-bored-and-quit-every-job"
 author: "Madan | QuirkyLabs"
 date: "2025-06-23"
-type: "page"
 categories: ["ADHD at Work", "Executive Dysfunction", "ADHD Productivity"]
 tags: ["executive dysfunction loop", "job struggles", "overwhelm", "dopamine", "boredom", "career"]
 keywords: ["why do ADHDers struggle with jobs", "how to stay employed with ADHD", "ADHD job struggles", "ADHD career", "executive function overload digital ADHD", "ADHD work productivity"]
