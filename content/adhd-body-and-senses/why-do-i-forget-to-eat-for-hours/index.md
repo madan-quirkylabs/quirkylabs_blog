@@ -1,3 +1,16 @@
+---
+title: "ADHD & Forgotten Meals: The Executive Dysfunction Loop Sabotaging Your Energy (Debug It)"
+description: "Body screaming? Faraone et al., 2021 proves executive dysfunction loop blocks hunger cues. Neuro-Action Checklist."
+author: "QuirkyLabs Research Team"
+date: "2025-06-25"
+categories: ["Executive Dysfunction", "ADHD Nutrition", "Sensory Processing"]
+tags: ["executive dysfunction loop", "forgotten meals", "shame", "interoception", "hyperfocus", "ADHD self-care"]
+keywords: ["why do ADHDers forget to eat", "how to remember to eat with ADHD", "ADHD meal reminders", "digital dopamine traps ADHD", "ADHD nutrition", "interoception ADHD hunger cues"]
+og_image: "/og/adhd-forgotten-meals-debug.png"
+og_title: "ADHD & Forgotten Meals: Executive Loop Fix"
+og_description: "Executive dysfunction loop blocking hunger? Neuro-actions for balanced energy."
+---
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
