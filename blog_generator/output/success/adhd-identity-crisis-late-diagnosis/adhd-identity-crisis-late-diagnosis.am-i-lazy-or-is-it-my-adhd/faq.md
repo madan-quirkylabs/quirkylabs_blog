@@ -32,10 +32,10 @@
 
 #### **Social Scripts**
 **Q: How do I explain my struggles with task initiation to my partner?**
-**A:** AI-generated script: "[Partner], my ADHD brain sometimes struggles to 'switch on' for mundane tasks. It's not about being lazy; it's a specific neural circuit that needs a little nudge. When you see me stuck, a gentle 'brain fog' emoji can signal a need for external initiation support. We're working on making this brain more efficient!"
+**A:** "[Partner], my ADHD brain sometimes struggles to 'switch on' for mundane tasks. It's not about being lazy; it's a specific neural circuit that needs a little nudge. When you see me stuck, a gentle 'brain fog' emoji can signal a need for external initiation support. We're working on making this brain more efficient!"
 
 **Q: How do I communicate my challenges with focus to my boss without sounding unprofessional?**
-**A:** AI-generated script: "I've been optimizing my workflow to leverage my neuro-strengths. For certain tasks, initiating can require specific 'neural priming.' I've implemented a system that proactively addresses this, allowing me to maintain high productivity and ensure timely completion of my deliverables. I'm exploring new neuro-affirming 'Operating System' tools to further enhance my focus and output."
+**A:** "I've been optimizing my workflow to leverage my neuro-strengths. For certain tasks, initiating can require specific 'neural priming.' I've implemented a system that proactively addresses this, allowing me to maintain high productivity and ensure timely completion of my deliverables. I'm exploring new neuro-affirming 'Operating System' tools to further enhance my focus and output."
 
 #### **Advanced Tools**
 **Q: How does the QuirkyLabs "Dopamine Debug Console" short-circuit the "laziness" cycle?**

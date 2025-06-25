@@ -80,7 +80,7 @@
       "name": "How do I explain this to my partner?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "AI-generated script: <i>\"Honey, when I'm staring at the fridge, my brain isn't being picky, it's literally crashing from too much data. The most helpful thing you can do is just offer me two simple choices. It saves me from a total shutdown.\"</i> This can help them understand the neurobiological basis of your struggle."
+        "text": "<i>\"Honey, when I'm staring at the fridge, my brain isn't being picky, it's literally crashing from too much data. The most helpful thing you can do is just offer me two simple choices. It saves me from a total shutdown.\"</i> This can help them understand the neurobiological basis of your struggle."
       }
     },
     {

@@ -26,10 +26,10 @@
 
 #### **Category 4: Social Scripts**
 **Q: How do I explain my task-switching difficulties to my boss?**
-**A:** AI-generated script: *"Boss, when I'm interrupted, my ADHD brain experiences it as a full system crash that takes a lot of energy to recover from. Could we try a 15-minute sync at 3 PM each day for 'quick questions' so I can deliver higher quality results on my core projects?"*
+**A:** *"Boss, when I'm interrupted, my ADHD brain experiences it as a full system crash that takes a lot of energy to recover from. Could we try a 15-minute sync at 3 PM each day for 'quick questions' so I can deliver higher quality results on my core projects?"*
 
 **Q: How can I communicate this to my partner without sounding difficult?**
-**A:** AI-generated script: *"Honey, when you interrupt me, my ADHD brain experiences it as a full system crash that takes a lot of energy to recover from. If it's not urgent, could you send a message instead? It helps me stay on track, and I promise I'll get to it."*
+**A:** *"Honey, when you interrupt me, my ADHD brain experiences it as a full system crash that takes a lot of energy to recover from. If it's not urgent, could you send a message instead? It helps me stay on track, and I promise I'll get to it."*
 
 #### **Category 5: Advanced Tools**
 **Q: How does QuirkyLabs' 'Digital Dopamine Profile' short-circuit digital task paralysis?**

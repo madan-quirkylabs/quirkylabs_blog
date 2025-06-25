@@ -85,7 +85,7 @@
       "name": "How do I explain my chronic lateness to my partner without them thinking I don't care?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "AI-generated script: <i>\"[Partner], I want you to know that my lateness is never about not caring. My ADHD brain genuinely struggles to feel the passage of time. The strategies and alarms I'm using now are my way of showing you how much your time means to me.\"</i>"
+        "text": "<i>\"[Partner], I want you to know that my lateness is never about not caring. My ADHD brain genuinely struggles to feel the passage of time. The strategies and alarms I'm using now are my way of showing you how much your time means to me.\"</i>"
       }
     },
     {
@@ -179,7 +179,7 @@ For the Overwhelmed: If you skipped here, just do this: Set one alarm for 15 min
 
 #### **Category 4: Social Scripts**
 **Q: How do I explain my chronic lateness to my partner without them thinking I don't care?**
-**A:** AI-generated script: *"[Partner], I want you to know that my lateness is never about not caring. My ADHD brain genuinely struggles to feel the passage of time. The strategies and alarms I'm using now are my way of showing you how much your time means to me."*
+**A:** *"[Partner], I want you to know that my lateness is never about not caring. My ADHD brain genuinely struggles to feel the passage of time. The strategies and alarms I'm using now are my way of showing you how much your time means to me."*
 
 #### **Category 5: Advanced Tools**
 **Q: How does the QuirkyLabs "Adaptive App Firewall" help me avoid digital distractions before I need to leave?**

@@ -26,10 +26,10 @@
 
 #### **Category 4: Social Scripts**
 **Q: How do I explain my morning struggles to my partner?**
-**A:** AI-generated script: *"[Partner], my ADHD brain has Delayed Sleep Phase Syndrome, which makes waking up genuinely difficult. Can we try using a sunrise alarm and a gentle wake-up routine to make it easier for me?"*
+**A:** *"[Partner], my ADHD brain has Delayed Sleep Phase Syndrome, which makes waking up genuinely difficult. Can we try using a sunrise alarm and a gentle wake-up routine to make it easier for me?"*
 
 **Q: What can I say to my boss when I'm late because I couldn't get out of bed?**
-**A:** AI-generated script: *"I'm working on managing my ADHD-related sleep challenges. I've implemented some new strategies, and I'll keep you updated on my progress."*
+**A:** *"I'm working on managing my ADHD-related sleep challenges. I've implemented some new strategies, and I'll keep you updated on my progress."*
 
 #### **Category 5: Advanced Tools**
 **Q: How does the 'Neuro-Calibrated Environment Protocol' short-circuit my morning pain?**

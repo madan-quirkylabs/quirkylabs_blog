@@ -29,7 +29,7 @@
 
 #### **Category 4: Social Scripts**
 **Q: How do I explain my struggles with mundane tasks to my partner who says, "Why can't you just start? It's not that hard?"**
-**A:** AI-generated script: *"[Partner], you know how my brain sometimes struggles to 'switch on' for mundane tasks? It's not about being lazy; it's a specific neural circuit that needs a little nudge. When you see me stuck, a gentle 'neural high-five' (e.g., a specific non-verbal cue) helps me kickstart. We're working on making this brain more efficient!'"*
+**A:** *"[Partner], you know how my brain sometimes struggles to 'switch on' for mundane tasks? It's not about being lazy; it's a specific neural circuit that needs a little nudge. When you see me stuck, a gentle 'neural high-five' (e.g., a specific non-verbal cue) helps me kickstart. We're working on making this brain more efficient!'"*
 
 #### **Category 5: Advanced Tools**
 **Q: How does the 'Digital Dopamine Dial™' short-circuit procrastination?**

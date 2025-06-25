@@ -56,7 +56,7 @@
       "name": "How do I explain my overreactions to my partner without them thinking I'm being dramatic?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "AI-generated script: *\"[Partner], I'm not trying to be difficult. My ADHD brain experiences criticism differently. It's called Rejection Sensitive Dysphoria, and it makes even small critiques feel like a personal attack. Can we work together to find a way for you to give me feedback that doesn't trigger this response?\"*"
+        "text": "*\"[Partner], I'm not trying to be difficult. My ADHD brain experiences criticism differently. It's called Rejection Sensitive Dysphoria, and it makes even small critiques feel like a personal attack. Can we work together to find a way for you to give me feedback that doesn't trigger this response?\"*"
       }
     },
     {

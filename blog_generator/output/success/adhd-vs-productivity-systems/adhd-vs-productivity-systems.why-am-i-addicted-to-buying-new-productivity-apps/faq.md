@@ -30,7 +30,7 @@
 
 #### **Category 4: Social Scripts**
 **Q: How do I explain my app cycling to my partner?**
-**A:** AI-generated script: *"Honey, you know how my brain sometimes struggles to 'switch on' for mundane tasks? It's not about being lazy; it's a specific neural circuit that needs a little nudge. When you see me stuck, a gentle 'neural high-five' (e.g., a specific non-verbal cue) helps me kickstart. We're working on making this brain more efficient!"* This is common with ADHD because of dopamine dysregulation (Volkow et al., 2011).
+**A:** *"Honey, you know how my brain sometimes struggles to 'switch on' for mundane tasks? It's not about being lazy; it's a specific neural circuit that needs a little nudge. When you see me stuck, a gentle 'neural high-five' (e.g., a specific non-verbal cue) helps me kickstart. We're working on making this brain more efficient!"* This is common with ADHD because of dopamine dysregulation (Volkow et al., 2011).
 
 #### **Category 5: Advanced Tools**
 **Q: How does the QuirkyLabs 'Adaptive App Firewall' help short-circuit app cycling?**

@@ -85,7 +85,7 @@
       "name": "How do I explain the exhaustion of masking to my partner?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "AI-generated script: *\"Hey, sometimes I get really drained because I'm trying so hard to seem 'normal' or 'on top of things,' even when my brain is doing its ADHD thing. It’s called masking, and it’s exhausting. It's not that I'm trying to hide from you, but it’s a learned behavior. Can you help me by creating a safe space where I don't have to constantly perform?\"*"
+        "text": "*\"Hey, sometimes I get really drained because I'm trying so hard to seem 'normal' or 'on top of things,' even when my brain is doing its ADHD thing. It’s called masking, and it’s exhausting. It's not that I'm trying to hide from you, but it’s a learned behavior. Can you help me by creating a safe space where I don't have to constantly perform?\"*"
       }
     },
     {
@@ -208,7 +208,7 @@ For the Overwhelmed: If you skipped here, just do this: Take three deep breaths 
 #### **Social Scripts**
 
 **Q: How do I explain the exhaustion of masking to my partner?**
-**A:** AI-generated script: *"Hey, sometimes I get really drained because I'm trying so hard to seem 'normal' or 'on top of things,' even when my brain is doing its ADHD thing. It’s called masking, and it’s exhausting. It's not that I'm trying to hide from you, but it’s a learned behavior. Can you help me by creating a safe space where I don't have to constantly perform?"*
+**A:** *"Hey, sometimes I get really drained because I'm trying so hard to seem 'normal' or 'on top of things,' even when my brain is doing its ADHD thing. It’s called masking, and it’s exhausting. It's not that I'm trying to hide from you, but it’s a learned behavior. Can you help me by creating a safe space where I don't have to constantly perform?"*
 
 #### **Advanced Tools**
 

@@ -23,7 +23,7 @@
 
 #### **Category 4: Social Scripts**
 **Q: How do I explain my 'waiting mode' behavior to my partner?**
-**A:** AI-generated script: *"[Partner], my ADHD brain goes into this 'waiting mode' before appointments, making it hard to start new tasks. It helps if we have a couple of quick, easy things we can do together in that time."*
+**A:** *"[Partner], my ADHD brain goes into this 'waiting mode' before appointments, making it hard to start new tasks. It helps if we have a couple of quick, easy things we can do together in that time."*
 
 #### **Category 5: Advanced Tools**
 **Q: How does QuirkyLabs help me short-circuit 'waiting mode' paralysis?**

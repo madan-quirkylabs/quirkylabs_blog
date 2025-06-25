@@ -85,7 +85,7 @@
       "name": "How do I explain my 'revenge bedtime procrastination' to my partner?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "AI-generated script: *\"[Partner], my ADHD brain craves autonomy after a day of feeling controlled. I'm not trying to ignore you, but I need some 'me time' to decompress. Can we try scheduling some time for me during the day so I don't feel the urge to stay up so late?\"*"
+        "text": "*\"[Partner], my ADHD brain craves autonomy after a day of feeling controlled. I'm not trying to ignore you, but I need some 'me time' to decompress. Can we try scheduling some time for me during the day so I don't feel the urge to stay up so late?\"*"
       }
     },
     {
@@ -197,7 +197,7 @@ For the Overwhelmed: If you skipped here, just do this: Put your phone on the ch
 #### **Category 4: Social Scripts**
 
 **Q: How do I explain my 'revenge bedtime procrastination' to my partner?**
-**A:** AI-generated script: *"[Partner], my ADHD brain craves autonomy after a day of feeling controlled. I'm not trying to ignore you, but I need some 'me time' to decompress. Can we try scheduling some time for me during the day so I don't feel the urge to stay up so late?"*
+**A:** *"[Partner], my ADHD brain craves autonomy after a day of feeling controlled. I'm not trying to ignore you, but I need some 'me time' to decompress. Can we try scheduling some time for me during the day so I don't feel the urge to stay up so late?"*
 
 #### **Category 5: Advanced Tools**
 

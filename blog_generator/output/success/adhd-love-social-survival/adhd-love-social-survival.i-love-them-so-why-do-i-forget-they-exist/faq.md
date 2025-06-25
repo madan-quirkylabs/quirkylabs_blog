@@ -23,7 +23,7 @@
 
 #### **Category 4: Social Scripts**
 **Q: How do I explain this feeling to my partner?**
-**A:** AI-generated script: "[Partner], sometimes, because of my ADHD, I feel like I'm just a bundle of symptoms, not a person. It's really hard for me to see myself fully sometimes. Can we talk about my strengths tonight, the things you appreciate about me, rather than focusing on my challenges? It helps me see myself as a whole person." (Hero Journey Engine).
+**A:** "[Partner], sometimes, because of my ADHD, I feel like I'm just a bundle of symptoms, not a person. It's really hard for me to see myself fully sometimes. Can we talk about my strengths tonight, the things you appreciate about me, rather than focusing on my challenges? It helps me see myself as a whole person." (Hero Journey Engine).
 
 #### **Category 5: Advanced Tools**
 **Q: How does QuirkyLabs help me short-circuit this feeling of being a "walking symptom"?**

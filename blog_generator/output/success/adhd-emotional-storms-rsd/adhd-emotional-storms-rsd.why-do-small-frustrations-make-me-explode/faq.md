@@ -27,10 +27,10 @@
 #### **Category 4: Social Scripts**
 
 **Q: How do I explain my explosive reactions to my partner?**
-**A:** AI-generated script: "[Partner], my ADHD brain has a really short fuse for frustration. It's not about you; it's an impulse-control thing. When I say 'pause,' it means I need a moment to prevent an explosion, so we can solve the actual problem calmly."
+**A:** "[Partner], my ADHD brain has a really short fuse for frustration. It's not about you; it's an impulse-control thing. When I say 'pause,' it means I need a moment to prevent an explosion, so we can solve the actual problem calmly."
 
 **Q: How do I communicate this to my boss?**
-**A:** AI-generated script: "I am most effective at problem-solving when I can take a moment to step back and assess a frustrating situation before reacting. This approach allows me to channel my energy into finding a solution rather than focusing on the obstacle."
+**A:** "I am most effective at problem-solving when I can take a moment to step back and assess a frustrating situation before reacting. This approach allows me to channel my energy into finding a solution rather than focusing on the obstacle."
 
 #### **Category 5: Advanced Tools**
 

@@ -85,7 +85,7 @@
       "name": "How do I explain my inconsistent energy levels to my partner?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "AI-generated script: *\"[Partner], my ADHD brain operates in a 'Boom-Buckle-Bust' cycle. It's not that I'm lazy, but that I need strategic rest to prevent burnout. Can we co-create a signal for when I need to reduce demands?\"*"
+        "text": "*\"[Partner], my ADHD brain operates in a 'Boom-Buckle-Bust' cycle. It's not that I'm lazy, but that I need strategic rest to prevent burnout. Can we co-create a signal for when I need to reduce demands?\"*"
       }
     },
     {
@@ -197,7 +197,7 @@ For the Overwhelmed: If you skipped here, just do this: Schedule a 5-minute brea
 
 #### **Category 4: Social Scripts**
 **Q: How do I explain my inconsistent energy levels to my partner?**
-**A:** AI-generated script: *"[Partner], my ADHD brain operates in a 'Boom-Buckle-Bust' cycle. It's not that I'm lazy, but that I need strategic rest to prevent burnout. Can we co-create a signal for when I need to reduce demands?"*
+**A:** *"[Partner], my ADHD brain operates in a 'Boom-Buckle-Bust' cycle. It's not that I'm lazy, but that I need strategic rest to prevent burnout. Can we co-create a signal for when I need to reduce demands?"*
 
 #### **Category 5: Advanced Tools**
 **Q: How does QuirkyLabs' "Dopamine-Driven Energy Dial™" short-circuit the 'Boom-Buckle-Bust' cycle?**

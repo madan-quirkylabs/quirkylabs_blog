@@ -26,7 +26,7 @@
 
 #### **Category 4: Social Scripts**
 **Q: How do I explain my exercise avoidance to my partner who doesn't understand ADHD?**
-**A:** AI-generated script: *"[Partner], my ADHD brain struggles with initiating exercise because of dopamine differences. It’s not laziness. Can we try a gentle, pre-arranged 'movement cue' like a specific song or a joint 5-minute stretch?"*
+**A:** *"[Partner], my ADHD brain struggles with initiating exercise because of dopamine differences. It’s not laziness. Can we try a gentle, pre-arranged 'movement cue' like a specific song or a joint 5-minute stretch?"*
 
 #### **Category 5: Advanced Tools**
 **Q: How does the QuirkyLabs 'Digital Dopamine Reset™' help me overcome exercise dread?**

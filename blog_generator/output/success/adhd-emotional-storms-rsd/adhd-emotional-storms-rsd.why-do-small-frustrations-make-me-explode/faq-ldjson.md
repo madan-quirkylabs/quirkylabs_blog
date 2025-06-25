@@ -56,7 +56,7 @@
       "name": "How do I explain my explosive reactions to my partner?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "AI-generated script: \"[Partner], my ADHD brain has a really short fuse for frustration. It's not about you; it's an impulse-control thing. When I say 'pause,' it means I need a moment to prevent an explosion, so we can solve the actual problem calmly.\""
+        "text": "\"[Partner], my ADHD brain has a really short fuse for frustration. It's not about you; it's an impulse-control thing. When I say 'pause,' it means I need a moment to prevent an explosion, so we can solve the actual problem calmly.\""
       }
     },
     {
@@ -64,7 +64,7 @@
       "name": "How do I communicate this to my boss?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "AI-generated script: \"I am most effective at problem-solving when I can take a moment to step back and assess a frustrating situation before reacting. This approach allows me to channel my energy into finding a solution rather than focusing on the obstacle.\""
+        "text": "\"I am most effective at problem-solving when I can take a moment to step back and assess a frustrating situation before reacting. This approach allows me to channel my energy into finding a solution rather than focusing on the obstacle.\""
       }
     },
     {

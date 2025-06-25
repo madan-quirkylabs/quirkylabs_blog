@@ -56,7 +56,7 @@
       "name": "How do I explain my struggle with \"easy\" tasks to my partner without sounding ridiculous?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "AI-generated script: *\"[Partner], when I freeze on a simple task, my brain is having a genuine, albeit irrational, threat response. It feels like a wall of shame. The most helpful thing you can do is not focus on the task, but just validate the feeling, like saying, 'I know this feels huge right now. No pressure.'\"*"
+        "text": "*\"[Partner], when I freeze on a simple task, my brain is having a genuine, albeit irrational, threat response. It feels like a wall of shame. The most helpful thing you can do is not focus on the task, but just validate the feeling, like saying, 'I know this feels huge right now. No pressure.'\"*"
       }
     },
     {

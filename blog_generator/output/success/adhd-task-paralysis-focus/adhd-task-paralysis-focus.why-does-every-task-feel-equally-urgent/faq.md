@@ -32,10 +32,10 @@
 
 #### **Category 4: Social Scripts**
 **Q: How do I explain my difficulty prioritizing to my partner?**
-**A:** AI-generated script: *"Honey, my brain's 'urgency knob' is broken and stuck on high, so everything feels like an emergency to me. It's really helpful if you can be my external filter. If you need something, can you tell me 'this is a fire' or 'this can wait until tomorrow?' That helps me sort the noise."*
+**A:** *"Honey, my brain's 'urgency knob' is broken and stuck on high, so everything feels like an emergency to me. It's really helpful if you can be my external filter. If you need something, can you tell me 'this is a fire' or 'this can wait until tomorrow?' That helps me sort the noise."*
 
 **Q: How can I communicate my needs to my boss regarding task prioritization?**
-**A:** AI-generated script: *"To ensure I'm always aligned with team goals, it's incredibly helpful for me if we can clarify the single top priority for me for the week during our check-ins. That clarity allows me to direct my focus to what's most impactful and avoid getting bogged down in lower-priority tasks."*
+**A:** *"To ensure I'm always aligned with team goals, it's incredibly helpful for me if we can clarify the single top priority for me for the week during our check-ins. That clarity allows me to direct my focus to what's most impactful and avoid getting bogged down in lower-priority tasks."*
 
 #### **Category 5: Advanced Tools**
 **Q: How does QuirkyLabs' 'Digital Dopamine Navigator™' short-circuit the feeling of 'priority paralysis'?**

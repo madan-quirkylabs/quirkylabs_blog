@@ -64,7 +64,7 @@
       "name": "How do I explain my 'screen paralysis' to my partner?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "AI-generated script: *\"Honey, my ADHD brain gets easily caught in 'digital quicksand' that's designed to be addictive. It's not that I don't want to stop. Having a pre-agreed, gentle reminder like asking 'What's your mission right now?' helps me break the spell without feeling attacked.\"*"
+        "text": "*\"Honey, my ADHD brain gets easily caught in 'digital quicksand' that's designed to be addictive. It's not that I don't want to stop. Having a pre-agreed, gentle reminder like asking 'What's your mission right now?' helps me break the spell without feeling attacked.\"*"
       }
     },
     {

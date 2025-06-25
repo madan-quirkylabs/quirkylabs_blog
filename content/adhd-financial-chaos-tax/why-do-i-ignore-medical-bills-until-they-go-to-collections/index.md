@@ -85,7 +85,7 @@
       "name": "How do I explain my bill avoidance to my partner?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "AI-generated script: *\"[Partner], my ADHD brain struggles with the emotional load of finances. Can we try setting up automatic payments together?\"* This helps them understand it's not laziness, but a neurological challenge."
+        "text": "*\"[Partner], my ADHD brain struggles with the emotional load of finances. Can we try setting up automatic payments together?\"* This helps them understand it's not laziness, but a neurological challenge."
       }
     },
     {
@@ -93,7 +93,7 @@
       "name": "How do I explain my 'ADHD tax' to friends?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "AI-generated script: *\"I have ADHD, which sometimes means I forget things like subscriptions. It's like a hidden tax on my brain. It's not ideal, but I'm working on it!\"* It normalizes the experience and educates others."
+        "text": "*\"I have ADHD, which sometimes means I forget things like subscriptions. It's like a hidden tax on my brain. It's not ideal, but I'm working on it!\"* It normalizes the experience and educates others."
       }
     },
     {
@@ -221,10 +221,10 @@ For the Overwhelmed: If you skipped here, just do this: Open ONE bill. That's it
 
 #### **Category 4: Social Scripts**
 **Q: How do I explain my bill avoidance to my partner?**
-**A:** AI-generated script: *"[Partner], my ADHD brain struggles with the emotional load of finances. Can we try setting up automatic payments together?"* This helps them understand it's not laziness, but a neurological challenge.
+**A:** *"[Partner], my ADHD brain struggles with the emotional load of finances. Can we try setting up automatic payments together?"* This helps them understand it's not laziness, but a neurological challenge.
 
 **Q: How do I explain my 'ADHD tax' to friends?**
-**A:** AI-generated script: *"I have ADHD, which sometimes means I forget things like subscriptions. It's like a hidden tax on my brain. It's not ideal, but I'm working on it!"* It normalizes the experience and educates others.
+**A:** *"I have ADHD, which sometimes means I forget things like subscriptions. It's like a hidden tax on my brain. It's not ideal, but I'm working on it!"* It normalizes the experience and educates others.
 
 #### **Category 5: Advanced Tools**
 **Q: How does the 'ADHD Financial Freedom Checklist' short-circuit financial overwhelm?**

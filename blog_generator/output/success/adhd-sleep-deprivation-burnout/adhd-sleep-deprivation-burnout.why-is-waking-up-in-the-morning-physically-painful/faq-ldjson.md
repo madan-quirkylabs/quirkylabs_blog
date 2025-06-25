@@ -56,7 +56,7 @@
       "name": "How do I explain my morning struggles to my partner?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "AI-generated script: *\"[Partner], my ADHD brain has Delayed Sleep Phase Syndrome, which makes waking up genuinely difficult. Can we try using a sunrise alarm and a gentle wake-up routine to make it easier for me?\"*"
+        "text": "*\"[Partner], my ADHD brain has Delayed Sleep Phase Syndrome, which makes waking up genuinely difficult. Can we try using a sunrise alarm and a gentle wake-up routine to make it easier for me?\"*"
       }
     },
     {
@@ -64,7 +64,7 @@
       "name": "What can I say to my boss when I'm late because I couldn't get out of bed?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "AI-generated script: *\"I'm working on managing my ADHD-related sleep challenges. I've implemented some new strategies, and I'll keep you updated on my progress.\"*"
+        "text": "*\"I'm working on managing my ADHD-related sleep challenges. I've implemented some new strategies, and I'll keep you updated on my progress.\"*"
       }
     },
     {

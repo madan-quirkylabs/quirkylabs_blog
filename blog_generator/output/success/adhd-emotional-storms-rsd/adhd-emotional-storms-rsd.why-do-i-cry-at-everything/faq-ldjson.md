@@ -72,7 +72,7 @@
       "name": "How do I explain my crying spells to my partner?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "AI-generated script: *\"Honey, when I cry at what seems like nothing, it's often because my ADHD brain's 'sensory cup' is full and has overflowed. It’s not about the specific thing, but the buildup. Giving me a quiet moment to reset helps more than asking what's wrong.\"*"
+        "text": "*\"Honey, when I cry at what seems like nothing, it's often because my ADHD brain's 'sensory cup' is full and has overflowed. It’s not about the specific thing, but the buildup. Giving me a quiet moment to reset helps more than asking what's wrong.\"*"
       }
     },
     {
@@ -80,7 +80,7 @@
       "name": "How do I explain my emotional reactions to my boss?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "AI-generated script: *\"I perform at my best when I can proactively manage my sensory environment to maintain optimal focus. Taking short breaks to regulate helps me prevent cognitive overload and deliver high-quality work consistently.\"*"
+        "text": "*\"I perform at my best when I can proactively manage my sensory environment to maintain optimal focus. Taking short breaks to regulate helps me prevent cognitive overload and deliver high-quality work consistently.\"*"
       }
     },
     {

@@ -48,7 +48,7 @@
       "name": "How do I communicate this to my partner without sounding 'crazy'?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "AI-generated script: *\"[Partner], because of my ADHD, when you go quiet my brain's 'object permanence' for our connection can flicker. It panics and thinks you've disappeared. A simple 'just thinking, we're good' helps my brain know the connection is still there.\"* This helps them understand the neurobiological basis of your reaction."
+        "text": "*\"[Partner], because of my ADHD, when you go quiet my brain's 'object permanence' for our connection can flicker. It panics and thinks you've disappeared. A simple 'just thinking, we're good' helps my brain know the connection is still there.\"* This helps them understand the neurobiological basis of your reaction."
       }
     },
     {
@@ -56,7 +56,7 @@
       "name": "How do I explain my overreactions to my boss?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "AI-generated script: *\"I operate best with clear communication loops. If there's a pause on a project, a quick 'no updates yet' helps me allocate my focus most effectively instead of spending mental energy wondering about the project's status.\"* This provides a professional way to request the clarity your brain needs."
+        "text": "*\"I operate best with clear communication loops. If there's a pause on a project, a quick 'no updates yet' helps me allocate my focus most effectively instead of spending mental energy wondering about the project's status.\"* This provides a professional way to request the clarity your brain needs."
       }
     },
     {

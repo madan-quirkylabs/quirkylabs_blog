@@ -56,7 +56,7 @@
       "name": "How do I explain my forgotten meals to my partner without feeling judged?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "AI-generated script: *\"[Partner], my ADHD brain sometimes misses internal hunger signals, especially when I'm hyperfocused. It’s not about ignoring you or food; it's an interoception thing. A gentle, pre-arranged 'food alert signal' (e.g., a specific emoji or a visible snack) helps me re-tune.\"*"
+        "text": "*\"[Partner], my ADHD brain sometimes misses internal hunger signals, especially when I'm hyperfocused. It’s not about ignoring you or food; it's an interoception thing. A gentle, pre-arranged 'food alert signal' (e.g., a specific emoji or a visible snack) helps me re-tune.\"*"
       }
     },
     {

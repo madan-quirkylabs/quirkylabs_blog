@@ -56,7 +56,7 @@
       "name": "How do I explain my difficulty asking for help to my partner without sounding like I don't trust them?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "AI-generated script: *\"[Partner], my ADHD brain sometimes makes asking for help feel incredibly scary, even when I know I need it. It's not about trust; it's a deep-seated fear of judgment tied to past experiences. Can we practice a gentle 'check-in' signal when I'm feeling stuck, so you can offer support without me having to ask directly?'\"*"
+        "text": "*\"[Partner], my ADHD brain sometimes makes asking for help feel incredibly scary, even when I know I need it. It's not about trust; it's a deep-seated fear of judgment tied to past experiences. Can we practice a gentle 'check-in' signal when I'm feeling stuck, so you can offer support without me having to ask directly?'\"*"
       }
     },
     {
@@ -64,7 +64,7 @@
       "name": "How can I approach my boss about needing assistance without appearing incompetent?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "AI-generated script: *\"I'm committed to ensuring the highest quality of work. To maintain optimal efficiency on this project, I'd like to proactively seek your input/clarification on [specific aspect] to ensure alignment and leverage collective expertise. I've found that seeking early input significantly enhances my productivity and ensures successful outcomes.\"*"
+        "text": "*\"I'm committed to ensuring the highest quality of work. To maintain optimal efficiency on this project, I'd like to proactively seek your input/clarification on [specific aspect] to ensure alignment and leverage collective expertise. I've found that seeking early input significantly enhances my productivity and ensures successful outcomes.\"*"
       }
     },
     {

@@ -56,7 +56,7 @@
       "name": "How do I explain my 'involuntary ghosting' to my partner?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "AI-generated script: *\"[Partner], sometimes my ADHD brain struggles with 'texting paralysis' even when I love hearing from you. It's not you, it's my executive function. Can we try voice notes sometimes, or would it help if I only opened texts when I'm ready to reply?'\"* (Spoke Metadata)."
+        "text": "*\"[Partner], sometimes my ADHD brain struggles with 'texting paralysis' even when I love hearing from you. It's not you, it's my executive function. Can we try voice notes sometimes, or would it help if I only opened texts when I'm ready to reply?'\"* (Spoke Metadata)."
       }
     },
     {

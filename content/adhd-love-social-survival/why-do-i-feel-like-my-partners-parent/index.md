@@ -85,7 +85,7 @@
       "name": "How do I explain this \"parent-child dynamic\" to my partner so they understand it's not about me being lazy?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "AI-generated script: \"[Partner], my ADHD brain sometimes needs a 'copilot' for daily tasks, not a manager. It's not about being irresponsible; it's how my brain processes things. Can we use our shared QuirkyLabs task board for this, and I'll send you a 'success emoji' when it's done?'\""
+        "text": "\"[Partner], my ADHD brain sometimes needs a 'copilot' for daily tasks, not a manager. It's not about being irresponsible; it's how my brain processes things. Can we use our shared QuirkyLabs task board for this, and I'll send you a 'success emoji' when it's done?'\""
       }
     },
     {
@@ -199,7 +199,7 @@ Imagine a week where you both feel like equal partners, sharing responsibilities
 #### **Social Scripts**
 
 **Q: How do I explain this "parent-child dynamic" to my partner so they understand it's not about me being lazy?**
-**A:** AI-generated script: "[Partner], my ADHD brain sometimes needs a 'copilot' for daily tasks, not a manager. It's not about being irresponsible; it's how my brain processes things. Can we use our shared QuirkyLabs task board for this, and I'll send you a 'success emoji' when it's done?'"
+**A:** "[Partner], my ADHD brain sometimes needs a 'copilot' for daily tasks, not a manager. It's not about being irresponsible; it's how my brain processes things. Can we use our shared QuirkyLabs task board for this, and I'll send you a 'success emoji' when it's done?'"
 
 #### **Advanced Tools**
 

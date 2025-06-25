@@ -45,10 +45,10 @@
 #### **Social Scripts**
 
 **Q: How do I explain my hygiene struggles to my partner without feeling ashamed?**
-**A:** AI-generated script: *"Hey [Partner], my ADHD brain sometimes makes it really hard to start hygiene tasks. It's not that I don't care; it's an executive function thing. Can we try [Accommodation, e.g., setting a fun alarm or showering together]?"*
+**A:** *"Hey [Partner], my ADHD brain sometimes makes it really hard to start hygiene tasks. It's not that I don't care; it's an executive function thing. Can we try [Accommodation, e.g., setting a fun alarm or showering together]?"*
 
 **Q: How do I tell my boss that sensory overload in the office is affecting my productivity?**
-**A:** AI-generated script: *"I'm most productive when I can manage my sensory environment. I've found that [Accommodation, e.g., using noise-canceling headphones or working in a quieter space] really helps me focus and contribute my best work."*
+**A:** *"I'm most productive when I can manage my sensory environment. I've found that [Accommodation, e.g., using noise-canceling headphones or working in a quieter space] really helps me focus and contribute my best work."*
 
 #### **Advanced Tools**
 

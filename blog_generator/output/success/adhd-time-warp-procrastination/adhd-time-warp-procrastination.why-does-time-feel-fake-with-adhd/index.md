@@ -85,7 +85,7 @@
       "name": "How do I explain this \"time blindness\" thing to my partner without sounding crazy?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "AI-generated script: \"[Partner], my ADHD brain has trouble with its 'internal clock,' so time can feel really weird to me. When I get hyperfocused, it's like time disappears. Could you gently check in with me every so often to help me stay grounded in reality?\""
+        "text": "\"[Partner], my ADHD brain has trouble with its 'internal clock,' so time can feel really weird to me. When I get hyperfocused, it's like time disappears. Could you gently check in with me every so often to help me stay grounded in reality?\""
       }
     },
     {
@@ -181,7 +181,7 @@ For the Overwhelmed: If you skipped here, just do this: Set one physical timer f
 
 #### **Social Scripts**
 **Q: How do I explain this "time blindness" thing to my partner without sounding crazy?**
-**A:** AI-generated script: "[Partner], my ADHD brain has trouble with its 'internal clock,' so time can feel really weird to me. When I get hyperfocused, it's like time disappears. Could you gently check in with me every so often to help me stay grounded in reality?"
+**A:** "[Partner], my ADHD brain has trouble with its 'internal clock,' so time can feel really weird to me. When I get hyperfocused, it's like time disappears. Could you gently check in with me every so often to help me stay grounded in reality?"
 
 #### **Advanced Tools**
 **Q: How can QuirkyLabs help me break free from these digital time traps and reclaim my focus?**

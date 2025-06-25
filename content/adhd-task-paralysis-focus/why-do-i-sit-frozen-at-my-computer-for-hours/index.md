@@ -93,7 +93,7 @@
       "name": "How do I explain my 'screen paralysis' to my partner?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "AI-generated script: *\"Honey, my ADHD brain gets easily caught in 'digital quicksand' that's designed to be addictive. It's not that I don't want to stop. Having a pre-agreed, gentle reminder like asking 'What's your mission right now?' helps me break the spell without feeling attacked.\"*"
+        "text": "*\"Honey, my ADHD brain gets easily caught in 'digital quicksand' that's designed to be addictive. It's not that I don't want to stop. Having a pre-agreed, gentle reminder like asking 'What's your mission right now?' helps me break the spell without feeling attacked.\"*"
       }
     },
     {
@@ -217,7 +217,7 @@ For the Overwhelmed: If you skipped here, just do this: Close all unnecessary ta
 #### **Category 4: Social Scripts**
 
 **Q: How do I explain my 'screen paralysis' to my partner?**
-**A:** AI-generated script: *"Honey, my ADHD brain gets easily caught in 'digital quicksand' that's designed to be addictive. It's not that I don't want to stop. Having a pre-agreed, gentle reminder like asking 'What's your mission right now?' helps me break the spell without feeling attacked."*
+**A:** *"Honey, my ADHD brain gets easily caught in 'digital quicksand' that's designed to be addictive. It's not that I don't want to stop. Having a pre-agreed, gentle reminder like asking 'What's your mission right now?' helps me break the spell without feeling attacked."*
 
 #### **Category 5: Advanced Tools**
 

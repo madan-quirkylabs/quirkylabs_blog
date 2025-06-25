@@ -56,7 +56,7 @@
       "name": "How do I explain my task-switching difficulties to my boss?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "AI-generated script: *\"Boss, when I'm interrupted, my ADHD brain experiences it as a full system crash that takes a lot of energy to recover from. Could we try a 15-minute sync at 3 PM each day for 'quick questions' so I can deliver higher quality results on my core projects?\"*"
+        "text": "*\"Boss, when I'm interrupted, my ADHD brain experiences it as a full system crash that takes a lot of energy to recover from. Could we try a 15-minute sync at 3 PM each day for 'quick questions' so I can deliver higher quality results on my core projects?\"*"
       }
     },
     {
@@ -64,7 +64,7 @@
       "name": "How can I communicate this to my partner without sounding difficult?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "AI-generated script: *\"Honey, when you interrupt me, my ADHD brain experiences it as a full system crash that takes a lot of energy to recover from. If it's not urgent, could you send a message instead? It helps me stay on track, and I promise I'll get to it.\"*"
+        "text": "*\"Honey, when you interrupt me, my ADHD brain experiences it as a full system crash that takes a lot of energy to recover from. If it's not urgent, could you send a message instead? It helps me stay on track, and I promise I'll get to it.\"*"
       }
     },
     {

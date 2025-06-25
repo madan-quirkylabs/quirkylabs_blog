@@ -85,7 +85,7 @@
       "name": "How do I explain my overreactions to my partner without them thinking I'm being dramatic?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "AI-generated script: *\"[Partner], I'm not trying to be difficult. My ADHD brain experiences criticism differently. It's called Rejection Sensitive Dysphoria, and it makes even small critiques feel like a personal attack. Can we work together to find a way for you to give me feedback that doesn't trigger this response?\"*"
+        "text": "*\"[Partner], I'm not trying to be difficult. My ADHD brain experiences criticism differently. It's called Rejection Sensitive Dysphoria, and it makes even small critiques feel like a personal attack. Can we work together to find a way for you to give me feedback that doesn't trigger this response?\"*"
       }
     },
     {
@@ -191,7 +191,7 @@ For the Overwhelmed: If you skipped here, just do this: Whisper "RSD." It's a st
 
 #### **Category 4: Social Scripts**
 **Q: How do I explain my overreactions to my partner without them thinking I'm being dramatic?**
-**A:** AI-generated script: *"[Partner], I'm not trying to be difficult. My ADHD brain experiences criticism differently. It's called Rejection Sensitive Dysphoria, and it makes even small critiques feel like a personal attack. Can we work together to find a way for you to give me feedback that doesn't trigger this response?"*
+**A:** *"[Partner], I'm not trying to be difficult. My ADHD brain experiences criticism differently. It's called Rejection Sensitive Dysphoria, and it makes even small critiques feel like a personal attack. Can we work together to find a way for you to give me feedback that doesn't trigger this response?"*
 
 #### **Category 5: Advanced Tools**
 **Q: How can QuirkyLabs help me manage my RSD?**

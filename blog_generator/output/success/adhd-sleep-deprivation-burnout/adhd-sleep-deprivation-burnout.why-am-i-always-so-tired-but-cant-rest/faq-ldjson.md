@@ -56,7 +56,7 @@
       "name": "How do I explain my \"tired but wired\" state to my partner?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "AI-generated script: *\"[Partner], my ADHD brain sometimes feels like a racecar with no brakes at night, even when I'm exhausted. It’s not laziness; it's a specific neural overactivity. A gentle, pre-arranged 'quiet signal' (e.g., a specific emoji) helps me shift gears.\"*"
+        "text": "*\"[Partner], my ADHD brain sometimes feels like a racecar with no brakes at night, even when I'm exhausted. It’s not laziness; it's a specific neural overactivity. A gentle, pre-arranged 'quiet signal' (e.g., a specific emoji) helps me shift gears.\"*"
       }
     },
     {
@@ -64,7 +64,7 @@
       "name": "How do I communicate my need for a quiet environment before bed to my family?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "AI-generated script: *\"Hey everyone, I'm working on improving my sleep, and it's really important for my ADHD brain to have a calm environment before bed. Could we keep the noise down after [time] so I can wind down properly? It would make a huge difference for me.\"*"
+        "text": "*\"Hey everyone, I'm working on improving my sleep, and it's really important for my ADHD brain to have a calm environment before bed. Could we keep the noise down after [time] so I can wind down properly? It would make a huge difference for me.\"*"
       }
     },
     {

@@ -85,7 +85,7 @@
       "name": "How do I explain my 'involuntary ghosting' to my partner?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "AI-generated script: *\"[Partner], sometimes my ADHD brain struggles with 'texting paralysis' even when I love hearing from you. It's not you, it's my executive function. Can we try voice notes sometimes, or would it help if I only opened texts when I'm ready to reply?'\"* (Spoke Metadata)."
+        "text": "*\"[Partner], sometimes my ADHD brain struggles with 'texting paralysis' even when I love hearing from you. It's not you, it's my executive function. Can we try voice notes sometimes, or would it help if I only opened texts when I'm ready to reply?'\"* (Spoke Metadata)."
       }
     },
     {
@@ -198,7 +198,7 @@ For the Overwhelmed: If you skipped here, just do this: Send one emoji to one pe
 
 #### **Category 4: Social Scripts**
 **Q: How do I explain my 'involuntary ghosting' to my partner?**
-**A:** AI-generated script: *"[Partner], sometimes my ADHD brain struggles with 'texting paralysis' even when I love hearing from you. It's not you, it's my executive function. Can we try voice notes sometimes, or would it help if I only opened texts when I'm ready to reply?'"* (Spoke Metadata).
+**A:** *"[Partner], sometimes my ADHD brain struggles with 'texting paralysis' even when I love hearing from you. It's not you, it's my executive function. Can we try voice notes sometimes, or would it help if I only opened texts when I'm ready to reply?'"* (Spoke Metadata).
 
 #### **Category 5: Advanced Tools**
 **Q: How does QuirkyLabs' "Reply Roulette 2.0" short-circuit 'communication paralysis'?**

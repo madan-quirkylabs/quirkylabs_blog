@@ -56,7 +56,7 @@
       "name": "How do I explain my email struggles to my boss without sounding incompetent?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "AI-generated script: \"I've been implementing some new strategies to optimize my digital workflow, particularly around email management, to ensure maximum focus on key deliverables. I've found that by batching my email responses and utilizing specific organizational tools, I can significantly reduce cognitive load and enhance my overall productivity. I'm confident this will lead to even greater efficiency and responsiveness.\""
+        "text": "\"I've been implementing some new strategies to optimize my digital workflow, particularly around email management, to ensure maximum focus on key deliverables. I've found that by batching my email responses and utilizing specific organizational tools, I can significantly reduce cognitive load and enhance my overall productivity. I'm confident this will lead to even greater efficiency and responsiveness.\""
       }
     },
     {
@@ -64,7 +64,7 @@
       "name": "How do I explain my email avoidance to my partner?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "AI-generated script: \"My ADHD brain gets really overwhelmed by the sheer volume of emails, and it often leads to me avoiding my inbox entirely. It's like a digital clutter-bomb for my brain. I'm working on new strategies to manage it, but sometimes I might need a gentle reminder, or for you to help me prioritize urgent messages without judgment.\""
+        "text": "\"My ADHD brain gets really overwhelmed by the sheer volume of emails, and it often leads to me avoiding my inbox entirely. It's like a digital clutter-bomb for my brain. I'm working on new strategies to manage it, but sometimes I might need a gentle reminder, or for you to help me prioritize urgent messages without judgment.\""
       }
     },
     {

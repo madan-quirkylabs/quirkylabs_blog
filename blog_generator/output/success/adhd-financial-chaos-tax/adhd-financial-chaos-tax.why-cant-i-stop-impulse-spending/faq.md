@@ -32,10 +32,10 @@
 
 #### **Social Scripts**
 **Q: How do I explain my impulse spending to my partner without them thinking I'm irresponsible?**
-**A:** AI-generated script: *"[Partner], my ADHD brain is wired to seek immediate rewards, which sometimes leads to impulse purchases. It's not about being careless; it's a neurobiological response. Can we work together to find strategies to manage this, like setting a 'cooling-off' period before buying non-essential items?"*
+**A:** *"[Partner], my ADHD brain is wired to seek immediate rewards, which sometimes leads to impulse purchases. It's not about being careless; it's a neurobiological response. Can we work together to find strategies to manage this, like setting a 'cooling-off' period before buying non-essential items?"*
 
 **Q: How do I tell my friends "no" when they pressure me to spend money I don't have?**
-**A:** AI-generated script: *"I'd love to join you, but I'm currently working on my financial goals. Maybe we can find a free or low-cost activity to do instead?"*
+**A:** *"I'd love to join you, but I'm currently working on my financial goals. Maybe we can find a free or low-cost activity to do instead?"*
 
 #### **Advanced Tools**
 **Q: How does the 'Adaptive App Firewall' short-circuit impulse spending?**

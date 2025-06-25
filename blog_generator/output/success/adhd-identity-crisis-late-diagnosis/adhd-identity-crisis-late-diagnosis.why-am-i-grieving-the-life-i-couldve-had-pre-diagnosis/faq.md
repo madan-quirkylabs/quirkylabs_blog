@@ -23,10 +23,10 @@
 
 #### **Social Scripts**
 **Q: How do I explain to my partner why I'm so upset about this now?**
-**A:** AI-generated script: *“My ADHD diagnosis has brought up a lot of feelings about my past, and sometimes I feel a deep sadness for what I experienced without understanding. It's not about blaming anyone; it's a process of grieving. Can we just sit with this for a moment? Your understanding means the world.”* (Hero Journey Engine)
+**A:** *“My ADHD diagnosis has brought up a lot of feelings about my past, and sometimes I feel a deep sadness for what I experienced without understanding. It's not about blaming anyone; it's a process of grieving. Can we just sit with this for a moment? Your understanding means the world.”* (Hero Journey Engine)
 
 **Q: How do I explain this to my boss?**
-**A:** AI-generated script: *“My recent diagnostic journey has provided me with deeper insights into my neuro-cognitive profile, allowing me to optimize my work strategies. While this process involves some personal reflection on past experiences, I'm leveraging new, neuro-affirming frameworks to enhance my productivity and overall contribution to the team. I'm confident this will lead to even greater focus and efficiency.”* (Hero Journey Engine)
+**A:** *“My recent diagnostic journey has provided me with deeper insights into my neuro-cognitive profile, allowing me to optimize my work strategies. While this process involves some personal reflection on past experiences, I'm leveraging new, neuro-affirming frameworks to enhance my productivity and overall contribution to the team. I'm confident this will lead to even greater focus and efficiency.”* (Hero Journey Engine)
 
 #### **Advanced Tools**
 **Q: How can QuirkyLabs tools help me move forward?**

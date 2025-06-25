@@ -56,7 +56,7 @@
       "name": "How do I explain my over-apologizing to my partner?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "AI-generated script: *\"[Partner], my ADHD brain has a super sensitive rejection radar. Sometimes I apologize to avoid feeling that pain. It helps me if you can reassure me that everything is okay.\"*"
+        "text": "*\"[Partner], my ADHD brain has a super sensitive rejection radar. Sometimes I apologize to avoid feeling that pain. It helps me if you can reassure me that everything is okay.\"*"
       }
     },
     {
@@ -64,7 +64,7 @@
       "name": "What can I say to my boss about this behavior?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "AI-generated script: *\"I'm working on being more direct and less apologetic in my communication. I value clear, unambiguous feedback because it helps me focus on our goals.\"*"
+        "text": "*\"I'm working on being more direct and less apologetic in my communication. I value clear, unambiguous feedback because it helps me focus on our goals.\"*"
       }
     },
     {

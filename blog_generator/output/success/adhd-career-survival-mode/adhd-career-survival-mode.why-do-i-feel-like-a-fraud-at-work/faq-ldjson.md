@@ -56,7 +56,7 @@
       "name": "How do I explain my struggles with feeling like an imposter to my partner?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "AI-generated script: *\"Sometimes, because of my ADHD, I feel like I'm constantly faking it at work, even when I'm successful. It's called imposter syndrome, and it's really draining. Can we just talk tonight about some of the things you genuinely admire about my work or my abilities? It helps me combat that internal critic.\"*"
+        "text": "*\"Sometimes, because of my ADHD, I feel like I'm constantly faking it at work, even when I'm successful. It's called imposter syndrome, and it's really draining. Can we just talk tonight about some of the things you genuinely admire about my work or my abilities? It helps me combat that internal critic.\"*"
       }
     },
     {

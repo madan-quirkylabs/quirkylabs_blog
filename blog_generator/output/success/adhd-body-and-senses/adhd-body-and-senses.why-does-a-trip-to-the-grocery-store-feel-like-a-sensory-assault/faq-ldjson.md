@@ -56,7 +56,7 @@
       "name": "How do I explain my sensory sensitivities to my partner without sounding like I'm complaining?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "AI-generated script: *\"Honey, my ADHD brain processes sensory input differently, and busy places like the grocery store can be physically overwhelming, almost like a 'sensory assault'. It’s not about being dramatic; it’s how my brain is wired. Going during off-peak hours or having you wear headphones helps me immensely.\"*"
+        "text": "*\"Honey, my ADHD brain processes sensory input differently, and busy places like the grocery store can be physically overwhelming, almost like a 'sensory assault'. It’s not about being dramatic; it’s how my brain is wired. Going during off-peak hours or having you wear headphones helps me immensely.\"*"
       }
     },
     {

@@ -33,7 +33,7 @@
 #### **Category 4: Social Scripts**
 
 **Q: How do I explain my planner abandonment to my partner?**
-**A:** AI-generated script: *"[Partner], you know how my brain sometimes struggles to 'switch on' for mundane tasks? It's not about being lazy; it's a specific neural circuit that needs a little nudge. When you see me stuck, a gentle 'brain fog' emoji can signal a need for external initiation support. We're working on making this brain more efficient!"*
+**A:** *"[Partner], you know how my brain sometimes struggles to 'switch on' for mundane tasks? It's not about being lazy; it's a specific neural circuit that needs a little nudge. When you see me stuck, a gentle 'brain fog' emoji can signal a need for external initiation support. We're working on making this brain more efficient!"*
 
 #### **Category 5: Advanced Tools**
 

@@ -41,13 +41,13 @@
 
 #### **Social Scripts**
 **Q: How do I explain my money struggles to my partner without feeling ashamed?**
-**A:** AI-generated script: *"[Partner], my ADHD brain makes it hard to manage money in the same way neurotypical people do. Can we try using visual reminders and automating bills together to make it easier for both of us?"*
+**A:** *"[Partner], my ADHD brain makes it hard to manage money in the same way neurotypical people do. Can we try using visual reminders and automating bills together to make it easier for both of us?"*
 
 **Q: How can I ask for help without feeling like a burden?**
-**A:** AI-generated script: *"Hey [Friend/Family], I'm struggling with [specific financial task] because of my ADHD. Would you be willing to help me with [specific action], even just for 30 minutes? It would make a huge difference."*
+**A:** *"Hey [Friend/Family], I'm struggling with [specific financial task] because of my ADHD. Would you be willing to help me with [specific action], even just for 30 minutes? It would make a huge difference."*
 
 **Q: How do I explain the "ADHD Tax" to someone who doesn't understand?**
-**A:** AI-generated script: *"Think of it like this: ADHD makes it harder to remember deadlines and avoid impulsive decisions. That leads to late fees, forgotten subscriptions, and unnecessary purchases – basically, a hidden tax on having ADHD."*
+**A:** *"Think of it like this: ADHD makes it harder to remember deadlines and avoid impulsive decisions. That leads to late fees, forgotten subscriptions, and unnecessary purchases – basically, a hidden tax on having ADHD."*
 
 #### **Advanced Tools**
 **Q: How does the QuirkyLabs "ADHD Financial Freedom Checklist" short-circuit financial overwhelm?**

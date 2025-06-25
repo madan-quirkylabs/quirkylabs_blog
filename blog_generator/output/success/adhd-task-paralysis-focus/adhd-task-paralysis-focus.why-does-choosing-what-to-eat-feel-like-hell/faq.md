@@ -35,7 +35,7 @@
 
 #### **Category 4: Social Scripts**
 **Q: How do I explain this to my partner?**
-**A:** AI-generated script: *"Honey, when I'm staring at the fridge, my brain isn't being picky, it's literally crashing from too much data. The most helpful thing you can do is just offer me two simple choices. It saves me from a total shutdown."* This can help them understand the neurobiological basis of your struggle.
+**A:** *"Honey, when I'm staring at the fridge, my brain isn't being picky, it's literally crashing from too much data. The most helpful thing you can do is just offer me two simple choices. It saves me from a total shutdown."* This can help them understand the neurobiological basis of your struggle.
 
 **Q: How do I explain my food choices to my boss when ordering lunch for a team meeting?**
 **A:** AI-generated script, *optimized for professional tone, if discussing lunch for a team meeting*: 'To keep things moving efficiently, I find it's always best to narrow our lunch options down to two choices beforehand. It saves everyone from decision fatigue so we can focus on the meeting's goals.'" This will help them understand the need for simplicity.

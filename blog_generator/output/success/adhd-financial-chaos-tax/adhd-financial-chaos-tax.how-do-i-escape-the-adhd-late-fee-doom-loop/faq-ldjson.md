@@ -56,7 +56,7 @@
       "name": "How do I explain my financial struggles to my partner without feeling ashamed?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "AI-generated script: *\"[Partner], my ADHD brain struggles with financial tasks due to executive dysfunction and time blindness. Can we try setting up automated payments together to make things easier?\"* Open communication can help build understanding and reduce shame."
+        "text": "*\"[Partner], my ADHD brain struggles with financial tasks due to executive dysfunction and time blindness. Can we try setting up automated payments together to make things easier?\"* Open communication can help build understanding and reduce shame."
       }
     },
     {

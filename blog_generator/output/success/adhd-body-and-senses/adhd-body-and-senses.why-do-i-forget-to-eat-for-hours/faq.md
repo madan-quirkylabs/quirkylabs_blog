@@ -30,7 +30,7 @@ Mamen (2017) emphasizes practical, low-barrier strategies for self-care.
 
 #### **Category 4: Social Scripts**
 **Q: How do I explain my forgotten meals to my partner without feeling judged?**
-**A:** AI-generated script: *"[Partner], my ADHD brain sometimes misses internal hunger signals, especially when I'm hyperfocused. It’s not about ignoring you or food; it's an interoception thing. A gentle, pre-arranged 'food alert signal' (e.g., a specific emoji or a visible snack) helps me re-tune."*
+**A:** *"[Partner], my ADHD brain sometimes misses internal hunger signals, especially when I'm hyperfocused. It’s not about ignoring you or food; it's an interoception thing. A gentle, pre-arranged 'food alert signal' (e.g., a specific emoji or a visible snack) helps me re-tune."*
 
 #### **Category 5: Advanced Tools**
 **Q: How does the QuirkyLabs 'Digital Dopamine Reset' help me remember to eat?**

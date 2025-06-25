@@ -85,7 +85,7 @@
       "name": "How do I explain my rumination to my partner who doesn’t understand?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "AI-generated script: *\"Honey, my ADHD brain sometimes gets ‘stuck’ on replaying things I’ve said or done. It’s like a song on repeat I can’t turn off. When you see me get quiet and distant, a gentle interruption with a totally different topic can actually help pull me out of the loop.\"*"
+        "text": "*\"Honey, my ADHD brain sometimes gets ‘stuck’ on replaying things I’ve said or done. It’s like a song on repeat I can’t turn off. When you see me get quiet and distant, a gentle interruption with a totally different topic can actually help pull me out of the loop.\"*"
       }
     },
     {
@@ -93,7 +93,7 @@
       "name": "How can I tell my boss that I'm having trouble moving on from a mistake without sounding incompetent?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "AI-generated script: *\"I find that I do my best analysis when I can process feedback and then move on to the next task. I've developed a system to compartmentalize and maintain forward momentum to ensure I'm always focused on the highest priority.\"*"
+        "text": "*\"I find that I do my best analysis when I can process feedback and then move on to the next task. I've developed a system to compartmentalize and maintain forward momentum to ensure I'm always focused on the highest priority.\"*"
       }
     },
     {
@@ -232,10 +232,10 @@ This forces a shift to external sensory input, breaking the loop.
 #### **Category 4: Social Scripts**
 
 **Q: How do I explain my rumination to my partner who doesn’t understand?**
-**A:** AI-generated script: *"Honey, my ADHD brain sometimes gets ‘stuck’ on replaying things I’ve said or done. It’s like a song on repeat I can’t turn off. When you see me get quiet and distant, a gentle interruption with a totally different topic can actually help pull me out of the loop."*
+**A:** *"Honey, my ADHD brain sometimes gets ‘stuck’ on replaying things I’ve said or done. It’s like a song on repeat I can’t turn off. When you see me get quiet and distant, a gentle interruption with a totally different topic can actually help pull me out of the loop."*
 
 **Q: How can I tell my boss that I'm having trouble moving on from a mistake without sounding incompetent?**
-**A:** AI-generated script: *"I find that I do my best analysis when I can process feedback and then move on to the next task. I've developed a system to compartmentalize and maintain forward momentum to ensure I'm always focused on the highest priority."*
+**A:** *"I find that I do my best analysis when I can process feedback and then move on to the next task. I've developed a system to compartmentalize and maintain forward momentum to ensure I'm always focused on the highest priority."*
 
 #### **Category 5: Advanced Tools**
 

@@ -56,7 +56,7 @@
       "name": "How do I explain my job history to a potential employer without sounding flaky?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "AI-generated script: *\"I'm someone who thrives on new challenges and learning opportunities. While my resume may show a variety of roles, each one has given me valuable skills and experiences that I'm excited to bring to this position. I'm now looking for a place where I can apply my diverse skillset and contribute to a company long-term.\"*"
+        "text": "*\"I'm someone who thrives on new challenges and learning opportunities. While my resume may show a variety of roles, each one has given me valuable skills and experiences that I'm excited to bring to this position. I'm now looking for a place where I can apply my diverse skillset and contribute to a company long-term.\"*"
       }
     },
     {
@@ -64,7 +64,7 @@
       "name": "How do I explain my ADHD-related struggles to my partner so they understand why I might be looking for a new job again?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "AI-generated script: *\"[Partner], my ADHD brain has a deep need for novelty and stimulation, and sometimes my current job feels really draining because of it. It's not about being ungrateful or disloyal; it's how my brain is wired. Can we brainstorm ways to add more 'dopamine hits' to my work, or explore career paths that better align with my need for variety?\"*"
+        "text": "*\"[Partner], my ADHD brain has a deep need for novelty and stimulation, and sometimes my current job feels really draining because of it. It's not about being ungrateful or disloyal; it's how my brain is wired. Can we brainstorm ways to add more 'dopamine hits' to my work, or explore career paths that better align with my need for variety?\"*"
       }
     },
     {

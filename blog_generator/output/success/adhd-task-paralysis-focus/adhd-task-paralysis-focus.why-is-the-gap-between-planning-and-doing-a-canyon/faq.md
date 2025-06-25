@@ -33,10 +33,10 @@
 #### **Category 4: Social Scripts**
 
 **Q: How do I explain this "intention-action gap" to my partner without sounding like I'm making excuses?**
-**A:** AI-generated script: *"[Partner], my ADHD brain sees planning as the fun part, but switching to 'doing' is like shifting gears without a clutch. When you see me with a finished plan, celebrating that with me for a minute before I start is a huge help."*
+**A:** *"[Partner], my ADHD brain sees planning as the fun part, but switching to 'doing' is like shifting gears without a clutch. When you see me with a finished plan, celebrating that with me for a minute before I start is a huge help."*
 
 **Q: What can I say to my boss if I'm always late with deadlines because of this planning-paralysis cycle?**
-**A:** AI-generated script: *"My strategic process involves a thorough planning phase to ensure optimal execution. I've found that building in a brief 'transition' period between planning and hands-on work allows me to activate my deep focus most effectively, leading to higher quality results."*
+**A:** *"My strategic process involves a thorough planning phase to ensure optimal execution. I've found that building in a brief 'transition' period between planning and hands-on work allows me to activate my deep focus most effectively, leading to higher quality results."*
 
 #### **Category 5: Advanced Tools**
 

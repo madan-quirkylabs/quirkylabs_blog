@@ -109,7 +109,7 @@
       "name": "How do I explain my constant forgetfulness to my partner?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "AI-generated script: *\"[Partner], my brain's RAM is a bit leaky, so I can lose my train of thought easily. It's not that I'm not listening. If you see me looking lost, just gently ask 'What was the mission?'—it helps me get back on track without feeling ashamed.\"*"
+        "text": "*\"[Partner], my brain's RAM is a bit leaky, so I can lose my train of thought easily. It's not that I'm not listening. If you see me looking lost, just gently ask 'What was the mission?'—it helps me get back on track without feeling ashamed.\"*"
       }
     },
     {
@@ -117,7 +117,7 @@
       "name": "How can I communicate my need for clear instructions at work?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "AI-generated script: *\"[Boss], To ensure I capture all the details, I use a robust note-taking system. If you give me a multi-step task, allowing me a moment to write it down ensures I can execute it perfectly without losing any steps.\"*"
+        "text": "*\"[Boss], To ensure I capture all the details, I use a robust note-taking system. If you give me a multi-step task, allowing me a moment to write it down ensures I can execute it perfectly without losing any steps.\"*"
       }
     },
     {
@@ -125,7 +125,7 @@
       "name": "How do I explain to my family that my brain gets wiped by digital distractions?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "AI-generated script: *\"Hey, I'm not ignoring you, my ADHD brain just has trouble filtering distractions. Can we try to keep conversations short and sweet, or maybe write down what we need to talk about?\"*"
+        "text": "*\"Hey, I'm not ignoring you, my ADHD brain just has trouble filtering distractions. Can we try to keep conversations short and sweet, or maybe write down what we need to talk about?\"*"
       }
     },
     {
@@ -267,13 +267,13 @@ For the Overwhelmed: If you skipped here, just do this: Say your next intended a
 
 #### **Social Scripts**
 **Q: How do I explain my constant forgetfulness to my partner?**
-**A:** AI-generated script: *"[Partner], my brain's RAM is a bit leaky, so I can lose my train of thought easily. It's not that I'm not listening. If you see me looking lost, just gently ask 'What was the mission?'—it helps me get back on track without feeling ashamed."*
+**A:** *"[Partner], my brain's RAM is a bit leaky, so I can lose my train of thought easily. It's not that I'm not listening. If you see me looking lost, just gently ask 'What was the mission?'—it helps me get back on track without feeling ashamed."*
 
 **Q: How can I communicate my need for clear instructions at work?**
-**A:** AI-generated script: *"[Boss], To ensure I capture all the details, I use a robust note-taking system. If you give me a multi-step task, allowing me a moment to write it down ensures I can execute it perfectly without losing any steps."*
+**A:** *"[Boss], To ensure I capture all the details, I use a robust note-taking system. If you give me a multi-step task, allowing me a moment to write it down ensures I can execute it perfectly without losing any steps."*
 
 **Q: How do I explain to my family that my brain gets wiped by digital distractions?**
-**A:** AI-generated script: *"Hey, I'm not ignoring you, my ADHD brain just has trouble filtering distractions. Can we try to keep conversations short and sweet, or maybe write down what we need to talk about?"*
+**A:** *"Hey, I'm not ignoring you, my ADHD brain just has trouble filtering distractions. Can we try to keep conversations short and sweet, or maybe write down what we need to talk about?"*
 
 #### **Advanced Tools**
 **Q: How does the QuirkyLabs 'Digital Breadcrumbs' protocol short-circuit working memory failures?**

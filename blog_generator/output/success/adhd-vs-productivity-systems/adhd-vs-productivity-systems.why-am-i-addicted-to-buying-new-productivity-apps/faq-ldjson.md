@@ -56,7 +56,7 @@
       "name": "How do I explain my app cycling to my partner?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "AI-generated script: *\"Honey, you know how my brain sometimes struggles to 'switch on' for mundane tasks? It's not about being lazy; it's a specific neural circuit that needs a little nudge. When you see me stuck, a gentle 'neural high-five' (e.g., a specific non-verbal cue) helps me kickstart. We're working on making this brain more efficient!\"* This is common with ADHD because of dopamine dysregulation (Volkow et al., 2011)."
+        "text": "*\"Honey, you know how my brain sometimes struggles to 'switch on' for mundane tasks? It's not about being lazy; it's a specific neural circuit that needs a little nudge. When you see me stuck, a gentle 'neural high-five' (e.g., a specific non-verbal cue) helps me kickstart. We're working on making this brain more efficient!\"* This is common with ADHD because of dopamine dysregulation (Volkow et al., 2011)."
       }
     },
     {

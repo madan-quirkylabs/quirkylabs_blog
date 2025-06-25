@@ -2,10 +2,8 @@
 ---
 title: "ADHD & Over-Apologizing: Your Brain’s RSD Hypervigilance (Debug It)"
 description: "Does every interaction feel like walking on eggshells? Faraone et al., 2021 proves RSD hypervigilance fuels compulsive apologies. Neuro-Action Checklist."
-slug: "adhd-emotional-storms-rsd.why-do-i-over-apologize-for-everything"
 author: "QuirkyLabs"
 date: "2024-10-27"
-type: "page"
 categories: ["ADHD Emotional Regulation", "Rejection Sensitivity", "Self-Compassion"]
 tags: ["RSD hypervigilance", "over-apologizing", "shame", "rejection sensitivity", "emotional overwhelm", "ADHD mood swings"]
 keywords: ["why do ADHDers over-apologize", "how to stop over-apologizing with ADHD", "ADHD emotional dysregulation", "ADHD anger management", "rejection sensitive dysphoria test", "ADHD emotional regulation"]

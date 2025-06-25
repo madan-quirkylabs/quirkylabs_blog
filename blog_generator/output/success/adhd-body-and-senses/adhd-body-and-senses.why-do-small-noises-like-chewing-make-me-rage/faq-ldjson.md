@@ -56,7 +56,7 @@
       "name": "How do I explain my misophonia to my coworker without sounding crazy?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Here's an AI-generated script: \"To maintain my focus and productivity, I've found that certain auditory stimuli can be highly distracting due to a specific neurological sensitivity. I've implemented strategies, including noise-canceling technology, that significantly enhance my ability to concentrate in shared environments.\""
+        "text": "Here's an \"To maintain my focus and productivity, I've found that certain auditory stimuli can be highly distracting due to a specific neurological sensitivity. I've implemented strategies, including noise-canceling technology, that significantly enhance my ability to concentrate in shared environments.\""
       }
     },
     {

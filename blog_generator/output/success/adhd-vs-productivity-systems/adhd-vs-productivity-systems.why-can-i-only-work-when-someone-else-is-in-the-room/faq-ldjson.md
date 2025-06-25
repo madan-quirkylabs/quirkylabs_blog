@@ -48,7 +48,7 @@
       "name": "How do I ask for \"body doubling\" help when I'm in ‘Spoonie Mode’?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "AI-generated script: *\"Hey, I'm in 'Spoonie Mode' today. Would you mind just being on a video call with me while I work? Your presence really helps my brain focus.\"*"
+        "text": "*\"Hey, I'm in 'Spoonie Mode' today. Would you mind just being on a video call with me while I work? Your presence really helps my brain focus.\"*"
       }
     },
     {
@@ -56,7 +56,7 @@
       "name": "How do I explain my need for \"body doubling\" to my partner without sounding needy?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "AI-generated script: *\"[Partner], my ADHD brain sometimes needs an extra 'kickstart' to get going on tasks. Having you nearby helps me focus, not because I need you to do the work, but because your presence activates my brain in a helpful way. Can we try working in the same room sometimes?\"*"
+        "text": "*\"[Partner], my ADHD brain sometimes needs an extra 'kickstart' to get going on tasks. Having you nearby helps me focus, not because I need you to do the work, but because your presence activates my brain in a helpful way. Can we try working in the same room sometimes?\"*"
       }
     },
     {

@@ -85,7 +85,7 @@
       "name": "How do I explain my misophonia to my coworker without sounding crazy?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Here's an AI-generated script: \"To maintain my focus and productivity, I've found that certain auditory stimuli can be highly distracting due to a specific neurological sensitivity. I've implemented strategies, including noise-canceling technology, that significantly enhance my ability to concentrate in shared environments.\""
+        "text": "Here's an \"To maintain my focus and productivity, I've found that certain auditory stimuli can be highly distracting due to a specific neurological sensitivity. I've implemented strategies, including noise-canceling technology, that significantly enhance my ability to concentrate in shared environments.\""
       }
     },
     {
@@ -185,7 +185,7 @@ For the Overwhelmed: If you skipped here, just do this: Take one deep breath. Se
 
 #### **Social Scripts**
 **Q: How do I explain my misophonia to my coworker without sounding crazy?**
-**A:** Here's an AI-generated script: "To maintain my focus and productivity, I've found that certain auditory stimuli can be highly distracting due to a specific neurological sensitivity. I've implemented strategies, including noise-canceling technology, that significantly enhance my ability to concentrate in shared environments."
+**A:** Here's an "To maintain my focus and productivity, I've found that certain auditory stimuli can be highly distracting due to a specific neurological sensitivity. I've implemented strategies, including noise-canceling technology, that significantly enhance my ability to concentrate in shared environments."
 
 **Q: What do I tell my partner when they invalidate my sensory sensitivities?**
 **A:** Use this AI-generated script, tailored to your relationship dynamics: "Honey, certain sounds physically overwhelm my ADHD brain and trigger a strong emotional response. It’s not your fault or about me being angry at you; it’s my brain's wiring. A gentle, pre-arranged 'sensory signal' (e.g., a specific hand gesture or emoji) helps me manage in the moment."

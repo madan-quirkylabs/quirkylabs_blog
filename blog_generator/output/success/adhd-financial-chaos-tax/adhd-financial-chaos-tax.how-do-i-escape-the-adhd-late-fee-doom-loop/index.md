@@ -85,7 +85,7 @@
       "name": "How do I explain my financial struggles to my partner without feeling ashamed?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "AI-generated script: *\"[Partner], my ADHD brain struggles with financial tasks due to executive dysfunction and time blindness. Can we try setting up automated payments together to make things easier?\"* Open communication can help build understanding and reduce shame."
+        "text": "*\"[Partner], my ADHD brain struggles with financial tasks due to executive dysfunction and time blindness. Can we try setting up automated payments together to make things easier?\"* Open communication can help build understanding and reduce shame."
       }
     },
     {
@@ -200,7 +200,7 @@ For the Overwhelmed: If you skipped here, just do this: Set one single reminder.
 #### **Category 4: Social Scripts**
 
 **Q: How do I explain my financial struggles to my partner without feeling ashamed?**
-**A:** AI-generated script: *"[Partner], my ADHD brain struggles with financial tasks due to executive dysfunction and time blindness. Can we try setting up automated payments together to make things easier?"* Open communication can help build understanding and reduce shame.
+**A:** *"[Partner], my ADHD brain struggles with financial tasks due to executive dysfunction and time blindness. Can we try setting up automated payments together to make things easier?"* Open communication can help build understanding and reduce shame.
 
 #### **Category 5: Advanced Tools**
 

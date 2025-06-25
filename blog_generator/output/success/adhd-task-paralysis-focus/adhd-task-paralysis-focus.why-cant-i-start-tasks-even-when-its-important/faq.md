@@ -30,10 +30,10 @@
 #### **Category 4: Social Scripts**
 
 **Q: How do I explain my task paralysis to my partner?**
-**A:** AI-generated script: *"[Partner], my ADHD brain struggles with the reward system, making it hard to start tasks even when they're important. Can we try breaking them down into tiny steps together?"*
+**A:** *"[Partner], my ADHD brain struggles with the reward system, making it hard to start tasks even when they're important. Can we try breaking them down into tiny steps together?"*
 
 **Q: How do I explain to my boss why I sometimes struggle to initiate tasks?**
-**A:** AI-generated script: *"To ensure I tackle high-priority projects with maximum efficiency, I use a system of breaking them down into 'sprints' with clear micro-goals. If a deadline is critical, flagging the very first small action item for me is the most effective way to get my momentum going."*
+**A:** *"To ensure I tackle high-priority projects with maximum efficiency, I use a system of breaking them down into 'sprints' with clear micro-goals. If a deadline is critical, flagging the very first small action item for me is the most effective way to get my momentum going."*
 
 #### **Category 5: Advanced Tools**
 

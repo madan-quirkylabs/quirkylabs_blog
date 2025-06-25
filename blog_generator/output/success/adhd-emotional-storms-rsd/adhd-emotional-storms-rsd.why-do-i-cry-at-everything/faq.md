@@ -36,10 +36,10 @@
 #### **Category 4: Social Scripts**
 
 **Q: How do I explain my crying spells to my partner?**
-**A:** AI-generated script: *"Honey, when I cry at what seems like nothing, it's often because my ADHD brain's 'sensory cup' is full and has overflowed. It’s not about the specific thing, but the buildup. Giving me a quiet moment to reset helps more than asking what's wrong."*
+**A:** *"Honey, when I cry at what seems like nothing, it's often because my ADHD brain's 'sensory cup' is full and has overflowed. It’s not about the specific thing, but the buildup. Giving me a quiet moment to reset helps more than asking what's wrong."*
 
 **Q: How do I explain my emotional reactions to my boss?**
-**A:** AI-generated script: *"I perform at my best when I can proactively manage my sensory environment to maintain optimal focus. Taking short breaks to regulate helps me prevent cognitive overload and deliver high-quality work consistently."*
+**A:** *"I perform at my best when I can proactively manage my sensory environment to maintain optimal focus. Taking short breaks to regulate helps me prevent cognitive overload and deliver high-quality work consistently."*
 
 #### **Category 5: Advanced Tools**
 

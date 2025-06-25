@@ -26,10 +26,10 @@
 
 #### **Category 4: Social Scripts**
 **Q: How do I explain my "tired but wired" state to my partner?**
-**A:** AI-generated script: *"[Partner], my ADHD brain sometimes feels like a racecar with no brakes at night, even when I'm exhausted. It’s not laziness; it's a specific neural overactivity. A gentle, pre-arranged 'quiet signal' (e.g., a specific emoji) helps me shift gears."*
+**A:** *"[Partner], my ADHD brain sometimes feels like a racecar with no brakes at night, even when I'm exhausted. It’s not laziness; it's a specific neural overactivity. A gentle, pre-arranged 'quiet signal' (e.g., a specific emoji) helps me shift gears."*
 
 **Q: How do I communicate my need for a quiet environment before bed to my family?**
-**A:** AI-generated script: *"Hey everyone, I'm working on improving my sleep, and it's really important for my ADHD brain to have a calm environment before bed. Could we keep the noise down after [time] so I can wind down properly? It would make a huge difference for me."*
+**A:** *"Hey everyone, I'm working on improving my sleep, and it's really important for my ADHD brain to have a calm environment before bed. Could we keep the noise down after [time] so I can wind down properly? It would make a huge difference for me."*
 
 #### **Category 5: Advanced Tools**
 **Q: How does the QuirkyLabs 'Adaptive App Firewall' help with sleep?**

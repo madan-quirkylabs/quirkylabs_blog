@@ -187,7 +187,7 @@ Act as QuirkyLabs' Neuro-Content Architect. Generate a **categorized FAQ schema*
 
 #### **Category 4: Social Scripts**  
 **Q: How do I explain [behavior] to my [person]?**  
-**A:** AI-generated script: *"[Partner], my ADHD brain [neuro-mechanism]. Can we try [accommodation]?"*  
+**A:** *"[Partner], my ADHD brain [neuro-mechanism]. Can we try [accommodation]?"*  
 
 #### **Category 5: Advanced Tools**  
 **Q: How does [QuirkyLabs tool] short-circuit [pain_point]?**  

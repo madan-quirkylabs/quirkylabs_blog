@@ -85,7 +85,7 @@
       "name": "How do I explain to my best friend why I'm still struggling with this breakup weeks later?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "AI-generated script: *\"Hey [Friend], my ADHD brain processes emotional pain, especially from breakups, much more intensely due to emotional dysregulation and RSD. It's not 'just being sensitive'; it feels physically painful. Can you just listen and validate that this is hard for me right now?\"*"
+        "text": "*\"Hey [Friend], my ADHD brain processes emotional pain, especially from breakups, much more intensely due to emotional dysregulation and RSD. It's not 'just being sensitive'; it feels physically painful. Can you just listen and validate that this is hard for me right now?\"*"
       }
     },
     {
@@ -93,7 +93,7 @@
       "name": "How do I tell my boss I need a mental health day after a particularly rough breakup-related meltdown?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "AI-generated script: *\"I'm currently navigating a significant personal transition that requires additional emotional regulation strategies. I've implemented a robust self-care protocol, including neuro-affirming techniques, to ensure I maintain my focus and productivity while processing this. I appreciate your understanding as I leverage these tools to ensure continued high performance.\"*"
+        "text": "*\"I'm currently navigating a significant personal transition that requires additional emotional regulation strategies. I've implemented a robust self-care protocol, including neuro-affirming techniques, to ensure I maintain my focus and productivity while processing this. I appreciate your understanding as I leverage these tools to ensure continued high performance.\"*"
       }
     },
     {
@@ -245,10 +245,10 @@ For the Overwhelmed: If you skipped here, just do this: Find something soft to t
 #### **Category 4: Social Scripts**
 
 **Q: How do I explain to my best friend why I'm still struggling with this breakup weeks later?**
-**A:** AI-generated script: *"Hey [Friend], my ADHD brain processes emotional pain, especially from breakups, much more intensely due to emotional dysregulation and RSD. It's not 'just being sensitive'; it feels physically painful. Can you just listen and validate that this is hard for me right now?"*
+**A:** *"Hey [Friend], my ADHD brain processes emotional pain, especially from breakups, much more intensely due to emotional dysregulation and RSD. It's not 'just being sensitive'; it feels physically painful. Can you just listen and validate that this is hard for me right now?"*
 
 **Q: How do I tell my boss I need a mental health day after a particularly rough breakup-related meltdown?**
-**A:** AI-generated script: *"I'm currently navigating a significant personal transition that requires additional emotional regulation strategies. I've implemented a robust self-care protocol, including neuro-affirming techniques, to ensure I maintain my focus and productivity while processing this. I appreciate your understanding as I leverage these tools to ensure continued high performance."*
+**A:** *"I'm currently navigating a significant personal transition that requires additional emotional regulation strategies. I've implemented a robust self-care protocol, including neuro-affirming techniques, to ensure I maintain my focus and productivity while processing this. I appreciate your understanding as I leverage these tools to ensure continued high performance."*
 
 #### **Category 5: Advanced Tools**
 

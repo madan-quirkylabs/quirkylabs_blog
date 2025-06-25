@@ -29,10 +29,10 @@
 
 #### **Social Scripts**
 **Q: How do I explain this feeling to my partner without sounding like I'm making excuses?**
-**A:** AI-generated script: *"[Partner], sometimes, because of my ADHD, I feel like I'm just a bundle of symptoms, not a person. It's really hard for me to see myself fully sometimes. Can we talk about my strengths tonight, the things you appreciate about me, rather than focusing on my challenges? It helps me see myself as a whole person."*
+**A:** *"[Partner], sometimes, because of my ADHD, I feel like I'm just a bundle of symptoms, not a person. It's really hard for me to see myself fully sometimes. Can we talk about my strengths tonight, the things you appreciate about me, rather than focusing on my challenges? It helps me see myself as a whole person."*
 
 **Q: How do I tell my boss that my approach might be different but equally effective?**
-**A:** AI-generated script: *"I've gained a deeper understanding of my cognitive profile, which has allowed me to better leverage my unique strengths (e.g., creative problem-solving, hyperfocus on engaging tasks). I'm focusing on integrating these into my workflow to maximize my contribution, recognizing that my approach might be different but equally effective."*
+**A:** *"I've gained a deeper understanding of my cognitive profile, which has allowed me to better leverage my unique strengths (e.g., creative problem-solving, hyperfocus on engaging tasks). I'm focusing on integrating these into my workflow to maximize my contribution, recognizing that my approach might be different but equally effective."*
 
 #### **Advanced Tools**
 **Q: How does the QuirkyLabs Operating System help me see myself beyond my ADHD symptoms?**
