@@ -4,10 +4,8 @@ The "executive dysfunction loop" best captures the prefrontal cortex impairments
 ---
 title: "ADHD & Late Fees: The Executive Dysfunction Loop Sabotaging Your Finances (Debug It)"
 description: "Does that late fee sting? Faraone et al., 2021 proves executive dysfunction blocks bill payment. Neuro-Action Checklist."
-slug: "adhd-financial-chaos-tax.how-do-i-escape-the-adhd-late-fee-doom-loop"
 author: "QuirkyLabs"
-date: "2024-11-09"
-type: "page"
+date: "2025-06-25"
 categories: ["ADHD and Money", "Executive Dysfunction", "Financial Avoidance"]
 tags: ["executive dysfunction loop", "financial avoidance", "overwhelm", "time blindness", "late fees", "ADHD tax"]
 keywords: ["why do ADHDers struggle with bills", "how to pay bills with ADHD", "ADHD YNAB setup", "ADHD budgeting", "ADHD money problems", "executive function financial chaos"]
